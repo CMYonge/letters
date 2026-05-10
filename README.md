@@ -6,12 +6,9 @@ converted from a legacy WordPress database into a static website hosted on GitHu
 Live site (demo): https://cmyonge.github.io/demo_letters  
 Target domain: charlottemyonge.org.uk (forthcoming)
 
----
-
 ## Repository Structure
 
 The repository contains two main folders. The pipeline folder holds the four R scripts that build the website. The data folder holds the source CSV files which are the canonical data for the project. The root level contains _quarto.yml (Quarto website configuration), styles.css (custom styling), and this README.
----
 
 ## Pipeline
 
