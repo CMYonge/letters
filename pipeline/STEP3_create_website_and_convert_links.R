@@ -1,5 +1,15 @@
-# STEP3_create_website_and_convert_links_CORRECTED.R
-# Creates website structure, copies files, converts [[tags]] to links
+# STEP3_create_website_and_convert_links_May26.R
+# Creates website structure, copies files, converts [[tags]] to links,
+# and injects Zotero-compatible citation metadata into letter pages.
+#
+# Changes from Apr26:
+#   - letterinfo + posts loaded in Part 3 so Part 5 can use them for citations
+#   - make_citation_yaml() and inject_citation_yaml() functions added
+#   - Part 5 letter loop injects citation: YAML block per letter
+#   - _quarto.yml: added title-block-style: plain
+#   - styles.css: .quarto-title-meta already hidden; added commented-out
+#     .quarto-appendix rule (uncomment to hide "How to cite" section)
+#   - site_base_url: update when domain goes live
 
 library(dplyr)
 library(readr)
@@ -11,24 +21,27 @@ letter_source <- "C:/db/all_letters_qmd_Apr26"
 ref_source    <- "C:/db/reference_pages_qmd_Apr26"
 website_dir   <- "C:/db/cmy_letters_website_Apr"
 
+# Update this when charlottemyonge.org.uk goes live
+site_base_url <- "https://cmyonge.github.io/letters"
+
 cat("STEP 3: Building website structure\n\n")
 
 ##### FUNCTION: PARSE DATE TO ISO FORMAT #####
 
 parse_iso_date <- function(date_str) {
   if (is.na(date_str) || date_str == "") return("")
-  
+
   year <- NA
   m <- str_match(date_str, "(\\d{4})")
   if (!is.na(m[1,2])) year <- m[1,2]
-  
+
   if (is.na(year)) {
     m <- str_match(date_str, "\\[(\\d{4})\\]")
     if (!is.na(m[1,2])) year <- m[1,2]
   }
-  
+
   if (is.na(year)) return("")
-  
+
   months <- c(
     jan = "01", january = "01",
     feb = "02", febry = "02", february = "02",
@@ -43,7 +56,7 @@ parse_iso_date <- function(date_str) {
     nov = "11", november = "11",
     dec = "12", december = "12"
   )
-  
+
   month <- "01"
   date_lower <- tolower(date_str)
   for (mon_name in names(months)) {
@@ -52,15 +65,80 @@ parse_iso_date <- function(date_str) {
       break
     }
   }
-  
+
   day <- "01"
   m <- str_match(date_str, "\\b(\\d{1,2})(?:st|nd|rd|th)?\\b")
   if (!is.na(m[1,2])) {
     d <- as.integer(m[1,2])
     if (d >= 1 && d <= 31) day <- sprintf("%02d", d)
   }
-  
+
   return(paste0(year, "-", month, "-", day))
+}
+
+##### FUNCTION: MAKE CITATION YAML BLOCK #####
+# Builds a Quarto citation: block for a letter page.
+# Quarto converts this to Highwire Press + Dublin Core meta tags,
+# which Zotero and other reference managers can import directly.
+
+make_citation_yaml <- function(post_id, post_title, iso_date, post_name) {
+  
+  safe_title <- gsub('"', "'", post_title, fixed = TRUE)
+  safe_title <- trimws(safe_title)
+  
+  issued_line <- if (!is.na(iso_date) && nchar(iso_date) >= 4) {
+    paste0('  issued: "', iso_date, '"')
+  } else {
+    NULL
+  }
+  
+  url_line <- paste0(
+    '  url: "', site_base_url, '/letters/',
+    post_id, '-', post_name, '"'
+  )
+  
+  lines <- c(
+    "citation:",
+    "  type: personal_communication",
+    "  author:",
+    "    - family: Yonge",
+    "      given: Charlotte Mary",
+    "  editor:",
+    "    - family: Mitchell",
+    "      given: Charlotte",
+    "    - family: Jordan",
+    "      given: Ellen",
+    "    - family: Schinske",
+    "      given: Helen",
+    paste0('  title: "', safe_title, '"'),
+    '  container-title: "The Letters of Charlotte Mary Yonge"',
+    issued_line,
+    url_line
+  )
+  
+  paste(lines[!sapply(lines, is.null)], collapse = "\n")
+}
+
+##### FUNCTION: INJECT CITATION YAML INTO FRONT MATTER #####
+# Inserts citation block inside existing YAML front matter,
+# before the closing ---, leaving all other content unchanged.
+
+inject_citation_yaml <- function(content_text, citation_yaml) {
+
+  lines     <- strsplit(content_text, "\n", fixed = TRUE)[[1]]
+  yaml_ends <- which(lines == "---")
+
+  if (length(yaml_ends) < 2) {
+    warning("Could not find YAML front matter — citation not injected")
+    return(content_text)
+  }
+
+  close_idx      <- yaml_ends[2]
+  before_close   <- lines[1:(close_idx - 1)]
+  from_close     <- lines[close_idx:length(lines)]
+  citation_lines <- strsplit(citation_yaml, "\n", fixed = TRUE)[[1]]
+
+  paste(c(before_close, citation_lines, from_close), collapse = "\n")
 }
 
 ##### PART 1: CREATE WEBSITE STRUCTURE #####
@@ -69,6 +147,7 @@ cat("Part 1: Creating website folders...\n")
 
 dir.create(website_dir,                                    showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "letters"),              showWarnings = FALSE, recursive = TRUE)
+dir.create(file.path(website_dir, "letters", "decades"),   showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "people"),               showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "organizations"),        showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "cmy_books"),            showWarnings = FALSE, recursive = TRUE)
@@ -97,6 +176,20 @@ website:
         href: people/index.qmd
       - text: "Organizations"
         href: organizations/index.qmd
+      - text: "Decades"
+        menu:
+          - text: "1834\u20131849"
+            href: letters/decades/3733-letters-1834-1849.qmd
+          - text: "1850\u20131859"
+            href: letters/decades/3735-letters-1850-1859.qmd
+          - text: "1860\u20131869"
+            href: letters/decades/3737-letters-1860-1869.qmd
+          - text: "1870\u20131879"
+            href: letters/decades/3740-letters-1870-1879.qmd
+          - text: "1880\u20131889"
+            href: letters/decades/3750-letters-1880-1889.qmd
+          - text: "1890\u20131901"
+            href: letters/decades/3752-letters-1890-1901.qmd
       - text: "CMY Bibliography"
         href: cmy_books/index.qmd
       - text: "General Bibliography"
@@ -107,8 +200,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    toc-depth: 2
+    toc: false
+    title-block-style: plain
 '
 
 writeLines(quarto_config, file.path(website_dir, "_quarto.yml"))
@@ -142,7 +235,6 @@ converted to a static website for long-term preservation and accessibility.*
 
 writeLines(index_content, file.path(website_dir, "index.qmd"))
 
-# Placeholder index pages — will be overwritten by Parts 7-11
 writeLines('---\ntitle: "Letters"\n---\n\nLetters are listed chronologically below.\n',
            file.path(website_dir, "letters", "index.qmd"))
 writeLines('---\ntitle: "People"\n---\n\nBiographical information about correspondents and people mentioned in the letters.\n',
@@ -162,7 +254,8 @@ body {
   line-height: 1.6;
 }
 
-/* Hide Quarto auto-generated title metadata (Published date) */
+/* Hide Quarto auto-generated title metadata (Published date etc.)
+   Belt-and-braces with title-block-style: plain in _quarto.yml */
 .quarto-title-meta {
   display: none;
 }
@@ -179,12 +272,24 @@ body {
   color: #555;
   margin-bottom: 1em;
 }
+
+/* Citation appendix ("How to cite this letter") generated by Quarto
+   when citation: is present in page YAML.
+   By default this IS shown — useful for researchers.
+   Uncomment to hide it. */
+/*
+.quarto-appendix {
+  display: none;
+}
+*/
 '
 
 writeLines(css_content, file.path(website_dir, "styles.css"))
 cat("✓ Created config files\n\n")
 
 ##### PART 3: LOAD LOOKUP TABLES #####
+# NB: letterinfo and posts loaded here (not just Part 7) so that
+# Part 5 can build citation metadata for each letter.
 
 cat("Part 3: Loading lookup tables...\n")
 
@@ -196,6 +301,12 @@ person_links <- read_csv("C:/db/wp_persons_posts.csv",            show_col_types
 other_links  <- read_csv("C:/db/wp_others_posts.csv",             show_col_types = FALSE)
 cmy_links    <- read_csv("C:/db/wp_cmybibliography_posts.csv",    show_col_types = FALSE)
 gen_links    <- read_csv("C:/db/wp_generalbibliography_posts.csv",show_col_types = FALSE)
+
+# Loaded early for citation injection in Part 5
+letterinfo   <- read_csv("C:/db/wp_letterinfo.csv",
+                         show_col_types = FALSE,
+                         col_types = cols(letter_date = col_character()))
+posts        <- read_csv("C:/db/wp_posts.csv", show_col_types = FALSE)
 
 get_person_name <- function(id) {
   person <- persons %>% filter(persons_id == id)
@@ -217,29 +328,26 @@ get_other_name <- function(id) {
 get_cmy_title <- function(id) {
   book <- cmy_bib %>% filter(cmy_bookID == id)
   if (nrow(book) == 0) return(paste("CMY Book", id))
-  title <- book$title[1]
-  title <- str_replace_all(title, "<[^>]+>", "")
-  title <- trimws(title)
-  return(title)
+  title <- str_replace_all(book$title[1], "<[^>]+>", "")
+  return(trimws(title))
 }
 
 get_gen_title <- function(id) {
   book <- gen_bib %>% filter(general_bookID == id)
   if (nrow(book) == 0) return(paste("Book", id))
-  title <- book$title[1]
-  title <- str_replace_all(title, "<[^>]+>", "")
-  title <- trimws(title)
-  return(title)
+  title <- str_replace_all(book$title[1], "<[^>]+>", "")
+  return(trimws(title))
 }
+
 cat("✓ Lookup tables loaded\n\n")
 
 ##### PART 4: FUNCTION TO CONVERT TAGS TO LINKS #####
 
 convert_tags_and_fix_yaml <- function(filepath, file_location) {
-  
+
   content      <- readLines(filepath, warn = FALSE, encoding = "UTF-8")
   content_text <- paste(content, collapse = "\n")
-  
+
   if (file_location == "letters") {
     person_path <- "../people/person_"
     org_path    <- "../organizations/other_"
@@ -266,9 +374,8 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
     cmy_path    <- "../cmy_books/cmybook_"
     book_path   <- "otherbook_"
   }
-  
+
   # --- Person tags ---
-  # Handle display text format first: [[person:123]Friend]
   person_display <- str_match_all(content_text, "\\[\\[person:(\\d+)\\]([^\\]]+)\\]")[[1]]
   if (nrow(person_display) > 0) {
     for (i in 1:nrow(person_display)) {
@@ -279,7 +386,6 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
       content_text <- str_replace(content_text, fixed(tag), link)
     }
   }
-  # Handle plain format: [[person:123]]
   person_matches <- str_match_all(content_text, "\\[\\[person:(\\d+)\\]\\]")[[1]]
   if (nrow(person_matches) > 0) {
     for (i in 1:nrow(person_matches)) {
@@ -290,7 +396,7 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
       content_text <- str_replace(content_text, fixed(tag), link)
     }
   }
-  
+
   # --- Other tags ---
   other_display <- str_match_all(content_text, "\\[\\[other:(\\d+)\\]([^\\]]+)\\]")[[1]]
   if (nrow(other_display) > 0) {
@@ -312,7 +418,7 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
       content_text <- str_replace(content_text, fixed(tag), link)
     }
   }
-  
+
   # --- CMY book tags ---
   cmy_display <- str_match_all(content_text, "\\[\\[cmybook:(\\d+)\\]([^\\]]+)\\]")[[1]]
   if (nrow(cmy_display) > 0) {
@@ -334,7 +440,7 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
       content_text <- str_replace(content_text, fixed(tag), link)
     }
   }
-  
+
   # --- Other book tags ---
   book_display <- str_match_all(content_text, "\\[\\[otherbook:(\\d+)\\]([^\\]]+)\\]")[[1]]
   if (nrow(book_display) > 0) {
@@ -356,31 +462,53 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
       content_text <- str_replace(content_text, fixed(tag), link)
     }
   }
-  
-  # Final safety pass — fix any remaining escaped apostrophes
+
   content_text <- gsub("\\'", "'", content_text, fixed = TRUE)
-  
   return(content_text)
 }
 
 ##### PART 5: COPY AND CONVERT LETTERS #####
+# For each letter: convert [[tags]] to links, then inject citation YAML.
 
 cat("Part 5: Processing letters...\n")
 
 letter_files      <- list.files(letter_source, pattern = "\\.qmd$", full.names = TRUE)
 letters_processed <- 0
+citation_injected <- 0
 
 for (letter_file in letter_files) {
+
   converted_content <- convert_tags_and_fix_yaml(letter_file, "letters")
-  output_file       <- file.path(website_dir, "letters", basename(letter_file))
+
+  # Inject citation metadata
+  fname   <- basename(letter_file)
+  post_id <- suppressWarnings(as.numeric(str_extract(fname, "^\\d+")))
+
+  if (!is.na(post_id)) {
+    post_row <- posts      %>% filter(post_id == !!post_id)
+    info_row <- letterinfo %>% filter(post_ID == !!post_id)
+
+    if (nrow(post_row) > 0) {
+      post_title <- if (!is.na(post_row$post_title[1])) post_row$post_title[1] else paste("Letter", post_id)
+      post_name  <- post_row$post_name[1]
+      raw_date   <- if (nrow(info_row) > 0) info_row$letter_date[1] else NA_character_
+      iso_date   <- parse_iso_date(raw_date)
+
+      citation_yaml     <- make_citation_yaml(post_id, post_title, iso_date, post_name)
+      converted_content <- inject_citation_yaml(converted_content, citation_yaml)
+      citation_injected <- citation_injected + 1
+    }
+  }
+
+  output_file <- file.path(website_dir, "letters", basename(letter_file))
   writeLines(converted_content, output_file, useBytes = TRUE)
   letters_processed <- letters_processed + 1
 }
 
-cat("✓ Processed", letters_processed, "letters\n\n")
+cat("✓ Processed", letters_processed, "letters\n")
+cat("  Citation metadata injected:", citation_injected, "\n\n")
 
-# Copy decade introduction pages
-dir.create(file.path(website_dir, "letters", "decades"), showWarnings = FALSE)
+# Copy and convert decade introduction pages
 decade_files <- list.files(file.path(letter_source, "decades"),
                            pattern = "\\.qmd$", full.names = TRUE)
 for (decade_file in decade_files) {
@@ -394,7 +522,7 @@ cat(sprintf("✓ Copied %d decade pages\n\n", length(decade_files)))
 
 cat("Part 6: Processing reference pages...\n")
 
-people_files  <- list.files(file.path(ref_source, "people"),        pattern = "\\.qmd$", full.names = TRUE)
+people_files     <- list.files(file.path(ref_source, "people"),        pattern = "\\.qmd$", full.names = TRUE)
 people_processed <- 0
 for (f in people_files) {
   writeLines(convert_tags_and_fix_yaml(f, "people"),
@@ -434,12 +562,8 @@ cat("✓ Processed", book_processed, "other book pages\n\n")
 
 cat("Part 7: Creating letters index page...\n")
 
-letterinfo <- read_csv("C:/db/wp_letterinfo.csv",
-                       show_col_types = FALSE,
-                       col_types = cols(letter_date = col_character()))
-posts      <- read_csv("C:/db/wp_posts.csv", show_col_types = FALSE)
+# NB: letterinfo and posts already loaded in Part 3
 
-# Filter to letters only (exclude decade intro pages)
 letters_df <- posts %>%
   filter(post_type == "post") %>%
   left_join(letterinfo, by = c("post_id" = "post_ID")) %>%
@@ -470,17 +594,36 @@ index_content <- paste0(
 
 decades <- sort(unique(letters_df$decade[!is.na(letters_df$decade)]))
 
+# Map floor-decade to intro page filename and display label.
+# 1830 and 1840 both point to the 1834-1849 intro page.
+decade_intro_map <- list(
+  "1830" = list(file = "decades/3733-letters-1834-1849.qmd", label = "1834\u20131849"),
+  "1840" = list(file = "decades/3733-letters-1834-1849.qmd", label = "1834\u20131849"),
+  "1850" = list(file = "decades/3735-letters-1850-1859.qmd", label = "1850\u20131859"),
+  "1860" = list(file = "decades/3737-letters-1860-1869.qmd", label = "1860\u20131869"),
+  "1870" = list(file = "decades/3740-letters-1870-1879.qmd", label = "1870\u20131879"),
+  "1880" = list(file = "decades/3750-letters-1880-1889.qmd", label = "1880\u20131889"),
+  "1890" = list(file = "decades/3752-letters-1890-1901.qmd", label = "1890\u20131901")
+)
+
 for (dec in decades) {
   decade_letters <- letters_df %>% filter(decade == dec) %>% arrange(iso_date)
   index_content  <- paste0(index_content, "## ", dec, "s\n\n")
-  
+
+  # Link to decade intro page if one exists for this floor-decade
+  intro <- decade_intro_map[[as.character(dec)]]
+  if (!is.null(intro)) {
+    index_content <- paste0(index_content,
+      "*[Introduction to letters ", intro$label, "](", intro$file, ")*\n\n")
+  }
+
   for (i in 1:nrow(decade_letters)) {
     row      <- decade_letters[i, ]
     filename <- paste0(row$post_id, "-", row$post_name, ".qmd")
     title    <- if (!is.na(row$post_title)        && row$post_title        != "") row$post_title        else paste("Letter", row$post_id)
     date     <- if (!is.na(row$letter_date)        && row$letter_date        != "") row$letter_date        else ""
     address  <- if (!is.na(row$letter_fromAddress) && row$letter_fromAddress != "") row$letter_fromAddress else ""
-    
+
     index_content <- paste0(index_content, "**[", title, "](", filename, ")**  \n")
     if (date    != "") index_content <- paste0(index_content, "*", date, "*")
     if (address != "") index_content <- paste0(index_content, " • From: ", address)
@@ -541,13 +684,13 @@ index_content <- paste0(
 for (grp in sort(unique(persons_df$letter_group))) {
   grp_persons   <- persons_df %>% filter(letter_group == grp)
   index_content <- paste0(index_content, "## ", grp, "\n\n")
-  
+
   for (i in 1:nrow(grp_persons)) {
     row         <- grp_persons[i, ]
     filename    <- paste0("person_", row$persons_id, ".qmd")
     n           <- row$n_letters
     letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
-    
+
     index_content <- paste0(index_content, "**[", row$name, "](", filename, ")**")
     if (!is.na(row$dates) && row$dates != "") index_content <- paste0(index_content, " (", row$dates, ")")
     if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
@@ -590,10 +733,10 @@ if (has_types) {
     type_orgs     <- others_df %>% filter(type == typ) %>% arrange(name)
     index_content <- paste0(index_content, "## ", typ, "\n\n")
     for (i in 1:nrow(type_orgs)) {
-      row         <- type_orgs[i, ]
-      filename    <- paste0("other_", row$others_id, ".qmd")
-      n           <- row$n_letters
-      letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
+      row           <- type_orgs[i, ]
+      filename      <- paste0("other_", row$others_id, ".qmd")
+      n             <- row$n_letters
+      letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
       index_content <- paste0(index_content, "**[", row$name, "](", filename, ")**")
       if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
       index_content <- paste0(index_content, "  \n\n")
@@ -603,10 +746,10 @@ if (has_types) {
   if (nrow(untyped) > 0) {
     index_content <- paste0(index_content, "## Other\n\n")
     for (i in 1:nrow(untyped)) {
-      row         <- untyped[i, ]
-      filename    <- paste0("other_", row$others_id, ".qmd")
-      n           <- row$n_letters
-      letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
+      row           <- untyped[i, ]
+      filename      <- paste0("other_", row$others_id, ".qmd")
+      n             <- row$n_letters
+      letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
       index_content <- paste0(index_content, "**[", row$name, "](", filename, ")**")
       if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
       index_content <- paste0(index_content, "  \n\n")
@@ -614,10 +757,10 @@ if (has_types) {
   }
 } else {
   for (i in 1:nrow(others_df)) {
-    row         <- others_df[i, ]
-    filename    <- paste0("other_", row$others_id, ".qmd")
-    n           <- row$n_letters
-    letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
+    row           <- others_df[i, ]
+    filename      <- paste0("other_", row$others_id, ".qmd")
+    n             <- row$n_letters
+    letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
     index_content <- paste0(index_content, "**[", row$name, "](", filename, ")**")
     if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
     index_content <- paste0(index_content, "  \n\n")
@@ -659,10 +802,10 @@ if (has_genres) {
     gen_books     <- cmy_df %>% filter(genre == gen) %>% arrange(date, title)
     index_content <- paste0(index_content, "## ", gen, "\n\n")
     for (i in 1:nrow(gen_books)) {
-      row         <- gen_books[i, ]
-      filename    <- paste0("cmybook_", row$cmy_bookID, ".qmd")
-      n           <- row$n_letters
-      letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
+      row           <- gen_books[i, ]
+      filename      <- paste0("cmybook_", row$cmy_bookID, ".qmd")
+      n             <- row$n_letters
+      letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
       index_content <- paste0(index_content, "**[", row$title, "](", filename, ")**")
       if (!is.na(row$date) && row$date != "") index_content <- paste0(index_content, " (", row$date, ")")
       if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
@@ -673,10 +816,10 @@ if (has_genres) {
   if (nrow(ungenred) > 0) {
     index_content <- paste0(index_content, "## Other\n\n")
     for (i in 1:nrow(ungenred)) {
-      row         <- ungenred[i, ]
-      filename    <- paste0("cmybook_", row$cmy_bookID, ".qmd")
-      n           <- row$n_letters
-      letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
+      row           <- ungenred[i, ]
+      filename      <- paste0("cmybook_", row$cmy_bookID, ".qmd")
+      n             <- row$n_letters
+      letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
       index_content <- paste0(index_content, "**[", row$title, "](", filename, ")**")
       if (!is.na(row$date) && row$date != "") index_content <- paste0(index_content, " (", row$date, ")")
       if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
@@ -685,10 +828,10 @@ if (has_genres) {
   }
 } else {
   for (i in 1:nrow(cmy_df)) {
-    row         <- cmy_df[i, ]
-    filename    <- paste0("cmybook_", row$cmy_bookID, ".qmd")
-    n           <- row$n_letters
-    letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
+    row           <- cmy_df[i, ]
+    filename      <- paste0("cmybook_", row$cmy_bookID, ".qmd")
+    n             <- row$n_letters
+    letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
     index_content <- paste0(index_content, "**[", row$title, "](", filename, ")**")
     if (!is.na(row$date) && row$date != "") index_content <- paste0(index_content, " (", row$date, ")")
     if (n > 0) index_content <- paste0(index_content, " — ", letter_text)
@@ -737,11 +880,11 @@ for (grp in sort(unique(gen_df$letter_group))) {
   grp_books     <- gen_df %>% filter(letter_group == grp)
   index_content <- paste0(index_content, "## ", grp, "\n\n")
   for (i in 1:nrow(grp_books)) {
-    row         <- grp_books[i, ]
-    filename    <- paste0("otherbook_", row$general_bookID, ".qmd")
-    n           <- row$n_letters
-    letter_text <- if (n == 1) "1 letter" else paste(n, "letters")
-    display     <- if (!is.na(row$title) && row$title != "") row$title else paste("Book", row$general_bookID)
+    row           <- grp_books[i, ]
+    filename      <- paste0("otherbook_", row$general_bookID, ".qmd")
+    n             <- row$n_letters
+    letter_text   <- if (n == 1) "1 letter" else paste(n, "letters")
+    display       <- if (!is.na(row$title) && row$title != "") row$title else paste("Book", row$general_bookID)
     if (row$author != "") display <- paste0(row$author, ", *", display, "*")
     index_content <- paste0(index_content, "**[", display, "](", filename, ")**")
     if (!is.na(row$date) && row$date != "") index_content <- paste0(index_content, " (", row$date, ")")
@@ -757,7 +900,7 @@ cat(sprintf("✓ Created general bibliography index with %d works\n\n", nrow(gen
 
 cat("✅ Website structure complete!\n\n")
 cat("Summary:\n")
-cat("  Letters:",       letters_processed, "\n")
+cat("  Letters:",       letters_processed, "(citations injected:", citation_injected, ")\n")
 cat("  People:",        people_processed,  "\n")
 cat("  Organizations:", org_processed,     "\n")
 cat("  CMY Books:",     cmy_processed,     "\n")
@@ -765,8 +908,7 @@ cat("  Other Books:",   book_processed,    "\n")
 cat("  Total files:",   letters_processed + people_processed + org_processed +
       cmy_processed + book_processed, "\n\n")
 cat("Website location:", website_dir, "\n\n")
-cat("Next step: Render the website\n")
-cat("1. Open terminal/command prompt\n")
-cat("2. cd", website_dir, "\n")
-cat("3. quarto render\n")
-cat("4. Website will be built in _site/ folder\n")
+cat("Next steps:\n")
+cat("1. Run generate_decades.R to add letter lists to decade pages\n")
+cat("2. quarto render in", website_dir, "\n")
+cat("3. Update site_base_url at top of this script when domain goes live\n")
