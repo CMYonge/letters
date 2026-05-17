@@ -304,30 +304,21 @@ convert_letter <- function(html_file) {
   
   citation_note <- "  \n*Citation metadata for this letter is available for automatic import into reference managers including Zotero, Mendeley, and EndNote.*"
   
-  if (!is_page) {
-    meta_block <- if (length(meta_lines) > 0) {
-      paste0("::: {.letter-metadata}\n",
-             paste(meta_lines, collapse = "  \n"),
-             citation_note,
-             "\n:::\n\n")
-    } else {
-      paste0("::: {.letter-metadata}\n",
-             citation_note,
-             "\n:::\n\n")
-    }
-  } else {
-    meta_block <- if (length(meta_lines) > 0) {
-      paste0("::: {.letter-metadata}\n",
-             paste(meta_lines, collapse = "  \n"),
-             "\n:::\n\n")
-    } else ""
-  } 
+  meta_block <- if (length(meta_lines) > 0) {
+    paste0("::: {.letter-metadata}\n",
+           paste(meta_lines, collapse = "  \n"),
+           "\n:::\n\n")
+  } else ""
 
   ##### COMBINE AND SAVE #####
   # Decade pages: yaml | meta | body | ## Notes
   # generate_decades.R appends: ## Letters\n{{< include _RANGE_letters.md >}}
 
-  full_content <- paste0(yaml_header, meta_block, body_html, footnote_section)
+  refman_note <- if (!is_page) {
+    "\n\n*Citation metadata for this letter is available for automatic import into reference managers including Zotero, Mendeley, and EndNote.*"
+  } else ""
+  
+  full_content <- paste0(yaml_header, meta_block, body_html, footnote_section, refman_note)
 
   if (is_page) {
     output_file <- file.path(output_dir, "decades", paste0(post_id, "-", slug, ".qmd"))
