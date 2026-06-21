@@ -1,0 +1,13 @@
+---
+title: "Elizabeth Lush"
+person_id: 1839
+---
+
+## Biographical Information
+
+sister of the Rev. Vicesimus Lush
+
+## Letters Mentioning This Person
+
+- [Letter 6729](../6729-to-elizabeth-lush.qmd)
+

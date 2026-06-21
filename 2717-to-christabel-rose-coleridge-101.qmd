@@ -1,0 +1,51 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1881-02-13"
+letter_date: "Feb 13th 1881"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2717
+letter_id: "to-christabel-rose-coleridge-101"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-02-13"
+  url: "https://cmyonge.github.io/letters/2717-to-christabel-rose-coleridge-101"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 13th 1881  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+I heard of both your troubles from [Mary Lund](people/person_907.qmd), [Miss Finlaison](people/person_512.qmd)’s scholar whose [brother](people/person_908.qmd) is with [Ernest](people/person_336.qmd), but I much doubted where you were.[^1]  I dare say your coming home made a change that was good and refreshing to all.  It was sad indeed to lose [this second boy](people/person_342.qmd), after all the sorrow for the [first](people/person_342.qmd)  I hope [the little girl](people/person_346.qmd) is strong.[^2]
+
+[The Squire](other_books/otherbook_902.qmd) has spread happily into three volumes.  Miss Ingelow is doubtless provoking in making the mother open her heart to both the children.[^3]  I have meditated long on yours, and have come to the conclusion that both being born in consequence of the same overturn was awkward, and I think it would have been better to have made the visitor arrive first as the other lady was ‘took bad’.
+
+Happily mixtures cant often happen it is so hard to bring them about!  [Money Spinner](people/person_958.qmd) has done a delightful fancy work conversation with Julia &c in it[^4]
+
+your affectionate
+C M Yonge
+
+Monday.  Can you think of any clergyman who could come at once and help [Mr Elgie](people/person_478.qmd) for a few weeks lodging at the school masters. Confirmation classes and Lent and all his music and he is vexing himself much.   I thought it just possible a St Johns curate might be disengaged.  What a misfortune that was in Torquay.
+
+---
+
+[^1]: Mary Lund, aged 16 in the 1881 census, was the oldest boarder at Miss Finlaison’s school. Her brother, aged 17, is recorded as one of the 6 boarders at the home of Christabel's brother Ernest Coleridge.
+[^2]: The Ernest Coleridges had just lost their second son John Derwent Coleridge (26 May 1880-23 January 1881), following the death of his elder brother Thomas Drake Coleridge (18 February-2 July 1877), but still had a daughter, Margaret Eulalia Coleridge (1878-1960).  The other trouble was probably the death of Christabel and Ernest's n'er do well brother Derwent in Sydney, N.S.W. on 5 December 1880.
+[^3]: This seems to be an allusion to Jean Ingelow's novel *Don John* (1881).
+[^4]: One of the [Spider](organizations/other_116.qmd) subjects for December 1880 (published in *MP*  January 1881) was ‘The pros and cons of fancy work’.  The answer given by Money Spinner (Miss Marriott) was printed in *MP* 3s 1 (March 1881) 305-8.

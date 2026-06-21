@@ -1,0 +1,15 @@
+---
+title: "Robert Southey - Roderick, the Last of the Goths"
+book_id: 222
+---
+
+## Publication Information
+
+**Date:** 1814
+
+**Imprint:** London: Longman, Hurst, Rees, Orme and Brown
+
+## Letters Mentioning This Work
+
+- [Letter 2969](../2969-to-mary-anne-dyson-9.qmd)
+

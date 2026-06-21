@@ -1,0 +1,15 @@
+---
+title: "Eleanor C. Price - The Foreigners: A Novel"
+book_id: 965
+---
+
+## Publication Information
+
+**Date:** 1883
+
+**Imprint:** London: Chatto & Windus
+
+## Letters Mentioning This Work
+
+- [Letter 2784](../2784-to-eleanor-catharine-price.qmd)
+

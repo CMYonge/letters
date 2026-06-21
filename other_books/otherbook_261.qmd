@@ -1,0 +1,15 @@
+---
+title: "Jane Austen - Jane Austen's Letters edited by Deirdre Le Faye"
+book_id: 261
+---
+
+## Publication Information
+
+**Date:** 1997
+
+**Imprint:** Oxford: OUP
+
+## Letters Mentioning This Work
+
+- [Letter 3095](../3095-frances-mary-yonge-to-anne-sturges-bourne.qmd)
+

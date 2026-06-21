@@ -1,0 +1,13 @@
+---
+title: "Miss Higginbotham"
+person_id: 693
+---
+
+## Biographical Information
+
+correspondent
+
+## Letters Mentioning This Person
+
+- [Letter 3600](../3600-to-miss-higginbotham.qmd)
+

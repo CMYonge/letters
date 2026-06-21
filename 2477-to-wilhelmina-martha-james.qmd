@@ -1,0 +1,38 @@
+---
+title: "To Wilhelmina Martha James"
+letter_iso_date: "1873-07-23"
+letter_date: "[23 July 1873]"
+manuscript: "MS Charlotte Mitchell/14"
+post_id: 2477
+letter_id: "to-wilhelmina-martha-james"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Wilhelmina Martha James"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-07-23"
+  url: "https://cmyonge.github.io/letters/2477-to-wilhelmina-martha-james"
+---
+
+::: {.letter-metadata}
+**Date:** [23 July 1873]  
+**Manuscript:** MS Charlotte Mitchell/14
+:::
+
+[To [Wilhelmina Martha James](people/person_754.qmd)]
+
+It is coming, but there were so many that we are obliged to send them to the post by instalments
+C M Yonge
+
+---
+
+**Note:** A printed postcard, addressed on reverse to ‘Miss W M James/ Clarghyll Hall/ Alston/ Carlisle’ and postmarked 23 July 1873.  James was a novelist, who contributed a story called 'Coin of the Realm' to the *MP* Christmas number of 1874 under her usual pseudonym 'Austin Clare'.  However, this enigmatic message does not seem to relate to that.

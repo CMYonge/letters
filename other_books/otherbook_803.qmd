@@ -1,0 +1,15 @@
+---
+title: "François Guizot - L' histoire de France depuis 1789 jusqu'en 1848: racontée à mes petits-enfants: leçons recueillies par Madame de Witt"
+book_id: 803
+---
+
+## Publication Information
+
+**Date:** 1878-1879
+
+**Imprint:** Paris: Hachette
+
+## Letters Mentioning This Work
+
+- [Letter 2414](../2414-to-francois-pierre-guillaume-guizot.qmd)
+

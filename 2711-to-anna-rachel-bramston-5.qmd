@@ -1,0 +1,42 @@
+---
+title: "To Anna Rachel Bramston?"
+letter_iso_date: "1880-07-07"
+letter_date: "July 7th [1880]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS  UCLA: collection 100: box 95"
+post_id: 2711
+letter_id: "to-anna-rachel-bramston-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Rachel Bramston?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-07-07"
+  url: "https://cmyonge.github.io/letters/2711-to-anna-rachel-bramston-5"
+---
+
+::: {.letter-metadata}
+**Date:** July 7th [1880]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS  UCLA: collection 100: box 95
+:::
+
+My dear [Anna](people/person_195.qmd),
+
+You did not give the name of your friend’s story, but I conclude that it is the Days of the Bruce.[^1] I had so many at the same time that it is not easy to distinguish between them. However, the Bruce is a very nice story, and though I cannot certainly promise, I think it has a good chance.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Perhaps ‘In the Days of Good King Robert’ by ‘Biscachio’, which appeared in *MP* (Christmas  1880) 58-64.

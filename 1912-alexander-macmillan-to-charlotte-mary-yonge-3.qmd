@@ -1,0 +1,39 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1863-11-04"
+letter_date: "Nov: 4. 1863."
+manuscript: "Copy outletter book British Library Add MSS.55381 (2) P. 618"
+post_id: 1912
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-04"
+  url: "https://cmyonge.github.io/letters/1912-alexander-macmillan-to-charlotte-mary-yonge-3"
+---
+
+::: {.letter-metadata}
+**Date:** Nov: 4. 1863.  
+**Manuscript:** Copy outletter book British Library Add MSS.55381 (2) P. 618
+:::
+
+Dear Madam,		
+I have sent a good many times to the [publisher](people/person_1065.qmd) of the [Monthly Packet](organizations/other_52.qmd) but he says some of the numbers are out of print, and he hoped to be able to let us have the volume, but still we cannot get it.
+
+Can you kindly let us have your own copy?
+
+I am, dear Madam,
+Yours respectfully
+A. Macmillan
+Miss Yonge Elderfield  Otterbourne Winchester

@@ -1,0 +1,45 @@
+---
+title: "To Miss Butler"
+letter_iso_date: "1876-10-02"
+letter_date: "Oct 2nd [1876 or earlier]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3522
+letter_id: "to-miss-butler"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-10-02"
+  url: "https://cmyonge.github.io/letters/3522-to-miss-butler"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 2nd [1876 or earlier]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear Miss Butler[^1]
+
+It is very kind of you and Mrs Butler but I believe [Miss Mackenzie](people/person_930.qmd)is likely to come to me immediately after Lownie’s visit, and as there have been some difficulties about her coming before I could not put it off again.
+
+This is a hurried day so I must only write my thanks
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Evidently before the death of Anne Mackenzie in February 1877.
+[^2]: This letter may be addressed to [Anna Butler](people/person_237.qmd), the sister of CMY's friend the Rev. William Butler, Vicar of Wantage.

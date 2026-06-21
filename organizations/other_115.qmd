@@ -1,0 +1,16 @@
+---
+title: "Dr. Barnardo's Homes"
+other_id: 115
+---
+
+**Type:** organization
+
+## Description
+
+Founded by Thomas Barnardo in 1867, this organization ran orphanages and did welfare work among children.  See http://www.barnardos.org.uk/who_we_are/history.htm
+
+## Letters Mentioning This
+
+- [Letter 3323](../3323-to-the-reverend-john-frewen-moor-5.qmd)
+- [Letter 3408](../3408-to-mary-yonge-6.qmd)
+

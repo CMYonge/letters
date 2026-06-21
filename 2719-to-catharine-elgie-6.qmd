@@ -1,0 +1,40 @@
+---
+title: "To Catharine Elgie"
+letter_iso_date: "1881-02-25"
+letter_date: "[25 February 1881]"
+manuscript: "MS Charlotte Mary Yonge Society/4"
+post_id: 2719
+letter_id: "to-catharine-elgie-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Catharine Elgie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-02-25"
+  url: "https://cmyonge.github.io/letters/2719-to-catharine-elgie-6"
+---
+
+::: {.letter-metadata}
+**Date:** [25 February 1881]  
+**Manuscript:** MS Charlotte Mary Yonge Society/4
+:::
+
+My dear [Mrs Elgie](people/person_475.qmd)
+
+This is only to tell you that I am thinking about you and [Blanche](people/person_1480.qmd) and all.[^1]  I would come to see you, but I think you had better not see a fresh person, and besides [Annie Moberly](people/person_1024.qmd)comes to me tomorrow  May God bear you all through it
+
+Ever yours affectionately
+C M Yonge
+
+---
+
+[^1]: Blanche Webber (b. 1859/60) a child of Mrs Elgie’s first marriage to Captain Webber.

@@ -1,0 +1,15 @@
+---
+title: "Friedrich von Schlegel -  Philosophie der Geschichte"
+book_id: 140
+---
+
+## Publication Information
+
+**Date:** 1829
+
+**Imprint:** Vienna: Schaumberg
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

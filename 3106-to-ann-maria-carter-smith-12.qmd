@@ -1,0 +1,47 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1857-09-14"
+letter_date: "Sept 14th 1857"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1857/ 3"
+post_id: 3106
+letter_id: "to-ann-maria-carter-smith-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1857-09-14"
+  url: "https://cmyonge.github.io/letters/3106-to-ann-maria-carter-smith-12"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 14th 1857  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/ 3
+:::
+
+Dear [Miss Smith](people/person_263.qmd)
+I hope that in a day or two you will receive the proof of your [Royal Household](other_books/otherbook_262.qmd), which I should be much obliged to you to look over and return to
+
+[Messrs Mozley](organizations/other_108.qmd)
+
+Friar Gate
+
+Derby
+
+I am setting off to see the Manchester Exhibition[^1] and from thence most probably to Ireland, so that you may judge my time and head are not in the most favorable state for correcting
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Manchester Art Treasures Exhibition, which had opened in May 1857.

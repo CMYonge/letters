@@ -1,0 +1,13 @@
+---
+title: "Mr Rogers"
+person_id: 2049
+---
+
+## Biographical Information
+
+probably a Plymouth physician
+
+## Letters Mentioning This Person
+
+- [Letter 2340](../2340-to-charlotte-cordelia-yonge-2.qmd)
+

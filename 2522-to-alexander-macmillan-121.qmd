@@ -1,0 +1,44 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1875-03-01"
+letter_date: "March 1st 1875"
+location: "Elderfield  Otterbourne"
+manuscript: "MS British Library Add MSS 54921: 7-8"
+post_id: 2522
+letter_id: "to-alexander-macmillan-121"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-03-01"
+  url: "https://cmyonge.github.io/letters/2522-to-alexander-macmillan-121"
+---
+
+::: {.letter-metadata}
+**Date:** March 1st 1875  
+**From:** Elderfield  Otterbourne  
+**Manuscript:** MS British Library Add MSS 54921: 7-8
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Thank you, I shall be very glad to know approximately the [value of those copy rights](organizations/other_160.qmd). I suppose they are worth far more to me than they would be to anyone else, and that if I wished to raise a sum of money, say £5000 or 6000, it would be better to use them as security, since the proceeds would enable me annually to pay off something than to attempt the sale of any - as indeed I suppose a sale must be all or none.
+
+I have brought the [French history](cmy_books/cmybook_99.qmd) down to Louis XIV but I am much afraid I shall have to go back and abridge. Moreover Clay cried out for [Cameos](cmy_books/cmybook_124.qmd) copy, and I had to work at them.
+
+The [Scripture History](cmy_books/cmybook_108.qmd) ends - (this volume) in a most awkward place but it was of no use to try to get more in as there was no resting place till the end of the Gospels, then there could be no crowding there.
+
+Thank you for your kind invitation I have not slept in London for three years nor have been there for two!
+
+Yours sincerely
+C M Yonge

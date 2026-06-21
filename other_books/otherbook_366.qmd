@@ -1,0 +1,18 @@
+---
+title: "Nikolai Mikhailovich Karamzin - History of the Russian Empire"
+book_id: 366
+---
+
+## Publication Information
+
+**Date:** 1819-1826
+
+**Notes:** CMY requested a French or a German translation, both of which existed by 1864.
+
+## Letters Mentioning This Work
+
+- [Letter 1964](../1964-to-alexander-macmillan-33.qmd)
+- [Letter 1969](../1969-alexander-macmillan-to-charlotte-mary-yonge-12.qmd)
+- [Letter 1973](../1973-to-alexander-macmillan-18.qmd)
+- [Letter 1976](../1976-to-alexander-macmillan-19.qmd)
+

@@ -1,0 +1,49 @@
+---
+title: "To George Lillie Craik."
+letter_iso_date: "1877-07-07"
+letter_date: "July 7th 1877"
+location: "Elderfield,  Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 20-21"
+post_id: 2586
+letter_id: "to-george-lillie-craik-27"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-07-07"
+  url: "https://cmyonge.github.io/letters/2586-to-george-lillie-craik-27"
+---
+
+::: {.letter-metadata}
+**Date:** July 7th 1877  
+**From:** Elderfield,  Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 20-21
+:::
+
+My dear [Mr Craik](people/person_379.qmd)
+
+I am rather anxious to know the upshot of the new arrangement which we were to have this year into the details of which I do not think we went.
+
+What however is really important to me to know  quickly is whether I am likely to receive enough at Christmas to warrant me in promising a payment of £250 - remembering that I have had [£200 in advance](organizations/other_160.qmd)
+
+I want very much to know whether [Mr Freeman](people/person_523.qmd) despairs of my [French history](cmy_books/cmybook_99.qmd) I have heard nothing of it or of him since I sent it off revised and abridged six months ago.[^1]
+
+There are some old papers of mine in the [Christian Remembrancer](organizations/other_59.qmd), on [Ghosts](cmy_books/cmybook_65.qmd), on [Education](cmy_books/cmybook_302.qmd), on [Eugenie de Guérin](cmy_books/cmybook_50.qmd) and [Alexandrine de la Ferronays](cmy_books/cmybook_64.qmd), which - with those on children’s books in the [Magazine](organizations/other_78.qmd)[^2] - would they not make a nice volume to come out at Christmas and would you give me £100 for its first edition. Shall I look them out and send them to you
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: For Freeman's opinion of CMY's *History of France*, see 'Introduction to Letters 1870-1879'.
+[^2]: CMY contributed three articles on 'Children’s literature of the last century' to *Macmillan's Magazine* in 1869: 'Nursery books of the eighteenth century', 'Didactic fiction' and 'Class literature of the last thirty years'.  The proposed volume was not published.

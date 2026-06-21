@@ -1,0 +1,16 @@
+---
+title: "Mr Fielder"
+person_id: 510
+---
+
+## Biographical Information
+
+perhaps a curate at Hursley
+
+The person mentioned (15 Jan 1853) may be the same as the Mr Fielder, apparently a clergyman somewhere else, letter to him (1870) thanking for collection for Melanesia.
+
+## Letters Mentioning This Person
+
+- [Letter 2365](../2365-to-the-reverend-fielder.qmd)
+- [Letter 3006](../3006-to-mary-anne-dyson-13.qmd)
+

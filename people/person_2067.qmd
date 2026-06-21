@@ -1,0 +1,13 @@
+---
+title: "Marion Vassil"
+person_id: 2067
+---
+
+## Biographical Information
+
+wife of [Benjamin Vassil](person_2066.qmd), missionary on Mota
+
+## Letters Mentioning This Person
+
+- [Letter 2355](../2355-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-11.qmd)
+

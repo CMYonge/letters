@@ -1,0 +1,38 @@
+---
+title: "To Henriette Elizabeth de Witt"
+letter_iso_date: "1879-03-10"
+letter_date: "March 10th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Fondation Guizot-Val Richer"
+post_id: 2665
+letter_id: "to-henriette-elizabeth-de-witt"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henriette Elizabeth de Witt"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-03-10"
+  url: "https://cmyonge.github.io/letters/2665-to-henriette-elizabeth-de-witt"
+---
+
+::: {.letter-metadata}
+**Date:** March 10th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Fondation Guizot-Val Richer
+:::
+
+My dear [Mme de Witt](people/person_423.qmd)
+
+You are quite welcome to make any use you please of my [Scripture Readings](cmy_books/cmybook_87.qmd).  I have just completed them, though the last volume is not quite out.  You must miss the spring after this severe winter  Your [En Quarantaine](other_books/otherbook_916.qmd) seems to have been a prediction of your winter of nursing.  I am glad all is now well.  We have all been having very severe colds, but are quite repaired now except my brother who has been much pulled down.  I am expecting [Mary Coleridge](people/person_351.qmd) here tomorrow.  I made her a visit in the autumn in a very pretty house at Ottery, which [her brother](people/person_343.qmd) has put into repair for her
+
+yours affectionately
+C M Yonge

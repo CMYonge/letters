@@ -1,0 +1,45 @@
+---
+title: "To Clifford Wyndham Holgate"
+letter_iso_date: "1896-06-02"
+letter_date: "June 2nd 1896"
+location: "Elderfield  Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3328
+letter_id: "to-clifford-wyndham-holgate"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Clifford Wyndham Holgate"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-06-02"
+  url: "https://cmyonge.github.io/letters/3328-to-clifford-wyndham-holgate"
+---
+
+::: {.letter-metadata}
+**Date:** June 2nd 1896  
+**From:** Elderfield  Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear[Mr Holgate](people/person_1643.qmd)
+This is really only an abridgement of the [article](cmy_books/cmybook_66.qmd) in the Christian Remembrancer, except that I added the going to Winchester College chapel in 1854. I signed the paper because once or twice I found myself writing <u>I</u> to a personal reminiscence, but it can be altered if you wish it.[^1] I think [Lord Seaton](people/person_313.qmd)’s personal appearance is fully described in the paper. He was the most striking old man I ever saw. The best likeness of him is one of [Richmond](people/person_1731.qmd)’s Crayons. I have an engraving of it, I think the original is at [Beechwood](organizations/other_126.qmd), but I am not sure. There is another print that I do not like so much, and a full length picture which I believe was done for the United Services Club. There is a print from that but I do not like it - it is in Life Guards uniform and that being cavalry - is apt to look awkward on an infantry man. There is another small portrait of him at [Puslinch](organizations/other_123.qmd), a much younger man - but I never realized it, never having known him till his return from Canada.
+
+My [mother](people/person_1606.qmd) was [his step father](people/person_106.qmd)’s youngest daughter, my [father](people/person_1631.qmd) was in his regiment, and was first cousin to his [wife](people/person_314.qmd).
+
+Anything about the pictures might best be learnt from [the present Lord Seaton](people/person_318.qmd), Beechwood Plympton
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: This letter, and the preceding one to Holgate, evidently relate to an untraced article by CMY on Lord Seaton.

@@ -1,0 +1,39 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1892-09-20"
+letter_date: "Sept 20 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. c.25 ff 265"
+post_id: 3203
+letter_id: "to-an-unknown-woman-35"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-09-20"
+  url: "https://cmyonge.github.io/letters/3203-to-an-unknown-woman-35"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 20 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: MSS. Autogr. c.25 ff 265
+:::
+
+Dear Madam, 
+Mrs Sharpe, whom I am in correspondence with respecting the temporary care of our hamlet infant school from Michaelmas to Christmas refers to you her character and capabilities -
+
+As it is only for  three months with between 80 and 90 children, Infants and First Standard, her powers are of less importance, but I should be glad to know what you think of her
+
+Yours truly
+C M Yonge

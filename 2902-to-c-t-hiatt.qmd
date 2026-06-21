@@ -1,0 +1,43 @@
+---
+title: "To Charles Thomas John Hiatt"
+letter_iso_date: "1889-02-21"
+letter_date: "Febry 21st 1889"
+location: "Elderfield  Otterbourne"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2902
+letter_id: "to-c-t-hiatt"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charles Thomas John Hiatt"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-02-21"
+  url: "https://cmyonge.github.io/letters/2902-to-c-t-hiatt"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 21st 1889  
+**From:** Elderfield  Otterbourne  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+[Sir](people/person_2382.qmd)
+
+My only [paper](cmy_books/cmybook_268.qmd) in [Atalanta](organizations/other_53.qmd) is on the Life of [Mr Keble](people/person_798.qmd). Those on Novel writing are by Mr [Walter Besant](people/person_1652.qmd)[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to 'C T Hiatt Esq/ Sandon/ Wellington/ Salop' and postmarked 1889.
+[^2]: This was an autograph hunter's trick to get a signature, see Martin Ray, 'Thomas Hardy's Letter to Charles Hiatt' *Notes and Queries* 53 (2006), 338.

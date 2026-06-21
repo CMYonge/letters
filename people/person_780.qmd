@@ -1,0 +1,10 @@
+---
+title: "M. Jones"
+person_id: 780
+---
+
+## Biographical Information
+
+contributor to <i>MP</i> (1862, 65)
+
+

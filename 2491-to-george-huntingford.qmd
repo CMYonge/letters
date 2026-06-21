@@ -1,0 +1,42 @@
+---
+title: "To George Huntingford"
+letter_iso_date: "1874-02-22"
+letter_date: "Feb 22 [1874?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2491
+letter_id: "to-george-huntingford"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Huntingford"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-02-22"
+  url: "https://cmyonge.github.io/letters/2491-to-george-huntingford"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 22 [1874?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear George Huntinford,[^1]
+I hope you will come to luncheon here at one on Tuesday, Talbot from Mr Jeavon’s is I believe also coming I enclose a note for Mr Richardson. No, I have written to [Dr Ridding](people/person_1237.qmd)
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Endorsed in pencil '1874'.
+[^2]: The letter is evidently addressed to a schoolboy at Winchester College, but the most likely candidate, George Tremenheere Huntingford (1873-1939) did not attend the school until 1886, after George Ridding's departure.

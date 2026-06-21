@@ -1,0 +1,19 @@
+---
+title: "Womankind.By Charlotte Mary Yonge."
+book_id: 115
+sort_title: "Womankind."
+---
+
+## Publication Information
+
+**Date:** 1876
+
+**Genre:** Non-fiction: advice book
+
+**Publisher:** London: Mozley and Smith, 6 Paternoster Row.
+
+## Letters Mentioning This Work
+
+- [Letter 2913](../2913-to-arthur-donald-innes-27.qmd)
+- [Letter 3391](../3391-to-frederick-orridge-macmillan-2.qmd)
+

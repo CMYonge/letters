@@ -1,0 +1,15 @@
+---
+title: "Elizabeth (Wormeley) Latimer - 'The Story of an Elf who Won a Soul'"
+book_id: 1090
+---
+
+## Publication Information
+
+**Date:** 1889
+
+**Imprint:** <i>MP</i> (Christmas 1889), 197-220.
+
+## Letters Mentioning This Work
+
+- [Letter 2917](../2917-to-mary-elizabeth-wormeleylatimer.qmd)
+

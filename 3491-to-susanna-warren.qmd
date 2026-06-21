@@ -1,0 +1,49 @@
+---
+title: "To Susanna Warren"
+letter_iso_date: "1870-03-22"
+letter_date: "March 22nd [1870?]"
+manuscript: "MS Girton College Cambridge, Yonge XI 1"
+post_id: 3491
+letter_id: "to-susanna-warren"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Susanna Warren"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-03-22"
+  url: "https://cmyonge.github.io/letters/3491-to-susanna-warren"
+---
+
+::: {.letter-metadata}
+**Date:** March 22nd [1870?]  
+**Manuscript:** MS Girton College Cambridge, Yonge XI 1
+:::
+
+My dear [Miss Warren](people/person_1475.qmd)
+
+That [S P C K](organizations/other_40.qmd) is a very queerly governed thing - more like Venice than anything else I think
+
+But I should be very glad to be at work with you again! and to have your pretty [Saints day stories](other_books/otherbook_921.qmd) -[^1] 
+
+The only doubt I have is how soon space will be manageable, as I do not see to the end of Daniel at this moment, as all the [translation](other_books/otherbook_922.qmd) is not come in, and I only know Gaussen died at the 6th chapter for which I am thankful as I by no means wanted his views upon the little Horn.[^2] I do not think it will end this year, and if not I fear you would have to wait another year. The very unequal distribution of Holy days is very troublesome in this monthly work. Or would you mind having one story in each no, so as to get them all in in two years time? If so I could begin with the Advent volume of this year. What do you think?
+
+In that case I think it would be better to take a story for one festival coming in the month, instead of going straight on. The Novr number could have St Andrew - December which ever you pleased and so on. 
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY’s use of mourning paper ended in May 1870.
+[^3]: *Stories for the Saints’ Days* by S.W. (London: SPCK 1873). This letter relates to contributions to [*The Monthly Paper of Sunday Teaching*](organizations/other_81.qmd).
+[^4]: In 'Hints on Reading' *MP* (August 1873) 212, readers were advised that ‘*The Comment on the Book of Daniel*, translated from Gaussen's French, by Miss Blackstone, which appeared in The Monthly Paper of Sunday Teaching, has been published separately by Messrs. Mozley.  It was originally given in lectures to a Sunday School, and we need scarcely say that it appears to us excellent both in form, style, and translation.’  The book appeared as Margaret Blackstone, *The Prophet Daniel Explained, in a Series of Readings for Young Persons* 2 vols (London: Mozley 1873, 1874).

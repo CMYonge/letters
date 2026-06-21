@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott 1st Bt. - Ivanhoe: A Romance"
+book_id: 657
+---
+
+## Publication Information
+
+**Date:** 1820
+
+**Imprint:** Edinburgh: Constable
+
+## Letters Mentioning This Work
+
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

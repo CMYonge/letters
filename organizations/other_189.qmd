@@ -1,0 +1,15 @@
+---
+title: "Bath Rheumatic Hospital"
+other_id: 189
+---
+
+**Type:** organization
+
+## Description
+
+Founded as the Bath General Infirmary in 1742. Now the Royal National Hospital for Rheumatic Diseases, see www.rnhrd.nhs.uk
+
+## Letters Mentioning This
+
+- [Letter 2174](../2174-to-alexander-macmillan-86.qmd)
+

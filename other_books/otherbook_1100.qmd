@@ -1,0 +1,15 @@
+---
+title: "Francois Guizot - Histoire de la révolution d'Angleterre depuis l'avènement de Charles 1er jusqu'à la restauration de Charles II"
+book_id: 1100
+---
+
+## Publication Information
+
+**Date:** 1826-1827
+
+**Imprint:** Paris: Leroux
+
+## Letters Mentioning This Work
+
+- [Letter 3529](../3529-to-miss-routledge.qmd)
+

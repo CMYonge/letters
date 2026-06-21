@@ -1,0 +1,32 @@
+---
+title: "London Library, The"
+other_id: 29
+---
+
+**Type:** organization
+
+## Description
+
+This private circulating library was founded in 1841 and has been in  St. James’s Square since 1845. CMY joined in the early 1860s.  It still exists, though it does not have records of books borrowed by nineteenth-century members; see http://www.londonlibrary.co.uk/aboutus/history.htm
+
+## Letters Mentioning This
+
+- [Letter 1828](../1828-to-susanna-warren-4.qmd)
+- [Letter 1944](../1944-to-alexander-macmillan-15.qmd)
+- [Letter 1969](../1969-alexander-macmillan-to-charlotte-mary-yonge-12.qmd)
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+- [Letter 2032](../2032-alexander-macmillan-to-charlotte-mary-yonge-28.qmd)
+- [Letter 2034](../2034-to-alexander-macmillan-44.qmd)
+- [Letter 2077](../2077-to-elizabeth-missing-sewell-5.qmd)
+- [Letter 2114](../2114-to-elizabeth-missing-sewell-14.qmd)
+- [Letter 2146](../2146-to-alexander-macmillan-84.qmd)
+- [Letter 2246](../2246-to-alexander-macmillan-96.qmd)
+- [Letter 2370](../2370-to-elizabeth-missing-sewell-15.qmd)
+- [Letter 2611](../2611-to-alexander-macmillan-129.qmd)
+- [Letter 2651](../2651-to-alexander-macmillan-133.qmd)
+- [Letter 2824](../2824-to-george-lillie-craik-62.qmd)
+- [Letter 2834](../2834-to-george-lillie-craik-67.qmd)
+- [Letter 3248](../3248-to-the-reverend-john-frederick-watkinson-bullock-10.qmd)
+- [Letter 3507](../3507-to-robert-harrison.qmd)
+- [Letter 3564](../3564-to-elizabeth-missing-sewell-11.qmd)
+

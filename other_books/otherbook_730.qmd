@@ -1,0 +1,15 @@
+---
+title: "Cecile de Courtot - Die Memoiren der Baronesse Cecile de Courtot ed. Moritz von Kaisenberg"
+book_id: 730
+---
+
+## Publication Information
+
+**Date:** 1897
+
+**Imprint:** Leipzig
+
+## Letters Mentioning This Work
+
+- [Letter 3359](../3359-to-christabel-rose-coleridge-30.qmd)
+

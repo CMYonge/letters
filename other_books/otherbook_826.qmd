@@ -1,0 +1,17 @@
+---
+title: "Edith Thompson - History of England"
+book_id: 826
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Imprint:** London: Macmillan
+
+**Notes:** This was published in the 'Historical Course for Schools' series edited by E. A. Freeman.
+
+## Letters Mentioning This Work
+
+- [Letter 2456](../2456-to-edward-augustus-freeman-5.qmd)
+

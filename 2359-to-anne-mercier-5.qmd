@@ -1,0 +1,41 @@
+---
+title: "To Sarah Anne Mercier"
+letter_iso_date: "1869-12-15"
+letter_date: "Decr 15th [1869]"
+location: "“Monthly Packet” 6, Paternoster Row, London, E.C."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2359
+letter_id: "to-anne-mercier-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Anne Mercier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-15"
+  url: "https://cmyonge.github.io/letters/2359-to-anne-mercier-5"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 15th [1869]  
+**From:** “Monthly Packet” 6, Paternoster Row, London, E.C.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Mrs Mercier](people/person_990.qmd),
+Your [recollections](other_books/otherbook_562.qmd) of [Mr Peabody](people/person_990.qmd) are very touching, and I hope they will appear in February - January is pretty well done for! I am sorry for the blunder about [Christabel](other_books/otherbook_563.qmd), it came of lending the book and trusting to memory[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Mercier's novel *Christabel Hope, or, The Beginnings of Life* (London, Warne 1869) was noticed in ‘Hints on Reading’ *MP* 8 (December 1869) 619 as *Christabel Ross*.

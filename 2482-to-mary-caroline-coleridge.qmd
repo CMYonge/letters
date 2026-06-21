@@ -1,0 +1,43 @@
+---
+title: "To Mary Caroline Coleridge"
+letter_iso_date: "1873-10-08"
+letter_date: "Oct 8th [1873]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Victoria University of Wellington, NZ"
+post_id: 2482
+letter_id: "to-mary-caroline-coleridge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Caroline Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-10-08"
+  url: "https://cmyonge.github.io/letters/2482-to-mary-caroline-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 8th [1873]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Victoria University of Wellington, NZ
+:::
+
+My dear [Mrs Coleridge](people/person_348.qmd)
+Alas, I have had so much Tyrol in the Monthly Packet as I am writing to tell [Mrs Prichard](people/person_1893.qmd) I find no series of travels ever answers, people do not keep up their interest - though single papers succeed well.
+
+I hope [Bishop Patteson’s life](cmy_books/cmybook_102.qmd) will be out in a few week’s time.  How soon do you return to Mapledurham for I should like my [‘Cousin Edward’](people/person_332.qmd) as he insists on my calling him to have one of the first copies sent out
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Endorsed in pencil 1873.

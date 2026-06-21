@@ -1,0 +1,15 @@
+---
+title: "C. P. - ‘The Children in the Forest’"
+book_id: 844
+---
+
+## Publication Information
+
+**Date:** 1856
+
+**Imprint:** <i>MP</i> (November 1856), 376-384.
+
+## Letters Mentioning This Work
+
+- [Letter 2493](../2493-to-alexander-macmillan-119.qmd)
+

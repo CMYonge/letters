@@ -1,0 +1,71 @@
+---
+title: "To Jemima Blackburn"
+letter_iso_date: "1854-02-18"
+letter_date: "Febry 18th [1854]"
+location: "Otterbourn"
+manuscript: "MS University of Illinois, Urbana Champaign: Letter 1"
+post_id: 3026
+letter_id: "to-jemima-blackburn-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jemima Blackburn"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-18"
+  url: "https://cmyonge.github.io/letters/3026-to-jemima-blackburn-7"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 18th [1854]  
+**From:** Otterbourn  
+**Manuscript:** MS University of Illinois, Urbana Champaign: Letter 1
+:::
+
+My dear [Mrs Blackburn](people/person_159.qmd)
+This is to acknowledge the [Thumbery](cmy_books/cmybook_21.qmd) and thank you. I will not say anything about him because I have time neither to read nor to think about him this morning, but I am very glad you hold to the spider, it seems to me immoral to alter the end of a recognised story. [^1] What do you think of burying him under an Eyebright, and rose-cutting bees might make his shroud, if that would not be too scientific. The Chace delights my fancy exceedingly, but I think we had better not attempt to bring in too much of Arthur’s court, but leave it what it is a nursery story and tell it in the simple straightforward way. I am afraid of attempting too much, but I will try to get in nothing inconsistent, and to tell it as prettily as I can, but I must wait for the spirit of it to take possession of me. I think I can borrow a [Grimm](other_books/otherbook_243.qmd) in the original. I am amused at your nationality in choosing the thistle. I am glad the cow need not quite swallow him, for certainly the less of that the better. I hope you will have the head and tail pieces, they give so much scope for decoration. But I will say no more till I am a little more up in his adventures. Your two classes of ignorance amused me much, but I know of other classes - a great classical scholar for instance who did not know what Waltham Cross[^2] was, though it was in his native place, and who thought little ducks under a hen were chickens, and that ants were young bees! All these things I heard myself from a 1st class man! Also I heard a retired governess enunciate that it was a new discovery that the cock dove laid eggs! I suppose your test is meant to apply to things one is not taught, but learnt by the light of nature and civilization, for I fancy there are various well informed people who do not know the Round Towers.[^3] What do you think of its being suggested that it is very dull of the Russians not to go up the Danube and cross at its source!
+
+My line of ignorance is of common life things - I don’t mean out of door life, but mechanical artizan kind of things, in which I am generally convicted of great stupidity.
+
+I think the Round Tower ignorance much less pitiable than the pigeon, but most likely they would go together, both belonging to the class of no eyes. In the list of books, I think it should be specified how large they are, as in a real choice so much would depend upon that. Here are two lists and you shall guess mine.
+[Michaud’s Crusades](other_books/otherbook_116.qmd)                                                       [Universal History](other_books/otherbook_139.qmd)
+[Thomas a Kempis](other_books/otherbook_100.qmd)                                                          [Jeremy Taylor](other_books/otherbook_65.qmd)
+[Christian Year](other_books/otherbook_95.qmd)  [Bp Heber](other_books/otherbook_79.qmd)                                            Christian Year.  [G. Herbert](other_books/otherbook_81.qmd)
+[Guy Mannering](other_books/otherbook_143.qmd)                                                             Madeleine
+[Fairy Queen](other_books/otherbook_155.qmd)                                                                   [Lay of the Last Minstrel](other_books/otherbook_141.qmd)
+[Lockhart’s Scott](other_books/otherbook_105.qmd)                                                               Lockhart’s Scott
+[Franklin’s Journey](other_books/otherbook_67.qmd)                                                             [Forbe’s Oriental Memoirs](other_books/otherbook_65.qmd)
+[Reynold’s Lectures on Art](other_books/otherbook_135.qmd)                                                  [Lindsay’s Christian Art](other_books/otherbook_104.qmd)
+[M’Cullock’s Natural Philosophy](other_books/otherbook_110.qmd)                                           M’Cullock
+[Southey’s Pilgrim’s Progress](other_books/otherbook_152.qmd)                                               [Baptistery](other_books/otherbook_183.qmd)
+[Sintram](other_books/otherbook_102.qmd)                                                                              [Schlegel's Philosophy of History](other_books/otherbook_140.qmd)
+[Mde de Sevigné](other_books/otherbook_144.qmd)                                                                Sanvestre
+[Promessis Sposi](other_books/otherbook_113.qmd)                                                              Promessis Sposi
+[Don Quixote](other_books/otherbook_32.qmd)                                                                       Don Quixote[^4]
+It should be explained that the picture books are chosen not as the best in the world, but the best companion. If you asked what prints to buy to hang on the wall I should say something different. I wonder, since you allow translations that you do not say what classical books you would allow. The Christian Year is so much a matter of course here that we added something besides. The two you rejected as matters of course seem to be just the camp library that my brother was enquiring for in his packing up, he will be at home to take leave on Monday evening.
+
+I suppose you have Joseph’s being sold for Camels[^5] - or Rebekah’s drawing water for them? I think the entrance into Jerusalem seems such a grand subject that the ass is too subordinate, and I believe I had rather see the flight into Egypt. Can you get in the bear with David, that would be pleasanter than Elisha’s two she bears, Good Sunday evening pictures are such a prize to every family that these would, I should think, be a great boon. How we used to pore over an old Dutch scripture history, full of pictures, which my brother used to cite as authorities. It is almost a pity not to do Job’s battle steed. What have you for the cow and the goat? If it was possible to draw the scapegoat,[^6] I believe it would help children’s minds, but the high priest would be a difficult figure, needing much grandeur, and then the man waiting to lead him into the wilderness. I hope you will have some nice pastoral scenes, Could you not make a charming picture of David, standing by his well of Bethlehem, looking as if he was singing the 23d psalm, and the lion and bear lying dead, and his sheep and goats clustering round him, &amp; perhaps a message coming in the distance to call him to be anointed. I wonder no one has made a picture of that, and for its converse, there might be the same Bethlehem scenery &amp; the shepherds watching their flocks by night. But I must not go on, only pray get a charming kid, I like their droll faces so much.
+
+Do you know Blake’s Job, and his great solemn statue like sheep.
+
+What nice work you will find it to choose texts as mottoes for your [illustrations](organizations/other_167.qmd). By the bye, I forgot to say that Sir Percival is such a friend of mine that [my present hero](cmy_books/cmybook_19.qmd) is named after him, but I am writing when I ought to be taking a constitutional. Your letters are so like talking one wants to answer them at once.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: They were working together on  *The History of Sir Thomas Thumb* (Edinburgh: Constable 1855).
+[^2]: The town of Waltham Cross, Hertfordshire is the site of one of the Eleanor Crosses, erected by Edward I in 1291 to mark the resting places of his wife Queen Eleanor's body on its journey from Harby in Lincolnshire to Westminster Abbey.
+[^3]: The reference may be to fortifications in the Crimea.
+[^4]: The puzzles in this list are an unidentified work, perhaps that earlier (15 March 1852) referred to as McCulloch’s *Natural Theology*  see note there for a possible identification; and two works, *Madeleine* and *Sanvestre* for which no identification can be offered, though the former is probably from its position a novel.
+[^5]: Jemima Blackburn and James Wilson, *Illustrations of Scripture*. By an Animal Painter, with notes by a Naturalist.  (Edinburgh :Constable  [1855.])
+[^6]: William Holman Hunt (1827-1910) painted his version of *The Scapegoat* in 1854, but it was not exhibited until after he returned from Palestine in 1856.

@@ -1,0 +1,46 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1888-11-01"
+letter_date: "Nov 1st  [1888]"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 10"
+post_id: 2895
+letter_id: "to-arthur-donald-innes-24"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-11-01"
+  url: "https://cmyonge.github.io/letters/2895-to-arthur-donald-innes-24"
+---
+
+::: {.letter-metadata}
+**Date:** Nov 1st  [1888]  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 10
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+
+I think you must have heard from [Mrs Lennard](people/person_121.qmd) by this time, as she mentioned, in a letter I had yesterday, having heard from you. I was out all day and could not write.
+
+[Miss Hugessen](people/person_820.qmd) is ill and cannot do her paper this month but there are to be retrospective questions. I think the same notice will do. I will write the notices but I think I shall have to ask for an additional sheet as so much has to be finished
+
+A lady complains of a book by [the author](people/person_1467.qmd) of [Robert Elsmere](other_books/otherbook_631.qmd) being there advertised on [the Packet](organizations/other_52.qmd) I mean.
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** 

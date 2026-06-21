@@ -1,0 +1,42 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1864-02-25"
+letter_date: "Feb 25:1864"
+manuscript: "MS British Library Add MSS.55382 P. 218-9"
+post_id: 1939
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-8"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-02-25"
+  url: "https://cmyonge.github.io/letters/1939-alexander-macmillan-to-charlotte-mary-yonge-8"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 25:1864  
+**Manuscript:** MS British Library Add MSS.55382 P. 218-9
+:::
+
+My dear Miss Yonge	
+[I](people/person_939.qmd) suppose you would like to have the '[Trial'](cmy_books/cmybook_53.qmd) stereotyped. This can be done now at nearly the same cost as the Composition would be hereafter. For readjusting the page and having stereotype plate cast the expense would be £68. I do not know how you have arranged the matter on former occasions. But I suppose that you would probably prefer to purchase the plates and have them as your own property.
+
+The new edition of the [Lances of Lynwood](cmy_books/cmybook_23.qmd) is very nearly ready. I have seen a proof of the cuts and they come out very well - albeit they are <u>sombre</u> in tone throughout.
+
+I am sorry I did not feel well what answer to make to [Mrs Blackburn](people/person_159.qmd), in a small book of that kind one cannot afford much for illustration, unless a <u>very large</u> sale can be calculated on. Now the [Little Duke](cmy_books/cmybook_20.qmd) has been out for several years & has been sold in a <u>very</u> cheap form. We are now going to publish it at an advanced price, and there is no doubt that we will take some time to sell a remunerative edition, I am in hopes that nicely printed and bound we shall sell as many at 2/6 as at 1/6 in its present form. That the [net profits](organizations/other_160.qmd) of an edition of 3000 copies would not be more - to you - than £70 allowing publishers of 10 per cent. There is really no room here for illustrations, and I am inclined to risk its publication without anything. The present little design on the cheap edition is really <u>hardly ornamental</u>. My present feeling is that we will do as well without as with illustrations & also that we cannot afford it. So I would advise answering Mrs Blackburn in that sense.
+
+I hope [my sister](people/person_941.qmd) will write to you one these days. A young [gentleman](people/person_1903.qmd) from the Unicorn [?] who arrived three weeks ago has been occupying engrossingly [my wife](people/person_940.qmd)’s attention, so that all the care of a large household have devolved on her, and hindered her from more than absolutely necessary writing. I think we agreed generally with your idea. The more <u>utter selflessness</u> entered into the more it would seemed [sic] to us worthy of a place in The <u>[Book of Noble Deeds](cmy_books/cmybook_51.qmd)</u>, which is the last form the title has assumed to me - and a [*illegible*] will be the final one. Tell me how you like it
+
+I am dear Madam
+Yours very faithfully
+ A. Macmillan

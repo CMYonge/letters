@@ -1,0 +1,15 @@
+---
+title: "Sir Allen Young"
+person_id: 2308
+---
+
+## Biographical Information
+
+(1827-1915)
+
+sailor and Arctic explorer
+
+## Letters Mentioning This Person
+
+- [Letter 2574](../2574-to-hezekiah-butterworth.qmd)
+

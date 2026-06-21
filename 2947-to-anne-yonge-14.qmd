@@ -1,0 +1,41 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1844-11-01"
+letter_date: "All Saints [1 November 1844]"
+manuscript: "MS West Devon Record Office Acc No 308: 1/11/44"
+post_id: 2947
+letter_id: "to-anne-yonge-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1844-11-01"
+  url: "https://cmyonge.github.io/letters/2947-to-anne-yonge-14"
+---
+
+::: {.letter-metadata}
+**Date:** All Saints [1 November 1844]  
+**Manuscript:** MS West Devon Record Office Acc No 308: 1/11/44
+:::
+
+My dear [Anne](people/person_1582.qmd),
+It is impossible not to write another scrap to you, but I hope it does not worry you to read my notes.[^1] We have had [Mr Keble](people/person_798.qmd) at Church today his text was ‘For the Lord hath pleasure in his saints,’ and he went on with the 149th Psalm, ‘Let them rejoice in their beds’ speaking of the especial privilege of those who have chosen  to keep the things of this world out of their thoughts in their health and busy days, to have holy thoughts and glad meditation sounding in their ears in the time of quiet whether at night or in sickness.  You can tell where our thoughts were.  All Saints day is one to which it is easy to link all our thoughts of you now, and always will bring them back again in freshness.  Fourteen years of such preparation as this morning’s lesson spoke of, and so sudden unsuffering an end seem to unite all that could be wished for.  And as [Mamma](people/person_1580.qmd) was saying, except for the loss of your two brothers[^2] it seems to have been as happy a life as could have been spent, with no real sorrowful anxiety.  Indeed that calm pale face must dwell upon us as a more real picture of perfect peace than anything one could imagine  Do not you feel it so?
+
+your most affectionate
+CMY
+
+---
+
+[^1]: The MS is endorsed ‘1844’ in another hand.
+[^2]: Anne’s mother, [Alethea Henrietta (Bargus) Yonge](people/person_1580.qmd) had died on  28 October 1844.
+[^3]: [John Yonge](people/person_1618.qmd)ohn Yonge] (1814-1818) and[James Yonge](people/person_1615.qmd) (1816-1834).

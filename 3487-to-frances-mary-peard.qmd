@@ -1,0 +1,35 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1869-12-01"
+letter_date: "[1869/70?]"
+manuscript: "This fragment printed in Mary J. Harris, 1903. [<i>Memoir of Frances Mary Peard</i>](other_books/otherbook_318.qmd),"
+post_id: 3487
+letter_id: "to-frances-mary-peard"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-01"
+  url: "https://cmyonge.github.io/letters/3487-to-frances-mary-peard"
+---
+
+::: {.letter-metadata}
+**Date:** [1869/70?]  
+**Manuscript:** This fragment printed in Mary J. Harris, 1903. [<i>Memoir of Frances Mary Peard</i>](other_books/otherbook_318.qmd),
+:::
+
+[To [Frances Mary Peard](people/person_1160.qmd)]. . . . [Miss Mozley](people/person_1061.qmd) writes to me much pleased with the story[^1] you have sent her; I am sure I was with the children’s corner at Paris. A foreign correspondent is a great prize for the [Magazine for the young](organizations/other_79.qmd). I am afraid I shall never get over my inclination now you have inspired me with it to call Henry IV. ‘Hungry Cat.’
+
+---
+
+[^1]: Probably \\"My Own Story\\", a nine-part serial signed \\"F.M.P\\" that ran in the [Magazine for the Young](organizations/other_79.qmd) from January to September 1870. It does not seem to have appeared in volume form.

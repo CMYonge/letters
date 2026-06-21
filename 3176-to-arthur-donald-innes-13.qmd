@@ -1,0 +1,46 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1891-07-20"
+letter_date: "July 20th 1891"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 25"
+post_id: 3176
+letter_id: "to-arthur-donald-innes-13"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-07-20"
+  url: "https://cmyonge.github.io/letters/3176-to-arthur-donald-innes-13"
+---
+
+::: {.letter-metadata}
+**Date:** July 20th 1891  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 25
+:::
+
+Dear [Mr Innes](people/person_744.qmd),
+I give my consent to the increase of your commission from 10 per cent to 12½ per cent.
+
+We must sacrifice [Gretchen](other_books/otherbook_645.qmd) and Archaeological Moss to [Sister Florence](other_books/otherbook_646.qmd) who is more worthy.[^1] We cannot give up [Rowling Manor](other_books/otherbook_647.qmd)-[^2]
+
+[Miss Coleridge](people/person_329.qmd) <u>did</u> correct that tessellated mask - and you see she has marked on this revise that one of her other corrections this time was not attended to! I believe the defect must be that [Clowes](people/person_309.qmd) can have no careful and educated reader to overlook proofs. The few things they some times query are generally quite as unaccountable as the blunders they pass over The revises of China Cupboard generally go round by me, but this - with the mask and correction seems not to have done so. Things were badly hurried in June
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The question was the selection of stories for the Christmas 1891 number of the [*MP*](organizations/other_52.qmd).  'Archaeological Moss' must have been sacrificed, as it does not appear.
+[^2]: Either because of the story's merits or because its author, [Amabel Jenner](people/person_762.qmd), was the niece of the *MP*'s subeditor [Marion Finlaison](people/person_512.qmd).

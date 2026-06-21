@@ -1,0 +1,48 @@
+---
+title: "To Arthur John Butler"
+letter_iso_date: "1869-12-07"
+letter_date: "Decr 7th [1869]"
+location: "Heaths court"
+manuscript: "MS Mrs Caroline Fairclough/22"
+post_id: 2357
+letter_id: "to-arthur-john-butler-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur John Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-07"
+  url: "https://cmyonge.github.io/letters/2357-to-arthur-john-butler-6"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 7th [1869]  
+**From:** Heaths court  
+**Manuscript:** MS Mrs Caroline Fairclough/22
+:::
+
+My dear [Arthur](people/person_238.qmd)
+Your letter and the book arrived together yesterday just as I was setting off from home so that I could only glance at it, and see that [‘Polly’](cmy_books/cmybook_348.qmd) is likely to be very much edified by it, and to thank you very much.
+
+Pray excuse my having written the wrong way of my paper, I have only just found it out. Here is a chapter of Polly come, which I enclose. Being away from all my books, I make no doubt there are more mistakes in it uncorrected than usual indeed I am sure there is one in the Greek word for <u>voice</u>, but as I cannot feel sure of correcting it right I leave it for you.
+
+If there is no more to be done to it than rectifying a word or sentence here and there please to send it to [Mozley](organizations/other_108.qmd), according to the direction on it. If there is anything for me to see to, I shall be here till Friday - (I believe though that Wednesday evening’s post from Wantage is the last that will catch me here) Here, I should say is [Sir J T Coleridge](people/person_344.qmd)’s Heath’s Court, Ottery St Mary. I get home on Saturday sleeping a night at the Palace at Salisbury. I suspect there was a mistake in the last Polly in making the causal a voice instead of a kind of verb.
+
+I have just seen the [Solicitor general](people/person_343.qmd) and his [wife](people/person_341.qmd) off to London, I think you will find your quarters exceedingly amusing and pleasant
+
+With my love to everybody at the Vicarage
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

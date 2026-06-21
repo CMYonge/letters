@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1880-08-03"
+letter_date: "Aug 3d [1880s?]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/29"
+post_id: 2889
+letter_id: "to-an-unknown-woman-64"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-08-03"
+  url: "https://cmyonge.github.io/letters/2889-to-an-unknown-woman-64"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 3d [1880s?]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/29
+:::
+
+Dear Madam
+
+Thank you most heartily for sending me this most laborious and excellent piece of work.  I hope to keep it with my volumes and make it useful[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The piece of work was perhaps an index to [*MP*](organizations/other_52.qmd).

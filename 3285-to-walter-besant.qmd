@@ -1,0 +1,44 @@
+---
+title: "To Walter Besant"
+letter_iso_date: "1895-03-09"
+letter_date: "March 9th 1895"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3285
+letter_id: "to-walter-besant"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Walter Besant"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-03-09"
+  url: "https://cmyonge.github.io/letters/3285-to-walter-besant"
+---
+
+::: {.letter-metadata}
+**Date:** March 9th 1895  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Sir](people/person_1652.qmd)[^1]
+The kindness of your letter to me emboldens me to send you some observations on the present state of criticism with my name.[^2] I have done a good deal of criticism and was for many years an editor besides what I have endured as an author and I can certainly declare that former criticism was really useful to me while what I see now can do good to no one except as an advertisement. I have long wished to protest against spoiling stories by composing to satisfy magazine
+
+Yours truly
+C M Yonge		
+
+I hope your attack of the pestilence has passed off as well as mine has.
+
+---
+
+[^1]: Besant was knighted in the Queen’s Birthday Honours this year (24 May 1895).
+[^2]: Possibly for publication in the *Author*, the organ of the Society of Authors, edited by Besant.

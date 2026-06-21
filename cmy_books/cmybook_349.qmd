@@ -1,0 +1,18 @@
+---
+title: "Obituary of Anne Sturges Bourne"
+book_id: 349
+sort_title: "Obituary of Anne Sturges Bourne"
+---
+
+## Publication Information
+
+**Date:** 1891
+
+**Genre:** obituary
+
+**Publisher:** possibly in <i>The Guardian</i>, perhaps 18 or 25 December 1891?
+
+## Letters Mentioning This Work
+
+- [Letter 3181](../3181-to-penelope-packe-3.qmd)
+

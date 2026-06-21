@@ -1,0 +1,11 @@
+---
+title: "Risorgimento, The"
+other_id: 149
+---
+
+**Type:** topic
+
+## Letters Mentioning This
+
+- [Letter 1827](../1827-to-florence-wilford-2.qmd)
+

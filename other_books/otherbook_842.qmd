@@ -1,0 +1,15 @@
+---
+title: "Anon. - The Life and Adventures of Lady Anne, the Little Pedlar"
+book_id: 842
+---
+
+## Publication Information
+
+**Date:** 1823
+
+**Imprint:** London: Souter
+
+## Letters Mentioning This Work
+
+- [Letter 2489](../2489-to-elizabeth-wordsworth-6.qmd)
+

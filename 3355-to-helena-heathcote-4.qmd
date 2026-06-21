@@ -1,0 +1,56 @@
+---
+title: "To Helena Mary Heathcote"
+letter_iso_date: "1897-08-05"
+letter_date: "Aug 5th 1897"
+location: "Elderfield"
+manuscript: "MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/60"
+post_id: 3355
+letter_id: "to-helena-heathcote-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Helena Mary Heathcote"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-08-05"
+  url: "https://cmyonge.github.io/letters/3355-to-helena-heathcote-4"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 5th 1897  
+**From:** Elderfield  
+**Manuscript:** MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/60
+:::
+
+My dear [Helena](people/person_663.qmd)
+Here is your ‘little bill’ I made out the cheque to you as I thought it might give less trouble.
+
+I am not sure if you meant that Mrs White was one of the two daughters who erected Richard Cromwell’s Monument or one of the Wyndham daughters, on the tablet of the Bethia who had twenty children. What was the date?? I do not think you mentioned it of either. When we came to calculate it, the old Duke and many more served under 3 kings and one Queen.[^1]
+
+Our [George](people/person_1610.qmd) has brought home a relic that will be sadly historical. A case of scissors that he found in a station where they had to bury a whole family who had been murdered.
+
+[Emily Awdry](people/person_81.qmd) is coming to me for two nights on the 11th. I suppose you know that [Geoffrey Simeon](people/person_2175.qmd) is locum tenens at Campfield. I hope you all
+[ILLEGIBLE, NEEDS CHECKING]
+
+ and I think thunder cannot keep off long.
+
+Does [Lady Heathcote](people/person_665.qmd) remember what [Dr Short](people/person_1507.qmd)was to Princess Charlotte?[^2] Some tutor of some kind I think. We want to verify the authority for a dog story that I found in an old diary. His daughter Anna Short told that Queen Charlotte had a little dog which was so polite as always to stand up when the King or Queen passed by. It liked to leap on the table from a lap on a chair when the table was tapped, but never would do so from the Queen’s. By way of experiment she put all the chairs out of reach except her own, sat down and tapped the table. The poor little dog tried all the chairs but they were too far off, he skipped lightly on the royal lap, then on the table and sat up at once to beg pardon.
+
+The thunder is come, but not near 
+
+Your affte
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: This letter refers to gathering material for *John Keble's Parishes*.
+[^3]: The Rt.Rev. Thomas Vowler Short (1790–1872), Bishop of St. Asaph, lived during CMY’s childhood at Kingsworthy near Winchester while rector there 1829-34.

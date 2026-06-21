@@ -1,0 +1,44 @@
+---
+title: "To Miss Durton"
+letter_iso_date: "1889-04-03"
+letter_date: "April 3d 1889"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2904
+letter_id: "to-miss-durton"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Durton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-04-03"
+  url: "https://cmyonge.github.io/letters/2904-to-miss-durton"
+---
+
+::: {.letter-metadata}
+**Date:** April 3d 1889  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Miss Durton](people/person_458.qmd)
+
+Your [Good Friday](other_books/otherbook_1076.qmd) has been a long time on its way, owing to the misdirection, but I have it now, and I wish I could have got it into the [Monthly Packet](organizations/other_52.qmd) for Easter, though even if it had come direct it would not have been in time for April.
+
+I am very glad to hear more of [Ottavia](other_books/otherbook_1075.qmd)’s family and will insert this when I can.[^1] Perhaps another time you had better write direct to me. My paper is so thick that I will only put in this one half sheet
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Both 'Ottavia' *MP* 3s 14 (July 1887),  87-96,  and 'A Good Friday Procession at Grassina'  *MP* 3s 19 (April 1890) 371-6, appeared under the name 'E.Vere'.   They purport to be real life accounts of Italian peasantry, and the author perhaps lived in Italy.

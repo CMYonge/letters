@@ -1,0 +1,13 @@
+---
+title: "Jane Wills"
+person_id: 2163
+---
+
+## Biographical Information
+
+an inhabitant of Yealmpton?
+
+## Letters Mentioning This Person
+
+- [Letter 3342](../3342-to-mary-yonge-18.qmd)
+

@@ -1,0 +1,45 @@
+---
+title: "To Penelope Anne Laura Packe"
+letter_iso_date: "1899-04-18"
+letter_date: "April 18th 1899"
+location: "Elderfield Otterbourne"
+manuscript: "MS Hampshire Record Office 9M55 F56/2"
+post_id: 3405
+letter_id: "to-penelope-packe-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Penelope Anne Laura Packe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-04-18"
+  url: "https://cmyonge.github.io/letters/3405-to-penelope-packe-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 18th 1899  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Hampshire Record Office 9M55 F56/2
+:::
+
+My dear [Mrs Packe](people/person_1112.qmd)
+I am sure that the correspondence would be most interesting and suggestive, only I am not quite sure in what way you thought of letting it appear, whether as the actual letters abridged or as a digest of them, or to shew a selection to anyone who might be writing an account of the times. [^1]  They would reflect the feeling of the early times surprisingly to many, and I think there would be surprise at how much the plain long services now so much despised were to people like them.[^2]
+
+Perhaps if you liked to talk this over, you would let me know when you are coming to Crookham.  I should be very glad if you could spend a day or two here, as I now have room
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to Mrs Packe/Honies House/West Wickham/ Kent and postmarked Winchester 18 April 1899.
+[^2]: The lifelong correspondence, now preserved in Hampshire Record Office, between [Anne Sturges Bourne](people/person_1379.qmd) (who had brought Penelope Packe up) and [Mary Anne Dyson](people/person_464.qmd).
+[^3]: The ‘early times’ are those of the Tractarian revival.

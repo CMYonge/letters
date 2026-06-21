@@ -1,0 +1,16 @@
+---
+title: "Sir James Edward Smith - English Botany"
+book_id: 150
+---
+
+## Publication Information
+
+**Date:** 1790-1814
+
+**Imprint:** London: Davis
+
+## Letters Mentioning This Work
+
+- [Letter 2994](../2994-to-elizabeth-roberts-14.qmd)
+- [Letter 2998](../2998-to-elizabeth-roberts-18.qmd)
+

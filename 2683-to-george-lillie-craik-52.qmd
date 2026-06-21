@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1879-07-14"
+letter_date: "July 14th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 104"
+post_id: 2683
+letter_id: "to-george-lillie-craik-52"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-07-14"
+  url: "https://cmyonge.github.io/letters/2683-to-george-lillie-craik-52"
+---
+
+::: {.letter-metadata}
+**Date:** July 14th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 104
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I will soon send material for the other pages. I have a queer little drama half written, and one or two other things that only require to be got into shape[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This was extra material to make up the collection of previously published stories which appeared as *Bye-Words* (1879). The 'queer little drama' was 'The Campbells are Coming'.

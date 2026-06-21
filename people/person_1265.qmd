@@ -1,0 +1,13 @@
+---
+title: "Mrs Royle"
+person_id: 1265
+---
+
+## Biographical Information
+
+calling at Otterbourne House in 1838
+
+## Letters Mentioning This Person
+
+- [Letter 2936](../2936-to-anne-yonge-4.qmd)
+

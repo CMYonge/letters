@@ -1,0 +1,46 @@
+---
+title: "To the Reverend Louis Coutier Biggs"
+letter_iso_date: "1867-06-27"
+letter_date: "June 27th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2179
+letter_id: "to-an-unknown-man-11"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Louis Coutier Biggs"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-06-27"
+  url: "https://cmyonge.github.io/letters/2179-to-an-unknown-man-11"
+---
+
+::: {.letter-metadata}
+**Date:** June 27th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+Dear [Sir](people/person_149.qmd)
+Do you know what it is to make the worst blunders in that which one knows so well as hardly to think real recollection worth while. This is the only way in which I can understand my own blunder about that hymn upon Sennacherib, which is not only home made - by my [mother](people/person_1606.qmd) - but I have always heard every Sunday for more than twenty years.[^1]
+
+I will send the July No of the [Monthly Packet](organizations/other_52.qmd). A few spare ones are always sent to me as Editor so that I can quite send you this one but in general, copies are not supplied to contributors, it being more convenient to keep the accounts apart
+
+Yours sincerely
+C M Yonge
+
+I must beg you to send your present direction again. The letters were fetched from Winchester yesterday afternoon and you must have been mislaid with the envelopes, so I must send this to your former address to be forwarded.
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Probably the poem for the thirteenth Sunday after Trinity in *The Child’s Christian Year*, which begins: ‘ The Assyrian King in splendour came/ Determined Judah's pride to tame,/ Came to reproach and to defy/ With blasphemy, the Lord most high.’ Biggs had contributed ‘English Hymnology’ *MP* (July 1867) 14-19, the first in a series which he published as a book in 1873.

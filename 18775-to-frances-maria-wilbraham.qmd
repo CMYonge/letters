@@ -1,0 +1,54 @@
+---
+title: "To Frances Maria Wilbraham"
+letter_iso_date: "1875-10-24"
+letter_date: "Oct 24th [1875]"
+location: "Elderfield"
+manuscript: "MS Special Collections, University of Virginia Library"
+post_id: 18775
+letter_id: "to-frances-maria-wilbraham"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Maria Wilbraham"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-10-24"
+  url: "https://cmyonge.github.io/letters/18775-to-frances-maria-wilbraham"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 24th [1875]  
+**From:** Elderfield  
+**Manuscript:** MS Special Collections, University of Virginia Library
+:::
+
+My dear [Fanny](people/person_1513.qmd)
+Chambers' [Book of Days](other_books/otherbook_1106.qmd) gives another prophecy of [Mother Shipton](people/person_2399.qmd) but no account of her, and I do not know where else to look among my own resources, but I will look out for some of the people who know everything and see if they know
+
+I have an idea that people used to go and see Mother Shipton among the wax works when they went to London and saw the Lions in the Tower.  But I dare say I shall be able to find out more.
+
+I am to dine at Bishopstoke on Monday to meet [Sir Richard](people/person_1515.qmd) so I shall hear of you then.[^1]
+
+It is a pleasure to hear of you indeed when I can get the chance.  We go on much in the same way and I hope [my invalid](people/person_1462.qmd) is not beginning the winter badly.
+
+What a loss the [Bishop of Brechin](people/person_516.qmd) is, he is another gone from the old Hursley friends.
+
+How touching is the account of poor [Captain Goodenough](people/person_2400.qmd)[^2]
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: The Rt. Rev. Alexander Forbes, whose recent death is referred to in the letter, died on 8 October 1875.
+[^2]: The letter is endorsed in another hand 'To be torn up. You shall hear if further information is sent by CY or anyone else.  Would not your uncle Roland be an authority on the subject?  Yr. loving cousin Fanny'
+[^3]: CMY's cousin [George Yonge](people/person_1611.qmd) lived at Bishopstoke with his wife Lucy.  It has been assumed that the Sir Richard referred to here is General Sir Richard Wilbraham, brother of Fanny Wilbraham, and that the letter is therefore addressed to her.
+[^4]: Goodenough was a naval officer who died on 20 August 1875 as a result of an arrow wound sustained in a fight with natives of the Santa Cruz Islands (where [Bishop Patteson](people/person_1155.qmd) had also died).

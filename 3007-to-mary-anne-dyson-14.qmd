@@ -1,0 +1,51 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1853-02-23"
+letter_date: "February 23, 1853"
+location: "Otterbourne"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 191-3"
+post_id: 3007
+letter_id: "to-mary-anne-dyson-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1853-02-23"
+  url: "https://cmyonge.github.io/letters/3007-to-mary-anne-dyson-14"
+---
+
+::: {.letter-metadata}
+**Date:** February 23, 1853  
+**From:** Otterbourne  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 191-3
+:::
+
+My dear [Marianne](people/person_464.qmd)
+Please to return this testimonial to [Guy](cmy_books/cmybook_15.qmd) by return of post, as [papa](people/person_1631.qmd) has not seen it (being as usual gone to London), and I believe he will enjoy it more than any other. He and [Julian](people/person_1624.qmd) started for London yesterday morning, and [mamma](people/person_1606.qmd) and I made an agreement with the Miss Yards[^1] to walk to [Hursley](organizations/other_127.qmd), and take the fly back, then attempts at snow and rain began, and messages passed whether it was safe; but at last it cleared a little, and we thought now or never, another day the roads would be impassable, and off we set, and got there to church. We went after church to the Park for the second time lately, crossing [Lady H.](people/person_665.qmd) However, she had had time to come home, and we had a nice little visit there, and [Sir William](people/person_669.qmd)said things of your son that set my cheeks tingling; and meanwhile the Yards were at the Peters[^2], and [Peter](people/person_1636.qmd) declared he sympathised with Philip in his jealousy, for [his own wife](people/person_1633.qmd) had fallen in love all along of Miss Yonge. Well, we met at the Vicarage again, and stayed to tea, and most uncommonly delightful it was. [Mr. Keble](people/person_798.qmd) hardly did anything but talk all the evening. His view of Philip is that there are many such who, having done one grand thing, think themselves safe, and do not guard themselves; also his being so young accounts, he thinks, for his being such a prig. It is curious how it has grown on them, and on the Heathcotes too. [Mrs. Keble](people/person_795.qmd)'s favourite part is the *Mondenfelsen*[^3] time, and Ascension Day, but twice the other night she talked in her sleep warning them against the fever. It seems as if people were first angry, then sad, and then the peacefuleness of the end grew on them; altogether the effect has been much more than I ever expected, and if Guy was not your son I should be frightened to think of it. Fancy their thinking Charles like [Mr. H. Froude](people/person_529.qmd). I suppose the veiling feeling in fun may be, but it surprised me. It is curious that the Vicar and [Harriet](people/person_1359.qmd) should take the same view that Philip blamed himself over-much. But I did not mean to write only of this, I wanted to tell you that [Miss Adelaide](people/person_1577.qmd) did what I should not have dared, brought on a talk about [Dr. Newman](people/person_1084.qmd). It was she, the Vicar, and I; he talked of him as if the connection was a thing so past that he could speak of him without pain; he said he had lately seen a letter from him, 'a very kind letter,' and then he talked of his looking so ill, and being gone to Abbotsford.[^4] Afterwards the paper came in, and he read about that comment on [the Judge](people/person_344.qmd)'s speech; he ended with 'So that's the way Newman takes what Coleridge says to him; I could not have thought it of him.'[^5] Then we went to something else. Mrs. Keble seems well and brisk. Fly was engaged, so an express went for our vehicle, and I had a happy drive home in white moonlight, wrapt up in Mrs. Keble's fur cloak, and there we found at home this grand puff, which I hold to be the finest yet. A note from papa tells us [Parker](people/person_1144.qmd) has sold 500 out of 750 and talks of an edition of 1000. I wish you could have heard [Mr. Wilson](people/person_1541.qmd)'s morals: one was that the steady battling with one fault perfected the character.
+
+*Private*
+
+I should like you to know the comfort and peace I had in the little study at H[ursley]. V[icarage]. yesterday. It is too precious to have him to bring all one's fears of vainglory, etc., to, and hear him say, 'Yes, my dear, I have been thinking a great deal about you now,' and when he said a successful book might be the trial of one's life - it was so exactly what was nice, not telling one not to enjoy the praise, and like to hear it talked about, but that way of at once soothing and guarding, and his telling me to think of the pleasure it was to my father and mother; and then, besides the safeguard of prayer and offering of talents, etc., he said in this case I might dwell on how much it is yours, so you see you must not mind my sending it all to you. I wish I could give you the effect of the peacefulness and subduing happiness of it, especially when I asked for the blessing, and he said, 'you shall have it, such as it is,' and then he took the words he never used with me before, 'prosper Thou her handiwork,' which seemed to seal a daily prayer, and make all bearable and not vain.[^6]
+
+The going back and chattering in the drawing-room did not hurt that twilight time; and then came a moonlight drive home, when we found this note, and I just glanced at what he said, and then came home prayers - and the first was the collect ‘knowest our necessities before we ask’ - and wont to give more, etc. - it did so seem to fit - that opportunity of pouring out to Mr. K[eble]., and being set at rest as to how to look at it, coming just when it did - and the peace went on into this morning's church-time.<sup>7</sup> I thought of what you wanted me to ask him, but it was tea-time, and I could not.
+
+I could not help telling you, but keep it to yourself. 'If you keep watch and go on in your own natural way, it need do you no harm,' he said.
+
+---
+
+[^1]: [Eliza](people/person_1578.qmd) and [Adelaide Yard](people/person_1577.qmd), who lived in Otterbourne.
+[^2]: An allusion to La Motte Fouqué's *Sintram*, indicating that CMY saw Guy's banishment to Redclyffe as analogous to Sintram's banishment to the Rocks of the Moon.
+[^3]: Walter Scott's house, now inhabited by the Catholic converts the Hope-Scotts.  Newman had spent the second half of December and most of January there.
+[^4]: Sir John Taylor Coleridge was one of the judges in the court case in which Giacinto Achilli sued Newman for libel.  Newman had appeared in court on 31 January 1853, and Coleridge had referred in his speech to the 'deterioration of converts.'
+[^5]: CMY amplifies this in *Musings over the Christian Year* xxxiii: When I came to him alarmed at my own sense of vainglory, he told me, 'a successful book might be trial of one's life; ' shewed me how work (even of this sort) might be dedicated;  how, whenever it was possible, I could explain how the real pith of the work came from another mind;  and dismissed me  the concluding words of the 90th Psalm (the which has most thankfully, I own, so far been realized). Psalm 90 in the Prayer Book version ends: ' prosper thou the work of our hands upon us, O prosper thou our handy-work'.
+[^6]: Two collects are here referred to, the collect for the anniversary of the accession of Queen Victoria (20 June), which includes the words ‘Almighty God, the fountain of all wisdom, who knowest our necessities before we ask, and our ignorance in asking ‘ and the collect for the Twelfth Sunday after Trinity, which begins ‘Almighty and everlasting God, who art always more ready to hear than we are to pray, and art wont to give more than either we desire, or deserve’.

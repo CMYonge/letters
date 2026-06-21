@@ -1,0 +1,27 @@
+---
+title: "Beechcroft at Rockstone.2 vols."
+book_id: 201
+sort_title: "Beechcroft at Rockstone."
+---
+
+## Publication Information
+
+**Date:** 1888
+
+**Genre:** Fiction (modern)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+**Notes:** This is a sequel to <i>Scenes and Characters</i> and <i>The Two Sides of the Shield.</i>
+
+## Letters Mentioning This Work
+
+- [Letter 2855](../2855-to-christabel-rose-coleridge-113.qmd)
+- [Letter 2856](../2856-to-christabel-rose-coleridge-114.qmd)
+- [Letter 2897](../2897-to-lady-frederick-bruce.qmd)
+- [Letter 2899](../2899-to-george-lillie-craik-74.qmd)
+- [Letter 2901](../2901-to-george-lillie-craik-76.qmd)
+- [Letter 2907](../2907-to-george-lillie-craik.qmd)
+- [Letter 3216](../3216-to-lady-frederick-bruce-3.qmd)
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+

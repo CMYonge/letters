@@ -1,0 +1,15 @@
+---
+title: "Alexandre Dumas - Le Comte de Monte-Cristo"
+book_id: 1120
+---
+
+## Publication Information
+
+**Date:** 1844-1845
+
+**Imprint:** Paris: Pétion
+
+## Letters Mentioning This Work
+
+- [Letter 2514](../2514-to-edward-augustus-freeman-9.qmd)
+

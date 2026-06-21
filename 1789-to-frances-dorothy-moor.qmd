@@ -1,0 +1,42 @@
+---
+title: "To Frances Dorothy Moor"
+letter_iso_date: "1860-04-10"
+letter_date: "April 10th 1860"
+manuscript: "MS Charlotte Mitchell"
+post_id: 1789
+letter_id: "to-frances-dorothy-moor"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Dorothy Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-04-10"
+  url: "https://cmyonge.github.io/letters/1789-to-frances-dorothy-moor"
+---
+
+::: {.letter-metadata}
+**Date:** April 10th 1860  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Mrs Moor](people/person_1044.qmd),
+
+I am afraid Otterbourne will be unrepresented at [Ampfield](organizations/other_124.qmd)[^1] on the 21st, as [Mamma](people/person_1606.qmd) and I are going on the 17th to London for a few days, chiefly to meet the Colbornes on their return from Ireland.[^2] I did not write before because our plans were not fully fixed.  We shall not be long gone, but it is a pity we just miss your celebration.
+
+yours sincerely
+
+CMYonge
+
+---
+
+[^1]: Ampfield was the neighbouring parish where Mrs Moor’s husband was perpetual curate.
+[^2]: FMY's stepbrother [Lord Seaton](people/person_313.qmd) served as commander-in-chief of the army in Ireland 1855-1860.

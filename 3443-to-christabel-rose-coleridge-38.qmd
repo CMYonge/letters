@@ -1,0 +1,49 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-02-03"
+letter_date: "Feb 3 1900"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/90"
+post_id: 3443
+letter_id: "to-christabel-rose-coleridge-38"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-02-03"
+  url: "https://cmyonge.github.io/letters/3443-to-christabel-rose-coleridge-38"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 3 1900  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/90
+:::
+
+My dear [C C](people/person_329.qmd)
+I wonder whether you are snowed up  There were six inches of snow outside the verandah this morning and the untrodden snow is a beautiful sight as long as one has not to tread it, and is not gasping for the newspaper.  I hope it is keeping the daffodils safe under it for you. Two days ago, I gathered some snow drops, and saw the noses of some of the big double daffodils  I shall be very glad of you in March. [Frances](people/person_1604.qmd) and [Helen](people/person_1613.qmd) go home at the end of this month, indeed only Helen is here now, as her mother is with [Mrs Jones Bateman](people/person_784.qmd).  Also Helen has a puppy here with whom you would be in love, as are all the maids.  Its mother is a black poodle, and it ought not to have come into existence at all, the parentage being uncertain, but it is very handsome and clever, only it has white gloves and tie which spoil it rather. The mother is gone to the Keeper’s to complete the separation, and it is full of play and very well behaved.
+
+Yes, I like the devotional paper very much, though I remember [Mr Keble](people/person_798.qmd)’s pointing out how much too far the hymn went with
+
+‘I may as well kneel down 
+And worship gods of stone[^1]
+
+I like the Holy Land article too, and the Old Comrades are always excellent, the best chance of seeing <u>le dessous des cartes</u>.  If I am not too lazy I shall write to the [A Journal](organizations/other_72.qmd) about the difficulty of treating servant girls on an equality.  We can do it, but it would alienate the lower classes of shop girls altogether, though the upper sort might understand, being nearly ladies.  And the mistresses would be very angry at some of their little maids having ‘Miss’-  Why, [Mrs Tryen](people/person_2212.qmd) even scratched out the girls <u>own</u> name, Isabel, as too fine for her. [Maude](people/person_1629.qmd) (Mrs Maurice) has an Eugenie, whose young man is at Frere Camp, and who sent her a beautiful butterfly and some locust wings, but he is wounded now.[^2]  [Alethea](people/person_182.qmd) is spending a week with the Maurices, and the three eldest children go to [Miss Finlaison](people/person_512.qmd).
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: The hymn, whose authorship is disputed, begins ‘I often say my prayers/ But do I ever pray?’.  CMY also cites Keble’s opinion of this verse in *Musings Over the Christian Year*, xvii (there attributed to Jane Taylor).
+[^2]: The sense of this is that Maude Yonge, wife of CMY's nephew Maurice, also has a maid with an exotic name, Eugenie, whose boyfriend is fighting in the Boer War.

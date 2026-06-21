@@ -1,0 +1,23 @@
+---
+title: "Langley School.By the author of “The Kings of England.” Reprinted from the Magazine for the Young."
+book_id: 9
+sort_title: "Langley School."
+---
+
+## Publication Information
+
+**Date:** 1850
+
+**Genre:** Fiction
+
+**Publisher:** John and Charles Mozley, Paternoster Row, London, and Joseph Masters, New Bond Street, London.
+
+**Notes:** Twenty-seven Langley stories were published in the <i>Magazine for the Young</i> of which fifteen were reprinted in <i>Langley School.</i>
+
+## Letters Mentioning This Work
+
+- [Letter 2854](../2854-to-christabel-rose-coleridge-112.qmd)
+- [Letter 2963](../2963-to-mary-anne-dyson-4.qmd)
+- [Letter 3206](../3206-to-arthur-donald-innes.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
+

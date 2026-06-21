@@ -1,0 +1,13 @@
+---
+title: "Richard Smith"
+person_id: 1341
+---
+
+## Biographical Information
+
+an inhabitant of Otterbourne in 1838
+
+## Letters Mentioning This Person
+
+- [Letter 2936](../2936-to-anne-yonge-4.qmd)
+

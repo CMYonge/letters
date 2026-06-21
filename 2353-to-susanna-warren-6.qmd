@@ -1,0 +1,39 @@
+---
+title: "To Susanna Warren"
+letter_iso_date: "1868-11-09"
+letter_date: "Novr 9th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas."
+post_id: 2353
+letter_id: "to-susanna-warren-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Susanna Warren"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-11-09"
+  url: "https://cmyonge.github.io/letters/2353-to-susanna-warren-6"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 9th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas.
+:::
+
+My dear[Miss Warren](people/person_1475.qmd),
+I am quite inclined to believe the Cambridge examinations[^1] to be a very good thing. I should have been very glad of them to work for when I was young enough. I hope it may occupy the clever young ladies [*the rest missing*]
+
+---
+
+[^1]: Black-edged paper
+[^2]: During the 1850s Oxford and Cambridge had established written examinations to test the adequacy of the teaching in boys’ schools. They became known as 'local' examinations because they were held at centres throughout the country.  In 1863 Emily Davies, the educational pioneer, had arranged for girls to be admitted informally to the Cambridge examinations, and in 1865 girls were formally admitted.  CMY’s *The Disturbing Element, or, Chronicles of the Blue-bell Society* (1878) concerns a group of girls who come together to prepare for the Cambridge locals.

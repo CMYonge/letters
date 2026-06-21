@@ -1,0 +1,48 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1877-12-22"
+letter_date: "Decr 22nd 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 42-43"
+post_id: 2614
+letter_id: "to-george-lillie-craik-32"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-12-22"
+  url: "https://cmyonge.github.io/letters/2614-to-george-lillie-craik-32"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 22nd 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 42-43
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I have got into a puzzle how to manage with the further [Scripture readings](cmy_books/cmybook_129.qmd). Clay has printed them so slowly that I have only gone on with them when the arrival of proofs has warned me that copy would be wanted. And  now I find that the volume has come to its regular size - about 250 pp in the middle of the Acts - i e when St Paul is at Ephesus on his 3d journey, and the 1st Epistle to the Corinthians has just been worked in, in parts of course
+
+What shall I do. I should think it  would take about 100pp to finish up in due proportion to the rest, and I suppose we must make the volume take them in. In truth the 3d volume ought to have gone to the end of the Old Testament.
+
+Will [‘Story and History of the Moors and Christians’](cmy_books/cmybook_126.qmd) in Spain do for the new book -? Is  there any objection to making large extracts from Lockhart’s [Spanish ballads](other_books/otherbook_897.qmd), or would it be safer to /ask\\ consult [Mr Murray](people/person_2312.qmd)’s consent.
+
+I translate for myself when I have the original, but I have not in many cases.
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

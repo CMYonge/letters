@@ -1,0 +1,43 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1865-10-30"
+letter_date: "Oct 30th [1865]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels."
+post_id: 2078
+letter_id: "to-christabel-rose-coleridge-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-10-30"
+  url: "https://cmyonge.github.io/letters/2078-to-christabel-rose-coleridge-7"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 30th [1865]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels.
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Photography must certainly turn you into a most pensive mood. You are a great contrast to the solid jolly damsel in the old [Gosling](organizations/other_104.qmd) book.[^1] Your Ridge is very good. I will send it round with the answers, but as yet I have had no answers but [Cricket](people/person_1603.qmd) and [Lady bird](people/person_17.qmd), and the [Turks cap](people/person_1520.qmd) has been so ill used that she has had neither questions answers nor [Barnacle](organizations/other_89.qmd), this time – so I shall give a horrible hiss when I send my Cackle. [Genl Wilford](people/person_1521.qmd) gives up his house at Woolwich this next month, so it will be best to direct everything to her to the care of [Mrs Cristall](people/person_384.qmd), St Cross, Winchester. I think after Christmas we shall fill up [Cobweb](people/person_675.qmd)’s place with a [Lilian Mitchell](people/person_1008.qmd) at Kings Teignton who has rather a romantic history.[^2] I saw [Pena](people/person_973.qmd) twice, but she was away most of the time I was in her parts. I have not heard from [Alice](people/person_327.qmd) since the great affair at Hurstpierpoint-[^3] I have written letters and tidied all day and my wits are exhausted 
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: The members of the Gosling Society had presented CMY with an album of photographs of themselves for Christmas 1861.
+[^2]: Lilian Mary Mitchell (1847/8-1893) was an orphan in the care of the Rev. John Hawkins Hext, vicar of King’s Teignton, whose son she married in 1874. She was on the circulation list for the Christmas 1865 *Barnacle*, taking the name Ugly Duckling.
+[^3]: Alice Coleridge had been brought up by her elder sister, whose husband, the Revd Edward Clarke Lowe (1823–1912) was headmaster of Hurstpierpoint College, one of the Woodard schools founded to raise the standard of education for the middle classes.  The 'great affair' was probably the dedication of the chapel on 17 October 1865.

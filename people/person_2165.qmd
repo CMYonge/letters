@@ -1,0 +1,13 @@
+---
+title: "Mrs Wathen"
+person_id: 2165
+---
+
+## Biographical Information
+
+of Bournemouth
+
+## Letters Mentioning This Person
+
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+

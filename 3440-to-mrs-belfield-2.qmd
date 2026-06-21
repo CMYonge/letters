@@ -1,0 +1,48 @@
+---
+title: "To Florence Belfield"
+letter_iso_date: "1900-01-20"
+letter_date: "Jan 20th [1900]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Girton College Cambridge, Yonge XIII 1"
+post_id: 3440
+letter_id: "to-mrs-belfield-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Belfield"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-01-20"
+  url: "https://cmyonge.github.io/letters/3440-to-mrs-belfield-2"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 20th [1900]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Girton College Cambridge, Yonge XIII 1
+:::
+
+Dear [Mrs Belfield](people/person_133.qmd)
+The precious mittens are safely come - it is a very curious genealogy for them - They are exactly like some little lace mittens of the 17th century figured in Mrs Earle’s[‘Child Life in Colonial days’](other_books/otherbook_756.qmd)
+
+Madam Cromwell must been Elizabeth daughter of Richard who died at 83 in 1741 - Her mother, who was Dorothy Major of Hursley died in 1675 - so the mittens could not have been sent to her -[^1]
+
+I will return them as soon as I have been able to shew them to a [cousin](people/person_28.qmd)of mine, devoted to King Charles and will in the meantime keep them safely
+
+I knew Mrs Wynyard when she was living at Hursley. I was glad to hear she is so much better
+
+Yours truly
+C.M. Yonge
+
+---
+
+[^1]: Envelope addressed to ‘Mrs Belfield/Malmain/French hay /Bristol and postmarked Winchester 21 January 1900.
+[^2]: The mittens had no doubt been sent to CMY in response to the account in *John Keble's Parishes* of the connection of the Cromwell and Major families with Hursley.

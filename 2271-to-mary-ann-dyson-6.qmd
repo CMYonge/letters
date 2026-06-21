@@ -1,0 +1,41 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1868-09-30"
+letter_date: "September 30, 1868"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 235"
+post_id: 2271
+letter_id: "to-mary-ann-dyson-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-09-30"
+  url: "https://cmyonge.github.io/letters/2271-to-mary-ann-dyson-6"
+---
+
+::: {.letter-metadata}
+**Date:** September 30, 1868  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 235
+:::
+
+My dear [Marianne](people/person_464.qmd)
+[Mr. Wither](people/person_1544.qmd) is at the [Hospital](organizations/other_36.qmd) to-day or he would have written to you; he will write on Saturday. Meantime there is only to say that we are quiet and even cheerful, going to church and walking in the garden and talking over many things. [Julian](people/person_1624.qmd) and [Frances](people/person_1604.qmd) all kindness. I shall probably return to [Puslinch](organizations/other_123.qmd) with [Anne](people/person_1582.qmd), but there is much to set in order, and Julian and I are executors together. I shall have the same income that she had besides my own, and I feel as if all directed me to go on in the same way here, where the lack of any other lady to deal with the parish makes me almost necessary, and besides, it helps Julian.
+
+[Harriet](people/person_1359.qmd) is full of keen sorrow. She is to make a visit to her aunt in Wiltshire when the stress of work is over.
+
+I think I should be here full a month before going, Anne with me. The present feeling is weight on all, but still peace and joy. Poor [Mrs. Hawkins](people/person_645.qmd).
+
+Your most affectionate
+C. M. Yonge

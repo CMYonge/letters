@@ -1,0 +1,15 @@
+---
+title: "George Eliot - Adam Bede"
+book_id: 983
+---
+
+## Publication Information
+
+**Date:** 1859
+
+**Imprint:** Edinburgh: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 2801](../2801-to-gertrude-mary-ireland-blackburne-3.qmd)
+

@@ -1,0 +1,39 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-07-04"
+letter_date: "July 4. 1865"
+manuscript: "Copy outletter book British Library Add MSS. 55384 (2): P. 627"
+post_id: 2052
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-37"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-07-04"
+  url: "https://cmyonge.github.io/letters/2052-alexander-macmillan-to-charlotte-mary-yonge-37"
+---
+
+::: {.letter-metadata}
+**Date:** July 4. 1865  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (2): P. 627
+:::
+
+My dear Miss Yonge	
+[I](people/person_939.qmd) have seen the lithographer this morning and shown him [Miss John](people/person_887.qmd)’s drawing. He, I am sorry to say, was more emphatic against it than even I felt. Would you mind my going to my friend [Mr Farren](people/person_500.qmd) I do not like seeming to slight your friend but indeed I doubt much whether Miss Johns could do justice to the charming story. Mr Farren has greatly improved since he did the [Little Duke](cmy_books/cmybook_20.qmd) pictures, and would I am sure do something very effective. [Mr Brooke](people/person_1947.qmd) is just patenting a new style of photolith. which he thinks will be a very great improvement on the old. He and Mr Farren would be together and the drawing would be made in a style suitable to the process.
+
+Pray tell me if I may go on with them.
+
+Yours very truly
+A. Macmillan
+
+I agree to the number of [illustrations](organizations/other_167.qmd) you propose.

@@ -1,0 +1,13 @@
+---
+title: "Speedwell"
+person_id: 2291
+---
+
+## Biographical Information
+
+an unidentified member of the Gosling Society
+
+## Letters Mentioning This Person
+
+- [Letter 2475](../2475-to-christabel-rose-coleridge-79.qmd)
+

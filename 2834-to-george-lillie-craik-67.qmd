@@ -1,0 +1,55 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1886-06-14"
+letter_date: "June 14th [1886]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 149-50:"
+post_id: 2834
+letter_id: "to-george-lillie-craik-67"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-06-14"
+  url: "https://cmyonge.github.io/letters/2834-to-george-lillie-craik-67"
+---
+
+::: {.letter-metadata}
+**Date:** June 14th [1886]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 149-50:
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+[Mudie](organizations/other_137.qmd)’s books have come at last, after spending ten days on the road. [Greville](other_books/otherbook_1002.qmd) is there. And the [Queen’s Journals](other_books/otherbook_1009.qmd).[^1]
+
+Shall I return you the latter from the [London Library](organizations/other_29.qmd).
+
+I ought to have the Proofs of [the Quest of Ulysses](cmy_books/cmybook_185.qmd). I know I put Lord Balmerino into the wrong rebellion which is as bad as putting Dunfermline on the wrong side of Scotland as I did in [Unknown to History](cmy_books/cmybook_157.qmd).
+
+So much for not verifying!
+
+There is a horrible misprint in the [Armourers’ prentices](cmy_books/cmybook_171.qmd). Alderman Ityllio.
+
+It is in the two  complete editions, but not in in [sic] the [Magazine](organizations/other_68.qmd). I believe it arose from my trying to change his name in the proof, and not having a revise. I meant it for Hillyard, but I have never yet discovered how to make an H that the printers do not take for It or a z that they do not make into a y[^2]
+
+Yours truly
+C M Yonge		
+
+After all Mudie has only sent the second Highland Journal so I must keep the first
+
+---
+
+[^1]: These were books she required for work on *Victorian Half-Century*.
+[^2]: CMY’s way of writing a Z is often confusing.

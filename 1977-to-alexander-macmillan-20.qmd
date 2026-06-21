@@ -1,0 +1,47 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-09-14"
+letter_date: "Sept 14th [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library: Add MSS 54920: 38-39"
+post_id: 1977
+letter_id: "to-alexander-macmillan-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-09-14"
+  url: "https://cmyonge.github.io/letters/1977-to-alexander-macmillan-20"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 14th [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library: Add MSS 54920: 38-39
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Herewith are the first division of [Deeds](cmy_books/cmybook_51.qmd). I will put a short preface before the introductory chapter I have sent. There are some bits to touched up in the proofs - i.e. the scenery of the Decius story - and of the 'the Chief of the Arverni'. I shall get at my books better in another week, but I will not delay longer.
+
+Also I wrote in the stock gladiator lines (which hackneyed as they are, are too beautiful to be left out) - from memory, leaving gaps to fill up, which I will do in the proof.[^1]
+
+I told you wrong yesterday about the centuries. I fear I can find no deeds between 500 and 900 
+
+In much haste
+Yours very truly
+C. M. Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: In ‘The Last Fight in the Colisæum’ CMY quotes Byron, *Childe Harold* iv, 140-1: ‘I see before me the Gladiator lie . . ‘ The slightly disparaging tone is typical of her attitude to Byron.

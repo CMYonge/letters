@@ -1,0 +1,15 @@
+---
+title: "Owen Jones"
+person_id: 782
+---
+
+## Biographical Information
+
+(1809-1874)
+
+designer and decorator
+
+## Letters Mentioning This Person
+
+- [Letter 2457](../2457-to-edward-augustus-freeman-6.qmd)
+

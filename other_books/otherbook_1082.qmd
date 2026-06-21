@@ -1,0 +1,15 @@
+---
+title: "Hannah More - The History of Hester Wilmot, or, The New Gown"
+book_id: 1082
+---
+
+## Publication Information
+
+**Date:** 1796
+
+**Imprint:** London: Marshall
+
+## Letters Mentioning This Work
+
+- [Letter 2908](../2908-to-edward-augustus-freeman-14.qmd)
+

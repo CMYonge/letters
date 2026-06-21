@@ -1,0 +1,17 @@
+---
+title: "Sir Thomas Malory - Le Morte Darthur"
+book_id: 235
+---
+
+## Publication Information
+
+**Date:** 1498
+
+**Imprint:** London: Caxton
+
+## Letters Mentioning This Work
+
+- [Letter 2170](../2170-alexander-macmillan-to-charlotte-mary-yonge-48.qmd)
+- [Letter 2806](../2806-to-frances-sophia-coleridge-patteson-7.qmd)
+- [Letter 3008](../3008-to-elizabeth-roberts-25.qmd)
+

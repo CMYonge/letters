@@ -1,0 +1,23 @@
+---
+title: "English History Reading Books, adapted to the requirements of the New Code. Parts 1-5. Part 6: The Young Student’s History Reading Book."
+book_id: 150
+sort_title: "English History Reading Books, adapted to the requirements of the New Code"
+---
+
+## Publication Information
+
+**Date:** 1881-1883
+
+**Genre:** Non-fiction: history
+
+**Publisher:** London: National Society’s Depository, Broad Sanctuary, Westminster.
+
+## Letters Mentioning This Work
+
+- [Letter 2708](../2708-to-francis-turner-palgrave.qmd)
+- [Letter 2713](../2713-to-the-reverend-william-parsons-warburton-9.qmd)
+- [Letter 2714](../2714-to-harper-bros-3.qmd)
+- [Letter 2715](../2715-to-mr-duncan-2.qmd)
+- [Letter 2740](../2740-to-mr-duncan-3.qmd)
+- [Letter 2751](../2751-to-margaret-wilcox.qmd)
+

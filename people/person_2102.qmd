@@ -1,0 +1,15 @@
+---
+title: "Miss Hill"
+person_id: 2102
+---
+
+## Biographical Information
+
+lame friend of the Jones-Batemans
+
+CMY describes this woman to [Florence Wilford](person_1520.qmd) as 'sister of Mr Rowland Hill'.  Unfortunately, there are several possible Rowland Hills, and it is uncertain which CMY means here.
+
+## Letters Mentioning This Person
+
+- [Letter 3164](../3164-to-florence-wilford-6.qmd)
+

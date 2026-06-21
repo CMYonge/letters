@@ -1,0 +1,15 @@
+---
+title: "Richard Lovell Edgeworth"
+person_id: 1841
+---
+
+## Biographical Information
+
+(1744-1817)
+
+father of Maria Edgeworth, education theorist
+
+## Letters Mentioning This Person
+
+- [Letter 2330](../2330-to-mary-ann-dyson-2.qmd)
+

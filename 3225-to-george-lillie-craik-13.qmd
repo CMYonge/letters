@@ -1,0 +1,43 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1893-08-08"
+letter_date: "Aug 8th 1893"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 196-7"
+post_id: 3225
+letter_id: "to-george-lillie-craik-13"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-08-08"
+  url: "https://cmyonge.github.io/letters/3225-to-george-lillie-craik-13"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 8th 1893  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 196-7
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I shall be very happy to have the [Little Duke](cmy_books/cmybook_20.qmd)and [the Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd)manipulated for schools. I should think there would be little to do to the Little Duke as it was written for children. I should have thought the [Lances of Lynwood](cmy_books/cmybook_23.qmd)more suitable than the Dove as being on English history.
+
+I know the Eversley country is full of beauty, I once drove through it. I believe there is rather a complication of trains for coming to Winchester or Shawford, our nearest  station, but if you and [Mrs Craik](people/person_378.qmd)could come and lunch here it would be very pleasant I shall however be at [Miss Moberly](people/person_1025.qmd)’s The Close Winchester all next week
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** [‘Royalty of 5 per cent’](organizations/other_160.qmd) is written in another hand at the top.

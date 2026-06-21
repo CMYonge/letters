@@ -1,0 +1,41 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1869-05-29"
+letter_date: "May 29th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2315
+letter_id: "to-the-reverend-john-frewen-moor-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-05-29"
+  url: "https://cmyonge.github.io/letters/2315-to-the-reverend-john-frewen-moor-10"
+---
+
+::: {.letter-metadata}
+**Date:** May 29th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+Your letter followed me home from [Brighstone](organizations/other_140.qmd) whence I returned on Wednesday. I will give you 10/ for St Pauls church when next I have an opportunity, but on Monday I am going to Oxford and I do not come back till the 12th
+
+Yours sincerely
+C M  Yonge
+
+---
+
+**Note:** Black-edged paper.

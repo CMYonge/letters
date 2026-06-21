@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1877-02-02"
+letter_date: "Feb 2nd 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 15"
+post_id: 2571
+letter_id: "to-george-lillie-craik-24"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-02-02"
+  url: "https://cmyonge.github.io/letters/2571-to-george-lillie-craik-24"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 2nd 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 15
+:::
+
+Dear [Mr Craik](people/person_379.qmd),
+
+Thinking it over I had rather, since you are so kind, keep [the £200](organizations/other_160.qmd) on credit, as I think the receipt for /this\\ next year, considering the [Cameos](cmy_books/cmybook_124.qmd) and the two French histories must a good deal more than cover that sum, and it is convenient to me to have it in hand just now[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The 'two French histories' were the *History of France*, in the 'Historical Course for Schools' which E. A. Freeman, the series editor, was making her rewrite, and which was not actually published until 1879; and the *History of France* (1878) which she was contributing to the 'History Primers' series edited by J. R. Green. The former was aimed at older children, and had ten chapters rather than eight.

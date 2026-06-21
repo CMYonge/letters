@@ -1,0 +1,13 @@
+---
+title: "Miss Katherine Tucker"
+person_id: 1423
+---
+
+## Biographical Information
+
+inhabitant of Otterbourne in 1838
+
+## Letters Mentioning This Person
+
+- [Letter 2939](../2939-to-anne-yonge-7.qmd)
+

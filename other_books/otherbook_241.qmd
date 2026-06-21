@@ -1,0 +1,43 @@
+---
+title: "Ethel Romanes - Charlotte Mary Yonge: An Appreciation"
+book_id: 241
+---
+
+## Publication Information
+
+**Date:** 1908
+
+**Imprint:** London: Mowbray
+
+## Letters Mentioning This Work
+
+- [Letter 1836](../1836-to-frances-sophia-coleridge-patteson-4.qmd)
+- [Letter 1847](../1847-to-elizabeth-barnett-or-edith-emma-butler.qmd)
+- [Letter 1966](../1966-to-elizabeth-barnett-11.qmd)
+- [Letter 2001](../2001-to-elizabeth-barnett-12.qmd)
+- [Letter 2024](../2024-to-an-unknown-person-perhaps-elizabeth-barnett-2.qmd)
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+- [Letter 2113](../2113-to-an-unknown-person-5.qmd)
+- [Letter 2468](../2468-to-elizabeth-barnett-16.qmd)
+- [Letter 2489](../2489-to-elizabeth-wordsworth-6.qmd)
+- [Letter 2801](../2801-to-gertrude-mary-ireland-blackburne-3.qmd)
+- [Letter 2808](../2808-to-annie-louise-cazenove-4.qmd)
+- [Letter 2816](../2816-to-gertrude-mary-ireland-blackburne-4.qmd)
+- [Letter 2822](../2822-to-gertrude-mary-ireland-blackburne-5.qmd)
+- [Letter 2847](../2847-to-the-very-reverend-william-john-butler-3.qmd)
+- [Letter 2871](../2871-to-elizabeth-barnett.qmd)
+- [Letter 2973](../2973-to-elizabeth-barnett-2.qmd)
+- [Letter 2975](../2975-to-elizabeth-barnett-3.qmd)
+- [Letter 3020](../3020-to-elizabeth-barnett-4.qmd)
+- [Letter 3031](../3031-to-elizabeth-barnett-5.qmd)
+- [Letter 3053](../3053-to-elizabeth-barnett-6.qmd)
+- [Letter 3108](../3108-to-elizabeth-barnett-7.qmd)
+- [Letter 3134](../3134-to-elizabeth-barnett-8.qmd)
+- [Letter 3182](../3182-to-an-unknown-person-7.qmd)
+- [Letter 3183](../3183-to-an-unknown-person-8.qmd)
+- [Letter 3231](../3231-to-the-very-reverend-george-david-boyle.qmd)
+- [Letter 3265](../3265-to-ethel-romanes-2.qmd)
+- [Letter 3518](../3518-to-elizabeth-barnett-10.qmd)
+- [Letter 3520](../3520-to-elizabeth-barnett.qmd)
+- [Letter 3593](../3593-to-florence-gertrude-norsworthy.qmd)
+

@@ -1,0 +1,48 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1863-11-24"
+letter_date: "Novr 24th [1863]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 9-10"
+post_id: 1917
+letter_id: "to-alexander-macmillan-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-24"
+  url: "https://cmyonge.github.io/letters/1917-to-alexander-macmillan-6"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 24th [1863]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 9-10
+:::
+
+[Sir](people/person_939.qmd),
+
+ I am obliged for your letter of the 23d, and the terms you propose. My [brother](people/person_1624.qmd) will be in town next week, and will call on you to make the arrangements on any day after Tuesday. Perhaps you would be good enough to send me a line saying on which day he would be most sure of finding you at home. He would be with you at any hour of the morning you would name after 10.30-
+
+I omitted to mention my [history of Christian names](cmy_books/cmybook_48.qmd) in the list of books I sent up to you that I should wish to place in your hands -
+
+The printing of my books has hitherto been done by [Messrs Saville and Edwards](organizations/other_162.qmd) and if it fell in with your arrangements, I would think this had better continue, but this as well as the other matters had best be settled between you and my brother
+
+Yours faithfully
+C.M. Yonge		
+
+A. Macmillan Esq
+
+---
+
+**Note:** Black-edged paper.

@@ -1,0 +1,17 @@
+---
+title: "Rear-Admiral Sir Edmund Lyons"
+person_id: 1757
+---
+
+## Biographical Information
+
+(1790-1858)
+
+naval officer
+
+Second-in-command of the British fleet during the Crimean War.
+
+## Letters Mentioning This Person
+
+- [Letter 3055](../3055-to-anne-yonge-31.qmd)
+

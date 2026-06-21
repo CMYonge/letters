@@ -1,0 +1,42 @@
+---
+title: "Charles Wooldridge to Charlotte Mary Yonge"
+letter_iso_date: "1895-06-14"
+letter_date: "June 14 1895"
+manuscript: "Copy outletter book, Hampshire Record Office 70M92W/59/156"
+post_id: 3296
+letter_id: "charles-wooldridge-to-charlotte-mary-yonge-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Charles Wooldridge to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-06-14"
+  url: "https://cmyonge.github.io/letters/3296-charles-wooldridge-to-charlotte-mary-yonge-7"
+---
+
+::: {.letter-metadata}
+**Date:** June 14 1895  
+**Manuscript:** Copy outletter book, Hampshire Record Office 70M92W/59/156
+:::
+
+Dear Madam
+I enclose the deed for [Mrs. Yonge](people/person_1604.qmd)’s signature in one place only where you will see her name written in pencil. [^1]  This signature should be made in the presence of a witness who will sign where shewn adding address & occupation, a householder is best, but a servant will do.  <u>You</u> must not, of course, be the witness.  Please leave the date blank & return me the deed as soon as possible as it has to be stamped &c.
+
+I am yours faithy
+[Chas Wooldridge](people/person_2094.qmd)
+
+Miss Yonge
+70 Kensington Gardens Square
+
+---
+
+[^1]: The deed transferring the insurance policy on Frances Yonge’s life to CMY.

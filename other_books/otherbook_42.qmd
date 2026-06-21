@@ -1,0 +1,15 @@
+---
+title: "Sir John Taylor Coleridge - A Memoir of the Rev. John Keble"
+book_id: 42
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Imprint:** Oxford: Parker
+
+## Letters Mentioning This Work
+
+- [Letter 7749](../7749-to-sir-john-taylor-coleridge.qmd)
+

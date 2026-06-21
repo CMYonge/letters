@@ -1,0 +1,43 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1887-07-27"
+letter_date: "July 27th [1887]"
+location: "Elderfield"
+manuscript: "MS Westcountry Studies Library, Exeter/  1887/ 1"
+post_id: 2861
+letter_id: "to-ann-maria-carter-smith-92"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-07-27"
+  url: "https://cmyonge.github.io/letters/2861-to-ann-maria-carter-smith-92"
+---
+
+::: {.letter-metadata}
+**Date:** July 27th [1887]  
+**From:** Elderfield  
+**Manuscript:** MS Westcountry Studies Library, Exeter/  1887/ 1
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I am much entertained by your Scarborough paper as I remember those Rivaulx terraces some 25 years ago, the only place where my sights coincide with yours.[^1]  I only wish I saw more present prospect of room for it!  You must be one of my oldest contributors.  Did you not like Miss Sewell’s paper on [family traditions](other_books/otherbook_1028.qmd)
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: MS Westcountry Studies Library, Exeter/  1887/ 2 is a Silurian envelope addressed to Miss Carter Smith/ Aspley House/ Aspley Guise/ Woburn, postmarked Winchester  (date and month cut out) 1887.
+[^2]: The article has not been identified.

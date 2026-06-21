@@ -1,0 +1,36 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1855-12-18"
+letter_date: "[December 1855]"
+manuscript: "MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 123"
+post_id: 3076
+letter_id: "to-alice-arbuthnot-moberly-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-12-18"
+  url: "https://cmyonge.github.io/letters/3076-to-alice-arbuthnot-moberly-9"
+---
+
+::: {.letter-metadata}
+**Date:** [December 1855]  
+**Manuscript:** MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 123
+:::
+
+Here are the last three [chapters](cmy_books/cmybook_24.qmd);  I think the others had better come by post.[^1]  When it comes back, it is to be added that Margaret gave her pearl ring to be worked into the chalice.  I have gone into correspondence with College Street about Miss Bracy.  I realised that it was necessary to be careful what was said, but did not suspect danger in that quarter.[^2]  I know two good women together can argue each other nearly to death if they will not stop themselves.  [Tom Thumb](cmy_books/cmybook_21.qmd)'s last proof goes by to-day's post, and in the '[Landmarks](cmy_books/cmybook_28.qmd)' I killed Louis XIV this morning.  A great weight off my mind the old gentleman seems.
+
+---
+
+[^1]: The MS in progress of *The Daisy Chain* (1856).
+[^2]: The Moberlys lived in College Street, Winchester. Miss Bracy is a character in *The Daisy Chain*, a tiresome young governess who is always imagining slights from her employers.  Evidently CMY feared the Moberlys' governess [Jane Cowing](people/person_374.qmd) might take offence.  CMY had probably written to [Alice](people/person_1025.qmd)'s mother [Mary Ann Moberly](people/person_1019.qmd).

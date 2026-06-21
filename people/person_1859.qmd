@@ -1,0 +1,15 @@
+---
+title: "Father Frederic William Faber"
+person_id: 1859
+---
+
+## Biographical Information
+
+1814-1863
+
+hymn-writer, Roman Catholic convert
+
+## Letters Mentioning This Person
+
+- [Letter 1856](../1856-to-harriet-dyke-acland-troyte.qmd)
+

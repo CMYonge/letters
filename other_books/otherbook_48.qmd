@@ -1,0 +1,14 @@
+---
+title: "James Darling - Catalogue of books in the library of Sir William Heathcote, Bart., M.P., at Hursley Park, in the county of Southampton"
+book_id: 48
+---
+
+## Publication Information
+
+**Date:** 1865
+
+**Imprint:** London: Darling
+
+**Notes:** A revised version of the edition of 1834
+
+

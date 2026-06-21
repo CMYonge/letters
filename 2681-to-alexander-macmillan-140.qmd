@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1879-07-11"
+letter_date: "[11 July 1879]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 101"
+post_id: 2681
+letter_id: "to-alexander-macmillan-140"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-07-11"
+  url: "https://cmyonge.github.io/letters/2681-to-alexander-macmillan-140"
+---
+
+::: {.letter-metadata}
+**Date:** [11 July 1879]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 101
+:::
+
+[[To Alexander Macmillan](people/person_939.qmd)]
+
+I send herewith the other tale, Selma’s Secret Sighs in a Christmas number[^1]
+
+C M Yonge
+
+---
+
+[^1]: Postcard addressed to 'A Macmillan Esq/ 30 Bedford Street/ Covent Garden/ London E C.' and postmarked Winchester, 11 July 1879.
+[^2]: CMY was assembling the stories which were republished as *Bye-Words* (1880).

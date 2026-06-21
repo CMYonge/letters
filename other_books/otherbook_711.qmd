@@ -1,0 +1,15 @@
+---
+title: "Samuel Warren - Passages from the Diary of a Late Physician"
+book_id: 711
+---
+
+## Publication Information
+
+**Date:** 1835
+
+**Imprint:** Edinburgh: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 3317](../3317-to-mary-elizabeth-wormeley-latimer.qmd)
+

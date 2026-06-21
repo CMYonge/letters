@@ -1,0 +1,45 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1899-05-05"
+letter_date: "May 5 [1899]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 3401
+letter_id: "to-the-reverend-john-frewen-moor-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-05-05"
+  url: "https://cmyonge.github.io/letters/3401-to-the-reverend-john-frewen-moor-7"
+---
+
+::: {.letter-metadata}
+**Date:** May 5 [1899]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+Many thanks for being so kind as to send me [your book](other_books/otherbook_124.qmd). I am glad it has prospered enough to come to another edition-
+
+I think that the notice of [Mr Wither](people/person_1544.qmd)’s birth was as it stood in the Hants’ paper  I suppose it came from the roll at Winchester though I certainly thought he would have been 90 in November -
+
+I am glad your German expedition was fairly satisfactory
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to ‘The Revd/ J F Moor/ Glencairn/ Chiselhurst. Postmarked Winchester My 5/99.

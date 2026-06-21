@@ -1,0 +1,15 @@
+---
+title: "Alain-René Lesage - Histoire de Gil Blas de Santillane"
+book_id: 994
+---
+
+## Publication Information
+
+**Date:** 1715-1735
+
+**Imprint:** Paris: Ribou
+
+## Letters Mentioning This Work
+
+- [Letter 2820](../2820-to-george-lillie-craik-61.qmd)
+

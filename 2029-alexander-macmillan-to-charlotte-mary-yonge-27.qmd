@@ -1,0 +1,34 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-05-08"
+letter_date: "May 8. 1865"
+manuscript: "Copy outletter book British Library Add MSS. 55384 (1): P. 450"
+post_id: 2029
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-27"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-08"
+  url: "https://cmyonge.github.io/letters/2029-alexander-macmillan-to-charlotte-mary-yonge-27"
+---
+
+::: {.letter-metadata}
+**Date:** May 8. 1865  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (1): P. 450
+:::
+
+My dear Miss Yonge	
+Your note will do very well in the mean time. If [I](people/person_939.qmd) can remember, tomorrow, I will get you and send you a small formal receipt book which you will be able to sign with little trouble.
+
+I have only got the first [chapter](organizations/other_177.qmd) in type, the one I sent and you returned. I read it through once to myself and then aloud yesterday. The impression I had at first was somewhat confirmed on this reading. I think you will find yourself rightly[?] that it is rather meagre for an opening, slight and unimpressive compared with what I am sure the rest will be. The quotations dont please me quite. You should tell your story yourself, not through scraps of this & that. Of course I dont mean the quotation from the Gospel which is admirably brought in, and just as it ought to be. I am asking [Clay](organizations/other_173.qmd) to set all you have sent up in type. Then I mean to go over it again carefully, and I will tell you all I feel. I think it possible as I see the subsequent parts I may feel the meagreness of the first chapter less. Have you Kittos [Cyclopaedia](other_books/otherbook_400.qmd), or [Pictorial History of Palestine](other_books/otherbook_401.qmd), or [Bible Dictionary](other_books/otherbook_389.qmd)?

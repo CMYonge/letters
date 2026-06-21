@@ -1,0 +1,17 @@
+---
+title: "Miguel Cervantes Saavedra de - El ingenioso hidalgo don Quijote de la Mancha"
+book_id: 32
+---
+
+## Publication Information
+
+**Date:** 1605, 1615
+
+**Imprint:** Madrid: Robles
+
+## Letters Mentioning This Work
+
+- [Letter 2002](../2002-alexander-macmillan-to-charlotte-mary-yonge-17.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3599](../3599-to-an-unknown-woman-3.qmd)
+

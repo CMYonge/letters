@@ -1,0 +1,16 @@
+---
+title: "George Eliot - Daniel Deronda"
+book_id: 721
+---
+
+## Publication Information
+
+**Date:** 1876
+
+**Imprint:** Edinburgh: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 2801](../2801-to-gertrude-mary-ireland-blackburne-3.qmd)
+- [Letter 3334](../3334-to-mary-elizabeth-christie-3.qmd)
+

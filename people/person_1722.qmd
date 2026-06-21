@@ -1,0 +1,16 @@
+---
+title: "Robert Southey"
+person_id: 1722
+---
+
+## Biographical Information
+
+(1774-1843)
+
+poet
+
+## Letters Mentioning This Person
+
+- [Letter 2968](../2968-to-mary-anne-dyson-8.qmd)
+- [Letter 3084](../3084-to-anna-butler-11.qmd)
+

@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1874-08-07"
+letter_date: "Aug 7th [?1874]"
+location: "Hardwicke"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2510
+letter_id: "to-christabel-rose-coleridge-80"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-08-07"
+  url: "https://cmyonge.github.io/letters/2510-to-christabel-rose-coleridge-80"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 7th [?1874]  
+**From:** Hardwicke  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Some of the answers are at home, and some have followed me about and I must wait to act [Mother Goose](organizations/other_104.qmd) till I have got them all together as I hope to do when I get to Tyntesfield the end of next week.  I have made acquaintance with [Gridiron](people/person_25.qmd)[^1], whom I found staying at Wantage.  She is not so lame as [Gertrude](people/person_1462.qmd) but I should think in a far more precarious state though she came all the way from Wales to Wantage by herself.  I also saw [Polypodium](people/person_50.qmd) and Hartstongue[^2] who are very nice and sensible, and I gave [Mary Avice Butler](people/person_242.qmd) leave to become a double to [Frog](people/person_822.qmd)   I am not sure whether she is to be Tadpole or Polyanthus  I wanted her to be Pollywag but her mother did not like it.  The two new Scotch ones meant to be Thistle & Heather old names but it does not signify, they are said to be very clever, and as they belong to the same Forbeses as the [Bishop of Brechin](people/person_516.qmd) I should think they must.[^3]
+
+Alas  it is too late for your story, the Xmas no is in the printer’s hands.  I think next year of having in combination ‘a little knowledge is a dangerous thing’ and ‘dont teach your grandmother to suck eggs,’  with perhaps the reverse on old dwarfs & giants.  Only the dwarfs must teach the Giants.  I am staying all around the world, and hope to get home by the 5th of Septr
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: The Rev. William Bigg Wither had become Rector of Hardwick, Bucks.. CMY had visited him there in 1873, and 1874 seems the most probable date for this letter, which concerns the administration of the Gosling Society, of which Christabel Coleridge was the secretary.
+[^2]: Mary Avice Butler is known to have been a Gosling by 1874, taking the name Mavis.
+[^3]: Phoebe Allen, a Gosling from July 1870.
+[^4]: Hartstongue, an otherwise unknown Gosling, was perhaps one of the three sisters of Polypodium (Maria Georgina Archer Houblon).  Their father was one of the curates working in Wantage for the Rev. W. J. Butler, the father of Mary Avice Butler and her sister Frog (Emma Butler).
+[^5]: The second Gosling to be called Thistle was [Elisabeth Jane Forbes](people/person_517.qmd), niece of the Rt. Rev. Alexander Penrose Forbes (1817-1875), Bishop of Brechin.  Evidently one of her four sisters was enrolled as the second Heather.

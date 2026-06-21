@@ -1,0 +1,19 @@
+---
+title: "Hannah More"
+person_id: 1836
+---
+
+## Biographical Information
+
+(1745-1833)
+
+writer
+
+## Letters Mentioning This Person
+
+- [Letter 1810](../1810-to-ann-maria-carter-smith-38.qmd)
+- [Letter 1826](../1826-to-ann-maria-carter-smith-45.qmd)
+- [Letter 2910](../2910-to-edward-augustus-freeman-15.qmd)
+- [Letter 2916](../2916-to-mary-yonge-53.qmd)
+- [Letter 3245](../3245-to-the-reverend-john-frederick-watkinson-bullock-2.qmd)
+

@@ -1,0 +1,16 @@
+---
+title: "Mr Houseman"
+person_id: 2146
+---
+
+## Biographical Information
+
+CMY's solicitor
+
+Though his firm survives, and some archives exist, none relating to CMY's affairs have been found.
+
+## Letters Mentioning This Person
+
+- [Letter 3292](../3292-to-charles-wooldridge-3.qmd)
+- [Letter 3293](../3293-charles-wooldridge-to-charlotte-mary-yonge-6.qmd)
+

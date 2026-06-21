@@ -1,0 +1,49 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1869-02-13"
+letter_date: "Feb 13th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Columbia University Library, New York: Lohf Collection"
+post_id: 2301
+letter_id: "to-ann-maria-carter-smith"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-02-13"
+  url: "https://cmyonge.github.io/letters/2301-to-ann-maria-carter-smith"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 13th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Columbia University Library, New York: Lohf Collection
+:::
+
+My dear [Miss Smith](people/person_263.qmd),
+
+I hope you and the Incurable List are safe together somewhere![^1] I had no list of my own so I asked a friend to send you hers, and owing to some blundering of mine I really do not know whether she sent it to Wilden manor or to Charlton.
+
+Will you kindly when you have looked it over return it addressed
+
+[Miss Jacob](people/person_749.qmd)
+Crawley Rectory
+Winchester
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: The 'incurable list' was evidently a list of candidates for admission to an asylum;  perhaps either the [Home for Incurable and Infirm Women](organizations/other_26.qmd) or the [Royal Hospital for Incurables](organizations/other_37.qmd).

@@ -1,0 +1,15 @@
+---
+title: "'My Reading' By the Editor"
+book_id: 255
+sort_title: "'My Reading' By the Editor"
+---
+
+## Publication Information
+
+**Date:** 1892
+
+**Genre:** Non-fiction, literary criticism
+
+**Publisher:** <i>Mothers in Council</i> 2:5 (April 1892) 87-94
+
+

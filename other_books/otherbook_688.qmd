@@ -1,0 +1,19 @@
+---
+title: "Mary Russell Mitford - Our Village  Introduction by Anne Thackeray Ritchie"
+book_id: 688
+---
+
+## Publication Information
+
+**Date:** 1893
+
+**Imprint:** London: Macmillan
+
+**Notes:** The book was originally published in four volumes between 1824 and 1830.
+
+## Letters Mentioning This Work
+
+- [Letter 3247](../3247-to-anne-isabella-ritchie.qmd)
+- [Letter 3257](../3257-to-george-lillie-craik-14.qmd)
+- [Letter 3361](../3361-to-mary-elizabeth-christie.qmd)
+

@@ -1,0 +1,13 @@
+---
+title: "Mrs Brook"
+person_id: 2221
+---
+
+## Biographical Information
+
+friend of Christabel Coleridge
+
+## Letters Mentioning This Person
+
+- [Letter 3453](../3453-to-christabel-rose-coleridge-42.qmd)
+

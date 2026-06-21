@@ -1,0 +1,15 @@
+---
+title: "The Rev. Robert Parker - A Journal of Summer Time in the Country"
+book_id: 572
+---
+
+## Publication Information
+
+**Date:** 1849
+
+**Imprint:** London: Parker
+
+## Letters Mentioning This Work
+
+- [Letter 3507](../3507-to-robert-harrison.qmd)
+

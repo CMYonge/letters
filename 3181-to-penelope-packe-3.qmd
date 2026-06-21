@@ -1,0 +1,45 @@
+---
+title: "To Penelope Anne Laura Packe"
+letter_iso_date: "1891-12-14"
+letter_date: "Decr 14th 1891"
+location: "Elderfield"
+manuscript: "MS Hampshire Record Office 9M55F56/1"
+post_id: 3181
+letter_id: "to-penelope-packe-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Penelope Anne Laura Packe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-12-14"
+  url: "https://cmyonge.github.io/letters/3181-to-penelope-packe-3"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 14th 1891  
+**From:** Elderfield  
+**Manuscript:** MS Hampshire Record Office 9M55F56/1
+:::
+
+Dear [Mrs Packe](people/person_1112.qmd)
+I hope the weather will remain fine to the end of this sad day.  I shall think of you in the lower end of the Church yard  beside the grave of that life long [friend](people/person_1379.qmd).  The loss to you must be unspeakable.  You and your [Sister](people/person_700.qmd) were with with [sic] her as very little girls, younger than your children are now the first time I ever was at Testwood.  How glad you will always be that they are old enough to have a distinct memory of her, and happy recollections of the Knoll.  I hope it will remain as it is with all the heather.  She was always full of them and talked about them last time like Grandchildren.  Some time, when you or [Miss Martin](people/person_2105.qmd) have time to write, I should like very much to know what becomes of the Knoll, and what the three old servants do.  I have no doubt that she has secured their welfare.
+
+I doubt whether any way [my notice](cmy_books/cmybook_349.qmd) have been put in this week, but if sent no later than Wednesday I think it will get in, only as it is rather long already, I think it will hardly be safe to add very much to the length, without omitting something.  
+
+With kind regards to Miss Martin
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Penelope Packe and her sister Laura had been brought up by Anne Sturges Bourne (1809-9 December 1891) who had just died.  CMY had evidently written an obituary for a weekly newpaper, possibly the [*Guardian*](organizations/other_75.qmd). Black-edged paper.

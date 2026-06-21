@@ -1,0 +1,44 @@
+---
+title: "To Frances Maria Wilbraham"
+letter_iso_date: "1865-08-26"
+letter_date: "Aug. 26 [1865]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection"
+post_id: 2067
+letter_id: "to-fanny"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Maria Wilbraham"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-08-26"
+  url: "https://cmyonge.github.io/letters/2067-to-fanny"
+---
+
+::: {.letter-metadata}
+**Date:** Aug. 26 [1865]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection
+:::
+
+My dear [Fanny](people/person_1513.qmd),
+You and [Emily](people/person_1514.qmd) have exactly the memory that may be called kind – Many thanks to you for the very pretty little snow tip butterflies, which are of a species highly to be commended. I hope shortly to wear them into Devonshire where I believe we are going next month - I think the present visitors at the Vicarage are decidedly wholesome, being the [brother](people/person_799.qmd) and [sister](people/person_797.qmd) but I dread the chance of [Queen Emma](people/person_485.qmd), and I fear it must have been a great grief that [Mrs W B Heathcote](people/person_1955.qmd) has romanized fancying [her husband](people/person_667.qmd) would have done the same, but no doubt led away by [Lady Herbert](people/person_1956.qmd).[^1]  I don’t think she ever was a wise person though she was pulled up by her husband while he lived. [Dr.](people/person_1015.qmd) & [Mrs. Moberly](people/person_1019.qmd) drank tea with us last night, and read us a delightful description of the travellers moonlight view of the Steinbach. I think she would have quite recovered if the damp days did not throw her back constantly. What dreadful things do happen! Poor [Mr Hudson](people/person_1958.qmd) was a neighbor of the [Peter Young](people/person_1636.qmd)s’ and we met him there last year.[^2] I never saw any one so full of life and spirit, and to them he was like a brother. He leaves a [young wife](people/person_1959.qmd) and two little children. Do you know of any idiot asylum to which parish relief is not a bar, we have a little boy here who cannot go to [Earlswood](organizations/other_38.qmd) because he has had relief since his fathers death? 
+
+Love to Emily
+Your most affectionate
+C M Yonge
+
+---
+
+[^1]: CMY was worried about the health of both John and Charlotte Keble. Both Mrs Heathcote and Lady Herbert became Roman Catholics at about this time.
+[^2]: The Reverend Charles Hudson, (1828-1865), vicar of Skillington, Lincolnshire, a well-known mountaineer who had died in July 1865 while climbing the Matterhorn. His wife was Emily Antoinette Mylne.
+[^3]: The Rev. Dr. Andrew Reed had founded an ‘asylum for idiots’ in Highgate which soon became overcrowded. New premises were built in Earlswood (near Redhill). The first Medical Superintendent there was Dr. John Langdon Down who developed a compassionate and radical new model of care for the inmates, and who first identified the condition which has now become known as ‘*Down’s Syndrome’*.

@@ -1,0 +1,43 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1868-04-11"
+letter_date: "April 11 1868"
+manuscript: "Copy outletter book British Library Add MSS.55388 (1): P.227"
+post_id: 2239
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-71"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-04-11"
+  url: "https://cmyonge.github.io/letters/2239-alexander-macmillan-to-charlotte-mary-yonge-71"
+---
+
+::: {.letter-metadata}
+**Date:** April 11 1868  
+**Manuscript:** Copy outletter book British Library Add MSS.55388 (1): P.227
+:::
+
+Dear Miss Yonge,
+I have sent on to [Miss Sewell](people/person_1301.qmd) Mr Pearson’s [book](other_books/otherbook_519.qmd). Could you tell [me](people/person_939.qmd) how much - how many pages - you want to use.[^1] I think I may have an opportunity of seeing him soon. He is not likely to refuse.
+
+The story of the Hermits(?) is really wonderful. I cannot tell you how that of Anthony [*illegible*] me. What <u>moral pictures</u> there must have been there. 
+
+I am urging the printers to make speed.
+
+Yours very faithfully
+A. Macmillan
+
+---
+
+[^1]: Pearson's book was excerpted in both *Historical Selections* and its continuation *European History*.

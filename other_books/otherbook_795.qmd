@@ -1,0 +1,15 @@
+---
+title: "Philippe de Commines - Cronique hystoire faicte et composee par messire Phelippe de Commines"
+book_id: 795
+---
+
+## Publication Information
+
+**Date:** 1534
+
+**Imprint:** Paris: Couteau
+
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
+

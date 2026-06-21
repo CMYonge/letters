@@ -1,0 +1,19 @@
+---
+title: "Anne Mercier - Campanella, or, The Teachings of Life"
+book_id: 502
+---
+
+## Publication Information
+
+**Date:** 1870
+
+**Imprint:** London: Warne
+
+**Notes:** The story was originally serialized in <i>MP</i> (January-August 1869).
+
+## Letters Mentioning This Work
+
+- [Letter 2190](../2190-to-edith-sophia-jacob-10.qmd)
+- [Letter 2323](../2323-to-anne-mercier-4.qmd)
+- [Letter 2366](../2366-to-anne-mercier-8.qmd)
+

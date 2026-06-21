@@ -1,0 +1,41 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1869-12-22"
+letter_date: "Decr 22 [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS WDRO Acc No 308: 22/12/69"
+post_id: 2362
+letter_id: "to-mary-yonge-11"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-22"
+  url: "https://cmyonge.github.io/letters/2362-to-mary-yonge-11"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 22 [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS WDRO Acc No 308: 22/12/69
+:::
+
+My dear [Mary](people/person_1626.qmd),
+I hope you are strong enough to bear with all the tasks of Christmas, and to feel its joys, through the sorrow that such recurring Seasons bring. I had a day of great happiness at the Enthronement[^1] it was such a pleasure to welcome such a [Bishop](people/person_1512.qmd) and the whole multitude who filled the Cathedral seemed to have one heart The Hallelujah chorus at the end was so very hearty The 309 clergy in their surplices were a great sight. And the old [Dean](people/person_542.qmd) got through it all very well. The account of it in the Guardian is very good. I wish your enthronement could be as heartily happy a one. [Kate Low](people/person_899.qmd) is here, pretty well but obliged to be very careful. I am very sorry for [Mrs Cudlip](people/person_392.qmd)’s last book, [False Colours](other_books/otherbook_564.qmd), I thought she had turned over a new leaf since she was married, and there is certainly not the kind of language one disliked in the earlier ones, but the story of this is so strangely devised that I cannot think how she could write it. A very amiable old lady with grown up son is always trying to make friends and pass herself off as a widow whereas she never had been married at all, and it certainly seems throughout as if the authoress did not attach much blame to her, and she makes her seem utterly unconscious that she might not be a desirable acquaintance. I cannot think how [Mr Cudlip](people/person_393.qmd) could let her write such a book. I should be very glad to hear if it was an old one reproduced - perhaps it is, but it is dated 1869
+
+your affectionate cousin
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.

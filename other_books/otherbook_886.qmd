@@ -1,0 +1,16 @@
+---
+title: "John Langdon Sibley - Biographical Sketches of Graduates of Harvard University in Cambridge, Massachusetts"
+book_id: 886
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Imprint:** Cambridge, Mass.: Sever
+
+## Letters Mentioning This Work
+
+- [Letter 2592](../2592-to-miss-cleveland-4.qmd)
+- [Letter 2722](../2722-to-miss-cleveland.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "Prince Arthur"
+person_id: 1997
+---
+
+## Biographical Information
+
+(1850-1942)
+
+Duke of Connaught, son of Queen Victoria
+
+## Letters Mentioning This Person
+
+- [Letter 2205](../2205-to-mrs-donkin.qmd)
+

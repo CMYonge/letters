@@ -1,0 +1,17 @@
+---
+title: "'Books for Young People'"
+book_id: 310
+sort_title: "'Books for Young People'"
+---
+
+## Publication Information
+
+**Date:** 1887
+
+**Genre:** Non-fiction
+
+**Publisher:** <i>Girls' Friendly Society Associates' Journal and Advertiser</i> (June 1887) 75
+
+**Notes:** The article is signed C.M. Yonge.
+
+

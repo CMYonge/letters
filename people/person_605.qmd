@@ -1,0 +1,13 @@
+---
+title: "Miss Hale"
+person_id: 605
+---
+
+## Biographical Information
+
+interested in the Kebles
+
+## Letters Mentioning This Person
+
+- [Letter 3282](../3282-to-miss-hale.qmd)
+

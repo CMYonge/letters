@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1883-06-02"
+letter_date: "June 2d 1883"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2773
+letter_id: "to-an-unknown-woman-59"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-06-02"
+  url: "https://cmyonge.github.io/letters/2773-to-an-unknown-woman-59"
+---
+
+::: {.letter-metadata}
+**Date:** June 2d 1883  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+
+A friend of my family, who- being a neighbour, I know better personally than by her handwriting is named [Anna Georgina Macaulay](people/person_2352.qmd), and always goes by the appellation Nina. She is apt to stay a good deal away from home and I concluded that the letter I received was from her. For I suppose I am right in believing that you wrote to ask me to review a book on Scripture evidences and that my answer will apply that I would try, if I could and if I had the book to mention it in a Conversation on Books.[^1]
+
+With many apologies for the error caused by the resemblance of name
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Despite the detail given, neither CMY's correspondent nor the book can be identified with certainty.

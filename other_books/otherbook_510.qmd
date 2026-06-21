@@ -1,0 +1,15 @@
+---
+title: "Anthony Trollope - The Last Chronicle of Barset"
+book_id: 510
+---
+
+## Publication Information
+
+**Date:** 1867
+
+**Imprint:** London: Smith, Elder
+
+## Letters Mentioning This Work
+
+- [Letter 2217](../2217-frances-mary-yonge-to-edith-sophia-jacob.qmd)
+

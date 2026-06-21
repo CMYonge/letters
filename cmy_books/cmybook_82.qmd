@@ -1,0 +1,29 @@
+---
+title: "European History: Narrated in a series of Historical Selections from the Best Authorities2 vols. Selected and arranged by E.M. Sewell and C.M. Yonge"
+book_id: 82
+sort_title: "European History: Narrated in a series of Historical Selections from the Best Authorities"
+---
+
+## Publication Information
+
+**Date:** 1870
+
+**Genre:** Non-fiction: history (by others)
+
+**Publisher:** London and New York: Macmillan and Co.
+
+**Notes:** The first volume of this title is a renamed version of <i>Historical Selections: A Series of Readings from the Best Authorities in English and European History </i>(1868).
+
+## Letters Mentioning This Work
+
+- [Letter 2239](../2239-alexander-macmillan-to-charlotte-mary-yonge-71.qmd)
+- [Letter 2345](../2345-to-alexander-macmillan-111.qmd)
+- [Letter 2351](../2351-to-elizabeth-missing-sewell-10.qmd)
+- [Letter 2361](../2361-to-alexander-macmillan-112.qmd)
+- [Letter 2380](../2380-to-alexander-macmillan-115.qmd)
+- [Letter 2388](../2388-to-alexander-macmillan-116.qmd)
+- [Letter 2407](../2407-to-elizabeth-missing-sewell-18.qmd)
+- [Letter 2426](../2426-to-edward-augustus-freeman-3.qmd)
+- [Letter 2431](../2431-to-elizabeth-missing-sewell-20.qmd)
+- [Letter 3564](../3564-to-elizabeth-missing-sewell-11.qmd)
+

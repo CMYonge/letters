@@ -1,0 +1,26 @@
+---
+title: "Charlotte Mary Yonge Letters Collection"
+---
+
+## About This Collection
+
+This digital collection contains correspondence from Charlotte Mary Yonge, with detailed
+cross-references to people, organizations, and publications mentioned in the letters.
+
+## Browse
+
+- **[Letters](letters-index.qmd)** - Browse all letters chronologically
+- **[People](people/index.qmd)** - Index of correspondents and people mentioned
+- **[Organizations](organizations/index.qmd)** - Churches, institutions, and groups
+- **[CMY Bibliography](cmy_books/index.qmd)** - Works by Charlotte Mary Yonge
+- **[General Bibliography](other_books/index.qmd)** - Other works referenced
+
+## Search
+
+Use the search box in the navigation bar to find letters, people, or topics.
+
+---
+
+*This collection was originally maintained as a WordPress database. It has been
+converted to a static website for long-term preservation and accessibility.*
+

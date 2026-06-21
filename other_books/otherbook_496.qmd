@@ -1,0 +1,18 @@
+---
+title: "Sampson Low - The Charities of London"
+book_id: 496
+---
+
+## Publication Information
+
+**Date:** 1850
+
+**Imprint:** London: Sampson Low
+
+**Notes:** It acknowledges two earlier books by the same author on the same subject, but the title suggests this is the work CMY refers to.
+
+## Letters Mentioning This Work
+
+- [Letter 2174](../2174-to-alexander-macmillan-86.qmd)
+- [Letter 2175](../2175-alexander-macmillan-to-charlotte-mary-yonge-51.qmd)
+

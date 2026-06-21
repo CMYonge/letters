@@ -1,0 +1,44 @@
+---
+title: "To Elizabeth Rundle Charles"
+letter_iso_date: "1885-10-15"
+letter_date: "Oct 15th [1885?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2817
+letter_id: "to-elizabeth-rundle-charles"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Rundle Charles"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-10-15"
+  url: "https://cmyonge.github.io/letters/2817-to-elizabeth-rundle-charles"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 15th [1885?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mrs Charles](people/person_287.qmd)
+
+Thank you most heartily for the [book](other_books/otherbook_991.qmd) you have been so kind as to send me. Such lives as those always remind me of that saying of Sir [Walter Scott](people/person_1672.qmd) that [Mrs Hemans](people/person_1936.qmd) preserved - ‘Do not say that noble blood is wasted, it sends down a roaring voice through all time’[^1]
+
+May it lead to fresh worthy deeds -
+
+Yours sincerely 
+C M Yonge
+
+---
+
+[^1]: Elizabeth Rundle (1828-1896) married Andrew Charles in 1851 and published historical fiction as Mrs Rundle Charles.  The book referred to in this letter was probably her*Three Martyrs of the Nineteenth Century: Studies from the Lives of Livingstone, Gordon, and Patteson* (London: SPCK 1885).  CMY was fond of quoting [Walter Scott](people/person_1672.qmd)'s statement, recorded by Felicia Hemans: 'Do not say that noble blood is wasted, it sends down a roaring voice through all time’.  The quotation occurs *The Daisy Chain* II, Ch.5, the source being, Harriet Browne, *Memoir of the Life and Writings of Mrs. Hemans*, 200.

@@ -1,0 +1,15 @@
+---
+title: "Samuel Richardson - Clarissa, or, The History of a Young Lady"
+book_id: 565
+---
+
+## Publication Information
+
+**Date:** 1748-1749
+
+**Imprint:** London: Richardson
+
+## Letters Mentioning This Work
+
+- [Letter 3507](../3507-to-robert-harrison.qmd)
+

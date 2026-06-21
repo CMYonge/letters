@@ -1,0 +1,46 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1860-12-12"
+letter_date: "Decr 12th 1860"
+location: "Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1860/14"
+post_id: 1811
+letter_id: "to-ann-maria-carter-smith-39"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-12-12"
+  url: "https://cmyonge.github.io/letters/1811-to-ann-maria-carter-smith-39"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 12th 1860  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/14
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+Many thanks for the arrival of this morning and for your kind undertaking of the biographies. You will find a good deal more of [Mrs Grant](people/person_1825.qmd)’s childhood in her [Life of an American Lady](other_books/otherbook_288.qmd), which may be got from Hookham’s library[^1] if from no where else. I wish I had the book or I would gladly lend it to you - it is a very interesting and curious picture, but in such stilted stiff language that it will be a great boon to have it made simple and easy. I should have set down [Mrs Schuyler](people/person_1837.qmd) if she had not been nearly included in Mrs Grant. I had an impression that you would take [Mrs Carter](people/person_1830.qmd), you are so fond of that era. Have you the [two goodly quartos of her letters](other_books/otherbook_290.qmd). I am sure it might be a part of her history that her letters were put into quartos- but she is an engaging old lady, & I hope you will put in her brandy pudding, her wet walks, & the discussions with her father that only ended with the teapot! I shall be very glad if you will bethink you of any other interesting person whose life might make nice reading for the young, thus put into shape. 
+
+I have finished [Mrs Fry](people/person_1826.qmd), and very much I like it, but I am inclined to ask if it might not read a little better, if the bit about the supervision of families exercised by Quakers were put earlier instead of just where the memoir brought it before you. I think it might be as well to precede the whole with a short account of Quakerism and its requirements, for it would make her difficulties much more comprehensible. But that can be thought about at leisure. I am afraid, with all her heart humility, her exterior bearing was a little injured by feeling herself so prominent. I suppose it is hardly possible to help this, especially for a woman - (men do help it) - but I fear she did not but appeared outwardly to receive the homage paid as a right - at least so I have seen it stated in a review of a rather satirical book of an exquaker’s confessions, not a very trustworthy quarter perhaps. I am glad you liked [Play & Earnest](other_books/otherbook_289.qmd), I thought it a great advance on the first. The present story wants more action, but the mother seems to me a very original well conceived character
+
+yours sincerely
+
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to Miss A. M. Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 12 December 1860 and London SE 13 December 1860
+[^2]: Thomas Hookham’s library in Bond Street was one of the leading commercial circulating libraries in the earlier part of the century, but was later driven out of business by Mudie’s.

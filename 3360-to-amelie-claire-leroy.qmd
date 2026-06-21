@@ -1,0 +1,43 @@
+---
+title: "To Amélie Claire LeRoy"
+letter_iso_date: "1897-10-22"
+letter_date: "Oct 22d [?1897]"
+location: "Elderfield"
+manuscript: "MS Alice Marshall Women’s History Collection, Penn State University"
+post_id: 3360
+letter_id: "to-amelie-claire-leroy"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Amélie Claire LeRoy"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-10-22"
+  url: "https://cmyonge.github.io/letters/3360-to-amelie-claire-leroy"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 22d [?1897]  
+**From:** Elderfield  
+**Manuscript:** MS Alice Marshall Women’s History Collection, Penn State University
+:::
+
+My dear [Aimée](people/person_869.qmd),
+Many thanks for the Major Correspondence.[^1]  The account of the battle of Newbury is curious and so is the account of the week’s pay of the officers and soldiers  The trumpeters must have made a good thing of it.  Pray thank the possessor very much from me.  
+
+The woods are a perfect feast of colour just now, almost as lovely as in primrose time
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: This reading is conjectural; the word might also read Magin or Majur.  In Chapter 4 of *John Keble’s Parishes* (1898), CMY quotes from the correspondence of Oliver Cromwell with Richard Major (1603/4-1660), of Hursley, whose daughter was married to Cromwell’s son Richard.  BL Add. MSS 24860-1 are papers of Richard Major, and it is possible that all or part of this collection, or other Major papers, had been shown to CMY in connection with her research.

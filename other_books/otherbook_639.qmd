@@ -1,0 +1,15 @@
+---
+title: "The Rev. John Julian (editor) - A Dictionary of Hymnology setting forth the origin and history of Christian hymns of all ages and nations"
+book_id: 639
+---
+
+## Publication Information
+
+**Date:** 1892
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 3163](../3163-to-the-reverend-john-julian.qmd)
+

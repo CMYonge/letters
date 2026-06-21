@@ -1,0 +1,35 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1839-10-21"
+letter_date: "[<i>c</i>. 21 October 1839]"
+manuscript: "MS location unknown.  This fragment printed by Coleridge, <i>Life</i>, 140."
+post_id: 2943
+letter_id: "to-anne-yonge-11"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1839-10-21"
+  url: "https://cmyonge.github.io/letters/2943-to-anne-yonge-11"
+---
+
+::: {.letter-metadata}
+**Date:** [<i>c</i>. 21 October 1839]  
+**Manuscript:** MS location unknown.  This fragment printed by Coleridge, <i>Life</i>, 140.
+:::
+
+[To [Anne](people/person_1582.qmd)] [The bride](people/person_1633.qmd)[^1] looked very well and very pretty in a white châlet gown with silk stripes, a tippet the same as the gown, and a white silk bonnet and veil . . .   I must say this wedding really seemed the wedding of children of the church, for we all went to the daily service at the usual time, then the Communion service was read as far as the Nicene Creed, then they were married, the children went out and the Sacrament was administered.  [Mr. Keble](people/person_798.qmd) read the morning service and married them, and Mr. [Thomas Keble](people/person_799.qmd) read the Commandments.  I assure you all this greatly took off from the mere feeling of rejoicing and merriment at a marriage.
+
+---
+
+[^1]: [Caroline Coxwell](people/person_1633.qmd), the Kebles' adopted daughter, married Keble's curate the Rev. [Peter Young](people/person_1636.qmd) on 20 October 1839.

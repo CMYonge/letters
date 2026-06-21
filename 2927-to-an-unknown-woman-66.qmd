@@ -1,0 +1,52 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1880-01-10"
+letter_date: "Jan 10th [1880s?]"
+location: "G F S  Elderfield  Otterbourne  Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2927
+letter_id: "to-an-unknown-woman-66"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-01-10"
+  url: "https://cmyonge.github.io/letters/2927-to-an-unknown-woman-66"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 10th [1880s?]  
+**From:** G F S  Elderfield  Otterbourne  Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+
+I do not think your duties are very definite.[^1] 
+
+1st to induce a bookseller within easy reach of your Branch to keep a depôt of [GFS](organizations/other_23.qmd) literature
+
+2d To manage the Book slate at festivals
+
+3d  to know the numbers of GFS magazines taken in the Branch
+
+4th to know whether the girls have access to lending libraries and if books are borrowed from the Diocesan Library to manage the correspondence
+
+5th To fill up the report for me
+
+Yours truly
+C.M. Yonge
+
+---
+
+[^1]: As branch organizer of the Girls’ Friendly Society.

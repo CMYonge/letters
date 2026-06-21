@@ -1,0 +1,46 @@
+---
+title: "To the Reverend Henry Octavius Coxe"
+letter_iso_date: "1864-11-10"
+letter_date: "Novr 10th 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS Eng. Lett d.418.ff 154-155"
+post_id: 1992
+letter_id: "to-the-reverend-henry-octavius-coxe-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Henry Octavius Coxe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-11-10"
+  url: "https://cmyonge.github.io/letters/1992-to-the-reverend-henry-octavius-coxe-2"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 10th 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS Eng. Lett d.418.ff 154-155
+:::
+
+My dear [Mr Cox](people/person_377.qmd) [sic],
+I dare say you will be so kind as to give me a morning in a Bodleian den some day next week[^1] -
+
+Would you be so kind as to order for me anything you can find about Maximilian I of Germany - and about the city of Ulm in his time - I want as much anecdote and scenery as I can lay my hands on, wishing to represent him cutting capers on the Cathedral tower.
+
+I have Cox’s [house of Austria](other_books/otherbook_376.qmd), and that is all my present stock in trade - English and French books by preference if you please
+
+Hoping that this is not a very troublesome request
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY and her mother were planning to stay with the Warden at New College. (See letter to Macmillan dated 11 November 1864). She was looking for background material for *The Dove in the Eagle’s Nest* which she had just begun to write.

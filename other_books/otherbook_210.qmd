@@ -1,0 +1,15 @@
+---
+title: "Field Marshal Sir William Gomm - Letters and journals of Field-Marshal Sir William Maynard Gomm from 1799 to Waterloo, 1815"
+book_id: 210
+---
+
+## Publication Information
+
+**Date:** 1881
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 3417](../3417-to-mrs-swinton-2.qmd)
+

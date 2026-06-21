@@ -1,0 +1,45 @@
+---
+title: "To Sarah Harriet Selwyn"
+letter_iso_date: "1885-06-25"
+letter_date: "June 25th 1885"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 9097
+letter_id: "to-sarah-harriet-selwyn"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Harriet Selwyn"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-06-25"
+  url: "https://cmyonge.github.io/letters/9097-to-sarah-harriet-selwyn"
+---
+
+::: {.letter-metadata}
+**Date:** June 25th 1885  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Mrs Selwyn](people/person_1297.qmd)
+It is quite too good to be true that [your son](people/person_1296.qmd) should come to take care of us, and that we should have you all here.[^1]  There are so few left of your old set of special friends that perhaps you will accept a kind of shadow of them in me.  I shall be at home all August and the treat would be exceeding.  I should make the acquaintance of your new [daughter in law](people/person_1685.qmd), and all the children.  And this is a wonderful place for walks in woods and heaths and downs, so that I think they would be very happy.  Then we are in reasonable reach of [Fanny Patteson](people/person_1151.qmd), and I dothink it would be very pleasant in many ways.
+
+Old [Bishop MacDougal](people/person_1948.qmd) says he well remembers your [father](people/person_1950.qmd), and I think he will be still in residence[^2]  It was a grand sight to have the old and the young Missionary Bishops together yesterday evening.  Very delightful and memorable it was.  Do pray come, I really think you will be very comfortable and in reach of all manner of pleasant expeditions for the young folk.
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to 'Mrs Selwyn/ The Close/ Lichfield' and postmarked Winchester 25 June 1885.
+[^2]: The Rt. Rev. John Richardson Selwyn, on leave as Bishop of Melanesia, was acting as *locum tenens* for the Vicar of Otterbourne.
+[^3]: The former Bishop of Sarawak was now a canon of Winchester.

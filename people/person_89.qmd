@@ -1,0 +1,15 @@
+---
+title: "Mrs Bacon"
+person_id: 89
+---
+
+## Biographical Information
+
+probably a neighbour
+
+CMY refused a garden party invitation from, n. d.
+
+## Letters Mentioning This Person
+
+- [Letter 3582](../3582-to-mrs-bacon.qmd)
+

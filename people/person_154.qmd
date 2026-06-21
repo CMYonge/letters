@@ -1,0 +1,17 @@
+---
+title: "Miss Birley"
+person_id: 154
+---
+
+## Biographical Information
+
+(fl.1864)
+
+lender of Salverte’s <i>History of the Names of Men</i> in 1864
+
+Probably not Caroline Birley (1851-1907) who seems too young.
+
+## Letters Mentioning This Person
+
+- [Letter 1968](../1968-to-caroline-birley.qmd)
+

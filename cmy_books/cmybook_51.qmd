@@ -1,0 +1,72 @@
+---
+title: "Book of Golden Deeds of all Times and all Lands Gathered and Narrated by the author of “The Heir of Redclyffe, A” "
+book_id: 51
+sort_title: "Book of Golden Deeds of all Times and all Lands Gathered and Narrated by the author of “The Heir of Redclyffe, A” "
+---
+
+## Publication Information
+
+**Date:** 1864
+
+**Genre:** Non-fiction: history
+
+**Publisher:** London and Cambridge: Macmillan and Company.
+
+**Notes:** Several abridged editions of this work were published.
+
+## Letters Mentioning This Work
+
+- [Letter 1926](../1926-to-alexander-macmillan-8.qmd)
+- [Letter 1927](../1927-alexander-macmillan-to-charlotte-mary-yonge-6.qmd)
+- [Letter 1928](../1928-alexander-macmillan-to-charlotte-mary-yonge-7.qmd)
+- [Letter 1930](../1930-to-alexander-macmillan-9.qmd)
+- [Letter 1939](../1939-alexander-macmillan-to-charlotte-mary-yonge-8.qmd)
+- [Letter 1940](../1940-to-alexander-macmillan-14.qmd)
+- [Letter 1941](../1941-to-louisa-catherine-palmer-or-mary-anne-palmer.qmd)
+- [Letter 1955](../1955-alexander-macmillan-to-charlotte-mary-yonge-10.qmd)
+- [Letter 1957](../1957-alexander-macmillan-to-charlotte-mary-yonge-11.qmd)
+- [Letter 1958](../1958-to-alexander-macmillan-16.qmd)
+- [Letter 1969](../1969-alexander-macmillan-to-charlotte-mary-yonge-12.qmd)
+- [Letter 1971](../1971-to-alexander-macmillan-17.qmd)
+- [Letter 1973](../1973-to-alexander-macmillan-18.qmd)
+- [Letter 1975](../1975-alexander-macmillan-to-charlotte-mary-yonge-13.qmd)
+- [Letter 1976](../1976-to-alexander-macmillan-19.qmd)
+- [Letter 1977](../1977-to-alexander-macmillan-20.qmd)
+- [Letter 1978](../1978-to-alexander-macmillan-21.qmd)
+- [Letter 1979](../1979-alexander-macmillan-to-charlotte-mary-yonge-14.qmd)
+- [Letter 1980](../1980-to-alexander-macmillan-22.qmd)
+- [Letter 1981](../1981-to-alexander-macmillan-23.qmd)
+- [Letter 1984](../1984-to-alexander-macmillan-24.qmd)
+- [Letter 1985](../1985-to-alexander-macmillan-25.qmd)
+- [Letter 1987](../1987-alexander-macmillan-to-charlotte-mary-yonge-16.qmd)
+- [Letter 1988](../1988-to-alexander-macmillan-26.qmd)
+- [Letter 1993](../1993-to-alexander-macmillan-27.qmd)
+- [Letter 1994](../1994-to-alexander-macmillan-28.qmd)
+- [Letter 1995](../1995-to-alexander-macmillan-29.qmd)
+- [Letter 1997](../1997-to-alexander-macmillan-30.qmd)
+- [Letter 1998](../1998-to-alexander-macmillan-31.qmd)
+- [Letter 1999](../1999-to-alexander-macmillan-32.qmd)
+- [Letter 2006](../2006-to-alexander-macmillan-34.qmd)
+- [Letter 2007](../2007-alexander-macmillan-to-charlotte-mary-yonge-18.qmd)
+- [Letter 2012](../2012-to-alexander-macmillan-36.qmd)
+- [Letter 2013](../2013-alexander-macmillan-to-charlotte-mary-yonge-20.qmd)
+- [Letter 2014](../2014-to-alexander-macmillan-37.qmd)
+- [Letter 2015](../2015-alexander-macmillan-to-charlotte-mary-yonge-21.qmd)
+- [Letter 2016](../2016-alexander-macmillan-to-charlotte-mary-yonge-22.qmd)
+- [Letter 2017](../2017-to-alexander-macmillan-38.qmd)
+- [Letter 2025](../2025-to-the-reverend-w-p-warburton.qmd)
+- [Letter 2040](../2040-alexander-macmillan-to-charlotte-mary-yonge-32.qmd)
+- [Letter 2041](../2041-to-alexander-macmillan-47.qmd)
+- [Letter 2050](../2050-to-alexander-macmillan-51.qmd)
+- [Letter 2080](../2080-to-alexander-macmillan-61.qmd)
+- [Letter 2086](../2086-to-alexander-macmillan-64.qmd)
+- [Letter 2087](../2087-to-alexander-macmillan-65.qmd)
+- [Letter 2090](../2090-the-reverend-john-keble-to-charlotte-mary-yonge-5.qmd)
+- [Letter 2128](../2128-to-alexander-macmillan-77.qmd)
+- [Letter 2129](../2129-to-alexander-macmillan-78.qmd)
+- [Letter 2174](../2174-to-alexander-macmillan-86.qmd)
+- [Letter 2242](../2242-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 3147](../3147-to-elizabeth-barnett-13.qmd)
+- [Letter 3257](../3257-to-george-lillie-craik-14.qmd)
+- [Letter 19563](../19563-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

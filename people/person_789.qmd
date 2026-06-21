@@ -1,0 +1,15 @@
+---
+title: "Miss Jupp"
+person_id: 789
+---
+
+## Biographical Information
+
+compiler of [<i>The Daisy Chain Birthday Book</i>](../cmy_books/cmybook_355.qmd)
+
+She was also presumably editor or author of the other works appearing under the name ‘Eadgyth’, which include a contribution to the Christmas number of <i>MP</i> (1890).  Perhaps she was the Miss E. Jupp who was paid £3 on 20 June 1872.  Perhaps Edith Margaret Jupp (b. 1847/8), daughter of Edward Basil Jupp (1812-1877), solicitor and antiquary of Greenwich. [1871 census, CMY bank account, ODNB E.B.Jupp]
+
+## Letters Mentioning This Person
+
+- [Letter 2795](../2795-to-george-lillie-craik-60.qmd)
+

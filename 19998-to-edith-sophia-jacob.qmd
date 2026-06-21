@@ -1,0 +1,52 @@
+---
+title: "To Edith Sophia Jacob"
+letter_iso_date: "1881-07-10"
+letter_date: "July 10th [1881]"
+location: "Elderfield"
+manuscript: "MS Charlotte Mitchell."
+post_id: 19998
+letter_id: "to-edith-sophia-jacob"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-07-10"
+  url: "https://cmyonge.github.io/letters/19998-to-edith-sophia-jacob"
+---
+
+::: {.letter-metadata}
+**Date:** July 10th [1881]  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+My dear [Edith](people/person_749.qmd)
+
+Would this be the kind of thing?[^1]  I suspect it is too long.  It is a beginning I once made and you may as well look at it.  I also send a paper on the study of the Bible, which an American Sunday School Society once made me write and which might serve you some day perhaps.
+
+You see this is a mere beginning, hardly getting beyond the Acts.  [Canon Bright](people/person_199.qmd) wanted me to do a Church history, and I got so far and then quailed - wanting the lash of a serial to keep me up to it.
+
+We seem to be getting on well under the new dynasty, but it has been a strange thing that in one spring the school should lose Vicar, master and pupil teacher[^2]
+
+your affectionate
+
+CMYonge
+
+I was going to cut out the article but on second thoughts I send the whole paper as there are curious things in it
+
+&nbsp;
+
+---
+
+[^1]: CMY has evidently been asked for a contribution to [The Watchword](organizations/other_100.qmd), the periodical edited by Edith Jacob which circulated among the [Society of Watchers and Workers](organizations/other_47.qmd).  She certainly contributed a series 'Militant Here on Earth' about the early history of the church which deals with the travels of St. Paul and might be the article referred to.
+[^2]: [The Rev. Walter Elgie](people/person_478.qmd), Vicar of Otterbourne, died in February 1881 and was succeeded by the [Rev. Walter Brock](people/person_201.qmd). A week after his arrival the schoolmaster, [Walter Fisher](people/person_513.qmd), also died.

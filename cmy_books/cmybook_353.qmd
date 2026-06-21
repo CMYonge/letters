@@ -1,0 +1,33 @@
+---
+title: "History of France"
+book_id: 353
+sort_title: "History of France"
+---
+
+## Publication Information
+
+**Date:** 1878
+
+**Genre:** Non-fiction, history
+
+**Publisher:** Macmillan
+
+**Notes:** This appeared in the 'History Primers' series edited by J. R. Green.  It had eight chapters, whereas the work of the same title, published in 1879, which CMY contributed to the 'Historical Course for Schools' edited by E. A. Freeman, had ten chapters.  The latter was also aimed at older children.
+
+## Letters Mentioning This Work
+
+- [Letter 2571](../2571-to-george-lillie-craik-24.qmd)
+- [Letter 2591](../2591-to-alexander-macmillan-124.qmd)
+- [Letter 2594](../2594-to-alexander-macmillan-125.qmd)
+- [Letter 2596](../2596-to-alexander-macmillan-126.qmd)
+- [Letter 2597](../2597-to-alexander-macmillan-127.qmd)
+- [Letter 2599](../2599-to-george-lillie-craik-30.qmd)
+- [Letter 2622](../2622-to-george-lillie-craik-37.qmd)
+- [Letter 2623](../2623-to-george-lillie-craik-38.qmd)
+- [Letter 2625](../2625-to-george-lillie-craik-39.qmd)
+- [Letter 2627](../2627-to-george-lillie-craik-41.qmd)
+- [Letter 2657](../2657-to-alexander-macmillan-134.qmd)
+- [Letter 2659](../2659-to-george-lillie-craik-49.qmd)
+- [Letter 2664](../2664-to-george-lillie-craik-50.qmd)
+- [Letter 2666](../2666-to-walter-besant-2.qmd)
+

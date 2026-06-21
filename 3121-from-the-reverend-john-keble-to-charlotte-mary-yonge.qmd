@@ -1,0 +1,45 @@
+---
+title: "From the Reverend John Keble to Charlotte Mary Yonge"
+letter_iso_date: "1858-11-24"
+letter_date: "24 Novr., 1858."
+location: "H. V.,"
+manuscript: "MS location unknown.  Printed in <i>[Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i> xxviii."
+post_id: 3121
+letter_id: "from-the-reverend-john-keble-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "From the Reverend John Keble to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1858-11-24"
+  url: "https://cmyonge.github.io/letters/3121-from-the-reverend-john-keble-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 24 Novr., 1858.  
+**From:** H. V.,  
+**Manuscript:** MS location unknown.  Printed in <i>[Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i> xxviii.
+:::
+
+My dear Charlotte,
+On considering the matter [I](people/person_798.qmd) have come to think it inexpedient that my initials should appear in your book. You see it is quite a different case from the ordinary ones in which that is done. It is not an unknown little bird waiting to be affectionately jerked out of the nest. So far there is no need of an ‘imprimatur’, and do you not think that under the circumstances, it is undesirable to let people think or say (as they are too likely to do) that this is only Mr. Keble speaking with another voice? If there is any force in the phrase ‘independent testimony,’ I think it is worth considering in this case.
+
+This, I own, seems to me decisive; but I have also that scruple that I should have to make mention of these other books in a way more suitable for you, seeing that I have not read them; and moreover considering the great quantity of ground which your book covers directly and incidentally, and that I have not seen, as a critic, the whole of it, I should have to say that warmly as I approve and admire it, I could not make myself responsible for every statement and opinion.
+
+I hope this will not vex you, and I am very sorry to have delayed you to no purpose. If you, on consideration, still wish it, and will give me your reasons, I will *reconsider*, for I hate not saying Yes to you.[^1]
+
+Your very affte
+J. K.
+
+---
+
+[^1]: The book in question is probably the first and second volumes of *Conversations on the Catechism* (1859).

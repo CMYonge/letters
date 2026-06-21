@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1877-02-17"
+letter_date: "Feb 17 th [1877]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2573
+letter_id: "to-christabel-rose-coleridge-87"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-02-17"
+  url: "https://cmyonge.github.io/letters/2573-to-christabel-rose-coleridge-87"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 17 th [1877]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+It is a beautiful [story](other_books/otherbook_741.qmd)  If [May](people/person_351.qmd) & I could be girls again how we should rave about those princes.  I hope some one else is capable.  One or two things-  Why were appletrees rare?  I thought they were genuine old English  I’m sure crabs are!  Alvarez is a patronymic he should be Alvare, and the Portuguese would have called Sir Walter Don Guiltierre
+
+I think the brothers would have called Fernando Fernan.  About Leila is the weak point, in spite of Calderon I doubt about merchants, slaves and ladies all running about the gardens together  The slaves might being only chattels, but the merchants seeing the faces is the improbable and the killing her is rather shuffled up.  I wish you would let her be redeemed and go home, it would save a little sadness, & then Harry would have earned her sister. It ought to be explained too what became of Father Martin.  Could not Fernando have seen him as a prisoner
+
+As to the [S P C K](organizations/other_40.qmd), I shall always believe that it was afraid of the Pope, especially as he was right.[^1]  Every little RC expression however in character is scored in pencil  Those brothers are most beautiful, but do let Fernando have the comfort of seeing Leila redeemed
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: Endorsed ‘In envelope marked Fe 1877'.
+[^2]: The SPCK had evidently turned down the manuscript of Coleridge's novel *The Constant Prince*, which is being discussed here.

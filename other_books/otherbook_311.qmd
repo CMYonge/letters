@@ -1,0 +1,18 @@
+---
+title: "Sveinbjørn Egilsson (editor) - Lexicon Poeticum Antiquae Linguae Septentrionalis"
+book_id: 311
+---
+
+## Publication Information
+
+**Date:** 1854-60
+
+**Imprint:** Copenhagen: Qvist
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
+

@@ -1,0 +1,36 @@
+---
+title: "To Isabel Charlotte Elgie"
+letter_iso_date: "1880-12-18"
+letter_date: "[December? <i>c</i>.1880?]"
+manuscript: "MS Charlotte Mary Yonge Society/5"
+post_id: 2928
+letter_id: "to-isabel-charlotte-elgie"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabel Charlotte Elgie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-12-18"
+  url: "https://cmyonge.github.io/letters/2928-to-isabel-charlotte-elgie"
+---
+
+::: {.letter-metadata}
+**Date:** [December? <i>c</i>.1880?]  
+**Manuscript:** MS Charlotte Mary Yonge Society/5
+:::
+
+My dear [Isabel](people/person_479.qmd)
+
+Thank you very much for your nice cuffs. They are very warm for my wrists.  I wish you a very happy Christmas.
+
+your affectionate Godmother
+C M Yonge

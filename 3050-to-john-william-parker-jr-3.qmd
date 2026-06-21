@@ -1,0 +1,45 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1854-07-14"
+letter_date: "July 14th [1854]"
+location: "Otterbourne"
+manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors.  Printed by Green, ['Two Popular Novelists'](other_books/otherbook_75.qmd)."
+post_id: 3050
+letter_id: "to-john-william-parker-jr-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-07-14"
+  url: "https://cmyonge.github.io/letters/3050-to-john-william-parker-jr-3"
+---
+
+::: {.letter-metadata}
+**Date:** July 14th [1854]  
+**From:** Otterbourne  
+**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors.  Printed by Green, ['Two Popular Novelists'](other_books/otherbook_75.qmd).
+:::
+
+Dear [Sir](people/person_1143.qmd),
+I hope you will receive "[Heartsease](cmy_books/cmybook_19.qmd)” tomorrow, as I shall send it by the South Western early in the day. I shall be glad for it to appear in the same style as the first edition of the [Heir of Redclyffe](cmy_books/cmybook_15.qmd) but I do not think the volumes will be quite so large. You do not say what number you propose to print, I suppose not fewer than 1500 or 2000. I shall be quite ready to correct the proofs.
+
+One of the mottoes of the chapters was supplied from [Mr F Tennyson's poems](other_books/otherbook_167.qmd) which you kindly sent me, and which arrived just as the lines were needed.
+
+I am glad to hear that the 4th edition of the Heir of Redclyffe has sold off,[^1] I hope the cheap one may meet with equal success.
+
+Yours faithfully
+C. M. Yonge
+
+---
+
+[^1]: Presumably dated 1854. The 5th edition is dated 1854.

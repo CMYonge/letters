@@ -1,0 +1,43 @@
+---
+title: "To Miss Finchcliffe"
+letter_iso_date: "1868-08-26"
+letter_date: "Aug 26th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Iowa; MsL/Y56"
+post_id: 2263
+letter_id: "to-miss-finchcliffe"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Finchcliffe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-08-26"
+  url: "https://cmyonge.github.io/letters/2263-to-miss-finchcliffe"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 26th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56
+:::
+
+Dear [Miss Finchcliffe](people/person_511.qmd),
+I am very glad to have seen [Edith Crawley’](people/person_382.qmd)s letter which I return with many thanks.[^1] I had proposed the Irishwoman to [Mrs Gray](people/person_579.qmd) for the Cape ladies, and she had rejected her, but perhaps they know their own plans best. I am glad that another and elder lady has been added to them for someone to take the command was much wanted.
+
+I am glad that dear [Miss Mackenzie](people/person_930.qmd) is so much better, but it has been a long illness. These last two or three days have been very sad with us, [my mother](people/person_1606.qmd) has become so much more feeble and seems to be losing her appetite, but it is most thank worthy that she is quite free from all suffering. 
+
+Yours sincerely
+<C M Yonge
+
+---
+
+[^1]: Edith Crawley was a second cousin of CMY's, and was one of the women who accompanied the Rt. Rev. [Robert Gray](people/person_578.qmd) and his wife Sophia (Myddleton) Gray (d.1871) on his return to his diocese of Cape Town. They included Mary Anderson Morshead, and [Anna Jane (Fair) Seymour](people/person_495.qmd); the latter may have been the older lady CMY mentions.

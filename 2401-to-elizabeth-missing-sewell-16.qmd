@@ -1,0 +1,45 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1871-03-03"
+letter_date: "March 3d 1871"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2401
+letter_id: "to-elizabeth-missing-sewell-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-03-03"
+  url: "https://cmyonge.github.io/letters/2401-to-elizabeth-missing-sewell-16"
+---
+
+::: {.letter-metadata}
+**Date:** March 3d 1871  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+Would you mind my changing the time of your proposed session to the later day you had fixed. I am asked to spend a day or two at [Mr Portal](people/person_1196.qmd)’s to meet the [Bishop](people/person_1512.qmd) on the 10th, and that is a thing I should like so much to do that I venture to ask you to change the day. [^1] The week after I go to [Miss Dyson](people/person_464.qmd). 
+
+I think you said at first Friday the 21st. My only objection to a Friday is that I want to begin a class of freshly confirmed girls on Friday evenings (the confirmation is on the 1st and I think if I break it up so soon after the first start it will never come to good - but that does not signify as an objection.
+
+Would the Monday after suit you as well? I hope I an not putting out your plans very much
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Melville Portal (1819-1904), a local landowner.

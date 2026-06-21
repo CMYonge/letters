@@ -1,0 +1,16 @@
+---
+title: "John Bacon"
+person_id: 2196
+---
+
+## Biographical Information
+
+(1777-1859)
+
+sculptor
+
+## Letters Mentioning This Person
+
+- [Letter 3376](../3376-to-frederick-orridge-macmillan-17.qmd)
+- [Letter 3379](../3379-to-frederick-orridge-macmillan-19.qmd)
+

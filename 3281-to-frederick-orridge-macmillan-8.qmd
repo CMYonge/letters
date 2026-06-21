@@ -1,0 +1,45 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1895-01-11"
+letter_date: "Jan 11th 1895"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 2214-5"
+post_id: 3281
+letter_id: "to-frederick-orridge-macmillan-8"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-01-11"
+  url: "https://cmyonge.github.io/letters/3281-to-frederick-orridge-macmillan-8"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 11th 1895  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 2214-5
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+Of course it will not make much difference to me whether [‘the Long Vacation](cmy_books/cmybook_237.qmd)’ appears in April or September, so it had better be arranged as you have decided.
+
+I should prefer the [Royalty of /4](organizations/other_160.qmd) on the American Copyright to an immediate sum.[^1]
+
+Might I ask, as I have been before encouraged to do, for a copy of Dean Church’s [Life and Letters](other_books/otherbook_706.qmd) and also for [Sonny Sahib](other_books/otherbook_705.qmd)
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The word 'Colonial' has been substituted in another hand.

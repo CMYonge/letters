@@ -1,0 +1,13 @@
+---
+title: "Mrs Dennis"
+person_id: 2205
+---
+
+## Biographical Information
+
+helping at the Mothers' Meeting in 1899, perhaps the wife of [Mr Dennis](person_2171.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 3437](../3437-to-louisa-alethea-bowles.qmd)
+

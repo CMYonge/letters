@@ -1,0 +1,13 @@
+---
+title: "Bede - Historia ecclesiastica gentis Anglorum"
+book_id: 986
+---
+
+## Publication Information
+
+**Date:** 8th century AD
+
+## Letters Mentioning This Work
+
+- [Letter 2808](../2808-to-annie-louise-cazenove-4.qmd)
+

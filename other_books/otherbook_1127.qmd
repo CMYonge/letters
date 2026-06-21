@@ -1,0 +1,15 @@
+---
+title: "Charles Perrault - Les Hommes Illustres qui ont paru en France"
+book_id: 1127
+---
+
+## Publication Information
+
+**Date:** 1696
+
+**Imprint:** Paris: Dazallier
+
+## Letters Mentioning This Work
+
+- [Letter 19572](../19572-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

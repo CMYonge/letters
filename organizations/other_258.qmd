@@ -1,0 +1,17 @@
+---
+title: "George Routledge & Sons"
+other_id: 258
+---
+
+**Type:** organization
+
+## Description
+
+Publisher
+
+## Letters Mentioning This
+
+- [Letter 1948](../1948-to-the-editors-of-a-biographical-dictionary.qmd)
+- [Letter 2716](../2716-to-a-m-wattus.qmd)
+- [Letter 19651](../19651-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

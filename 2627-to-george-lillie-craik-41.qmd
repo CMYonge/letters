@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-04-05"
+letter_date: "April 5th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 61"
+post_id: 2627
+letter_id: "to-george-lillie-craik-41"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-04-05"
+  url: "https://cmyonge.github.io/letters/2627-to-george-lillie-craik-41"
+---
+
+::: {.letter-metadata}
+**Date:** April 5th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 61
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I am afraid the last 3d of the [Primer](cmy_books/cmybook_353.qmd) is lost. I will re write it after my outing. Happily it is only 40 pp at most - I hope waiting will not be troublesome. Here is another instalment of  '[The Story of the Christians and Moors in Spain](cmy_books/cmybook_126.qmd)'
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

@@ -1,0 +1,17 @@
+---
+title: "Elizabeth Missing Sewell - Popular History of France from the Earliest Period to the Death of Louis XIV"
+book_id: 853
+---
+
+## Publication Information
+
+**Date:** 1876
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 2514](../2514-to-edward-augustus-freeman-9.qmd)
+

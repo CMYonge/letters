@@ -1,0 +1,47 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-03-13"
+letter_date: "March 13th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 52-53"
+post_id: 2621
+letter_id: "to-george-lillie-craik-36"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-03-13"
+  url: "https://cmyonge.github.io/letters/2621-to-george-lillie-craik-36"
+---
+
+::: {.letter-metadata}
+**Date:** March 13th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 52-53
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I enclose the receipt with many [thanks for the cheque](organizations/other_160.qmd), also for [Bp Patteson](cmy_books/cmybook_102.qmd) and the loan of [Islam](other_books/otherbook_901.qmd).
+
+When I can, I should like to add to Bp Patteson that the mission has learnt the manner of his death, and that it was the women who placed his body in the canoe and sent it out to meet the boat. I have not a copy left of [Pioneers and Founders](cmy_books/cmybook_90.qmd), so could you send me one to make the correction, and I should also be glad of another of the [Pupils of St John](cmy_books/cmybook_72.qmd). I shall soon want two sets of the volumes of the [Scripture Readings](cmy_books/cmybook_87.qmd) with comments, so they may as well make one parcel together[^1]
+
+You shall have the early part of the [Story of the Moors](cmy_books/cmybook_126.qmd) as soon as I have touched it up, but it is the beginning that wants most to be done to it  
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper. Endorsed  'Give me this back'.
+[^2]: Endorsed 'Rail 14 3/78'.

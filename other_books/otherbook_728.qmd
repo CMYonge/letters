@@ -1,0 +1,15 @@
+---
+title: "Jane Taylor - The Contributions of Q. Q. to a Periodical Work, with some pieces not before published"
+book_id: 728
+---
+
+## Publication Information
+
+**Date:** 1824
+
+**Imprint:** London: Holdsworth
+
+## Letters Mentioning This Work
+
+- [Letter 3358](../3358-to-louisa-fanny-field.qmd)
+

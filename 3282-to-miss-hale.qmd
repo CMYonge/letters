@@ -1,0 +1,41 @@
+---
+title: "To Miss Hale"
+letter_iso_date: "1895-01-26"
+letter_date: "Jan 26th 1895"
+location: "Elderfield Otterbourne"
+manuscript: "MS Oriel College, Oxford"
+post_id: 3282
+letter_id: "to-miss-hale"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Hale"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-01-26"
+  url: "https://cmyonge.github.io/letters/3282-to-miss-hale"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 26th 1895  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Oriel College, Oxford
+:::
+
+Dear [Miss Hale](people/person_605.qmd)
+Thank you for your very interesting letter.  I am amused at what you say of [Mr Keble](people/person_798.qmd) calling his father the Governor.[^1]  I should think it was a domestic name, invented before the slang term arose.  I know the family were fond, in their old Fairford days- of pet nicknames and that J K himself was called by his sisters ‘Charles’ for no reason that their friends the Dysons could trace.  I knew all the family like relations after they were at Hursley and especially loved [Miss Elizabeth Keble](people/person_796.qmd).
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The *OED* has citations of *governor* 7b *colloq*. ‘applied by young men to their fathers’ from 1827, which suggests that CMY may have been mistaken in thinking Keble (b. 1792) could not have used it in that sense.

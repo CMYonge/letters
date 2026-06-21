@@ -1,0 +1,47 @@
+---
+title: "To Jane Margaret Hooper"
+letter_iso_date: "1863-06-03"
+letter_date: "June 3d [1863]"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 1891
+letter_id: "to-mrs-hooper"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jane Margaret Hooper"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-06-03"
+  url: "https://cmyonge.github.io/letters/1891-to-mrs-hooper"
+---
+
+::: {.letter-metadata}
+**Date:** June 3d [1863]  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Mrs Hooper](people/person_711.qmd)
+
+I do not think [Miss Gilbert’](people/person_1878.qmd)s [Instution](organizations/other_1.qmd) [sic] quite calculates on such work as this good lady proposes - it does not seem as if it would take much teaching to tear up paper!, however here is her letter and here are her stamps at your disposal, I think [Maggie](other_books/otherbook_339.qmd) would have wider ideas! I hope your little people are quite well again. I must tell you a story rather in their line. A little girl had been taking some medicine, and was going to bed. “Nurse, shall you say your prayers tonight?”
+
+“Yes my dear-”
+
+“Then please say for me, that it is Lady ---’s little girl, and she has such a bad taste in her mouth that she can<u>not</u> say her prayers”
+
+Yours very truly
+
+C.M. Yonge
+
+---
+
+**Note:** Black-edged paper. The word Elderfield is inserted by hand;  ‘Otterbourne, Winchester.’ is printed; a date of 1863 is therefore suggested.

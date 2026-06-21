@@ -1,0 +1,17 @@
+---
+title: "Miss Thompson"
+person_id: 1404
+---
+
+## Biographical Information
+
+(fl.1879)
+
+letter to about <i>images d’Épinal</i> and fairy stories
+
+It refers to the pictures produced by the Imagerie Pellerin at Épinal from the late eighteenth century.  The recipient may be Edith or Ellen Thompson.
+
+## Letters Mentioning This Person
+
+- [Letter 2650](../2650-to-miss-thompson.qmd)
+

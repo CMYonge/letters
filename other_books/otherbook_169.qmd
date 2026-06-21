@@ -1,0 +1,15 @@
+---
+title: "Anthony Trollope - Barchester Towers"
+book_id: 169
+---
+
+## Publication Information
+
+**Date:** 1857
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3109](../3109-to-frances-mary-yonge-2.qmd)
+

@@ -1,0 +1,42 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1882-09-06"
+letter_date: "Sept 6th [1882]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/  Yonge 1882 / 2"
+post_id: 2758
+letter_id: "to-ann-maria-carter-smith-88"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-09-06"
+  url: "https://cmyonge.github.io/letters/2758-to-ann-maria-carter-smith-88"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 6th [1882]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1882 / 2
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I with I could have made room for this very amusing account while it is fresh, but my October [number](organizations/other_52.qmd) is full, and I must give it up
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to Miss Carter Smith/ 9 College Green/ Worcester, stamp and postmark cut out, reverse postmarked Worcester 7 September 1882.  Endorsed in ink on front of letter ‘Enclosure to be burnt 21.11.9.’

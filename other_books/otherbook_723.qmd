@@ -1,0 +1,15 @@
+---
+title: "Mary Augusta Ward - Marcella"
+book_id: 723
+---
+
+## Publication Information
+
+**Date:** 1894
+
+**Imprint:** London: Smith, Elder
+
+## Letters Mentioning This Work
+
+- [Letter 3336](../3336-to-edith-emma-knight.qmd)
+

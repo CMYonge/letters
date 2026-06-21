@@ -1,0 +1,47 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1867-07-09"
+letter_date: "July 9th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 183-184"
+post_id: 2186
+letter_id: "to-alexander-macmillan-89"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-07-09"
+  url: "https://cmyonge.github.io/letters/2186-to-alexander-macmillan-89"
+---
+
+::: {.letter-metadata}
+**Date:** July 9th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 183-184
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I send up the two next chapters of [St John](cmy_books/cmybook_72.qmd), in case it should be convenient to show [Mr Armitage](people/person_60.qmd) the description of the scene with the Robber. Do you mean to have [vignettes](organizations/other_167.qmd)? If you do the cup with the serpent should come at the end of the last chapter I send you, and the one I am writing now should have the golden candlestick, I should try for Diana for the first if the Ephesian Diana were not so frightful.
+
+I suppose [Miss Sewell](people/person_1301.qmd)’s call on you was not accomplished. It was to depend on whether she decided on going to the Paris exhibition 
+
+I am sorry she did not manage it, as it would have saved time
+
+Yours sincerely
+C M Yonge
+
+Thanks for the [Pall Mall Gazette](organizations/other_192.qmd), I thought it the most dangerous so I hope the others will be as polite[^1]
+
+---
+
+[^1]: The *Pall Mall Gazette* (2 July 1867), 11, reviewed *The Danvers Papers* in appreciative if slightly patronizing terms.

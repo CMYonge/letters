@@ -1,0 +1,40 @@
+---
+title: "To Jane Mary Smith-Dampier"
+letter_iso_date: "1896-12-19"
+letter_date: "Decr 19 [1896?]"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3535
+letter_id: "to-jane-mary-smith-dampier"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jane Mary Smith-Dampier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-12-19"
+  url: "https://cmyonge.github.io/letters/3535-to-jane-mary-smith-dampier"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 19 [1896?]  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mrs Dampier](people/person_1345.qmd)
+
+All good thanks and wishes.  Happy you. Poor [Mrs Jones Bateman](people/person_784.qmd).  Lloyd is rejoicing to go. She is gone from home unable to stay alone 
+
+Yours affectionately 
+C M Yonge
+
+---
+
+**Note:** Dated on the assumption it refers to Rowland Jones Bateman’s death  on 16 December 1896

@@ -1,0 +1,15 @@
+---
+title: "The Rev. William Sewell - Uncle Peter’s Fairy Tale for the Nineteenth Century ed. Elizabeth Sewell"
+book_id: 708
+---
+
+## Publication Information
+
+**Date:** 1867
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3314](../3314-to-agnes-giberne.qmd)
+

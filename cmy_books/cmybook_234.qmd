@@ -1,0 +1,20 @@
+---
+title: "The Rubies of St Lô"
+book_id: 234
+sort_title: "Rubies of St Lô"
+---
+
+## Publication Information
+
+**Date:** 1894
+
+**Genre:** Fiction
+
+**Publisher:** London and New York: Macmillan and Company.
+
+## Letters Mentioning This Work
+
+- [Letter 3213](../3213-to-george-lillie-craik-11.qmd)
+- [Letter 3214](../3214-to-george-lillie-craik-12.qmd)
+- [Letter 3273](../3273-to-frederick-orridge-macmillan-or-alexander-macmillan-2.qmd)
+

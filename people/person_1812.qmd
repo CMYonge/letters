@@ -1,0 +1,15 @@
+---
+title: "Joseph Addison"
+person_id: 1812
+---
+
+## Biographical Information
+
+(1672-1719)
+
+writer
+
+## Letters Mentioning This Person
+
+- [Letter 3142](../3142-to-ann-maria-carter-smith-25.qmd)
+

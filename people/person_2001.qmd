@@ -1,0 +1,15 @@
+---
+title: "Miss Manning"
+person_id: 2001
+---
+
+## Biographical Information
+
+recipient of a letter from CMY
+
+She may be the novelist Anne Manning, but there is little firm evidence.
+
+## Letters Mentioning This Person
+
+- [Letter 2221](../2221-to-miss-manning.qmd)
+

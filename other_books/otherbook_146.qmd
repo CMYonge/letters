@@ -1,0 +1,17 @@
+---
+title: "Elizabeth Missing Sewell - Cleve Hall"
+book_id: 146
+---
+
+## Publication Information
+
+**Date:** 1855
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 3067](../3067-to-alice-arbuthnot-moberly-6.qmd)
+

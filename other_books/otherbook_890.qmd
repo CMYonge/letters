@@ -1,0 +1,20 @@
+---
+title: "Elizabeth Wordsworth - Ebb and Flow, or, He did his best:  A Story of Five Years Ago"
+book_id: 890
+---
+
+## Publication Information
+
+**Date:** 1883
+
+**Imprint:** London: Smith
+
+**Notes:** Published pseudonymously under the name 'Grant Lloyd'.
+
+## Letters Mentioning This Work
+
+- [Letter 2607](../2607-to-elizabeth-wordsworth-9.qmd)
+- [Letter 2608](../2608-to-elizabeth-wordsworth-10.qmd)
+- [Letter 2612](../2612-to-elizabeth-wordsworth-11.qmd)
+- [Letter 2788](../2788-to-the-hon-mrs-montgomery-moore-3.qmd)
+

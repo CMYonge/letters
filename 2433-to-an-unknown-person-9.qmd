@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Person"
+letter_iso_date: "1872-01-18"
+letter_date: "[early January 1872]"
+manuscript: "MS fragment  Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 14."
+post_id: 2433
+letter_id: "to-an-unknown-person-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-01-18"
+  url: "https://cmyonge.github.io/letters/2433-to-an-unknown-person-9"
+---
+
+::: {.letter-metadata}
+**Date:** [early January 1872]  
+**Manuscript:** MS fragment  Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 14.
+:::
+
+I am going to Lichfield from Monday to Saturday of next week - to talk and look over letters of [our noble martyr](people/person_1155.qmd) with the [Selwyns](people/person_1295.qmd). I believe I am to manage the putting his [life](cmy_books/cmybook_102.qmd) together but it will be more editing than writing. I seem to have thought of nothing but the wonderful symbolism of the work of those unconscious savages.[^1]
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: CMY refers to the murder of the Rt. Rev. John Coleridge Patteson in the Santa Cruz Islands. It was reported that Patteson’s body had received five wounds, as Christ's had.

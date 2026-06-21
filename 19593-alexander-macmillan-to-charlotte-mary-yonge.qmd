@@ -1,0 +1,41 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-07-07"
+letter_date: "July 7 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (1) P.230"
+post_id: 19593
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-07-07"
+  url: "https://cmyonge.github.io/letters/19593-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** July 7 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (1) P.230
+:::
+
+My dear Miss Yonge,
+
+I return the France, which indeed I ought to have done yesterday, when I wrote you that I had seen the delegates.
+
+I shall quite count on your doing the smaller book for us, as you kindly agree.
+
+Mrs [Craik](people/person_378.qmd) suggests “Heroic Lives of all times &amp;.” I adhere to the [Book of Worthies](cmy_books/cmybook_80.qmd).
+
+Yours very faithfully
+
+[A. Macmillan](people/person_939.qmd)

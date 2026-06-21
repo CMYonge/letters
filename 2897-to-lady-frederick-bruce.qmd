@@ -1,0 +1,46 @@
+---
+title: "To Lady Frederick Bruce"
+letter_iso_date: "1888-11-23"
+letter_date: "November 23. [1888?]"
+location: "Elderfield,"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 326."
+post_id: 2897
+letter_id: "to-lady-frederick-bruce"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Lady Frederick Bruce"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-11-23"
+  url: "https://cmyonge.github.io/letters/2897-to-lady-frederick-bruce"
+---
+
+::: {.letter-metadata}
+**Date:** November 23. [1888?]  
+**From:** Elderfield,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 326.
+:::
+
+My dear [Lady Frederick](people/person_215.qmd)-
+
+Gillian was very naughty, rather I think from want of knowledge of the world than anything else, besides spirit of opposition. I am glad you like Jane, somehow she has erected herself to me into the heroine. I find myself living in sympathy with my old people rather than the young. But I really do shrink from bringing Dr. May and Ethel on the stage again, he must be grown so old. I have not finished the last chapter to see whether I dare to make a great family gathering.[^1]
+
+1 am glad to have the opportunity of writing to you, as we have had a grand [M. U.](organizations/other_31.qmd) Council, and have modified the constitution. All the married, whether ladies or poor women, are to be members; only ladies are paying members, and a proportion are to be enrollers (like the [G.F.S.](organizations/other_23.qmd) working associates). All the unmarried helpers are associates, and the members are all to have the same card, which we freshly worded to suit mothers of all ranks, and I think improved it much. There is also to be a [quarterly magazine](organizations/other_93.qmd) at a penny, edited by [Mrs. Jenkyns](people/person_2379.qmd), South Stoneham, Southampton, who takes orders for it, and begs that the money may be advanced with the orders, so as to give her a start.
+
+It is to have advice and anecdotes, and a little direct religious instruction for the very ignorant mothers, in the form of question and answer. I have been writing that, but it was to be submitted to the Bishop-
+
+Yours very truly,
+C. M. YONGE.
+
+---
+
+[^1]: Gillian and Jane are characters in CMY's *Beechcroft at Rockstone*, which included several people from earlier stories, including the May family who had first appeared in *The Daisy Chain*.

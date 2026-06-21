@@ -1,0 +1,45 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1876-03-20"
+letter_date: "March 20th 1876"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Plymouth and West Devon Record Office  308/259"
+post_id: 2547
+letter_id: "to-mary-yonge-40"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-03-20"
+  url: "https://cmyonge.github.io/letters/2547-to-mary-yonge-40"
+---
+
+::: {.letter-metadata}
+**Date:** March 20th 1876  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Plymouth and West Devon Record Office  308/259
+:::
+
+My dear [Mary](people/person_1626.qmd)
+
+Thank you much for your letter.  It is curious that [Mary Woollcombe](people/person_1558.qmd) should have found the report going, but I think no one likes to speak to any of you of gossip concerning any of the family.  As to the measure of the loss we do not fathom it yet, it is so mixed up with all sorts of things and people, as I suppose those things are.  It is a coal mine in Yorkshire in full work, and gaining plenty of money, but there was a background of debt, which [Julian](people/person_1624.qmd) did not understand or sort it would be paid off gradually, then another director suddenly resigned and that gave the alarm to the auditors and they press for payment without giving time to sell the mine which would do it all.  There is an attempt at making a composition going on now, but I do not know whether it will come to much.
+
+Julian has let all his fields except the one before the windows of which he will sell the hay, and he has sold the cows.  I don’t think that seems to be economy for the first week’s bill for milk was 15/ just the cowman’s wages.  They have parted with the large carriage, and have only a little pony one now, but what is to be further done no one knows as yet.  [Frances](people/person_1604.qmd) is brave about it but we do not think she fully realises the change yet.  21st.  I have just been having a long talk with her about ways and means, and I really think that it will work for good in many ways, but the anxiety of knowing what will be left them is not over yet, and it tells upon Julian terribly.  However he will get some employment in May, when [Sir Thomas Fairbairn](people/person_496.qmd) comes home as the poor man has a cataract, and has promised to employ Julian as his secretary.  We had some housebreakers in the village on Saturday night.  They tried the window at Julians broke the glass, and tried to wrench down the shutter, but did not succeed;  but they did get into the shop and carry off the till, full of silver, the till itself was found on the common, but there is no catching the thief.  Two soldiers are suspected, the soldiers having been very ill behaved in Winchester lately, making such disturbances that the Mayor wrote to the Colonel.  I am so glad [aunt Jane](people/person_627.qmd) is better but [Miss Peard](people/person_1160.qmd) says she is much depressed.  I  really am much happier today about Julian’s affairs than I was yesterday, especially about Frances, who has had a long talk with [Gertrude](people/person_1462.qmd) and me separately and been very good and ready to give up things.  It is such a comfort to have Gertrude, it is all just the same to her naturally as to me, and she is so sensible and right minded. We have both felt for a long time that we were on a volcano, and now it is really come, it is almost a relief, and the [Jones Batemans](people/person_785.qmd) are very helpful.  There is such a beautiful little book of [Instructions on the Seven Words on the Cross](other_books/otherbook_872.qmd) by Canon King, it is published by Mowbray at Oxford, & only costs a shilling.  [Mr Elgie](people/person_478.qmd) is reading it to Gertrude when he comes to her once a week.  How grieved [Jane M M](people/person_1042.qmd) must be for her Bishop[^1]  The [Bp of Salisbury](people/person_1015.qmd) has given [John of Eton](people/person_1620.qmd) a living in Dorsetshire to hold for a poor mad rector  They are much pleased with it
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to ‘Miss Yonge/ Puslinch/ Yealmpton’, endorsed ‘Julian. No 2 Recd March 23 1876’ and postmarked Winchester 21 March and Exeter 22 March 1876.
+[^2]: Jane Montgomery Moore was living in India.   The Rt. Rev. Henry Alexander Douglas (1821-December 1875) served briefly as Bishop of Bombay before his death.

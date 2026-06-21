@@ -1,0 +1,34 @@
+---
+title: "To Margaret Helen Moberly"
+letter_iso_date: "1850-06-01"
+letter_date: "June 1st [1850s?]"
+manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/4"
+post_id: 3490
+letter_id: "to-margaret-helen-moberly-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Helen Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1850-06-01"
+  url: "https://cmyonge.github.io/letters/3490-to-margaret-helen-moberly-5"
+---
+
+::: {.letter-metadata}
+**Date:** June 1st [1850s?]  
+**Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/4
+:::
+
+My dear [Maggie](people/person_83.qmd)
+This ought to have been your birthday but printers are slow folk, and I am a hurried one at this moment, so no more can you have now but good wishes from 
+
+your affectionate godmother

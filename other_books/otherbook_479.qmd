@@ -1,0 +1,18 @@
+---
+title: "Sir Francis Palgrave - The History of Normandy and of England"
+book_id: 479
+---
+
+## Publication Information
+
+**Date:** 1851-64
+
+**Imprint:** London: Parker
+
+## Letters Mentioning This Work
+
+- [Letter 2145](../2145-to-alexander-macmillan-83.qmd)
+- [Letter 2146](../2146-to-alexander-macmillan-84.qmd)
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
+- [Letter 19672](../19672-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

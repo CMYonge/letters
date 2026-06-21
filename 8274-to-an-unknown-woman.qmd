@@ -1,0 +1,36 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1877-03-10"
+letter_date: "March 10th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Tig Lang"
+post_id: 8274
+letter_id: "to-an-unknown-woman"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-03-10"
+  url: "https://cmyonge.github.io/letters/8274-to-an-unknown-woman"
+---
+
+::: {.letter-metadata}
+**Date:** March 10th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Tig Lang
+:::
+
+Madam
+I wrote you a letter about your MS, and sent it to the address on the MS itself, at Gosport so I hope you have received it
+yours truly
+C M Yonge

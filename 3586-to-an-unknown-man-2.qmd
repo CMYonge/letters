@@ -1,0 +1,35 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1892-00-00"
+letter_date: "[1892/3?]"
+manuscript: "MS Miss Sarah Jardine-Willoughby"
+post_id: 3586
+letter_id: "to-an-unknown-man-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-00-00"
+  url: "https://cmyonge.github.io/letters/3586-to-an-unknown-man-2"
+---
+
+::: {.letter-metadata}
+**Date:** [1892/3?]  
+**Manuscript:** MS Miss Sarah Jardine-Willoughby
+:::
+
+Dear Sir
+I have consulting [sic] my [colleague](people/person_329.qmd) as to whether she remembers having your daughter's little book  She does not remember it, and I believe I had it, but did not think it came within scope of the [Monthly Packet](organizations/other_52.qmd), and we have very little room for notices of books, so as only to be able to put in what bears on our purpose
+
+yours truly
+C M Yonge

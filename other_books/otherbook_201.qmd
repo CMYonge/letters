@@ -1,0 +1,16 @@
+---
+title: "John Francis Campbell - Popular Tales of the West Highlands"
+book_id: 201
+---
+
+## Publication Information
+
+**Date:** 1860-1862
+
+**Imprint:** Edinburgh: Edmonston and Douglas
+
+## Letters Mentioning This Work
+
+- [Letter 1828](../1828-to-susanna-warren-4.qmd)
+- [Letter 3386](../3386-to-christabel-rose-coleridge-25.qmd)
+

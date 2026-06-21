@@ -1,0 +1,15 @@
+---
+title: "The Rev. Alexander Carlyle - Autobiography of the Rev. Dr. Alexander Carlyle, minister of Inveresk: Containing Memorials of the Men and Events of his Time"
+book_id: 325
+---
+
+## Publication Information
+
+**Date:** 1860
+
+**Imprint:** Edinburgh: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 1812](../1812-to-jemima-blackburn-11.qmd)
+

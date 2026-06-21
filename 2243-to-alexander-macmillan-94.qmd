@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-05-05"
+letter_date: "May 5th 1868"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 195-6"
+post_id: 2243
+letter_id: "to-alexander-macmillan-94"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-05-05"
+  url: "https://cmyonge.github.io/letters/2243-to-alexander-macmillan-94"
+---
+
+::: {.letter-metadata}
+**Date:** May 5th 1868  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 195-6
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Thank you much for your kind answer. The second set of [cameos](cmy_books/cmybook_93.qmd) is nearly all written, but the [Monthly Packet](organizations/other_52.qmd) must have the first turn of them and that will take a good while - about a year at shortest.
+
+I am afraid you think me very idle about the [Worthies](cmy_books/cmybook_80.qmd). The truth is that my [Mother](people/person_1606.qmd) has grown so infirm of late that I have less time than usual, and that time I thought it wise to spend in completing Monthly Packet Material, Cameos and a [story](cmy_books/cmybook_81.qmd) (of James I of Scotland in Captivity) that in case of being able to do no work, there might not be a stand still. I hope however to return ere long to Alexander the Great - whom I have left a full year on the Banks of the Granicus
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** The first volume of *Cameos from English History* was published in 1868, the second in 1871.

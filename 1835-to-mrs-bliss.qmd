@@ -1,0 +1,41 @@
+---
+title: "To Sophia Bliss?"
+letter_iso_date: "1861-07-01"
+letter_date: "July 1st 1861"
+manuscript: "MS NLS 962"
+post_id: 1835
+letter_id: "to-mrs-bliss"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sophia Bliss?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-07-01"
+  url: "https://cmyonge.github.io/letters/1835-to-mrs-bliss"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st 1861  
+**Manuscript:** MS NLS 962
+:::
+
+My dear [Mrs Bliss](people/person_161.qmd),
+
+I did not think when last I saw you that the accompanying book would have come so soon, so I said nothing about it, but if you would be so kind as to take charge of it, I should be very much obliged as it is a parcel that will not well travel by post.[^1]  The letters I think I shall have to send by post
+
+yours sincerely
+
+C M Yonge
+
+---
+
+[^1]: Evidently the specially bound copy of *The Daisy Chain* to be sent to Bishop Patteson in New Zealand, and referred to in the next letter to Fanny Patteson (dated 7 July 1861).

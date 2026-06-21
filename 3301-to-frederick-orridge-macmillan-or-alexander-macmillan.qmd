@@ -1,0 +1,39 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1895-10-16"
+letter_date: "Oct 16th 1895"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 220"
+post_id: 3301
+letter_id: "to-frederick-orridge-macmillan-or-alexander-macmillan"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-10-16"
+  url: "https://cmyonge.github.io/letters/3301-to-frederick-orridge-macmillan-or-alexander-macmillan"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 16th 1895  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 220
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I hope to send all but the three or four concluding chapters of my story, [A <u>Release or Caroline’s French Kindred</u>](cmy_books/cmybook_239.qmd) tomorrow
+
+I should very much like them to appear in [St Nicholas](organizations/other_88.qmd), but the difficulty is that the really first part is in the Christmas Number of the [Monthly Packet](organizations/other_52.qmd) for 1893, and if this story appeared  separately, I must rewrite the <u>mise en scene</u>, as I suppose the republication of <u>Caroline’s Defiance</u> would be objected to.  I cannot lay my hand on the Xmas number, perhaps you could procure it from [Mr Innes](people/person_744.qmd). I doubt however whether my story has enough of the child element in it for St Nicholas
+
+Yours very truly
+C M Yonge

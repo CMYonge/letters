@@ -1,0 +1,40 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1867-05-16"
+letter_date: "May 16. 1867."
+manuscript: "Copy outletter book British Library Add MSS.55387 (1) P. 179"
+post_id: 2171
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-49"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-05-16"
+  url: "https://cmyonge.github.io/letters/2171-alexander-macmillan-to-charlotte-mary-yonge-49"
+---
+
+::: {.letter-metadata}
+**Date:** May 16. 1867.  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1) P. 179
+:::
+
+Dear Miss Yonge	
+
+[I](people/person_939.qmd)think I have got a most charming gem of Alexander, whom I was contemplating as one [vignette](organizations/other_167.qmd). I am afraid he was rather an unworthy in some ways. But who is always <u>worthy</u>.[^1] This face is so beautiful. It is engraved by Worship[?] from the Besborough [sic] Collection. You shall see it.
+
+Very faithfully yours
+A. Macmillan
+
+---
+
+[^1]: CMY was compiling her *Book of Worthies*.

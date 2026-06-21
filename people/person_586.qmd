@@ -1,0 +1,15 @@
+---
+title: "Miss Grigg"
+person_id: 586
+---
+
+## Biographical Information
+
+(fl.25 June 1862)
+
+friend of Mary Adams and her aunt
+
+## Letters Mentioning This Person
+
+- [Letter 1866](../1866-to-miss-grigg.qmd)
+

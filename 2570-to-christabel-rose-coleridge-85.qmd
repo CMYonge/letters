@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1877-01-31"
+letter_date: "Jany 31st 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2570
+letter_id: "to-christabel-rose-coleridge-85"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-01-31"
+  url: "https://cmyonge.github.io/letters/2570-to-christabel-rose-coleridge-85"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 31st 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+Here  are a not very brilliant set of answers  I rather doubt whether the question about the fall of Constantinople was understood   I expect there will be a rush at [Gridiron](people/person_25.qmd)’s ghost question.[^1]  
+
+I shall be very glad if [Fernando](other_books/otherbook_741.qmd) ends by coming to me.[^2]  [Miss Weber](people/person_1483.qmd)s [At Sixes and Sevens](other_books/otherbook_879.qmd), a conclusion to [I wonder why](other_books/otherbook_855.qmd) is very disappointing[^3]  Grace is so stupidly in love without being asked, and everybody goes on at weary cross purposes from first to last, and the sundial motto is so repeated that we grew sick of it  I have my doubts whether she can write a long book.  Our religious education field day at [school](organizations/other_107.qmd) is coming off tomorrow, and the pupil teachers are in great excitement they themselves have both come out first class.  What a capital story [Miss Roberts](people/person_1244.qmd) has got in [Friendly Leaves](organizations/other_71.qmd). I suppose the point in the Penzance court is that Convocation was against having his court, and that submitting to an old usurpation is not like being handed on to a new one, but I am sure I do not know whether this is the right view[^4]
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: These were essays written by members of the [Gosling Society](organizations/other_104.qmd), of which Coleridge was secretary.
+[^2]: In the end Coleridge's novel *The Constant Prince* was published in *MP*.
+[^3]: Alice Weber's novel 'I Wonder Why' appeared only in serial form in *MP*, but its sequel was published by Mozley only in volume form.
+[^4]: CMY refers to the trial (1876-7) of the Rev. Arthur Tooth, Vicar of Hatcham, for ritualism before Lord Penzance, who had been appointed under the Public Worship Regulation Act, 1874.  Tooth refused to recognise the court's jurisdiction.

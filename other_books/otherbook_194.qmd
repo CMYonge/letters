@@ -1,0 +1,15 @@
+---
+title: "Charles Lever - The Confessions of Harry Lorrequer"
+book_id: 194
+---
+
+## Publication Information
+
+**Date:** 1839
+
+**Imprint:** Dublin: Curry
+
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

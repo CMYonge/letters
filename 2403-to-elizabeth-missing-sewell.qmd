@@ -1,0 +1,30 @@
+---
+title: "To Elizabeth Missing Sewell"
+post_id: 2403
+letter_id: "to-elizabeth-missing-sewell"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/2403-to-elizabeth-missing-sewell"
+---
+
+My dear [Miss Sewell](people/person_1301.qmd),
+
+Could you be so kind as first to send on a card the name of anyone to write to at Freshwater about lodgings for a fortnight or so, or if that great Alum bay hotel is thought well of.<sup>1</sup> [Mrs Elgie](people/person_474.qmd)<sup>2</sup> wants a little airing after her winter of illness, and I fancy Bonchurch would be too relaxing for her, but if there are any lodgings anywhere you specially recommend it would be a kindness to mention them, and the sort of rate of price.
+
+It is only [Mr](people/person_478.qmd) and Mrs Elgie, not the children. If you are gone from home, perhaps one of your sisters would be so kind as to set down particulars.
+
+Yours sincerely,
+
+C M Yonge

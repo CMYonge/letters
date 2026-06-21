@@ -1,0 +1,32 @@
+---
+title: "To an Unknown Person"
+letter_date: "Undated"
+manuscript: "MS fragment  Princeton University, Parrish Collection"
+post_id: 3532
+letter_id: "to-an-unknown-person"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3532-to-an-unknown-person"
+---
+
+::: {.letter-metadata}
+**Date:** Undated  
+**Manuscript:** MS fragment  Princeton University, Parrish Collection
+:::
+
+I am much hurried and can hardly answer letters
+
+Yours truly
+C M Yonge

@@ -1,0 +1,46 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1879-06-13"
+letter_date: "June 13th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 92"
+post_id: 2673
+letter_id: "to-george-lillie-craik-51"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-06-13"
+  url: "https://cmyonge.github.io/letters/2673-to-george-lillie-craik-51"
+---
+
+::: {.letter-metadata}
+**Date:** June 13th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 92
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I hope my sending the corrections on this [pirated](organizations/other_172.qmd) American copy of the [‘Christians and Moors’](cmy_books/cmybook_126.qmd) is not inconvenient; they sent me a dozen, and I preferred sacrificing one to doing so from /with\\  my own last copy
+
+The lists at the end must not however be used to print from as the Americans have massed them together with a fine disregard of chronology
+
+I have I hope corrected the careless blunders, It is not possible to alter in accordance with all the new German lights on Spanish history without rewriting the book, and it professes to be half romance.
+
+I see the [Spectator](organizations/other_180.qmd) is critical as to Arabic names. I do not think the Emir ought to be made Ameer. In fact though I know no Arabic, I suspect  the Spectator cannot be altogether right in all its criticisms  Forms of names are so sure to vary that I think it safer to follow the books I take them from when I am ignorant.
+
+[Magnum Bonum](cmy_books/cmybook_131.qmd) is quite finished now 43 chapters. Is it to be two vols at first
+
+Yours truly
+C M Yonge

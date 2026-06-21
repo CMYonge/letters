@@ -1,0 +1,15 @@
+---
+title: "John Bunyan - The Pilgrim's Progress from this World to that which is to come"
+book_id: 224
+---
+
+## Publication Information
+
+**Date:** 1678
+
+**Imprint:** London: Ponder
+
+## Letters Mentioning This Work
+
+- [Letter 2412](../2412-to-edith-sophia-jacob-20.qmd)
+

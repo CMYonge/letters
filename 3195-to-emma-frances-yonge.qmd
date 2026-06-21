@@ -1,0 +1,36 @@
+---
+title: "To Emma Frances Yonge"
+letter_iso_date: "1892-04-18"
+letter_date: "[April 1892]"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 336"
+post_id: 3195
+letter_id: "to-emma-frances-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Emma Frances Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-04-18"
+  url: "https://cmyonge.github.io/letters/3195-to-emma-frances-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** [April 1892]  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 336
+:::
+
+My dear [Frances](people/person_1604.qmd)
+We buried the poor old fellow with all honours.  [Charles](people/person_2111.qmd) wheeled down the barrow, I followed, and we put him where his predecessors are, coming on two of their coffins before we found the right place. Poor old fellow, he loved his own way, and it was well for all that he should not grown old.
+
+---
+
+**Note:** Dated from the reference to the departure of the Rev. Henry Brock in 1892. The 'poor old fellow' was a dog named Graf.

@@ -1,0 +1,53 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1876-08-07"
+letter_date: "Aug 7 th [1876]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Plymouth and West Devon Area Record Office Acc No 308: 7-8-76"
+post_id: 2560
+letter_id: "to-mary-yonge-47"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-08-07"
+  url: "https://cmyonge.github.io/letters/2560-to-mary-yonge-47"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 7 th [1876]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Plymouth and West Devon Area Record Office Acc No 308: 7-8-76
+:::
+
+My dear [Mary](people/person_1626.qmd)
+
+Many thanks for this letter.[^1]  I suppose the congestion is the great danger now, but youth does so much that I cannot help still hoping and with all the suffering it is not so sad as poor [Mr Chamberlayne](people/person_282.qmd)’s state, for this creeping paralysis has now mastered both arms, so that he can not even point to letters and spell words but he takes food, and his pulse is stronger, and they say he may live two or three months.  
+
+It is [Sir William’](people/person_669.qmd)s [eldest grandson](people/person_672.qmd) who is the Jesuit. Only [his eldest son](people/person_668.qmd) became a Romanist, and married [an Irish RC](people/person_664.qmd), who is a very good religious woman and has brought up all her children very well but of course in her own Church.[^2]  The [second son](people/person_671.qmd) (hers I mean) is in the army  Of Sir William’s own sons poor [George](people/person_660.qmd) as you know died after 11 years of this same creeping paralysis his [widow](people/person_1690.qmd) is a great friend of [Gertrude](people/person_1462.qmd)’s and I hope we shall have her here in the spring. [Gilbert](people/person_661.qmd) has a living in Lincolnshire and has turned out very hardworking & very High Church.  [Charles](people/person_670.qmd) is a soldier. [Evelyn](people/person_659.qmd) was presented to Sparsholt, a village bordering on Hursley & Winchester last year, & is going to marry a Miss [Grace Hussey](people/person_662.qmd) at Salisbury of whom the Moberlys speak highly, and [Arthur](people/person_653.qmd), having a strong taste for teaching, has set up in a house at Hursley with little boys as pupils, and people say very foolish things about its being beneath him, but it is a nice place for a quiet boy to begin in, and if we could afford it we should send [Maurice](people/person_1630.qmd) but it is £100 for a boarder & £75 for a day boy dining there.  I have referred this gentleman to [Edmund Colborne](people/person_322.qmd) who is sure to know
+
+your most affectionate
+C M Yonge
+
+---
+
+[^1]: Evidently the letter described the illness of their cousin [Henry Anderson Morshead](people/person_32.qmd) (1848/9-1876).
+[^2]: Sir William Heathcote's eldest son, Sir William Perceval Heathcote, 6th Bt. (1826-1903) married (1849) Letitia Maria Daly (1828/9-1910).  Their eldest son was
+
+Sir William Arthur Heathcote , S.J., 7th Bt. (1853-1924).
+[^3]: Sir Gilbert Redvers Heathcote, 8th Bt. (1854-1937).
+[^4]: Captain George Parker Heathcote (1828-1871) returned from India a cripple in 1860 and married (1869) his cousin Isabella Margaretta Elizabeth Walpole (d.1938).
+[^5]: The Rev. Gilbert Vyvyan Heathcote (1830-1890), Rector of West Deeping, Lincs..
+[^6]: Major Charles George Heathcote (1843-1924).
+[^7]: See above.  He married (19 December 1876) Grace Hussey (d. 1932).
+[^8]: Arthur Malcolm Heathcote (1847-1934).

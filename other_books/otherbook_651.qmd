@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott 1st Bt. - Rokeby: A Poem"
+book_id: 651
+---
+
+## Publication Information
+
+**Date:** 1813
+
+**Imprint:** Edinburgh: Ballantyne
+
+## Letters Mentioning This Work
+
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

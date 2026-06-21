@@ -1,0 +1,15 @@
+---
+title: "Harry Mason"
+person_id: 1750
+---
+
+## Biographical Information
+
+evidently a farm servant of the Yonges at Otterbourne
+
+## Letters Mentioning This Person
+
+- [Letter 2554](../2554-to-mary-yonge-43.qmd)
+- [Letter 3033](../3033-frances-mary-yonge-to-the-reverend-john-yonge.qmd)
+- [Letter 3034](../3034-frances-mary-yonge-to-mary-yonge.qmd)
+

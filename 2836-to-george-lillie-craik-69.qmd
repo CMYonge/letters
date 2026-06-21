@@ -1,0 +1,53 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1886-06-25"
+letter_date: "June 25 [1886]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 151-2:"
+post_id: 2836
+letter_id: "to-george-lillie-craik-69"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-06-25"
+  url: "https://cmyonge.github.io/letters/2836-to-george-lillie-craik-69"
+---
+
+::: {.letter-metadata}
+**Date:** June 25 [1886]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 151-2:
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I should like to find out how much the lady cares who urged me to write before answering. Whether I will go on with this personal history, and whether time is still important, for it was the hurry that oppressed me.[^1]
+
+The copyright of [Householders](cmy_books/cmybook_357.qmd) and [Thoughts on Pictures](cmy_books/cmybook_301.qmd) is mine.
+
+I quite see that all ought not to come too much together, but I do think Householders is worth the having soon, for children by the sea get interested in shells, and I never saw a book meant for them about conchology that was not utter nonsense.
+
+But no doubt this wants touching up.
+
+There are a good many stories by good authors in that Magnet series and it is a pity they should be all lost.
+
+Even as I regret Miss Keary’s [Letters on Egypt](other_books/otherbook_372.qmd).  Also a story of hers published hitherto only in [Aunt Judy’s Magazine](organizations/other_54.qmd) about some capital school boys.[^2]  I wish you and [her sister](people/person_794.qmd)would revive that!
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This seems to be a reference to some autobiographical writings, perhaps those reprinted by Coleridge, *Life* 1-119, or those subsequently printed as 'A Real Childhood' in *Mothers in Council* (1892-3).
+[^2]: Perhaps 'The Cousins and their Friends'  *Aunt Judy's Magazine* (May 1866-December 1867).

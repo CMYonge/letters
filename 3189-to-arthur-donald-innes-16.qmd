@@ -1,0 +1,44 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1892-02-06"
+letter_date: "Feb 6th 1892"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 28"
+post_id: 3189
+letter_id: "to-arthur-donald-innes-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-02-06"
+  url: "https://cmyonge.github.io/letters/3189-to-arthur-donald-innes-16"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 6th 1892  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 28
+:::
+
+Dear [Mr Innes](people/person_744.qmd),
+Votes coming straight to me, and votes going first to [Miss Coleridge](people/person_329.qmd) made a certain amount of confusion - and four for [Rowling Manor](other_books/otherbook_647.qmd) dated Jany 30th, came in just at the end and carried it up to 14 votes while [L’Epine Noble](other_books/otherbook_662.qmd) has twelve --- So I suppose it must be the prize one, though my own judgment would not have gone that way.[^1]
+
+Thank you about the stamps   -   We will divide
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: This relates to the prize for the best story in the Christmas 1891 number of the [*MP*](organizations/other_52.qmd).  Readers were asked to vote for their favourite.

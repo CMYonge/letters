@@ -1,0 +1,15 @@
+---
+title: "Augustin Thierry - Histoire de la conquête de l’Angleterre par les Normands, de ses causes, et de ses suites jusqu’à nos jours"
+book_id: 454
+---
+
+## Publication Information
+
+**Date:** 1825
+
+**Imprint:** Paris: Didot
+
+## Letters Mentioning This Work
+
+- [Letter 2106](../2106-to-elizabeth-missing-sewell-6.qmd)
+

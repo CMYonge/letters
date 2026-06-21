@@ -1,0 +1,15 @@
+---
+title: "Raphael Holinshed - The Chronicles of England, Scotlande and Irelande"
+book_id: 792
+---
+
+## Publication Information
+
+**Date:** 1577
+
+**Imprint:** London: Harrison
+
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
+

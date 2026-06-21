@@ -1,0 +1,42 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1885-04-05"
+letter_date: "Easter day [5 April 1885]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2805
+letter_id: "to-mary-yonge-51"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-04-05"
+  url: "https://cmyonge.github.io/letters/2805-to-mary-yonge-51"
+---
+
+::: {.letter-metadata}
+**Date:** Easter day [5 April 1885]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mary](people/person_1626.qmd) 
+
+[Gertrude](people/person_1462.qmd) has brightened up this week but she had an embarras de richesses on Wednesday for[Jane Harper](people/person_2360.qmd), two children, [Bella Heathcote](people/person_1690.qmd) [Mrs Buston](people/person_236.qmd) and [Emily Dampier](people/person_404.qmd) all came. She could not see the last two but they are coming on Wednesday afternoon to see her.
+
+We had 104 communicants today - 50 early and 54 late. [Frances](people/person_1604.qmd) was neuralgic and could not come out so [Maurice](people/person_1630.qmd) was alone.  [George](people/person_1610.qmd) has grown very tall. Poor [Caroline Martin](people/person_967.qmd) died the night before good Friday.
+
+I never had such a scarcity of primroses at Easter!
+
+Your affectionate 
+C.M. Yonge

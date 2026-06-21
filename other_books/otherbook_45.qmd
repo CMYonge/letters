@@ -1,0 +1,15 @@
+---
+title: "Henry Coore - The Story of Queen Elizabeth Woodville"
+book_id: 45
+---
+
+## Publication Information
+
+**Date:** 1845
+
+**Imprint:** Halifax: Hartley
+
+## Letters Mentioning This Work
+
+- [Letter 3023](../3023-to-anna-butler-2.qmd)
+

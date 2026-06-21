@@ -1,0 +1,48 @@
+---
+title: "From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge"
+letter_iso_date: "1864-04-27"
+letter_date: "April 27, 1864."
+location: "St. Andrew’s"
+manuscript: "MS location unknown. Printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> II, 90-1."
+post_id: 1951
+letter_id: "from-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-04-27"
+  url: "https://cmyonge.github.io/letters/1951-from-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-5"
+---
+
+::: {.letter-metadata}
+**Date:** April 27, 1864.  
+**From:** St. Andrew’s  
+**Manuscript:** MS location unknown. Printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> II, 90-1.
+:::
+
+My dear Cousin,
+[I](people/person_1155.qmd) returned on the 24th from Australia. I visited the dioceses of Adelaide, Melbourne, Sydney, and Brisbane. Everywhere I met with great encouragement; and indeed, I thank God that (as I had hoped) the special work of the [Mission](organizations/other_30.qmd) became the means of exciting unusual interest in the work of the Church generally. It was a great opportunity, a great privilege in the crowded meetings to tell people face to face their duties, to stand up as the apologist of the despised Australian black, and the Chinese gold-digger, and the Melanesian islander.
+
+All the [Primate](people/person_1295.qmd) had taught me--what heathenism is, how to deal with it, the simple truisms about the ‘common sin, common redemption,’ the capacity latent in every man, because he is a man, and not a fallen angel nor a brute beast, the many conventional errors on Mission (rather) ministerial work--many, many things I spoke of very fully and frequently. I felt it was a great responsibility. How strange that I forgot all my nervous dread, and only wished there could be thousands more present, for I knew that I was speaking words of truth, of hope, and love; and God did mercifully bless much that He enabled, me to say, and men’s hearts were struck within them, though, indeed, I made no effort to excite them.
+
+Much may result from it. We may have a branch school on the S.W. of Curtis Island, on the east coast of Queensland, healthy, watered, wooded, with anchorage, about 25° S. latitude, a fair wind to and from some of the islands; to which place I could rapidly carry away sick persons.
+
+There I could convey two hundred or more scholars, in the same time required to bring sixty to New Zealand; there yams can be grown; there it may be God’s will that a work may be commenced at length among the remnant that is left of the Australian blacks. The latter consideration is very strongly urged upon me by the united voice of the Australian Churches, by none more strongly than by the [Bishop of Sydney](people/person_1906.qmd). I dare to hope that the communion of the Australian and New Zealand Churches will be much strengthened by the Mission as a link. What blessings, what mercies!
+
+This will not involve an abandonment of [St Andrew’s](organizations/other_139.qmd), but the work must expand. I think Australia will supply near 1,000 £. a year, perhaps more before long.
+
+To teach me that all is in His hands, we have again had a visitation from dysentery. It has been very prevalent everywhere, no medical men remember such a season. We have lost from consumption two, and from dysentery six this year; in fourteen months not less than fourteen: more than in all the other years put together. Marvellous to relate, all our old baptized and confirmed scholars are spared to us. Good-bye, and 
+
+God ever bless and keep you.
+Your affectionate cousin,
+J. C. PATTESON, Bishop.

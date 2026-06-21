@@ -1,0 +1,18 @@
+---
+title: "Jane Austen"
+person_id: 76
+---
+
+## Biographical Information
+
+(1775-1817)
+
+novelist
+
+## Letters Mentioning This Person
+
+- [Letter 1787](../1787-to-ann-maria-carter-smith-33.qmd)
+- [Letter 2436](../2436-the-rev-james-edward-austen-leigh-to-sir-william-heathcote.qmd)
+- [Letter 3109](../3109-to-frances-mary-yonge-2.qmd)
+- [Letter 3147](../3147-to-elizabeth-barnett-13.qmd)
+

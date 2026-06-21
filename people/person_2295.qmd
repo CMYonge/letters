@@ -1,0 +1,15 @@
+---
+title: "Napoleon III"
+person_id: 2295
+---
+
+## Biographical Information
+
+(1808-1873)
+
+Emperor of France
+
+## Letters Mentioning This Person
+
+- [Letter 2499](../2499-to-mary-anne-dyson-23.qmd)
+

@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1878-02-23"
+letter_date: "Febry 23d [1878]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 3497
+letter_id: "to-an-unknown-man"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-02-23"
+  url: "https://cmyonge.github.io/letters/3497-to-an-unknown-man"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 23d [1878]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+Dear Sir,
+
+I have another packet of sheets to thank you for today, and I can now thank you with the fuller perception of your kindness as I have been carefully going over the corrections, inking them in, and making others I am shocked now that I see more plainly my wonderful bits of carelessness. I cannot imagine how I came to leave them. I can hardly tell which are more useful your corrections or suggestions, and as I am going to work very slowly, only a page or two at a time I hope to get the whole thoroughly corrected in process of time - 
+
+With many thanks for your most careful help
+
+Yours faithfully
+C.M. Yonge
+
+---
+
+**Note:** Black-edged paper. Placed here guessing that the corrections were those to the *History of Christian Names* mentioned in the letter 2620, also on black-edged paper,  to G. L. Craik of 11 March 1878.

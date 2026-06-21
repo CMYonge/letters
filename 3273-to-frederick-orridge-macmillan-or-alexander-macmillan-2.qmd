@@ -1,0 +1,41 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1894-09-20"
+letter_date: "Sept 20th 1894"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS British Library Add MSS 54921: 210-11"
+post_id: 3273
+letter_id: "to-frederick-orridge-macmillan-or-alexander-macmillan-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-09-20"
+  url: "https://cmyonge.github.io/letters/3273-to-frederick-orridge-macmillan-or-alexander-macmillan-2"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 20th 1894  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS British Library Add MSS 54921: 210-11
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I shall be very glad that [the Rubies of St Lo](cmy_books/cmybook_234.qmd) should be published as you propose, I receiving [/4 per copy](organizations/other_160.qmd) sold. Thanks for the two school Lances of Lynwood.[^1] I am only just come home from Devon or I should have written sooner
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: *The Lances of Lynwood* had just been brought out in an abridged edition for schools (London: Macmillan 1894)

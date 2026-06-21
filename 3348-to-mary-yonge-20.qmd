@@ -1,0 +1,37 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1897-05-13"
+letter_date: "May 13th [1897]"
+location: "Elderfield Otterbourne"
+manuscript: "MS West Devon Area Record Office Acc No 308"
+post_id: 3348
+letter_id: "to-mary-yonge-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-05-13"
+  url: "https://cmyonge.github.io/letters/3348-to-mary-yonge-20"
+---
+
+::: {.letter-metadata}
+**Date:** May 13th [1897]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS West Devon Area Record Office Acc No 308
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I hope you accomplished meeting [Jane Moore](people/person_1042.qmd) after all, though the hitting off the right time with any Colborne is so difficult, I wonder whether Jane looks as bright and fresh as ever.  We are going through a grave time-  When the Woollcombes came at the end of April, [Gertrude](people/person_1462.qmd) was in the midst of a very bad sick fit, however she began to revive, and they went away on Monday 3d leaving her on the mend, but on the Saturday she was so ill that we telegraphed, and [Mary](people/person_1558.qmd) came back, and I do not think will leave her again. There is one day better and another worse. Yesterday was a very good day, when she enjoyed reading and seeing flowers and [Alethea](people/person_182.qmd) but it was a bad night  and she is very tired today hardly speaking.  The Bowleses began their spring cleaning on the 3d, the two little girls going with the nurse to a lodging at Dorking, Alethea and the baby to [Mrs Collins](people/person_2168.qmd) at the post office, and [Henry](people/person_184.qmd), with [Reginald](people/person_189.qmd) to Guildford.  He had provided for last Sunday but hearing how ill Gertrude was, he came back on Monday, and we had the HC on Tuesday morning, but as she was better, he is gone back to Guildford now till Saturday as with a telegraph, he can get back in two hours.  Mary Woollcombe is everything to Gertrude and with [Palmer](people/person_2169.qmd) she needs no one else-  I am glad to say that [Mr Wither](people/person_1544.qmd) has at last consented to have a Curate.  He is 88 and it really is necessary though he is in good health only very heavy and unwieldy, but he has a Bath chair which he much enjoys.  My banksias are in great beauty, but I fear the frost did much harm last night
+
+your most affectionate
+C M Yonge

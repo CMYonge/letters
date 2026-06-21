@@ -1,0 +1,20 @@
+---
+title: "Cassell"
+other_id: 216
+---
+
+**Type:** organization
+
+## Description
+
+publisher
+
+## Letters Mentioning This
+
+- [Letter 2716](../2716-to-a-m-wattus.qmd)
+- [Letter 2828](../2828-to-george-lillie-craik-63.qmd)
+- [Letter 3151](../3151-to-arthur-donald-innes-3.qmd)
+- [Letter 3153](../3153-to-arthur-donald-innes-4.qmd)
+- [Letter 3202](../3202-to-arthur-john-butler-8.qmd)
+- [Letter 3266](../3266-to-arthur-john-butler-9.qmd)
+

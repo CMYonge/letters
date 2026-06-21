@@ -1,0 +1,46 @@
+---
+title: "To Margaret Gatty"
+letter_iso_date: "1864-12-12"
+letter_date: "Decr 12th [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 1922
+letter_id: "to-margaret-gatty-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Gatty"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-12-12"
+  url: "https://cmyonge.github.io/letters/1922-to-margaret-gatty-4"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 12th [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Mrs Gatty](people/person_549.qmd),
+In haste, with all the [proofs](organizations/other_52.qmd) on my hands, and going out to tea - here are the sonnets[^1] - I left out the first as being holy day, rather than Sunday, and belonging to next year’s series
+
+Please let them go straight to [Mozley](organizations/other_108.qmd)’s and I should be glad of more for February.
+
+I hope you are not overwhelmed with [M. Macé](other_books/otherbook_354.qmd) in his second volume,[^2] I am sure the work must be hard. You are gathering your Christmas flock, I hope all well
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Gatty's sister [Horatia Elder](people/person_471.qmd) had contributed 'Sonnets from the Collects' to *[MP](organizations/other_52.qmd)*.
+[^2]: Margaret Gatty, *The History of a Bit of Bread* (1864), a translation of Jean Macé, *Histoire d’une bouchée de pain : lettres à une petite fille sur la vie de l’homme et des animaux* (1861). According to her biographer Gatty had completed the 'heavy work' on the translation by May 1864.

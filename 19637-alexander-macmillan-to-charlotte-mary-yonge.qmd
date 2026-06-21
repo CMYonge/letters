@@ -1,0 +1,41 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-10-12"
+letter_date: "Oct.12 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (1) P. 472"
+post_id: 19637
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-10-12"
+  url: "https://cmyonge.github.io/letters/19637-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Oct.12 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (1) P. 472
+:::
+
+My dear Miss Yonge
+
+I am glad you like [my kinsman](people/person_2430.qmd)s work.  I am venturing to send him your good opinion[^1] as he is a man of a genuine modesty of temper, a [&lt;i&gt;sic&lt;/i&gt;]. I think he is a man of true genius. And a word of praise from a competent judge cannot but be pleasant.  By all means keep the papers for leisurely [&lt;i&gt;sic&lt;/i&gt;] reading. About the end of next week I should like to have them.
+
+Yours very faithfully
+
+[A. Macmillan](people/person_939.qmd)
+
+---
+
+[^1]: The letter with these comments is not held in the Macmillan papers in the British Library. Possibly Macmillan forwarded it to his relation, the Rev. Hugh Macmillan, author of *Bible Teachings in Nature*.

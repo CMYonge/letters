@@ -1,0 +1,58 @@
+---
+title: "Charles Wooldridge to Charlotte Mary Yonge"
+letter_iso_date: "1896-03-05"
+letter_date: "Mar 5 1896"
+manuscript: "Copy outletter book, Hampshire Record Office 70M92W/60/318"
+post_id: 3318
+letter_id: "charles-wooldridge-to-charlotte-mary-yonge-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Charles Wooldridge to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-03-05"
+  url: "https://cmyonge.github.io/letters/3318-charles-wooldridge-to-charlotte-mary-yonge-12"
+---
+
+::: {.letter-metadata}
+**Date:** Mar 5 1896  
+**Manuscript:** Copy outletter book, Hampshire Record Office 70M92W/60/318
+:::
+
+Dear Madam
+I have now insured all the property.  
+
+The cottages for	1600
+
+Your house		 800
+
+,,      possessions	 200
+
+Olford house	         300	
+
+[Mrs Bishop](people/person_156.qmd)s	 ,,	 200
+
+Broadway	,,	 300
+
+[Hicks](people/person_689.qmd)		,,
+& shop			 360=
+
+			£3760
+
+The premium will all come due at one time, at Ladyday.  The amount now due after making allowance on the old policies not yet expired is £4.7.0 for which please send a cheque, this stands from now till Ladyday 1897.  Then the regular annual premium will be £4.13.9 of which notice will be given as usual
+
+I am yours faithy
+[Chas Wooldridge](people/person_2094.qmd) esq
+
+Miss Yonge
+
+I have put the policy with the deeds

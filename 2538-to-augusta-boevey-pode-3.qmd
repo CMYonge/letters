@@ -1,0 +1,42 @@
+---
+title: "To Augusta Boevey Pode"
+letter_iso_date: "1875-11-08"
+letter_date: "Novr 8th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Plymouth and West Devon Area Record Office Ac 1092/29"
+post_id: 2538
+letter_id: "to-augusta-boevey-pode-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Augusta Boevey Pode"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-11-08"
+  url: "https://cmyonge.github.io/letters/2538-to-augusta-boevey-pode-3"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 8th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Plymouth and West Devon Area Record Office Ac 1092/29
+:::
+
+My dear [Augusta](people/person_1180.qmd)
+
+I don’t know how it is but there never seems to be room in the [Packet](organizations/other_52.qmd).  I cannot get in my own [Cameos](cmy_books/cmybook_134.qmd), nor finish up [the Three Brides](cmy_books/cmybook_120.qmd) as I meant to have done by two chapters at a time.  When I began the [York & L Rose](other_books/otherbook_867.qmd) I thought both it and [Dt Cecil](other_books/otherbook_859.qmd) would end at Midsummer, and now I find that they will last on into next year.  Then [the new printer](organizations/other_173.qmd) will not let me put things in type and keep them till I can find a good niche, but only prints just when will make one number so that I do not get my way.  I hope as [the Winter Story](other_books/otherbook_868.qmd) will finish I shall have a little more room after December, but to get in your paper has really been impossible hitherto.  The [Beginnings of Church history](cmy_books/cmybook_119.qmd) are the short chapters that I have had in the now collapsed [Monthly Paper](organizations/other_81.qmd) finished up on to the present time, for there are so many Church histories stopping with the three first centuries.  The [Stories](cmy_books/cmybook_117.qmd) are only the old ones like the Xmas Mummers &c reprinted in one volume.  [My Young Alcides](cmy_books/cmybook_112.qmd) is a sort of Modern story built on the lines of the Labours of Hercules.  I have had to finish it up to be a Christmas story and have been so hurried as to have no time for anything else in the way of writing for the last fortnight but I sent off his preface and title page today and must bring up arrears
+
+Ones heart aches to think of Puslinch but I think those times of worry and unhappiness are not constant, and that this probably was the effect of [Duke](people/person_1599.qmd) being obliged to go instead of choosing a good time as he did in the summer   I think the brain always was an excitable one and that anxiety has grown on him with the inability to control it, but one certainly does dread extreme old age.  I do not know what day [Miss Finlaison](people/person_512.qmd)’s break up is to be.  They are all in a state of excitement about a concert which is to come off this week in the girls’ school room, two days of it, between the choir,[Frances](people/person_1604.qmd), [Mrs Bateman](people/person_784.qmd) and the governesses.  I wonder whether even to the musical the pleasure or the worry predominates, though to be sure the Managers and performers have all the worry to themselves.  [Gertrude](people/person_1462.qmd) is beginning the winter astonishingly well, and is taking quite a start of strength though I do not suppose she will go out again
+
+I hope [John](people/person_1184.qmd)’s cold is better and that it will not be the beginning of such a series as you had last winter
+
+your most affectionate
+C M Yonge

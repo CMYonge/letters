@@ -1,0 +1,48 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1864-08-03"
+letter_date: "Aug 3 1864"
+manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 246"
+post_id: 1969
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-08-03"
+  url: "https://cmyonge.github.io/letters/1969-alexander-macmillan-to-charlotte-mary-yonge-12"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 3 1864  
+**Manuscript:** Copy outletter book British Library Add MSS. 55383 (1): P. 246
+:::
+
+Dear Miss Yonge	
+[I](people/person_939.qmd) am very sorry to have missed you when you called today.
+
+I will take my chance of finding you at [Mr Gibbs](people/person_558.qmd) tomorrow between 12 & 1 & will bring the MS which is at the printer with me.
+
+After much searching my clerk, whom I sent to Piles Coffee House could not recover the story about the little girl[^1] I wonder if you will be able to find it
+
+[Karamsin](other_books/otherbook_366.qmd) has been translated into French, and I saw a second hand copy in a foreign catalogue which I have ordered. There is not one in London for sale. Is it in the [London Lib](organizations/other_29.qmd).? You subscribe to it, I think.
+
+We are going to start - in the mass, 17 souls, including bodies great and small, on Friday morning for the Isle of Wight.[^2] We mean to stay a month. Might we hope to see you there?
+
+Yours most truly
+ A. Macmillan
+
+---
+
+[^1]: The story of “Lotty” that CMY had seen in the *Times* and wanted to include in the *Book of Golden Deeds*.
+[^2]: Macmillan, his wife and children, his sister-in-law, her children and servants.

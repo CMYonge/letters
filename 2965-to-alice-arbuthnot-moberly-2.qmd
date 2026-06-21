@@ -1,0 +1,38 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1849-11-18"
+letter_date: "[November or December 1849?]"
+location: "Otterbourne"
+manuscript: "MS location unknown.  This fragment printed in C.A.E. Moberly, <i>[Dulce Domum: George Moberly, his Family and Friends](other_books/otherbook_122.qmd)</i> (London: Murray 1911),  97."
+post_id: 2965
+letter_id: "to-alice-arbuthnot-moberly-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1849-11-18"
+  url: "https://cmyonge.github.io/letters/2965-to-alice-arbuthnot-moberly-2"
+---
+
+::: {.letter-metadata}
+**Date:** [November or December 1849?]  
+**From:** Otterbourne  
+**Manuscript:** MS location unknown.  This fragment printed in C.A.E. Moberly, <i>[Dulce Domum: George Moberly, his Family and Friends](other_books/otherbook_122.qmd)</i> (London: Murray 1911),  97.
+:::
+
+My dear [Alice](people/person_1025.qmd) 
+I am glad you think ‘[St Barthelemy’s Fair](cmy_books/cmybook_35.qmd)’[^1] practicable. I shall very much enjoy doing what I can in the preparations, and I will try and grow as fat and dignified as I can in honour of her Majesty, Queen Philippa.  I was almost afraid that there were too many characters, though I could not see how to manage with less.  We can furnish a real sword and spinning-wheel.  My notion of the King is in a long blue cloak, which we have here, and a fur tippet.  The object of this letter is to ask you and [Miss Cowing](people/person_374.qmd), and as many of the schoolroom party as the carriage will carry, to come in the afternoon and look at the illuminated illustrations in [Froissart](other_books/otherbook_219.qmd) and talk it over and see what can be done.  You cannot think how I shall enjoy the fun of the rehearsals, and it will give me such a good opportunity for correcting any part of the play that may not have the right effect.
+
+---
+
+[^1]: This play, written by CMY for the Moberly children to act at Christmas, was published as *The Mice at Play* (1860).

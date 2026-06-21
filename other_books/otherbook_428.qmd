@@ -1,0 +1,15 @@
+---
+title: "Susanna Warren - A Manual of the Te Deum, with Questions for Examination"
+book_id: 428
+---
+
+## Publication Information
+
+**Date:** 1865
+
+**Imprint:** London: Mozley and Masters
+
+## Letters Mentioning This Work
+
+- [Letter 2081](../2081-to-susanna-warren-5.qmd)
+

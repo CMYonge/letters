@@ -1,0 +1,42 @@
+---
+title: "To Edith Emma Butler?"
+letter_iso_date: "1861-00-00"
+letter_date: "[1861]"
+manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> pp. 97"
+post_id: 1847
+letter_id: "to-elizabeth-barnett-or-edith-emma-butler"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Emma Butler?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-00-00"
+  url: "https://cmyonge.github.io/letters/1847-to-elizabeth-barnett-or-edith-emma-butler"
+---
+
+::: {.letter-metadata}
+**Date:** [1861]  
+**Manuscript:** MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> pp. 97
+:::
+
+[To a daughter of the Rev. W. J. Butler.][^1]
+
+A sort of notion of locating [a story](cmy_books/cmybook_53.qmd) at Market Stoneborough had made us look up the [Mays](cmy_books/cmybook_24.qmd) and find out what they are doing now.[^2]
+
+Blanche and Hector are just married, and Aubrey, having proved too delicate for Eton, is Ethel’s faithful pupil still, and Flora’s house is very well managed, but so stupid, and Mary is married to a clergyman.
+
+I have changed the cart accident into Dickie tumbling off the Minster tower on the roof, when he slid down on a skylight and stuck, till Leonard got him down and stopped the bleeding from a terrible cut in the leg.
+
+---
+
+[^1]: Romanes identifies the recipient only as 'a daughter of Dean Butler'. The possible candidates are [Grace Harriet Butler](people/person_594.qmd), [Edith Emma Butler](people/person_822.qmd) and [Mary Avice Butler](people/person_242.qmd).
+[^2]: *The Trial: More Links of the Daisy Chain* began to be serialized in *MP* in January 1862.

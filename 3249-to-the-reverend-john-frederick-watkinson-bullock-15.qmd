@@ -1,0 +1,50 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-02-15"
+letter_date: "Feb 15th 1894"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 135-6"
+post_id: 3249
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-15"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-02-15"
+  url: "https://cmyonge.github.io/letters/3249-to-the-reverend-john-frederick-watkinson-bullock-15"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 15th 1894  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 135-6
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+I send [Bp Mackenzie](people/person_929.qmd) whom I had to do in haste because my book was wanted -
+
+I think I had better take Carnarvon for the leading Cavalier for I can more easily get at his history at present than any other The [Memoir of the Verneys](other_books/otherbook_691.qmd) I had once from [Mudie](organizations/other_137.qmd) but I should have long to wait for it again and it is an expensive book, so I will only mention him in the course of what will be an article on the Cavaliers.
+
+I again must hope you will leave out [Miss Sellon](people/person_1294.qmd). I know of [Dr Pusey](people/person_1215.qmd)s’[sic] friendship for her, but his friends thought he did not know all details.  And I think from the time she refused to let [Bp Philpotts](people/person_1778.qmd) be Visitor she grew masterful[^1]
+
+I have little doubt that submission even in what she did not approve would have been wholesome in the end.
+
+I will write Bp Frampton and send it to you[^2]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Henry Phillpotts (1778-1869), bishop of Exeter, long one of the few bishops sympathetic to the Tractarian movement, supported Lydia Sellon's sisterhood, which was highly controversial.The proposed biographical articles were for the 'Biographies of Eminent Anglicans' which formed part of Bullock's *Daily Lections* project but were never in fact published.
+[^2]: Robert Frampton (1622-1708), bishop of Gloucester.

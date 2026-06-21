@@ -1,0 +1,39 @@
+---
+title: "To Anna Butler"
+letter_iso_date: "1856-05-19"
+letter_date: "May 19th [1856]"
+location: "Otterbourn"
+manuscript: "MS Mrs Caroline Fairclough/7"
+post_id: 3082
+letter_id: "to-anna-butler-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1856-05-19"
+  url: "https://cmyonge.github.io/letters/3082-to-anna-butler-9"
+---
+
+::: {.letter-metadata}
+**Date:** May 19th [1856]  
+**From:** Otterbourn  
+**Manuscript:** MS Mrs Caroline Fairclough/7
+:::
+
+My dear [Miss Butler](people/person_237.qmd)
+Many thanks for the chapter of [Likes and Dislikes](other_books/otherbook_248.qmd), which brings out Emilys moral very satisfactorily.  I should not like it to be the absolute last, and should quite wish to continue her history after an interval.  How would it be - if we were to continue the story next July year - if we may venture to look so far forward, and if it do not suit you better to publish it all together sooner, in which case I should by no means wish to stand in its way.  I should like to see the 15th chapter very much, in fact we are all greatly interested in Helen and Emily and I think they have had great success in the Packet.  We are hoping for [Elizth Barnett](people/person_113.qmd) on Wednesday, and trust to be in full nightingale form for her.  I am sorry [Miss Dyson](people/person_464.qmd) is laid up with such an attack of tooth ache
+
+yours sincerely
+C M Yonge
+
+By the by it has never been explained how the Baroness became lame

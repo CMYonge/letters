@@ -1,0 +1,38 @@
+---
+title: "To Mr Chandler"
+letter_iso_date: "1875-07-13"
+letter_date: "July 13th 1875"
+manuscript: "MS Jonathon Waugh"
+post_id: 7267
+letter_id: "to-mr-chandler"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mr Chandler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-07-13"
+  url: "https://cmyonge.github.io/letters/7267-to-mr-chandler"
+---
+
+::: {.letter-metadata}
+**Date:** July 13th 1875  
+**Manuscript:** MS Jonathon Waugh
+:::
+
+Dear [Mr Chandler](people/person_1864.qmd)
+I think your friends MS is Vallombrosa but there is no address on it, and another about a Family Adventure in Normandy equally unaddressed has come to me, so that I am not sure which is which[^1]  Both are good but I like Vallombrosa best and gladly accept it.  I am just starting for a few days at Salisbury
+yours truly
+C M Yonge
+
+---
+
+[^1]: Neither article has been identified in *[MP](organizations/other_52.qmd)*.

@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-01-12"
+letter_date: "Jan 12th 1894"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff127-8"
+post_id: 3242
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-01-12"
+  url: "https://cmyonge.github.io/letters/3242-to-the-reverend-john-frederick-watkinson-bullock-7"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 12th 1894  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff127-8
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),	
+As I could not think of anything specially about the ancient Breton Church, I looked at Sauvestre’s [Derniers Bretons](other_books/otherbook_685.qmd), and I thought the endurance of St Machutus’ teaching deserved to come in.[^1]
+
+Sauvestre gives various French prose translations of the popular hymns. Those on Paradise and one Christmas ‘Noël’ are very beautiful, but there was only space for the rag picker
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: St. Machutus or S. Malo (*c*.520- *c.* 620).

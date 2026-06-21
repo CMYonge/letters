@@ -1,0 +1,24 @@
+---
+title: "A Modern Telemachus"
+book_id: 185
+sort_title: "Modern Telemachus"
+---
+
+## Publication Information
+
+**Date:** 1886
+
+**Genre:** Fiction (historical)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+## Letters Mentioning This Work
+
+- [Letter 2830](../2830-to-george-lillie-craik-65.qmd)
+- [Letter 2833](../2833-to-george-lillie-craik-66.qmd)
+- [Letter 2834](../2834-to-george-lillie-craik-67.qmd)
+- [Letter 2838](../2838-to-george-lillie-craik-71.qmd)
+- [Letter 2839](../2839-to-george-lillie-craik-72.qmd)
+- [Letter 2842](../2842-to-mary-louisa-molesworth.qmd)
+- [Letter 2849](../2849-to-harper-bros.qmd)
+

@@ -1,0 +1,47 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1862-06-24"
+letter_date: "June 24th 1862"
+location: "Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1862/3"
+post_id: 1865
+letter_id: "to-ann-maria-carter-smith-53"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-06-24"
+  url: "https://cmyonge.github.io/letters/1865-to-ann-maria-carter-smith-53"
+---
+
+::: {.letter-metadata}
+**Date:** June 24th 1862  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/3
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I enclose a cheque for the amount of the [Banks of the Thorne](other_books/otherbook_275.qmd)that has gone in this time, and I think has been very much liked.
+
+I have had an offer of [Mrs Sherwood](people/person_1869.qmd)’s Life from a person who can get at something about her privately so I thought you would not mind my accepting it, as a little beyond a published memoir is such a gain.[^1]
+
+You see the [Packet](organizations/other_52.qmd) is flourishing and can [pay](organizations/other_102.qmd) a little more this time
+
+yours sincerely
+
+C M Yonge
+
+---
+
+[^1]: Carter Smith had evidently offered to contribute a life of Sherwood to the *Biographies of Good Women*;  however none appeared in either of the two series.

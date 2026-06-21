@@ -1,0 +1,39 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1892-11-09"
+letter_date: "Novr 9th 1892"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 27"
+post_id: 3206
+letter_id: "to-arthur-donald-innes"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-11-09"
+  url: "https://cmyonge.github.io/letters/3206-to-arthur-donald-innes"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 9th 1892  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 27
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+I think as you propose [Langley Adventures](cmy_books/cmybook_163.qmd) ‘[Langley School’](cmy_books/cmybook_9.qmd) Royalty at the rate of [2/3 of a 1d](organizations/other_160.qmd) in the shilling on the published price. ‘Langley Adventures’ Royalty at the rate of ¾d  in the shilling on the published price beyond the first 2000 sold which are free of royalty, in the case of Langley Adventures only: twelve copies counting as twelve in all cases.’ might be transferred to you, and the royalty may be paid when the sale exceeds 2,000. Langley School was one of my earliest books, and had very little value when Messrs [Mozley](organizations/other_108.qmd) paid for the copyright
+
+I should like to see Mrs Walford’s [Grown up children](other_books/otherbook_671.qmd)
+
+Yours truly
+C M Yonge

@@ -1,0 +1,16 @@
+---
+title: "William Norgate"
+person_id: 2123
+---
+
+## Biographical Information
+
+(b. Tichborne 1832/3)
+
+father of [Anne Norgate](person_917.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 3219](../3219-to-mr-moore.qmd)
+- [Letter 3307](../3307-to-charles-wooldridge-5.qmd)
+

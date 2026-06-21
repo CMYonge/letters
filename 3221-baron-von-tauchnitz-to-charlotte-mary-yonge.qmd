@@ -1,0 +1,40 @@
+---
+title: "Christian Karl Bernhard, Baron von Tauchnitz, to Charlotte Mary Yonge"
+letter_iso_date: "1893-06-02"
+letter_date: "the 2d of June,  1893"
+location: "Leipzig,"
+manuscript: "MS UCLA collection 100 box 119"
+post_id: 3221
+letter_id: "baron-von-tauchnitz-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Christian Karl Bernhard, Baron von Tauchnitz, to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-06-02"
+  url: "https://cmyonge.github.io/letters/3221-baron-von-tauchnitz-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** the 2d of June,  1893  
+**From:** Leipzig,  
+**Manuscript:** MS UCLA collection 100 box 119
+:::
+
+My dear Miss Yonge,
+If I am not mistaken, you have issued lately several books. Do you not think that there is one that would be suitable for republication in our [Series](organizations/other_224.qmd)? If so, we should be glad to receive a copy, in order to judge how best to arrange our edition.
+
+I sincerely wish that you may enjoy your usual good health and, hoping to receive your kind reply at your earliest convenience, I beg [you] to believe me,
+
+with [my father’](people/person_1396.qmd)s and my own best regards to you,
+Yours very sincerely
+[Tauchnitz](people/person_2124.qmd)

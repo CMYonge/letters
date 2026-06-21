@@ -1,0 +1,15 @@
+---
+title: "William Tooke - History of Russia"
+book_id: 307
+---
+
+## Publication Information
+
+**Date:** 1800
+
+**Imprint:** London: Strahan
+
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "Anne-Louise-Germaine de Staël - Corinne, ou, L'Italie"
+book_id: 712
+---
+
+## Publication Information
+
+**Date:** 1807
+
+**Imprint:** Paris : Nicolle
+
+## Letters Mentioning This Work
+
+- [Letter 3317](../3317-to-mary-elizabeth-wormeley-latimer.qmd)
+

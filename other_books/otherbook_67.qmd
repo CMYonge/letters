@@ -1,0 +1,15 @@
+---
+title: "Sir John Franklin - Narrative of a Journey to the Shores of the Polar Sea"
+book_id: 67
+---
+
+## Publication Information
+
+**Date:** 1823
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

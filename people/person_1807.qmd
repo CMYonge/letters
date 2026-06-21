@@ -1,0 +1,13 @@
+---
+title: "Sister Ellen"
+person_id: 1807
+---
+
+## Biographical Information
+
+a nun at Clewer
+
+## Letters Mentioning This Person
+
+- [Letter 3120](../3120-to-the-reverend-upton-richards.qmd)
+

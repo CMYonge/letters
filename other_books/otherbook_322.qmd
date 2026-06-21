@@ -1,0 +1,17 @@
+---
+title: "Gustav Freytag - Soll und Haben"
+book_id: 322
+---
+
+## Publication Information
+
+**Date:** 1855
+
+**Imprint:** Leipzig
+
+**Notes:** At least three English translations appeared in 1857.
+
+## Letters Mentioning This Work
+
+- [Letter 1861](../1861-to-jemima-blackburn-10.qmd)
+

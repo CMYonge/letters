@@ -1,0 +1,44 @@
+---
+title: "To Frances Sophia Coleridge Patteson"
+letter_iso_date: "1889-08-09"
+letter_date: "Aug 9th [1889?]"
+location: "Elderfield"
+manuscript: "MS Columbia University Library, New York:  Samuels, J.H. Collection"
+post_id: 3588
+letter_id: "to-frances-sophia-coleridge-patteson-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Sophia Coleridge Patteson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-08-09"
+  url: "https://cmyonge.github.io/letters/3588-to-frances-sophia-coleridge-patteson-2"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 9th [1889?]  
+**From:** Elderfield  
+**Manuscript:** MS Columbia University Library, New York:  Samuels, J.H. Collection
+:::
+
+My dear [Fanny](people/person_1151.qmd)
+
+[Mrs Selwyn](people/person_1297.qmd) comes on Thursday, the [Bishop](people/person_1296.qmd) on Saturday.[^1] It will be a very thing if you do go down to enliven Mrs Selwyn on Friday for it has so turned out that this week is the only one when I can go down to see my poor dear old [May](people/person_351.qmd), so I am going down there from Tuesday till Friday evening or Saturday morning I am not sure which. I am sorry to miss you but I dare say you will be about again  and poor May wants me. [Alice](people/person_327.qmd) will be there the last day I think.
+
+If you do come down on Friday, and it is not a bad day with [Gertrude](people/person_1462.qmd), she will be delighted to see you for a little while - the best time between 3 and 4 or 5
+
+Your affte cousin
+C M Yonge
+
+---
+
+[^1]: The Rt. Rev. John Richardson Selwyn  (1844-1898), who became Bishop of Melanesia in 1877 and retired  to England finally in September 1891.  This letter may date however from his previous visit to England in June 1889-January 1890.  The Mrs Selwyn referred to is probably his mother, Sarah Harriet Richardson (d. 1907), widow of the Rt. Rev. George Augustus Selwyn (1809-1878), bishop of New |Zealand and then of Lichfield, though it appears that his second wife Annie Catherine (Mort) Selwyn, whom he had married in 1885. was also present.

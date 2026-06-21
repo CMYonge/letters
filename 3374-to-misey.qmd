@@ -1,0 +1,42 @@
+---
+title: "To Misey ?"
+letter_iso_date: "1898-05-28"
+letter_date: "May 28th 1898"
+location: "Elderfield"
+manuscript: "MS Charlotte Mitchell"
+post_id: 3374
+letter_id: "to-misey"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Misey ?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-05-28"
+  url: "https://cmyonge.github.io/letters/3374-to-misey"
+---
+
+::: {.letter-metadata}
+**Date:** May 28th 1898  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Misey](people/person_2293.qmd)[^1]
+I have been looking for the book, but it is a dilapidated little brochure and has disappeared.  Sentence No 1 was only my awkward translation, the crowd was impeding progress, so the old soldier called out ‘Come on, Crawlers, hindering us from going out to die for you’  is the sense   The other bit is wrong from a careless omission which I have supplied.  I don’t want the M S again, if I may have it in print when the Mag is out.  From the 7th to the 17th of June I am going to Rockstone Yealmpton, Plymouth so if there is anything to write to me about please put my initials.[^2]  I go to the last remnant of my dear Puslinch cousins, I think [she](people/person_1626.qmd) is the only person left whom I remember from babyhood.  She is older than me, but stronger in some ways, though I am quite well and strong - I wish you were!
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: 'Misey' is unidentified; an invalid and the editor of a periodical to which CMY has contributed an article, evidently on a military subject.
+[^2]: Because she would be the guest of her cousin Mary Yonge, who would open letters addressed to ‘Miss Yonge’.

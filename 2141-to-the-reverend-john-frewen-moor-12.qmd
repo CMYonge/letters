@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1866-12-28"
+letter_date: "Innocents’ day [28 December 1866]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2141
+letter_id: "to-the-reverend-john-frewen-moor-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-12-28"
+  url: "https://cmyonge.github.io/letters/2141-to-the-reverend-john-frewen-moor-12"
+---
+
+::: {.letter-metadata}
+**Date:** Innocents’ day [28 December 1866]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+I feel very guilty at not answering you yesterday, but just as I had sat down to write notes, I was interrupted, and all the time after wards went away 
+
+We shall be very grateful if you can kindly delight the parish this day week, Friday 4th - and we hope you and [Mrs Moor](people/person_1044.qmd) can come to /i e dinner\\ luncheon - so as to have time to arrange the room.[^1] I think [John Hicks](people/person_688.qmd) had better give his boys a half holiday and come to help you. I am sorry Rhoda has failed you
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope pasted on previous page addressed to 'The Revd/ J F Moor/Ampfield/Romsey.' and postmarked Winchester De 28/66. 'Miss Yonge’s autograph' written across the side in a different hand.
+[^2]: A magic lantern show to be put on for the entertainment of the parish, later postponed because of bad weather.

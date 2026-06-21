@@ -1,0 +1,15 @@
+---
+title: "John Leech"
+person_id: 854
+---
+
+## Biographical Information
+
+(1817-1864)
+
+<i>Punch</i> cartoonist
+
+## Letters Mentioning This Person
+
+- [Letter 2218](../2218-to-laura-valentine-2.qmd)
+

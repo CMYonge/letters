@@ -1,0 +1,15 @@
+---
+title: "George Costard and Edmund Halley (editors) - Menelai Sphæricorum libri III. Quos olim, collatis MSS. Hebræis & Arabicis, typis exprimendos curavit"
+book_id: 337
+---
+
+## Publication Information
+
+**Date:** 1758
+
+**Imprint:** Oxford:
+
+## Letters Mentioning This Work
+
+- [Letter 1880](../1880-to-the-reverend-henry-octavius-coxe-3.qmd)
+

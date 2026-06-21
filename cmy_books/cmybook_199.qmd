@@ -1,0 +1,23 @@
+---
+title: "Hannah More. By Charlotte M. Yonge. Eminent Women Series."
+book_id: 199
+sort_title: "Hannah More"
+---
+
+## Publication Information
+
+**Date:** 1888
+
+**Genre:** Non-fiction: biography
+
+**Publisher:** London : W. H. Allen & Co., 13 Waterloo Place, S.W.
+
+**Notes:** The <i>Eminent Women </i>series was edited by John H. Ingram.
+
+## Letters Mentioning This Work
+
+- [Letter 2843](../2843-to-john-henry-ingram.qmd)
+- [Letter 2868](../2868-to-edward-augustus-freeman-13.qmd)
+- [Letter 2869](../2869-to-john-henry-ingram-2.qmd)
+- [Letter 2908](../2908-to-edward-augustus-freeman-14.qmd)
+

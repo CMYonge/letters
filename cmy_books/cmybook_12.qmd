@@ -1,0 +1,18 @@
+---
+title: "Mrs Elderney’s School"
+book_id: 12
+sort_title: "Mrs Elderney’s School"
+---
+
+## Publication Information
+
+**Date:** 1850
+
+**Genre:** Fiction (modern)
+
+**Publisher:** Published in the <i>Magazine for the Young</i> Jan 1850-Jan 1852
+
+## Letters Mentioning This Work
+
+- [Letter 2960](../2960-to-mary-anne-dyson-3.qmd)
+

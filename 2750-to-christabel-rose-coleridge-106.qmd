@@ -1,0 +1,50 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1882-06-06"
+letter_date: "June 6 th [1882]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2750
+letter_id: "to-christabel-rose-coleridge-106"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-06-06"
+  url: "https://cmyonge.github.io/letters/2750-to-christabel-rose-coleridge-106"
+---
+
+::: {.letter-metadata}
+**Date:** June 6 th [1882]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+The elder sister may be a good modification and pray do you – or [FMP](people/person_1160.qmd) invent a love story to work in.[^1]
+
+No Robber appears so do pray write him, also Geo III and the beggar.  I have done a White Ship. There ought I fancy to be about 30, and I have 28 in my eye or written out ie if I take two Whittingtons.
+
+What do you think of the baby Pretender in his nurses’ arms under the Church wall in his mother’s flight?
+
+In haste
+your affectionate
+C M Yonge
+
+I got [Mrs Argles](people/person_57.qmd) ([Dr Davys](people/person_411.qmd)’ daughter) to tell me over again the story of the Pedigree.  It is all right
+
+---
+
+[^1]: Endorsed in another hand '1882'.
+[^2]: *i.e.*, to *The Miz Maze* the novel they were writing in collaboration.  The rest of the letter seems to relate to a different project, however.

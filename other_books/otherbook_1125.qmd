@@ -1,0 +1,15 @@
+---
+title: "Thomas Fuller - The History of the Worthies of England"
+book_id: 1125
+---
+
+## Publication Information
+
+**Date:** 1662
+
+**Imprint:** London: J.G.
+
+## Letters Mentioning This Work
+
+- [Letter 19572](../19572-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

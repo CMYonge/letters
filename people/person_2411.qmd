@@ -1,0 +1,16 @@
+---
+title: "Miss Redgrave"
+person_id: 2411
+---
+
+## Biographical Information
+
+writing for <i>MP</i> in 1862
+
+CMY's correspondent may possibly be the Elizabeth Redgrave whose <i>The Word and the Work, or, The Harmony of Scripture with Geological Discoveries</i> (London: Mozley 1860) was praised in <i>MP</i> (January 1860), 111.  It was described as 'a series of conversations between a clergyman and a mechanic, intended to popularize Hugh Miller's views of the Periods of Creation, and to show how they may be reconciled with the Scriptural narrative.'
+
+## Letters Mentioning This Person
+
+- [Letter 19058](../19058-to-miss-redgrave.qmd)
+- [Letter 19845](../19845-to-miss-redgrave.qmd)
+

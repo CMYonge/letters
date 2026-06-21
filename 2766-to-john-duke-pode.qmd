@@ -1,0 +1,46 @@
+---
+title: "To John Duke Pode"
+letter_iso_date: "1882-12-21"
+letter_date: "Decr 21st 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Stanford University Library, British Authors  M121"
+post_id: 2766
+letter_id: "to-john-duke-pode"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Duke Pode"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-12-21"
+  url: "https://cmyonge.github.io/letters/2766-to-john-duke-pode"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 21st 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Stanford University Library, British Authors  M121
+:::
+
+My dear [John](people/person_1184.qmd)
+
+Thank you for your curious extract about names.  I have one this morning from an Italian newspaper sent by [Mrs Church](people/person_296.qmd), which beats everything.  I translate it for your behalf-  ‘The celebrated English Authoress of the [Era di Ratcliffe](cmy_books/cmybook_15.qmd) is dead.  Her name was Jong but in recognition of her talents, the Queen Victoria made her a Viscountess.  She married the English ambassador at Constantinople but has continued until lately to write most beautiful romances’[^1]  I hope it will make [Augusta laugh](people/person_1180.qmd), I am so sorry she is so entirely laid up.[^2]  I think we may be well satisfied with our new [Archbishop](people/person_140.qmd) who is a real man of power and goodness - but Cornwall will be left lamenting.[^3]  I shall send [Beatrice](people/person_1181.qmd)’s big card by the same post as this according to the [Guardian](organizations/other_75.qmd)’s piteous appeal to spare the poor postmen on Christmas day.  There is a smaller one inside with moss, which seems to me a wonderful specimen.  Two or three packets of those mossy ones were sent me for notice in the [Monthly Packet](organizations/other_52.qmd)
+
+[Julian](people/person_1624.qmd) is pretty well and as usual painting china
+
+your affectionate cousin
+C M Yonge
+
+---
+
+[^1]: The newspaper was no doubt responding in its garbled way to the death of Eliza, Viscountess Stratford de Redcliffe (1807-25 Nov 1882), the widow of Sir [Stratford Canning](people/person_1373.qmd), Viscount Stratford de Redcliffe (1786-1880) British ambassador in Constantinople 1842-52.  The Italian text is printed by Coleridge, *Life*, 380: ‘E morta la celebre scrittice Inglese, Era di Ratcliffe.  Suo nome era Jong, ma in recognizione di suvi talente, la Regina Vittoria l'ha fatto Viscontessa.  Sposo [sic] l'ambasuatore Inglese a Costantinopole ma nin lascio [sic] di scrivere bellissimi Romanzi fui a poco tempo fa.’
+[^2]: Among the Yonge MSS in Plymouth are some sad apologetic letters from Augusta Pode to her husband promising to be more cheerful in future.  She seems to have suffered from depression.  Both Podes were first cousin to CMY.
+[^3]: The Rt. Rev. Edward White Benson,  Bishop of Truro, Cornwall, was appointed to succeed Archibald Tait (who had died on 3 December 1882) as Archbishop of Canterbury.

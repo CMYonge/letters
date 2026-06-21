@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1864-09-12"
+letter_date: "Sept 12th 1864"
+location: "Elderfield"
+manuscript: "MS University of Sheffield Library"
+post_id: 1974
+letter_id: "to-an-unknown-woman-76"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-09-12"
+  url: "https://cmyonge.github.io/letters/1974-to-an-unknown-woman-76"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 12th 1864  
+**From:** Elderfield  
+**Manuscript:** MS University of Sheffield Library
+:::
+
+Dear Madam,
+I have read the papers you enclosed with much interest but I am afraid that I can hardly make them available at the present time.[^1] They are written so much in the style of the former generation that they would hardly suit this one, excepting the Rivers, and that is too much of a fragment. With many thanks therefore I return them
+
+yours faithfully
+C M Yonge
+
+---
+
+[^1]: CMY judges them unsuitable for *[MP*.](organizations/other_52.qmd)

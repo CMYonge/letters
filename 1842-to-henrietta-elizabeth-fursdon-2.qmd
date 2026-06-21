@@ -1,0 +1,41 @@
+---
+title: "To Henrietta Elizabeth Fursdon"
+letter_iso_date: "1861-11-19"
+letter_date: "Novr 19th 1861"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 1842
+letter_id: "to-henrietta-elizabeth-fursdon-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henrietta Elizabeth Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-11-19"
+  url: "https://cmyonge.github.io/letters/1842-to-henrietta-elizabeth-fursdon-2"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 19th 1861  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Irene](people/person_538.qmd)
+
+No wonder the poet was puzzled! It is a very comical adventure in the annals of [Goosedom](organizations/other_104.qmd)! I agree with [Mrs Martyn](people/person_974.qmd) in thinking your first question excellent, and your second is very good, but No. 3 seemed to me too *big* a question. Only think how much there is to say about a county, even if you gave but one line to each event that happened! I was asked to write a history of Hampshire, and I have not begun it yet, being fairly afraid of the quantity of work it will involve. I much more liked the question you talked of on the journey (or rather flight of geese) of the difference between stupid and silly.
+
+I think we must take care not to have too much history, or else one sort of mind will always be foremost.
+
+About the one question for the prize, I have one in my head, and have proposed it to the [Secretary](people/person_351.qmd) but I have not yet got an answer. I suppose she is wanting to discuss it with Mrs Martyn, if you see her, tell her I hope she will answer in time for me to put it in Mother Goose’s letter - as that will save my writing at least nine. [Humble Bee](people/person_81.qmd) rode here yesterday to talk it over. I am so glad to have had that little meeting, and I think we made a good deal of use of our time.
+
+your affectionate
+
+Mother Goose

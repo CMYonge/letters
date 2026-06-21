@@ -1,0 +1,15 @@
+---
+title: "Newnham College"
+other_id: 7
+---
+
+**Type:** organization
+
+## Description
+
+Founded as a hall for women students in 1871, and now a college of Cambridge University. There is a history by Gillian Sutherland on its website at http://www.newn.cam.ac.uk/about-newnham/College-History/History/content/History-of-the-college
+
+## Letters Mentioning This
+
+- [Letter 2872](../2872-to-arthur-donald-innes-18.qmd)
+

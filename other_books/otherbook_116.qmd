@@ -1,0 +1,16 @@
+---
+title: "J.-F. Michaud - Histoire des Croisades"
+book_id: 116
+---
+
+## Publication Information
+
+**Date:** 1812-22
+
+**Imprint:** Paris: Michaud
+
+## Letters Mentioning This Work
+
+- [Letter 2253](../2253-to-elizabeth-missing-sewell-8.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

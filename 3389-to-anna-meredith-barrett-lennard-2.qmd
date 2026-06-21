@@ -1,0 +1,49 @@
+---
+title: "To Anna Meredith Barrett Lennard"
+letter_iso_date: "1898-12-21"
+letter_date: "Decr 21st 1898"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: Autogr. d. 22 ff65-67"
+post_id: 3389
+letter_id: "to-anna-meredith-barrett-lennard-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Meredith Barrett Lennard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-12-21"
+  url: "https://cmyonge.github.io/letters/3389-to-anna-meredith-barrett-lennard-2"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 21st 1898  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff65-67
+:::
+
+My dear [Mrs Lennard](people/person_121.qmd)
+I suppose your friends are only prepared to make remuneration by entertaining the English folks in return Otherwise I might be able to tell you of someone but everybody is so poor in these days that I am afraid it could hardly be done gratis.
+
+I sent off a magazine by yesterday’s post  Luckily there was one over as we had had one too many of an extra number and it gives a tolerable notion of the Christmas work. The little bits about the Litany are for helps in the catechising.
+
+Lincolns is turned into a villa and let. I suppose you hear of [Mr Jones Bateman](people/person_785.qmd)’s death, a great loss to the parish, and old [Mr Chamberlayne](people/person_282.qmd)  died this spring at 91. His son has not yet come to reside at [Cranbury](organizations/other_119.qmd), where much has to be done to get the place into order.
+
+I am afraid I do not know much about the House of Hohenstaufen before Frederick the Great. 
+
+[Lord Blachford](people/person_1252.qmd)’s [letters](other_books/otherbook_610.qmd) are as delightful as he was himself, I knew him well and his most beautiful home in Devonshire. You should read [Lord Selborne](people/person_1129.qmd)’s l[ife and letters](other_books/otherbook_609.qmd) which are most striking[.] I think his old father’s letters are some of the wisest things I ever read
+
+Yours very sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to ‘Mrs Barrett Lennard/Dom Vehlow/ In Wultike Priegnitz/ North Brandenburg/ Germany’.

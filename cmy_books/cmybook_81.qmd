@@ -1,0 +1,27 @@
+---
+title: "The Caged LionBy Charlotte M. Yonge, author of “The Heir of Redclyffe”."
+book_id: 81
+sort_title: "Caged Lion"
+---
+
+## Publication Information
+
+**Date:** 1870
+
+**Genre:** Fiction (historical)
+
+**Publisher:** London: Macmillan and Co.
+
+**Notes:** This seems to be the first publication with “Charlotte M. Yonge” given as author.
+
+## Letters Mentioning This Work
+
+- [Letter 2173](../2173-to-christabel-rose-coleridge-10.qmd)
+- [Letter 2223](../2223-to-edith-sophia-jacob-11.qmd)
+- [Letter 2243](../2243-to-alexander-macmillan-94.qmd)
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+- [Letter 2313](../2313-to-alexander-macmillan-109.qmd)
+- [Letter 2581](../2581-to-george-lillie-craik-26.qmd)
+- [Letter 3411](../3411-to-charlotte-fortescue-yonge-3.qmd)
+- [Letter 3543](../3543-to-edward-augustus-freeman-12.qmd)
+

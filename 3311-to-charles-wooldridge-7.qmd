@@ -1,0 +1,47 @@
+---
+title: "To Charles Wooldridge"
+letter_iso_date: "1896-01-29"
+letter_date: "Jan 29th [1896]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Hampshire Record Office 67M92W/82/24"
+post_id: 3311
+letter_id: "to-charles-wooldridge-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charles Wooldridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-01-29"
+  url: "https://cmyonge.github.io/letters/3311-to-charles-wooldridge-7"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 29th [1896]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Hampshire Record Office 67M92W/82/24
+:::
+
+Dear [Mr Wooldridge](people/person_2094.qmd)
+The house said to be occupied by E Collins is that of [Charles Ray Junior](people/person_2111.qmd)  [Mrs Collins](people/person_360.qmd) has been dead these 30 years.
+
+Hall ought to be Pearson  John Price rents a very small cottage adjoining his shop, I believe one of Barfoot’s sons sleeps there but Price is accountable for it.
+
+[Mrs Bishop](people/person_156.qmd) is really the tenant of the whole house  Ruddock is her lodger  Does this make any difference?
+
+County Police should be substituted for [J Davis](people/person_2148.qmd), as the present constable is Kemp
+
+Day is dead, his house is occupied by Mrs Jewell
+
+Otherwise I think all is correct
+
+Yours truly
+C M Yonge

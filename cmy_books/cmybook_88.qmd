@@ -1,0 +1,37 @@
+---
+title: "Musings over the “Christian Year” and “Lyra Innocentium” by Charlotte Mary Yonge together with a few gleanings of Recollections of the Rev. J. Keble, gathered by several friends. "
+book_id: 88
+sort_title: "Musings over the “Christian Year” and “Lyra Innocentium” by Charlotte Mary Yonge together with a few gleanings of Recollections of the Rev. J. Keble, gathered by several friends. "
+---
+
+## Publication Information
+
+**Date:** 1871
+
+**Genre:** Non-fiction, criticism, biography
+
+**Publisher:** Oxford and London: James Parker and Co.
+
+**Notes:** The other contributors were the Rev. T. Simpson Evans, Frances Maria Wilbraham and M.T..
+
+## Letters Mentioning This Work
+
+- [Letter 1801](../1801-from-the-reverend-john-keble-to-frances-mary-yonge-and-charlotte-mary-yonge.qmd)
+- [Letter 2066](../2066-to-mary-ann-dyson-3.qmd)
+- [Letter 2090](../2090-the-reverend-john-keble-to-charlotte-mary-yonge-5.qmd)
+- [Letter 2091](../2091-the-reverend-john-keble-to-charlotte-mary-yonge.qmd)
+- [Letter 2316](../2316-to-the-reverend-henry-parry-liddon.qmd)
+- [Letter 2386](../2386-to-elizabeth-jane-keble.qmd)
+- [Letter 2405](../2405-to-ellen-julia-johns-13.qmd)
+- [Letter 2442](../2442-to-sir-william-heathcote-bt-6.qmd)
+- [Letter 2443](../2443-to-sir-william-heathcote-bt-7.qmd)
+- [Letter 2942](../2942-to-anne-yonge-10.qmd)
+- [Letter 3007](../3007-to-mary-anne-dyson-14.qmd)
+- [Letter 3011](../3011-the-reverend-john-keble-to-charlotte-mary-yonge-3.qmd)
+- [Letter 3048](../3048-to-mary-anne-dyson-19.qmd)
+- [Letter 3065](../3065-from-the-reverend-john-keble-to-charlotte-mary-yonge-2.qmd)
+- [Letter 3069](../3069-the-reverend-john-keble-to-charlotte-mary-yonge-4.qmd)
+- [Letter 3121](../3121-from-the-reverend-john-keble-to-charlotte-mary-yonge.qmd)
+- [Letter 3265](../3265-to-ethel-romanes-2.qmd)
+- [Letter 3443](../3443-to-christabel-rose-coleridge-38.qmd)
+

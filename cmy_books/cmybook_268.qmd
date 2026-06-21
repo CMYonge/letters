@@ -1,0 +1,18 @@
+---
+title: "'John Keble'"
+book_id: 268
+sort_title: "'John Keble'"
+---
+
+## Publication Information
+
+**Date:** 1888
+
+**Genre:** Non-fiction, biographical article
+
+**Publisher:** <i>Atalanta</i> (May 1888) 466-71
+
+## Letters Mentioning This Work
+
+- [Letter 2902](../2902-to-c-t-hiatt.qmd)
+

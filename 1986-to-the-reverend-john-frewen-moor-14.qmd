@@ -1,0 +1,42 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1864-10-28"
+letter_date: "Oct 28th 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 1986
+letter_id: "to-the-reverend-john-frewen-moor-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-28"
+  url: "https://cmyonge.github.io/letters/1986-to-the-reverend-john-frewen-moor-14"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 28th 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+I am sorry to say that I had sent the £600 a year question away, but I think you may safely assume that the clergyman lives in the country, and has a house, and glebe - and that the three sons are of an age to be educated - I cannot get at the propounder of the question, or I would have asked her[^1]
+
+With many thanks
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: One of the arithmetic questions over which they were cooperating. See the letters to Moor dated June and 23 November 1864.

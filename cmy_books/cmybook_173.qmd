@@ -1,0 +1,17 @@
+---
+title: "Spring Buds: Counsels for the Young. Translated and abridged from the French, by E. L. E. B. With a preface by Charlotte M. Yonge."
+book_id: 173
+sort_title: "Spring Buds: Counsels for the Young"
+---
+
+## Publication Information
+
+**Date:** 1883
+
+**Genre:** Non-fiction: advice book (by another)
+
+**Publisher:** London: J. Masters & Co., 78, New Bond Street
+
+**Notes:** E.L.E.B..is possibly CMY’s neighbour Ella L.E.Burlton.
+
+

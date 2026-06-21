@@ -1,0 +1,20 @@
+---
+title: "Francis Turner Palgrave"
+person_id: 1124
+---
+
+## Biographical Information
+
+(1824-1897)
+
+anthologist and historian,  son of Sir Francis Palgrave, contributor to <i>MP</i> (1878-91)
+
+## Letters Mentioning This Person
+
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+- [Letter 2145](../2145-to-alexander-macmillan-83.qmd)
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
+- [Letter 2708](../2708-to-francis-turner-palgrave.qmd)
+- [Letter 3334](../3334-to-mary-elizabeth-christie-3.qmd)
+- [Letter 14535](../14535-to-francis-turner-palgrave.qmd)
+

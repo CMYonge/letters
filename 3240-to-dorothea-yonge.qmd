@@ -1,0 +1,41 @@
+---
+title: "To Dorothea Yonge"
+letter_iso_date: "1893-12-18"
+letter_date: "[December 1893]"
+manuscript: "MS West Devon Area Record Office Ac 1092/28"
+post_id: 3240
+letter_id: "to-dorothea-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Dorothea Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-12-18"
+  url: "https://cmyonge.github.io/letters/3240-to-dorothea-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** [December 1893]  
+**Manuscript:** MS West Devon Area Record Office Ac 1092/28
+:::
+
+My dear [Dorothy](people/person_851.qmd)
+I could not but be quite sure what the contents of your letter would be.  It is a peaceful end at last, to a life that was always kept happy and innocent.  The real sorrow can only be for [Mary](people/person_1626.qmd), who must miss that one thought and care so dreadfully, though after all there is great comfort in knowing that she has not to leave [Frances](people/person_1605.qmd).[^1]  I only hope she will not break down after the long strain.  I am glad you are able to be with her, but it is a most sad time for you all and especially for your [Mother](people/person_1587.qmd).  I have been constantly thinking of her and of [Geoffrey](people/person_1609.qmd) both my Godchildren[^2]
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to Miss Dorothea Yonge
+[^2]: Frances Elizabeth Yonge (1829-3 December 1893), Mary’s youngest and last surviving sister, aunt of Dorothy Yonge. In her memoirs CMY comments that she had been permanently affected by measles in childhood, which sounds as if she was mentally deficient.
+[^3]: Geoffrey Yonge (1867-24 December 1893), Dorothy’s third brother, a curate, was presumably already ill.

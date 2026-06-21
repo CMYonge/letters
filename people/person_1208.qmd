@@ -1,0 +1,19 @@
+---
+title: "The Rev. Bartholomew Price"
+person_id: 1208
+---
+
+## Biographical Information
+
+(1818-1898)
+
+mathematician
+
+Sedleian professor of natural philosophy at Oxford University and (from 1892) master of Pembroke College Oxford;  he was married to Amy Eliza Cole.
+
+## Letters Mentioning This Person
+
+- [Letter 2124](../2124-to-charles-lutwidge-dodgson.qmd)
+- [Letter 2582](../2582-to-the-reverend-bartholomew-price-2.qmd)
+- [Letter 2762](../2762-to-the-reverend-bartholomew-price.qmd)
+

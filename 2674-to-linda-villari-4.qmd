@@ -1,0 +1,38 @@
+---
+title: "To Linda Mary Villari"
+letter_iso_date: "1879-06-13"
+letter_date: "[13 June 1879]"
+manuscript: "MS Bodleian Library, Oxford: Eng. lett. d. 495 f107"
+post_id: 2674
+letter_id: "to-linda-villari-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Linda Mary Villari"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-06-13"
+  url: "https://cmyonge.github.io/letters/2674-to-linda-villari-4"
+---
+
+::: {.letter-metadata}
+**Date:** [13 June 1879]  
+**Manuscript:** MS Bodleian Library, Oxford: Eng. lett. d. 495 f107
+:::
+
+[Signora Villari](people/person_1444.qmd)’s graceful story has been safely received, and shall be commenced in January 1880[^1]
+
+C M Yonge
+
+---
+
+[^1]: Card printed on one side Foreign post card addressed to 'Italy/ Signora Linda Villari/932 Via Pinti/Florence' and postmarked 'Winchester/JU 13/79'.
+[^2]: Villari's 'The Angel of Viareggio: A Tale of Child-Life in Italy' began in *MP* ns 31 (January 1880) and ran until July.

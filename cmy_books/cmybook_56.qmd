@@ -1,0 +1,18 @@
+---
+title: "The Wars of Wapsburgh. By the author of  “The Heir of Redclyffe.”"
+book_id: 56
+sort_title: "Wars of Wapsburgh"
+---
+
+## Publication Information
+
+**Date:** 1864
+
+**Genre:** Fiction (fantasy)
+
+**Publisher:** Groombridge and Sons, 5, Paternoster Row, London.
+
+## Letters Mentioning This Work
+
+- [Letter 1812](../1812-to-jemima-blackburn-11.qmd)
+

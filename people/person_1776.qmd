@@ -1,0 +1,15 @@
+---
+title: "Colonel Blois"
+person_id: 1776
+---
+
+## Biographical Information
+
+(<i>fl.</i> 1857
+
+fishing friend of JBY
+
+## Letters Mentioning This Person
+
+- [Letter 3103](../3103-to-mr-owen.qmd)
+

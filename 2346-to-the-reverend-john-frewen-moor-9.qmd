@@ -1,0 +1,38 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1869-00-00"
+letter_date: "[1869]"
+manuscript: "MS fragment Bodleian Library, Oxford: MS English Letters: e 86"
+post_id: 2346
+letter_id: "to-the-reverend-john-frewen-moor-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-00-00"
+  url: "https://cmyonge.github.io/letters/2346-to-the-reverend-john-frewen-moor-9"
+---
+
+::: {.letter-metadata}
+**Date:** [1869]  
+**Manuscript:** MS fragment Bodleian Library, Oxford: MS English Letters: e 86
+:::
+
+mere babes of 3 years old
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** The envelope is addressed to 'The Revd/[J F Moor](people/person_1046.qmd)/Ampfield/Romsey’ and postmarked Winchester Oc 5/69.

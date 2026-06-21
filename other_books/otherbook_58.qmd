@@ -1,0 +1,15 @@
+---
+title: "Mary Anne Dyson - Ivo and Verena, or, The Snowdrop"
+book_id: 58
+---
+
+## Publication Information
+
+**Date:** 1842
+
+**Imprint:** London: Burns
+
+## Letters Mentioning This Work
+
+- [Letter 2958](../2958-to-mary-anne-dyson-2.qmd)
+

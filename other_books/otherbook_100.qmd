@@ -1,0 +1,14 @@
+---
+title: "Thomas à Kempis - De Imitatione Christi"
+book_id: 100
+---
+
+## Publication Information
+
+**Date:** c. 1420
+
+## Letters Mentioning This Work
+
+- [Letter 2155](../2155-to-edith-sophia-jacob-4.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

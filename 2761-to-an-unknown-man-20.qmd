@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1882-12-04"
+letter_date: "Decr 4th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Hertfordshire County Record Office D/EP F587 p24"
+post_id: 2761
+letter_id: "to-an-unknown-man-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-12-04"
+  url: "https://cmyonge.github.io/letters/2761-to-an-unknown-man-20"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 4th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Hertfordshire County Record Office D/EP F587 p24
+:::
+
+Dear Sir
+
+I am much obliged for this notice, but I have always wished to keep clear of the whole subject of scepticism for fear of opening the thought of it to younger readers.  Would not the [Literary Churchman](organizations/other_76.qmd) be the best home for this notice
+
+yours truly
+C M Yonge

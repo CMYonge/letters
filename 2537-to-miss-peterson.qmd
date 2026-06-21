@@ -1,0 +1,42 @@
+---
+title: "To Miss Peterson"
+letter_iso_date: "1875-09-29"
+letter_date: "Sept 29th [1875]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95322"
+post_id: 2537
+letter_id: "to-miss-peterson"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Peterson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-09-29"
+  url: "https://cmyonge.github.io/letters/2537-to-miss-peterson"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 29th [1875]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95322
+:::
+
+Dear [Madam](people/person_1169.qmd)
+
+You will find the history of the [Melanesian Mission](organizations/other_30.qmd) kept up in the magazines [the Net](organizations/other_94.qmd) and [Mission Life](organizations/other_80.qmd).
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to ‘Miss Peterson/Cliff Cottage/The Lees/Folkestone’ and postmarked Winchester E SP 29 75.

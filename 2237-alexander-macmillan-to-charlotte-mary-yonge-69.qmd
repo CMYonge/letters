@@ -1,0 +1,39 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1868-03-08"
+letter_date: "March 8 1868"
+manuscript: "Copy outletter book British Library Add MSS.55388 (1): P. 90"
+post_id: 2237
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-69"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-03-08"
+  url: "https://cmyonge.github.io/letters/2237-alexander-macmillan-to-charlotte-mary-yonge-69"
+---
+
+::: {.letter-metadata}
+**Date:** March 8 1868  
+**Manuscript:** Copy outletter book British Library Add MSS.55388 (1): P. 90
+:::
+
+Dear Miss Yonge,
+We sent the 11 copies to make your dozen by rail the same day that the single copy was sent you by post <u>Feb:27</u>.[I](people/person_939.qmd) have seen in the parcels book the signature of the clerk at the Golden Cross booking office. I have sent down to enquire about it. Perhaps you could enquire at your end. The address was quite clear <u>Elderfield Otterbourne Winchester</u> I am sending you a copy of the gilt-edged cover by the post.[^1]
+
+Yours very truly
+A. Macmillan
+
+---
+
+[^1]: This refers to *The Pupils of St. John the Divine*, which was published in one volume, as the first in the [Sunday Library](organizations/other_145.qmd), and advertised as cloth 4*s.*, gilt edges 4*s.* 6*d.*.

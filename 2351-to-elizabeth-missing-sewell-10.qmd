@@ -1,0 +1,42 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1869-11-05"
+letter_date: "Nov 5th [1869]"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS Princeton University, Parrish Collection, CO171"
+post_id: 2351
+letter_id: "to-elizabeth-missing-sewell-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-11-05"
+  url: "https://cmyonge.github.io/letters/2351-to-elizabeth-missing-sewell-10"
+---
+
+::: {.letter-metadata}
+**Date:** Nov 5th [1869]  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+I shall be very glad to see you on the 2nd and hope we shall do a great deal of business together[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY had written to Macmillan on September 30th: 'I believe the second part of Historical Selections is almost ready.'

@@ -1,0 +1,13 @@
+---
+title: "Miss Chambers"
+person_id: 2133
+---
+
+## Biographical Information
+
+A worker for the Girls' Friendly Society in the Winchester Diocese.
+
+## Letters Mentioning This Person
+
+- [Letter 3250](../3250-to-mrs-egerton.qmd)
+

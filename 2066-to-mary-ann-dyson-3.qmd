@@ -1,0 +1,44 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1865-08-19"
+letter_date: "August 19, 1865."
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 222-223"
+post_id: 2066
+letter_id: "to-mary-ann-dyson-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-08-19"
+  url: "https://cmyonge.github.io/letters/2066-to-mary-ann-dyson-3"
+---
+
+::: {.letter-metadata}
+**Date:** August 19, 1865.  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 222-223
+:::
+
+My dear Marianne-
+We were at Hursley two days ago, and [Miss Best](people/person_147.qmd)[^1] looked so melancholy about [Mrs. Keble](people/person_795.qmd) that we were quite frightened; however, she came home from a drive and seemed to me much better than when I saw her last. I wish [Queen Emma](people/person_485.qmd) was over, but there had been some cross purposes of letter-writing, and they were not sure when her four days were to be.[^2] I have just seen that Miss Yonge has lived her day in the *Saturday* in an [article](other_books/otherbook_422.qmd) against young ladies’ 'fast' fashions---as absolutely coarse and indecorous---it is odd to stand for a generation gone by! Thanks for the corrections, I can’t think whether I shall ever get those things reprinted; I have tried, but nothing comes of it. I am afraid you really thought me cantankerous when I flew out the other day; but it really was much because the repetition teased [mamma](people/person_1606.qmd), and I saw no use in it when it could not be helped. I believe I am as grateful for criticism as ever, but one must be convinced oneself before one acts on it, and therefore I argue. Let me just say too that I think over-repetition of what has been once said is rather to be avoided, as there is something chafing and wearying in it, at least to some minds, when there is no point to be gained by it. I have generally tried to mend what you objected to, and when I failed, as with [Rachel](cmy_books/cmybook_58.qmd) or [Delaford](cmy_books/cmybook_27.qmd), it was because I did not retrench enough to bring my idea to yours, or we did not both grasp the same idea the same way, as with [Honora](cmy_books/cmybook_37.qmd). And you know how I have re-written [Eustacie](cmy_books/cmybook_69.qmd) because of your censure, so I don’t think I can be less amenable in the main, though I am afraid you thought me cross.[^3] I have made Beranger and Eustacie much younger and more childish, and am working out Diane, as I have now called Clotilde. [May](people/person_351.qmd) has sent me a beautiful *Lion of Lucerne*.[^4]
+
+We go to Puslinch on the 8th, to Ottery on the way I hope. I am glad summer is come back.-
+
+Your most affectionate
+C. M. YONGE.
+
+---
+
+[^1]: Not yet identified, but evidently someone nursing the Kebles.
+[^2]: Emma (1835-1885), queen consort of Hawaii, had travelled to England to raise funds for an Anglican cathedral and girls’ school. CMY comments in *Musings over the Christian Year*, li: ‘Queen Emma had expressed her wish to be allowed to visit Hursley, and as soon as she was known to be in England, Mr. Keble wrote to invite her, feeling much as if he were writing to Queen Bertha of Kent.’  It was Queen Bertha who had smoothed the passage of St. Augustine of Canterbury when he arrived to spread Christianity in England in 597 AD.
+[^3]: CMY refers here to revision of her novels *Hopes and Fears*, whose heroine is named Honor, and *The Chaplet of Pearls*, whose hero and heroine are Beranger and Eustacie.
+[^4]: Probably a drawing or photograph of the monument designed by Thorvaldsen and erected in Lucerne in the 1820s commemorating the Swiss mercenaries who died defending Louis XVI at the Tuileries.

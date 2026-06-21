@@ -1,0 +1,45 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1894-03-27"
+letter_date: "March 27th 1894"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 206-7"
+post_id: 3257
+letter_id: "to-george-lillie-craik-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-03-27"
+  url: "https://cmyonge.github.io/letters/3257-to-george-lillie-craik-14"
+---
+
+::: {.letter-metadata}
+**Date:** March 27th 1894  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 206-7
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I cannot at all tell whether this is the right length, as the only ‘Golden Treasuries’ I have seen are my own and I do not think they have introductions.[^1]
+
+I can easily add biographical details if you wish it to be longer - but I like to write to my own sense of the needs of the subject and to add or diminish afterwards as required.
+
+Do you know whether [Mrs Ritchie](people/person_1240.qmd) is abroad. I was moved to write to her by sympathy with her [preface](other_books/otherbook_688.qmd) to Miss Mitford, and I have never had an answer
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: CMY's *A Book of Golden Deeds*, *A Book of Worthies* and *The Story of the Christians and the Moors in Spain* all appeared in Macmillan's Golden Treasury Series.  CMY was presumably working on her introduction to the Golden Treasury edition of *The Christian Year*.

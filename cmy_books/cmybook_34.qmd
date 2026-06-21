@@ -1,0 +1,18 @@
+---
+title: "The Pigeon PieBy the author of “The Heir of Redclyffe.”"
+book_id: 34
+sort_title: "Pigeon Pie"
+---
+
+## Publication Information
+
+**Date:** 1860
+
+**Genre:** Fiction (historical)
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78, New Bond Street, London.
+
+## Letters Mentioning This Work
+
+- [Letter 3153](../3153-to-arthur-donald-innes-4.qmd)
+

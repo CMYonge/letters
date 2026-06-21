@@ -1,0 +1,19 @@
+---
+title: "Alfred Tennyson"
+person_id: 1874
+---
+
+## Biographical Information
+
+1st Lord Tennyson
+
+(1809-1892)
+
+poet
+
+## Letters Mentioning This Person
+
+- [Letter 1886](../1886-to-henrietta-elizabeth-fursdon-8.qmd)
+- [Letter 2025](../2025-to-the-reverend-w-p-warburton.qmd)
+- [Letter 2050](../2050-to-alexander-macmillan-51.qmd)
+

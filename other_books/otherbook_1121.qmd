@@ -1,0 +1,15 @@
+---
+title: "Nina Cole - Meditations on the Song of Songs"
+book_id: 1121
+---
+
+## Publication Information
+
+**Date:** 1874
+
+**Imprint:** London: Hayes
+
+## Letters Mentioning This Work
+
+- [Letter 2516](../2516-to-nina-cole.qmd)
+

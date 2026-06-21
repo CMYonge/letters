@@ -1,0 +1,15 @@
+---
+title: "Robert Southey - The Life and Correspondence of Robert Southey ed. Cuthbert Southey"
+book_id: 153
+---
+
+## Publication Information
+
+**Date:** 1849-50
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 2969](../2969-to-mary-anne-dyson-9.qmd)
+

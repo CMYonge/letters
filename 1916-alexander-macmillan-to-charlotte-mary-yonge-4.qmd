@@ -1,0 +1,41 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1863-11-20"
+letter_date: "Nov: 20. 1863."
+manuscript: "Copy outletter book British Library Add MSS.55381 (2) P. 661"
+post_id: 1916
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-20"
+  url: "https://cmyonge.github.io/letters/1916-alexander-macmillan-to-charlotte-mary-yonge-4"
+---
+
+::: {.letter-metadata}
+**Date:** Nov: 20. 1863.  
+**Manuscript:** Copy outletter book British Library Add MSS.55381 (2) P. 661
+:::
+
+Dear Madam,		
+
+We shall have much pleasure in taking the stock of your books under our charge and publishing them for you on commission. When we have had a little experience of them and how they sell now, we shall be better able to advise and suggest something definite with regard to cheap editions or the like.
+
+[The Trial](cmy_books/cmybook_53.qmd) we calculate could be got into 2 nice crown 8vo volumes selling at 12/-. We will give [£200](organizations/other_160.qmd) for leave to print & publish an edition of 2000 copies. We would propose that the leading should be taken out and the types made solid for a cheap edition uniform with [the Heir of Redclyffe](cmy_books/cmybook_15.qmd). We are willing to go on with this at once & also take charge of your other books as we said
+
+The chief clerk of [Messrs Smith](organizations/other_161.qmd) the Great Railway people complains of the colour in which your books are bound on the ground that it fades. He recommends blue, a colour we use for [Tom Brown’s Schooldays](other_books/otherbook_352.qmd) & other books which have a large sale. 
+
+I am, dear Madam,
+Very respectfully yours
+Alex. Macmillan

@@ -1,0 +1,15 @@
+---
+title: "M. Watson - 'Studies in German Literature'"
+book_id: 635
+---
+
+## Publication Information
+
+**Imprint:** <i>MP</i> (January-June 1891)
+
+**Notes:** The articles are signed M. W. but the author seems to have been a [Miss Watson](../people/person_2096.qmd) of Brightwell, Tetsworth, Oxfordshire.
+
+## Letters Mentioning This Work
+
+- [Letter 3157](../3157-to-arthur-donald-innes-8.qmd)
+

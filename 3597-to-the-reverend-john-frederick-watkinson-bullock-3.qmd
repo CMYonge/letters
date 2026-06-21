@@ -1,0 +1,33 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1890-00-00"
+letter_date: "[1890s?]"
+manuscript: "MS Bodleian Library, Oxford: English Letters: e.174 ff177"
+post_id: 3597
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-00-00"
+  url: "https://cmyonge.github.io/letters/3597-to-the-reverend-john-frederick-watkinson-bullock-3"
+---
+
+::: {.letter-metadata}
+**Date:** [1890s?]  
+**Manuscript:** MS Bodleian Library, Oxford: English Letters: e.174 ff177
+:::
+
+Will this answer the purpose?
+
+C. M. Yonge

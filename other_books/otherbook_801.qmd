@@ -1,0 +1,15 @@
+---
+title: "Laura Valentine - 'The Crawl: A Legend of Tichborne'"
+book_id: 801
+---
+
+## Publication Information
+
+**Imprint:** <i>MP</i> ns 12 (July 1871).
+
+**Notes:** Verses published in the [<i>Monthly Packet</i>](../organizations/other_52.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 2409](../2409-to-laura-valentine-3.qmd)
+

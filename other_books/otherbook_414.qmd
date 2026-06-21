@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott Bt. - Anne of Geierstein, or, The Maiden of the Mist"
+book_id: 414
+---
+
+## Publication Information
+
+**Date:** 1829
+
+**Imprint:** Edinburgh: Cadell
+
+## Letters Mentioning This Work
+
+- [Letter 2058](../2058-to-alexander-macmillan-54.qmd)
+

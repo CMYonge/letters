@@ -1,0 +1,16 @@
+---
+title: "Elizabeth Wordsworth - Glimpses of the Past"
+book_id: 727
+---
+
+## Publication Information
+
+**Date:** 1912
+
+**Imprint:** London: Mowbray
+
+## Letters Mentioning This Work
+
+- [Letter 2756](../2756-to-elizabeth-wordsworth.qmd)
+- [Letter 3339](../3339-to-elizabeth-wordsworth-3.qmd)
+

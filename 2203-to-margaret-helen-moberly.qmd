@@ -1,0 +1,41 @@
+---
+title: "To Margaret Helen Moberly"
+letter_iso_date: "1867-08-12"
+letter_date: "Aug 12 [1867]"
+manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/5"
+post_id: 2203
+letter_id: "to-margaret-helen-moberly"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Helen Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-08-12"
+  url: "https://cmyonge.github.io/letters/2203-to-margaret-helen-moberly"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 12 [1867]  
+**Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/5
+:::
+
+My dear [Maggie](people/person_83.qmd),
+Your book marker [is] a great beauty, and I thank you very much for it, particularly admiring the beautiful little shy bee. [Mamma](people/person_1606.qmd) thanks [Alice](people/person_1025.qmd) for her [note] and good news of you all. I hope we shall see you before long I am much better, and feel quite proud that I am sitting up to my work this morning while [Miss Wilford](people/person_1520.qmd) is lying on her back. It is ten weeks since her strain, and it still gives her pain, so that she cannot walk many steps nor sit up a few minutes, and when I fetched her on Friday [Mrs Bacon](people/person_88.qmd) took away her bonnet that she might not go to church on Sunday. [Miss Roberts](people/person_1244.qmd) looked very weak and ill while she was here, and [Mr Wither](people/person_1544.qmd) might well say my friends are all screws. Is it not a good thing that [Harry Young](people/person_1996.qmd) is taken into Mr [Latham Wickham](people/person_1503.qmd)’s school on his lower terms instead of the [poor little Humbert](people/person_1995.qmd)[.][^1] Hursley disagrees so much with [Mr Dundas](people/person_451.qmd) that [Miss Mackenzie](people/person_930.qmd) went off to Bournemouth after a week, and says Bournemouth air is not like Hursley rain, so I suppose it is something like that at Brighstone[^2]  [Mrs](people/person_462.qmd) and [Miss Dyson](people/person_464.qmd) were obliged to put off their visit to us, but we hope now to have them the first week in September. I think one of the Simeons will come to us the week after next.[^3]
+
+your affectionate godmother
+C M Yonge
+
+---
+
+[^1]: The Rev. Latham Wickham (b. 1833/4) was headmaster of Twyford School 1862-87.  The ten-year-old son of the Rev. Lewis Humbert, Warden of St. Cross, had recently died, and probably vacated a scholarship reserved for the children of poor clergymen.
+[^2]: After his resignation from Winchester College Dr. Moberly was Rector of Brighstone, Isle of Wight from 1866 to 1869. The family did not finally leave Winchester and their holiday house near Hursley until May/June 1867.
+[^3]: The Simeons were a large family living in Hursley, children of Captain [Charles Simeon](people/person_1322.qmd);  here CMY means one of their unmarried daughters.

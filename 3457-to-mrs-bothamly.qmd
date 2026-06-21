@@ -1,0 +1,46 @@
+---
+title: "To Mrs Bothamly"
+letter_iso_date: "1900-05-02"
+letter_date: "May 2d 1900"
+location: "Elderfield  Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3457
+letter_id: "to-mrs-bothamly"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Bothamly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-05-02"
+  url: "https://cmyonge.github.io/letters/3457-to-mrs-bothamly"
+---
+
+::: {.letter-metadata}
+**Date:** May 2d 1900  
+**From:** Elderfield  Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Madam](people/person_176.qmd)
+I am much perplexed about the article ‘Want of Confidence’ - I had <u>two</u> so called sent to me, purporting to be condensations of a lecture given at Winchester, one certainly written by [Mrs Field](people/person_507.qmd). When it appeare[d] a gentleman wrote and claimed it as his own abstract but Mrs Field was able to prove it was hers, and as yours had the same title I am afraid the copy in type must have been broken up under the impression that it was the duplicate account of the lecture for I cannot find it either in proof or M S and it is the only way I can account for its disappearance.[^1]
+
+I am very sorry not to be able to restore it
+
+If you can tell me how many pages it occupied I will send you some small compensation,
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to 'Mrs Bothamly/ The Crossways/ Bromley'.
+[^2]: The contribution was evidently to [*Mothers in Council*](organizations/other_82.qmd).

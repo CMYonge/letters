@@ -1,0 +1,15 @@
+---
+title: "Sir Richard Colt Hoare Hoare - The History of Ancient Wiltshire"
+book_id: 814
+---
+
+## Publication Information
+
+**Date:** 1810-1821
+
+**Imprint:** London: Miller
+
+## Letters Mentioning This Work
+
+- [Letter 2426](../2426-to-edward-augustus-freeman-3.qmd)
+

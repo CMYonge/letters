@@ -1,0 +1,69 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1898-06-28"
+letter_date: "June 28th1898"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 236-8"
+post_id: 3376
+letter_id: "to-frederick-orridge-macmillan-17"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-06-28"
+  url: "https://cmyonge.github.io/letters/3376-to-frederick-orridge-macmillan-17"
+---
+
+::: {.letter-metadata}
+**Date:** June 28th1898  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 236-8
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I delayed my answer till I had communicated with the Heathcote family - at whose request chiefly this history of Hursley has been undertaken.
+
+I rather expected them to demur at making the book so expensive to buyers, and was thinking over the possibility of starting  with it much abridged, leaving out the Plan and the Customs of Merdon Castle, the Birds Flowers, descriptions of parishes and Words - and most of the illustration so as to have a small cheap handbook ready for chance buyers at the time of the anniversary
+
+But they do not propose this, so that unless you see your way to two simultaneous editions, we had better hold to the 8/6 one. You do not mention [terms](organizations/other_160.qmd), and a royalty on the 1st edition would in some  ways [be] convenient.
+
+Most of the illustrations belong to[Lady Heathcote](people/person_665.qmd) and are to be sent to me in a day or two, when I will select from them and send them up.
+
+Could you however get the map of the two parishes reduced from the Ordnance map?
+
+Also, the latest and best views of Otterbourne Church are to be had exterior 
+
+from [Salmon](people/person_2193.qmd)
+Photographer
+High Street
+Winchester
+
+Interior
+[Oakley](people/person_2194.qmd)
+Park Street
+Upper Market Green
+Eastleigh
+
+The best photographs of Hursley Church and Vicarage are by [Frith](people/person_2195.qmd) - (I do not know the address)
+
+I suppose there is copyright in all these - but I do not know what arrangements are made about them. So that had better be left to you.
+
+I have an excellent photograph from a likeness of [Mr Keble](people/person_798.qmd) drawn by [Bacon](people/person_2196.qmd) the sculptor, which we should wish to have The likeness of [Sir William Heathcote](people/person_669.qmd) is from a picture by [Richmond](people/person_1731.qmd) in the County Hall at Winchester. I suppose the copyright is safe
+
+I send Mr Keble’s - I know we may have that-
+
+I do think that the few chapters about the building of Hursley, would even without photographs go off very fast locally
+The large full edition would sell, but more  slowly among friends. 
+
+Yours sincerely
+C M Yonge

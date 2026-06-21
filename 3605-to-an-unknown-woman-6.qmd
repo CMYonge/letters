@@ -1,0 +1,40 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1865-01-01"
+letter_date: "[after 1865]"
+manuscript: "MS Humanities Research Center, University of Texas, Austin, Charlotte M. Yonge collection"
+post_id: 3605
+letter_id: "to-an-unknown-woman-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-01-01"
+  url: "https://cmyonge.github.io/letters/3605-to-an-unknown-woman-6"
+---
+
+::: {.letter-metadata}
+**Date:** [after 1865]  
+**Manuscript:** MS Humanities Research Center, University of Texas, Austin, Charlotte M. Yonge collection
+:::
+
+Dear Madam
+
+I do not think Mr Clare resembles [Mr Keble](people/person_798.qmd) at all.[^1]  I certainly never should have consciously taken his portrait, I loved and honored him too much
+
+yours truly
+Charlotte M. Yonge
+
+---
+
+[^1]: Mr Clare is a character in CMY's *The Clever Woman of the Family* (1865).

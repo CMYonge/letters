@@ -1,0 +1,40 @@
+---
+title: "To Francis Turner Palgrave"
+letter_iso_date: "1865-00-00"
+letter_date: "[About 1865]"
+manuscript: "MS location unknown. Printed in Romanes <i>[Appreciation](other_books/otherbook_241.qmd)</i> 183-4"
+post_id: 2094
+letter_id: "to-francis-turner-palgrave"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Francis Turner Palgrave"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-00-00"
+  url: "https://cmyonge.github.io/letters/2094-to-francis-turner-palgrave"
+---
+
+::: {.letter-metadata}
+**Date:** [About 1865]  
+**Manuscript:** MS location unknown. Printed in Romanes <i>[Appreciation](other_books/otherbook_241.qmd)</i> 183-4
+:::
+
+My dear [Mr Palgrave](people/person_1124.qmd)
+The shortest way will be to send you our number, to which you are very welcome as long as it can be of any use to you - though I should like to have it again ultimately.[^1]
+
+You will see that a good deal of the scope of the [article](other_books/otherbook_445.qmd) goes to the influence of [Scott](people/person_1672.qmd)’s works in preparing minds for the Church movement, but the suppressed poetry breaking out is the main idea. I mean rather the suppressed inclinations finding vent in poetry. Do you know the account of a visit to Abbotsford given in the [Life of Mrs Hemans](other_books/otherbook_442.qmd)? [She](people/person_1936.qmd) seems to have had the power of drawing out his grand nature in conversation. I suppose that, though her verses are weak, she had a rare power of poetical discernment; at least, all the subjects of her poems are so poetical in themselves that the poems provoke me as if she had been watering them down. But it was she who recorded Scott’s grand speech about noble blood shed in a hopeless cause,[^2] and for that the world owes her much gratitude. I think there is a poem in the *[Lyra Innocentium](other_books/otherbook_232.qmd)* suggested by that description of Scott as a young child clapping his hands and crying, ‘Bonnie! bonnie!’ at every flash of lightning. There is something very engaging in Crabbe’s [Life](other_books/otherbook_443.qmd), but I think most of his verses are more stories than poems. S. Osyth’s is the one that seems to me most poetical, and that is little more than a song. Do you not think that there are too many of [Mrs. Mozley](people/person_1062.qmd)’s family living for her life to be really sketched.[^3] I suspect it will be shadowed out in her [brother](people/person_1084.qmd)’s if he gets a tolerably worthy biographer (and how can he?). One thing struck me much: how the line of argument in the *[Apologia](other_books/otherbook_444.qmd)* resembled that in the *[Fairy Bower](other_books/otherbook_240.qmd)* - I mean, of course, that part of the *Apologia* where Dr. Newman vindicates his truth. Do you know her last book, *[Family Adventures](other_books/otherbook_446.qmd)*? She died when it was in the press. People tell me it is very like the Newmans in their youth. I only saw her once, when I was quite a young girl.
+
+---
+
+[^1]: Francis Turner Palgrave (1824-1897), critic and anthologist, was probably collecting material for his *The Poetical Works of Sir Walter Scott, with a Biographical and Critical Memoir* (1866).  The 'number' sent him by CMY was no doubt their copy of the 1838 volume of the *British Critic* containing John Keble’s review of J.G. Lockhart’s *Life of Scott*. The article, reprinted in Keble’s *Occasional Papers and Reviews* (1877), discusses the influence of Scott’s work on the Tractarian movement. This point had recently been raised in J. H. Newman’s *Apologia pro Vita Sua* (1864).
+[^2]: ‘Never let me hear that brave blood has been shed in vain. It sends a roaring voice down through all time.’  CMY was fond of this sentiment, and quoted it in *The Daisy Chain*.
+[^3]: Harriett Elizabeth (Newman) Mozley (1803-1852) was the sister of J. H. Newman. Although she had died in 1852, her husband and daughter, her three brothers and one sister, and that sister’s six children were still alive in 1866, as were eight of her husband Thomas Mozley’s brothers and sisters.

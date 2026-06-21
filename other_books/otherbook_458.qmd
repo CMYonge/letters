@@ -1,0 +1,16 @@
+---
+title: "Robert Fabyan - The New Chronicles of England and France Ed. Henry Ellis"
+book_id: 458
+---
+
+## Publication Information
+
+**Date:** 1811
+
+**Imprint:** London: Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 2114](../2114-to-elizabeth-missing-sewell-14.qmd)
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
+

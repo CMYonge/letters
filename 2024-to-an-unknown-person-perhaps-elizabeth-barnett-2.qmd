@@ -1,0 +1,35 @@
+---
+title: "To an Unknown Person, perhaps Elizabeth Barnett"
+letter_iso_date: "1865-00-00"
+letter_date: "[1865]"
+manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 93"
+post_id: 2024
+letter_id: "to-an-unknown-person-perhaps-elizabeth-barnett-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person, perhaps Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-00-00"
+  url: "https://cmyonge.github.io/letters/2024-to-an-unknown-person-perhaps-elizabeth-barnett-2"
+---
+
+::: {.letter-metadata}
+**Date:** [1865]  
+**Manuscript:** MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 93
+:::
+
+We have just finished [Dr. Livingstone](people/person_1935.qmd), noble man that he is; all that one can wish is that he knew what the Church meant.[^1] The grand simplicity of his courage and endurance is most magnificent. I am sure England has not come to degeneracy yet.
+
+---
+
+[^1]: The explorer and missionary Dr. David Livingstone (1813-1873) was a Congregationalist, which would account for CMY’s regret.  She and her mother had no doubt been reading his *Narrative of an expedition to the Zambesi and its tributaries and of the discovery of the lakes Shirwa and Nyassa, 1858-1864* (1865).

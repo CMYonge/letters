@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-12-07"
+letter_date: "Decr 7th [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 60"
+post_id: 1998
+letter_id: "to-alexander-macmillan-31"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-12-07"
+  url: "https://cmyonge.github.io/letters/1998-to-alexander-macmillan-31"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 7th [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 60
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Please to let me correct two things in the list of presentation copies of the [Golden Deeds](cmy_books/cmybook_51.qmd)
+
+Yours sincerely
+C M Yonge
+
+Miss [Margaret Lonsdale](people/person_896.qmd)
+28 Westbourne Terrace W
+
+Miss [Charlotte Fursdon](people/person_534.qmd) 
+Fursdon 
+Cadbury
+Tiverton

@@ -1,0 +1,15 @@
+---
+title: "William Whewell - Of the Plurality of Worlds: An Essay"
+book_id: 179
+---
+
+## Publication Information
+
+**Date:** 1853
+
+**Imprint:** London: Parker
+
+## Letters Mentioning This Work
+
+- [Letter 3051](../3051-to-john-william-parker-jr-4.qmd)
+

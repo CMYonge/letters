@@ -1,0 +1,20 @@
+---
+title: "Michael Drayton - Poly-Olbion, or, A Chorographicall Description of Tracts, Riuers, Mountaines, Forests, and other parts of this Renowned Isle of Great Britaine"
+book_id: 1006
+---
+
+## Publication Information
+
+**Date:** 1613
+
+**Imprint:** London: Lownes
+
+**Notes:** A continuation was published in 1622.
+
+
+
+
+## Letters Mentioning This Work
+
+- [Letter 2832](../2832-to-mary-elizabeth-wormeley-latimer-3.qmd)
+

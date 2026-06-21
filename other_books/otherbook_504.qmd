@@ -1,0 +1,17 @@
+---
+title: "Meredith Hanmer (translator) - The Auncient Ecclesiasticall Histories of the First Six Hundred Yeares after Christ, written in the Greeke tongue by three learned historiographers, Eusebius, Socrates and Euagrius"
+book_id: 504
+---
+
+## Publication Information
+
+**Date:** 1585
+
+**Imprint:** London: Vautroullier
+
+**Notes:** CMY probably owned one of the many later editions of this book.
+
+## Letters Mentioning This Work
+
+- [Letter 2200](../2200-to-alexander-macmillan-92.qmd)
+

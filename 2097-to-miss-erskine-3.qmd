@@ -1,0 +1,41 @@
+---
+title: "To Miss Erskine"
+letter_iso_date: "1866-01-09"
+letter_date: "Jan 9th [1866]"
+location: "Elderfield Otterbourn"
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2097
+letter_id: "to-miss-erskine-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Erskine"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-01-09"
+  url: "https://cmyonge.github.io/letters/2097-to-miss-erskine-3"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 9th [1866]  
+**From:** Elderfield Otterbourn  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Miss Erskine](people/person_489.qmd)
+I have asked Ivanovna to write to you herself as what I know comes chiefly from her. She is [Miss Johanna Batty](people/person_126.qmd), I believe her father was a general, and she is very learned in all charities.[^1]
+
+In haste yours sincerely
+C M Yonge
+
+---
+
+[^1]: Ivanovna ontributed to the *MP* 1861-1891, but chiefly in the 1860s. She wrote on such topics as Needlewoman’s Institution, Mission Work at Home, Industrial Charities.

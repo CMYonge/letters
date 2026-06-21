@@ -1,0 +1,17 @@
+---
+title: "Oliver Goldsmith - The Good Natur'd Man"
+book_id: 898
+---
+
+## Publication Information
+
+**Date:** 1768
+
+**Imprint:** London: Griffin
+
+**Notes:** The play was first performed in the same year.
+
+## Letters Mentioning This Work
+
+- [Letter 2616](../2616-to-christabel-rose-coleridge-90.qmd)
+

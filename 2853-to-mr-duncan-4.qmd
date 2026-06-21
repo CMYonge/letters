@@ -1,0 +1,43 @@
+---
+title: "To the Reverend James Duncan?"
+letter_iso_date: "1887-03-19"
+letter_date: "March 19th [1887]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2853
+letter_id: "to-mr-duncan-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend James Duncan?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-03-19"
+  url: "https://cmyonge.github.io/letters/2853-to-mr-duncan-4"
+---
+
+::: {.letter-metadata}
+**Date:** March 19th [1887]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Sir](people/person_448.qmd)[^1]
+
+I think it would be well to send me a set of sheets of What to Read, that I might add to them or cancel them on occasion. I know there are some good books of this winter not added, and [Goldhanger Woods](other_books/otherbook_1024.qmd),[^2] and I have not seen a sheet since before Christmas. I am afraid the books may be forgotten and omitted if I do not set them down soon
+
+Yours &c
+C M Yonge
+
+---
+
+[^1]: Duncan was her usual correspondent at the [National Society](organizations/other_32.qmd), the publishers of *What Books to Lend and What to Give* (1887), but she usually called him Mr Duncan.
+[^2]: Mary and Catherine Lee, *Goldhanger Woods: A Child's Romance* (London: National Society 1886). Mary Lee had collaborated with CMY on *The Miz Maze* (1883).

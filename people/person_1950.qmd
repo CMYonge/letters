@@ -1,0 +1,15 @@
+---
+title: "Sir John Richardson"
+person_id: 1950
+---
+
+## Biographical Information
+
+(1787–1865)
+
+physician and Arctic explorer, father of Sarah Harriet Selwyn
+
+## Letters Mentioning This Person
+
+- [Letter 9097](../9097-to-sarah-harriet-selwyn.qmd)
+

@@ -1,0 +1,68 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1863-11-11"
+letter_date: "Novr 11th [1863]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 7-8"
+post_id: 1914
+letter_id: "to-alexander-macmillan-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-11"
+  url: "https://cmyonge.github.io/letters/1914-to-alexander-macmillan-5"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 11th [1863]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 7-8
+:::
+
+[Sir](people/person_939.qmd), 
+I have now heard from Messrs [Longman](organizations/other_153.qmd), so that I can proceed in the matter on which I wrote to you some weeks since.
+
+I should be obliged if you would let me know whether you would undertake my works hitherto in [Messrs Parker](organizations/other_152.qmd)’s hands, namely
+
+[The Heir of Redclyffe](cmy_books/cmybook_15.qmd)
+
+[Heartsease](cmy_books/cmybook_19.qmd)
+
+[Daisy Chain](cmy_books/cmybook_24.qmd)
+
+[Dynevor Terrace](cmy_books/cmybook_27.qmd)
+
+[Hopes and Fears](cmy_books/cmybook_37.qmd)
+
+[Little Duke](cmy_books/cmybook_20.qmd)
+
+[Lances of Lynwood](cmy_books/cmybook_23.qmd)
+
+[Marie Theresè of Lamourous](cmy_books/cmybook_31.qmd)
+
+[The Young Stepmother](cmy_books/cmybook_38.qmd)
+
+the stock and stereotypes being transferred to you. All these have been hitherto on commission, and would I suppose so continue until the present [copies on hand](organizations/other_155.qmd) are sold off. I find there are 900 of the Heir of Redclyffe and 700 of Heartsease - and I suppose you would hardly recommend venturing on a cheaper edition till these are disposed of.
+
+Of the Daisy Chain there are 312 on hand, and perhaps this might be the best to put into a cheap form first, as it does not belong quite to the same series as the other, there has always been a fair demand for it, and railway stall keepers say they should sell it in large numbers if it were cheaper. 
+
+Should you be willing to bring out such an edition and at what rate would you allow me per 1000?
+
+I remain
+Yours faithfully
+C.M. Yonge
+
+---
+
+**Note:** Black-edged paper.

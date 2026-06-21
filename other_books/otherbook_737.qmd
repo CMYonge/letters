@@ -1,0 +1,16 @@
+---
+title: "John Duthy - Sketches of Hampshire, embracing the architectural antiquities, topography, &c"
+book_id: 737
+---
+
+## Publication Information
+
+**Date:** 1839
+
+**Imprint:** Winchester: Jacob and Johnson
+
+## Letters Mentioning This Work
+
+- [Letter 3368](../3368-to-beatrice-heathcote-3.qmd)
+- [Letter 3369](../3369-to-edmund-doidge-anderson-morshead-2.qmd)
+

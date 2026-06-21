@@ -1,0 +1,46 @@
+---
+title: "To Frederick James Furnivall"
+letter_iso_date: "1864-07-25"
+letter_date: "July 25th [1864]"
+location: "Corby"
+manuscript: "MS Huntington Library: Letters to Frederick James Furnivall. FU 971"
+post_id: 1965
+letter_id: "to-frederick-james-furnivall-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick James Furnivall"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-07-25"
+  url: "https://cmyonge.github.io/letters/1965-to-frederick-james-furnivall-4"
+---
+
+::: {.letter-metadata}
+**Date:** July 25th [1864]  
+**From:** Corby  
+**Manuscript:** MS Huntington Library: Letters to Frederick James Furnivall. FU 971
+:::
+
+Dear [Mr Furnivall](people/person_531.qmd),
+Thanks for your enclosure I hope to make use of it when I get home, but just at present we are wanderers, very decided wanderers at this moment for I am writing at a little station on the Great Northern having missed our train by two minutes, so that we have the pleasure of waiting for three hours before we can get on to Peterborough and Ely.[^1] I hope to be at home on the 12th of August and then to go to work again.
+
+The Scotch printer sent me the first proof of [his Ns](organizations/other_151.qmd), which I corrected, and then I heard no more of him for several weeks, when the second one arrived after I had left home, and I was obliged to write to him that it must wait till my return, for I can only settle doubtful words by reference to the extracts, whereupon he wrote to me again to ask if I could not get my papers sent after me_! Fancy carrying about all the extracts from NI onwards to NY_ ! But I am afraid I must remain guilty of the delay, for my correcting would be of no real use without the extracts --
+
+When our train <u>does</u> come by we shall turn our faces homewards, and hope to be at St Dunstan’s this day week to stay till Saturday --[^2]
+
+Yours very truly
+C M Yonge
+
+---
+
+[^1]: CMY and her mother were making a round of visits.  At this point, in the station at Corby in Northamptonshire, they may have been on their way between FMY's old friend [Julia Argles](people/person_57.qmd) at Stamford, Lincs., and with her old friend [Caroline Vernon Harcourt](people/person_1442.qmd) at Royston, Herts..
+[^2]: St. Dunstan's, in Regents Park, was the London home of CMY's cousin [Henry Hucks Gibbs](people/person_558.qmd).

@@ -1,0 +1,45 @@
+---
+title: "To Miss Forrest"
+letter_iso_date: "1869-09-26"
+letter_date: "Sept 26th [1868-9?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2343
+letter_id: "to-miss-forrest"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Forrest"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-09-26"
+  url: "https://cmyonge.github.io/letters/2343-to-miss-forrest"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 26th [1868-9?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Miss Forrest](people/person_2029.qmd)
+I am sending off your notice for the November Packet, thank you for it. I must not let you come in a vain search for [Edith Simeon](people/person_1325.qmd), though I should be very glad to see you.
+
+She left me on Friday morning as she is going to help [Miss Barter](people/person_116.qmd) for a few months in the school she is managing at Shipton. The being close to [Mrs Henry Barter](people/person_114.qmd) is the great attraction, and she is really very much better for her stay in Ireland - both in strength and spirits.[^1] I am so glad that the notice in the [Packet](organizations/other_52.qmd) was so effective[^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Kitty Moberly had married the Rev. Henry Barter in September 1863. In the 1871 census they are at Shipton under Wychwood in Oxfordshire, where he was Vicar, and where his sister Catherine Barter (b. 1820/1) is also found, running a small boarding-school with a South African ward, Salome Melango (b.1863/4).
+[^3]: Probably ‘St Peter’s Home and Sisterhood, Kilburn’, signed FF, an article describing the work of the[sisterhood](organizations/other_203.qmd) and appealing for donations of books of all kinds for the use of the Home’s patients, *MP*(September 1869), 303-5, which was followed by a grateful acknowledgement (November 1869) 520.  It seems possible that this Miss Forrest may have been Christina Fanny Forrest (1844-1926), daughter of the Chief Constable of Hampshire, and later a campaigner for the state registration of nurses and Lady Superintendent of York County Hospital.

@@ -1,0 +1,29 @@
+---
+title: "Cardinal John Henry Newman"
+person_id: 1084
+---
+
+## Biographical Information
+
+(1801-1890)
+
+theologian
+
+He became a Roman Catholic on 9 October 1845, causing consternation to Keble and many of his Anglican friends. [ODNB]
+
+## Letters Mentioning This Person
+
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+- [Letter 2115](../2115-to-jemima-charlotte-mozley.qmd)
+- [Letter 2155](../2155-to-edith-sophia-jacob-4.qmd)
+- [Letter 2163](../2163-to-edith-sophia-jacob-6.qmd)
+- [Letter 2329](../2329-to-mary-ann-dyson-11.qmd)
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
+- [Letter 2944](../2944-to-alethea-yonge.qmd)
+- [Letter 2945](../2945-to-anne-yonge-12.qmd)
+- [Letter 3001](../3001-to-elizabeth-roberts-21.qmd)
+- [Letter 3111](../3111-to-frances-mary-yonge.qmd)
+- [Letter 3182](../3182-to-an-unknown-person-7.qmd)
+- [Letter 3183](../3183-to-an-unknown-person-8.qmd)
+- [Letter 3333](../3333-to-mary-elizabeth-christie-2.qmd)
+

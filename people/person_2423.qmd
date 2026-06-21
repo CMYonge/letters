@@ -1,0 +1,15 @@
+---
+title: "Frances Jane Dodgson"
+person_id: 2423
+---
+
+## Biographical Information
+
+(1828-1903)
+
+Elder sister of the Rev. Charles Lutwidge Dodgson, who wrote as 'Lewis Carroll'.
+
+## Letters Mentioning This Person
+
+- [Letter 19258](../19258-to-frances-jane-dodgson.qmd)
+

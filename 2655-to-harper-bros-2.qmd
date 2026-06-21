@@ -1,0 +1,38 @@
+---
+title: "To Harper & Bros."
+letter_iso_date: "1878-12-18"
+letter_date: "Decr 18 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Columbia University Library"
+post_id: 2655
+letter_id: "to-harper-bros-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harper & Bros."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-12-18"
+  url: "https://cmyonge.github.io/letters/2655-to-harper-bros-2"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 18 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Columbia University Library
+:::
+
+[Gentlemen](organizations/other_248.qmd)
+
+I am much obliged for the [draft for £10](organizations/other_172.qmd) received this morning as well as the copies of the [Story of the Christians and Moors](cmy_books/cmybook_126.qmd), which I am very glad to have in this cheap form. I am much obliged for your liberality in the matter, and 
+
+remain &c
+C M Yonge

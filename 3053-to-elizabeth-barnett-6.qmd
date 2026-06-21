@@ -1,0 +1,41 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1854-11-18"
+letter_date: "[? November 1854]"
+manuscript: "MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 75"
+post_id: 3053
+letter_id: "to-elizabeth-barnett-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-11-18"
+  url: "https://cmyonge.github.io/letters/3053-to-elizabeth-barnett-6"
+---
+
+::: {.letter-metadata}
+**Date:** [? November 1854]  
+**Manuscript:** MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 75
+:::
+
+[Mamma](people/person_1606.qmd) told [you](people/person_113.qmd) of the wonderful début of [Violet](cmy_books/cmybook_19.qmd).[^1]  I only wonder whether she will thrive as well when the critics have set their claws on her; the home critics are very amusing in their variety and ‘characteristicalness’ (there's a word!).
+
+[My Colonel correspondent](people/person_1515.qmd) complains of the babies[^2] .  . . .[Sir W. Heathcote](people/person_669.qmd) says the will would not stand[^3];  [Judge Coleridge](people/person_344.qmd) falls foul of the geography of the Lakes;  and so on.<sup>4</sup>
+
+Most people say they think others will like it as well as [Guy](cmy_books/cmybook_15.qmd), though they don't themselves, and some few prefer it.  It does want [papa](people/person_1631.qmd) very much; but, then, he did set it going, and there is mamma to gloat over it.
+
+---
+
+[^1]: Her novel *Heartsease, or, The Brother's Wife*, which had just been published.  A  review in *The Times* (28 Dec 1854) 5, refers to its success.
+[^2]: The heroine of *Heartsease* gives birth to four children, and the dangers of childbirth are emphasised, though not so as to terrify a modern reader.
+[^3]: In the novel Aunt Nesbit leaves her money in trust, the heir to be one of the grandsons of her nephew-in-law, Lord Martindale, when he shall inherit his grandfather's title. Such a trust would have infringed the perpetuities rule against remoteness of vesting.

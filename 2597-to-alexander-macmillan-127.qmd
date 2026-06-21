@@ -1,0 +1,44 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1877-09-11"
+letter_date: "Sept 11th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 32"
+post_id: 2597
+letter_id: "to-alexander-macmillan-127"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-09-11"
+  url: "https://cmyonge.github.io/letters/2597-to-alexander-macmillan-127"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 11th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 32
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Please let me have the rest of the [Primer](cmy_books/cmybook_353.qmd) I thought I had it all, but I cannot find further than what I send.
+
+I am waiting for [Mr Freeman](people/person_523.qmd)’s orders before I send back [the French history](cmy_books/cmybook_99.qmd)
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

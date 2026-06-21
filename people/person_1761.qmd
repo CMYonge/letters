@@ -1,0 +1,13 @@
+---
+title: "Maria Evans"
+person_id: 1761
+---
+
+## Biographical Information
+
+living at Boyatt Farm, Otterbourne
+
+## Letters Mentioning This Person
+
+- [Letter 3060](../3060-to-anne-yonge-32.qmd)
+

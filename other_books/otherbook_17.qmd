@@ -1,0 +1,19 @@
+---
+title: "Georgina Battiscombe - Charlotte Mary Yonge: The Story of an Uneventful Life"
+book_id: 17
+---
+
+## Publication Information
+
+**Date:** 1943
+
+**Imprint:** London: Constable
+
+## Letters Mentioning This Work
+
+- [Letter 1779](../1779-to-ann-maria-carter-smith-28.qmd)
+- [Letter 1785](../1785-to-ann-maria-carter-smith-32.qmd)
+- [Letter 1810](../1810-to-ann-maria-carter-smith-38.qmd)
+- [Letter 1946](../1946-to-ann-maria-carter-smith-68.qmd)
+- [Letter 3227](../3227-to-the-reverend-william-parsons-warburton-4.qmd)
+

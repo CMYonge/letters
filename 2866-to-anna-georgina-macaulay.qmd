@@ -1,0 +1,42 @@
+---
+title: "To Anna Georgina Macaulay?"
+letter_iso_date: "1887-09-15"
+letter_date: "Sept 15th 1887"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2866
+letter_id: "to-anna-georgina-macaulay"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Georgina Macaulay?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-09-15"
+  url: "https://cmyonge.github.io/letters/2866-to-anna-georgina-macaulay"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 15th 1887  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Nina](people/person_2352.qmd)[^1]
+
+[Gertrude](people/person_1462.qmd) desires me to say that we have never had an American edition of [the Three Brides](cmy_books/cmybook_120.qmd) but she has taken measures for getting a second hand one and it will be sent to you. All my stories in the [Monthly Packet](organizations/other_52.qmd) do get published again	Gertrude is tolerably well just now
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Identified tentatively from the letter of 2 June 1883.

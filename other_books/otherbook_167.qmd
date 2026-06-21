@@ -1,0 +1,15 @@
+---
+title: "Frederick Tennyson - Days and Hours"
+book_id: 167
+---
+
+## Publication Information
+
+**Date:** 1854
+
+**Imprint:** London:  Parker
+
+## Letters Mentioning This Work
+
+- [Letter 3050](../3050-to-john-william-parker-jr-3.qmd)
+

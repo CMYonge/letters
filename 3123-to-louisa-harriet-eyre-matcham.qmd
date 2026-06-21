@@ -1,0 +1,41 @@
+---
+title: "To Louisa Harriet Eyre Matcham"
+letter_iso_date: "1858-12-02"
+letter_date: "Decr 2nd1858"
+location: "Otterbourne, Winchester."
+manuscript: "MS John Purvis"
+post_id: 3123
+letter_id: "to-louisa-harriet-eyre-matcham"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Louisa Harriet Eyre Matcham"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1858-12-02"
+  url: "https://cmyonge.github.io/letters/3123-to-louisa-harriet-eyre-matcham"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 2nd1858  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS John Purvis
+:::
+
+Dear [Miss Matcham](people/person_982.qmd)
+I am afraid I can throw no light upon the question.  We had it some time ago, very probably from the same quarter, and I kept it yesterday to shew to the Moberlys who were likely to have had it at the same time to see whether they could remember any answer but none of us could, and we could only come to the satisfactory conclusion that it was one of those provoking delusions now and then sent out to puzzle the world without an author.  We tried hard to make it into Tax, but it would not do
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** With envelope addressed to 'Miss Matcham/ New House/ Salisbury' and postmarked Winchester 2 December 1858.

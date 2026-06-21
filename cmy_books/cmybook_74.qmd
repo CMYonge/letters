@@ -1,0 +1,21 @@
+---
+title: "“Children’s literature of the last century: I. - Nursery books of the eighteenth century.” by Miss Yonge"
+book_id: 74
+sort_title: "“Children’s literature of the last century: I. - Nursery books of the eighteenth century.” by Miss Yonge"
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Genre:** Non-fiction: criticism
+
+**Publisher:** Not reprinted in volume form
+
+**Notes:** An early instance of CMY allowing her name to appear, though not in the form she ultimately adopted.
+
+## Letters Mentioning This Work
+
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+- [Letter 2586](../2586-to-george-lillie-craik-27.qmd)
+

@@ -1,0 +1,13 @@
+---
+title: "Mrs Richards"
+person_id: 1902
+---
+
+## Biographical Information
+
+schoolmistress
+
+## Letters Mentioning This Person
+
+- [Letter 2469](../2469-to-anne-mercier-6.qmd)
+

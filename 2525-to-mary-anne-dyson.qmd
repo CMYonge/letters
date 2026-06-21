@@ -1,0 +1,45 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1875-04-06"
+letter_date: "April 6, 1875"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 261-2"
+post_id: 2525
+letter_id: "to-mary-anne-dyson"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-04-06"
+  url: "https://cmyonge.github.io/letters/2525-to-mary-anne-dyson"
+---
+
+::: {.letter-metadata}
+**Date:** April 6, 1875  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 261-2
+:::
+
+My dear [Marianne](people/person_464.qmd)
+
+I heard this morning that good old [Mr. Gibbs](people/person_560.qmd) is gone - on Friday night - his flowers fresh in our church.  We had a very successful day, and no doubt [Amélie](people/person_869.qmd) has told you about it[^1], the Confirmation afterwards, thirty-five of our children, the girls led off by [Helen](people/person_1613.qmd), [Amy](people/person_783.qmd), and [Gerty](people/person_1482.qmd) and six of the school-girls with such sweet solemn faces, and a Cranbury man who had been baptized on Easter Sunday.[^2] Afterwards fifty-four mothers had tea in the school, and [Mr. Ashwell](people/person_68.qmd) made them a capital speech about what depended on them.  So many are my own old girls.  One woman is one of seven sisters, and there are and have been twenty-five already at school of the second generation of that family.  A good number were communicants next day.  I had a feast of talk with Mr. Ashwell, but imagine his materials for [the Bishop](people/person_1512.qmd)'s life - he never destroyed a letter![^3]  He spoke highly of your godson, and enthusiastically of his wife.  Well, I think you will get on well with your young [Vicar](people/person_2184.qmd), and I am sure you will like his [mother](people/person_2302.qmd);  I never heard any one find a fault with her.[^4]  No time for more.  
+
+Your most affectionate
+C. M. Yonge
+
+---
+
+[^1]: At the time of the 1871 census Amélie Leroy (1851-1934), later a novelist as ‘Esmé Stuart’, was living with Mary Anne Dyson in Crookham and working as a teacher in her school.
+[^2]: Apart from CMY's niece Helen Yonge, the named confirmation candidates were perhaps Amy Jones-Bateman, whose father was a great friend of Julian Yonge's, and Gertrude Webber, stepdaughter of the Rev. Walter Elgie, the curate.
+[^3]: He was writing the life of Samuel Wilberforce.
+[^4]: The new vicar of Crookham cum Ewshott was the Rev. Gordon Wickham, whose father had been second master of Winchester College.

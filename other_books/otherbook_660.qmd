@@ -1,0 +1,15 @@
+---
+title: "Charles Lamb and Mary Anne Lamb - Mrs Leicester's School, or, The History of Several Young Ladies, Related by themselves"
+book_id: 660
+---
+
+## Publication Information
+
+**Date:** 1809
+
+**Imprint:** London: Godwin
+
+## Letters Mentioning This Work
+
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

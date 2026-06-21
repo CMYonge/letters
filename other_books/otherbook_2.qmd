@@ -1,0 +1,15 @@
+---
+title: "Anon. - 'Castren’s Travels among the Laps’"
+book_id: 2
+---
+
+## Publication Information
+
+**Date:** (December 1853)
+
+**Imprint:** <i>Quarterly Review </i>94, 196-212
+
+## Letters Mentioning This Work
+
+- [Letter 3023](../3023-to-anna-butler-2.qmd)
+

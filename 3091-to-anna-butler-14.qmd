@@ -1,0 +1,39 @@
+---
+title: "To Anna Butler"
+letter_iso_date: "1856-12-15"
+letter_date: "Decr 15th [1856]"
+location: "Otterbourn"
+manuscript: "MS Mrs Caroline Fairclough/12"
+post_id: 3091
+letter_id: "to-anna-butler-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1856-12-15"
+  url: "https://cmyonge.github.io/letters/3091-to-anna-butler-14"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 15th [1856]  
+**From:** Otterbourn  
+**Manuscript:** MS Mrs Caroline Fairclough/12
+:::
+
+My dear [Miss Butler](people/person_237.qmd)
+I enclose with the [Packet](organizations/other_52.qmd)’s warm thanks the pay for [Likes & Dislikes](other_books/otherbook_248.qmd).  I am so glad to think of the continuation for I think the notion of setting Emily to tame young ladies running to seed an excellent one.
+
+[Miss Sturges Bourne](people/person_1379.qmd) has just been conducting a sick cousin to Wiesbaden, and thinking with much diversion of Helen. She was near going to Marienbad itself which would have been amusing.  I hope [Lizzie Barnett](people/person_113.qmd) has been gaining all sorts of strength at St Leonards.
+
+yours sincerely
+C M Yonge

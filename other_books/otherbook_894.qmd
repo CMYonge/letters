@@ -1,0 +1,15 @@
+---
+title: "Henry Wadsworth Longfellow - Outre-mer: A Pilgrimage beyond the Sea"
+book_id: 894
+---
+
+## Publication Information
+
+**Date:** 1833-1834
+
+**Imprint:** Boston: Hilliard
+
+## Letters Mentioning This Work
+
+- [Letter 2611](../2611-to-alexander-macmillan-129.qmd)
+

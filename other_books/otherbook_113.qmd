@@ -1,0 +1,16 @@
+---
+title: "Alessandro Manzoni - I promessi sposi: storia milanese del secolo XVII"
+book_id: 113
+---
+
+## Publication Information
+
+**Date:** 1825-6
+
+**Imprint:** Milano: Ferrario
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

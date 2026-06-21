@@ -1,0 +1,13 @@
+---
+title: "Miss Jackson"
+person_id: 1861
+---
+
+## Biographical Information
+
+novelist
+
+## Letters Mentioning This Person
+
+- [Letter 1859](../1859-to-ann-maria-carter-smith-52.qmd)
+

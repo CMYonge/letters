@@ -1,0 +1,52 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1878-11-22"
+letter_date: "Novr 22d 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 72-73"
+post_id: 2651
+letter_id: "to-alexander-macmillan-133"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-11-22"
+  url: "https://cmyonge.github.io/letters/2651-to-alexander-macmillan-133"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 22d 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 72-73
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd)
+
+Very hearty thanks for your kind letter, I will thankfully correct my own careless blunders, of which I know three. I have sent to the [London Library](organizations/other_29.qmd) for one or two of the authorities but ‘Dahn’s great work’ is not there at all, unless it is more recent than my catalogue, and I don’t think I could properly understand it if I had it[^1]
+
+I will keep to the old lines of the ordinary histories and only correct  what I am ashamed of now I see it.
+
+I have sent for [Dozy](other_books/otherbook_910.qmd) who writes in French and I hope I may there find what [Mrs Ward](people/person_1467.qmd) means by Count Julian being a Byzantine commander, which interests me apart from the history as I have made it.
+
+I hope in a few days to have entirely finished the [Scripture readings](cmy_books/cmybook_129.qmd)
+
+With many thanks
+Yours sincerely
+C M Yonge
+
+I don’t generally care about criticism when I am quite sure that it is only deserved by what I cannot help.
+
+---
+
+[^1]: This relates to the unkind review by Mary Augusta Ward of CMY's *The Christians and the Moors in Spain*.
+[^2]: Felix Dahn,  *Die Könige der Germanen : Das Wesen des ältesten Königthums der germanischen Stämme und seine Geschichte bis auf die Feudalzeit* 6 vols (Munich,  Wurzburg: 1861, 1866, 1871).  The quotation is from Mary Ward’s Academy review of The Christians and the Moors in Spain.

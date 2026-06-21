@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott Bt. - The Lord of the Isles: A Poem"
+book_id: 747
+---
+
+## Publication Information
+
+**Date:** 1815
+
+**Imprint:** Edinburgh: Constable
+
+## Letters Mentioning This Work
+
+- [Letter 3430](../3430-to-christabel-rose-coleridge-36.qmd)
+

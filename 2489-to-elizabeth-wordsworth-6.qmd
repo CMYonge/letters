@@ -1,0 +1,43 @@
+---
+title: "To Elizabeth Wordsworth"
+letter_iso_date: "1874-02-05"
+letter_date: "5 February [1874]"
+location: "Elderfield, Otterbourne,Winchester."
+manuscript: "MS Lady Margaret Hall, Oxford."
+post_id: 2489
+letter_id: "to-elizabeth-wordsworth-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Wordsworth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-02-05"
+  url: "https://cmyonge.github.io/letters/2489-to-elizabeth-wordsworth-6"
+---
+
+::: {.letter-metadata}
+**Date:** 5 February [1874]  
+**From:** Elderfield, Otterbourne,Winchester.  
+**Manuscript:** MS Lady Margaret Hall, Oxford.
+:::
+
+My dear [Elizabeth](people/person_1566.qmd)
+Did you send me [Lady Anne](other_books/otherbook_842.qmd)?[^1] If you did, thank you very much- you must know I had never seen her, but my dear cousins the Colbornes had her with them in Canada and have told me the story, but never could find the book again - I shall be so glad to send it out to [Mrs Moore](people/person_1042.qmd) in India - not my own copy I mean but one for her self, and to read to her soldiers wives.[^2] What a splendid Aurora we had last night, like the loveliest circle of moonlight with a rosy cloud beyond, and streamers at times You can’t think how often I have been asked where Angela found her song, and if it is Original![^3]
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: *The Life and Adventures of Lady Anne, the Little Pedlar* (1823), a children’s book, reprinted 1874 with an introduction by Christopher Wordsworth, and 1914  with an introduction by Elizabeth Wordsworth.  In her ‘journal notes’ about her visit in May 1872 Wordsworth says  CMY told her of a cousin ‘who used to tell her about *Lady Anne*, a favourite old child’s book I happened to mention’.  Romanes, *Appreciation*,  148.
+[^2]: The Colbornes here are the eight children of Field-Marshal Lord Seaton (1778-1863) and his wife Elizabeth Yonge.
+[^3]: In EW’s ‘journal notes’ about her visit to Otterbourne in May 1872, she records that she dictated the words of the song that Angela sings in *The Pillars of the House*: ‘It is dreadfully vulgar, but the children in the Children’s Hospital in Nottingham used to sing it.’  Romanes, *Appreciation*, 142.

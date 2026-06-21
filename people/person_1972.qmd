@@ -1,0 +1,17 @@
+---
+title: "Thomas Carlyle"
+person_id: 1972
+---
+
+## Biographical Information
+
+(1795-1881)
+
+historian and critic
+
+## Letters Mentioning This Person
+
+- [Letter 2129](../2129-to-alexander-macmillan-78.qmd)
+- [Letter 2782](../2782-to-christabel-rose-coleridge-109.qmd)
+- [Letter 2871](../2871-to-elizabeth-barnett.qmd)
+

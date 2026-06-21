@@ -1,0 +1,13 @@
+---
+title: "Miss Stanford"
+person_id: 2209
+---
+
+## Biographical Information
+
+official of the GFS
+
+## Letters Mentioning This Person
+
+- [Letter 3439](../3439-to-lady-brandreth.qmd)
+

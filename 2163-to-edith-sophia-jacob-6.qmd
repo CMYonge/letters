@@ -1,0 +1,41 @@
+---
+title: "To Edith Sophia Jacob"
+letter_iso_date: "1867-04-10"
+letter_date: "April 10th [1867]"
+manuscript: "MS Charlotte Mitchell"
+post_id: 2163
+letter_id: "to-edith-sophia-jacob-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-04-10"
+  url: "https://cmyonge.github.io/letters/2163-to-edith-sophia-jacob-6"
+---
+
+::: {.letter-metadata}
+**Date:** April 10th [1867]  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Miss Jacob](people/person_749.qmd),
+I have the [Récit d’une Soeur](other_books/otherbook_486.qmd), and if you like to read it, I could leave it, either at your house in the Close, at [Jacob & Johnsons](organizations/other_187.qmd) or any other convenient house of call at Winchester. It is a beautiful book - the family are so good and charming, though not equal in intellect or poetry to the Guérins.[^1]  The great matter in reading it is not to judge it by the first half of the first volume. I like the second much the best. I was sure you would come under the spell of [Gerontius](other_books/otherbook_484.qmd). What a wonderful [mind](people/person_1084.qmd) it is that thought it out. I see it said that it was a real dream of [Cardinal Wiseman](people/person_1542.qmd), but I believe much more that the [erasure] old man ‘Gerontius’ was *himself*. That adjective correction is thoroughly a man’s.[^2] Any day before the 20th, will be quite in time for me to have the [Dream](other_books/otherbook_483.qmd).[^3]
+
+yours very sincerely
+C M Yonge
+
+---
+
+[^1]: CMY had reviewed Pauline Craven, *Récit d’une soeur: Souvenirs de famille* (1866) in ‘The La Ferronnays Family’, *Christian Remembrancer*; she had also written an article there on [Eugénie](people/person_1984.qmd) and [Maurice de Guérin](people/person_1985.qmd) in 1864.
+[^2]: The sense is perhaps that the erasure is untidy; the erased word looks like ‘old’: ‘Gerontius’ means ‘old man’.
+[^3]: This refers to the forthcoming publication of Jacob's 'The Gate of Paradise' in the *[MP](organizations/other_52.qmd)*.

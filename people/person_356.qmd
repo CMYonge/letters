@@ -1,0 +1,15 @@
+---
+title: "Mr. Collier"
+person_id: 356
+---
+
+## Biographical Information
+
+perhaps a local clergyman
+
+The person reserving her a ticket at the Church conference in 1877 was probably a local clergyman.
+
+## Letters Mentioning This Person
+
+- [Letter 2585](../2585-to-mr-collier.qmd)
+

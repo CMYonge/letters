@@ -1,0 +1,13 @@
+---
+title: "Anne Fay"
+person_id: 1679
+---
+
+## Biographical Information
+
+evidently a poor invalid
+
+## Letters Mentioning This Person
+
+- [Letter 3608](../3608-to-agnes-cox.qmd)
+

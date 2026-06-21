@@ -1,0 +1,15 @@
+---
+title: "John Evelyn - Sylva, or, A Discourse of Forest Trees"
+book_id: 61
+---
+
+## Publication Information
+
+**Date:** 1664
+
+**Imprint:** London: Martyn and Allestry
+
+## Letters Mentioning This Work
+
+- [Letter 3001](../3001-to-elizabeth-roberts-21.qmd)
+

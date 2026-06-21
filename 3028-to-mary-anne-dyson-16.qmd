@@ -1,0 +1,43 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1854-02-24"
+letter_date: "February 24, 1854."
+location: "Otterbourne,"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>Life</i> 193-194."
+post_id: 3028
+letter_id: "to-mary-anne-dyson-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-24"
+  url: "https://cmyonge.github.io/letters/3028-to-mary-anne-dyson-16"
+---
+
+::: {.letter-metadata}
+**Date:** February 24, 1854.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>Life</i> 193-194.
+:::
+
+My dear [Marianne](people/person_464.qmd)
+I thought often of your saying [papa](people/person_1631.qmd) would be the worst of us, for we have had a terrible night. After the long day at Portsmouth he came home, and about 10 o'clock at night a sort of attack came on that frightened us very much, and we sent for [Mr. Lyford](people/person_911.qmd) who cupped him, which relieved him much, and he has been getting better since, though still with very bad oppression and headache. Mr. Lyford seems to make sure of his being better to-morrow, and I hope [Julian](people/person_1624.qmd) will go off with a cheerful account. He has been able to come home for a few hours to-day, but only to see papa asleep, for the agitation of a talk and renewing of the good-byes is not to be. It seems as if it would have been apoplectic if not taken in time, and just at first when he could not speak or use his limbs it was very frightful, but that soon went off, and to-day he is fully himself, only heavy and sleepy, thinking that he has an unusually bad headache; but since the afternoon he has been reviving, talking more, and telling [mamma](people/person_1606.qmd) and me to go out, so she has had one walk round and I two with Julian, and after all, I hope the last impression will be a hopeful one to carry to Malta, where he can first hear again. Mamma will be able most likely to go to bed to-night; she is now lying on the bed by him. It is the very dread that always haunted me, and has been so like old visions that it seems like a dream, but it is going off, we think we may trust, and the thing will be for him not to overdo himself again. Julian says [Uncle James](people/person_1614.qmd) rather apprehended something of the kind when they were at Plymouth. This seems to have eaten up poor Julian's going away, except for the sorrow for him going at such a time. How good and helpful the men were when we were forced to have them to carry him! It does seem so like a dream, but it has been much thankfulness, after those first words. He remembers nothing of the worst time.
+
+Tell [Bessie](people/person_368.qmd) her brother [Charles](people/person_1748.qmd) has had his mumps to match hers[^1]
+
+Your most affectionate  
+C. M. Y.
+
+---
+
+[^1]: Bessie Collins was one of Mary Anne Dyson's pupils.

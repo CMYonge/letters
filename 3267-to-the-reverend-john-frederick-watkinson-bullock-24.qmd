@@ -1,0 +1,50 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-06-16"
+letter_date: "June 16th 1894"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 1"
+post_id: 3267
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-24"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-06-16"
+  url: "https://cmyonge.github.io/letters/3267-to-the-reverend-john-frederick-watkinson-bullock-24"
+---
+
+::: {.letter-metadata}
+**Date:** June 16th 1894  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 1
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+I do not know Canterbury well enough to attempt it. I have only seen it three times cursorily once on the day of the [Archbishop](people/person_140.qmd)’s installation- the best person to undertake it would be
+
+[Miss Jenner](people/person_762.qmd)[^1]
+Preston Vicarage
+Wingham
+Dover
+
+[Bishop Jenner](people/person_758.qmd)’s daughter who knows the Cathedral well and has a good deal of power of writing
+
+I think I could do Salisbury
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Bishop Jenner had four daughters of whom Amabel Jenner (b.1876/7), who published plays and fiction, seems the most likely to be referred to here.  Bullock had evidently asked CMY to contribute an account of Canterbury Cathedral to his *Daily Lections* project.

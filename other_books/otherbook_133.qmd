@@ -1,0 +1,15 @@
+---
+title: "Sir Robert Ker Porter - Travels in Georgia, Persia, Armenia, ancient Babylonia, &c."
+book_id: 133
+---
+
+## Publication Information
+
+**Date:** 1826
+
+**Imprint:** London: Simpkin and Marshall
+
+## Letters Mentioning This Work
+
+- [Letter 3045](../3045-to-jemima-blackburn-4.qmd)
+

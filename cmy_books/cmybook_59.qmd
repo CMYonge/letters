@@ -1,0 +1,26 @@
+---
+title: "'Cawnpore'"
+book_id: 59
+sort_title: "'Cawnpore'"
+---
+
+## Publication Information
+
+**Date:** 1865
+
+**Genre:** Non-Fiction: criticism
+
+**Publisher:** <i>Macmillan’s Magazine</i> 12 (July 1865) 267-274
+
+**Notes:** This was a review of <i>Cawnpore</i> by George Otto Trevelyan. The author was not named.
+
+## Letters Mentioning This Work
+
+- [Letter 2033](../2033-alexander-macmillan-to-charlotte-mary-yonge-29.qmd)
+- [Letter 2034](../2034-to-alexander-macmillan-44.qmd)
+- [Letter 2035](../2035-alexander-macmillan-to-charlotte-mary-yonge-30.qmd)
+- [Letter 2036](../2036-to-alexander-macmillan-45.qmd)
+- [Letter 2037](../2037-alexander-macmillan-to-charlotte-mary-yonge-31.qmd)
+- [Letter 2040](../2040-alexander-macmillan-to-charlotte-mary-yonge-32.qmd)
+- [Letter 2051](../2051-alexander-macmillan-to-charlotte-mary-yonge-36.qmd)
+

@@ -1,0 +1,13 @@
+---
+title: "Ellen Woleg"
+person_id: 2069
+---
+
+## Biographical Information
+
+presumably wife of [Charles Woleg](person_2068.qmd)?
+
+## Letters Mentioning This Person
+
+- [Letter 2355](../2355-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-11.qmd)
+

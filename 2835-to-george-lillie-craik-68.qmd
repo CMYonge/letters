@@ -1,0 +1,56 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1886-06-23"
+letter_date: "June 23d [1886]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 161-3:"
+post_id: 2835
+letter_id: "to-george-lillie-craik-68"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-06-23"
+  url: "https://cmyonge.github.io/letters/2835-to-george-lillie-craik-68"
+---
+
+::: {.letter-metadata}
+**Date:** June 23d [1886]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 161-3:
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Thank you for the Wilberforce extract.
+
+It occurs to me that if the [Jubilee history](cmy_books/cmybook_189.qmd) were put out without illustrations, and with more of the religious element than would be fit for the [English Illustrated Mag.](organizations/other_68.qmd) but would be liked by my own special world of readers, the publication if cheap, might answer /moderately\\. But you will judge when you have looked at the chapters I sent. They go about half way.
+
+You would rejoice me by republishing [the Herb of the Field](cmy_books/cmybook_17.qmd). I should like to have the old copy to look over, for the only one I have was interleaved and illustrated by [my mother](people/person_1606.qmd), and I could not let it go away.
+
+I do not think there is much wrong in it but perhaps I shall think otherwise when I bring critical eyes to it again.  
+
+There are two other sets of papers which I wrote for Mozley’s [Magazine for the Young](organizations/other_79.qmd), and I should like much to see published separately. ‘[<u>Householders</u>](cmy_books/cmybook_357.qmd), which is on shells and quite as entertaining as well as newer than the Herb of the Field, and [<u>Thoughts on Pictures</u>](cmy_books/cmybook_301.qmd) - being descriptions for the youthful mind of notable works of art, and their stories. I  could add a few more.
+
+I think it would <u>tell</u> more now than when it was written - as it was too much beforehand with the cultivation of art.
+
+[Mr W. Smith](people/person_1344.qmd) has all the back vols of the Mag for the Young, where these are.
+
+If you are looking up my old books there are some I should like to resuscitate, if you can find out what became of [Groombridge](organizations/other_148.qmd)’s books (I believe he failed) He had a series of Magnet stories, for which I wrote four[,] three little plays - [<u>the Mice At Play</u>](cmy_books/cmybook_35.qmd), [the <u>Strayed Falcon](cmy_books/cmybook_41.qmd) and [the Apple of Discord</u>](cmy_books/cmybook_54.qmd) - and a story [<u>The Sea Spleenwort</u>](cmy_books/cmybook_46.qmd), each making a little book, for the plays (historical) are embedded in a story.[^1]  I think I had £5 for the copyright of each, but they have never been reprinted and I should think could easily be bought back if they can be traced.
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: These books exist both separately and bound up as *The Magnet Stories*.

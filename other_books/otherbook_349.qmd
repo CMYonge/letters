@@ -1,0 +1,17 @@
+---
+title: "Elizabeth Missing Sewell - Margaret Percival By the author of Amy Herbert etc.  Edited by the Rev. William Sewell"
+book_id: 349
+---
+
+## Publication Information
+
+**Date:** 1847
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 7691](../7691-to-sir-john-taylor-coleridge.qmd)
+

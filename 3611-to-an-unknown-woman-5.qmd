@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1892-03-11"
+letter_date: "March 11th [1892-1893?]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/25"
+post_id: 3611
+letter_id: "to-an-unknown-woman-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-03-11"
+  url: "https://cmyonge.github.io/letters/3611-to-an-unknown-woman-5"
+---
+
+::: {.letter-metadata}
+**Date:** March 11th [1892-1893?]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/25
+:::
+
+Dear Madam
+If my [coadjutors](people/person_229.qmd) can make room your paper shall go [in](organizations/other_52.qmd) but there is a sad crowd of appeals
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** ‘Coadjutors’ presumably means [A.D. Innes](people/person_744.qmd) and [Christabel Coleridge](people/person_329.qmd), and suggests the letter dates from about 1893.

@@ -1,0 +1,43 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1855-10-31"
+letter_date: "Oct 31st 1855"
+location: "Otterbourne"
+manuscript: "MS Mitchell Library,  State Library of New South Wales. A1 p 7,  Reel CY1592  17-18."
+post_id: 3073
+letter_id: "to-john-william-parker-jr-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-10-31"
+  url: "https://cmyonge.github.io/letters/3073-to-john-william-parker-jr-6"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 31st 1855  
+**From:** Otterbourne  
+**Manuscript:** MS Mitchell Library,  State Library of New South Wales. A1 p 7,  Reel CY1592  17-18.
+:::
+
+My dear [Sir](people/person_1143.qmd)
+I am much obliged by your flattering offer but I do not wish to depart from my rule of never parting with my copyright
+
+My present view is to print 5000 at my own cost, requesting you to publish them on commission.
+
+My own work in the M.S is not fully completed but I hope soon to have it ready
+
+Yours truly
+C M Yonge
+
+I should be obliged if you would send me a copy of [Redclyffe](cmy_books/cmybook_15.qmd) [Heartsease](cmy_books/cmybook_19.qmd) &amp; the [Little Duke](cmy_books/cmybook_20.qmd)

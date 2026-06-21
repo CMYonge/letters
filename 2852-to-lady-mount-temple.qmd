@@ -1,0 +1,44 @@
+---
+title: "To Lady Mount Temple"
+letter_iso_date: "1887-03-10"
+letter_date: "March 10th [1887]"
+location: "Elderfield"
+manuscript: "MS Huntington Library"
+post_id: 2852
+letter_id: "to-lady-mount-temple"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Lady Mount Temple"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-03-10"
+  url: "https://cmyonge.github.io/letters/2852-to-lady-mount-temple"
+---
+
+::: {.letter-metadata}
+**Date:** March 10th [1887]  
+**From:** Elderfield  
+**Manuscript:** MS Huntington Library
+:::
+
+My dear [Lady Mount Temple](people/person_1058.qmd),
+
+I am much obliged for your kind invitation, but I am wanted here on Friday evening, so that I cannot accept it. I had already declined to sleep at Mitchelmarsh on the same account.
+
+I am told that I am to [paper torn]d the Jubilee collection to [Mrs Beach](people/person_2369.qmd), instead of to you as we are in the Northern division. I have not all the cards in yet, but there will be between £4 & 5 -- The poor give most readily
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Georgina, Lady Mount Temple (1821?-1901) lived at Broadlands, near Romsey, until her husband's death in 1888, making it more likely that the letter refers to the Golden Jubilee of 1887 than to the Diamond Jubilee of 1897.

@@ -1,0 +1,41 @@
+---
+title: "Anna Harriet Drury to Charlotte Mary Yonge"
+letter_iso_date: "1891-06-17"
+letter_date: "June 17th. [1891]"
+location: "11 Bexley Terrace Torquay"
+manuscript: "MS UCLA collection 100 box 119/1"
+post_id: 3173
+letter_id: "anna-harriet-drury-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Anna Harriet Drury to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-06-17"
+  url: "https://cmyonge.github.io/letters/3173-anna-harriet-drury-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** June 17th. [1891]  
+**From:** 11 Bexley Terrace Torquay  
+**Manuscript:** MS UCLA collection 100 box 119/1
+:::
+
+My dear Miss Yonge,
+I have ventured to send you a [story](other_books/otherbook_644.qmd) for the Christmas number of the M.P. on the ‘rolling stone.’ I hope it is not too long—as far as I could reckon, it is shorter than one of those in a former number. You must forgive my infringing the editorial rules, and not letting the MS. pass through the publishers [sic] hands first.
+
+Yours very sincerely
+[Anna H. Drury](people/person_445.qmd)
+
+---
+
+**Note:** Black-edged paper. ‘The China Cupboard’ *MP* (1 January 1891) 108,  announced a competition for prize stories to be published in the extra Christmas number, on the subject of ‘A rolling stone gathers no moss’, the deadline for entries being 31 July 1891.

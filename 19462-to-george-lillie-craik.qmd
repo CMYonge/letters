@@ -1,0 +1,47 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1872-04-26"
+letter_date: "[26 April 1872]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library: Add. MSS 61896 182-3"
+post_id: 19462
+letter_id: "to-george-lillie-craik"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-26"
+  url: "https://cmyonge.github.io/letters/19462-to-george-lillie-craik"
+---
+
+::: {.letter-metadata}
+**Date:** [26 April 1872]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library: Add. MSS 61896 182-3
+:::
+
+My dear [Mr Craik](people/person_379.qmd),
+
+I shall be staying at the Palace at Salisbury[^1]  from Monday till Thursday of Easter Week, Could I meet you there and go round the Cathedral with you –Said Cathedral is in a state of restoration from the mischief that [Wyatt](people/person_2424.qmd) did it and so not in present perfection[^2] – I make another visit[^3] afterwards and do not come home till Saturday, so unless I can meet you at Salisbury I am afraid I shall miss you, which I should be very sorry to do –
+
+Sunshiny east(?) which is at least more becoming than snow storms, and the primroses banks are not at all the worse for it
+
+Yours sincerely
+
+CM Yonge
+
+---
+
+[^1]: This was the home of [Bishop Moberly](people/person_1015.qmd) and his family.
+[^2]: James Wyatt had made extensive demediaevalizing restorations to Salisbury Cathedral in 1789-92.
+[^3]: She went on to stay with [Countess Nelson](people/person_2219.qmd) at Landford House, Romsey.

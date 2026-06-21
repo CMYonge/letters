@@ -1,0 +1,15 @@
+---
+title: "Marianne Jacob"
+person_id: 2271
+---
+
+## Biographical Information
+
+(b.1824/5)
+
+sister-in-law of [Edith Jacob](person_749.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 2412](../2412-to-edith-sophia-jacob-20.qmd)
+

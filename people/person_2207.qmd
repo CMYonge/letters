@@ -1,0 +1,18 @@
+---
+title: "Napoleon Bonaparte"
+person_id: 2207
+---
+
+## Biographical Information
+
+(1769-1821)
+
+Emperor of France
+
+## Letters Mentioning This Person
+
+- [Letter 2199](../2199-alexander-macmillan-to-charlotte-mary-yonge-59.qmd)
+- [Letter 2336](../2336-to-frances-awdry-2.qmd)
+- [Letter 2363](../2363-to-alexander-macmillan-113.qmd)
+- [Letter 3438](../3438-to-miss-e-m-walker-4.qmd)
+

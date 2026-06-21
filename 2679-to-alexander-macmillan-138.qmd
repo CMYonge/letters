@@ -1,0 +1,49 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1879-07-09"
+letter_date: "July 9th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 97-98"
+post_id: 2679
+letter_id: "to-alexander-macmillan-138"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-07-09"
+  url: "https://cmyonge.github.io/letters/2679-to-alexander-macmillan-138"
+---
+
+::: {.letter-metadata}
+**Date:** July 9th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 97-98
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Here is the list of materials for [the little Christmas book](cmy_books/cmybook_135.qmd).
+
+The MS, and the clipping come herewith the four others must be sent by rail in the books in which they appeared.[^1] The Autobiography of Patty Applecheeks came out in an American paper, and my copy of it has been lost, but I am sending to Philadelphia to see whether I can recover it. The Wedding cake (a story of a ridiculous mistake) I also sent to America, and was paid for it, but it has never appeared and I am writing to beg that it may. Both these are of the length  of the Phantom
+
+If a little more were needed, I could write one more. There are two stories, one called <u>the Banks of the Leamy</u>, which [Warne](people/person_1433.qmd) bought for a Christmas annual, and [Sea Spleenwort](cmy_books/cmybook_46.qmd), which [Groombridge](organizations/other_148.qmd) had, which it is a pity not to recover and unite with the rest, but I cannot afford  to advance anything to buy back the copy rights.
+
+What an excellent life of [Burns](other_books/otherbook_919.qmd) Principal Sharp’s is.  He has some qualities (Sharp I mean superior to any writer of the day. I am much tempted to write an answer to the Rights of Woman paper, but I don’t know if [Mr Grove](people/person_588.qmd) would accept my view of the question, and defence of the poor mothers and chaperons[^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: She was assembling previously published stories which appeared as *Bye-Words* (1880).
+[^2]: Perhaps Florence W. Habberton, ‘Individual Liberty for Women: A Remonstrance’, *Macmillan's Magazine* 40 (1879), 282-288.  George Grove was the editor of *Macmillan’s*.

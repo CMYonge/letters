@@ -1,0 +1,14 @@
+---
+title: "author_prefix author_first_name author_surname author_suffix - title"
+book_id: general_bookID
+---
+
+## Publication Information
+
+**Date:** date
+
+**Imprint:** imprint
+
+**Notes:** notes
+
+

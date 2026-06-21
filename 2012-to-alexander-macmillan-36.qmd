@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-03-23"
+letter_date: "March 23d 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 69-70"
+post_id: 2012
+letter_id: "to-alexander-macmillan-36"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-03-23"
+  url: "https://cmyonge.github.io/letters/2012-to-alexander-macmillan-36"
+---
+
+::: {.letter-metadata}
+**Date:** March 23d 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 69-70
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+I think I ought to refer to you a request I have had from Dr and Mrs Vaughan[^1] for leave to put two of the stories in [Golden Deeds](cmy_books/cmybook_51.qmd) i.e. 'The last fight in the Colyseum', and the faithful slaves of Haïti into a [An Advanced Reading Book for Girls](other_books/otherbook_392.qmd)book of readings] for National Schools acknowledging where they come from, but I conclude that you have no objection. When there is a reprint, I have another faithful slave to put in who maintained his mistress by hair dressing in New York.
+
+Thank you for the [Clever Woman](cmy_books/cmybook_58.qmd)’s arrival. She looks very well and attractive, but I am prepared for all the critics doubting her reformation
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Probably the Rev. [Charles John Vaughan](people/person_1439.qmd) (1816-1897), vicar of Doncaster and former headmaster of Harrow School, and his wife Catherine Maria (Stanley) Vaughan (1821-1899). Mrs Vaughan edited *An Advanced Reading Book for Girls* (1866).

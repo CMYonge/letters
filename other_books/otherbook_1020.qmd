@@ -1,0 +1,15 @@
+---
+title: "A. Moberly - Lady Valeria: A Novel"
+book_id: 1020
+---
+
+## Publication Information
+
+**Date:** 1886
+
+**Imprint:** London: Bentley
+
+## Letters Mentioning This Work
+
+- [Letter 2844](../2844-to-isabella-margaretta-elizabeth-heathcote.qmd)
+

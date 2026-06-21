@@ -1,0 +1,16 @@
+---
+title: "Thomas Constable & Co."
+other_id: 136
+---
+
+**Type:** organization
+
+## Description
+
+publishers
+
+## Letters Mentioning This
+
+- [Letter 1812](../1812-to-jemima-blackburn-11.qmd)
+- [Letter 3141](../3141-thomas-constable-co-to-charlotte-mary-yonge.qmd)
+

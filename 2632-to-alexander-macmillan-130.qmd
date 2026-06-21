@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1878-05-10"
+letter_date: "May 10th 1878"
+location: "Elderfield,  Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 114-115"
+post_id: 2632
+letter_id: "to-alexander-macmillan-130"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-05-10"
+  url: "https://cmyonge.github.io/letters/2632-to-alexander-macmillan-130"
+---
+
+::: {.letter-metadata}
+**Date:** May 10th 1878  
+**From:** Elderfield,  Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 114-115
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd)
+
+I must send you my warmest thanks for the very noble life which you have sent me, which I am sure must leave a deep impression  on all who read it. I think the letter at p 262 is one that cannot be read without peculiar admiration and reverence - as so entirely the antidote of the spirit of self help.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The book is unidentified.

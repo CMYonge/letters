@@ -1,0 +1,40 @@
+---
+title: "Frances Mary Yonge to Mary Anne Dyson"
+letter_iso_date: "1849-06-14"
+letter_date: "June 14, 1849"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 158-9."
+post_id: 2962
+letter_id: "frances-mary-yonge-to-mary-anne-dyson"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Frances Mary Yonge to Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1849-06-14"
+  url: "https://cmyonge.github.io/letters/2962-frances-mary-yonge-to-mary-anne-dyson"
+---
+
+::: {.letter-metadata}
+**Date:** June 14, 1849  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 158-9.
+:::
+
+My dear [Miss Dyson](people/person_464.qmd)
+If developments interest you, you should begin with Charlotte long before *[Abbey Church](cmy_books/cmybook_2.qmd)*, and trace the dawnings, not only of herself, but of some of the [Beechcroft](cmy_books/cmybook_3.qmd) young ladies in the *[Chateau de Melville](cmy_books/cmybook_1.qmd)*.[^1] Let me send you one if you have not seen it, and if ever you begin to teach your herd to low in French, we can furnish a complete stock.  The French is probably good enough for beginners, and it is at all events free from any breach of the third commandment, a fault that seemed to belong to all French books for children when I knew anything about them.  
+
+I think you are fortunate to have a child left for the holidays; the books you will read ostensibly for her benefit or amusement will be of great use to the mistress.  At least, I think I learnt a great deal more about teaching from children’s books than I did from graver treatises and systems.  Not that I am without a great respect for Mrs. Trimmer’s old *[Guardian of Education](other_books/otherbook_218.qmd)*.
+
+Your dutiful Slave s’Mother - as Charlotte writes the name of her story, [Henrietta s’Wish](cmy_books/cmybook_11.qmd).
+
+---
+
+[^1]: Some characters in *Scenes and Characters, or, Eighteen Months at Beechcroft* (1847) were based on those in *Le Château de Melville*.

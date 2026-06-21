@@ -1,0 +1,45 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1899-10-10"
+letter_date: "Oct 10 [1899]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office Ac 1092/23"
+post_id: 3431
+letter_id: "to-mary-yonge-25"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-10-10"
+  url: "https://cmyonge.github.io/letters/3431-to-mary-yonge-25"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 10 [1899]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office Ac 1092/23
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I have been meaning to write for some days, but they have managed to be full, and now I hope you have good accounts of [Dorothea](people/person_851.qmd) and the [little maid](people/person_2200.qmd), and that [Charlotte](people/person_1587.qmd) has a happy nursing.[^1]
+
+Poor [Alethea](people/person_182.qmd) has quite broken down, with really nothing the matter with her, but she has had no proper rest all this year  First the influenza, then all the children’s measles  then going to the lodging at Holmwood with only the lady nurse who turns out not helpful in illness or with nursery maid away, and coming home with extra work, and the day governess not so good as the former one. So she has quite knocked up, and is to be quite quiet and not be beset with the nursery children, and when [Frances](people/person_1604.qmd)goes home she is to go to Dorking by herself.  One of [Mr Bowles](people/person_184.qmd)’s sisters is coming to take care of him and the house  Helen is here now, at least [Mrs Bateman](people/person_784.qmd)has got her for a day or two, as she can walk over from the Grange as well as from here.  She is at the Vicarage now, and is to take [Cicely](people/person_183.qmd) and [Margaret](people/person_185.qmd) to Winchester to be measured for their winter cloaks.
+
+[Reggie](people/person_189.qmd) and Cicely are quite old children coming up the village and going to church by themselves, so only Joan is quite a nursery child.  We had [Mr Horsley](people/person_2201.qmd) to speak on thrift to the GFS conference, and he enlarged on the waste of money in sweets.  A girl came to him begging for her mother and he found she consumed 7/6 a week of sweets!  Somebody ought to protest against those horrid scraps of paper that are supposed to be confetti or rice at the poor people’s weddings.  Henry has forbidden them in the Church yard, but they were thickly strewn outside and the little girl bridesmaid came to school on Sunday in white shoes -   I trust they will soon get spoilt, but the first thing I heard this morning was ‘The poor dahlias’
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Dorothea (Yonge) Layton (1870-1968), daughter of Charlotte (Pode) Yonge and niece of Mary Yonge, had a baby, Monica, on 30 September 1899.

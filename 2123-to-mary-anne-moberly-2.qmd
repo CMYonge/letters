@@ -1,0 +1,48 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1866-05-18"
+letter_date: "May 1866"
+location: "Wantage"
+manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 184 -5"
+post_id: 2123
+letter_id: "to-mary-anne-moberly-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-05-18"
+  url: "https://cmyonge.github.io/letters/2123-to-mary-anne-moberly-2"
+---
+
+::: {.letter-metadata}
+**Date:** May 1866  
+**From:** Wantage  
+**Manuscript:** MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 184 -5
+:::
+
+My dear [Mrs. Moberly](people/person_1019.qmd),
+Only think of [Mr. Butler](people/person_244.qmd)’s being so kind as to take me to Fairford[^1] yesterday - 18 miles, with his brisk black pony. And there with the beautiful sunshine we saw everything to the greatest advantage. The colouring of the memorable windows is much what the east window of the Cathedral was before it was cleaned and spoilt; the same rich dusky blue and red. But these grand colours were as charily used as the bright tints on a bird’s wing; and the drawing was all in a sort of brown or grey with a ruddy tint, the hair golden with a great richness and depth. The church was built *to* the windows, a great solemn deep-chancelled church with three aisles going very far east, and the general arrangement of the glass is certainly that of Hursley. Restoration has murdered two small bits, and all England should lift up its voice to save the rest.
+
+We had an old clerk to take us about, who had been in the Keble service as a boy and used to draw [Miss Keble](people/person_796.qmd)[^2] about the garden. They tolled the bell for three hours on the day of the funeral. Then we made him show us the house, which is now lived in by the doctor. It is of that grey or brown stone so common here. The garden door opened on to a little bit of lawn with a cedar tree and a seat under it. Just beyond is a narrow, long field with a path round it like ours, only smaller - and grand elms with rooks’ nests in them; snowdrops, periwinkles, and stars of Bethlehem growing in the grass.
+
+We are enjoying our outing greatly, and are both much the more brilliant for it. On Tuesday we go to the Miss Pattesons.[^3]
+
+I am sure no one could see church or house at Fairford without seeing how the calm and mystery must have influenced the whole nature.
+
+We had a shake of the hand of [Robert](people/person_1021.qmd) in Oxford, in boating costume, and looking ready for a pantomime . . .
+
+---
+
+[^1]: [John Keble](people/person_798.qmd) had been brought up at Fairford.
+[^2]: Elizabeth Keble (d.1860), Keble’s invalid sister.
+[^3]: [Joan](people/person_1154.qmd) and [Fanny Patteson](people/person_1151.qmd) lived at Weston Villa, Marychurch, Torquay.

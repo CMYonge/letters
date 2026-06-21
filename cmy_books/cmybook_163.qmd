@@ -1,0 +1,23 @@
+---
+title: "Langley Adventures. By Charlotte M. Yonge, author of “Langley School”"
+book_id: 163
+sort_title: "Langley Adventures"
+---
+
+## Publication Information
+
+**Date:** 1883
+
+**Genre:** Fiction:
+
+**Publisher:** Walter Smith (late Mozley), 34, King Street, Covent Garden, London.
+
+**Notes:** Contains: ‘A Patchwork fever’; ‘Widow Wilder’s Windfall’; ‘Burrs’; ‘Left Out’; and ‘Horse Sausage’.
+
+## Letters Mentioning This Work
+
+- [Letter 2779](../2779-to-the-reverend-charles-moor-2.qmd)
+- [Letter 2780](../2780-to-the-reverend-charles-moor.qmd)
+- [Letter 2783](../2783-to-christabel-rose-coleridge-110.qmd)
+- [Letter 3206](../3206-to-arthur-donald-innes.qmd)
+

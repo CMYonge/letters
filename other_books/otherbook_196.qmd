@@ -1,0 +1,15 @@
+---
+title: "Charles Dickens - The Posthumous Papers of the Pickwick Club"
+book_id: 196
+---
+
+## Publication Information
+
+**Date:** 1837
+
+**Imprint:** London: Chapman and Hall
+
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

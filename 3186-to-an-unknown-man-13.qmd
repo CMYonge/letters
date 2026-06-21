@@ -1,0 +1,52 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1892-01-02"
+letter_date: "Jan 2d 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University Parrish Collection"
+post_id: 3186
+letter_id: "to-an-unknown-man-13"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-01-02"
+  url: "https://cmyonge.github.io/letters/3186-to-an-unknown-man-13"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 2d 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University Parrish Collection
+:::
+
+Sir
+I think the books I most enjoyed in early childhood were Miss Edgeworth’s series of [Early Lessons](other_books/otherbook_652.qmd), Frank, Rosamond and Harry and Lucy.
+
+Mrs Whately’s [Fairfax family](other_books/otherbook_653.qmd)
+[Anna Ross](other_books/otherbook_654.qmd) -
+Miss Strickland’s [Rival Crusoes](other_books/otherbook_655.qmd)
+
+Also very early 
+Scott’s Poems<sup>1</sup> 
+[Tales of A Grandfather](other_books/otherbook_656.qmd)
+[The Talisman](other_books/otherbook_661.qmd)
+[Ivanhoe](other_books/otherbook_657.qmd)
+[Robinson Crusoe](other_books/otherbook_658.qmd)
+Lamb’s [Mrs Leicesters School](other_books/otherbook_660.qmd)
+[Tales from Shakespeare](other_books/otherbook_659.qmd)
+
+This is all I can recollect of really standard books, which I read when very young
+
+Yours truly
+C M Yonge

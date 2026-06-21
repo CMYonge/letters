@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1873-09-10"
+letter_date: "Sept 10th 1873"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS National Library of Wales 11,981E"
+post_id: 2481
+letter_id: "to-an-unknown-woman-38"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-09-10"
+  url: "https://cmyonge.github.io/letters/2481-to-an-unknown-woman-38"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 10th 1873  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS National Library of Wales 11,981E
+:::
+
+Dear Madam
+I am much obliged for your enclosure which is valuable and interesting, and shews how it was that only a year later [Mr Keble](people/person_798.qmd)was able to gain the scholarship at Corpus
+
+with many thanks
+yours very truly
+C M Yonge

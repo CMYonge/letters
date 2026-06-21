@@ -1,0 +1,39 @@
+---
+title: "To Lady Brandreth"
+letter_iso_date: "1900-01-16"
+letter_date: "Jan 16 1900"
+location: "Elderfield Otterbourne"
+manuscript: "MS Girton College Cambridge, Yonge XIV 3"
+post_id: 3439
+letter_id: "to-lady-brandreth"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Lady Brandreth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-01-16"
+  url: "https://cmyonge.github.io/letters/3439-to-lady-brandreth"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 16 1900  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Girton College Cambridge, Yonge XIV 3
+:::
+
+Dear [Lady Brandreth](people/person_208.qmd),
+I hope in time to accomplish meeting you and conferring about the [G F S](organizations/other_23.qmd) affairs!
+
+I have never had the specimen packet, not having been the Branch associate for Literature. I think [Miss Stanford](people/person_2209.qmd) has it for Winchester Country and [Miss Carey](people/person_2210.qmd) for the City
+
+Yours sincerely 
+C.M. Yonge

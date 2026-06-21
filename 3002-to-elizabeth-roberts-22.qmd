@@ -1,0 +1,49 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-10-19"
+letter_date: "Oct 19th [1852]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 3002
+letter_id: "to-elizabeth-roberts-22"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-10-19"
+  url: "https://cmyonge.github.io/letters/3002-to-elizabeth-roberts-22"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 19th [1852]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+My dear [Madam](people/person_1243.qmd)
+The same post that brought your pleasant note, brought this enclosure from [Mr Mozley](people/person_1065.qmd), of a note from [Mr Neale](people/person_1078.qmd) of [Sackville College](organizations/other_11.qmd). I am quite glad you have not seen the [Xtian Remembrancer](organizations/other_59.qmd) as it gives me the pleasure of copying out for you the passage he alludes to
+
+‘The Church names of flowers are most ably given in the series of papers which stands at the head of this article. We know not where we have read a series comprising so much of ecclesiastical research with such a sense of the picturesque and so much love for the English landscape in fact, every way, so perfectly delightful. We recommend it very strongly to our readers and we trust that the labours of the Author (or perhaps Authoress) will be extended to other parts of nature when the present set shall conclude with the year. Birds and insects would afford a larger scope. To give an instance from the latter the Lady bird or Lady cour (of course called from Our lady) is in Spanish the Jaquilla de Dios, in German, the May Lady, the French the Bête à bon Dieu, in Russ, Boja Korooka, God’s Cow.’
+
+I did not give your name but told Mr Mozley I would reply as you might desire.
+
+I am indeed sorry to part with the Garland, and should be more so, if I had not Margaret to look forward to. I believe a conversation is the best way of treating matter where it is doubtful how much to say, as in the case of the Black Letter Saints. Do you know the [Lyra Sanctorum](other_books/otherbook_53.qmd)? Some of the poems there are beautiful though they are by no means equal.
+
+I am sorry I did not see the tombstone you mention, it must indeed cover a mystery of woe.[^1] I must look out Wordsworth’s sonnet, but not before this letter goes, as I am writing in haste, for the afternoon is to be spent in an expedition to see [Mr Keble](people/person_798.qmd) for the first time since his return, entirely recovered, I am glad to say,
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: In response to CMY’s statement that she had visited Worcester Cathedral, Roberts had evidently asked whether she had seen the tombstone inscribed only ‘Miserrimus’, the subject of Wordsworth’s sonnet ‘A Gravestone upon the Floor in the Cloisters of Worcester Cathedral’.

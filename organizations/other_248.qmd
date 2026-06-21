@@ -1,0 +1,18 @@
+---
+title: "Harper & Bros"
+other_id: 248
+---
+
+**Type:** organization
+
+## Description
+
+American publishers, founded in New York in 1817.  It is now (2011) part of HarperCollins, a division of News Corporation.  Its website is http://www.harpercollins.com/
+
+## Letters Mentioning This
+
+- [Letter 2655](../2655-to-harper-bros-2.qmd)
+- [Letter 2714](../2714-to-harper-bros-3.qmd)
+- [Letter 2772](../2772-to-harper-bros-4.qmd)
+- [Letter 2849](../2849-to-harper-bros.qmd)
+

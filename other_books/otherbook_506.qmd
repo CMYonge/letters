@@ -1,0 +1,15 @@
+---
+title: "Mrs Donkin - 'The Naval Review' By a Sailor's Daughter"
+book_id: 506
+---
+
+## Publication Information
+
+**Imprint:** <i>MP</i> (September 1867) 309-11
+
+**Notes:** Attributed to Mrs Donkin on the authority of CMY's letter to her.
+
+## Letters Mentioning This Work
+
+- [Letter 2205](../2205-to-mrs-donkin.qmd)
+

@@ -1,0 +1,41 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-04-25"
+letter_date: "April 25th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 75-76"
+post_id: 2019
+letter_id: "to-alexander-macmillan-39"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-04-25"
+  url: "https://cmyonge.github.io/letters/2019-to-alexander-macmillan-39"
+---
+
+::: {.letter-metadata}
+**Date:** April 25th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 75-76
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+Thanks, I should prefer having the [monthly sum](organizations/other_160.qmd) in cheques here, but the £200 to be paid to [Messrs Hoare](organizations/other_169.qmd). I hope the proofs are coming though it is rather late if the <u>[Dove](cmy_books/cmybook_62.qmd)</u> is to come out this [month](organizations/other_78.qmd). I am afraid there are some anachronisms in it, and I did not give it the looking over that I should have done if I had thought of not seeing it again.
+
+Here are these two chapters of [Bethlehem](organizations/other_177.qmd), I would have sent Abraham, but I could not get him finished today. His chapter will be more descriptive. 
+
+I think I must do the preparation through the Israelites <u>first</u> before that of the heathen world, because in point of time Israelite history comes before Gentile history. I thought of trying to give a highly drawn out picture of each stage of Jewish prophecy - the next after Abraham to be the death bed of Jacob.
+
+Yours sincerely
+C M Yonge

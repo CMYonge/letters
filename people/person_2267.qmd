@@ -1,0 +1,15 @@
+---
+title: "Otto Eduard Leopold von Bismarck"
+person_id: 2267
+---
+
+## Biographical Information
+
+1815-1898
+
+German statesman
+
+## Letters Mentioning This Person
+
+- [Letter 2390](../2390-to-the-reverend-william-john-butler.qmd)
+

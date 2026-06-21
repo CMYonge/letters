@@ -1,0 +1,40 @@
+---
+title: "To Isabel Mary Warburton"
+letter_iso_date: "1875-04-27"
+letter_date: "April 27th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Girton College Cambridge, Yonge VIII 5"
+post_id: 2530
+letter_id: "to-isabel-mary-warburton"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabel Mary Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-04-27"
+  url: "https://cmyonge.github.io/letters/2530-to-isabel-mary-warburton"
+---
+
+::: {.letter-metadata}
+**Date:** April 27th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Girton College Cambridge, Yonge VIII 5
+:::
+
+My dear [Mrs Warburton](people/person_1465.qmd) 
+
+The Botleigh butter is engaged to Southsea, but at Cranbury whence I have it, they make a great deal on Mondays and Thursdays, and send it to Hailes.<sup>1</sup> If you like, and will let me know how much a week you want, I will see whether the bailiffs wife can send it direct to you; but it is always liable to fail if there is a large party in the house.
+
+I have read [Edward III](other_books/otherbook_860.qmd), and think it excellently told, especially the battle of Poitiers. But is there not a little slip in making the name of that baby King, son of Louis Hutin Louis. Surely it was John, for some histories number King John as John II, because of him and I think if he had been Louis, Louis XI would have been Louis XII. And why is Du Guesclin said to be a peasant   I know [his delicious memoirs](other_books/otherbook_861.qmd) are no great authority, but they would hardly make him of a knightly family if he was not, and there his father has a castle and fights in a tournament
+
+Yours very sincerely
+C M Yonge

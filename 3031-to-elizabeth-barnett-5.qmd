@@ -1,0 +1,40 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1854-02-18"
+letter_date: "[February 1854]"
+location: "[Otterbourne]"
+manuscript: "MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 76"
+post_id: 3031
+letter_id: "to-elizabeth-barnett-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-18"
+  url: "https://cmyonge.github.io/letters/3031-to-elizabeth-barnett-5"
+---
+
+::: {.letter-metadata}
+**Date:** [February 1854]  
+**From:** [Otterbourne]  
+**Manuscript:** MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 76
+:::
+
+Dear, good [old slave](people/person_113.qmd),
+How nice and kind and understanding your letter was, and how thankful one should be for such friends! ...
+
+The worst will be over when we hear from [Julian](people/person_1624.qmd), poor boy! Till then it seems like bearing the first stroke. But I am sure it fell mercifully as far as we were concerned, and the flow of feelings that meet us from all is very gratifying.
+
+I believe [my uncle](people/person_1614.qmd), always living in his own town far off, had no notion of the estimation in which his brother was held.
+
+. . . I know I shall miss [him](people/person_1631.qmd) more when he has been away longer.

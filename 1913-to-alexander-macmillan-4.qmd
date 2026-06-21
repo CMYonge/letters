@@ -1,0 +1,51 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1863-11-05"
+letter_date: "Novr 5th [1863]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920"
+post_id: 1913
+letter_id: "to-alexander-macmillan-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-05"
+  url: "https://cmyonge.github.io/letters/1913-to-alexander-macmillan-4"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 5th [1863]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920
+:::
+
+[Sir](people/person_939.qmd),
+
+I am sorry you had so much trouble about the <u>[Trial](cmy_books/cmybook_53.qmd)</u>. I was only waiting to send it to you till I heard whether you thought it worth while to look at it so long before hand. I now send it by this post. There are six more chapters not yet in type of about the length of these, but I hope that the last of them will appear on the 1st of March or April, and I should imagine that the whole had better appear as soon as possible afterwards.
+
+I have arranged that the [Clever Woman of the Family](cmy_books/cmybook_58.qmd)should first come out in the [Churchman’s Family magazine](organizations/other_63.qmd), to be completed there by December 1864,[^1] but I retain the copy right, and shall hope to bring out the book together in December, having stipulated with [Messrs Hogg](organizations/other_159.qmd)[^2] that the choice of a publisher for it shall then be in my hands.
+
+I have not yet had an answer from [Messrs Longman](organizations/other_153.qmd) with regard to my other works
+
+Your obt servt 
+
+C.M. Yonge
+
+A Macmillan Esq
+
+---
+
+[^1]: Black-edged paper.
+[^2]: It appeared there from Jan 1864 to May 1865. Macmillan published it in 1865.
+[^3]: Publishers of the *Churchman’s Family Magazine* from Jan. 1863 to April 1873.

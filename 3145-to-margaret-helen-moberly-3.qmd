@@ -1,0 +1,43 @@
+---
+title: "To Margaret Helen Moberly"
+letter_iso_date: "1859-12-24"
+letter_date: "[24 December ?1859]"
+manuscript: "MS location unknown.  Photocopies lent by Barbara Dennis: Maggie/2"
+post_id: 3145
+letter_id: "to-margaret-helen-moberly-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Helen Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-12-24"
+  url: "https://cmyonge.github.io/letters/3145-to-margaret-helen-moberly-3"
+---
+
+::: {.letter-metadata}
+**Date:** [24 December ?1859]  
+**Manuscript:** MS location unknown.  Photocopies lent by Barbara Dennis: Maggie/2
+:::
+
+My dear [Maggie](people/person_83.qmd)
+I hope you will have a happy Christmas  I daresay you have been singing already at [Mamma’](people/person_1019.qmd)s doors with all the rest and I think you can begin to keep it as a very happy day.
+
+I send you a green book with some very pretty pictures of [Tom Thumb](cmy_books/cmybook_21.qmd).  I think you will like to see him driving his six little white mice and by and by you will be able to read his story.
+
+I wonder when you will write a letter to me.
+
+your affectionate godmother
+Charlotte M. Yonge
+
+---
+
+**Note:** With envelope addressed to Miss Margaret Moberly.  No address on letter. Dated on the assumption that it relates to the letter (28 November ?1859) from Constable & Co, and that the edition of 1859 is there referred to.

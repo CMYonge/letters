@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1892-03-08"
+letter_date: "March 8th 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Charlotte Mitchell/21"
+post_id: 3193
+letter_id: "to-an-unknown-woman-24"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-03-08"
+  url: "https://cmyonge.github.io/letters/3193-to-an-unknown-woman-24"
+---
+
+::: {.letter-metadata}
+**Date:** March 8th 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Charlotte Mitchell/21
+:::
+
+Dear Madam
+I am much obliged for your paper, which I think excellent but I fear it is impossible to insert it before July[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: If the article was indeed inserted in the July 1892 issue of *MP* it must have been one of two contributions to the series 'Work and Workers. By the Actual Workers', either 'Women as Librarians' by L.M.H.C, one of the librarians of the People's Palace, or 'Elementary School Teaching', signed C. H..

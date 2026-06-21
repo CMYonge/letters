@@ -1,0 +1,20 @@
+---
+title: "Jean Ingelow"
+person_id: 741
+---
+
+## Biographical Information
+
+(1820-1897)
+
+poet, contributor to <i>MP</i> (1860-1)
+
+## Letters Mentioning This Person
+
+- [Letter 2105](../2105-to-jean-ingelow-2.qmd)
+- [Letter 2106](../2106-to-elizabeth-missing-sewell-6.qmd)
+- [Letter 2321](../2321-to-jean-ingelow-3.qmd)
+- [Letter 2797](../2797-to-christabel-rose-coleridge-111.qmd)
+- [Letter 2881](../2881-to-jean-ingelow.qmd)
+- [Letter 3449](../3449-to-mary-yonge-29.qmd)
+

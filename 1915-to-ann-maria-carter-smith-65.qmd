@@ -1,0 +1,43 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1863-11-12"
+letter_date: "Novr 12th [1863]"
+location: "Elderfield Otterbourn"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1863/8"
+post_id: 1915
+letter_id: "to-ann-maria-carter-smith-65"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-12"
+  url: "https://cmyonge.github.io/letters/1915-to-ann-maria-carter-smith-65"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 12th [1863]  
+**From:** Elderfield Otterbourn  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/8
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I hope you will forgive me for leaving out a few bits of the [Thorne](other_books/otherbook_275.qmd) in order to squeeze the rest into this year. I enclose what was omitted in case you wish to restore it to the book as a whole though I think the present opinion is that the story wants abridging. I have put what is for the [M P](organizations/other_52.qmd) in one parcel, what is returned to you in another
+
+yours sincerely
+
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to Miss Smith/ 8 Wellington Buildings/ Old Charlton/ SE and postmarked Winchester 13 November 1863 and London SE 14 November 1863.

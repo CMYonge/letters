@@ -1,0 +1,39 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1859-10-11"
+letter_date: "Oct 11th 1859"
+location: "Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29."
+post_id: 3137
+letter_id: "to-an-unknown-man-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-10-11"
+  url: "https://cmyonge.github.io/letters/3137-to-an-unknown-man-4"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 11th 1859  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29.
+:::
+
+Sir,
+I have much pleasure in acknowledging the safe arrival of your thank offering for the [Hospital for Sick Children](organizations/other_3.qmd) in Great Ormond Street. I am this morning forwarding it to the Assistant Secretary [Mr S Whitford](people/person_1811.qmd), 4, Porter Street Leicester Square. I am sure from the particulars I learn from ladies constantly in the habit of visiting there that it is a most valuable and well conducted charity; and that your donation will be well bestowed.
+
+With thanks for giving me so pleasant a commission, as well as for letting me know the cause
+
+Yours faithfully
+C.M. Yonge

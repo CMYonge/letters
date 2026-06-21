@@ -1,0 +1,15 @@
+---
+title: "Ethel Romanes - The Life and Letters of George Romanes edited by his wife"
+book_id: 714
+---
+
+## Publication Information
+
+**Date:** 1896
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3325](../3325-to-ethel-romanes.qmd)
+

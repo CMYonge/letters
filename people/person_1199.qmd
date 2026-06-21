@@ -1,0 +1,13 @@
+---
+title: "Thomas Powell"
+person_id: 1199
+---
+
+## Biographical Information
+
+inhabitant of Otterbourne in 1838
+
+## Letters Mentioning This Person
+
+- [Letter 2936](../2936-to-anne-yonge-4.qmd)
+

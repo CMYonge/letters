@@ -1,0 +1,15 @@
+---
+title: "Perry Mason & Co."
+other_id: 249
+---
+
+**Type:** organization
+
+## Description
+
+American publisher, based in Boston.
+
+## Letters Mentioning This
+
+- [Letter 2682](../2682-to-alexander-macmillan-141.qmd)
+

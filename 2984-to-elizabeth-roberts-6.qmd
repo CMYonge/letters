@@ -1,0 +1,56 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1851-12-15"
+letter_date: "Decr 15th [1851]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 2984
+letter_id: "to-elizabeth-roberts-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1851-12-15"
+  url: "https://cmyonge.github.io/letters/2984-to-elizabeth-roberts-6"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 15th [1851]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+Dear [Madam](people/person_1243.qmd)
+I send you the proof of the [Garland](other_books/otherbook_225.qmd), which you had better return direct to 
+
+Messrs [Mozley](organizations/other_108.qmd)
+Friar Gate
+Derby
+
+His printers are apt to make great havoc with botanical names, and then put puzzled queries in the margin which amuse me very much. I could not find St Gundula in [Alban Butler](other_books/otherbook_27.qmd), and so must leave that correction to you. You will see that I have made one or two little alterations. I did not like to call the 3d century a time of superstitious observance, and there are some stories of Clothilde in [Thierry](other_books/otherbook_168.qmd) which make me doubtful if the epithet gentle quite applies to her.  I have also put your description of St Genevieve’s shrine into the past, as I am afraid her Church has been turned into the Pantheon, and indeed as I found myself the other day it is not at all safe to speak decidedly of the <u>present</u> state of any church in unfortunate France. Perhaps you yourself would change one of two expressions which occur too near each other, where St Genevieve is called a true woman, & Veronica a true womanly image -- I think the first might be altered with advantage.
+
+Will you allow me to submit to you one other alteration, namely in the verses where you say
+
+‘On your holy anthem voicing’
+
+I am not sure that voicing is a real word, and if it could be altered to some such word as ‘pealing’ or perhaps to ‘voices,’ I think it might be better, but this I say with great diffidence, only as a suggestion. I am so far like Alexander in the [Story of a Family](other_books/otherbook_148.qmd)[^1] that I like to be able to parse the sentences I meet with.
+
+I think the printers would be glad to have the proofs as quickly as you can forward them, as Sunday & two day posts have delayed them.
+
+Believe me
+Yours sincerely 
+C M Yonge
+
+---
+
+[^1]: S. M. [*i.e*. Menella Bute Smedley] *The Story of a Family* (London Hoby 1851), reviewed in *MP* 2 (November 1851) 404;  apparently a single copy survives in Cornell University Library.

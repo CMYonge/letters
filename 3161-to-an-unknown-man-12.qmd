@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1890-06-14"
+letter_date: "June 14th 1890"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3161
+letter_id: "to-an-unknown-man-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-06-14"
+  url: "https://cmyonge.github.io/letters/3161-to-an-unknown-man-12"
+---
+
+::: {.letter-metadata}
+**Date:** June 14th 1890  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Sir,
+I was born on the 11th of August 1823, in this village, and have lived here all my life being wholly educated by my parents at home.
+
+My [father](people/person_1631.qmd) belonged to an old Devonshire family, and was an officer in the 52d regiment.
+
+I have written and published ever since about 1849 or 1850
+
+Yours truly
+C M Yonge

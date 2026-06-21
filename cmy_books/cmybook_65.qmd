@@ -1,0 +1,20 @@
+---
+title: "Folk Lore and Old Stories (Author not named)"
+book_id: 65
+sort_title: "Folk Lore and Old Stories (Author not named)"
+---
+
+## Publication Information
+
+**Date:** 1867
+
+**Genre:** Non-fiction: history
+
+**Publisher:** Not reprinted in volume form
+
+## Letters Mentioning This Work
+
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+- [Letter 2586](../2586-to-george-lillie-craik-27.qmd)
+- [Letter 2588](../2588-to-george-lillie-craik-28.qmd)
+

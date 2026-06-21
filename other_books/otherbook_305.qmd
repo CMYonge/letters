@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott Bt. - Minstrelsy of the Scottish Border: Consisting of Historical and Romantic Ballads, collected in the Southern Counties of Scotland; with a Few of Modern Date"
+book_id: 305
+---
+
+## Publication Information
+
+**Date:** 1802-1803
+
+**Imprint:** Kelso: Ballantyne
+
+## Letters Mentioning This Work
+
+- [Letter 1828](../1828-to-susanna-warren-4.qmd)
+

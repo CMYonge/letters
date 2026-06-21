@@ -1,0 +1,16 @@
+---
+title: "Frances Mary Peard - The Rose Garden"
+book_id: 881
+---
+
+## Publication Information
+
+**Date:** 1872
+
+**Imprint:** London: Smith, Elder
+
+## Letters Mentioning This Work
+
+- [Letter 2574](../2574-to-hezekiah-butterworth.qmd)
+- [Letter 2765](../2765-to-george-lillie-craik-56.qmd)
+

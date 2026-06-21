@@ -1,0 +1,15 @@
+---
+title: "The Rev. John Keble - Review of Lockhart's Life of Scott"
+book_id: 445
+---
+
+## Publication Information
+
+**Date:** 1838
+
+**Imprint:** <i>British Critic</i> (October 1838) 423-83
+
+## Letters Mentioning This Work
+
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+

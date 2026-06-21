@@ -1,0 +1,9 @@
+---
+title: "Miss Barlow"
+person_id: 2079
+---
+
+## Letters Mentioning This Person
+
+- [Letter 3580](../3580-to-miss-barlow.qmd)
+

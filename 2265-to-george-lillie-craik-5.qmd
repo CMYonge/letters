@@ -1,0 +1,39 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1868-09-05"
+letter_date: "Sept 5th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 208-9"
+post_id: 2265
+letter_id: "to-george-lillie-craik-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-09-05"
+  url: "https://cmyonge.github.io/letters/2265-to-george-lillie-craik-5"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 5th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 208-9
+:::
+
+My dear [Mr Craik](people/person_379.qmd),
+I am dismayed at what I never found out till the [Saturday Review](organizations/other_99.qmd) called my attention to it - ie that the [Cameo](cmy_books/cmybook_73.qmd) about the conquest of Wales was left out.
+
+Such a Cameo there was written, it is at Vol IV p. 6 of the [Monthly Packet](organizations/other_52.qmd), but it must have been neglected when I was collecting the Cameos and the printing was done so very slowly that I lost the connection, and so did not miss it. I am very sorry for it, but it must go in whenever there is a new edition - or would it be possible to add it as a kind of appendix to the copies not yet bound. I suppose it would make about 8pp. The name is the Last & first Princes of Wales
+
+Yours sincerely
+C M Yonge

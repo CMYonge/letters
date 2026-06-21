@@ -1,0 +1,46 @@
+---
+title: "Charles Wooldridge to Charlotte Mary Yonge"
+letter_iso_date: "1896-01-22"
+letter_date: "Jan 22 1896"
+manuscript: "Copy outletter book, Hampshire Record Office 70M92W/60/214"
+post_id: 3306
+letter_id: "charles-wooldridge-to-charlotte-mary-yonge-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Charles Wooldridge to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-01-22"
+  url: "https://cmyonge.github.io/letters/3306-charles-wooldridge-to-charlotte-mary-yonge-10"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 22 1896  
+**Manuscript:** Copy outletter book, Hampshire Record Office 70M92W/60/214
+:::
+
+Dear Madam
+
+The insurances existing are as follow
+
+£360 in premises occupied by Hicks.
+£1700 on Rising Sun & various cottages
+£300 on House occupied by Mimksn [?]
+
+I do not appear to have any insurances on your <u>own</u> House or the contents  Shall I get you a Policy for it & contents or only for £200 on Contents
+
+I am yours faithy
+[Chas Wooldridge](people/person_2094.qmd)
+
+Miss Yonge
+
+£200 seems to me rather a small sum

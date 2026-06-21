@@ -1,0 +1,15 @@
+---
+title: "William Whewell"
+person_id: 1818
+---
+
+## Biographical Information
+
+(1794-1866)
+
+professor of moral philosophy at Cambridge, 1838-1855, and Master of Trinity College 1841-1866.
+
+## Letters Mentioning This Person
+
+- [Letter 1779](../1779-to-ann-maria-carter-smith-28.qmd)
+

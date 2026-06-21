@@ -1,0 +1,34 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1864-09-13"
+letter_date: "Sept. 13 1864"
+manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 327"
+post_id: 1975
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-13"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-09-13"
+  url: "https://cmyonge.github.io/letters/1975-alexander-macmillan-to-charlotte-mary-yonge-13"
+---
+
+::: {.letter-metadata}
+**Date:** Sept. 13 1864  
+**Manuscript:** Copy outletter book British Library Add MSS. 55383 (1): P. 327
+:::
+
+Dear Miss Yonge	
+We shall be very glad indeed to see the [Deeds](cmy_books/cmybook_51.qmd) become words in print.[I](people/person_939.qmd) meant to have no [illustrations](organizations/other_167.qmd) except the vignette which I have had in my other Golden Treasury books. This has been 'exercising' me a good deal of late. I cannot hit on either the sort of subject or the man to do it. I would be most grateful to you for a hint. I am inclined to send the first few sheets to Mr [Holman Hunt](people/person_1912.qmd) & say 'Do what you can'. He works slowly and with difficulty & is not always willing to undertake these things, but if he would it would be pleasant to have anything from him. If he does not do it we might get [Millais](people/person_1911.qmd) [*illegible*] things & rapidly enough always with great ability of course but I would not be so clear as to their  - what shall I say . <u>Golden-ness</u> is [*illegible*]
+
+[*The rest of this letter is illegible*]

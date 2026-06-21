@@ -1,0 +1,47 @@
+---
+title: "From the Reverend John Keble to Frances Mary Yonge and Charlotte Mary Yonge"
+letter_iso_date: "1860-08-08"
+letter_date: "8th Aug. 1860."
+location: "H. V.,"
+manuscript: "MS location unknown. Printed in <i>[Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i>, xlvii."
+post_id: 1801
+letter_id: "from-the-reverend-john-keble-to-frances-mary-yonge-and-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "From the Reverend John Keble to Frances Mary Yonge and Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-08-08"
+  url: "https://cmyonge.github.io/letters/1801-from-the-reverend-john-keble-to-frances-mary-yonge-and-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 8th Aug. 1860.  
+**From:** H. V.,  
+**Manuscript:** MS location unknown. Printed in <i>[Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i>, xlvii.
+:::
+
+[To [FMY](people/person_1606.qmd) and CMY]
+
+My dear Friends,
+
+Forgive us for not having remembered to write to you yesterday. Our dear [Sister](people/person_796.qmd)[^1] departed like a babe from its mother’s arms with hardly a shudder, seemingly in the midst of a sweet sleep which had lasted a great many hours. God be thanked for her, and may He pour His rich blessings on you and all who love her.
+
+It was at 9.30 yesterday morning; [my wife](people/person_795.qmd) was poorly, but both she and [my brothers wife](people/person_797.qmd) seem comfortably rested to-day.
+
+In haste and love, yours always
+
+[J. K.](people/person_798.qmd)
+
+---
+
+[^1]: Keble’s eldest sister, Elizabeth Keble (1789/90-7 August 1860).

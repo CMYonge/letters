@@ -1,0 +1,15 @@
+---
+title: "Charles Dickens - The Life and Adventures of Martin Chuzzlewit"
+book_id: 1077
+---
+
+## Publication Information
+
+**Date:** 1843-1844
+
+**Imprint:** London: Chapman and Hall
+
+## Letters Mentioning This Work
+
+- [Letter 2906](../2906-to-an-unknown-man-21.qmd)
+

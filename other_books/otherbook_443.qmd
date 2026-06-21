@@ -1,0 +1,15 @@
+---
+title: "The Rev. George Crabbe - The Poetical Works of the Rev. George Crabbe, with his Letters and Journals, and his Life ed. his son"
+book_id: 443
+---
+
+## Publication Information
+
+**Date:** 1834
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+

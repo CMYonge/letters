@@ -1,0 +1,45 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1877-09-25"
+letter_date: "Sept 25th [1877]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 33"
+post_id: 2599
+letter_id: "to-george-lillie-craik-30"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-09-25"
+  url: "https://cmyonge.github.io/letters/2599-to-george-lillie-craik-30"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 25th [1877]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 33
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I am sure I ought to be satisfied, considering too the [sum for the copyrights](organizations/other_160.qmd) in March, but just one question. Have I ever been paid for [the last volume of Cameos](cmy_books/cmybook_124.qmd), I do not think I have, as it came out just after last years settlement  I have always had £100 for each volume.
+
+I am afraid I have been very stupid about both French histories and I am still waiting for [Mr Freeman](people/person_523.qmd)’s decision.[^1] I have never found that sheet of the Primer, which I thought I had put away.
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY was writing two books for Macmillan entitled *History of France*.  One was to appear in the 'Historical Primers' series edited by J. R. Green.  The other, in the 'Historical Course for Schools' series, was being ruthlessly criticised by the series editor, E. A. Freeman, which was holding up its appearance.

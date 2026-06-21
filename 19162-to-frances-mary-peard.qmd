@@ -1,0 +1,45 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1862-09-03"
+letter_date: "Sept 3rd [1862]"
+location: "[Tyntesfield](organizations/other_207.qmd)"
+manuscript: "MS Charlotte Mitchell/28"
+post_id: 19162
+letter_id: "to-frances-mary-peard"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-09-03"
+  url: "https://cmyonge.github.io/letters/19162-to-frances-mary-peard"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 3rd [1862]  
+**From:** [Tyntesfield](organizations/other_207.qmd)  
+**Manuscript:** MS Charlotte Mitchell/28
+:::
+
+My dear [Miss Peard](people/person_1160.qmd)
+I am afraid the meeting will misfire, as we are now not to go to Teignmouth till the 5th. It is a great pity that it is not to be tomorrow though I own I should be sorry to end our visit here sooner.  We shall be at Delamere a house at Bishops Teignton which is lent to the Miss Pattesons, we arrive there on Friday afternoon, and go on Monday on to [Puslinch](organizations/other_123.qmd), Yealmton.[^1]  I should be very glad if I could hope to see you but I am afraid to make any appointment till I know what the Pattesons mean to do with me.  And as regards Dawlish itself, if they take me there it will be to see [Miss Martyn](people/person_973.qmd) who is just recovering from a bad burn, so that I do not know what she is equal to.  
+
+We shall at any rate pass the Dawlish station at 3.1 on Friday, and if you can look for us we may be known by the tokens of my [mother](people/person_1606.qmd) in black, and myself in a grey jacket and hat broad and shady trimmed with a great knob of black velvet in front.  I would say white straw, but railroad smut marks it too remote from that which it should be. Thanks many for the two books you offer to take.[^2]  I hope in doing Chronicles you will mention the history elucidated in the genealogies - as to the occupations in Egypt &c.  I have no time nor space to say more
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The 5 September 1862 was a Friday, and this is consistent with the progress of CMY's friendship with Peard implied in other letters.
+[^2]: [Fanny Patteson](people/person_1151.qmd) and her half-sister [Joanna](people/person_1154.qmd) had been brought up in South Devon, near their cousins the Coleridges at Ottery and their cousin Paulina Martyn at Dawlish.
+[^3]: Peard contributed articles to the [*Monthly Paper of Sunday Teaching*](organizations/other_81.qmd).

@@ -1,0 +1,42 @@
+---
+title: "To Gertrude Mary Ireland Blackburne"
+letter_iso_date: "1897-09-24"
+letter_date: "Sept 24th [1897 or later?]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell"
+post_id: 3585
+letter_id: "to-gertrude-mary-ireland-blackburne-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Gertrude Mary Ireland Blackburne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-09-24"
+  url: "https://cmyonge.github.io/letters/3585-to-gertrude-mary-ireland-blackburne-2"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 24th [1897 or later?]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Miss Blackburne](people/person_160.qmd)
+I have advised this [Sister Margaret](people/person_1639.qmd) Paulu to write to you about her appeal, as you might manage to get it in for her.  I did not know her Mother, they lived beyond our neighbourhood, but my [father](people/person_1631.qmd) knew hers well in magistrate's business, as [Col A'Court](people/person_1641.qmd), and had a great regard for him as an excellent person[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The implication is probably that Blackburne will be able to insert the appeal in *The Churchwoman* which she edited from 1897, but she might have been working on it earlier.
+[^2]: Probably Colonel William Henry Ashe A’Court,  2nd Lord Heytesbury, whose daughter the Hon. Margaret A’Court (1855-1933) sent subscriptions to *The Net* and may have joined the Wantage sisterhood.

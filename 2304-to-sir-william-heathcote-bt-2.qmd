@@ -1,0 +1,49 @@
+---
+title: "To Sir William Heathcote, Bt."
+letter_iso_date: "1869-02-28"
+letter_date: "February 28, 1869"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 299-300"
+post_id: 2304
+letter_id: "to-sir-william-heathcote-bt-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir William Heathcote, Bt."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-02-28"
+  url: "https://cmyonge.github.io/letters/2304-to-sir-william-heathcote-bt-2"
+---
+
+::: {.letter-metadata}
+**Date:** February 28, 1869  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 299-300
+:::
+
+My dear [Sir William](people/person_669.qmd)
+I am not quite so audacious as to sit down in cold blood to review Sir[J. T. C](people/person_344.qmd).,[^1] but you are quite right that many of the expressions were mine. The fact was that the editor of the *[Literary Churchman](organizations/other_76.qmd)*, [Mr. Ashwell](people/person_68.qmd), who has been a very kind friend and helper, asked me to tell him what chiefly struck me with a view to his paper, and he has put many of the words in from a letter I wrote to him a few days before I saw you, but he has given them the setting of his own peculiarly lucid and sober language and with much of his own besides. He always seems to me one of the clearest-headed men I know. He has quite revived the *Literary Churchman* after its decay, and this year there has been a great influx of subscribers; I do write in it a good deal, but chiefly of light literature such as is wanted to enliven it. I hope you will take it in, for there are often very valuable papers.
+
+If you wish to be disgusted you should read [Dean Stanley](people/person_1987.qmd)’s [paper](other_books/otherbook_544.qmd) on [Mr. Keble](people/person_798.qmd) in *[Macmillan](organizations/other_78.qmd)*, where all in kindness he finds his own latitudinarianisms all through the poetry. It is much worse than any real enemy - open enemy I mean. I hope to bring home the number of the *British Critic* on Saturday when I return from a few days in London[^2] - I go to-morrow. [Lady Seaton](people/person_314.qmd) was very sorry she had not a spare copy of that photograph; her son [Graham](people/person_321.qmd) has some and promised to send one when he went home, but as he never remembers anything except by accident, I am afraid he has forgotten.
+
+I have had a most kind invitation to stay with [M. Guizot](people/person_597.qmd) and his [daughter](people/person_423.qmd) in Normandy next August or September; I hope [Julian](people/person_1624.qmd) and his [wife](people/person_1604.qmd) will go with me to Paris, and see what we can there, but I do not think we shall get any further. It will be a great holiday, and I assure you I mean to make it so. I hear from [Mary Coleridge](people/person_351.qmd)this morning that her father wrote to Street, but they have not heard again, so they suppose him satisfied.[^3]
+
+I did not mean to trouble you with so long a letter, but your kindness led to it.
+
+Yours ever affectionately
+C. M. Yonge
+
+---
+
+[^1]: CMY means she was unwilling to review Coleridge's recent biography of Keble.
+[^2]: The *British Critic* had ceased publication in 1843;  CMY was no doubt looking for an article by or about Keble in it.
+[^3]: It sounds as if Sir John Taylor Coleridge was involved in a dispute of some kind with the architect [G. E. Street](people/person_2028.qmd).

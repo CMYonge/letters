@@ -1,0 +1,55 @@
+---
+title: "To an Unknown Woman or to Alexander Macmillan?"
+letter_iso_date: "1870-05-30"
+letter_date: "May 30th [1870]"
+location: "Wantage"
+manuscript: "MS British Library Add MSS 54920: 240-1"
+post_id: 2381
+letter_id: "to-an-unknown-woman-or-to-alexander-macmillan"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman or to Alexander Macmillan?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-05-30"
+  url: "https://cmyonge.github.io/letters/2381-to-an-unknown-woman-or-to-alexander-macmillan"
+---
+
+::: {.letter-metadata}
+**Date:** May 30th [1870]  
+**From:** Wantage  
+**Manuscript:** MS British Library Add MSS 54920: 240-1
+:::
+
+My dear Madam,[^1]
+I have been having some talk and consultation about the Godmother’s Readings with people who have so much to do with schools as to be really an influence
+
+First, I am advised strongly to do - what I proposed at first - to have the Scripture part, without the comment, printed separately, as cheap as may be, for the children to use, while the teacher has the one with the comment. I do believe this would be greatly used in Schools if we can make it cheap enough[^2]
+
+Another advice is to keep the Godmother out of the title, as that is thought likely to discourage the sale for Schools. I suppose if my name goes to it, the individuality would be marked enough. I believe it is only the first page that this change would affect
+
+Scripture Readings 
+by
+Charlotte M Yonge
+
+Then people would ask for it as Yonge’s Scripture Readings.
+
+My address here is the [Rev’d Wm Butler](people/person_244.qmd)’s Wantage - I go home on Thursday
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: This letter is among the correspondence with [Alexander Macmillan](people/person_939.qmd), and the salutation may simply be a mistake.  Or the letter may have been addressed to his sister-in-law [Eliza (Orridge) Macmillan](people/person_941.qmd), who was his partner, but one would expect CMY, who had met her, to address her as Mrs Macmillan.  Or it is possible that the letter was addressed to [Frances Martin](people/person_971.qmd), the editor of [Macmillan's Sunday Library](organizations/other_145.qmd), although the *Scripture Readings* do not appear to have come out in that series.
+[^3]: The first of the *Scripture Readings for schools, with comments, Genesis to Deuteronomy*, was published by Macmillan in May 1871; it cost 3*s.* 6*d.* and the version without comments was 1*s.* 6*d.*.  Eventually there were 5 volumes, 1871-1879.

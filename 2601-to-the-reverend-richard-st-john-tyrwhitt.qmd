@@ -1,0 +1,44 @@
+---
+title: "To the Reverend Richard St. John Tyrwhitt"
+letter_iso_date: "1877-10-01"
+letter_date: "Oct 1st 1877"
+location: "Elderfield, Otterbourne,Winchester."
+manuscript: "MS University of Iowa; MsL/Y56ty"
+post_id: 2601
+letter_id: "to-the-reverend-richard-st-john-tyrwhitt"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Richard St. John Tyrwhitt"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-10-01"
+  url: "https://cmyonge.github.io/letters/2601-to-the-reverend-richard-st-john-tyrwhitt"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 1st 1877  
+**From:** Elderfield, Otterbourne,Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56ty
+:::
+
+My dear [Mr Tyrwhitt](people/person_1428.qmd), 
+
+There is a chapter on [Basilica](other_books/otherbook_888.qmd) in the printer’s hands just now. I ought to have sent it up for October and I don’t know how I missed laying my hands on it when I was packing up the MS. I ought to have mentioned it when you wrote to me, and now I am terribly afraid  I have given you ‘double double toil and trouble’. When the proofs come you will see what amount of repetition there is. Had I not better return you the new chapter to look at with  it, I am greatly concerned at any blundering of mine having given you additional troubles.[^1]
+
+Your study of your son reminds me of [my Mother](people/person_1606.qmd) saying it was a curious sensation when she began not to know where all my ideas came from
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Rev. Richard St. John Tyrwhitt (1827-1895), a follower of Ruskin and art criti, contributed a series of articles on  'The Basilica' to  *MP*, beginning in ns 25 (January 1878) 1-14 and running until ns 30 (July 1880) 1-18.

@@ -1,0 +1,43 @@
+---
+title: "To Edith Coleridge"
+letter_iso_date: "1867-01-30"
+letter_date: "Jan 30th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "Harry Ransom Humanities Research Center, University of Texas"
+post_id: 2148
+letter_id: "to-edith-coleridge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-01-30"
+  url: "https://cmyonge.github.io/letters/2148-to-edith-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 30th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** Harry Ransom Humanities Research Center, University of Texas
+:::
+
+My dear [Edith](people/person_331.qmd),
+
+For I cannot induce myself to write Miss C and you know we are cousins- so that your beginning did not seem natural. We are delighted with your drawing, it has just given the look of reverent awe and foreboding that was wanted, and we are very much obliged to you for it - it just takes the place wanted in our book. I was at Winton House yesterday and found the party enjoying those beautiful etchings of Mr [Seymour Haden](people/person_602.qmd)[^1]. Tell [Christabel](people/person_329.qmd) very few [Goslings](organizations/other_104.qmd) have come in yet. I shall wait a day or two longer and then send her the Answers - [King Charles](people/person_1768.qmd) is in the ascendant so far as is fitting today. She shall have the new questions at the same time - or perhaps you would give them to her – I enclose them at once
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: Winton House was the home in Winchester of the Rev. [Charles Alexander Johns](people/person_769.qmd) and his family.
+[^2]: The Goslings had evidently had to answer a question about Charles I.  'Today' was the anniversary of his execution (30 January 1649).

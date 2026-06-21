@@ -1,0 +1,39 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1855-10-11"
+letter_date: "Oct 11th 1855"
+location: "Otterbourn"
+manuscript: "MS Princeton University, Parrish Collection,  C0171: Box 29."
+post_id: 3072
+letter_id: "to-john-william-parker-jr-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-10-11"
+  url: "https://cmyonge.github.io/letters/3072-to-john-william-parker-jr-5"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 11th 1855  
+**From:** Otterbourn  
+**Manuscript:** MS Princeton University, Parrish Collection,  C0171: Box 29.
+:::
+
+My dear [Sir](people/person_1143.qmd)
+I am much obliged for the draft for [£300](organizations/other_160.qmd) which I received this morning as well as for the book which accompanied it.
+
+I am glad to hear that the [Lances of Lynwood](cmy_books/cmybook_23.qmd) have begun to go off so fast
+
+Yours truly
+C M Yonge

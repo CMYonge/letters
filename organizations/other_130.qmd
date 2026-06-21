@@ -1,0 +1,19 @@
+---
+title: "Hospital of St. Cross and Almshouse of Noble Poverty, The"
+other_id: 130
+---
+
+**Type:** organization
+
+## Letters Mentioning This
+
+- [Letter 1827](../1827-to-florence-wilford-2.qmd)
+- [Letter 1834](../1834-to-ann-maria-carter-smith-46.qmd)
+- [Letter 2288](../2288-to-the-reverend-william-john-butler-2.qmd)
+- [Letter 2416](../2416-to-christabel-rose-coleridge-66.qmd)
+- [Letter 2775](../2775-to-lady-sophia-matilda-palmer1.qmd)
+- [Letter 2995](../2995-to-elizabeth-roberts-15.qmd)
+- [Letter 3021](../3021-to-elizabeth-roberts-30.qmd)
+- [Letter 3248](../3248-to-the-reverend-john-frederick-watkinson-bullock-10.qmd)
+- [Letter 3553](../3553-to-the-reverend-lewis-macnaughton-humbert.qmd)
+

@@ -1,0 +1,14 @@
+---
+title: "Misey"
+person_id: 2293
+---
+
+## Biographical Information
+
+correspondent in 1874, known to the Wilsons of Rownhams
+
+## Letters Mentioning This Person
+
+- [Letter 2495](../2495-to-misey-2.qmd)
+- [Letter 3374](../3374-to-misey.qmd)
+

@@ -1,0 +1,20 @@
+---
+title: "William Smith - A Dictionary of the Bible"
+book_id: 389
+---
+
+## Publication Information
+
+**Date:** 1860-1863
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 2008](../2008-to-alexander-macmillan-35.qmd)
+- [Letter 2029](../2029-alexander-macmillan-to-charlotte-mary-yonge-27.qmd)
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+- [Letter 2080](../2080-to-alexander-macmillan-61.qmd)
+- [Letter 2194](../2194-alexander-macmillan-to-charlotte-mary-yonge-56.qmd)
+- [Letter 2200](../2200-to-alexander-macmillan-92.qmd)
+

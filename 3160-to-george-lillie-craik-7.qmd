@@ -1,0 +1,37 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1890-06-09"
+letter_date: "June 9th1890"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 179"
+post_id: 3160
+letter_id: "to-george-lillie-craik-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-06-09"
+  url: "https://cmyonge.github.io/letters/3160-to-george-lillie-craik-7"
+---
+
+::: {.letter-metadata}
+**Date:** June 9th1890  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 179
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I have just finished a story called ‘[Two Penniless Princesses](cmy_books/cmybook_216.qmd)’ about the two daughters of James I of Scotland who went to visit their sister, the wife of the future Louis XI, and found her just dead. It is  in 12 chapters, each taking from 12 to 16 pp of the [Monthly Packet](organizations/other_52.qmd), where half has appeared. It is to be finished there in December. Is it well to take any steps for separate publication?
+
+Yours truly
+C M Yonge

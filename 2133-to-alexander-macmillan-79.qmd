@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1866-09-03"
+letter_date: "Sept 3d 1866"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 162-163"
+post_id: 2133
+letter_id: "to-alexander-macmillan-79"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-09-03"
+  url: "https://cmyonge.github.io/letters/2133-to-alexander-macmillan-79"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 3d 1866  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 162-163
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I see <u>[Old Sir Douglas](other_books/otherbook_469.qmd)</u> is living and thriving once more, so I write to ask whether you wish for the first instalment of the <u>[Chaplet of Pearls](cmy_books/cmybook_69.qmd)</u> for October, or whether you wish to wait till the end of one of the present stories.[^1] I have written almost to the end, but it wants plenty of re-touching. I have had so much interruption that I /often\\ could not go into work that took more study - however I have made a beginning for the [Worthies](cmy_books/cmybook_80.qmd) and have finished the first.
+
+I hope your party are pretty well, and [Mrs Daniel](people/person_941.qmd) in a less anxious state
+
+Yours sincerely
+C M Yonge
+
+What a delightful [paper](other_books/otherbook_470.qmd) that is on the Verney portraits
+
+---
+
+[^1]: Chapters of Caroline Norton’s *Old Sir Douglas* appeared in *[Macmillan’s Magazine](organizations/other_78.qmd)* from January to May 1866, and then from September 1866 to October 1867.  *The Chaplet of Pearls* was serialized from November, 1867 to December 1868.

@@ -1,0 +1,50 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1900-03-30"
+letter_date: "March 30th [1900]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office Acc No 308"
+post_id: 3455
+letter_id: "to-mary-yonge-32"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-03-30"
+  url: "https://cmyonge.github.io/letters/3455-to-mary-yonge-32"
+---
+
+::: {.letter-metadata}
+**Date:** March 30th [1900]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office Acc No 308
+:::
+
+My dear [Mary](people/person_1626.qmd)
+You will like to hear that [Maurice](people/person_1630.qmd) and [Maude](people/person_1629.qmd) have had tea with [Jane Moore](people/person_1042.qmd) in her *hufet* at Aldershot, which Maude says is exceedingly pretty, but they are having very hard work for 40000 men are expected at Aldershot altogether, and it generally holds 15000 and those regular soldiers whereas all these have little notion of more than a summer diversion and are very hard to bring into discipline-  I do not know if [Ulick](people/person_325.qmd) is with them.[^1]
+
+I am to my own feeling quite well, only still hoarse, and they wont let me outside the house till the wind changes – and we had 10 degrees of frost last night -  They have been having snow at Fleet –
+
+So [Joubert](people/person_786.qmd) is dead.  I believe he was more of a gentleman in his ways than old [Kruger](people/person_826.qmd) but I am afraid there is still a great battle to come-[^2]
+
+I must have made a great blundering in directing letters to you and [Helen](people/person_1613.qmd) --  One place seemed to flow out of the Miss Yonge
+
+I hope [Sydney](people/person_2178.qmd) is getting better
+
+your affte
+C M Yonge
+
+---
+
+[^1]: Ulick was probably Jane’s nephew Major the Hon. James Ulysses Graham Raymond Colborne (1863- 1955), later 4th Lord Seaton.
+[^2]: Piet Joubert (1834-1900), commander of the Transvaal army, and  Paul Kruger (1825-1904) were leaders of the Boers.

@@ -1,0 +1,15 @@
+---
+title: "Mrs White"
+person_id: 1494
+---
+
+## Biographical Information
+
+(fl. 1880s)
+
+a friend of Evelyn Gee
+
+## Letters Mentioning This Person
+
+- [Letter 2470](../2470-to-mrs-white-2.qmd)
+

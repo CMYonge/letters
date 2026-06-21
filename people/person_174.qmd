@@ -1,0 +1,16 @@
+---
+title: "Hugo Borges"
+person_id: 174
+---
+
+## Biographical Information
+
+(fl.19 November 1866)
+
+German writer, referred to in letter to Macmillan
+
+## Letters Mentioning This Person
+
+- [Letter 2139](../2139-to-alexander-macmillan-82.qmd)
+- [Letter 2211](../2211-to-george-lillie-craik-3.qmd)
+

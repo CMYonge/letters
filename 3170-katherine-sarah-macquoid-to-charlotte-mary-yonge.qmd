@@ -1,0 +1,37 @@
+---
+title: "Katherine Sarah Macquoid to Charlotte Mary Yonge"
+letter_iso_date: "1891-01-26"
+letter_date: "Janry 26—1891"
+location: "The Edge, Tooting Common."
+manuscript: "MS UCLA collection 100 box 119/6"
+post_id: 3170
+letter_id: "katherine-sarah-macquoid-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Katherine Sarah Macquoid to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-01-26"
+  url: "https://cmyonge.github.io/letters/3170-katherine-sarah-macquoid-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Janry 26—1891  
+**From:** The Edge, Tooting Common.  
+**Manuscript:** MS UCLA collection 100 box 119/6
+:::
+
+Dear Miss Yonge,
+I hope you will be able to get [‘At the Fair’](other_books/otherbook_643.qmd) into the May no. July is <u>such</u> a long time off.
+
+Very truly yours
+[Katharine S. MacQuoid](people/person_943.qmd)

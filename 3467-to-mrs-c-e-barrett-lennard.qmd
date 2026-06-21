@@ -1,0 +1,47 @@
+---
+title: "To Anna Meredith Barrett Lennard"
+letter_iso_date: "1900-08-14"
+letter_date: "Aug 14 1900"
+location: "Elderfield Otterbourne"
+manuscript: "MS Bodleian Library, Oxford: Autogr. d. 22 ff68-70"
+post_id: 3467
+letter_id: "to-mrs-c-e-barrett-lennard"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Meredith Barrett Lennard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-08-14"
+  url: "https://cmyonge.github.io/letters/3467-to-mrs-c-e-barrett-lennard"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 14 1900  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff68-70
+:::
+
+Dear [Mrs Lennard](people/person_121.qmd)
+I did not write because I knew of no one who would respond to your plan, Are you going back to your old quarters?
+
+I do not know [Mr Arnold](people/person_62.qmd)’s address. My nephew saw him at Lowestoft, where he was going to open an hotel! He has married a [cousin](people/person_2158.qmd) of his [wife](people/person_2055.qmd)’s
+
+[Miss Finlaison](people/person_512.qmd) is at Preston for her holidays with her nieces, the Jenners,[^1] whose [mother](people/person_2243.qmd) died this spring. They are in the same house Preston Vicarage, Dover if you want to write to her. Cottages are not to be had here, there are people constantly applying in vain 
+
+Poor old [Packet](organizations/other_52.qmd) - the publishers came to grief and pulled it down with them. Arnold’s house is made into a villa for the Cranbury agent. I should doubt anyone having his address here
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to ‘Mrs Barrett Lennard/ 10 Cranbourne Court / Albert Bridge/ London SW'.

@@ -1,0 +1,9 @@
+---
+title: "Miss Terle"
+person_id: 2006
+---
+
+## Letters Mentioning This Person
+
+- [Letter 2240](../2240-to-jane-mary-smith-dampier-2.qmd)
+

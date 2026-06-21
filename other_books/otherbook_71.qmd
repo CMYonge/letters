@@ -1,0 +1,13 @@
+---
+title: "Johann Wolfgang von Goethe - Götz von Berlichingen mit der eisernan band: Ein schauspiel"
+book_id: 71
+---
+
+## Publication Information
+
+**Date:** 1773
+
+## Letters Mentioning This Work
+
+- [Letter 3084](../3084-to-anna-butler-11.qmd)
+

@@ -1,0 +1,37 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1892-05-07"
+letter_date: "May 7th 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Charlotte Mitchell/19"
+post_id: 3196
+letter_id: "to-an-unknown-woman-25"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-05-07"
+  url: "https://cmyonge.github.io/letters/3196-to-an-unknown-woman-25"
+---
+
+::: {.letter-metadata}
+**Date:** May 7th 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Charlotte Mitchell/19
+:::
+
+Dear Madam
+I am sending your letter on to a lady who has an old servant in an institution such as you wish for - but I do not know how the appointment was made.  I am sending your letter to her and asking her ([Mrs Elgie](people/person_475.qmd)) to write to you if she knows whether there would be a chance of admission 
+
+yours truly
+C M Yonge

@@ -1,0 +1,15 @@
+---
+title: "Charlotte Brontë - Jane Eyre: An Autobiography"
+book_id: 266
+---
+
+## Publication Information
+
+**Date:** 1847
+
+**Imprint:** London: Smith, Elder
+
+## Letters Mentioning This Work
+
+- [Letter 3125](../3125-to-anne-sturges-bourne-3.qmd)
+

@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1884-12-26"
+letter_date: "Decr 26th [after 1884?]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/31"
+post_id: 3504
+letter_id: "to-an-unknown-woman-69"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-12-26"
+  url: "https://cmyonge.github.io/letters/3504-to-an-unknown-woman-69"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 26th [after 1884?]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/31
+:::
+
+Dear Madam
+
+I am very sorry not to have answered your letter sooner, I put it aside to enquire about [Mrs White](people/person_2392.qmd), and in the hurry of Christmas preparations it was forgotten.  She is not strictly an inhabitant of this parish, but of Compton- where I believe [her husband](people/person_2393.qmd) is man to [Mr Baldwin](people/person_98.qmd)the maltster.[^1]  I had heard that she took in washing, and I believe that she is respectable but I know nothing of her capabilities.  [Mrs Baldwin](people/person_99.qmd) might be able to tell you
+
+I remain &c
+C M Yonge
+
+---
+
+[^1]: James Baldwin (b. Tanworth, Warwicks. 1824/5) is recorded in the 1881 and 1891 censuses as a maltster living at Compton with his wife Josephine (b. Solihull 1826/7), in the former year ‘employing 2 men & 2 boys’.  Mrs White might be Ann (b. Michelmersh  1857/8), wife of Thomas White (b. Michelmersh 1851/2), variously ‘steam ploughman’ and ‘engine driver’, living at Silkstead, Compton in 1891.

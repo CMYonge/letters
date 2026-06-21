@@ -1,0 +1,39 @@
+---
+title: "To Gertrude Mary Ireland Blackburne"
+letter_iso_date: "1885-00-00"
+letter_date: "[1885]"
+manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 184, 185."
+post_id: 2823
+letter_id: "to-gertrude-mary-ireland-blackburne"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Gertrude Mary Ireland Blackburne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-00-00"
+  url: "https://cmyonge.github.io/letters/2823-to-gertrude-mary-ireland-blackburne"
+---
+
+::: {.letter-metadata}
+**Date:** [1885]  
+**Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 184, 185.
+:::
+
+[To [Gertrude Mary Ireland Blackburne](people/person_160.qmd)]
+
+I can’t help being attracted by ghost discussions, and there are some things that I very decidedly believe.
+
+I don’t care much for [Nuttie](cmy_books/cmybook_183.qmd) myself. I am getting too old to write of the swing of modern life; I don’t see enough of it.
+
+---
+
+**Note:** *Nuttie's Father* was published in autumn 1885.

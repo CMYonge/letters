@@ -1,0 +1,50 @@
+---
+title: "To Anne Sturges Bourne"
+letter_iso_date: "1860-05-21"
+letter_date: "May 21st 1860"
+location: "Otterbourne, Winchester."
+manuscript: "MS Hampshire Record Office: Sturges Bourne Collection: 9M55 F55/3p1-2"
+post_id: 1792
+letter_id: "to-anne-sturges-bourne-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Sturges Bourne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-05-21"
+  url: "https://cmyonge.github.io/letters/1792-to-anne-sturges-bourne-5"
+---
+
+::: {.letter-metadata}
+**Date:** May 21st 1860  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Hampshire Record Office: Sturges Bourne Collection: 9M55 F55/3p1-2
+:::
+
+My dear [Miss Bourne](people/person_1379.qmd),
+
+Taking out your letter to answer I see that you return to Pickhurst[^1] on Monday, so I must direct there. I wish I had written on Saturday. Is it that [Mrs Laidlaw](people/person_1820.qmd) that you have lost - there was something in her countenance and manner that I liked very much, and how are the little children disposed of? We shall be very glad if you can give us a day after your return, for I am sure there is a great arrear to be talked over, I will think of [Hannah](people/person_1821.qmd) in case I hear of a small school, I wish she could be an underling in some place like the asylum, for she was told here that the close air of a school was dangerous to her. I suppose the vulgarity is the remains of the bad home, and would not show unless she was at ease, as we never see her, nor of course do the Barters. I wish [Kate Barter](people/person_116.qmd) would want her to teach her young Zulus! I have sent the '[air](other_books/otherbook_281.qmd)' to be printed, and here are [Dress & Food](other_books/otherbook_282.qmd). I always think you have time for such things at Pickhurst, and if you would expand them, they would be very valuable for another month. But in dress, I think two things are apt to need to be taken into account - i.e. - that it takes real trouble money and thought to dress plainly and unfashionably than to go with the stream, and that girls are forced to wear out presents.
+
+I want you to think about another plan. I am intending to set up a [Monthly sheet](organizations/other_81.qmd) of questions for Sunday Schools on the Gospels for each Sunday in the month, also questions on the Catechism, and a small sort of reading to the girl pupils, on some subject connected with the day - as the history of the preservation & MSS of the Bible on the 2nd Sunday in Advent - the full Jewish passover on the 1st after Easter - the Eastern shepherding ways on the Shepherd Sunday.
+
+Could you help me to any of these, adapted to the older classes of Sunday Schools just what you would say to your orphans. Not quite a sermon but more entertaining to young people. Septuagesima is to have the Isthmean games - and the 21st after Trinity the account of armour. Any other Sunday in the year, or any subject is open. I should be very glad of help, specially yours. Real anecdotes would do well, drawn into morals according with the Sunday, harvest or Christmas advice &c, but I forswear stories or I shall be eaten up and dissipated with them. It is to be on the model of the National Society’s Sunday School paper, only taking in churchisms which they are afraid of. The papers should not exceed a sheet of full sized note paper.
+
+I suppose you have heard that the Cottage is to be separate from the almshouses lest the old women and calves should fret one another, as might be possible, and they are now wishing for a Dogmersfield cell in the Almshouses as the testimonial. I still think that a big school room should be insisted on, and why not temporary, but I can’t get [M A](people/person_464.qmd) to care enough about it.[^2] I don’t know of an under housemaid’s place now, but I have a prime girl of 14 to dispose of for a nursery, her father our clerk, also a carpenter, her mother once a maid of the Kebles, exemplary people with good children & many more in the steady than the clever line so that there is no fear of her being like your Rose.[^3]
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: Pickhurst Mead, Bromley, Kent, the home of relatives.
+[^2]: This refers to the plans for memorials to the Rev. Charles Dyson in Dogmersfield.  The 'calves' were the pupils in the school started by Mary Anne Dyson.
+[^3]: This paragon was perhaps [Mary Hicks](people/person_691.qmd) junior.

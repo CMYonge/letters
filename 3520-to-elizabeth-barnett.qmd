@@ -1,0 +1,31 @@
+---
+title: "To Elizabeth Barnett"
+letter_date: "[not dated by Romanes] [Undated]"
+manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  181-2."
+post_id: 3520
+letter_id: "to-elizabeth-barnett"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3520-to-elizabeth-barnett"
+---
+
+::: {.letter-metadata}
+**Date:** [not dated by Romanes] [Undated]  
+**Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  181-2.
+:::
+
+[To [Elizabeth Barnett](people/person_113.qmd)]
+
+I do not think the mass of the world is as morally bad as it was then [in the Middle Ages]. The great saints and the great sinners are much alike in all times, I suppose, and I am afraid there are fewer ignorant, simple saints. But I think the goodness of mediaeval times is altogether a delusion; and though I do not like ‘progress cant,’ I think the good should be owned, and not only the evil.

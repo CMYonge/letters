@@ -1,0 +1,19 @@
+---
+title: "Thomas Babington Macaulay - The History of England from the Accession of James II"
+book_id: 250
+---
+
+## Publication Information
+
+**Date:** 1849-1861
+
+**Imprint:** London: Longman
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 3077](../3077-to-anna-butler-7.qmd)
+- [Letter 19670](../19670-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

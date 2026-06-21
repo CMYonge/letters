@@ -1,0 +1,51 @@
+---
+title: "To the Reverend William George Henderson"
+letter_iso_date: "1861-12-10"
+letter_date: "Decr 10th 1861"
+location: "Otterbourne, Winchester."
+manuscript: "MS Yale University, Beinecke Library"
+post_id: 1848
+letter_id: "to-the-reverend-william-george-henderson"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William George Henderson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-12-10"
+  url: "https://cmyonge.github.io/letters/1848-to-the-reverend-william-george-henderson"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 10th 1861  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Yale University, Beinecke Library
+:::
+
+Dear [Mr Henderson](people/person_678.qmd)[^1] ,
+
+Pray take your own time in making the addition to [the paper on Folk Lore](other_books/otherbook_1109.qmd), it will not be able to appear in the January no. and indeed I fear I may have to divide it, as 45pp is rather a large allowance out of 112 for one subject, and it will answer better to cut it in two.  I am glad to hear of the further additions.  
+
+Many thanks also for the list of the Surtees Society publications.  I will consult [Mr Gibbs](people/person_558.qmd) about them and hear if he wishes me to avail myself of your very kind offer.  I send you the proposals for the [Philological Dictionary](organizations/other_151.qmd) on whose behalf the collection of words is being made[^2].  [Mr Furnival](people/person_531.qmd)[sic] is the present editor, since the death of [Mr H Coleridge](people/person_340.qmd).
+
+I observe in the list of Denham Tracts in one of the little bound volumes of Folk Lore which you lent me – No 7- Lodge’s Baptismal Names in the Olden Time.[^3]  Is it one of which it is likely to be possible to obtain a sight or is the sight likely to be useful to my [history of Christian names](cmy_books/cmybook_48.qmd)?  If you ever saw it, I have no doubt that you could judge, and would be kind enough to tell me.  I have been making use of the droll Berwick rhyme about ‘Gillie gachs’.  
+
+My [mother](people/person_1606.qmd) and I beg to be remembered to [Mrs Henderson](people/person_2401.qmd), and to thank her and you for your kind invitation   If our Scottish expedition do take place, we shall have great pleasure in availing ourselves of it, but we are apt to make schemes long before hand that come to nothing.
+
+With many thanks
+yours very truly
+C M Yonge
+
+---
+
+[^1]: The Rev.  William George Henderson  was one of the editors of the Surtees Society’s publications, and was evidently the author of the series of articles ‘Notes on the Folk Lore of the North of England’ which appeared in the *Monthly Packet* in 1862 signed ‘W. H.’. His ODNB entry implies that he did not move from Jersey to become headmaster of Leeds Grammar School until 1862, but this letter suggests that he was already residing in the north of England in the previous year.
+[^2]: See note to letter to H.H. Gibbs, 25 November 1861.
+[^3]: This is a puzzling reference, since the *Denham Tracts* do not seem to include such a work, nor can it be identified.

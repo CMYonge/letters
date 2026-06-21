@@ -1,0 +1,44 @@
+---
+title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+letter_iso_date: "1895-04-02"
+letter_date: "April 2nd [1895]"
+location: "Elderfield"
+manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (May 1895) 79."
+post_id: 9369
+letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-04-02"
+  url: "https://cmyonge.github.io/letters/9369-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+---
+
+::: {.letter-metadata}
+**Date:** April 2nd [1895]  
+**From:** Elderfield  
+**Manuscript:** MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (May 1895) 79.
+:::
+
+OUR MAGAZINES
+ 	
+Madam,-
+Is not ‘Genista,’  in accordance with her signature, a little too humble in her estimation of the wants of [Members](organizations/other_23.qmd)?[^1]  Girls of that age do not want simple ‘goody tales;’ they will find and read books that we think are quite beyond them.
+
+Most girls have passed their standards at school, and there have acquired knowledge enough to take an interest in subjects brought forward. It is much more wholesome for them to have writing rather above than below them.   	
+
+C. M. Yonge.
+
+---
+
+[^1]: The April issue had published a letter from 'Genista' beginning 'I too should be very glad if *Friendly Leaves* could be made more suitable for and attractive to our ordinary Members. I can’t conscientiously urge it on my younger girls.'

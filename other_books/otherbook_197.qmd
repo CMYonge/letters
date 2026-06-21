@@ -1,0 +1,15 @@
+---
+title: "Lewis Carroll - Alice's Adventures in Wonderland"
+book_id: 197
+---
+
+## Publication Information
+
+**Date:** 1866
+
+**Imprint:** London: Macmillan
+
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

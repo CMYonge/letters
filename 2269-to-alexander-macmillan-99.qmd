@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-09-23"
+letter_date: "Sept 23d [1868]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54920: 212-3"
+post_id: 2269
+letter_id: "to-alexander-macmillan-99"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-09-23"
+  url: "https://cmyonge.github.io/letters/2269-to-alexander-macmillan-99"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 23d [1868]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54920: 212-3
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+The mistakes about Walsingham & Sidney had perhaps better be mentioned in the preface to disarm the critics, and that unlucky Amen must be made an erratum it is so ridiculous in its present position.[^1]
+
+Would you notify this to [Clay](organizations/other_173.qmd), as I do not know the page.
+
+What do you say to the [story of Indian Life](organizations/other_202.qmd) I sent you? If you cannot do any thing with it, please write to me before returning it, for I think I shall ask [Mr Warne](people/person_1433.qmd) to look at it, and it is a pity it should travel 140 miles between Nos 15 and 16[^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Endorsed ‘Routledge attending to this’.  These anachronisms were noted in the preface to *The Chaplet of Pearls*.
+[^2]: Frederick Warne (1825-1901), publisher, had offices at 15 Bedford Street, next door to Macmillan.

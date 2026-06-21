@@ -1,0 +1,20 @@
+---
+title: "Life and Adventures of Count Beugnot .Edited by Charlotte M. Yonge. 2 vols."
+book_id: 92
+sort_title: "Life and Adventures of Count Beugnot ."
+---
+
+## Publication Information
+
+**Date:** 1871
+
+**Genre:** Edited translation
+
+**Publisher:** London : Hurst and Blackett.
+
+**Notes:** Probably translated by Julian Yonge
+
+## Letters Mentioning This Work
+
+- [Letter 2363](../2363-to-alexander-macmillan-113.qmd)
+

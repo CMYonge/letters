@@ -1,0 +1,19 @@
+---
+title: "Edward Gibbon - The History of the Decline and Fall of the Roman Empire"
+book_id: 412
+---
+
+## Publication Information
+
+**Date:** 1776-1788
+
+**Imprint:** London: Strahan and Cadell
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 2050](../2050-to-alexander-macmillan-51.qmd)
+- [Letter 2431](../2431-to-elizabeth-missing-sewell-20.qmd)
+

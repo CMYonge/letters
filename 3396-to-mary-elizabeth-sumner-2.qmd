@@ -1,0 +1,44 @@
+---
+title: "To Mary Elizabeth Sumner"
+letter_iso_date: "1899-02-10"
+letter_date: "Feb 10th 1899"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3396
+letter_id: "to-mary-elizabeth-sumner-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Elizabeth Sumner"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-02-10"
+  url: "https://cmyonge.github.io/letters/3396-to-mary-elizabeth-sumner-2"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 10th 1899  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mrs Sumner](people/person_1381.qmd)
+I hope you had the bundle of materials for the April [Mothers in Council](organizations/other_82.qmd) that I sent to Claremont, Rudleston, Manchester on the 31st January, for it is time [Wells Gardiner](organizations/other_114.qmd) had them. If there is nothing to alter, perhaps you would leave them at his office, writing Mothers in Council on them. I only want to add a most excellent book of The Sunday School Institute
+[‘Christ in the Catechism’](other_books/otherbook_599.qmd) but that can be done in the proofs.
+
+Here is [Mrs Bartram](people/person_1668.qmd), Ramsgate Vicarage writing to ask leave for their Organist to set to music ‘God Knows’ out of our October number - I suppose there is no objection, but I do not now remember where it came from.
+
+I shall wait to answer till I hear from you.
+
+I have not had [Mrs Guslett](people/person_1669.qmd)’s paper
+
+Yours affectionately
+C M Yonge

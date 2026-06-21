@@ -1,0 +1,15 @@
+---
+title: "Samuel Laing - The Heimskringla, or, Chronicle of the Kings of Norway, translated from the Icelandic of Snorro Sturleson"
+book_id: 295
+---
+
+## Publication Information
+
+**Date:** 1844
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 1814](../1814-to-susanna-warren-3.qmd)
+

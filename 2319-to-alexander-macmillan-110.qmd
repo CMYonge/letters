@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1869-06-09"
+letter_date: "June 9th 1869"
+location: "Wantage"
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2319
+letter_id: "to-alexander-macmillan-110"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-06-09"
+  url: "https://cmyonge.github.io/letters/2319-to-alexander-macmillan-110"
+---
+
+::: {.letter-metadata}
+**Date:** June 9th 1869  
+**From:** Wantage  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I hope to call on either Friday or Saturday I cannot say which but I <u>think</u> the morning of Saturday
+
+If this will not do, let me know at 21 Craven Terrace
+Paddington
+
+I will bring back Julius Caesar and another book of yours
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper. The paper has the printed Elderfield address, but this has been cancelled in ink.

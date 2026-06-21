@@ -1,0 +1,16 @@
+---
+title: "Sir Joshua Reynolds -  Seven Discourses delivered in the Royal Academy by the President"
+book_id: 135
+---
+
+## Publication Information
+
+**Date:** 1778
+
+**Imprint:** London: Cadell
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

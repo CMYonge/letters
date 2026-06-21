@@ -1,0 +1,15 @@
+---
+title: "Francis Turner Palgrave - A Lyme Garland: Being verses, mainly written at Lyme Regis, or upon the scenery of the neighbourhood"
+book_id: 786
+---
+
+## Publication Information
+
+**Date:** 1874
+
+**Imprint:** Lyme: Dunster
+
+## Letters Mentioning This Work
+
+- [Letter 14535](../14535-to-francis-turner-palgrave.qmd)
+

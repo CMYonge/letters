@@ -1,0 +1,16 @@
+---
+title: "William Withering - A Systematic Arrangement of British Plants corrected and condensed by William MacGillivray"
+book_id: 185
+---
+
+## Publication Information
+
+**Date:** 1830
+
+**Imprint:** London: Dove
+
+## Letters Mentioning This Work
+
+- [Letter 2988](../2988-to-elizabeth-roberts-9.qmd)
+- [Letter 2994](../2994-to-elizabeth-roberts-14.qmd)
+

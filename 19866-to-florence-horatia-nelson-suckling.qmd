@@ -1,0 +1,39 @@
+---
+title: "To Florence Horatia Nelson Suckling"
+letter_iso_date: "1884-03-30"
+letter_date: "March 30 1884"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell."
+post_id: 19866
+letter_id: "to-florence-horatia-nelson-suckling"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Horatia Nelson Suckling"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-03-30"
+  url: "https://cmyonge.github.io/letters/19866-to-florence-horatia-nelson-suckling"
+---
+
+::: {.letter-metadata}
+**Date:** March 30 1884  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+Dear [Mrs Suckling](people/person_1380.qmd)
+
+Would you be so kind as to send the prospectus or at any rate some papers about the [Band of Mercy](organizations/other_265.qmd) to [Mr Streatfield](people/person_2438.qmd) the clergyman of Kingsworthy (Winchester)  I am afraid I dont know his Christian name, but he seemed much inclined to join it with his schoolchildren, and I promised him to ask you to send him the papers
+
+yours truly
+
+C M Yonge

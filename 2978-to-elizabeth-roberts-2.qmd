@@ -1,0 +1,41 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1851-10-18"
+letter_date: "Oct 18th 1851"
+manuscript: "MS Huntington Library, Yonge Letters."
+post_id: 2978
+letter_id: "to-elizabeth-roberts-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1851-10-18"
+  url: "https://cmyonge.github.io/letters/2978-to-elizabeth-roberts-2"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 18th 1851  
+**Manuscript:** MS Huntington Library, Yonge Letters.
+:::
+
+[Madam](people/person_1243.qmd),
+I am much obliged by your contribution to the [Monthly Packet](organizations/other_52.qmd), and should be glad to see the other numbers. I must observe however that there are some expressions that had a childish tone that I would gladly see altered such as that the loss of Lucien’s parents was very sad for him, that Hilary wrote clever books, that his Psalms are the same as ours, that a priest is a clergyman &c. [Alban Butler](other_books/otherbook_27.qmd) also says that Prisca was a virgin martyr at Rome in the 3d century and that her name is connected with that of Aquila’s wife only because there is a tradition that the Church dedicated to her at Rome is built on the site of the House of Aquila. Sts Aquila & Priscilla are commemorated together by the Greek church on the 14th of July.
+
+I like your plan very much and if you are kind enough to let me have the rest of the papers before the end of next month, I should like to commence them with the New Year, but I find it a good rule not to commence a series without seeing the whole of it
+
+I remain Yours &c
+The Editor of the Monthly Packet
+
+---
+
+**Note:** The MS is accompanied by a small envelope with stamped circle enclosing daisy-like flowering plant on  the flap, addressed  to Miss Roberts/ Diamond Cottage/ Wetheral/ Carlisle.

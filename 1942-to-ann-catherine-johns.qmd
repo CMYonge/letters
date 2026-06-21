@@ -1,0 +1,43 @@
+---
+title: "To Ann Catherine Johns"
+letter_iso_date: "1864-03-07"
+letter_date: "March 7th [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29: Author Files Wood-Yonge:"
+post_id: 1942
+letter_id: "to-ann-catherine-johns"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Catherine Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-03-07"
+  url: "https://cmyonge.github.io/letters/1942-to-ann-catherine-johns"
+---
+
+::: {.letter-metadata}
+**Date:** March 7th [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29: Author Files Wood-Yonge:
+:::
+
+My dear [Kittiwake](people/person_887.qmd) 
+I am glad you are meditating a flight to us, but will you let it be on Monday the 14th this day week.[^1] I want the skies to clear up a little, as I hope you will allow time enough for a walk to see our daffodil copse of which we are rather proud, and which will gain by the week’s delay.
+
+Do not be deceived into turning into the wrong house for my [brother](people/person_1624.qmd)’s comes before ours and looks more imposing, but make it clear that we are [Mrs](people/person_1606.qmd) and not Mr Yonge. Our kind regards to [Mrs Johns](people/person_772.qmd), and thanks to her for bringing you
+
+Your faithful
+[Mother Goose](organizations/other_104.qmd)
+
+---
+
+[^1]: A day visit was possible because Kittiwake and her mother lived in Winchester where her father, the Rev. Charles Alexander Johns (1811-1874), ran a prep school.

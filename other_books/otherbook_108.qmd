@@ -1,0 +1,15 @@
+---
+title: "Jane Loudon - The Ladies’ Flower Garden of Ornamental Perennials"
+book_id: 108
+---
+
+## Publication Information
+
+**Date:** 1859
+
+**Imprint:** London: Orr
+
+## Letters Mentioning This Work
+
+- [Letter 3100](../3100-to-miss-moorsom.qmd)
+

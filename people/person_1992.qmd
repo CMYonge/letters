@@ -1,0 +1,16 @@
+---
+title: "Sampson Low jr."
+person_id: 1992
+---
+
+## Biographical Information
+
+(1822-1871)
+
+publisher and compiler of <i>The Charities of London</i>
+
+## Letters Mentioning This Person
+
+- [Letter 2175](../2175-alexander-macmillan-to-charlotte-mary-yonge-51.qmd)
+- [Letter 2797](../2797-to-christabel-rose-coleridge-111.qmd)
+

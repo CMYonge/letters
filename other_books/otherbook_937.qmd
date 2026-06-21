@@ -1,0 +1,15 @@
+---
+title: "Anthony Trollope - Dr. Thorne: A Novel"
+book_id: 937
+---
+
+## Publication Information
+
+**Date:** 1858
+
+**Imprint:** London: Chapman and Hall
+
+## Letters Mentioning This Work
+
+- [Letter 2726](../2726-to-ann-maria-carter-smith-84.qmd)
+

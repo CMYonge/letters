@@ -1,0 +1,27 @@
+---
+title: "Last Heartsease Leaves.By the author of “The Heir of Redclyffe.”"
+book_id: 45
+sort_title: "Last Heartsease Leaves."
+---
+
+## Publication Information
+
+**Date:** 1862
+
+**Genre:** Fiction (modern)
+
+**Publisher:** 500 printed privately for sale for a charity.
+
+**Notes:** Reprinted as “Lost Heartsease Leaves” in last number of <i>Events of the Month, </i>Jan 2, 1865, pp. 615-618. The letters from Keble reprinted in <i>Musings over the Christian Year</i> make it clear that this was originally written as the ending of <i>Heartsease</i>, and was not an afterthought.
+
+## Letters Mentioning This Work
+
+- [Letter 1856](../1856-to-harriet-dyke-acland-troyte.qmd)
+- [Letter 1867](../1867-to-henrietta-elizabeth-fursdon-6.qmd)
+- [Letter 2048](../2048-to-an-unknown-woman-75.qmd)
+- [Letter 2069](../2069-to-george-lillie-craik-2.qmd)
+- [Letter 2546](../2546-to-elizabeth-missing-sewell-22.qmd)
+- [Letter 3065](../3065-from-the-reverend-john-keble-to-charlotte-mary-yonge-2.qmd)
+- [Letter 3475](../3475-to-an-unknown-woman-30.qmd)
+- [Letter 3570](../3570-to-miss-holbece.qmd)
+

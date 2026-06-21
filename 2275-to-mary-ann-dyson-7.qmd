@@ -1,0 +1,82 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1868-10-05"
+letter_date: "October 5, 1868"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 236 - 7"
+post_id: 2275
+letter_id: "to-mary-ann-dyson-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-05"
+  url: "https://cmyonge.github.io/letters/2275-to-mary-ann-dyson-7"
+---
+
+::: {.letter-metadata}
+**Date:** October 5, 1868  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 236 - 7
+:::
+
+My dear [Marianne](people/person_464.qmd)
+Things have gone on well and quietly; I only wonder what I am that I seem to have no breakdown in me, but cannot help feeling for ever that the ‘Ephphatha is sung’[^1]when I think of the frowning look with which [she](people/person_1606.qmd) would try to make us understand her, and that struggle to say words of praise, ‘glorify’ so often coming. You cannot think how her work, the illuminated ‘Holy, Holy, Holy,’ and the ‘We look not at the things that are seen but at the things that are not seen,’ shone out at that Communion in the morning. It is so very gentle and as she wished, and I really did miss her much more four months ago, when the real response failed me, and I saw her in the state I knew she hoped not to be in, than now that the habit of leaning on her has been so long broken. It is as if the threefold cord of my life had had one strand snapped suddenly fourteen years ago, but slowly, gently untwisted now.[^2] It was comfortable that no one touched her who did not love her. No stranger meddled; [Hicks](people/person_689.qmd) made the coffin, and those who carried her were our own people, three the same as carried papa, and two of their sons, one other labourer of [Julian](people/person_1624.qmd)’s. [Frances](people/person_1604.qmd) made a lovely cross of white camellias and roses, and two wreaths. Frances spent most of the day up here, so very sweet and sisterly, and comforted to have won her love these last years.
+
+We took the way we had so often gone together out by the verandah, Julian and I, [Duke](people/person_1599.qmd) and Frances, [Anne](people/person_1582.qmd) and [John Pode](people/person_1184.qmd)[^3]; [Mary Walters](people/person_1558.qmd)[^4], [Alice](people/person_1025.qmd) and [Robert Moberly](people/person_1021.qmd) and [Emily Awdry](people/person_81.qmd) also were there, [Graham Colborne](people/person_321.qmd), [George Yonge](people/person_1611.qmd), [John](people/person_33.qmd) and [Edmund Morshead](people/person_42.qmd), and many of our neighbours, and so many old servants. [Mr. Young](people/person_1634.qmd) and [Mr. Wither](people/person_1544.qmd) took the service, Mr. Wither the closest part. When the coffin stood by the side of the granite it looked quite to belong, and one felt her at home, and there was an atmosphere of [Keble](people/person_798.qmd) helps in the books and the sounds.
+
+Then I just saw Alice and Emily, and Frances stayed here alone to avoid the people at the other house; we took her home in the afternoon, and wandered about afterwards with the three brother-like cousins, chiefly picking up acorns for specimens for Duke to take home. Graham went then, but Duke spent the evening with us, and returned home on Saturday, and John Pode is only just gone. I had my class here on Sunday and really do not feel overdone, but as if there was much for me to do, and the other house all affection. [Helen](people/person_1613.qmd)’s feelings chiefly came out in startings at night, and Frances thought the children best at home, but they went up later in the day with some flowers, berries, and moss of their own gathering arranged. The present plan is for me to return with Anne, spend November at Puslinch, and the last week Mr. Wither is to make a visit there and bring me home. I fancy [Kate Low](people/person_899.qmd) will as usual come for Christmas, and after it perhaps we poor remnants may meet at Testwood. You did not come to the right shop for agreement in your views for me in ‘Miss Anne,’ nor do I agree for sundry reasons.
+
+	1st. I think a perpetual stranger worse than loneliness.
+
+	2nd. [Miss Adams](people/person_15.qmd) suffices the children.
+
+	3rd. There would be no room for a visitor.
+
+	4th. It would spoil all comfort in one, if there were.
+
+No, I do not think it would do; I do not fraternise as easily as you, and besides, being more locomotive, I can whet my wits against friends around and make short visits. I think I shall go out more in the afternoon, and work in the evening when I am alone, and somehow I do not greatly fear it. I have no scruple as to retaining horse or carriage. Julian keeps the horse for the rent of a field which he would feel paying more, and besides, it does his work. Then the two houses require a close and an open carriage, so we each keep one and use which we want.
+
+There is a better account of [Sir William](people/person_669.qmd); [Paget](people/person_1802.qmd) is much more hopeful about him than [Gulley](people/person_599.qmd) and keeps him in London.
+
+It is sad to have the [Wilson](people/person_1541.qmd)s away, but I hope they will be back in a fortnight.
+
+Your most affectionate
+C. M. Yonge
+
+---
+
+[^1]: Keble, *Lyra Innocentium*, V, 5: 
+
+
+
+Even now the call that wakes the dying 
+
+Steals on thine ear with gentle sighing: 
+
+The breath, the dew of heaven hath touched thy tongue: 
+
+Far to the winds are flung 
+
+The bonds unseen, ill spirits' work: 
+
+Satan no more may round thee lurk, 
+
+Thine  Ephphatha  is sung.
+
+
+
+The word appears in Mark 7:34, where Jesus’s healing of the deaf and dumb man is described: 'And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.'
+[^2]: *i.e.* one strand on [WCY](people/person_1631.qmd)'s death
+[^3]: Coleridge transcribed ‘Poole’ here and in the next paragraph, but the reference below to ‘the three brother-like cousins’ indicates that CMY meant ‘Anne [Yonge] and John Pode’.
+[^4]: Probably another mistranscription for Frances (Walter) Yonge’s sister Mary Walter (b.1845).

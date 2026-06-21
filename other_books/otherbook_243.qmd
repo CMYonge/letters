@@ -1,0 +1,17 @@
+---
+title: "Jacob Grimm - Kinder und Haus-Marchen"
+book_id: 243
+---
+
+## Publication Information
+
+**Date:** 1819-22
+
+**Imprint:** Berlin: Reimer
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3041](../3041-to-jemima-blackburn-2.qmd)
+- [Letter 3045](../3045-to-jemima-blackburn-4.qmd)
+

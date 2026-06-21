@@ -1,0 +1,15 @@
+---
+title: "Anon. - Transactions of the Ossianic Society"
+book_id: 309
+---
+
+## Publication Information
+
+**Date:** 1853 etc.
+
+**Imprint:** London: The Ossianic Society
+
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
+

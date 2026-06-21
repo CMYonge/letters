@@ -1,0 +1,43 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1876-02-12"
+letter_date: "Febry 12th 1876"
+location: "Elderfield, Otterbourne, Winchester.’"
+manuscript: "MS fragment Plymouth and West Devon Area Record Office Acc No 308: 12-2-76"
+post_id: 2541
+letter_id: "to-mary-yonge-38"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-02-12"
+  url: "https://cmyonge.github.io/letters/2541-to-mary-yonge-38"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 12th 1876  
+**From:** Elderfield, Otterbourne, Winchester.’  
+**Manuscript:** MS fragment Plymouth and West Devon Area Record Office Acc No 308: 12-2-76
+:::
+
+My dear [Mary](people/person_1626.qmd),
+
+So the dear old [Sir John Coleridge](people/person_344.qmd) is gone, except [Aunt Jane](people/person_627.qmd)[^1], I suppose [paper torn off]
+
+[the reverse reads]
+
+the most conscientious of natures, and all throughout guarded and raised by his deep religiousness I always think the tender
+
+---
+
+[^1]: Sir John Taylor Coleridge had died on 11 February.  The sentence probably went to say that now Mary's [father](people/person_1623.qmd) had only his sister Jane Harris surviving among his contemporaries.

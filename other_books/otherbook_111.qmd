@@ -1,0 +1,15 @@
+---
+title: "Anne Manning - The Provocations of Madame Palissy"
+book_id: 111
+---
+
+## Publication Information
+
+**Date:** 1853
+
+**Imprint:** London: Hall, Virtue
+
+## Letters Mentioning This Work
+
+- [Letter 3016](../3016-to-messrs-forbes-and-marshall.qmd)
+

@@ -1,0 +1,44 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1865-02-03"
+letter_date: "Febry 3d [1865]"
+location: "Elderfield"
+manuscript: "Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2005
+letter_id: "to-ellen-julia-johns-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-02-03"
+  url: "https://cmyonge.github.io/letters/2005-to-ellen-julia-johns-3"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 3d [1865]  
+**From:** Elderfield  
+**Manuscript:** Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Mrs Johns](people/person_772.qmd),
+
+We are much obliged for your kindness, and if things - weather included turn out well - I hope to bring the [Cricket](people/person_1603.qmd) and her sister in time for a four o’clock tea with you on Monday.[^1] I am afraid we cannot do more, as after that it gets so late and cold for an open carriage. Our basket only holds three so that my [mother](people/person_1606.qmd)- though thanking you for your kind message will remain at home 
+
+Yours sincerely
+C M Yonge
+
+I have sent this to shew my good intentions but just as I had written it, it turned out that my cousins <u>must</u> go on Monday to the Isle of Wight, and they do not come back till Wednesday. Then Thursday is [Miss Chamberlayne](people/person_1744.qmd)’s wedding, and they <u>may</u> have to leave us on Friday, but if possible, I will try to bring them that day.
+
+---
+
+[^1]: Cricket was CMY's cousin Elizabeth Yonge, who was to be introduced to the Johns daughter Katie who was also a member of the [Gosling Society](organizations/other_104.qmd).  The accompanying sister was probably either [Mary](people/person_1628.qmd) or [Charlotte Yonge](people/person_1588.qmd).

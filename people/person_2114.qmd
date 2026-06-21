@@ -1,0 +1,20 @@
+---
+title: "Tankerville Chamberlayne"
+person_id: 2114
+---
+
+## Biographical Information
+
+(1843-1924)
+
+M.P. for Southampton, son of [Thomas Chamberlayne](person_282.qmd) of Cranbury Park
+
+He was first elected in 1892.  He was found to have given a constituent money for a railway fare to vote, and his election in 1895 was therefore declared invalid.  He was defeated in the consequent by-election, and subsequently re-elected in 1900, serving until 1906.
+
+## Letters Mentioning This Person
+
+- [Letter 3199](../3199-to-alice-may-gordon-2.qmd)
+- [Letter 3352](../3352-to-helena-heathcote-3.qmd)
+- [Letter 3371](../3371-to-beatrice-heathcote.qmd)
+- [Letter 3470](../3470-to-christabel-rose-coleridge-53.qmd)
+

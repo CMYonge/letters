@@ -1,0 +1,13 @@
+---
+title: "Mr Buck"
+person_id: 2085
+---
+
+## Biographical Information
+
+a Devonshire clergyman?
+
+## Letters Mentioning This Person
+
+- [Letter 3385](../3385-to-mary-yonge-4.qmd)
+

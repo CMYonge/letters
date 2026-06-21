@@ -1,0 +1,43 @@
+---
+title: "To the Reverend John Julian"
+letter_iso_date: "1890-09-09"
+letter_date: "Sept 9th 1890"
+location: "Elderfield Otterbourne"
+manuscript: "MS BL Add. 57517 ff.117"
+post_id: 3163
+letter_id: "to-the-reverend-john-julian"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Julian"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-09-09"
+  url: "https://cmyonge.github.io/letters/3163-to-the-reverend-john-julian"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 9th 1890  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS BL Add. 57517 ff.117
+:::
+
+Dear [Sir](people/person_788.qmd)
+I suppose you must have a privately marked copy of the [Child’s Christian Year](other_books/otherbook_186.qmd), since it never was published with authors’ names.  My mother’s maiden name was [Frances Mary Bargus](people/person_1606.qmd), born Jan 13th 1795 - married to [William Crawley Yonge](people/person_1631.qmd) of the 52d regiment died Sept 28th 1868[^1]
+
+I think all I care to have published about myself is already in biographical notices
+
+I remain &c
+C M Yonge
+
+---
+
+[^1]: The Rev. John Julian (1839-1913), Vicar of Wincobank, and author of *A Dictionary of Hymnology* (1892).

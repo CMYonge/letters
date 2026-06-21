@@ -1,0 +1,15 @@
+---
+title: "Maria Edgeworth - Early Lessons"
+book_id: 652
+---
+
+## Publication Information
+
+**Date:** 1801-
+
+**Imprint:** London: Johnson
+
+## Letters Mentioning This Work
+
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

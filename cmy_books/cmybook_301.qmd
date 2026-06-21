@@ -1,0 +1,21 @@
+---
+title: "'Thoughts on Pictures'"
+book_id: 301
+sort_title: "'Thoughts on Pictures'"
+---
+
+## Publication Information
+
+**Date:** 1853
+
+**Genre:** Non-fiction, art criticism
+
+**Publisher:** <i>Magazine for the Young</i> (March 1853-October 1856)
+
+**Notes:** There is a fictional frame story into which the descriptions of pictures are fitted.
+
+## Letters Mentioning This Work
+
+- [Letter 2835](../2835-to-george-lillie-craik-68.qmd)
+- [Letter 2836](../2836-to-george-lillie-craik-69.qmd)
+

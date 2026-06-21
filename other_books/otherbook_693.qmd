@@ -1,0 +1,15 @@
+---
+title: "Claude Fleury - Histoire ecclesiastique"
+book_id: 693
+---
+
+## Publication Information
+
+**Date:** 1691-1720
+
+**Notes:** CMY may have known the book in Newman’s translation, <i>The Ecclesiastical History of M. l'abbé Fleury, from the Second Ecumenical Council to the end of the Fourth Century</i> (Oxford: Parker 1842-4).
+
+## Letters Mentioning This Work
+
+- [Letter 3255](../3255-to-the-reverend-john-frederick-watkinson-bullock-22.qmd)
+

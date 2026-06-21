@@ -1,0 +1,15 @@
+---
+title: "Jean Bolland et al. - Acta Sanctorum"
+book_id: 974
+---
+
+## Publication Information
+
+**Date:** 1643-1940
+
+**Imprint:** Antwerp and Brussels: Societe des Bollandistes
+
+## Letters Mentioning This Work
+
+- [Letter 2796](../2796-to-mary-ann-moberly.qmd)
+

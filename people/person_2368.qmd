@@ -1,0 +1,15 @@
+---
+title: "Giuseppe Mazzini"
+person_id: 2368
+---
+
+## Biographical Information
+
+(1805-1872)
+
+Italian nationalist and politician
+
+## Letters Mentioning This Person
+
+- [Letter 2851](../2851-to-edith-sophia-jacob.qmd)
+

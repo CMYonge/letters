@@ -1,0 +1,43 @@
+---
+title: "To the Reverend Algernon Wodehouse"
+letter_iso_date: "1863-12-01"
+letter_date: "Decr 1st 1863"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Princeton University, Parrish Collection, CO171: Box 29: Author Files Wood-Yonge"
+post_id: 1920
+letter_id: "to-the-reverend-algernon-wodehouse"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Algernon Wodehouse"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-12-01"
+  url: "https://cmyonge.github.io/letters/1920-to-the-reverend-algernon-wodehouse"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 1st 1863  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Princeton University, Parrish Collection, CO171: Box 29: Author Files Wood-Yonge
+:::
+
+Dear [Mr Wodehouse](people/person_1548.qmd)
+
+I shall be delighted to see another story of [Miss Gordon](people/person_569.qmd)’s.[^1] I am in hopes that her [icelandic one](other_books/otherbook_353.qmd) will appear in the [Packet](organizations/other_52.qmd) in February or March, and indeed I was thinking of writing to ask where she was that I might send her the proofs, it is indeed a long time since we have met, and as my [brother](people/person_1624.qmd) and [sister](people/person_1604.qmd) have gone out and left us their cavalry, we are meditating driving to Easton some day, when we might bring home the MS. Would you or [Lady Elinor](people/person_1547.qmd) be so kind as to let us know whether we should find you at home if we presented ourselves at luncheon the first <u>fine</u> day next week?
+
+Yours very truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Mary Charlotte Julia Gordon (1840-1926), later (1865) Mrs Disney Leith, was a niece of Lady Elinor Wodehouse, who was sister to her mother and to the mother of Algernon Swinburne, with whom Mary Gordon collaborated on a story *The Children of the Chapel* (1864).

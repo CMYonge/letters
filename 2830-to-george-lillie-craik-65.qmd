@@ -1,0 +1,58 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1886-05-28"
+letter_date: "May 28th [1886]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 145-6:"
+post_id: 2830
+letter_id: "to-george-lillie-craik-65"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-05-28"
+  url: "https://cmyonge.github.io/letters/2830-to-george-lillie-craik-65"
+---
+
+::: {.letter-metadata}
+**Date:** May 28th [1886]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 145-6:
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+You will think there is no end to me, but it may save more letters if you get this before seeing [Mr Carr](people/person_2364.qmd).
+
+1st - Could some copies be put in boards for prizes for the Board Schools at Liverpool. I suppose they could tell how many, and others might like them[^1]
+
+2d - . If I could have a list of convenient illustrations  I could make them salient points
+
+3d - As to length, I will go on so as to unfold the history naturally, and if there is too much cut down afterwards.
+
+4th I believe the Liverpool people would like it before February; but even if I finish my part quickly, I suppose the illustrations must take time.
+
+Now another subject  
+
+I have finished writing a story about the length of [the Little Duke](cmy_books/cmybook_20.qmd), 14 chapters of which about half have come out in the [Monthly Packet](organizations/other_52.qmd). It is to finish at Christmas  [The Modern Quest of Ulysses](cmy_books/cmybook_185.qmd) is the title, and it is about a Moorish capture of an Irish and Scotch Jacobite family (naturalised in France) in 1718  A good deal of it is true and there is material for pretty illustrations
+
+Would it be well to set it going, though I do not want it to come out till December, so as not to precede the end in the Packet?
+
+Lastly - may I ask for [Mrs Craik’](people/person_378.qmd)s edition of [Old Fairy Tales](other_books/otherbook_1004.qmd)? I have been recommending the <u>right</u> old ones in the [library guide](cmy_books/cmybook_196.qmd) I spoke of and I want to see which these are.
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This relates to the publication of CMY's *Victorian Half-Century* (1886), which Craik was considering serializing in the *English Illustrated Magazine*, edited by Joseph Comyns Carr.

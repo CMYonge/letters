@@ -1,0 +1,40 @@
+---
+title: "To Mrs Swinton"
+letter_iso_date: "1899-08-13"
+letter_date: "Sunday Aug 13th [1899]"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3417
+letter_id: "to-mrs-swinton-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Swinton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-08-13"
+  url: "https://cmyonge.github.io/letters/3417-to-mrs-swinton-2"
+---
+
+::: {.letter-metadata}
+**Date:** Sunday Aug 13th [1899]  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mrs Swinton](people/person_1388.qmd)
+Thank you once more for the Waterloo letters which I have read with the greatest pleasure.[^1] They bring it close to us, just as did [Lord Seaton](people/person_313.qmd) and [my father](people/person_1631.qmd) talking it over. I rather wonder to see the Prince of Orange such a favourite but probably he was very different to young girls from what he was to Lord Seaton who was his ‘bear leader’ for some time
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The 13 August also fell on a Sunday in 1882 and 1893.
+[^2]: The reference might be to *Waterloo letters. A selection from original and hitherto unpublished letters bearing on the operations of the 16th, 17th, and 18th June 1815, by officers who served in the campaign* ed. Major-Gen. H.T. Siborne, R.E. (London: Cassell 1891) or to *Letters and journals of Field-Marshal Sir William Maynard Gomm from 1799 to Waterloo, 1815* (London: Murray 1881), the latter of which includes some favourable references to William (1792 -1849), prince of Orange and later King of the Netherlands, whose military secretary during the Waterloo campaign was CMY’s step-uncle John Colborne, later 1st Lord Seaton.

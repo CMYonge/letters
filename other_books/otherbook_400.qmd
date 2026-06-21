@@ -1,0 +1,19 @@
+---
+title: "John Kitto - A cyclopaedia of Biblical literature"
+book_id: 400
+---
+
+## Publication Information
+
+**Date:** 1845
+
+**Imprint:** Edinburgh: Black
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 2029](../2029-alexander-macmillan-to-charlotte-mary-yonge-27.qmd)
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+

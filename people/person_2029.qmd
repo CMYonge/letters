@@ -1,0 +1,13 @@
+---
+title: "Miss Forrest"
+person_id: 2029
+---
+
+## Biographical Information
+
+contributor to <i>MP</i> as 'FF' (1869?).
+
+## Letters Mentioning This Person
+
+- [Letter 2343](../2343-to-miss-forrest.qmd)
+

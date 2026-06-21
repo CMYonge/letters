@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1887-04-15"
+letter_date: "April 15 [1887]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2857
+letter_id: "to-the-reverend-john-frewen-moor-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-04-15"
+  url: "https://cmyonge.github.io/letters/2857-to-the-reverend-john-frewen-moor-20"
+---
+
+::: {.letter-metadata}
+**Date:** April 15 [1887]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+
+Thank you very much. There is one thing more that I want, when you come to the Confirmation, & that is the last [SPG](organizations/other_41.qmd) report. Subscribing through [my friend](people/person_1462.qmd) here, I don’t get it direct
+
+I have made a beginning but I go from home for nearly a week after the Confirmation  I do not know what to do about the Chandlers Ford children. There really are not many - & when a child has everything right it would be hard to refuse it a trumpery little reward because it was not of the parish. Indeed I suspect coming to Otterbourne is sometimes made an excuse for not coming at all, it is much the way with borderers. One or two families came before there was a school and have kept on
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Cream card with rounded corners. Cream envelope addressed to ‘The Revd/ J F Moor/ Ampfield/ Romsey' and postmarked Winchester 15 April 1887.

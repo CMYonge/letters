@@ -1,0 +1,37 @@
+---
+title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+letter_iso_date: "1890-11-00"
+letter_date: "[November 1890]"
+manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (November 1890) 188."
+post_id: 9389
+letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-11-00"
+  url: "https://cmyonge.github.io/letters/9389-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+---
+
+::: {.letter-metadata}
+**Date:** [November 1890]  
+**Manuscript:** MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (November 1890) 188.
+:::
+
+A BLIND GIRL
+
+Dear Madam,-
+Would any Associate or [Member](organizations/other_23.qmd), accustomed to cheer the blind, kindly get into communication with a Member, aged fourteen, a cottage child who is not in health for a blind school. She can knit, and read a little by Moon’s method, and has a mother and sister who can read letters to her. Her address is [Annie Nargate](people/person_917.qmd) [sic], Fergern Hill, Otterbourne, Winchester; but it might perhaps be best to write to her Associate, [Miss Jacson](people/person_1962.qmd), Yew-tree Cottage, Otterbourne, Winchester.		
+
+I remain,
+ C. M. Yonge.

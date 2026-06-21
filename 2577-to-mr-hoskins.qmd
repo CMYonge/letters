@@ -1,0 +1,37 @@
+---
+title: "To Mr Hoskins"
+letter_iso_date: "1877-03-20"
+letter_date: "March 20th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2577
+letter_id: "to-mr-hoskins"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mr Hoskins"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-03-20"
+  url: "https://cmyonge.github.io/letters/2577-to-mr-hoskins"
+---
+
+::: {.letter-metadata}
+**Date:** March 20th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+Miss Yonge is glad to be able to inform [Mr Hoskins](people/person_718.qmd) that the 1st volume of the [Beginnings of Church history](cmy_books/cmybook_119.qmd) is nearly printed and will soon be out. A large number of orders for it is the only way of cheapening it. Miss Yonge fears the Societies would not accept the book without omissions to which she could not consent.[^1]
+
+---
+
+[^1]: It seems likely that the societies referred to here included the [SPCK](organizations/other_40.qmd), since CMY regarded it as cautious about publishing books which might be considered too High Church. She was perhaps also thinking of the [National Society](organizations/other_32.qmd).

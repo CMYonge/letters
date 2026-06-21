@@ -1,0 +1,17 @@
+---
+title: "Samuel Butler - Hudibras: The First Part"
+book_id: 789
+---
+
+## Publication Information
+
+**Date:** 1663
+
+**Imprint:** London: Marriot
+
+**Notes:** The second part was published in 1664.
+
+## Letters Mentioning This Work
+
+- [Letter 2375](../2375-to-arthur-john-butler-10.qmd)
+

@@ -1,0 +1,47 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1886-02-27"
+letter_date: "February 27 [1886]]"
+location: "Elderfield,"
+manuscript: "MS location unknown, printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 308."
+post_id: 2926
+letter_id: "to-elizabeth-barnett-24"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-02-27"
+  url: "https://cmyonge.github.io/letters/2926-to-elizabeth-barnett-24"
+---
+
+::: {.letter-metadata}
+**Date:** February 27 [1886]]  
+**From:** Elderfield,  
+**Manuscript:** MS location unknown, printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 308.
+:::
+
+My dear [Lizzie](people/person_113.qmd)-
+
+ . . .  It is of no use to debate about [W. E. G.](people/person_1653.qmd) You know even dear [M. A.](people/person_464.qmd) and I had to avoid the subject, so I am not likely to be more convinced now of anything but that he deceives himself most of all, and takes love of power and popularity and hatred of Conservatives for love of right.
+
+I have the outline of a story for the Xmas number (begun before your letter about High Arts, etc.) about a girl who abandons her mother to study it.  I don't know if it will come to good, for I am slipping behind the modern world.-
+
+Your affectionate   
+C. M. Yonge
+
+Do you remember [Mr. St. John Tyrwhitt](people/person_1428.qmd) about the Greek perfection of form in Art, and the Christian ideality of countenance?[^1]  Do not girls who outrage their feminine instincts throw away all hope of that higher thing?
+
+---
+
+[^1]: The letter has been dated on the assumption that the story referred to is 'Mrs. Batseyes', which was published in *MP* (Christmas 1886) and reprinted in *More Bywords* (1890).
+[^2]: The Rev. Richard St. John Tyrwhitt (1827-1895), *MP* contributor, art historian and vicar of St. Mary Magdalen, Oxford, published a number of books on aesthetics and theology, to one of which CMY evidently refers here.

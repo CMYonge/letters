@@ -1,0 +1,15 @@
+---
+title: "Jacques-Bénigne Bossuet"
+person_id: 2418
+---
+
+## Biographical Information
+
+(1627-1704)
+
+Bishop of Meaux, theologian
+
+## Letters Mentioning This Person
+
+- [Letter 2336](../2336-to-frances-awdry-2.qmd)
+

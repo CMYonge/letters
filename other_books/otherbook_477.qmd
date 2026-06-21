@@ -1,0 +1,15 @@
+---
+title: "John Ruskin - The Ethics of the Dust: Ten Lectures to Little Housewives on the Elements of Crystallization"
+book_id: 477
+---
+
+## Publication Information
+
+**Date:** 1866
+
+**Imprint:** London: Routledge
+
+## Letters Mentioning This Work
+
+- [Letter 2142](../2142-to-an-unknown-woman-14.qmd)
+

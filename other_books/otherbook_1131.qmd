@@ -1,0 +1,15 @@
+---
+title: "William Shakespeare - The Works of William Shakespeare"
+book_id: 1131
+---
+
+## Publication Information
+
+**Date:** 1863-1866
+
+**Imprint:** Cambridge: Macmillan
+
+## Letters Mentioning This Work
+
+- [Letter 19664](../19664-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

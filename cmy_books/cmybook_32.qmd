@@ -1,0 +1,18 @@
+---
+title: "Conversations on the Catechism: The Commandments. By the author of “The Heir of Redclyffe.”"
+book_id: 32
+sort_title: "Conversations on the Catechism: The Commandments"
+---
+
+## Publication Information
+
+**Date:** 1859
+
+**Genre:** Non-fiction: theology
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London.
+
+## Letters Mentioning This Work
+
+- [Letter 3121](../3121-from-the-reverend-john-keble-to-charlotte-mary-yonge.qmd)
+

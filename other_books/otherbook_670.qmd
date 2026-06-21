@@ -1,0 +1,15 @@
+---
+title: "Alice May Gordon - Eunice Anscombe"
+book_id: 670
+---
+
+## Publication Information
+
+**Date:** 1892
+
+**Imprint:** London: Sampson Low
+
+## Letters Mentioning This Work
+
+- [Letter 3199](../3199-to-alice-may-gordon-2.qmd)
+

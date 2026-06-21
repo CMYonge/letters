@@ -1,0 +1,15 @@
+---
+title: "Maria Edgeworth - The Parent's Assistant, or, Stories for Children"
+book_id: 233
+---
+
+## Publication Information
+
+**Date:** 1796
+
+**Imprint:** London: Johnson
+
+## Letters Mentioning This Work
+
+- [Letter 2997](../2997-to-elizabeth-roberts-17.qmd)
+

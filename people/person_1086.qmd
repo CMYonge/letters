@@ -1,0 +1,19 @@
+---
+title: "Florence Nightingale"
+person_id: 1086
+---
+
+## Biographical Information
+
+(1820-1910)
+
+medical reformer
+
+## Letters Mentioning This Person
+
+- [Letter 1978](../1978-to-alexander-macmillan-21.qmd)
+- [Letter 1979](../1979-alexander-macmillan-to-charlotte-mary-yonge-14.qmd)
+- [Letter 1980](../1980-to-alexander-macmillan-22.qmd)
+- [Letter 2101](../2101-to-alexander-macmillan-70.qmd)
+- [Letter 2251](../2251-to-edith-sophia-jacob-14.qmd)
+

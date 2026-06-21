@@ -1,0 +1,43 @@
+---
+title: "To John Duke Coleridge"
+letter_iso_date: "1854-03-01"
+letter_date: "March 1st [1854]"
+location: "Otterbourn"
+manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86207 Yonge JDC"
+post_id: 7852
+letter_id: "to-john-duke-coleridge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Duke Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-03-01"
+  url: "https://cmyonge.github.io/letters/7852-to-john-duke-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** March 1st [1854]  
+**From:** Otterbourn  
+**Manuscript:** MS British Library: Coleridge Family Papers E: Add MSS 86207 Yonge JDC
+:::
+
+My dear [John](people/person_343.qmd),
+I must send you a few lines to thank you for the kind message you sent us yesterday by [James Yonge](people/person_1804.qmd), and to tell you we shall be glad to know you are among the mourners on Saturday.[^1]  Perhaps I should not have written this, but have trusted to your understanding it, but there is a favour which I am sure you will gladly do me, namely to write to [Mr Richmond](people/person_1731.qmd) and tell him that at least two full hearts are thanking him for the sketch he did for me in bright days so long ago, and which is now become so very precious. When I wrote that [piece about Guy](cmy_books/cmybook_15.qmd)’s picture, of which my dear father was very fond, I little thought that there would be such a likeness of it in our own case, for I am sure it was partly from admiration of that noble face that Mr Richmond  made the drawing.[^2] It is very comfortable to have the [Keble](people/person_798.qmd)s with us and I am sure everything has been as much in our favour as possible
+
+Your affectionate cousin
+Charlotte M Yonge
+
+---
+
+[^1]: Black-edged paper, annotated in another hand 'C M. Yonge/March 1854.
+[^2]: At the funeral of CMY's father [WCY](people/person_1631.qmd), who had died on 26 February 1854.
+[^3]: Richmond's drawing of WCY is illustrated in Coleridge, *Life*. The passage in *The Heir of Redclyffe* referred to here, in which Amabel takes comfort from the portrait of her dead husband, occurs in Vol II, Ch.15, p.248.

@@ -1,0 +1,41 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1859-04-12"
+letter_date: "April 12th [1859]"
+location: "Otterbourn"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1859/3"
+post_id: 3129
+letter_id: "to-ann-maria-carter-smith-18"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-04-12"
+  url: "https://cmyonge.github.io/letters/3129-to-ann-maria-carter-smith-18"
+---
+
+::: {.letter-metadata}
+**Date:** April 12th [1859]  
+**From:** Otterbourn  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1859/3
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+I hope and trust [the tale](other_books/otherbook_268.qmd) is safe, I sent it off with the letter on Saturday, in a brown paper cover and a shilling stamp which our post office told me was the sufficient sum. If it be not come, we must write to the General Post Office but I hope to hear it is all right, as I know the book post will sometimes detain a heavy parcel for a day or two.  It has been haunting me ever since my letter went that I made lain the participle of the active to lay, instead of of the neuter to lie.  I believe one always knows less of English grammar than of any other.  By the by, I hope you will not think I wished anything to be said to diminish the inexpediency of [cousins marrying](organizations/other_101.qmd).  I think old Sir John was very right  Thank you about Robert.  Those people are very real to me.  I enclose a note for [Mr Parker](people/person_1143.qmd) which I hope may induce him to consider it favorably, unless he thinks it out of his line. I hope you will let me know if it has safely arrived.  I am so glad poor Robert and Sophy will be allowed to be together.  In a day or two I hope to send the next division of [East London](other_books/otherbook_265.qmd), please to direct it on straight to [Messrs Mozley](organizations/other_108.qmd) at Derby instead of sending it back to me
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** This letter evidently belongs in the empty envelope catalogued as MS Westcountry Studies Library, Exeter/ Yonge 1859/4: an empty envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 12 April 1859 and London SE 13 April (year illegible).

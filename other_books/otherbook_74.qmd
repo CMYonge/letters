@@ -1,0 +1,16 @@
+---
+title: "Anne Grant - Letters from the Mountains: Being the real correspondence of a lady between the years 1773 and 1803"
+book_id: 74
+---
+
+## Publication Information
+
+**Date:** 1806
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3041](../3041-to-jemima-blackburn-2.qmd)
+- [Letter 3052](../3052-to-jemima-blackburn-5.qmd)
+

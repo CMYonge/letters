@@ -1,0 +1,39 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-11-22"
+letter_date: "Novr 22d [1852]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 3004
+letter_id: "to-elizabeth-roberts-24"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-11-22"
+  url: "https://cmyonge.github.io/letters/3004-to-elizabeth-roberts-24"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 22d [1852]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+My dear [Madam](people/person_1243.qmd),
+The wreaths for these autumn months have been so much smaller that I am sorry to say that there is [only 7/6](organizations/other_102.qmd) to send you for this quarter, and here are P.O. stamps to that amount. I have not yet heard what we shall be able to do next year. I think that '[the Lesser Holydays](other_books/otherbook_234.qmd)’ is the name that best approves itself to me, what do you think of it. I know the poem of [Mary Howitt](people/person_1729.qmd)’s you mention, but we have it not in the house nor do I know where I read it.  If ever I come on it I will send it to you.
+
+With many thanks for your [Garland](other_books/otherbook_225.qmd), which has been one of the choicest possessions of this years [Packet](organizations/other_52.qmd)
+
+Yours sincerely
+C M Yonge

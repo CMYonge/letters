@@ -1,0 +1,13 @@
+---
+title: "Miss Hall"
+person_id: 2396
+---
+
+## Biographical Information
+
+Sister of Mercy at the College of Greyladies
+
+## Letters Mentioning This Person
+
+- [Letter 3335](../3335-to-miss-hall.qmd)
+

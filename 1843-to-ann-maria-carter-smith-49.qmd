@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1861-11-21"
+letter_date: "Novr 21st 1861"
+location: "Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1861/13"
+post_id: 1843
+letter_id: "to-ann-maria-carter-smith-49"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-11-21"
+  url: "https://cmyonge.github.io/letters/1843-to-ann-maria-carter-smith-49"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 21st 1861  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/13
+:::
+
+My dear [Miss Smith](people/person_263.qmd),
+
+You must have begun to wonder if the Indian £10 was coming I am sure I did, but here it is at last, in good time I hope. It seems that [Mrs Elphinstone](people/person_482.qmd) has been very ill, and that has prevented her from sending it sooner. I will write to her to acknowledge it as soon as I have heard from you. I am glad to see your three Ks in the [Churchman](organizations/other_62.qmd).[^1] I augur well of them, and the [Banks of the Thorne](other_books/otherbook_275.qmd) are much liked. You will have some sheets of [Mrs Grant](cmy_books/cmybook_43.qmd) very soon, but I had to abridge her a little there was so much more of her than of the others.
+
+Fancy the amazement of some travellers in the train at hearing [Dr Harris](people/person_629.qmd) of Torquay alluring two ladies thither by saying ‘If you will come to Torr I will give you the worst street there’.[^2] You may fancy they were kindred 
+
+[the letter seems to break off here, although the fourth side of the sheet is blank. Possibly CMY forgot she had not signed the letter and posted it like this]
+
+---
+
+[^1]: In an envelope addressed to Miss Ann Smith/ The Rectory/ Old Charlton/ SE and postmarked Winchester 21 November 1861, and on reverse London SE (date illegible). The envelope also contains a piece of paper with sums on it labelled Charlton Rectory.
+[^2]: *The Daughters of the Fair Elms* By the Author of *The Wynnes*, a serial which ran in the *Churchman’s Companion* from November 1861.
+[^3]: Presumably he was trying to “allure” them into being district visitors in his parish.

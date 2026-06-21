@@ -1,0 +1,25 @@
+---
+title: "The Rev. John Keble - Lyra Innocentium: Thoughts in verse on Christian children, their ways and their privileges"
+book_id: 232
+---
+
+## Publication Information
+
+**Date:** 1846
+
+**Imprint:** Oxford: Parker
+
+## Letters Mentioning This Work
+
+- [Letter 1829](../1829-to-frances-sophia-coleridge-patteson-3.qmd)
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+- [Letter 2173](../2173-to-christabel-rose-coleridge-10.qmd)
+- [Letter 2275](../2275-to-mary-ann-dyson-7.qmd)
+- [Letter 2339](../2339-to-mary-yonge-7.qmd)
+- [Letter 2429](../2429-to-mary-anne-dyson-21.qmd)
+- [Letter 2452](../2452-to-william-garrett-horder-2.qmd)
+- [Letter 2453](../2453-to-william-garrett-horder-3.qmd)
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
+- [Letter 2995](../2995-to-elizabeth-roberts-15.qmd)
+- [Letter 3232](../3232-to-the-parishioners-of-otterbourne-2.qmd)
+

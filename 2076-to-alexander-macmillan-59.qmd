@@ -1,0 +1,39 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-10-26"
+letter_date: "Oct 26th [1865]"
+location: "Crookham"
+manuscript: "MS British Library Add MSS 54920: 114"
+post_id: 2076
+letter_id: "to-alexander-macmillan-59"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-10-26"
+  url: "https://cmyonge.github.io/letters/2076-to-alexander-macmillan-59"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 26th [1865]  
+**From:** Crookham  
+**Manuscript:** MS British Library Add MSS 54920: 114
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Happening to have an excess of M.S. luggage, I am rather glad to send off an instalment of “the <u>[Chaplet of Pearls](cmy_books/cmybook_69.qmd)</u>” instead of packing it up. It threatens to be longer than the [Dove](cmy_books/cmybook_62.qmd), and there is a good deal more still to be written, and probably rewritten.
+
+I believe I omitted to say that it would be the most convenient way to me if you could [pay](organizations/other_160.qmd) the £235, the balance of my account to my name at [Messrs Hoare](organizations/other_169.qmd)’s.
+
+Yours very truly
+C M Yonge

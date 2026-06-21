@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1877-11-19"
+letter_date: "Novr 19th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 38-39"
+post_id: 2609
+letter_id: "to-alexander-macmillan-128"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-11-19"
+  url: "https://cmyonge.github.io/letters/2609-to-alexander-macmillan-128"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 19th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 38-39
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd)
+
+It is an odd doubt, but I am not sure whether it was you or [Mr Craik](people/person_379.qmd) who wrote to me about writing a History to suit that proof. Am I to understand that I may take [the wars](cmy_books/cmybook_126.qmd) of the Castilhians [sic] and Moors, for I should like to make it my winter work
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

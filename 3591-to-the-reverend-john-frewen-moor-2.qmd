@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1887-06-08"
+letter_date: "June 8th [1887]"
+location: "Clovelly Belgrave Crescent Torquay"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 3591
+letter_id: "to-the-reverend-john-frewen-moor-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-06-08"
+  url: "https://cmyonge.github.io/letters/3591-to-the-reverend-john-frewen-moor-2"
+---
+
+::: {.letter-metadata}
+**Date:** June 8th [1887]  
+**From:** Clovelly Belgrave Crescent Torquay  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+
+I wrote the paper you asked me to do for the [CQ](organizations/other_60.qmd) but I am sorry to say it was not good enough, and was rejected. I rather suspected that it would be for it was too long and too like a report. Do you like to have it for use in any other way?  I have had an article from Mr Donald Mackay sent me for the [Packet](organizations/other_52.qmd) for August on the Centenary[^1]
+
+I shall come home on the 16th, and I will then send your books back with many thanks, and wishes I had done it better
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: D.J. Mackey, ‘The Centenary of the Colonial Church’ *MP* (August 1887) 187-92.

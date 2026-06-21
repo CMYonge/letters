@@ -1,0 +1,34 @@
+---
+title: "To an Unknown Person"
+letter_iso_date: "1875-00-00"
+letter_date: "[after 1875]"
+manuscript: "MS fragment Princeton University, Parrish Collection"
+post_id: 3530
+letter_id: "to-an-unknown-person-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-00-00"
+  url: "https://cmyonge.github.io/letters/3530-to-an-unknown-person-10"
+---
+
+::: {.letter-metadata}
+**Date:** [after 1875]  
+**Manuscript:** MS fragment Princeton University, Parrish Collection
+:::
+
+the Grange - [Mrs Shipley](people/person_2324.qmd) called while I was out, decorating yesterday perhaps with a view to [G F S](organizations/other_23.qmd)
+
+Yours affectionately
+C M Yonge

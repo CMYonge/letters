@@ -1,0 +1,34 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1864-10-28"
+letter_date: "Oct. 28 1864"
+manuscript: "Copy outletter book British Library Add MSS. 55383 (2): P. 514"
+post_id: 1987
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-28"
+  url: "https://cmyonge.github.io/letters/1987-alexander-macmillan-to-charlotte-mary-yonge-16"
+---
+
+::: {.letter-metadata}
+**Date:** Oct. 28 1864  
+**Manuscript:** Copy outletter book British Library Add MSS. 55383 (2): P. 514
+:::
+
+Dear Miss Yonge	
+We shall deal with the [Clever Woman](cmy_books/cmybook_58.qmd) as we did with the [Trial](cmy_books/cmybook_53.qmd) as you wish it. Will it be safe to begin printing it or will you prefer waiting till we are a little further on. If we cannot publish before the end of November it would be better to wait till February.
+
+We will be very glad to have all the copy for the [golden Deeds](cmy_books/cmybook_51.qmd). The little extra will not matter. [I](people/person_939.qmd) only meant or 'thereabouts.' You will have a proof of the title page very soon. [*The rest of this letter illegible*]

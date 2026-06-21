@@ -1,0 +1,37 @@
+---
+title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+letter_iso_date: "1890-03-00"
+letter_date: "[March 1890]"
+manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i>  (March 1890) 42."
+post_id: 9425
+letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-03-00"
+  url: "https://cmyonge.github.io/letters/9425-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+---
+
+::: {.letter-metadata}
+**Date:** [March 1890]  
+**Manuscript:** MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i>  (March 1890) 42.
+:::
+
+THE ADVERTISEMENTS IN OUR MAGAZINES
+
+Dear Madam,-
+I rejoiced at the demonstration against the advertisements inserted on loose sheets  in our Magazines, as I have a strong aversion to them. I do not entirely share your correspondents’ condemnation of obtaining money by advertising on the wrapper. It seems to me a lawful means, and the rational use of advertisements is expedient. But a line should be drawn in the choice, especially as [Members](organizations/other_23.qmd) may fancy that what is advertised is recommended, and I strongly protest against the advertisement of patent medicines. Even if they are safe to deal with girls had much better not doctor themselves, nor are the details desirable. Yet such cover all one page of the wrapper of [*Friendly Leaves](organizations/other_71.qmd)* in nauseous repetition, and there are two still more unpleasant outside [*Friendly Work*](organizations/other_182.qmd) this month. What a pity not to give us useful advertisements of books, &c. They may not pay so well, but surely a loss would be better than ministering to the dangerous passion for patent medicines. A series of papers in the [*Saturday Review*](organizations/other_99.qmd) some years ago showed how perilous is the habit of recurring to them without medical advice.
+
+I remain, &c.,
+C. M. Yonge.

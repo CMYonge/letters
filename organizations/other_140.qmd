@@ -1,0 +1,16 @@
+---
+title: "Brighstone"
+other_id: 140
+---
+
+**Type:** place
+
+## Description
+
+A village on the Isle of Wight of which the Rev. George Moberly was rector between 1868 and 1869.
+
+## Letters Mentioning This
+
+- [Letter 2315](../2315-to-the-reverend-john-frewen-moor-10.qmd)
+- [Letter 3571](../3571-to-elizabeth-missing-sewell-2.qmd)
+

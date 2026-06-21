@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1866-05-03"
+letter_date: "May 3d  [1866]"
+location: "New College"
+manuscript: "MS Helen Schinske"
+post_id: 2122
+letter_id: "to-ann-maria-carter-smith-73"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-05-03"
+  url: "https://cmyonge.github.io/letters/2122-to-ann-maria-carter-smith-73"
+---
+
+::: {.letter-metadata}
+**Date:** May 3d  [1866]  
+**From:** New College  
+**Manuscript:** MS Helen Schinske
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+I remembered with consternation this morning that I had never answered about your poor girl. I hope if we had had a vote to give that I should have behaved better, but the fact is that there is a child from the parish where my [grandfather](people/person_106.qmd) was Rector whom we must vote for till he is disposed of. I always feel very sore about that [Asylum](organizations/other_38.qmd), having subscribed for an idiot of our own parish and then found him ineligible because unluckily he had had parish relief--[^1]
+
+We have just set out on a two months expedition from home -- and are enjoying this most charming place with all our hearts--
+
+A direction to Otterbourn will always find me--
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Presumably the same child, denied entry to Earlswood on these grounds, is referred to in a letter to Fanny Wilbraham (26 August 1865): http://www.yongeletters.com/wordpress/2067/to-fanny .

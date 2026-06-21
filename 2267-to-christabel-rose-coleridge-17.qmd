@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1868-09-15"
+letter_date: "Sept 15th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2267
+letter_id: "to-christabel-rose-coleridge-17"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-09-15"
+  url: "https://cmyonge.github.io/letters/2267-to-christabel-rose-coleridge-17"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 15th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+I think you had better guide the flight of the [Barnacle](organizations/other_89.qmd) I have nothing special to observe about it, except that it might be worth while to let [Mary Morshead](people/person_28.qmd) have it at once, as I do not know how soon she sails.[^1] I suppose it is the last at least for the present[.] [Mrs Valentine](people/person_1437.qmd) is getting up another Christmas [annual](other_books/otherbook_533.qmd), especially for children, so I should think it might be worth while to write to her and then you could ask after [Giftie](other_books/otherbook_500.qmd).[^2] [Mamma](people/person_1606.qmd) is very weak and only gets up to take a short drive in her donkey chair every day. I think [Lady Coleridge](people/person_347.qmd) must be better since [Edith](people/person_331.qmd) saw her[,] for [Miss Dyson](people/person_464.qmd) seems satisfied about her, and she is at Ottery now.
+
+your affectionate
+C M Yonge
+
+You idle [Gosling](organizations/other_104.qmd) - you don’t give a hint where here  is - so this must go to Hanwell.
+
+---
+
+[^1]: For Cape Town to work as a missionary. See letter to Christabel Coleridge, 1 July 1868.
+[^2]: Laura Valentine worked as a children’s books editor for Warne, who published *Giftie* in 1869; the annual was probably *Warne’s Home Annual* (1869 etc). Perhaps the Christmas 1868 edition was dated 1869.

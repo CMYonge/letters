@@ -1,0 +1,16 @@
+---
+title: "Prichard"
+person_id: 1893
+---
+
+## Biographical Information
+
+friend of Edward and Mary Coleridge
+
+The Mrs Pritchard or Prichard referred to in letters to the Rev. Edward Coleridge and his wife Mary is assumed to be one person.
+
+## Letters Mentioning This Person
+
+- [Letter 2482](../2482-to-mary-caroline-coleridge.qmd)
+- [Letter 7831](../7831-to-the-reverend-edward-coleridge.qmd)
+

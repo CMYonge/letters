@@ -1,0 +1,44 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1868-10-08"
+letter_date: "Oct 8th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1868/1"
+post_id: 2281
+letter_id: "to-ann-maria-carter-smith-79"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-08"
+  url: "https://cmyonge.github.io/letters/2281-to-ann-maria-carter-smith-79"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 8th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1868/1
+:::
+
+My dear [Miss Smith](people/person_263.qmd),
+Thank you for your kind, warm hearted letter. I know you too know what a great grief is, and how close one clings to the last surviving parent,[^1] and the sense of being still a child at home. May you long preserve that blessing.
+
+I should be very lonely but that my [brother](people/person_1624.qmd) and his [wife](people/person_1604.qmd) are only a garden’s length from me, and most kind, and just at present I have a [cousin](people/person_1582.qmd) with me, who has always been like a sister to me. I think I shall go into Devonshire with her, and then return to face the solitude
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY is replying to a letter of condolence on the death of [FMY](people/person_1606.qmd), who died on 28 September 1868. Ann Carter Smith’s father, the Rev. Richard Carter Smith, perpetual curate of St. Paul’s Charlton, had died on on 1 October 1864.

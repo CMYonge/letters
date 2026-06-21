@@ -1,0 +1,45 @@
+---
+title: "To Horatia Sophia Elder"
+letter_iso_date: "1867-02-16"
+letter_date: "Feb 16th [1867]"
+manuscript: "UCLA: collection 100: box 95"
+post_id: 2149
+letter_id: "to-mrs-elder"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Horatia Sophia Elder"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-02-16"
+  url: "https://cmyonge.github.io/letters/2149-to-mrs-elder"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 16th [1867]  
+**Manuscript:** UCLA: collection 100: box 95
+:::
+
+My dear [Mrs Elder](people/person_471.qmd),
+In some inexplicable way your [sonnet for the collect](other_books/otherbook_434.qmd) for the Annunciation has disappeared. Could you—if you have a copy—be so kind as to send it by the next post—direct to 
+
+Messrs. [Mozley](organizations/other_108.qmd)
+Friar’s Gate
+Derby,
+
+as they are leaving a gap for it. How it was missed between us I cannot guess. I have all the others, quite safe up to June 29th. I hope you will excuse the blunder, and that it will not cost you much trouble.
+
+	Yours sincerely
+C M Yonge
+
+---
+
+**Note:** The Sonnet on the Annunciation appeared in *[MP](organizations/other_52.qmd)* (March 1867) 209.

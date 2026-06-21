@@ -1,0 +1,19 @@
+---
+title: "Dames of High EstateBy Henriette de Witt.  The translations edited by Charlotte M. Yonge."
+book_id: 100
+sort_title: "Dames of High Estate"
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Genre:** Edited translation
+
+**Publisher:** London: Frederick Warne and Co., Bedford Street, Covent Garden.
+
+## Letters Mentioning This Work
+
+- [Letter 2395](../2395-to-bell-and-daldy.qmd)
+- [Letter 2409](../2409-to-laura-valentine-3.qmd)
+

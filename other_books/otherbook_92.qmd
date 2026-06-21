@@ -1,0 +1,18 @@
+---
+title: "The Rev. John Keble and others - Lyra Apostolica"
+book_id: 92
+---
+
+## Publication Information
+
+**Date:** 1836
+
+**Imprint:** Derby: Mozley, Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 2288](../2288-to-the-reverend-william-john-butler-2.qmd)
+- [Letter 2338](../2338-to-the-reverend-duke-yonge.qmd)
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
+- [Letter 2948](../2948-to-anne-yonge-15.qmd)
+

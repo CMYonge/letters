@@ -1,0 +1,43 @@
+---
+title: "To Anne Mary Buston"
+letter_iso_date: "1875-04-01"
+letter_date: "April 1st [after 1875]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. c.25 f270"
+post_id: 3505
+letter_id: "to-anne-mary-buston"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Mary Buston"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-04-01"
+  url: "https://cmyonge.github.io/letters/3505-to-anne-mary-buston"
+---
+
+::: {.letter-metadata}
+**Date:** April 1st [after 1875]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MSS. Autogr. c.25 f270
+:::
+
+My dear [Mrs Buston](people/person_236.qmd)
+
+We shall be very glad to see you and [Miss Dampier](people/person_404.qmd) at 3 o’clock on Wednesday - I shall have to leave you at 4, as it is the day of the [G F S](organizations/other_23.qmd) quarterly meeting, when the girls pay in their money - and I read to them[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Anne Mary Buston (1824/5-1895) was the wife of the Rev. Roger Buston (1807/8-mid 1880s), Vicar of Twyford, and mother of a numerous family.
+[^2]: The Girls' Friendly Society was founded in 1875.

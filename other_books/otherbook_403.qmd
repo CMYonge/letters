@@ -1,0 +1,15 @@
+---
+title: "J. L. Porter - A Handbook for Travellers in Syria and Palestine"
+book_id: 403
+---
+
+## Publication Information
+
+**Date:** 1858
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+

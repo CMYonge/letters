@@ -1,0 +1,18 @@
+---
+title: "The Daisy Chain Birthday BookGathered by Eadgyth"
+book_id: 355
+sort_title: "Daisy Chain Birthday Book"
+---
+
+## Publication Information
+
+**Date:** 1885
+
+**Genre:** anthology
+
+**Publisher:** London: Walter Smith
+
+## Letters Mentioning This Work
+
+- [Letter 2795](../2795-to-george-lillie-craik-60.qmd)
+

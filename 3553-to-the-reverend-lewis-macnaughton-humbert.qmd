@@ -1,0 +1,47 @@
+---
+title: "To the Reverend Lewis Macnaughton Humbert"
+letter_iso_date: "1865-10-05"
+letter_date: "Oct 5th [1865]"
+location: "Torquay"
+manuscript: "University of Iowa; MsL/Y56hu"
+post_id: 3553
+letter_id: "to-the-reverend-lewis-macnaughton-humbert"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Lewis Macnaughton Humbert"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-10-05"
+  url: "https://cmyonge.github.io/letters/3553-to-the-reverend-lewis-macnaughton-humbert"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 5th [1865]  
+**From:** Torquay  
+**Manuscript:** University of Iowa; MsL/Y56hu
+:::
+
+Dear [Mr Humbert](people/person_730.qmd),
+I have just received a note from [Lady Susanna Blunt](people/person_164.qmd) asking me the day and time of the opening of [St Cross](organizations/other_130.qmd), and whether tickets will be necessary for admission to the services. Being unable to be present I had unfortunately destroyed the notice you were so good as to send me, and thus I cannot answer her questions. Would you therefore be kind enough to send one of the papers to her husband - 
+
+the [Revd Colvin Blunt](people/person_2077.qmd)
+Ryde View
+Alverstoke
+Gosport
+
+And you will much oblige
+Yours faithfully
+C M Yonge
+
+---
+
+**Note:** The reopening of St. Cross Hospital after its restoration took place on 19 October 1865;  see the *Hampshire Advertiser* (21 October 1865) 4.

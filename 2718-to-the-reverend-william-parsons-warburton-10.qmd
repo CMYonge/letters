@@ -1,0 +1,44 @@
+---
+title: "To the Reverend William Parsons Warburton"
+letter_iso_date: "1881-02-25"
+letter_date: "25th February [1881]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Girton College Cambridge, Yonge VIII 3"
+post_id: 2718
+letter_id: "to-the-reverend-william-parsons-warburton-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William Parsons Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-02-25"
+  url: "https://cmyonge.github.io/letters/2718-to-the-reverend-william-parsons-warburton-10"
+---
+
+::: {.letter-metadata}
+**Date:** 25th February [1881]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Girton College Cambridge, Yonge VIII 3
+:::
+
+My dear [Mr Warburton](people/person_1466.qmd) 
+
+Our good [Vicar](people/person_478.qmd) sank suddenly last night, and died this morning.
+
+Could you be so kind as to change the examination day-? Any day after next week, but it is so likely the funeral may be on Thursday and we all feel so full of consternation and grief that we do not know how to be ready, though we would be any time after the 4th
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Warburton was the diocesan inspector of schools, and was evidently planning a visit to [Otterbourne School](organizations/other_107.qmd).  The Rev. Walter Elgie, Vicar of Otterbourne, died on Friday 25 February 1881.  The 3 March was a Thursday.

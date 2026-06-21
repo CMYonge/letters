@@ -1,0 +1,41 @@
+---
+title: "To Katharine Olive Helmore"
+letter_iso_date: "1866-03-19"
+letter_date: "March 19th [1866]"
+manuscript: "MS Charlotte Mitchell/Cobweb-8"
+post_id: 2107
+letter_id: "to-katharine-olive-helmore"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Katharine Olive Helmore"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-03-19"
+  url: "https://cmyonge.github.io/letters/2107-to-katharine-olive-helmore"
+---
+
+::: {.letter-metadata}
+**Date:** March 19th [1866]  
+**Manuscript:** MS Charlotte Mitchell/Cobweb-8
+:::
+
+My dear [Cobweb](people/person_675.qmd),
+You have been very ill used, but first [Fanny Patteson](people/person_1151.qmd) was here, and I was idle, and since that I have not been well and have been more idle. The Acrostic is capital – I always like those that are all quotation- and I am very glad to see the composers going on, this last is a very entertaining piece[^1]
+
+Pray excuse my great stupidity
+your affectionate
+[Mother Goose](organizations/other_104.qmd)
+
+---
+
+[^1]: Tiny blue envelope 92mm x 54mm addressed to Miss Helmore/ Cheyne Walk/Chelsea/ London/ S.W. postmarked Winchester 19 March 1866 and London 20 March 1866.
+[^2]: Helmore was contributing a series of articles on composers to the *[Barnacle](organizations/other_89.qmd)*.

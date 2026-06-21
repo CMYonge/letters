@@ -1,0 +1,73 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-11-22"
+letter_date: "Novr 22d 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920:"
+post_id: 1995
+letter_id: "to-alexander-macmillan-29"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-11-22"
+  url: "https://cmyonge.github.io/letters/1995-to-alexander-macmillan-29"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 22d 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920:
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I send both title page and the proof of the statuette, which is indeed most beautiful and suggestive. I wrote yesterday about the title page. I could not do so before as I only came home late on Saturday and the Sunday post goes early. I enclose the list of presentation copies[^1]
+
+Yours sincerely
+C M Yonge
+
+Will you be kind enough to send the sheets of the [Golden Deeds](cmy_books/cmybook_51.qmd) to Messrs [Williams & Norgate](organizations/other_165.qmd) for [Tauchnitz](people/person_1396.qmd) - as he may like to have it for his juvenile library, and I am writing to him today to ask the names of books likely to help 'my [Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd) -'
+
+[Mrs Pode](people/person_1180.qmd)/ 3 Craven Place/ Westbourne Terrace W
+
+[Miss Taylor](people/person_1397.qmd)/ 21 Taviton Street/ Gordon Square W C
+
+[Miss M M Coleridge](people/person_17.qmd)/ 6 Southwick Crescent W
+
+[Miss Margaret Lonsdale](people/person_896.qmd)/ Care of Miss Coleridge/ 6 Southwick Crescent 
+
+[Miss Coleridge](people/person_351.qmd)/ Heaths Court/ Ottery St Mary
+
+[Miss Alice Coleridge](people/person_327.qmd)/ St John’s College/ Hurstpierpoint
+
+[Miss C R Coleridge](people/person_329.qmd)/ Rectory / Hanwell
+
+[Miss Helmore](people/person_675.qmd) / Cheyne Walk/ Chelsea
+
+[Miss Mary Dundas](people/person_455.qmd)/ 9 Charlotte Square /Edinburgh
+
+[Miss Johns](people/person_887.qmd)/ Winton House/ Winchester
+
+[Miss Charlotte Fursdon](people/person_534.qmd)/ Fursdon / Exeter
+
+[Madame de Witt](people/person_423.qmd)/ Val Richer/ Lisieux/ Calvados/ France
+
+[Miss Anne Yonge](people/person_1582.qmd),/ Puslinch/ Yealmton
+
+12 to myself
+
+To the Editors of the [Literary Churchman](organizations/other_76.qmd) - & [Events of the Month](organizations/other_69.qmd)
+
+---
+
+[^1]: The letter is endorsed ‘sent Nov 24’.

@@ -1,0 +1,59 @@
+---
+title: "To Sir John Taylor Coleridge"
+letter_iso_date: "1872-04-22"
+letter_date: "April 22nd [1872]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC"
+post_id: 7798
+letter_id: "to-sir-john-taylor-coleridge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir John Taylor Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-22"
+  url: "https://cmyonge.github.io/letters/7798-to-sir-john-taylor-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** April 22nd [1872]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC
+:::
+
+My dear [Sir John](people/person_344.qmd), 
+Before writing to thank you, I have been copying your portrait of [Sir John Patteson](people/person_1156.qmd) into my [beginning](cmy_books/cmybook_102.qmd) so as to make it fill up what was wanting in what I had copied from [Mr Comyns memoir](other_books/otherbook_350.qmd), which is all too external. It has seemed to me from the first that as full a portraiture of both father and [mother](people/person_1889.qmd) as possible ought to be given. I only wish I had known them better. Half the letters I look over bring out incidentally the wisdom and the nobleness of Sir John’s nature
+
+I am grieved indeed to find that you do not feel equal to filling out the sketch but after [Mr Keble’s life](other_books/otherbook_226.qmd) cost you so much, I am sure no one could urge you, though I shall venture no doubt on asking you more than one question from time to time, and perhaps you or [May](people/person_351.qmd) would be so kind as to see whether there are any letters to you that had better be inserted. I think the main history of the [Mission](organizations/other_30.qmd) is to be had pretty thoroughly in his letters to the sisters, and also to [Bp Selwyn](people/person_1295.qmd), but what I want to shew is his keen interest in all other subjects.
+
+I believe it is not at all a common feature in Missionaries who generally care for nothing but their own work. As an instance, I have just had a letter from [one](people/person_28.qmd) of the [Pentyre Morshead](people/person_40.qmd)s’ daughters who is in the Sisterhood at Cape Town, grieved and indignant because she can find no one to feel with her about this but the [Bishop](people/person_578.qmd) himself. I suppose that few Missionaries have escaped a much narrower education than he had, and I want to shew its influence.
+
+While the sisters are so far off [Sophy Martyn](people/person_974.qmd) is my sheet anchor, and I have most valuable bits from her.[^1] Would May let me know [her husband](people/person_1890.qmd)’s Christian name. I have a recollection in our days of romance – or folly, which, a lamentation that it was not something more uncommon. 
+
+So far lack of dates has been my chief difficulty. I think the Eton part of the life is interesting, but so far Balliol wants materials which I hope to get from [Dr Hornby](people/person_1891.qmd)
+
+When I was at Lichfield Fanny gave me her recollections of the manner in which the offer to go to NZ was made. We read it to the Bishop, and he made additions, and your letter, and one to Sophy make that part complete.
+
+I am taking every bit of your first sheet, but incorporating it instead of putting it all together Indeed Sophy had sent me [her father](people/person_1892.qmd)’s letter on Lady Patteson’s death, which is copied in its place. I feel all along as if it was having to bring the Saint’s figure out of the block of marble. But somehow since it has been really in hand I feel as if I should be guided to make some reality of it. Every fresh contribution makes me rewrite a bit which is good for the language at any rate
+
+Before all is done, I think I shall ask to make a descent on you and look at Alfington – and at the School – which I never saw. I observe all the popular magazines that have copied my first sketch do not know what to make of Montem, and call it 'an Eton Festival' and the colonists will be worse, so I have gone into some detail in a way that will seem absurd to old Eton minds
+
+Fancy my getting a letter from New Zealand two days ago that the Maori rebellion was wholly owing – not to any colonial mismanagement but to the 'Mystery of iniquity working at Rome'
+Your affectionate
+C M Yonge
+
+I hope I have not written presumptuously, but I do enjoy the work so, and when I have done that, things have generally turned out well.  One thing I wish I had man’s power or experience to put in a few words i.e. what a Bench of Judges it was in those days. I think I shall get some one to put it in fit words for me.[^2]
+
+---
+
+[^1]: Patteson's sister [Fanny](people/person_1151.qmd) and half-sister [Joanna](people/person_1154.qmd) lived together, often abroad. Sophy (Coleridge) Martyn was their first cousin, daughter of Sir John Taylor Coleridge's eldest brother, the Rev. James Duke Coleridge, and widow of the Rev. Thomas Martyn.
+[^2]: CMY asked Sir William Heathcote to supply this.

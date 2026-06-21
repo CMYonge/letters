@@ -1,0 +1,15 @@
+---
+title: "John St. Loe Strachey"
+person_id: 2406
+---
+
+## Biographical Information
+
+(1860-1927)
+
+editor of the <i>Spectator</i> (1898-1925)
+
+## Letters Mentioning This Person
+
+- [Letter 19000](../19000-to-john-st-loe-strachey.qmd)
+

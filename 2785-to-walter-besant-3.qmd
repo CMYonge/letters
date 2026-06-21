@@ -1,0 +1,42 @@
+---
+title: "To Walter Besant?"
+letter_iso_date: "1884-01-23"
+letter_date: "Jany 23d 1884"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2785
+letter_id: "to-walter-besant-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Walter Besant?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-01-23"
+  url: "https://cmyonge.github.io/letters/2785-to-walter-besant-3"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 23d 1884  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+[Sir](people/person_1652.qmd)
+
+I should be very glad of the establishment of the copy right system with [America](organizations/other_172.qmd)but I should like to have more information before joining the [Company of Authors](organizations/other_44.qmd).
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** The letter evidently relates to the foundation of the Society of Authors in 1884;  Besant was the prime mover in the organisation but the letter may have been addressed to a colleague.

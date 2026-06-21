@@ -1,0 +1,42 @@
+---
+title: "Linda Mary Villari to Charlotte Mary Yonge"
+letter_iso_date: "1879-04-26"
+letter_date: "26th April [1879]"
+location: "93d Via Piat"
+manuscript: "MS UCLA collection 100 box 119"
+post_id: 2668
+letter_id: "linda-villari-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Linda Mary Villari to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-04-26"
+  url: "https://cmyonge.github.io/letters/2668-linda-villari-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 26th April [1879]  
+**From:** 93d Via Piat  
+**Manuscript:** MS UCLA collection 100 box 119
+:::
+
+Dear Madam,
+
+As you kindly consent to look at the tale of child life in Italy that I mentioned to you, I now send you the three first chapters (it has twelve in all) of ['<u>The Angel of Viareggio</u>'](other_books/otherbook_917.qmd). I hope the thin paper will not inconvenience you, but I shall not repeat the experiment & the rest of the MS. shall be sent to you on foolscap.
+
+I enclose a post card & stamps & trusting the story may seem likely to suit your pages believe me I remain
+
+Most truly yours
+[Linda Villari](people/person_1444.qmd)
+
+Miss Yonge

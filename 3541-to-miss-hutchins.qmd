@@ -1,0 +1,36 @@
+---
+title: "To Miss Hutchins"
+letter_iso_date: "1880-00-00"
+letter_date: "[1880s, 1890s?]"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3541
+letter_id: "to-miss-hutchins"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Hutchins"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-00-00"
+  url: "https://cmyonge.github.io/letters/3541-to-miss-hutchins"
+---
+
+::: {.letter-metadata}
+**Date:** [1880s, 1890s?]  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Miss Hutchins](people/person_739.qmd)
+
+I am so sorry I did not send these before. They came at a very busy time, and I am sorry to say I put them into a drawer with some Christmas cards and forgot them till [Miss Cazenove](people/person_274.qmd) reminded me.
+
+Yours truly
+C M Yonge

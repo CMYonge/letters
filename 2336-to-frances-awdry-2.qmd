@@ -1,0 +1,45 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1869-08-28"
+letter_date: "Aug 28th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS NLS 399 f. 379-80"
+post_id: 2336
+letter_id: "to-frances-awdry-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-08-28"
+  url: "https://cmyonge.github.io/letters/2336-to-frances-awdry-2"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 28th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS NLS 399 f. 379-80
+:::
+
+My dear [Frances](people/person_1160.qmd)
+Here is the autograph of [M Guizot](people/person_597.qmd)’s that I promised to get for you. If you could only see his collection. A bit of rough copy of one of [Bossuet](people/person_2418.qmd)’s sermons, a brown scrap of the Chevalier Bose written out of the midst of the plague, an abject letter of [Murat](people/person_2416.qmd) saying he was expelled from his kingdom for having followed La Système Britannique a curious letter of [old Napoleon](people/person_2207.qmd) about a rising in Corsica, signature of [Gustavus Adolphus](people/person_2419.qmd) and almost everybody you can think of.
+
+It was an exceedingly pleasant visit to us all, the quiet country life in the old chateau with its beautiful garden was so fresh and full of interest, and it was a wonderful thing to hear that old man talk, like pages of vivid history for the last 50 years. [Madame de Witt](people/person_423.qmd) was very charming too.
+
+As to Paris, we were much amused and interested, though I believe we saw it in the regular ‘tea tobacco and snuff’ way, and never got out of the common track at all. Luckily it was cool till this week, and Versailles looked all the more magnificent for the fiery day when we saw it. What arcades of trees those are, and how gorgeous the garden is. The sight of the Conciergerie was the contrast. I cannot write more than this one sheet today, having no end of things to do of course. I believe I am going to be godmother to [Kitty Barter](people/person_114.qmd)’s No 4 on the 8th[.] Hotel Castiglione was very comfortable and we felt quite at home in it
+
+your affectionate
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

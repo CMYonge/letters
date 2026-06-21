@@ -1,0 +1,15 @@
+---
+title: "Mary Ann Kilner - The Adventures of a Pincushion, Designed Chiefly for the use of Young Ladies"
+book_id: 618
+---
+
+## Publication Information
+
+**Date:** <i>c.</i> 1780
+
+**Imprint:** London: Marshall
+
+## Letters Mentioning This Work
+
+- [Letter 3426](../3426-to-maria-edith-walker-2-2.qmd)
+

@@ -1,0 +1,17 @@
+---
+title: "Marie Antoinette"
+person_id: 2417
+---
+
+## Biographical Information
+
+(1755-1793)
+
+Queen Consort of France, wife of Louis XVI
+
+## Letters Mentioning This Person
+
+- [Letter 1946](../1946-to-ann-maria-carter-smith-68.qmd)
+- [Letter 2347](../2347-to-anne-elizabeth-mary-anderson-morshead-3.qmd)
+- [Letter 3366](../3366-to-arthur-duke-coleridge.qmd)
+

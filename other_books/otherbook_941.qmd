@@ -1,0 +1,15 @@
+---
+title: "William Cowper - The Life and Posthumous Writings  of William Cowper"
+book_id: 941
+---
+
+## Publication Information
+
+**Date:** 1803-1804
+
+**Imprint:** Chichester: Johnson
+
+## Letters Mentioning This Work
+
+- [Letter 2728](../2728-to-ann-maria-carter-smith-85.qmd)
+

@@ -1,0 +1,13 @@
+---
+title: "Miss Cassell"
+person_id: 271
+---
+
+## Biographical Information
+
+possibly a member of the Gosling Society
+
+## Letters Mentioning This Person
+
+- [Letter 2427](../2427-to-miss-cassell.qmd)
+

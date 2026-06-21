@@ -1,0 +1,23 @@
+---
+title: "Elizabeth Keble"
+person_id: 796
+---
+
+## Biographical Information
+
+(1789/90-7 Aug 1860)
+
+sister of the Rev. John Keble
+
+[<i>Musings over the Christian Year</i>; wills index; 1851 census]
+
+## Letters Mentioning This Person
+
+- [Letter 1801](../1801-from-the-reverend-john-keble-to-frances-mary-yonge-and-charlotte-mary-yonge.qmd)
+- [Letter 1816](../1816-to-elizabeth-missing-sewell-13.qmd)
+- [Letter 2123](../2123-to-mary-anne-moberly-2.qmd)
+- [Letter 3114](../3114-to-ann-maria-carter-smith-14.qmd)
+- [Letter 3124](../3124-to-caroline-elizabeth-cooke-trench-2.qmd)
+- [Letter 3207](../3207-to-the-reverend-vere-awdry.qmd)
+- [Letter 3282](../3282-to-miss-hale.qmd)
+

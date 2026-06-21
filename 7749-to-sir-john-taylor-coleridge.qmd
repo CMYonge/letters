@@ -1,0 +1,42 @@
+---
+title: "To Sir John Taylor Coleridge"
+letter_iso_date: "1870-01-26"
+letter_date: "Jany 26th [1870]"
+manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC"
+post_id: 7749
+letter_id: "to-sir-john-taylor-coleridge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir John Taylor Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-26"
+  url: "https://cmyonge.github.io/letters/7749-to-sir-john-taylor-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 26th [1870]  
+**Manuscript:** MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC
+:::
+
+My dear [Sir John](people/person_344.qmd)
+There was something both strange and cheering in having one of my first really solitary evenings lighted up by the arrival of your precious [book](other_books/otherbook_42.qmd), making me live my old life over again, among those who always were and will be the first and nearest to me.[^1] I have been reading it nearly ever since it came, and have not left myself much time for my warmest and deepest thanks to you for the individual gift as well as for all that it records and fixes for ever.
+
+Reading the book gives me the feeling of having been talking to [him](people/person_798.qmd) – that peculiar sense of soothing and yet of the contrary to self complacency that the Hursley atmosphere always infused. I should think this was a token that the book would leave a true impression upon strangers.
+
+Most affectionately and gratefully yours
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Her mother [FMY](people/person_1606.qmd) had died on 28 September 1869.

@@ -1,0 +1,47 @@
+---
+title: "The Reverend William Emery to Charlotte Mary Yonge"
+letter_iso_date: "1886-09-25"
+letter_date: "Sep 25, 1886"
+location: "The College Ely"
+manuscript: "MS UCLA collection 100 box 119/4"
+post_id: 2841
+letter_id: "the-reverend-william-emery-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "The Reverend William Emery to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-09-25"
+  url: "https://cmyonge.github.io/letters/2841-the-reverend-william-emery-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Sep 25, 1886  
+**From:** The College Ely  
+**Manuscript:** MS UCLA collection 100 box 119/4
+:::
+
+My dear Miss Yonge:
+I will do what you wish as far as I am able at Wakefield but I am very sorry you cannot be there in person.
+
+It will be a great disappointment to many.
+
+If by any possibility you find yourself able to come to the Ch Congress I feel sure you will give great pleasure to the presiding Bishop and the Committee: and that the local authorities will do their best in application to provide suitable hospitality for you.
+
+Yours very truly,
+[W Emery](people/person_2107.qmd)
+
+Miss Yonge
+
+---
+
+**Note:** The Rev. William Emery (1825–1910), founder of diocesan conferences.

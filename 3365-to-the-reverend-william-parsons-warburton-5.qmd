@@ -1,0 +1,39 @@
+---
+title: "To the Reverend William Parsons Warburton"
+letter_iso_date: "1897-12-21"
+letter_date: "Decr 21st 1897"
+manuscript: "MS Girton College Cambridge, Yonge VII 5"
+post_id: 3365
+letter_id: "to-the-reverend-william-parsons-warburton-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William Parsons Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-12-21"
+  url: "https://cmyonge.github.io/letters/3365-to-the-reverend-william-parsons-warburton-5"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 21st 1897  
+**Manuscript:** MS Girton College Cambridge, Yonge VII 5
+:::
+
+My dear [Canon Warburton](people/person_1466.qmd) 
+Would it be asking too much of your kindness to ask you to glance over this paper and see whether it is an advisable one to have in [Mothers in Council](organizations/other_82.qmd).  I do not know whether you have heard of the [Mother's Union](organizations/other_31.qmd), started by [Mrs G Sumner](people/person_1381.qmd) (the wife of the [Bishop of Guildford](people/person_1382.qmd)) at first for poor women, to rouse them to some heed to the training of their children but it gradually spread to ladies &c. and indeed quite as much counsel seems to be needed by them as by cottage women.
+
+‘The need of an ‘organ’ was soon felt, and <u>faute de mieux</u>, I have had to edit the quarterly ‘Mothers in Council’ of which I send a specimen since we are told that Mothers are afraid to teach their children Scripture from what they gather of the ‘Higher Criticism[‘].
+
+I am afraid the subject must be opened but I am very anxious to do it in the right way
+
+Yours very sincerely
+C M Yonge

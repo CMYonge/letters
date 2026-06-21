@@ -1,0 +1,13 @@
+---
+title: "Mr Chandler"
+person_id: 1864
+---
+
+## Biographical Information
+
+friend of a would-be contributor
+
+## Letters Mentioning This Person
+
+- [Letter 7267](../7267-to-mr-chandler.qmd)
+

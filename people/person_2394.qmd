@@ -1,0 +1,15 @@
+---
+title: "Eliza? Fisher"
+person_id: 2394
+---
+
+## Biographical Information
+
+(d.1880)
+
+wife of [Walter Fisher](person_513.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 3528](../3528-to-frances-mary-peard-11.qmd)
+

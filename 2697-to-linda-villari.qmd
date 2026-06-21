@@ -1,0 +1,44 @@
+---
+title: "To Linda Mary Villari"
+letter_iso_date: "1880-01-01"
+letter_date: "Jany 1st [1880]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: Eng. lett. d. 495 f108"
+post_id: 2697
+letter_id: "to-linda-villari"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Linda Mary Villari"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-01-01"
+  url: "https://cmyonge.github.io/letters/2697-to-linda-villari"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 1st [1880]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: Eng. lett. d. 495 f108
+:::
+
+Dear [Madam](people/person_1444.qmd)
+
+Would you be so kind, in returning the proofs of [‘the angel of Viareggio’](other_books/otherbook_917.qmd) as to address them direct to the printer 
+
+Messrs [Clay](organizations/other_173.qmd) & Taylor
+Bread Street Hill
+London EC
+
+If they are addressed to the Editor, they remain at the office till a parcel is sent to me, and so we get them too late to profit by your corrections
+
+Yours truly
+C M Yonge

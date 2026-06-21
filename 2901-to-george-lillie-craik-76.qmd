@@ -1,0 +1,48 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1889-02-19"
+letter_date: "Feb 19th 1889"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library Add MSS 54921: 171-2"
+post_id: 2901
+letter_id: "to-george-lillie-craik-76"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-02-19"
+  url: "https://cmyonge.github.io/letters/2901-to-george-lillie-craik-76"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 19th 1889  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library Add MSS 54921: 171-2
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Here is <u>[the Reputed Changeling](cmy_books/cmybook_205.qmd)</u>. It really is a much better story than <u>[Beechcroft at Rockstone](cmy_books/cmybook_201.qmd)</u> which was chiefly written to run on with the [Monthly Packet](organizations/other_52.qmd) and satisfy people insatiable of continuations, so that as a young people’s tale it suffers from being treated as a novel.
+
+Has it gone to [Tauchnitz](people/person_2124.qmd)?
+
+What a curious book [Reuben Sachs](other_books/otherbook_1073.qmd) is! Is [Amy Levy](people/person_2381.qmd) a genuine Jew- ?[^1]
+
+She seems to have stripped off all the illusions, not to say realities! about the race
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Amy Levy, *Reuben Sachs: A Sketch* (London, Macmillan 1888), a novel about upper middle-class Jewish life in London.

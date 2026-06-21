@@ -1,0 +1,15 @@
+---
+title: "Francis Turner Palgrave - The Visions of England"
+book_id: 929
+---
+
+## Publication Information
+
+**Date:** 1880
+
+**Imprint:** London: the Author
+
+## Letters Mentioning This Work
+
+- [Letter 2708](../2708-to-francis-turner-palgrave.qmd)
+

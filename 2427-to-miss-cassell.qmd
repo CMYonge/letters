@@ -1,0 +1,43 @@
+---
+title: "To Miss Cassell"
+letter_iso_date: "1871-12-23"
+letter_date: "Decr 23d [1871?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2427
+letter_id: "to-miss-cassell"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Cassell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-12-23"
+  url: "https://cmyonge.github.io/letters/2427-to-miss-cassell"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 23d [1871?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Cassell](people/person_271.qmd)
+I find it will be convenient to [Goosedom](organizations/other_104.qmd) generally and it certainly will be so to its Mother if the answers wait to the end of January, so I have desired [Chelsea China](people/person_329.qmd) to send home a note to that effect. The last answers were unluckily lost in the frost when I sent them off to her, and as she had gone to Hanwell we did not at once discover the loss. Thank you much for what you say of [Dr Hood](people/person_2275.qmd), I am sadly afraid my [poor young friend](people/person_1462.qmd) (does not one want a word for one’s [brother](people/person_1624.qmd)’s sister-in-law) has outgrown the time of any effective remedy, as she began to suffer at 14 and is now 22.[^1] There was a consultation of doctors over her stiff knee last year, and they decided that nothing could be done.
+
+Thank you for the sight of the paper about the penny fund, it is a charming plan. I will shew it to [my sister in law](people/person_1604.qmd)
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Since Gertrude Walter was born in May 1849, this would date the letter to 1871.

@@ -1,0 +1,16 @@
+---
+title: "Edward Hyde, Earl of Clarendon - The True Historical Narrative of the Rebellion and Civil Wars in England"
+book_id: 35
+---
+
+## Publication Information
+
+**Date:** 1702-4
+
+**Imprint:** Oxford: printed at the Theater
+
+## Letters Mentioning This Work
+
+- [Letter 2964](../2964-to-mary-anne-dyson-5.qmd)
+- [Letter 3529](../3529-to-miss-routledge.qmd)
+

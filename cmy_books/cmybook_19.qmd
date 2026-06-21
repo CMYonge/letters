@@ -1,0 +1,48 @@
+---
+title: "Heartsease, or, The Brother’s Wife. 2 vols. By the author of “The Heir of Redclyffe.”"
+book_id: 19
+sort_title: "Heartsease, or, The Brother’s Wife"
+---
+
+## Publication Information
+
+**Date:** 1854
+
+**Genre:** Fiction (modern)
+
+**Publisher:** John W Parker and Son West Strand, London.
+
+**Notes:** ‘Last Heartsease Leaves’ is a short sequel which seems to have been the original ending of the novel.
+
+## Letters Mentioning This Work
+
+- [Letter 1905](../1905-to-alexander-macmillan-2.qmd)
+- [Letter 1907](../1907-to-alexander-macmillan-3.qmd)
+- [Letter 1914](../1914-to-alexander-macmillan-5.qmd)
+- [Letter 2069](../2069-to-george-lillie-craik-2.qmd)
+- [Letter 2246](../2246-to-alexander-macmillan-96.qmd)
+- [Letter 2546](../2546-to-elizabeth-missing-sewell-22.qmd)
+- [Letter 2652](../2652-to-messrs-macmillan-7.qmd)
+- [Letter 2660](../2660-to-alexander-macmillan-135.qmd)
+- [Letter 2678](../2678-to-alexander-macmillan-137.qmd)
+- [Letter 2748](../2748-to-george-lillie-craik-53.qmd)
+- [Letter 2975](../2975-to-elizabeth-barnett-3.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3044](../3044-frances-mary-yonge-to-alice-arbuthnot-moberly-2.qmd)
+- [Letter 3045](../3045-to-jemima-blackburn-4.qmd)
+- [Letter 3047](../3047-frances-mary-yonge-to-alice-arbuthnot-moberly.qmd)
+- [Letter 3049](../3049-to-john-william-parker-jr-2.qmd)
+- [Letter 3050](../3050-to-john-william-parker-jr-3.qmd)
+- [Letter 3052](../3052-to-jemima-blackburn-5.qmd)
+- [Letter 3053](../3053-to-elizabeth-barnett-6.qmd)
+- [Letter 3054](../3054-to-elizabeth-roberts-35.qmd)
+- [Letter 3065](../3065-from-the-reverend-john-keble-to-charlotte-mary-yonge-2.qmd)
+- [Letter 3073](../3073-to-john-william-parker-jr-6.qmd)
+- [Letter 3251](../3251-to-the-reverend-john-frederick-watkinson-bullock-13.qmd)
+- [Letter 3333](../3333-to-mary-elizabeth-christie-2.qmd)
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+- [Letter 3411](../3411-to-charlotte-fortescue-yonge-3.qmd)
+- [Letter 3493](../3493-the-reverend-john-mason-neale-to-charlotte-mary-yonge.qmd)
+- [Letter 10615](../10615-to-john-william-parker-jr.qmd)
+

@@ -1,0 +1,49 @@
+---
+title: "To Gertrude Louisa LeGrand Jacob"
+letter_iso_date: "1873-08-01"
+letter_date: "Aug 1st [1873]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 2478
+letter_id: "to-gertrude-louisa-legrand-jacob"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Gertrude Louisa LeGrand Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-08-01"
+  url: "https://cmyonge.github.io/letters/2478-to-gertrude-louisa-legrand-jacob"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 1st [1873]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Gertrude](people/person_751.qmd)
+Thanks for your chapters.[^1]  If anything strikes me, I will tell you, but I like all I have read very much.  I think [Miss Peard](people/person_1160.qmd) does know Arcachon, so I am desiring her to write to you, but I do not believe that [Miss Roberts](people/person_1244.qmd) has ever been on that side of France. She /MR\\ is at the Crescent Hotel, Filey, sadly laid up by a strain of the hip, which she neglected and now has grown to be a bad business.  It hindered the party from going to the Dolomites, and now [Dr Latham](people/person_844.qmd) has forbidden it for fear of cholera.
+
+I have been longing to exchange some word of the piteous load on all our hearts with you and [Edith](people/person_749.qmd) ever since that great shock.[^2]  I am glad to know <u>that</u> about [Twilight](other_books/otherbook_834.qmd).
+
+Haven't you often thought of his having no twilight- the sun gone down while yet day.
+
+I hope all will agree on one Memorial and not fritter up into quantities of little things, everyone making it an opportunity of getting what he wants.  I think a Surrey Cathedral & Bishopric would be the grandest, and it would be national[^3]
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: This probably refers to Jacob's *The Raja of Sarawak*, which was coming out in *MP*.
+[^2]: Annotated 'Bp [Samuel Wilberforce](people/person_1512.qmd)'.  He had died on 19 July 1873.
+[^3]: A suffragan see of Guildford was created out of the diocese of Winchester in 1874. It became a separate see in 1927.

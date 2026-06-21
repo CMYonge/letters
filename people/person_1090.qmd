@@ -1,0 +1,15 @@
+---
+title: "Miss North"
+person_id: 1090
+---
+
+## Biographical Information
+
+contributor to <i>MP</i> (1868)
+
+She translated an article by Mme de Witt published in <i>MP</i> (October 1868) as 'A good example'.
+
+## Letters Mentioning This Person
+
+- [Letter 2261](../2261-to-miss-north.qmd)
+

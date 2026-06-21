@@ -1,0 +1,42 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1884-04-10"
+letter_date: "April 10th [1884]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/  Yonge 1884/ 1"
+post_id: 2789
+letter_id: "to-ann-maria-carter-smith-91"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-04-10"
+  url: "https://cmyonge.github.io/letters/2789-to-ann-maria-carter-smith-91"
+---
+
+::: {.letter-metadata}
+**Date:** April 10th [1884]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1884/ 1
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I am terribly bound up with present matters of necessity but I will hunt up [Delicia](other_books/otherbook_959.qmd) and see what I can do with her, though I know May, June & July are pretty full  But I will put her in type, and then she will be sure of getting in soon (after Magazine calculation of soon)
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Carter Smith had evidently complained about the non-appearance of 'Delicia Darling', which did not in fact appear in [*MP*](organizations/other_52.qmd) until August 1886.

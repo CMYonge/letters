@@ -1,0 +1,15 @@
+---
+title: "Laura Valentine - The Home Book of Pleasure and Instruction"
+book_id: 528
+---
+
+## Publication Information
+
+**Date:** 1867
+
+**Imprint:** London:Warne
+
+## Letters Mentioning This Work
+
+- [Letter 2256](../2256-to-laura-valentine.qmd)
+

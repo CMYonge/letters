@@ -1,0 +1,40 @@
+---
+title: "To Henry Graves"
+letter_iso_date: "1875-04-24"
+letter_date: "April 24th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin."
+post_id: 2529
+letter_id: "to-henry-graves"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henry Graves"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-04-24"
+  url: "https://cmyonge.github.io/letters/2529-to-henry-graves"
+---
+
+::: {.letter-metadata}
+**Date:** April 24th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin.
+:::
+
+My dear [Mr Graves](people/person_577.qmd)
+
+I am afraid I must not take Second Fiddles though I am much obliged to you for it.  We are changing our printing house, and I want to have only matters of necessity on my hands just now.<sup>1</sup>
+
+[Mr Craik](people/person_379.qmd) is going to send me a photograph of [Bp Patteson](people/person_1155.qmd)’s sculpture.  I hope we shall have it in the next [edition](cmy_books/cmybook_102.qmd).
+
+yours sincerely
+C M Yonge

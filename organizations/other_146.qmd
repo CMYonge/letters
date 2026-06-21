@@ -1,0 +1,17 @@
+---
+title: "Blackwood's Edinburgh Magazine"
+other_id: 146
+---
+
+**Type:** periodical
+
+## Description
+
+The magazine published fiction, reviews and articles, and ran 1817-1891.
+
+## Letters Mentioning This
+
+- [Letter 1816](../1816-to-elizabeth-missing-sewell-13.qmd)
+- [Letter 2798](../2798-to-jemima-blackburn.qmd)
+- [Letter 3361](../3361-to-mary-elizabeth-christie.qmd)
+

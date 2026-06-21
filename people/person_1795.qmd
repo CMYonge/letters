@@ -1,0 +1,13 @@
+---
+title: "Larkie"
+person_id: 1795
+---
+
+## Biographical Information
+
+probably a servant of the Colbornes
+
+## Letters Mentioning This Person
+
+- [Letter 3110](../3110-anne-yonge-to-mary-yonge.qmd)
+

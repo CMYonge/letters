@@ -1,0 +1,15 @@
+---
+title: "Charles Dickens and Wilkie Collins - ‘Doctor Dulcamara, MP’"
+book_id: 718
+---
+
+## Publication Information
+
+**Date:** 1858
+
+**Imprint:** <i>Household Words</i> 19 (18 December 1858), 49-52.
+
+## Letters Mentioning This Work
+
+- [Letter 3333](../3333-to-mary-elizabeth-christie-2.qmd)
+

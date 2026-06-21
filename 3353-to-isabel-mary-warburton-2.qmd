@@ -1,0 +1,37 @@
+---
+title: "To the Hon. Mrs Warburton"
+letter_iso_date: "1897-00-00"
+letter_date: "[1897]"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3353
+letter_id: "to-isabel-mary-warburton-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Mrs Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-00-00"
+  url: "https://cmyonge.github.io/letters/3353-to-isabel-mary-warburton-2"
+---
+
+::: {.letter-metadata}
+**Date:** [1897]  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My mind misgives me that I did not say that I hope to come to luncheon on Wednesday
+
+C M Yonge
+
+---
+
+**Note:** Postcard addressed to [The Honble/ Mrs Warburton](people/person_1465.qmd)/ The Close/ Winchester.

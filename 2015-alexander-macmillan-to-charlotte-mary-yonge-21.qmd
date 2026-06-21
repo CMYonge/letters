@@ -1,0 +1,47 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-03-28"
+letter_date: "March 28. 1865"
+manuscript: "Copy outletter book British Library Add MSS. 55384 (1): P.310"
+post_id: 2015
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-21"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-03-28"
+  url: "https://cmyonge.github.io/letters/2015-alexander-macmillan-to-charlotte-mary-yonge-21"
+---
+
+::: {.letter-metadata}
+**Date:** March 28. 1865  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (1): P.310
+:::
+
+Dear Miss Yonge	
+[I](people/person_939.qmd) sent the copy [Golden Deeds](cmy_books/cmybook_51.qmd) to the [Princess](people/person_956.qmd) addressed as you wished to her [governess](people/person_1931.qmd) by post yesterday. I hope it will reach her soon.
+
+The copy of '[Christian Names](cmy_books/cmybook_48.qmd)' I sent to [Mdme de Witt](people/person_423.qmd) through [Messrs Williams & Norgate](organizations/other_165.qmd), as it would have been expensive to send by post, and moreover would have been apt to get bruised and battered, being large and heavy. They explain that they have not parcels going very frequently but are going to send one in a day or two now. I hope this will not have caused any inconvenience.
+
+I will consult with [Mr Masson](people/person_980.qmd) about the [title](cmy_books/cmybook_62.qmd). I daresay we will take the long one after all.
+
+I have written to a friend to ascertain about the Calcutta man, [Ratcliffe](people/person_1933.qmd). I should fancy he is a government official.[^1] I do not know his name & I have correspondence with a good many booksellers there.
+
+Thanks for the chapter of [Bethlehem](organizations/other_177.qmd), which I am having put into type.
+
+Yours &c
+A. Macmillan
+
+---
+
+[^1]: In fact the letter was from James Sutcliffe, principal of the Hindu College, Calcutta.

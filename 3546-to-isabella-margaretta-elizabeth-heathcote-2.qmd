@@ -1,0 +1,42 @@
+---
+title: "To Isabella Margaretta Elizabeth Heathcote?"
+letter_iso_date: "1889-09-17"
+letter_date: "Sept 17 [1889?]"
+location: "Elderfield"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3546
+letter_id: "to-isabella-margaretta-elizabeth-heathcote-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabella Margaretta Elizabeth Heathcote?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-09-17"
+  url: "https://cmyonge.github.io/letters/3546-to-isabella-margaretta-elizabeth-heathcote-2"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 17 [1889?]  
+**From:** Elderfield  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Bella](people/person_1690.qmd)
+
+I think the day had better be Friday, as [Gertrude](people/person_1462.qmd) has been rather out of order these last few days, but is picking up again. It will be a great day of church decoration, but I shall be sure to have done by 4 o’clock, and I shall be very glad to see you and [Miss Fawcett](people/person_2395.qmd).[^1]
+
+Yours affectionately
+C M Yonge
+
+---
+
+[^1]: The feast day of St Matthew, patron of Otterbourne Church, is 21 September, which fell on a Saturday in 1889.

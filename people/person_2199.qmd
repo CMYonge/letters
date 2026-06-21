@@ -1,0 +1,14 @@
+---
+title: "Miss Lawrence"
+person_id: 2199
+---
+
+## Biographical Information
+
+schoolmate of FMY, grandmother of [Maria Edith Walker](person_2234.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 3428](../3428-to-miss-e-m-walker-6.qmd)
+- [Letter 3429](../3429-to-miss-e-m-walker-5.qmd)
+

@@ -1,0 +1,43 @@
+---
+title: "To Elizabeth Wordsworth"
+letter_iso_date: "1874-11-26"
+letter_date: "Novr 26th 1874"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Lady Margaret Hall, Oxford."
+post_id: 2517
+letter_id: "to-elizabeth-wordsworth-8"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Wordsworth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-11-26"
+  url: "https://cmyonge.github.io/letters/2517-to-elizabeth-wordsworth-8"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 26th 1874  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Lady Margaret Hall, Oxford.
+:::
+
+My dear [Elizabeth](people/person_1566.qmd)
+
+I ought long ago to have written to you though you told me not, I fully meant to have done so, I was so delighted with the [book](other_books/otherbook_854.qmd), but we have had a sad time of illness with poor [Gertrude](people/person_1462.qmd)  She got better for a fortnight, and then came all the old troubles, and now she has another abscess under her knee and I do not think will be up for a long time to come.  But I <u>do</u> like your little book greatly, and I think your Lincolnshire people must be very intelligent to have called it out[^1] Have you seen [Miss Bramston](people/person_198.qmd)’s book, [the Carbridges](other_books/otherbook_852.qmd)  it is very pretty, and puts me in mind of many things.  The eldest daughter has come out so like [Alice Moberly](people/person_1025.qmd) and the father and mother are so excellently done.  I have known people so like them. We are all snow today and I fear it bodes a hard winter. Poor [Warden of New College](people/person_1404.qmd), it seems like a break up, and what a grief to [Mr Coxe](people/person_377.qmd) it must be.[^2]  
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: Probably Wordsworth's *Thoughts for the Chimney Corner* (1873).
+[^2]: The warden of New College was Edwards Sewell.  Probably CMY is referring to the death of his brother the Rev. [William Sewell](people/person_1306.qmd) (1804-14 November 1874).   Bodley’s Librarian, the Rev. Henry Octavius Coxe (1811-1881), was father-in-law to Elizabeth Wordsworth’s brother John.

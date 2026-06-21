@@ -1,0 +1,42 @@
+---
+title: "To the Reverend Canon William Parsons Warburton"
+letter_iso_date: "1879-11-12"
+letter_date: "Nov 12th [1879 or later?]"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge VII 3"
+post_id: 2692
+letter_id: "to-the-reverend-william-parsons-warburton-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Canon William Parsons Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-11-12"
+  url: "https://cmyonge.github.io/letters/2692-to-the-reverend-william-parsons-warburton-7"
+---
+
+::: {.letter-metadata}
+**Date:** Nov 12th [1879 or later?]  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge VII 3
+:::
+
+Dear [Canon Warburton](people/person_1466.qmd)
+
+I send you a spare proof of your final story in case you should like to have it apart from its adjuncts of the Christmas number[^1]
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: It is not easy to identify which Christmas number Warburton contributed to.

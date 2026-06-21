@@ -1,0 +1,14 @@
+---
+title: "Mr Green"
+person_id: 1647
+---
+
+## Biographical Information
+
+presumably a school inspector
+
+## Letters Mentioning This Person
+
+- [Letter 2667](../2667-to-christabel-rose-coleridge-100.qmd)
+- [Letter 3610](../3610-to-the-reverend-william-parsons-warburton-2.qmd)
+

@@ -1,0 +1,13 @@
+---
+title: "Mrs Crocker"
+person_id: 2109
+---
+
+## Biographical Information
+
+'old fashioned goody soul'
+
+## Letters Mentioning This Person
+
+- [Letter 3190](../3190-to-christabel-rose-coleridge-29.qmd)
+

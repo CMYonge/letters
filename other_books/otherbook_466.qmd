@@ -1,0 +1,15 @@
+---
+title: "The Rev. Charles Lutwidge Dodgson - Lewis Carroll's Diaries: The Private Journals of Charles Lutwidge Dodgson (Lewis Carroll) ed. Edward Wakeling"
+book_id: 466
+---
+
+## Publication Information
+
+**Date:** 1993-2007
+
+**Imprint:** Luton: Lewis Carroll Society
+
+## Letters Mentioning This Work
+
+- [Letter 2124](../2124-to-charles-lutwidge-dodgson.qmd)
+

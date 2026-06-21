@@ -1,0 +1,18 @@
+---
+title: "Agnes Strickland - Lives of the Queens of England"
+book_id: 157
+---
+
+## Publication Information
+
+**Date:** 1841-8
+
+**Imprint:** London: Colburn
+
+## Letters Mentioning This Work
+
+- [Letter 2781](../2781-to-james-sutherland-cotton.qmd)
+- [Letter 2959](../2959-to-agnes-strickland.qmd)
+- [Letter 2964](../2964-to-mary-anne-dyson-5.qmd)
+- [Letter 3566](../3566-to-mary-goldfinch.qmd)
+

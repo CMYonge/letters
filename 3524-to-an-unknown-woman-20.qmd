@@ -1,0 +1,39 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1868-02-17"
+letter_date: "Feb 17th [1868]"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3524
+letter_id: "to-an-unknown-woman-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-02-17"
+  url: "https://cmyonge.github.io/letters/3524-to-an-unknown-woman-20"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 17th [1868]  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam,
+There is nothing more difficult than to get a translation especially a French translation taken. I know [Madame Therèse](other_books/otherbook_574.qmd) and a very pretty book it is, but I should think most of the persons who could appreciate it could read it in French. The [story](other_books/otherbook_473.qmd) now being translated in the [Monthly Packet](organizations/other_52.qmd) has long been out of print and was little known in England. I do not I confess see much hope at present, but if [Mr Bell](people/person_1930.qmd)advises your sending it to [Mrs Gatty](people/person_549.qmd), I should think you had better do so, as a publisher may exercise influence in its favour and certainly his advice is not to be neglected[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Margaret Gatty was the editor of *[Aunt Judy’s Magazine](organizations/other_54.qmd)*, published by Bell.

@@ -1,0 +1,48 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1889-01-29"
+letter_date: "Jan 29th 1889"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 168-70"
+post_id: 2899
+letter_id: "to-george-lillie-craik-74"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-01-29"
+  url: "https://cmyonge.github.io/letters/2899-to-george-lillie-craik-74"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 29th 1889  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 168-70
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Many thanks for your letter and cheque. I am glad to see your writing again, and that the first dreariness of return has been faced.[^1]
+
+I am glad the cheap edition is doing so well, it is capitally got up and bound, and I regret nothing but [the Daisy Chain](cmy_books/cmybook_24.qmd) [illustrations](organizations/other_167.qmd) and those to [the Trial](cmy_books/cmybook_53.qmd). Those to the intermediate edition were much better.
+
+I have had some correspondence about a story of the historical kind which I finished in the autumn, but it was thought better to let it wait till [Beechcroft at Rockstone](cmy_books/cmybook_201.qmd) had had its start. Its name is a great difficulty A Seven Years Secret has been thought of but does not really suit  and I now think that [‘A Reputed Changeling’](cmy_books/cmybook_205.qmd) or ‘Peregrine the Changeling’ would be best as though it is by no means a child’s story, the whole turns on the hero’s life being influenced by a sort of half belief  in his being a changeling imp
+
+It is in the time of the English Revolution
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: His wife Dinah (Mulock) Craik had died on 12 October 1887.

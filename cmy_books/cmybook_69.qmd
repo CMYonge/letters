@@ -1,0 +1,52 @@
+---
+title: "The Chaplet of Pearls, or, The White and Black Ribaumont. By the author of  “The Heir of Redclyffe.”"
+book_id: 69
+sort_title: "Chaplet of Pearls, or, The White and Black Ribaumont"
+---
+
+## Publication Information
+
+**Date:** 1868
+
+**Genre:** Fiction (historical)
+
+**Publisher:** London: Macmillan and Company.
+
+**Notes:** <i>Stray Pearls</i> and <i>The Release</i> are sequels to this novel.
+
+## Letters Mentioning This Work
+
+- [Letter 2066](../2066-to-mary-ann-dyson-3.qmd)
+- [Letter 2076](../2076-to-alexander-macmillan-59.qmd)
+- [Letter 2079](../2079-to-alexander-macmillan-60.qmd)
+- [Letter 2084](../2084-to-alexander-macmillanm066-1865-12-08.qmd)
+- [Letter 2096](../2096-to-alexander-macmillan-68.qmd)
+- [Letter 2133](../2133-to-alexander-macmillan-79.qmd)
+- [Letter 2139](../2139-to-alexander-macmillan-82.qmd)
+- [Letter 2144](../2144-to-alexander-macmillan-114.qmd)
+- [Letter 2145](../2145-to-alexander-macmillan-83.qmd)
+- [Letter 2153](../2153-alexander-macmillan-to-charlotte-mary-yonge-45.qmd)
+- [Letter 2156](../2156-to-alexander-macmillan-85.qmd)
+- [Letter 2157](../2157-alexander-macmillan-to-charlotte-mary-yonge-46.qmd)
+- [Letter 2198](../2198-alexander-macmillan-to-charlotte-mary-yonge-58.qmd)
+- [Letter 2200](../2200-to-alexander-macmillan-92.qmd)
+- [Letter 2211](../2211-to-george-lillie-craik-3.qmd)
+- [Letter 2254](../2254-alexander-macmillan-to-charlotte-mary-yonge-75.qmd)
+- [Letter 2266](../2266-to-george-lillie-craik-6.qmd)
+- [Letter 2269](../2269-to-alexander-macmillan-99.qmd)
+- [Letter 2283](../2283-to-alexander-macmillan-103.qmd)
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+- [Letter 2313](../2313-to-alexander-macmillan-109.qmd)
+- [Letter 2330](../2330-to-mary-ann-dyson-2.qmd)
+- [Letter 2447](../2447-to-elizabeth-wordsworth-5.qmd)
+- [Letter 2456](../2456-to-edward-augustus-freeman-5.qmd)
+- [Letter 2764](../2764-to-george-lillie-craik-55.qmd)
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+- [Letter 3411](../3411-to-charlotte-fortescue-yonge-3.qmd)
+- [Letter 3413](../3413-to-helena-heathcote-2.qmd)
+- [Letter 3447](../3447-to-miss-faithful.qmd)
+- [Letter 19563](../19563-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19598](../19598-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19661](../19661-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19676](../19676-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

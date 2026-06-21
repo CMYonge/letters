@@ -1,0 +1,13 @@
+---
+title: "Mrs Mitchell"
+person_id: 2317
+---
+
+## Biographical Information
+
+possible employer of Alice Perrin
+
+## Letters Mentioning This Person
+
+- [Letter 2646](../2646-to-frances-emily-awdry.qmd)
+

@@ -1,0 +1,16 @@
+---
+title: "Robert Southey - The Pilgrim's Progress, with a Life of John Bunyan"
+book_id: 152
+---
+
+## Publication Information
+
+**Date:** 1830
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

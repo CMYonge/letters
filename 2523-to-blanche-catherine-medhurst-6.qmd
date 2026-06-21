@@ -1,0 +1,41 @@
+---
+title: "To Blanche Catherine Medhurst"
+letter_iso_date: "1875-03-13"
+letter_date: "March 13th 1875"
+location: "Elderfield,  Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2523
+letter_id: "to-blanche-catherine-medhurst-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Blanche Catherine Medhurst"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-03-13"
+  url: "https://cmyonge.github.io/letters/2523-to-blanche-catherine-medhurst-6"
+---
+
+::: {.letter-metadata}
+**Date:** March 13th 1875  
+**From:** Elderfield,  Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Medhurst](people/person_988.qmd)
+Thanks for your verses which no doubt will please many, though I have never set foot in Brighton and so have no knowledge of the place.[^1] I never thanked you for the good news of [Mrs Mercier](people/person_990.qmd) who I hope is quite well again
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: These verses do not seem to have been published in *MP*.

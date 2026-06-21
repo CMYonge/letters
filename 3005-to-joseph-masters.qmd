@@ -1,0 +1,43 @@
+---
+title: "To Joseph Masters?"
+letter_iso_date: "1852-12-23"
+letter_date: "Decr 23d 1852"
+location: "Otterbourn"
+manuscript: "MS Charles E. Young  Research Library,  UCLA, collection 100."
+post_id: 3005
+letter_id: "to-joseph-masters"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Joseph Masters?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-12-23"
+  url: "https://cmyonge.github.io/letters/3005-to-joseph-masters"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 23d 1852  
+**From:** Otterbourn  
+**Manuscript:** MS Charles E. Young  Research Library,  UCLA, collection 100.
+:::
+
+[Sir](people/person_981.qmd)
+I am obliged to you for forwarding the cheque for[£25](organizations/other_160.qmd) for the first edition of the [Two Guardians](cmy_books/cmybook_13.qmd).
+
+I am at present too much engaged to think of publishing anything in the [Churchman’s Companion](organizations/other_62.qmd),[^1] though I am obliged to you for the proposal.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY had  contributed *The Two Guardians* (1850-2) to *The Churchman's Companion*, published by Masters.

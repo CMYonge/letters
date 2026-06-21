@@ -1,0 +1,13 @@
+---
+title: "Miss Eyre"
+person_id: 2008
+---
+
+## Biographical Information
+
+author of an MS novel called <i>Gabrielle and her Guardians</i>
+
+## Letters Mentioning This Person
+
+- [Letter 2248](../2248-to-alexander-macmillan-97.qmd)
+

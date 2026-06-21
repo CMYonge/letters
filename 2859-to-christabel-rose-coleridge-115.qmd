@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1887-05-28"
+letter_date: "May 28th [1887]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/67"
+post_id: 2859
+letter_id: "to-christabel-rose-coleridge-115"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-05-28"
+  url: "https://cmyonge.github.io/letters/2859-to-christabel-rose-coleridge-115"
+---
+
+::: {.letter-metadata}
+**Date:** May 28th [1887]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/67
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+I never did expect the debate in time for June, only we should have had a question.[^1]  It may be as well to reserve those two letters in case of need for August.  I fancied you knew that [Annie Cazenove](people/person_274.qmd) is the Muffin man  I think she is one of the very best and most  selfdevoted people in the world, but she had the disadvantage of being the only one in her immediate family with much of a soul, and she has had to make hers[^2]  She believes in her own doings with a bonhommie [sic] that is quite comical and shocks one till one sees how admirably [she] takes a snubbing   I am sure I have laughed at her and snubbed her till I have been quite ashamed, and she has only been like the man in the Irish fairy tale who said Roast me harder
+
+To ‘bustle up’ people /as she calls it\\  is one of her missions!  [Lady Brabazon](people/person_985.qmd) is a heroine of hers, and is apt to overdo herself.[^3]  Here is an elucidatory motto to be kept for the subject from [Bonnyborough](other_books/otherbook_1026.qmd)When I’m to work in carness  I can’t stop to hand over no helpins [illegible faint]  -  I should fly to pieces if I did’  What a pretty book it is!  I expect the June no will be out on Saturday, so it is of no use to send up anything for it.  If I was [Edith](people/person_331.qmd), my flesh would quail at the Chaos awaiting her.  I hope [your horse to the water](other_books/otherbook_1027.qmd) won’t be a love matter for they are much inclined to take that line[^4]
+
+your affec
+C M Yonge
+
+---
+
+[^1]: In the May 1886 issue of [*MP*](organizations/other_52.qmd)a letter from Coleridge signed 'Chelsea China' inaugurated a forum for discussion called 'Debatable Ground' which ran until 1890.   The June 1887 issue has no question for debate, but an invitation to correspondents to send in any supplementary remarks they may have.
+[^2]: CMY used this expression to mean devoted to causes, see her *Modern Broods*, 288.
+[^3]: Lady Mary Jane Maitland (1847-1918) married (1868) Reginald, Lord Brabazon (1841-1929) who succeeded his father (1887) as 12th Earl of Meath.  An article in *MP* 1885 (2): 290 describes CMY opening the Brabazon Home of Comfort, an institution paid for by Brabazon and set up by Annie Cazenove.
+[^4]: It was CMY's custom to use a proverb as a theme for the stories in the Christmas number of *MP*, and in 1886 it was 'One man can bring a horse to the water, but ten cannot make him drink'.  Coleridge contributed a story called 'Diamond cut diamond'.

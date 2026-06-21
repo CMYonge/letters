@@ -1,0 +1,55 @@
+---
+title: "Anne Yonge to the Rev. John Yonge"
+letter_iso_date: "1854-03-17"
+letter_date: "Friday [17 March 1854]"
+location: "Otterbourn"
+manuscript: "MS Plymouth and West Devon Record Office 308/123/10"
+post_id: 3036
+letter_id: "anne-yonge-to-the-rev-john-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Anne Yonge to the Rev. John Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-03-17"
+  url: "https://cmyonge.github.io/letters/3036-anne-yonge-to-the-rev-john-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Friday [17 March 1854]  
+**From:** Otterbourn  
+**Manuscript:** MS Plymouth and West Devon Record Office 308/123/10
+:::
+
+My dear [Papa](people/person_1623.qmd),
+[I](people/person_1582.qmd) feel greatly obliged to you for writing so often.  I fear your leisure will decrease rapidly now, that you are able to resume your out of door occupations, to say nothing of all the Confirmation Children, and also such an increase in the colony within doors.  I hope you will not find yourself quite overmatched by the half dozen grandchildren, and obliged to retreat to the top of the House, or to [Frances](people/person_1605.qmd)’s Pomerania for a little peace.[^1]  I think the sight of so many little Boys on the garden walks must surpass that of the twenty or fifty Waterwagtails you once saw there.  It must be like a school when they go out to walk, & I suppose you always find one or another ready to accompany you in an agricultural stroll, which I hope you often take on these sunny mornings.  The birds sing most perseveringly all day, and the flowers are opening fast in the garden and hedges.  Everything looks bright & cheerful, and I am glad that it has not the effect of <u>depressing</u> [Aunt Fanny](people/person_1606.qmd)’s spirits but that she is really able to take an interest in and enjoy them.  All the same I think she has been feeling less buoyant under her affliction the last few days, & has found it a greater effort to exert herself in her usual employments.  Charlotte fancies it is only tire from standing about, and looking over papers & things, in different parts of the house, but I am sure a time of despondency <u>must</u> come, and it seems to me they are still in some degree kept up by the excitement of hearing so very much about [Uncle William](people/person_1631.qmd) from all quarters, & the sort of rest and pleasure it is to them to hear his praises & good qualities generally & universally extolled by all classes of people.  I think they have a kind of idea that he was never appreciated by the world at large in the degree they always felt he deserved, and all that is so continually being said of him is a kind of solace and satisfaction to them in itself, & like a tribute paid to their superior judgement wh comes better <u>late</u> than not at all.  The time I think when they will begin to feel forlorn, will be, when they find themselves left more than usual and more than <u>ever</u> hitherto, perhaps) to themselves.  When other people will have ceased to think <u>so much</u> about it, & will apparently be going on their way again, as if this has not happened, & they meanwhile feeling more than ever the want of his companionship.
+
+I cannot wonder at the sort of blank you must feel whenever you think of this place, & I think the thought or inclination just to sit down & write to him as usual, must cross your mind before you recollect that it is of no use.  It seems more than ever as if it was impossible to form a just or true estimate of a person’s character while he is still alive, or rather we allow what is disagreeable in outward manner & deportment to exclude from our minds, the <u>constant</u> recollection of what the general tenor of a life may be, <u>now</u> in looking at Uncle William’s, one is struck by the number of good deeds he has performed for the sake of others, in the matter of <u>money</u> alone, it d appear as if he had always had something in hand, entirely apart from any <u>selfish</u> gratification in spending it. [Four schools](organizations/other_107.qmd) he has at different times built here, besides the Church, [Mr Wither](people/person_1544.qmd)’s house, &c & I suppose it was only in the last year that he felt himself free to decorate his <u>own</u> dwelling house.  Everything connected with this place is certainly in the most perfect order, & one looks round for some one eyeing it properly, especially the growing crops & farming operations.  The men go on as well as they can & come to Aunt Fanny for consultations & orders, wh she rather likes. Charlotte remarks how much Uncle Wm’s character had <u>softened</u> in the last few years, he took much more delight in beauty & poetry of all sorts, besides being gentler in temper, and also less unparticular in his language.  She rejoices that [Julian](people/person_1624.qmd) seemed so entirely to have conquered the kind of irritable feeling or approach to sulleness wh a reproof, rather too sharp for the occasion, used in times past to excite & altogether for the last few years they seem to have been as happy as it was possible for people to be.
+
+[Dr. Moberly](people/person_1015.qmd) brought tidings yesterday that the Vulcan arrived at Malta on Saturday last, so poor Julian knows the worst now, & I suppose his letter will soon arrive.[^2]
+
+[Delia Oldfield](people/person_1099.qmd) writes to Charlotte saying she was sorry only <u>one</u> brother was here at the Funeral, but the fact was ‘neither [Uncle James](people/person_1615.qmd) or [Alice](people/person_1723.qmd) had the <u>heart</u> to let [John Francis](people/person_1622.qmd) know <u>his</u> presence especially wd be objected to, so they discouraged both him & [Arthur](people/person_1583.qmd) alike from coming.  She adds ‘He would not <u>understand</u> the feeling & is sensitive and affectionate.  <u>Such spirits should be spared</u>. & I hope Mr Wither’s message may never reach him’  
+
+‘Your affectionate little friend’  must be much obliged I should think for so unexpected a gift.  I suppose he is glad he has a few weeks longer on shore.  I think it was the Mediation of Prussia that [Uncle Seaton](people/person_313.qmd) chiefly relies on now;  he searches papers diligently for some symptom in confirmation of his own views.  There was a report on Wednesday in London that the Artillery had been countermanded, wh must have put him in great spirits but I fear it was not true.
+
+[Duke](people/person_1599.qmd) will blush when he sees [Rd Bogue](people/person_168.qmd)’s letter come back.[^3]  <u>I think</u> that was the one I urged him to open, saying of course it was only an enquiry or a message for At F & Charlotte, & perhaps he cd save you the trouble of answering it.  He must have given it to Aunt Fanny to read, & then he & I forgot all about it probably, for it was not till Aunt Fanny looked in her horde of letters & at last turned it out, that I remembered ought of it.  I send it now & it may be torn up. 
+
+My love to [Alethea](people/person_27.qmd) and all & believe me your very affectionate daughter
+Anne Yonge
+
+I thank [Jane](people/person_1616.qmd) very much for her letter about the little Boys;  it has amused me exceedingly
+
+---
+
+[^1]: Anne's sister Alethea Anderson Morshead had evidently brought her six little boys to stay at Puslinch.
+[^2]: The arrival of the Vulcan at Malta on Saturday 11 March 1854 was announced in *The Times*  (16 March 1854) 7.
+[^3]: Richard Bogue was a cousin on the Bargus side of the family.

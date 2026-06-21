@@ -1,0 +1,45 @@
+---
+title: "To Walter Besant"
+letter_iso_date: "1879-03-18"
+letter_date: "March 18th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2666
+letter_id: "to-walter-besant-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Walter Besant"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-03-18"
+  url: "https://cmyonge.github.io/letters/2666-to-walter-besant-2"
+---
+
+::: {.letter-metadata}
+**Date:** March 18th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+Dear [Sir](people/person_1652.qmd)
+
+I am obliged by your letter, but the terms are much below what I am generally in the habit of receiving e.g. I have two pence royalty on that little [Primer of French history](cmy_books/cmybook_353.qmd) which sells for a shilling
+
+Neither should I wish much to under take Sir Philip Sidney, feeling the subject rather hackneyed[^1]
+
+I remain
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This letter probably relates to Besant's editorship (with W. J. Brodribb) of The New Plutarch Series, 'Lives of those who have made the history of the world', published by Ward.

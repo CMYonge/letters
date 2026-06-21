@@ -1,0 +1,38 @@
+---
+title: "To Eleanor Catharine Price?"
+letter_iso_date: "1883-00-00"
+letter_date: "[1883?]"
+manuscript: "MS fragment with Richard Ford, manuscripts dealer, 2006, transcribed from the catalogue."
+post_id: 2784
+letter_id: "to-eleanor-catharine-price"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Eleanor Catharine Price?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-00-00"
+  url: "https://cmyonge.github.io/letters/2784-to-eleanor-catharine-price"
+---
+
+::: {.letter-metadata}
+**Date:** [1883?]  
+**Manuscript:** MS fragment with Richard Ford, manuscripts dealer, 2006, transcribed from the catalogue.
+:::
+
+I am reading [Foreigners](other_books/otherbook_965.qmd) and enjoying them.[^1]
+
+yours very truly
+C.M.Yonge
+
+---
+
+[^1]: Eleanor Catherine Price, *The Foreigners: A Novel* 3 vols (London: Chatto & Windus 1883).

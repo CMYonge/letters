@@ -1,0 +1,17 @@
+---
+title: "John Spencer Curwen"
+person_id: 2407
+---
+
+## Biographical Information
+
+(1847-1916)
+
+editor of the <i>Musical Herald</i>
+
+He was the son of John Curwen (1816-1880), who had popularized the use of the tonic sol-fa method of teaching singing.
+
+## Letters Mentioning This Person
+
+- [Letter 19009](../19009-to-john-spencer-curwen.qmd)
+

@@ -1,0 +1,53 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1879-02-28"
+letter_date: "Feb 28 th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2663
+letter_id: "to-christabel-rose-coleridge-99"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-02-28"
+  url: "https://cmyonge.github.io/letters/2663-to-christabel-rose-coleridge-99"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 28 th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+I am sorry to say the 11th is the only day [Mr Wilson](people/person_1541.qmd) is available that week and that (unless she alters[)], is [MFCK](people/person_351.qmd)’s day.[^1]   How would it be if you came here on Monday 9th  I sent you to Rownhams on the 11th, and you then returned to Winchester the same day – either having something to come for you here or being set down at Chandlers ford or Bishopstoke? Or would you put it off entirely till after May’s visit, which – but for the Humberts, might be the more comfortable way.[^2]
+
+I wish I could see how to manage it better, and it looks inhospitable but I hardly know how else to manage
+
+your affectionate
+C M Yonge
+
+Diocesan religious examination
+
+1st class –1
+2nd ---	3
+3rd		5
+
+no failure
+
+---
+
+[^1]: On CMY's advice, Coleridge was seeking spiritual counsel from the Rev. Robert Wilson, Vicar of Rownhams, near Southampton.  However, since CMY cannot entertain two visitors simultaneously in addition to Gertrude Walter,  Coleridge must wait until Mary Frances Keble Coleridge has finished her visit.  Chandlers Ford and Bishopstoke were both railway stations on the line to Southampton.
+[^2]: The family of the Rev. [Lewis Humbert](people/person_730.qmd) were friends of Coleridges, and perhaps she was visiting them next.

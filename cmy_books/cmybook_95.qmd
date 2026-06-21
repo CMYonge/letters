@@ -1,0 +1,20 @@
+---
+title: "P’s and Q’s, or, the Question of Putting Upon. By Charlotte M. Yonge, author of “The Heir of Redclyffe.”"
+book_id: 95
+sort_title: "P’s and Q’s, or, the Question of Putting Upon"
+---
+
+## Publication Information
+
+**Date:** 1872
+
+**Genre:** Fiction (modern)
+
+**Publisher:** London: Macmillan and Co.
+
+## Letters Mentioning This Work
+
+- [Letter 2456](../2456-to-edward-augustus-freeman-5.qmd)
+- [Letter 2754](../2754-to-george-lillie-craik-54.qmd)
+- [Letter 2794](../2794-to-george-lillie-craik-59.qmd)
+

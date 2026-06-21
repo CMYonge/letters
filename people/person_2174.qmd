@@ -1,0 +1,13 @@
+---
+title: "Mr Compton"
+person_id: 2174
+---
+
+## Biographical Information
+
+ill in 1897
+
+## Letters Mentioning This Person
+
+- [Letter 3352](../3352-to-helena-heathcote-3.qmd)
+

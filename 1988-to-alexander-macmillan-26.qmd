@@ -1,0 +1,39 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-10-29"
+letter_date: "Oct 29th [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 1988
+letter_id: "to-alexander-macmillan-26"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-29"
+  url: "https://cmyonge.github.io/letters/1988-to-alexander-macmillan-26"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 29th [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I am afraid the [Clever Woman](cmy_books/cmybook_58.qmd) cannot come out till March, as [Hogg](organizations/other_159.qmd) gives me no hope of finishing her before that time—so it would be hardly worth while to begin printing her till the beginning of the year.
+
+I have sent all the rest of the [Golden Deeds](cmy_books/cmybook_51.qmd) direct to the printers, they will end with [Dr. Kane.](people/person_1915.qmd)
+
+Yours sincerely
+C M Yonge

@@ -1,0 +1,15 @@
+---
+title: "John Keats"
+person_id: 1699
+---
+
+## Biographical Information
+
+(1795-1821)
+
+poet
+
+## Letters Mentioning This Person
+
+- [Letter 2945](../2945-to-anne-yonge-12.qmd)
+

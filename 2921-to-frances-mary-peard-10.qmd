@@ -1,0 +1,50 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1889-12-27"
+letter_date: "Decr 27th 1889"
+location: "Elderfield"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2921
+letter_id: "to-frances-mary-peard-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-12-27"
+  url: "https://cmyonge.github.io/letters/2921-to-frances-mary-peard-10"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 27th 1889  
+**From:** Elderfield  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Frances](people/person_1160.qmd)
+
+Thank you for your letter. We don’t deal in squills, but I have just brought in various primroses and violets, though there was hardly a berry for the Church. However the holly leaves are much finer than when the berries have starved them.
+
+[Gertrude](people/person_1462.qmd) was tolerable and could enjoy her cards and presents, and shells go on as her great delight at present, that wonderful [step-step father](people/person_132.qmd) of hers has an endless variety of collections, and sends her shells and fossils the finding and naming of which are a grand occupation, and she likes her maid.[^1]
+
+Your [Blue Dragon](other_books/otherbook_1092.qmd) is a great success, and I like [Paul’s sister](other_books/otherbook_1093.qmd) better than any of your stories for a long time, but as Dover was all Castle to me, it was funny to find no mention of such a feature in the landscape![^2]
+
+[Miss Bramston](people/person_198.qmd) is coming out here tomorrow, and goes to Torquay on Monday—[Mr Innes](people/person_744.qmd) much admires her [Apples](other_books/otherbook_1094.qmd), and there is much that is fine in it, but one wants somebody to love.[^3] I am glad to hear so good an account of [Mrs Peard](people/person_2390.qmd). Are we all going to have influenza? I remember a bout of 40 years ago or nearer 50.
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: The 'step-step father' was the Rev. James Beck, Rector of Bildeston, who had married Gertrude Walter’s stepmother Caroline Walter.  Her maid was probably not [Ellen Foster](people/person_2353.qmd), who seems to have died this year.  Her successor was perhaps [Jessie Palmer](people/person_2169.qmd), who was at Elderfield in the 1891 census.
+[^2]: These were books by Peard;  CMY had visited her cousin Jane Moore at Dover Castle.
+[^3]: Mary Bramston, *The Apples of Sodom* 2 vols (London: Walter Smith, 1889).

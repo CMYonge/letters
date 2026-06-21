@@ -1,0 +1,15 @@
+---
+title: "Anne Mercier - Christabel Hope, or, The Beginnings of Life"
+book_id: 563
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Imprint:** London: Warne
+
+## Letters Mentioning This Work
+
+- [Letter 2359](../2359-to-anne-mercier-5.qmd)
+

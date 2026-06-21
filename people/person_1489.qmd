@@ -1,0 +1,15 @@
+---
+title: "Mr West"
+person_id: 1489
+---
+
+## Biographical Information
+
+(fl.1871)
+
+cordially invited to lunch
+
+## Letters Mentioning This Person
+
+- [Letter 2404](../2404-to-mr-west.qmd)
+

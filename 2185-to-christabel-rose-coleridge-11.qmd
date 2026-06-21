@@ -1,0 +1,41 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1867-07-06"
+letter_date: "July 6th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2185
+letter_id: "to-christabel-rose-coleridge-11"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-07-06"
+  url: "https://cmyonge.github.io/letters/2185-to-christabel-rose-coleridge-11"
+---
+
+::: {.letter-metadata}
+**Date:** July 6th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+I think they were rather dull questions this time and they have not produced brilliant answers but your tradition is by far the best. Poor [Florence](people/person_1520.qmd) strained her back, and cannot do anything for either answers or [Barnacle](organizations/other_89.qmd) though she is getting better- and some of the [Goslings](organizations/other_104.qmd) are abroad and some visiting. 
+
+I hope your [Changeling](other_books/otherbook_500.qmd) is coming, as the Barnacle will be very thin. I am keeping it to be bound till the [Winchester](organizations/other_50.qmd)holidays begin, because their leaving books take up so much of the binder’s time that he is no good to anybody. I found y – (I am sure I don’t know what this was going to be) Would you be so kind as to send me the Barnacle that has got that sort of Westward Ho of mine in it, copied out by [Alice](people/person_327.qmd). I have an idea that something may be done with it, at least I have been asked for a story and I think – changing the names – that I could make this serve the purpose.
+
+The [Johns](people/person_769.qmd)es talk of driving over some evening this next week.
+
+your affectionate
+C M Yonge

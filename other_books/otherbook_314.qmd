@@ -1,0 +1,15 @@
+---
+title: "John Mitchell Kemble - The Names, Surnames and Nicnames of the Anglosaxons"
+book_id: 314
+---
+
+## Publication Information
+
+**Date:** 1846
+
+**Imprint:** London: Archaeological Institute
+
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
+

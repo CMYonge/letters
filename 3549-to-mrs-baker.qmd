@@ -1,0 +1,39 @@
+---
+title: "To Harriet Emma Lockhart Baker?"
+letter_iso_date: "1860-01-22"
+letter_date: "Jany 22nd [1860-1890]"
+manuscript: "MS Columbia University Library, New York:  Ray Collection."
+post_id: 3549
+letter_id: "to-mrs-baker"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harriet Emma Lockhart Baker?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-01-22"
+  url: "https://cmyonge.github.io/letters/3549-to-mrs-baker"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 22nd [1860-1890]  
+**Manuscript:** MS Columbia University Library, New York:  Ray Collection.
+:::
+
+My dear [Mrs Baker](people/person_2075.qmd)
+Here is your New Zealand paper. I am very sorry I have not been able to use it in the [Monthly Packet](organizations/other_52.qmd), but I get more and more in arrears of MS, and am shocked at the way thinks [sic] lie by 
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

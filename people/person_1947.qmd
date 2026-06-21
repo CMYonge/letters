@@ -1,0 +1,13 @@
+---
+title: "Mr Brooke"
+person_id: 1947
+---
+
+## Biographical Information
+
+lithographer
+
+## Letters Mentioning This Person
+
+- [Letter 2052](../2052-alexander-macmillan-to-charlotte-mary-yonge-37.qmd)
+

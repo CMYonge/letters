@@ -1,0 +1,42 @@
+---
+title: "To Isabel Mary Warburton"
+letter_iso_date: "1875-04-20"
+letter_date: "April 20th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Girton College Cambridge, Yonge VIII 4"
+post_id: 2528
+letter_id: "to-isabel-mary-warburton-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabel Mary Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-04-20"
+  url: "https://cmyonge.github.io/letters/2528-to-isabel-mary-warburton-4"
+---
+
+::: {.letter-metadata}
+**Date:** April 20th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Girton College Cambridge, Yonge VIII 4
+:::
+
+My dear [Mrs Warburton](people/person_1465.qmd)
+
+A great many thanks for your kind [present](other_books/otherbook_860.qmd).[^1] It is my favourite period of history and I am sure [Mr Warburton](people/person_1466.qmd)will have treated it in a more kindred spirit than I think has been shewn in all the books of this series, some of which have disappointed me especially the Wars of the Roses, but I am sure I shall enjoy reading this.
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: William Parsons Warburton, *Edward III* (1874). CMY was still recommending it in 1881: see Coleridge, *Life*, 56.  It appeared in the 'Epochs of Modern History' series.

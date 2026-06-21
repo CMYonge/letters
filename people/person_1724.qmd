@@ -1,0 +1,17 @@
+---
+title: "Harriet Martineau"
+person_id: 1724
+---
+
+## Biographical Information
+
+(1802-1876)
+
+writer and journalist
+
+## Letters Mentioning This Person
+
+- [Letter 1824](../1824-to-ann-maria-carter-smith-44.qmd)
+- [Letter 2733](../2733-to-christabel-rose-coleridge-104.qmd)
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
+

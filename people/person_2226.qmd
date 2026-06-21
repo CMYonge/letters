@@ -1,0 +1,13 @@
+---
+title: "Edward Bowles"
+person_id: 2226
+---
+
+## Biographical Information
+
+brother of the Rev. [Henry Bowles](person_184.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 3456](../3456-to-mary-yonge-33.qmd)
+

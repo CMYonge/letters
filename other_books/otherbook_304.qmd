@@ -1,0 +1,17 @@
+---
+title: "Susanna Warren - 'The Worms of the North'"
+book_id: 304
+---
+
+## Publication Information
+
+**Date:** 1861
+
+**Imprint:** <i>MP</i> (October 1861) 361-377.
+
+**Notes:** This unsigned article is attributed to Warren on the assumption that it is referred to as 'your Dragons'.
+
+## Letters Mentioning This Work
+
+- [Letter 1828](../1828-to-susanna-warren-4.qmd)
+

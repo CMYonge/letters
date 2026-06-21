@@ -1,0 +1,20 @@
+---
+title: "Harriett Mozley - The Fairy Bower, or, The History of a Month: A Tale for Young People"
+book_id: 240
+---
+
+## Publication Information
+
+**Date:** 1841
+
+**Imprint:** London: Burns and Derby: Mozley
+
+## Letters Mentioning This Work
+
+- [Letter 1787](../1787-to-ann-maria-carter-smith-33.qmd)
+- [Letter 2945](../2945-to-anne-yonge-12.qmd)
+- [Letter 3333](../3333-to-mary-elizabeth-christie-2.qmd)
+- [Letter 3334](../3334-to-mary-elizabeth-christie-3.qmd)
+- [Letter 3361](../3361-to-mary-elizabeth-christie.qmd)
+- [Letter 19268](../19268-to-anna-rachel-bramston.qmd)
+

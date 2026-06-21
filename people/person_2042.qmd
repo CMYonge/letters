@@ -1,0 +1,15 @@
+---
+title: "Ferdinand I"
+person_id: 2042
+---
+
+## Biographical Information
+
+(1851-1825)
+
+King of the Two Sicilies
+
+## Letters Mentioning This Person
+
+- [Letter 2331](../2331-to-mary-ann-dyson-12.qmd)
+

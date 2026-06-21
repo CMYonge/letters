@@ -1,0 +1,17 @@
+---
+title: " Shakespeare’s Plays for Schools. Prepared and annotated for school use by Charlotte M. Yonge. 5 vols"
+book_id: 167
+sort_title: " Shakespeare’s Plays for Schools. "
+---
+
+## Publication Information
+
+**Date:** 1883-5
+
+**Genre:** Non-fiction: edited drama
+
+**Publisher:** London: National Society’s Depository, Broad Sanctuary, Westminster.
+
+**Notes:** Contains <i>Henry IV</i> parts I and II, <i>Henry V, Richard II </i>and <i>Julius Caesar.</i>
+
+

@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1859-09-03"
+letter_date: "Sept 3d [late 1850s?]"
+location: "Tyntesfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3533
+letter_id: "to-an-unknown-woman-47"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-09-03"
+  url: "https://cmyonge.github.io/letters/3533-to-an-unknown-woman-47"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 3d [late 1850s?]  
+**From:** Tyntesfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear Madam,
+
+I fear you must almost have despaired of receiving the renderings of the names, but we have been so constantly either seeing sights or travelling that this is the first time I have been able to set them down, and now I am afraid they will prove very disappointing, and not <u>too</u> susceptible of illumination - I am afraid names are too often mere adjectives to be very manageable for the purpose. I added the Stem as the only way in which many could be illuminated, unless figures of the Saints of each name were to be introduced[^1]
+
+Regretting the long delay
+Yours faithfully
+C M Yonge
+
+---
+
+[^1]: The home, near Bristol, of CMY’s friends William and Matilda Gibbs.
+[^2]: The formal tone of this letter resembles CMY's correspondence with strangers in the 1850s, and it seems likely that it was written during the period 1852-1862 when she was publishing a series of articles on 'Name-fancying' in *MP* which were the germ of her *History of Christian Names* (1863).

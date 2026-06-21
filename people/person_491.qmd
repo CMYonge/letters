@@ -1,0 +1,15 @@
+---
+title: "Mr Evans"
+person_id: 491
+---
+
+## Biographical Information
+
+perhaps an official of the SPCK
+
+Another possibility is that the person mentioned in this letter to Susanna Warren of 3 November 1860 is the engraver Edmund Evans (1826-1905), but this seems less likely.
+
+## Letters Mentioning This Person
+
+- [Letter 1804](../1804-to-susanna-warren-2.qmd)
+

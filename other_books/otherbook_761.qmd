@@ -1,0 +1,15 @@
+---
+title: "Jean Froissart - Stories from Froissart ed. Henry Newbolt"
+book_id: 761
+---
+
+## Publication Information
+
+**Date:** 1899
+
+**Imprint:** London: Wells, Gardner
+
+## Letters Mentioning This Work
+
+- [Letter 3441](../3441-to-mary-drew-2.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "Miss Martin"
+person_id: 2105
+---
+
+## Biographical Information
+
+friend of [Anne Sturges Bourne](person_1379.qmd)
+
+CMY writes as if Miss Martin had attended Sturges Bourne on her deathbed, but she was not a member of Sturges Bourne's household at the time of the 1891 census, a few months earlier.
+
+## Letters Mentioning This Person
+
+- [Letter 3181](../3181-to-penelope-packe-3.qmd)
+

@@ -1,0 +1,38 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1877-04-19"
+letter_date: "April 19th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 16"
+post_id: 2578
+letter_id: "to-alexander-macmillan-123"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-04-19"
+  url: "https://cmyonge.github.io/letters/2578-to-alexander-macmillan-123"
+---
+
+::: {.letter-metadata}
+**Date:** April 19th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 16
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Thank you for sending me this letter, I am very glad that there should be a Hindostanee translation. I have just heard of one nearer home into German
+
+Yours truly
+C M Yonge

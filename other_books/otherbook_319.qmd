@@ -1,0 +1,15 @@
+---
+title: "Charles Reade - The Cloister and the Hearth: A Tale of the Middle Ages"
+book_id: 319
+---
+
+## Publication Information
+
+**Date:** 1861
+
+**Imprint:** London: Truebner
+
+## Letters Mentioning This Work
+
+- [Letter 1861](../1861-to-jemima-blackburn-10.qmd)
+

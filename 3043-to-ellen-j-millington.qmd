@@ -1,0 +1,42 @@
+---
+title: "To Ellen J. Millington"
+letter_iso_date: "1854-03-09"
+letter_date: "March 9th [?1854]"
+location: "Otterbourne"
+manuscript: "MS Princeton University, Parrish Collection,  C0171: Box 29"
+post_id: 3043
+letter_id: "to-ellen-j-millington"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen J. Millington"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-03-09"
+  url: "https://cmyonge.github.io/letters/3043-to-ellen-j-millington"
+---
+
+::: {.letter-metadata}
+**Date:** March 9th [?1854]  
+**From:** Otterbourne  
+**Manuscript:** MS Princeton University, Parrish Collection,  C0171: Box 29
+:::
+
+My dear [Miss Millington](people/person_1000.qmd)
+This is a very amusing chapter, and I am glad to hear that [Blue Mantle](people/person_836.qmd)[^1] directed you to the right quarter for the next subject to be entered into heraldry.[^2]  It seems to be an inexhaustible fund of curious information. I am overhurried today so pray excuse my blundering
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Henry Murray Lane (1833-1913), Bluemantle Pursuivant at the College of Arms (1849-1864).
+[^2]: Her heraldry articles ran in [MP](organizations/other_52.qmd) from 1853-1857.

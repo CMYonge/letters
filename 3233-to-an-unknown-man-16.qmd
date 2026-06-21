@@ -1,0 +1,39 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1893-09-22"
+letter_date: "Sept 22d 1893"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3233
+letter_id: "to-an-unknown-man-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-09-22"
+  url: "https://cmyonge.github.io/letters/3233-to-an-unknown-man-16"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 22d 1893  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Sir
+
+I have no photograph at hand that I can spare but you can procure one in the February number of [‘Men and Women of the Time’](other_books/otherbook_613.qmd)or another from Elliot and Fay Baker Street.
+
+I remain &c
+
+C M Yonge

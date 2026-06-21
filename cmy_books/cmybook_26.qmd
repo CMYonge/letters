@@ -1,0 +1,19 @@
+---
+title: "Leonard the Lion-Heart"
+book_id: 26
+sort_title: "Leonard the Lion-Heart"
+---
+
+## Publication Information
+
+**Date:** 1856
+
+**Genre:** Fiction (modern)
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London; Masters and Co., 78, New Bond Street, London
+
+## Letters Mentioning This Work
+
+- [Letter 2854](../2854-to-christabel-rose-coleridge-112.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
+

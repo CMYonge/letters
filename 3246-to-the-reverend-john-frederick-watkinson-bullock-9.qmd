@@ -1,0 +1,47 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-02-06"
+letter_date: "Feb 6th [1894]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 131-2"
+post_id: 3246
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-02-06"
+  url: "https://cmyonge.github.io/letters/3246-to-the-reverend-john-frederick-watkinson-bullock-9"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 6th [1894]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 131-2
+:::
+
+Dear [Mr Bullock](people/person_221.qmd), 
+I will try to write Abp Sancroft[^1], and [Bp Mackenzie](people/person_929.qmd) but have you thought of asking [Miss Awdry](people/person_82.qmd), Notton, Chippenham. She is the author of [‘An Elder Sister’](people/person_687.qmd) and would do [Anne Mackenzie](people/person_930.qmd)’s life excellently. She could also do well [Henrietta Robertson](people/person_1952.qmd), a grand missionary worker.
+
+And have you thought of [Mrs Macdougal](people/person_1949.qmd) who sacrificed so much-? Miss Awdry could well do all these. She edited the [Gospel Missionary](organizations/other_227.qmd) till lately when it was decided that the Editor must live in London. 
+
+I hope you will take [Miss Havergal](people/person_2091.qmd). You know there are two hymns of hers in [A and M](other_books/otherbook_686.qmd) - and the way she took her poetical and musical powers as gifts to be used always struck me as most beautiful.
+
+I see what you mean about [Miss Sellon](people/person_1294.qmd), as the work and victory she effected, but after  much enthusiasm about her, I own I was much disappointed (as were others) when she came to Hursley to see her [Sisters](organizations/other_46.qmd) off to Honolulu. Being such an invalid herself, she did not know what was to be expected of her Sisters. However she fought the battle. I see [Lincoln diocesan mag](organizations/other_228.qmd) has a life of [Dean Butler](people/person_244.qmd). Could you get leave to use that?
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: William Sancroft (1617-1693), archbishop of Canterbury.  The proposed biographies, of which CMY wrote several, were for the 'Biographies of Eminent Anglicans' series, which were intended to form part of Bullock's *Daily Lections* project, but were not in fact published.

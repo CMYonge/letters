@@ -1,0 +1,20 @@
+---
+title: "Hartmann Schedel - Liber chronicarum"
+book_id: 421
+---
+
+## Publication Information
+
+**Date:** 1493
+
+**Imprint:** Nuremberg: Koberger
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 2065](../2065-to-alexander-macmillan-56.qmd)
+- [Letter 2073](../2073-to-alexander-macmillan-57.qmd)
+- [Letter 2079](../2079-to-alexander-macmillan-60.qmd)
+

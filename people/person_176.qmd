@@ -1,0 +1,13 @@
+---
+title: "Mrs Bothamly"
+person_id: 176
+---
+
+## Biographical Information
+
+correspondent in 1900
+
+## Letters Mentioning This Person
+
+- [Letter 3457](../3457-to-mrs-bothamly.qmd)
+

@@ -1,0 +1,43 @@
+---
+title: "Sir John Taylor Coleridge"
+person_id: 344
+---
+
+## Biographical Information
+
+(1790-11 Feb 1876)
+
+judge, cousin of CMY
+
+He married (1818) Mary Buchanan. [ODNB]
+
+## Letters Mentioning This Person
+
+- [Letter 1791](../1791-to-anne-sturges-bourne-4.qmd)
+- [Letter 2106](../2106-to-elizabeth-missing-sewell-6.qmd)
+- [Letter 2115](../2115-to-jemima-charlotte-mozley.qmd)
+- [Letter 2134](../2134-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-2.qmd)
+- [Letter 2300](../2300-to-mary-ann-dyson-8.qmd)
+- [Letter 2304](../2304-to-sir-william-heathcote-bt-2.qmd)
+- [Letter 2316](../2316-to-the-reverend-henry-parry-liddon.qmd)
+- [Letter 2357](../2357-to-arthur-john-butler-6.qmd)
+- [Letter 2358](../2358-to-mary-yonge-10.qmd)
+- [Letter 2444](../2444-to-sir-william-heathcote-bt-8.qmd)
+- [Letter 2480](../2480-to-harriet-poole-2.qmd)
+- [Letter 2541](../2541-to-mary-yonge-38.qmd)
+- [Letter 2587](../2587-to-christabel-rose-coleridge-88.qmd)
+- [Letter 2944](../2944-to-alethea-yonge.qmd)
+- [Letter 2955](../2955-to-anne-yonge-22.qmd)
+- [Letter 2961](../2961-william-crawley-yonge-to-the-reverend-john-yonge.qmd)
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
+- [Letter 3053](../3053-to-elizabeth-barnett-6.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+- [Letter 3496](../3496-to-an-unknown-woman-46.qmd)
+- [Letter 7691](../7691-to-sir-john-taylor-coleridge.qmd)
+- [Letter 7710](../7710-to-sir-john-taylor-coleridge.qmd)
+- [Letter 7727](../7727-to-sir-john-taylor-coleridge.qmd)
+- [Letter 7749](../7749-to-sir-john-taylor-coleridge.qmd)
+- [Letter 7783](../7783-to-sir-john-taylor-coleridge.qmd)
+- [Letter 7798](../7798-to-sir-john-taylor-coleridge.qmd)
+- [Letter 7864](../7864-to-john-duke-coleridge.qmd)
+

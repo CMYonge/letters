@@ -1,0 +1,13 @@
+---
+title: "Miss Watkins"
+person_id: 2254
+---
+
+## Biographical Information
+
+friend of [Margaret Roberts](person_1244.qmd)
+
+## Letters Mentioning This Person
+
+- [Letter 3479](../3479-to-christabel-rose-coleridge-58.qmd)
+

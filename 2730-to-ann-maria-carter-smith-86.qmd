@@ -1,0 +1,44 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1881-07-20"
+letter_date: "July 20th 1881"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1881 / 8"
+post_id: 2730
+letter_id: "to-ann-maria-carter-smith-86"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-07-20"
+  url: "https://cmyonge.github.io/letters/2730-to-ann-maria-carter-smith-86"
+---
+
+::: {.letter-metadata}
+**Date:** July 20th 1881  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1881 / 8
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I am sorry to say [your story](other_books/otherbook_936.qmd), even with a little abridging, comes to 63 pp, and as that is nearly a quarter of the Christmas no. I had to give it up with another which I liked almost as well, but was 53 pp, so I am afraid I must keep it waiting for the end of [Paul and Virginia](other_books/otherbook_947.qmd) and put it into the regular [M P](organizations/other_52.qmd). I like your Dulcibella very much and am so glad to have met you again in the [Churchman](organizations/other_62.qmd)[^1]  
+
+Query? Am I an optimist or is 40 years of work in the same place more encouraging than 10?  I believe it is, because one sees the disappointments come round again, and the general mean go on.  I am quite sure that the good is more intelligent good, and the average at a higher level.  In 1834 came [a clergyman](people/person_1544.qmd) here who found 12 communicants of whom the greater number were of my [grandmother](people/person_103.qmd)’s household.  Only one of these 12 (not of that house) was alive when he left us,  his last Easter Sunday having (I think 75).  Our population then 700.  His [successor](people/person_478.qmd) was here 10 years, and died last February, and there were 135 Easter Communicants, the population being now 859 owing to a new suburb to the village.  I don’t think I much believe in the old simplicity, I think it was often very rough and cross
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Dulcibella was the heroine of a story by Carter Smith called 'The Tramp of Many Feet' serialized in the *Churchman's Companion*.  The story initially accepted by CMY for the 1881 Christmas number is identified in a later letter as 'A Little Less than Kin and More than Kind'.

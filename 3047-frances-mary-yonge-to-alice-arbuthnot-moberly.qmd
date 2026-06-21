@@ -1,0 +1,38 @@
+---
+title: "Frances Mary Yonge to Alice Arbuthnot Moberly"
+letter_iso_date: "1854-06-18"
+letter_date: "June 1854."
+location: "Otterbourne,"
+manuscript: "MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 112-3."
+post_id: 3047
+letter_id: "frances-mary-yonge-to-alice-arbuthnot-moberly"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Frances Mary Yonge to Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-06-18"
+  url: "https://cmyonge.github.io/letters/3047-frances-mary-yonge-to-alice-arbuthnot-moberly"
+---
+
+::: {.letter-metadata}
+**Date:** June 1854.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 112-3.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+The [Warden](people/person_118.qmd) has asked Charlotte and [Anne](people/person_1582.qmd) to dine there to be ready for the evening meeting;  but at all events they will come to you first, about 10 o'clock, to go with you to the Cathedral.  You would have enjoyed a walk with us last evening in a part of [Cranbury](organizations/other_119.qmd) quite unknown to us, where we found some beautiful lady-fern and a dragon-fly surpassing in beauty.  And so the dear people did come to us, [Mary](people/person_1020.qmd), [Dora](people/person_968.qmd), [Emily](people/person_81.qmd), and [Annie](people/person_1024.qmd), and we are only just come from walking to meet [Miss Cowing](people/person_374.qmd)[^1] and the rest.  Charlotte sends all that is finished of '[Heartsease](cmy_books/cmybook_19.qmd),'  and has no doubt there will be more by the time you are ready for it;  she is numbering the pages with red, in case they get wrong.  I do think [Mrs. Moberly](people/person_1019.qmd) will enjoy little John Martindale, even more this time than before.  [Miss Keble](people/person_796.qmd) is very fond of him.
+
+---
+
+[^1]: Jane Cowing (b.1807/8), the Moberlys' governess.

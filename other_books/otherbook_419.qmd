@@ -1,0 +1,19 @@
+---
+title: "Melchior Pfintzing - Der Theuerdank"
+book_id: 419
+---
+
+## Publication Information
+
+**Date:** 1517
+
+**Notes:** CMY used this supposed autobiography of Maximilian I as a source for <i>The Dove in the Eagle's Nest</i>.  She appears to have consulted several different editions.
+
+## Letters Mentioning This Work
+
+- [Letter 2058](../2058-to-alexander-macmillan-54.qmd)
+- [Letter 2060](../2060-alexander-macmillan-to-charlotte-mary-yonge-39.qmd)
+- [Letter 2061](../2061-to-alexander-macmillan-55.qmd)
+- [Letter 2062](../2062-alexander-macmillan-to-charlotte-mary-yonge-40.qmd)
+- [Letter 2065](../2065-to-alexander-macmillan-56.qmd)
+

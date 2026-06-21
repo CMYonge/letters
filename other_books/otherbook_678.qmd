@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott 1st Bt. - The Antiquary"
+book_id: 678
+---
+
+## Publication Information
+
+**Date:** 1816
+
+**Imprint:** Edinburgh: Ballantyne
+
+## Letters Mentioning This Work
+
+- [Letter 3228](../3228-to-alice-arbuthnot-moberly-11.qmd)
+

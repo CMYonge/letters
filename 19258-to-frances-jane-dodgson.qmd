@@ -1,0 +1,47 @@
+---
+title: "To Frances Jane Dodgson"
+letter_iso_date: "1898-11-05"
+letter_date: "Novr 6th[?1898-1900]"
+location: "Elderfield"
+manuscript: "Surrey History Centre, Dodgson Family Collection D/1/57"
+post_id: 19258
+letter_id: "to-frances-jane-dodgson"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Jane Dodgson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-11-05"
+  url: "https://cmyonge.github.io/letters/19258-to-frances-jane-dodgson"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 6th[?1898-1900]  
+**From:** Elderfield  
+**Manuscript:** Surrey History Centre, Dodgson Family Collection D/1/57
+:::
+
+My dear [Miss Dodgson](people/person_2423.qmd),
+
+I will keep your card to consider in case a certain poor Alfred Shany is disposed of, he is 43, and every five years has to be freshly voted for as he will be turned out on his family's hands.[^1]
+
+I well remember that day of [your Brother](people/person_261.qmd)'s photography. [^2] It was the only time except once that [my mother](people/person_1606.qmd) was photographed so we should be very glad to have the negatives   If the parcel were sent to Miss Bowles at Ranmure [?] there would be sure to be a safe opportunity before long
+
+yours very sincerely
+
+C M Yonge
+
+---
+
+[^1]: The letter is assumed to have been written after 'Lewis Carroll''s death in January 1898.  This is consistent with the implication that it dates from the period in which CMY's nephew-in-law, the [Rev. Henry Bowles](people/person_184.qmd), was vicar of Otterbourne and easily able to receive parcels from his family, who lived in Surrey like the Dodgsons.  It has also been assumed that it was addressed to Dodgson's eldest unmarried sister, though he had several.
+[^2]: Alfred Shany is unidentified, but was evidently an inmate in an institution whose subscribers voted for candidates.
+[^3]: CMY and FMY had been photographed by the Rev. Charles Lutwidge Dodgson in Oxford on 4 May 1866.

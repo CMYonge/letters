@@ -1,0 +1,19 @@
+---
+title: "Jean Ingelow and Frances Mary Levett - One Story by Two Authors, or,  A Tale without a Moral"
+book_id: 278
+---
+
+## Publication Information
+
+**Date:** 1862
+
+**Imprint:** London: Masters
+
+**Notes:** Originally serialised in the <i>Monthly Packet</i> (February 1860 to June 1861)
+
+## Letters Mentioning This Work
+
+- [Letter 1787](../1787-to-ann-maria-carter-smith-33.qmd)
+- [Letter 1821](../1821-to-ann-maria-carter-smith-41.qmd)
+- [Letter 2105](../2105-to-jean-ingelow-2.qmd)
+

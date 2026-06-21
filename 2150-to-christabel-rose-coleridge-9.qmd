@@ -1,0 +1,42 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1867-03-06"
+letter_date: "Ash Wednesday [6 March 1867?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2150
+letter_id: "to-christabel-rose-coleridge-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-03-06"
+  url: "https://cmyonge.github.io/letters/2150-to-christabel-rose-coleridge-9"
+---
+
+::: {.letter-metadata}
+**Date:** Ash Wednesday [6 March 1867?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd),
+I should not have been so ungrateful if I had not been laid up, first by being deluded into eating some Scallop fish that everybody else flourished upon, and then by a wicked chair, which cast its hind leg as I was sitting down on it, and strained my back - Not till lately have I had the energy to pack up the Answers and write to you. I shall be very thankful if you will steer the [Barnacle](organizations/other_89.qmd) boat for me and become its headquarters. If you would put in the list of rotation into the fly leaf of each number, perhaps you would digest it better than I do - for mine seems utterly unattended to. Have you ever heard of the new number, I sent a confirmation to [Ladyfern](people/person_455.qmd) about it of which she has taken no notice to me, and I further have set her [Aunt](people/person_930.qmd) at her. I think we must devise some other binder. The first eight are at Torquay, and I have desired [Fern Seed](people/person_1160.qmd) to send them to you. It really will be a very great help if you will take the Barnacle branches off my hands. I suppose the MSS had better still come to me, and then I will send them to you, and you to that bad Ladyfern unless we turn her off. I am glad you & [Mrs Coleridge](people/person_1976.qmd) thought as I did that the National Goosedom idea is wild and impracticable, and likely to come to nothing.[^1] I was not quite sure whether it was not my own old fashionedness, and so wanted to get some fresh opinion on it. They have had a little Gaggle at Torquay[^2] in imitation of yours
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: No doubt a scheme to expand the [Gosling Society](organizations/other_104.qmd), as was eventually done with the [Spider Society](organizations/other_116.qmd).
+[^2]: Three Goslings, [Emily Maconchy](people/person_945.qmd), [Paulina Martyn](people/person_973.qmd) and Frances Peard, lived in Torquay.

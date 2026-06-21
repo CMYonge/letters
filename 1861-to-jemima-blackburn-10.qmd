@@ -1,0 +1,49 @@
+---
+title: "To Jemima Blackburn"
+letter_iso_date: "1862-05-05"
+letter_date: "May 5th [1862]"
+location: "Otterbourne, Winchester."
+manuscript: "MS University of Illinois, Urbana Champaign: Letter 12."
+post_id: 1861
+letter_id: "to-jemima-blackburn-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jemima Blackburn"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-05-05"
+  url: "https://cmyonge.github.io/letters/1861-to-jemima-blackburn-10"
+---
+
+::: {.letter-metadata}
+**Date:** May 5th [1862]  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS University of Illinois, Urbana Champaign: Letter 12.
+:::
+
+My dear [Mrs Blackburn](people/person_159.qmd),
+I fancy that you would find [the Cloister & the Hearth](other_books/otherbook_319.qmd) answer for your reading to [Mr Blackburn](people/person_1862.qmd) if you like a tissue of wonderful adventures which befal Erasmus’ father & mother, there are bits rather coarse and I find other people like it better than I did.[^1]
+
+[East Lynn](other_books/otherbook_320.qmd) is very clever a capital plot, and would carry on vehemently. Perhaps you have seen reviews of it - [Grandmother’s Money](other_books/otherbook_321.qmd) - clever and carries one on. Debit and Credit - a translation of [Freytag’s Soll und Haben](other_books/otherbook_322.qmd) carries one into smooth water that I like very much - minute painting of ways in a great German firm, and in a Polish castle, very like Ireland, but some people think it tedious & perhaps you would - it is not new. These are the chief that occur to me, except those too patent to mention. I like Trollope’s [Framley Parsonage](other_books/otherbook_323.qmd) better than most things - but I doubt if you would. Many thanks about the woodcutting. I will try to put [Miss Ashwell](people/person_1863.qmd) up to do the drawing herself, I think she will do well what she does do - But I do think the French must be dear, that page of good words[?] is much bigger than any book was intended to be - and how can people ever bring out such cheap books full of 'cuts' - I beg Doonholm’s pardon - I could not make out the word, so performed scollops as I always do on such occasions -[^2] I hope you will be able to get home in the long days - we are swarming with nightingales more than I ever knew - 
+
+You must have come all the way with the swallows - I hope you fell in with the bird that picks the crocodile’s teeth.[^3]
+
+If you have not read it, [Dr Wolff’s autobiography](other_books/otherbook_324.qmd) is more diverting than any novel - I see the old man is just dead - do read his life - it is published by Sanders & Ottley
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Blackburn’s husband presumably needed entertainment while recovering from the illness that brought her back from her visit to Egypt.
+[^2]: Doonholm was the estate belonging to Blackburn’s brother-in-law, Colin Blackburn, in Ayrshire.
+[^3]: The birds referred to were a famous example of symbiosis, since the crocodiles never snapped them up.

@@ -1,0 +1,15 @@
+---
+title: "Thomas Roscoe - Lives of the Kings of England, from the Norman Conquest"
+book_id: 480
+---
+
+## Publication Information
+
+**Date:** 1846
+
+**Imprint:** London: Colburn
+
+## Letters Mentioning This Work
+
+- [Letter 2145](../2145-to-alexander-macmillan-83.qmd)
+

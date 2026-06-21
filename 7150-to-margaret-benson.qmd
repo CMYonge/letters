@@ -1,0 +1,38 @@
+---
+title: "To Margaret Benson"
+letter_iso_date: "1890-05-09"
+letter_date: "May 9th 1890"
+location: "Torquay"
+manuscript: "MS Bodleian Library Benson C.5.4 3/64 fol. 98"
+post_id: 7150
+letter_id: "to-margaret-benson"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Benson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-05-09"
+  url: "https://cmyonge.github.io/letters/7150-to-margaret-benson"
+---
+
+::: {.letter-metadata}
+**Date:** May 9th 1890  
+**From:** Torquay  
+**Manuscript:** MS Bodleian Library Benson C.5.4 3/64 fol. 98
+:::
+
+Dear [Miss Benson](people/person_1858.qmd),
+Thank you for letting me know. I am wandering as you see, but you will soon hear from the publisher
+Yours sincerely
+C M Yonge
+
+I hope you have another story for me –

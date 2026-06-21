@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1867-01-17"
+letter_date: "Jany 17th [1867]"
+location: "[Elderfield, Otterbourne, Winchester.]"
+manuscript: "MS British Library Add MSS 54920: 172-173"
+post_id: 2146
+letter_id: "to-alexander-macmillan-84"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-01-17"
+  url: "https://cmyonge.github.io/letters/2146-to-alexander-macmillan-84"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 17th [1867]  
+**From:** [Elderfield, Otterbourne, Winchester.]  
+**Manuscript:** MS British Library Add MSS 54920: 172-173
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Would you be so kind as to send an order for me for Sir F. Palgraves [History of Normandy and England](other_books/otherbook_479.qmd). I cannot get my [Cameo’s](cmy_books/cmybook_73.qmd) [sic] correct without it, and [Dr Moberly](people/person_1015.qmd)’s copy on which I reckoned proves to be packed up for leaving Winchester so as to be unobtainable. I can do nothing till I get it, and though I could order it from the [London Library](organizations/other_29.qmd), one is kept often very long waiting for that kind of book.
+
+If I knew who was the publisher I would write direct, but I cannot remember.
+
+Pray tell [Mrs Craik](people/person_378.qmd) when you see her that [Mme de Witt](people/person_423.qmd) writes to me that [M Guizot](people/person_597.qmd) considers her '[Two Marriages](other_books/otherbook_481.qmd)' '<u>comme un chef d’ouvre</u>' [sic]
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** The printed address has been cut out of the MS.

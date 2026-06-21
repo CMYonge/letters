@@ -1,0 +1,41 @@
+---
+title: "To Margaret Helen Moberly"
+letter_iso_date: "1865-11-28"
+letter_date: "Novr 28th [1865?]"
+manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/3"
+post_id: 2082
+letter_id: "to-margaret-helen-moberly-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Helen Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-11-28"
+  url: "https://cmyonge.github.io/letters/2082-to-margaret-helen-moberly-7"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 28th [1865?]  
+**Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/3
+:::
+
+My dear [Maggie](people/person_83.qmd)
+
+I am extremely disappointed not to be able to come in today, when I had so fully reckoned on doing so, even for months past. All the more because I believe that [Edith](people/person_1012.qmd) and I are your only remaining sponsors. But no doubt there are more prevailing prayers offered by those out of our sight. I have still the Daisy Cross that was a memorial of your Baptism, and called forth (I believe) those pretty daisy verses from your Godfather. I send you Bishop Wilson.[^1] Such an one [sic] was given me in readings for my Confirmation by my dear [Godmother](people/person_777.qmd) who did not live to see it
+
+your loving godmother
+C M Yonge
+
+---
+
+[^1]: The dating of this letter obviously depends on the date of the confirmation of Maggie Moberly and the identity of her godparents.  If the 'daisy' verses were written by Keble, it must post-date his death in March 1866.
+[^2]: The Tractarians venerated the memory of the Rt. Rev. Thomas Wilson (1663-1755), Bishop of Sodor and Man, and Keble published a biography of him.  The book given CMY by her godmother and aunt Charlotte Jones was perhaps his *A Short and Plain Instruction for the Better Understanding of the Lord's Supper* (1734).

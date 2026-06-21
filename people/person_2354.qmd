@@ -1,0 +1,15 @@
+---
+title: "James Sutherland Cotton"
+person_id: 2354
+---
+
+## Biographical Information
+
+(1847-1918)
+
+editor of the <i>Academy</i>
+
+## Letters Mentioning This Person
+
+- [Letter 2781](../2781-to-james-sutherland-cotton.qmd)
+

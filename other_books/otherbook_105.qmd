@@ -1,0 +1,16 @@
+---
+title: "John Gibson Lockhart - Memoirs of the Life of Sir Walter Scott, Bart."
+book_id: 105
+---
+
+## Publication Information
+
+**Date:** 1837-1838
+
+**Imprint:** Edinburgh: Cadell and London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 1952](../1952-to-frederick-james-furnivall-3.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

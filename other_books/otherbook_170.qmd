@@ -1,0 +1,17 @@
+---
+title: "Anthony Trollope - The Warden"
+book_id: 170
+---
+
+## Publication Information
+
+**Date:** 1855
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 2416](../2416-to-christabel-rose-coleridge-66.qmd)
+- [Letter 3021](../3021-to-elizabeth-roberts-30.qmd)
+- [Letter 3109](../3109-to-frances-mary-yonge-2.qmd)
+

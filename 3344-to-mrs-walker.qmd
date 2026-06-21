@@ -1,0 +1,41 @@
+---
+title: "To Alice Fielden Walker"
+letter_iso_date: "1897-03-30"
+letter_date: "March 30 [1897]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Cheltenham Ladies College 0942"
+post_id: 3344
+letter_id: "to-mrs-walker"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Fielden Walker"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-03-30"
+  url: "https://cmyonge.github.io/letters/3344-to-mrs-walker"
+---
+
+::: {.letter-metadata}
+**Date:** March 30 [1897]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Cheltenham Ladies College 0942
+:::
+
+Dear [Madam](people/person_2166.qmd)
+I am very sorry I cannot help you to [Ben Sylvester](cmy_books/cmybook_25.qmd).  I have not even one of my own except in a bound up volume, and the copyright is not mine.  But if you enquired for it direct from [Innes](people/person_744.qmd)they might find a last copy, or be stirred to a reprint.
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** Endorsed in another hand ‘from Miss A.H.Walker, Wokingham’, with envelope addressed to 'Mrs Walker/ Gordon Boys Home/ Woking.' postmarked 30 March 1897.

@@ -1,0 +1,43 @@
+---
+title: "To Penelope Anne Laura Packe"
+letter_iso_date: "1900-12-29"
+letter_date: "Decr 29th 1900"
+location: "Elderfield"
+manuscript: "MS Hampshire Record Office 9M55 F56/3"
+post_id: 3474
+letter_id: "to-penelope-packe"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Penelope Anne Laura Packe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-12-29"
+  url: "https://cmyonge.github.io/letters/3474-to-penelope-packe"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 29th 1900  
+**From:** Elderfield  
+**Manuscript:** MS Hampshire Record Office 9M55 F56/3
+:::
+
+My dear [Mrs Packe](people/person_1112.qmd)
+Thank you for the sight of the letters, it looks so like the old old times.[^1]  And certainly those were days when there was no ‘looking over the wall’ in contrast to these when one may ‘steal a horse’  Do you know what has become of that window?  Perhaps you have it  I suppose the poor old [Bishop](people/person_1383.qmd)was in a regular panic, assisted by his Grace’s wife.  Yet he was the first since the days of the NonJurors who began to waken the diocese into life.
+
+The school undertakings are most characteristic and universal and how they were worked at to the very end
+
+Yours sincerely with all good Christmas and New Year wishes
+C M Yonge
+
+---
+
+[^1]: The letters were probably those between Anne Sturges Bourne (cousin of Penelope Packe) and Mary Anne Dyson, now in Hampshire Record Office.

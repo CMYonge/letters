@@ -1,0 +1,43 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1896-02-28"
+letter_date: "Feb 28th 1896"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 223"
+post_id: 3316
+letter_id: "to-frederick-orridge-macmillan-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-02-28"
+  url: "https://cmyonge.github.io/letters/3316-to-frederick-orridge-macmillan-10"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 28th 1896  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 223
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I am very glad of your favourable answer about the [Cameos](cmy_books/cmybook_240.qmd). I shall be glad of the terms you propose - dividing the profits and you taking the risk, my object being to have them continued without expense
+
+I am delighted to see the faithful and affectionate notice in the new number of the Magazine[^1] 
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The obituary of Alexander Macmillan, sr., who had died on 26 January 1896: ‘Alexander Macmillan’ *Macmillan’s Magazine*  73 (March 1896) 397-400.

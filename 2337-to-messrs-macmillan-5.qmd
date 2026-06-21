@@ -1,0 +1,38 @@
+---
+title: "To Messrs Macmillan"
+letter_iso_date: "1869-09-02"
+letter_date: "Sept 2nd [1869]"
+location: "Testwood"
+manuscript: "MS British Library Add MSS 54920: 232"
+post_id: 2337
+letter_id: "to-messrs-macmillan-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-09-02"
+  url: "https://cmyonge.github.io/letters/2337-to-messrs-macmillan-5"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 2nd [1869]  
+**From:** Testwood  
+**Manuscript:** MS British Library Add MSS 54920: 232
+:::
+
+Miss Yonge would be much obliged if [Messrs Macmillan](organizations/other_111.qmd) would send three copies of the [Heir of Redclyffe](cmy_books/cmybook_15.qmd) directed to 
+
+[Miss Buffham](people/person_2048.qmd)
+[Miss Sturges Bourne](people/person_1379.qmd)’s
+Testwood
+Southampton

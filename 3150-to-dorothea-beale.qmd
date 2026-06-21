@@ -1,0 +1,41 @@
+---
+title: "To Dorothea Beale"
+letter_iso_date: "1890-01-18"
+letter_date: "Jan 18th [1890]"
+location: "Elderfield"
+manuscript: "MS Cheltenham Ladies College 5351 Gor/2"
+post_id: 3150
+letter_id: "to-dorothea-beale"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Dorothea Beale"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-01-18"
+  url: "https://cmyonge.github.io/letters/3150-to-dorothea-beale"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 18th [1890]  
+**From:** Elderfield  
+**Manuscript:** MS Cheltenham Ladies College 5351 Gor/2
+:::
+
+Dear [Miss Beale](people/person_128.qmd)
+Indeed your letter was all right,  I am sorry you had an alarm about it.  I believe one failure in these days in training is that the very late dinners prevent the long family evenings of reading, work and music sometimes dull, but often educational.  As to books, minute studies of character either weary children or make them self conscious.  What their elders like they care little for.  So [Aunt Judy](organizations/other_54.qmd) fails and [Little Folks](organizations/other_77.qmd) flourishes[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: *Aunt Judy’s Magazine* had closed in 1885; like the *Monthly Packet*, it was vulnerable to competition from brighter and more frivolous children’s magazines such as *Little Folks* (1871-1933).

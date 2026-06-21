@@ -1,0 +1,15 @@
+---
+title: "Christabel Coleridge - Waynflete"
+book_id: 205
+---
+
+## Publication Information
+
+**Date:** 1893
+
+**Imprint:** London: Innes
+
+## Letters Mentioning This Work
+
+- [Letter 3407](../3407-to-lady-leconfield.qmd)
+

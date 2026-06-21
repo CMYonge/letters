@@ -1,0 +1,15 @@
+---
+title: "Jane Harper"
+person_id: 2360
+---
+
+## Biographical Information
+
+friend of Gertrude Walter
+
+Mother of two children.
+
+## Letters Mentioning This Person
+
+- [Letter 2805](../2805-to-mary-yonge-51.qmd)
+

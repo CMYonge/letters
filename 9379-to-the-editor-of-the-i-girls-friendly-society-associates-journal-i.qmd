@@ -1,0 +1,39 @@
+---
+title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+letter_iso_date: "1892-12-00"
+letter_date: "[December 1892]"
+manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (December 1892) 221."
+post_id: 9379
+letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-12-00"
+  url: "https://cmyonge.github.io/letters/9379-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+---
+
+::: {.letter-metadata}
+**Date:** [December 1892]  
+**Manuscript:** MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (December 1892) 221.
+:::
+
+THE [G.F.S.](organizations/other_23.qmd) READING UNION
+
+Madam,-
+I must protest against the unfortunate mis-statements in the paper on [Longfellow](people/person_1961.qmd), in the current number of *[Friendly Work](organizations/other_182.qmd)*. I am sure it will pain and distress hundreds of other Associates, and cause them to pause as to sending the paper among their readers.
+
+The writer has committed the old vulgar error of confounding Catholic with Roman Catholic. Our church was Catholic long before any power over it was assumed by, and weakly conceded to the Pope. It is Catholic still. Why should our Members be spoken to as if they were not believers in the Holy Catholic Church? It would have been a more fair account of the matter to explain that the exiles who fled during Queen Mary’s reign had become infected with foreign opinions and habits, and objected to much that had been always the rule of the Church. Moreover, to identify Scottish Presbyterians with English Puritans is a great historical error. Moreover every sovereign of the period held it his bounden duty to direct the conscience of his subjects, and whether this were right or wrong, it is not fair to charge it on James I. as an individual folly. Nor is the account of his controversy with the Puritan Ministers a fair one. Does the writer know what they wanted to abolish? That they were conscientious persons is true, and likewise that persecution was not the way to treat them, but to teach us that our Church is not Catholic and that their grievances were just, is a fatal error, which true Churchwomen must regret. 
+
+Charlotte M. Yonge,
+Head of Literature Department, Winchester Diocese.

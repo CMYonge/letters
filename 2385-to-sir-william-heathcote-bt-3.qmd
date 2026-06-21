@@ -1,0 +1,45 @@
+---
+title: "To Sir William Heathcote, Bt."
+letter_iso_date: "1870-08-02"
+letter_date: "August 2, 1870."
+location: "Elderfield, Otterbourne, Winchester,"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p.300"
+post_id: 2385
+letter_id: "to-sir-william-heathcote-bt-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir William Heathcote, Bt."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-08-02"
+  url: "https://cmyonge.github.io/letters/2385-to-sir-william-heathcote-bt-3"
+---
+
+::: {.letter-metadata}
+**Date:** August 2, 1870.  
+**From:** Elderfield, Otterbourne, Winchester,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p.300
+:::
+
+My dear [Sir William](people/person_669.qmd)-
+I hope it is not very presumptuous to follow my impulse of not exactly congratulating you, but expressing my great pleasure in the award of this mark of honour[^1] to you, coming, it seems to me, in an especially gratifying manner, as being so entirely free from all connection with party and at a time when I suppose it cannot be as a matter of course, but as showing how high real merit and desert can stand above politics.
+
+I do not know whether this is all my ignorance, but the feeling that the tidings gave me could not but long to express itself, more especially when I seem to see again the look of intense happy emotion that it would have brought into [my father](people/person_1631.qmd)'s eyes.
+
+Forgive me if I have said what I ought not, I really could not help it-
+
+Yours affectionately, 
+C. M. YONGE.
+
+---
+
+[^1]: CRC’s note: He was sworn of the Privy Council.

@@ -1,0 +1,49 @@
+---
+title: "To William Butler Bourn"
+letter_iso_date: "1861-06-10"
+letter_date: "June 10th 1861"
+location: "Otterbourne,Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 1832
+letter_id: "to-william-butler-bourn"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To William Butler Bourn"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-06-10"
+  url: "https://cmyonge.github.io/letters/1832-to-william-butler-bourn"
+---
+
+::: {.letter-metadata}
+**Date:** June 10th 1861  
+**From:** Otterbourne,Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+Dear [Sir](people/person_178.qmd)[^1],
+
+I am much obliged by the little book that I received on Saturday, which seems to me very interesting.
+
+My tale of the <u>[Young Stepmother](cmy_books/cmybook_38.qmd)</u> is ready to be begun upon whenever you like to have it sent up - unless you think it better to wait till later in the year.
+
+So much has been said in the [Saturday Review](organizations/other_99.qmd) lately about the want of a history of Christian names that I think it may be as well to advertise [mine](cmy_books/cmybook_48.qmd) - as preparing. I think it will be ready by the beginning of next year unless any unforeseen delay should arise, and it may be wise to show that it is in the field. But I should be glad to know whether this would be thought advisable or whether it would be an expense that it would be best not to incur
+
+I intend the title of the book to be <u>“Christian Names” their History and Derivations</u>
+
+Yours faithfully
+
+C.M.Yonge
+
+---
+
+[^1]: Partner in the firm of John Parker, publishers. It is assumed this letter is to him, as CMY addresses other letters on publishing matters to 'Mr Parker'.

@@ -1,0 +1,41 @@
+---
+title: "To Emma Butler"
+letter_iso_date: "1857-07-10"
+letter_date: "July 10th 1857"
+manuscript: "MS Winchester City Council, Historic Resources Centre LH3800"
+post_id: 3104
+letter_id: "to-emma-butler"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Emma Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1857-07-10"
+  url: "https://cmyonge.github.io/letters/3104-to-emma-butler"
+---
+
+::: {.letter-metadata}
+**Date:** July 10th 1857  
+**Manuscript:** MS Winchester City Council, Historic Resources Centre LH3800
+:::
+
+My dear [Mrs Butler](people/person_240.qmd)
+Please to consider this note as coming from [Mr](people/person_798.qmd) and [Mrs Keble](people/person_795.qmd), as they are very anxious to get this woman’s petition[^1] signed as universally and numerously as possible before the end of next week, when it should be returned (with a tail of names on the ruled lines, and on further sheets gummed on beyond if necessary) to Mrs Keble.  The name of the place to be written at the top of each district, and people’s husband’s or father’s professions after their names.  It is supposed it may have an effect as the Woman’s petition about the Wife’s Sister certainly did.
+
+If you think of any other quarters to which to send them, please apply to Mrs Keble for them, as she keeps the store
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: A bill to allow marriage to a deceased wife’s sister was first presented to the House of Commons in 1850 and finally passed in 1907.  The present petition probably related to the Matrimonial Causes Act 1857, which simplified the divorce process, and to which Keble was strongly opposed.

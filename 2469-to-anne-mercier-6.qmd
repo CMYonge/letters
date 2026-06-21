@@ -1,0 +1,39 @@
+---
+title: "To Sarah Anne Mercier"
+letter_iso_date: "1872-00-00"
+letter_date: "[1872? 1873?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS location unknown. Microfiche copy The Women’s Library: 9/07/048 No.112 ."
+post_id: 2469
+letter_id: "to-anne-mercier-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Anne Mercier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-00-00"
+  url: "https://cmyonge.github.io/letters/2469-to-anne-mercier-6"
+---
+
+::: {.letter-metadata}
+**Date:** [1872? 1873?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS location unknown. Microfiche copy The Women’s Library: 9/07/048 No.112 .
+:::
+
+My dear [Mrs Mercier](people/person_990.qmd)
+I tried to get your questions answered by sending them to [Miss Bramston](people/person_198.qmd), the [Dean](people/person_197.qmd)’s daughter, but unluckily female education at Winchester received a blow when [Mr](people/person_85.qmd) & [Mrs Awdry](people/person_81.qmd) went to Hurstpierpoint - and [Mrs Johns](people/person_772.qmd), the only other lady who really cared, fell ill.  The getting lecturers down needs some energy and there is no one to do it now.
+
+I send you Miss Bramston’s note and that from [Mrs Richards](people/person_1902.qmd), a lady who is trying to keep a school
+
+yours truly
+C M Yonge

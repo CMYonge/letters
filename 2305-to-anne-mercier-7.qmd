@@ -1,0 +1,43 @@
+---
+title: "To Sarah Anne Mercier"
+letter_iso_date: "1870-03-05"
+letter_date: "March 5th [after 1870?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2305
+letter_id: "to-anne-mercier-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Anne Mercier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-03-05"
+  url: "https://cmyonge.github.io/letters/2305-to-anne-mercier-7"
+---
+
+::: {.letter-metadata}
+**Date:** March 5th [after 1870?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Mrs Mercier](people/person_990.qmd)
+I never did get any thing from translators of my writings, though once or twice I have had offers - they never came to anything
+
+One has the power to refuse for a year after publication - not after - but I imagine there is not much to be gained by so doing - and that the translators are generally too poor to make any payments, but the best way might be in answering first to ask whether there is any remuneration so as not to miss any chance. I hope to able to find a home for [Mrs Filby's Maria](other_books/otherbook_787.qmd) if [Warne](people/person_1433.qmd) does not think it too grown up for his [Victoria stories](cmy_books/cmybook_211.qmd)
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

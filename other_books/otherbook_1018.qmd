@@ -1,0 +1,15 @@
+---
+title: "Mary Louisa Molesworth - Us: An Old-Fashioned Story"
+book_id: 1018
+---
+
+## Publication Information
+
+**Date:** 1885
+
+**Imprint:** London: Macmillan
+
+## Letters Mentioning This Work
+
+- [Letter 2842](../2842-to-mary-louisa-molesworth.qmd)
+

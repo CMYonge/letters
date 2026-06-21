@@ -1,0 +1,15 @@
+---
+title: "Sandwell Home"
+other_id: 12
+---
+
+**Type:** organization
+
+## Description
+
+Founded in 1858 as Sandwell Hall Home for Widows and Orphans, Birmingham, by Laetitia Frances Selwyn (1807-1886), sister of the Rt. Rev. George Augustus Selwyn, it combined the functions of a convalescent home and an industrial school for the training of domestic servants. Gentlewomen of small means lived in the Home and took responsibility for the supervision of the inmates. Yonge introduced a proposal to establish a not dissimilar institution in the conclusion to <i>The Clever Woman of the Family</i>.  Selwyn is mentioned as training governesses (perhaps also in the Home?) and not letting them be paid less than £60 <i>p.a.</i> (23 March 1872).  The Home was in a large country house near Birmingham, donated by the Earl of Dartmouth.
+
+## Letters Mentioning This
+
+- [Letter 1822](../1822-to-ann-maria-carter-smith-42.qmd)
+

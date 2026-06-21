@@ -1,0 +1,43 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1900-03-24"
+letter_date: "March 24 [1900]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office"
+post_id: 3448
+letter_id: "to-mary-yonge-28"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-03-24"
+  url: "https://cmyonge.github.io/letters/3448-to-mary-yonge-28"
+---
+
+::: {.letter-metadata}
+**Date:** March 24 [1900]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I am out in the drawing room again but no farther till the wind changes, and the cough departs, but [Helen](people/person_1613.qmd) is coming to look after me on Monday, and [Miss Finlaison](people/person_512.qmd) has done so most kindly.  By the by I never have had a headache all through so I don’t know how she came to [illegible] it-  I hope [Sydney](people/person_2178.qmd) is better -  [Augusta](people/person_1180.qmd) has begun to write letters again -  All the spring seems cut short by the weather except the catkins.
+
+I am sorry to miss the Friday evening sermons which are on popular sayings
+
+All is not gold that glitters
+A friend in need is a friend indeed
+Time and Tide wait for nobody –  I only heard the first and second and liked them much
+
+your most affectionate
+C M Yonge

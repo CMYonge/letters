@@ -1,0 +1,47 @@
+---
+title: "The Clever Woman of the Family. 2 vols. By the author of  “The Heir of Redclyffe.”"
+book_id: 58
+sort_title: "Clever Woman of the Family"
+---
+
+## Publication Information
+
+**Date:** 1865
+
+**Genre:** Fiction (modern)
+
+**Publisher:** London and Cambridge: Macmillan and Company
+
+## Letters Mentioning This Work
+
+- [Letter 1905](../1905-to-alexander-macmillan-2.qmd)
+- [Letter 1906](../1906-alexander-macmillan-to-charlotte-mary-yonge-2.qmd)
+- [Letter 1907](../1907-to-alexander-macmillan-3.qmd)
+- [Letter 1909](../1909-to-frances-mary-peard-6.qmd)
+- [Letter 1913](../1913-to-alexander-macmillan-4.qmd)
+- [Letter 1950](../1950-sir-william-heathcote-to-charlotte-mary-yonge.qmd)
+- [Letter 1966](../1966-to-elizabeth-barnett-11.qmd)
+- [Letter 1981](../1981-to-alexander-macmillan-23.qmd)
+- [Letter 1984](../1984-to-alexander-macmillan-24.qmd)
+- [Letter 1985](../1985-to-alexander-macmillan-25.qmd)
+- [Letter 1987](../1987-alexander-macmillan-to-charlotte-mary-yonge-16.qmd)
+- [Letter 1988](../1988-to-alexander-macmillan-26.qmd)
+- [Letter 2002](../2002-alexander-macmillan-to-charlotte-mary-yonge-17.qmd)
+- [Letter 2006](../2006-to-alexander-macmillan-34.qmd)
+- [Letter 2007](../2007-alexander-macmillan-to-charlotte-mary-yonge-18.qmd)
+- [Letter 2008](../2008-to-alexander-macmillan-35.qmd)
+- [Letter 2010](../2010-alexander-macmillan-to-charlotte-mary-yonge-19.qmd)
+- [Letter 2012](../2012-to-alexander-macmillan-36.qmd)
+- [Letter 2013](../2013-alexander-macmillan-to-charlotte-mary-yonge-20.qmd)
+- [Letter 2014](../2014-to-alexander-macmillan-37.qmd)
+- [Letter 2018](../2018-alexander-macmillan-to-charlotte-mary-yonge-23.qmd)
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+- [Letter 2066](../2066-to-mary-ann-dyson-3.qmd)
+- [Letter 2071](../2071-george-lillie-craik-to-charlotte-mary-yonge-2.qmd)
+- [Letter 2096](../2096-to-alexander-macmillan-68.qmd)
+- [Letter 2754](../2754-to-george-lillie-craik-54.qmd)
+- [Letter 2764](../2764-to-george-lillie-craik-55.qmd)
+- [Letter 3063](../3063-to-anne-yonge-35.qmd)
+- [Letter 3605](../3605-to-an-unknown-woman-6.qmd)
+- [Letter 19354](../19354-to-frances-mary-peard.qmd)
+

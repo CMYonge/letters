@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott 1st Bt. - Count Robert of Paris"
+book_id: 142
+---
+
+## Publication Information
+
+**Date:** 1829
+
+**Imprint:** Edinburgh: Cadell
+
+## Letters Mentioning This Work
+
+- [Letter 2956](../2956-to-anne-yonge-23.qmd)
+

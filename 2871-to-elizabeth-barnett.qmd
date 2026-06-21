@@ -1,0 +1,37 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1887-01-01"
+letter_date: "[January 1887]"
+manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  180."
+post_id: 2871
+letter_id: "to-elizabeth-barnett"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-01-01"
+  url: "https://cmyonge.github.io/letters/2871-to-elizabeth-barnett"
+---
+
+::: {.letter-metadata}
+**Date:** [January 1887]  
+**Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  180.
+:::
+
+[To [Elizabeth Barnett](people/person_113.qmd)]
+
+I have been reading [an article](other_books/otherbook_1101.qmd) in the *[National Review](organizations/other_259.qmd)*, showing how utterly [Carlyle](people/person_1972.qmd) misquoted Cromwell’s speeches, and absolutely neglected shoals of contemporary papers which would have spoilt his conceptions of his idol. It is curious, but really, poor old Carlyle must have been a good deal of a humbug for all his bluster.
+
+---
+
+**Note:** The article referred to was no doubt Reginald F. D. Palgrave, 'Carlyle, the \\"pious editor\\" of Cromwell's speeches'   *National Review*  8 (January 1887), 588-604.

@@ -1,0 +1,15 @@
+---
+title: "Charlotte Pantatun"
+person_id: 2065
+---
+
+## Biographical Information
+
+wife of [Fisher Pantatun](person_2005.qmd)
+
+She was married to Fisher Pantatun by Patteson (2 July 1868).  She was named after CMY.
+
+## Letters Mentioning This Person
+
+- [Letter 2355](../2355-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-11.qmd)
+

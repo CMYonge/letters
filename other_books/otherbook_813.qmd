@@ -1,0 +1,17 @@
+---
+title: "Elizabeth Missing Sewell - The Child’s First History of Rome"
+book_id: 813
+---
+
+## Publication Information
+
+**Date:** 1849
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 2420](../2420-to-charlotte-cordelia-yonge-4.qmd)
+

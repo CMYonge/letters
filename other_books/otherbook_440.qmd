@@ -1,0 +1,20 @@
+---
+title: "Francis Turner Palgrave (editor) - The Poetical Works of Sir Walter Scott, with a Biographical and Critical Memoir"
+book_id: 440
+---
+
+## Publication Information
+
+**Date:** 1866
+
+**Imprint:** London: Macmillan
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 2094](../2094-to-francis-turner-palgrave.qmd)
+- [Letter 19664](../19664-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19670](../19670-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

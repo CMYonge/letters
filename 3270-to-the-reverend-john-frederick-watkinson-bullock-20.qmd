@@ -1,0 +1,42 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-07-10"
+letter_date: "July 10th 1894"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 1"
+post_id: 3270
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-07-10"
+  url: "https://cmyonge.github.io/letters/3270-to-the-reverend-john-frederick-watkinson-bullock-20"
+---
+
+::: {.letter-metadata}
+**Date:** July 10th 1894  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 1
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+St Paul’s Cathedral has outrun St Erkenwold, though the materials you sent me did not include his reconciling SS Theodore and Wilfred as may be found in their lives and which was a grand work. I have not the lists of Bishops of London but I have Nicolls Statistical Review which gives them. Also Loftie’s [London](other_books/otherbook_702.qmd)[^1]
+
+I do not know about [Mr Grimshaw](people/person_2139.qmd)
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This was evidently work connected with Bullock's *Daily Lections* project.

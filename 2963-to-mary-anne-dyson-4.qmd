@@ -1,0 +1,38 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1849-06-18"
+letter_date: "[June 1849]"
+manuscript: "MS location unknown.  This fragment printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 159"
+post_id: 2963
+letter_id: "to-mary-anne-dyson-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1849-06-18"
+  url: "https://cmyonge.github.io/letters/2963-to-mary-anne-dyson-4"
+---
+
+::: {.letter-metadata}
+**Date:** [June 1849]  
+**Manuscript:** MS location unknown.  This fragment printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 159
+:::
+
+I send a *[Château de Melville](cmy_books/cmybook_1.qmd)*, and if you do not stick fast in it I should be amused to hear if you can identify the people with the Magnanimous Mohuns[^1] in their youth, that is to say, tell which is the origin of which. I have a most funny series of MSS. connecting them, which my executors may hereafter publish as a curious piece of literary history- I don’t mean that I keep them for the purpose, only they are so comical that I cannot find it in my heart to throw them away, such absurd pieces of advice as the old people do give! and the pathetic parts so ridiculous.[^2] You will meet with the origin of Ben and Philip there.[^3] What exquisite weather! Wish for it to last till after St. Peter, when we are to have a grand picnicking with all the Hursley public at Merdon Castle, fifteen or sixteen[Winchester](organizations/other_50.qmd) boys to go home in an omnibus. I think I deserve a good long letter as a reward for this one. Don’t you long to see *[Prince Rupert](other_books/otherbook_175.qmd)*?
+
+---
+
+[^1]: The reference to St. Peter’s Day (30 June) suggests the month, and the reference to Prince Rupert the year.
+[^2]: The point is that the Mohun family in *Scenes and Characters* (1847) are descendants of the characters in *Le Château de Melville* (1838).
+[^3]: CRC’s note: ‘not in existence’.
+[^4]: The fourth story in ‘*Langley School* (1850), which originally appeared in the *[Magazine for the Young](organizations/other_79.qmd)* (December 1846).

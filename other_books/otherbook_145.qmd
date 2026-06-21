@@ -1,0 +1,20 @@
+---
+title: "Elizabeth Missing Sewell - Amy Herbert"
+book_id: 145
+---
+
+## Publication Information
+
+**Date:** 1844
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 2945](../2945-to-anne-yonge-12.qmd)
+- [Letter 2946](../2946-to-anne-yonge-13.qmd)
+- [Letter 2953](../2953-to-anne-yonge-20.qmd)
+- [Letter 3334](../3334-to-mary-elizabeth-christie-3.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "Samuel Pepys - An Account of the Preservation of King Charles II after the battle of Worcester"
+book_id: 1030
+---
+
+## Publication Information
+
+**Date:** 1766
+
+**Imprint:** London: Sandby
+
+## Letters Mentioning This Work
+
+- [Letter 2863](../2863-to-frances-awdry.qmd)
+

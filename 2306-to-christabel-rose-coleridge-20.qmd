@@ -1,0 +1,41 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1869-03-06"
+letter_date: "March 6 th [1869]"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2306
+letter_id: "to-christabel-rose-coleridge-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-03-06"
+  url: "https://cmyonge.github.io/letters/2306-to-christabel-rose-coleridge-20"
+---
+
+::: {.letter-metadata}
+**Date:** March 6 th [1869]  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+You and [Mary Arnold](people/person_1467.qmd) are very decidedly the best this time, so I don’t send any others. 
+
+You will have to reform the scheme of travelling as [Mignonette](people/person_1637.qmd) and [Sparrow Hawk](people/person_97.qmd) both resign in much haste[^1]
+
+yr affect 
+Mother Goose
+
+---
+
+[^1]: The circulation of essays between the various members of the [Gosling Society](organizations/other_104.qmd) caused endless trouble.

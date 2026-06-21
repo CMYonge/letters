@@ -1,0 +1,75 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1888-01-11"
+letter_date: "Jany 11th [1888]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Girton College Cambridge, Yonge IV 7"
+post_id: 2872
+letter_id: "to-arthur-donald-innes-18"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-01-11"
+  url: "https://cmyonge.github.io/letters/2872-to-arthur-donald-innes-18"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 11th [1888]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 7
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+
+Thank you. [Mr Smith](people/person_1344.qmd) generously sends me £50 in January [£40](organizations/other_160.qmd) for my editorship and £10 for the [subeditor](people/person_512.qmd). The other payments this month are for
+
+[Angela](other_books/otherbook_1038.qmd),
+Miss [Alice Weber](people/person_1483.qmd)
+10 Randolph Road 
+Maida Hill
+
+[The Georgian Princess](other_books/otherbook_1039.qmd)
+[Miss Dempster](people/person_434.qmd)
+Villa Rey
+Cannes
+
+(She is author of [Vera](other_books/otherbook_1040.qmd) and rather a great gun, so should have full pay)
+
+[Papers on Rome](other_books/otherbook_1041.qmd)
+The Rev [Wm Jeffreys Hills](people/person_697.qmd)
+Beaufort Road
+Winchester
+
+[St Paul](other_books/otherbook_1043.qmd)
+Miss [Selina Gaye](people/person_552.qmd)
+14 Artesian Road 
+Bayswater
+
+[Miracle Plays](other_books/otherbook_1042.qmd)
+[Alfred Pollard](people/person_1185.qmd) Esq 
+British Museum
+
+Old World Legend
+[Mrs Keir Moilliet](people/person_804.qmd)
+Abbot’s Legh
+Malvern
+
+I think I have pretty well arranged about the [Cambridge Literature papers](other_books/otherbook_1044.qmd). [Miss Knatchbull Hugesson](people/person_820.qmd) ([Lord Brabourne](people/person_819.qmd)’s daughter) will write them, and find a questioner and critic to work in concert with, and we will have the two prizes as you propose.[^1] The remaining question is shall this £5 come out of the fees for entering for the examination in the Society - or will you pay it, and let the whole sum go to the critic, who will most likely be some [Newnham](organizations/other_7.qmd) lady to whom some remuneration would be an object. I am glad to have Miss K H, as her father is sure to take interest in her work
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The June 1888 issue of *MP* included, p. 595, an announcement that 'On July 1st a series of Papers on English Literature will be commenced by the Hon. Eva Knatchbull-Hugessen, intended to assist in preparation for that branch of the Cambridge Higher Local Examination for Women, to be held in June 1889.  Questions will be set after each Paper by Miss Mackenzie, late scholar of Newnham College Cambridge'.

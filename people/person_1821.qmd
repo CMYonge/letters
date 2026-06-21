@@ -1,0 +1,13 @@
+---
+title: "Hannah"
+person_id: 1821
+---
+
+## Biographical Information
+
+schoolmistress from a bad home
+
+## Letters Mentioning This Person
+
+- [Letter 1792](../1792-to-anne-sturges-bourne-5.qmd)
+

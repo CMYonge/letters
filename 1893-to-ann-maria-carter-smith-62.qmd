@@ -1,0 +1,43 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1863-06-13"
+letter_date: "June 13th [1863]"
+location: "Otterbourne, Winchester"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1863/5"
+post_id: 1893
+letter_id: "to-ann-maria-carter-smith-62"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-06-13"
+  url: "https://cmyonge.github.io/letters/1893-to-ann-maria-carter-smith-62"
+---
+
+::: {.letter-metadata}
+**Date:** June 13th [1863]  
+**From:** Otterbourne, Winchester  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/5
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+In great haste, I enclose [£10](organizations/other_102.qmd) for this half year’s [Thorne](other_books/otherbook_275.qmd)
+
+yours sincerely
+
+C M Yonge
+
+---
+
+**Note:** With envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton SE and postmarked Winchester 13 July and London SE 15 July 1863.

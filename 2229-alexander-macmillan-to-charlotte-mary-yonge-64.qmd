@@ -1,0 +1,42 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1868-01-18"
+letter_date: "Jan [<i>illegible</i>] 1868"
+location: "Bedford Street [<i>illegible</i>]"
+manuscript: "Copy outletter book British Library Add MSS.55387 (2): P. 907"
+post_id: 2229
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-64"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-01-18"
+  url: "https://cmyonge.github.io/letters/2229-alexander-macmillan-to-charlotte-mary-yonge-64"
+---
+
+::: {.letter-metadata}
+**Date:** Jan [<i>illegible</i>] 1868  
+**From:** Bedford Street [<i>illegible</i>]  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (2): P. 907
+:::
+
+Dear Miss Yonge
+Yesterday [Mr Craik](people/person_379.qmd) paid [£200](organizations/other_160.qmd) into [Hoare’s](organizations/other_169.qmd) in your a/c. [I](people/person_939.qmd) hope my not telling you before will have caused you no [*illegible*]
+
+I am very sorry you do not like the [illustrations](organizations/other_167.qmd).[^1] It is now impossible to get fresh ones done, and pardon me saying I really like them. I hope you will get reconciled to them by and by
+
+[*Rest of letter indecipherable as is the one, dated 22 January 1868, that follows*]
+
+---
+
+[^1]: These were presumably [Edward Armitage](people/person_60.qmd)'s illustrations for *The Pupils of St. John the Divine* in Macmillan's [Sunday Library](organizations/other_145.qmd) series.

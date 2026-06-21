@@ -1,0 +1,20 @@
+---
+title: "Review of John Inglesant"
+book_id: 346
+sort_title: "Review of John Inglesant"
+---
+
+## Publication Information
+
+**Date:** 1880?
+
+**Genre:** literary criticism
+
+**Publisher:** <i>Guardian, The</i>
+
+**Notes:** CMY refers to reviewing <i>John Inglesant</i> in <i>The Guardian</i> in a letter to Sir Walter Besant (?1899).
+
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

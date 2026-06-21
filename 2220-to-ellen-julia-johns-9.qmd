@@ -1,0 +1,37 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1867-11-30"
+letter_date: "Novr 30th [1867?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell."
+post_id: 2220
+letter_id: "to-ellen-julia-johns-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-11-30"
+  url: "https://cmyonge.github.io/letters/2220-to-ellen-julia-johns-9"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 30th [1867?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+My dear [Mrs Johns](people/person_772.qmd),
+I am afraid my [mother](people/person_1606.qmd) can hardly venture to the entertainment your elegant little square so pleasantly holds out, but I hope I may be able to come - and if it is any convenience to you in making arrangements I could take up [Miss Wilford](people/person_1520.qmd) and bring her back, but pray do not trouble yourself to answer
+
+yours sincerely
+C M Yonge

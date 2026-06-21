@@ -1,0 +1,15 @@
+---
+title: "James Macpherson - The Poems of Ossian, translated by James Macpherson, Esq. Authenticated, illustrated and explained by Hugh Campbell"
+book_id: 308
+---
+
+## Publication Information
+
+**Date:** 1822
+
+**Imprint:** London:
+
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
+

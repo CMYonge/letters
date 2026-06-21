@@ -1,0 +1,15 @@
+---
+title: "Sydney Smirke"
+person_id: 1334
+---
+
+## Biographical Information
+
+(1798-1877)
+
+architect
+
+## Letters Mentioning This Person
+
+- [Letter 2955](../2955-to-anne-yonge-22.qmd)
+

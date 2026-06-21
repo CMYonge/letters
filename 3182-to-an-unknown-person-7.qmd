@@ -1,0 +1,36 @@
+---
+title: "To an Unknown Person"
+letter_iso_date: "1891-00-00"
+letter_date: "[1891]"
+manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 192"
+post_id: 3182
+letter_id: "to-an-unknown-person-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-00-00"
+  url: "https://cmyonge.github.io/letters/3182-to-an-unknown-person-7"
+---
+
+::: {.letter-metadata}
+**Date:** [1891]  
+**Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 192
+:::
+
+What seems to me to be the fact  . . . is that, having been brought up in the Protestant school of thought, and worked out Catholicity for himself, when everybody thundered at the [*Tracts*](other_books/otherbook_648.qmd), etc., he [[John Henry Newman](people/person_1084.qmd)] thought the fault lay in the Church of England, not only in the blundering of individuals, and he did not wait to see her clear herself.[^1]  And then I think that he had, apparently, never thoroughly followed the times between the separation from the Greek Church and the Reformation.  [Hurrell Froude](people/person_529.qmd) was doing it, but there has [sic] been so much less research that H. F. takes for granted that Roman Ritual is necessarily Apostolical, without (apparently) having found out about equally Apostolical rites that Rome had crushed - *e.g*., Gallican, Spanish, not to say our own Uses.[^2] And now we have all that was like a day-dream to them.
+
+---
+
+[^1]: John Henry Newman.  CMY refers here to *Letters and Correspondence of J. H. Newman during his Life in the English Church* ed. Anne Mozley 2 volumes (1891) [1890].
+[^2]: Richard Hurrell Froude (1803-1836), friend of Newman and Keble, died young of tuberculosis.  His *Remains* 4 vols (1837, 1839) influenced the development of the Oxford Movement.

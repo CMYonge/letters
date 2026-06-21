@@ -1,0 +1,15 @@
+---
+title: "Giuseppe Garibaldi"
+person_id: 1855
+---
+
+## Biographical Information
+
+(1807-1882)
+
+Italian nationalist
+
+## Letters Mentioning This Person
+
+- [Letter 1827](../1827-to-florence-wilford-2.qmd)
+

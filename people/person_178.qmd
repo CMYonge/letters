@@ -1,0 +1,23 @@
+---
+title: "William Butler Bourn"
+person_id: 178
+---
+
+## Biographical Information
+
+(1798/9-1865)
+
+partner in firm of John Parker, publishers
+
+[DLB]
+
+## Letters Mentioning This Person
+
+- [Letter 1806](../1806-to-anna-butler.qmd)
+- [Letter 1808](../1808-to-william-butler-bourn.qmd)
+- [Letter 1826](../1826-to-ann-maria-carter-smith-45.qmd)
+- [Letter 1832](../1832-to-william-butler-bourn.qmd)
+- [Letter 1874](../1874-to-john-william-parker-sr.qmd)
+- [Letter 1878](../1878-to-ann-maria-carter-smith-55.qmd)
+- [Letter 1879](../1879-to-ann-maria-carter-smith-56.qmd)
+

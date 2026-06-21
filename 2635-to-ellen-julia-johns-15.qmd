@@ -1,0 +1,41 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1878-07-27"
+letter_date: "July 27th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Iowa; MsL/Y56jo"
+post_id: 2635
+letter_id: "to-ellen-julia-johns-15"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-07-27"
+  url: "https://cmyonge.github.io/letters/2635-to-ellen-julia-johns-15"
+---
+
+::: {.letter-metadata}
+**Date:** July 27th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56jo
+:::
+
+Dear [Mrs Johns](people/person_772.qmd),
+
+So many thanks for the penwipers. They are exceedingly pretty, and will last long to be a pleasant remembrance.  You will indeed miss your boys. When are you looking for a house? It will be a change from your beautiful garden.
+
+I am going from home in a few days, so I am afraid I shall not see you before your move.
+
+With many thanks 
+Yours sincerely
+C M Yonge

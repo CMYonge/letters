@@ -1,0 +1,35 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1868-03-04"
+letter_date: "March 4 1868"
+manuscript: "Copy outletter book British Library Add MSS.55388 (1): P.88"
+post_id: 2236
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-68"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-03-04"
+  url: "https://cmyonge.github.io/letters/2236-alexander-macmillan-to-charlotte-mary-yonge-68"
+---
+
+::: {.letter-metadata}
+**Date:** March 4 1868  
+**Manuscript:** Copy outletter book British Library Add MSS.55388 (1): P.88
+:::
+
+Dear Miss Yonge,
+We shall soon be out with the [Cameos](cmy_books/cmybook_73.qmd). It has occurred to me that we ought to put the period over which the narratives extend, on the title page. Will you kindly add it to the enclosed proof.
+
+Yours very truly
+[A. Macmillan](people/person_939.qmd)

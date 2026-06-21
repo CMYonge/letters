@@ -1,0 +1,15 @@
+---
+title: "Laurentius Surius - De probatis Sanctorum historiis"
+book_id: 338
+---
+
+## Publication Information
+
+**Date:** 1570-1577
+
+**Imprint:** Cologne: apud Gervinum Calenium
+
+## Letters Mentioning This Work
+
+- [Letter 1880](../1880-to-the-reverend-henry-octavius-coxe-3.qmd)
+

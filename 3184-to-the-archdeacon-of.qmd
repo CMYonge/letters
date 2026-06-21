@@ -1,0 +1,48 @@
+---
+title: "To the Archdeacon of ?"
+letter_iso_date: "1892-01-01"
+letter_date: "Jan 1st 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3184
+letter_id: "to-the-archdeacon-of"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Archdeacon of ?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-01-01"
+  url: "https://cmyonge.github.io/letters/3184-to-the-archdeacon-of"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 1st 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Mr Archdeacon[^1]
+I am venturing to ask a favour of you.
+
+I do not know whether you have heard of the [Mother’s Union](organizations/other_31.qmd), started by [Mrs G Sumner](people/person_1381.qmd) (the wife of the [Bishop of Guildford](people/person_1382.qmd)) at first for poor women, to rouse them to some heed to the training of their children but it gradually spread to ladies &c. and indeed quite as much counsel seems to be needed by them as by cottage women.
+
+The need of an ‘organ’ was soon felt, and <u>faute de mieux</u>, I have had to edit the quarterly [‘Mothers in Council’](organizations/other_82.qmd) of which I send a specimen.
+
+We want particularly good advice upon boys’ training. Some excellent papers we have had, and we should be very grateful if you would give us a short paper on some point in their home training. What is foremost in my mind is the fore-arming against the many temptations to gambling - but for any other subject that you might prefer, we should be grateful. I am afraid at present that it must be gratitude alone, as [Wells Gardiner](organizations/other_114.qmd) who publishes at the risk of the President does not yet pay beyond the expenses, though the sale encreases [sic]
+
+I remain
+Yours very truly
+C M Yonge
+
+---
+
+[^1]: CMY is evidently writing to someone who is not a stranger to her from outside the diocese of Winchester. A possible candidate is the Rev. [William Emery](people/person_2107.qmd) (1825-1910), Archdeacon of Ely, who was interested in schools, and whom CMY knew because he was involved in the Church Congresses.

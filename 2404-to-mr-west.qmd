@@ -1,0 +1,45 @@
+---
+title: "To Mr West"
+letter_iso_date: "1871-05-01"
+letter_date: "S Philip & S James [1 May] 1871"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Resource Centre, University of Texas"
+post_id: 2404
+letter_id: "to-mr-west"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mr West"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-05-01"
+  url: "https://cmyonge.github.io/letters/2404-to-mr-west"
+---
+
+::: {.letter-metadata}
+**Date:** S Philip & S James [1 May] 1871  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Resource Centre, University of Texas
+:::
+
+My dear [Mr West](people/person_1489.qmd)
+I shall be delighted to see you and any of your party on Saturday. I hope we shall look to as much advantage as we are doing on this May day of the poets – The Hursley services are at 10 AM and 7 PM on Saturdays, ours at 9 AM and 5 PM – rather impracticable hours I fear as regards Hursley. Will you come to luncheon, which can be at one or two as best suits you, or to afternoon tea or both? As the trains are given to straying on the first of May it is no use to consult my Bradshaw, but perhaps you will kindly let me know what time to expect you. I hope [Mr](people/person_304.qmd) & [Mrs Cleaver](people/person_305.qmd) are coming too as well as [Mrs Leslie](people/person_871.qmd).
+
+If you were at Bishopstoke now you would find an 8.30 Celebration much more convenient than the expedition to Hursley, [Mr Wither](people/person_1544.qmd) found a neglected population who respond to his care for them, and that is the best consolation we can have for being uprooted.[^1]
+
+Pray keep to Saturday, for that is a quiet day, and as the choral meeting is on the 9th at Romsey all the dependent places are getting a little mad with preparations
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Rev. William Bigg Wither had become Rector of Hardwick, Bucks., after being curate of Otterbourne since 1834.

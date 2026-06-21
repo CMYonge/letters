@@ -1,0 +1,42 @@
+---
+title: "To Frederick James Furnivall"
+letter_iso_date: "1869-07-12"
+letter_date: "July 12th [1869?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Huntington Library"
+post_id: 3511
+letter_id: "to-frederick-james-furnivall-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick James Furnivall"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-07-12"
+  url: "https://cmyonge.github.io/letters/3511-to-frederick-james-furnivall-6"
+---
+
+::: {.letter-metadata}
+**Date:** July 12th [1869?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Huntington Library
+:::
+
+[Dear Mr Furnivall](people/person_531.qmd)
+I have a friend belonging to a Cornish family staying with me, and she thinks her relations competent to look over the Cornish which is not naughty English, so she is sending it to them, and they will return it to you[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: This refers to Furnivall’s edition of the works of Andrew Borde, *The first boke of the introduction of knowledge and a compendyous regyment or a dyetary of helth, with, Barnes in the defence of the Berde, a treatyse made answerynge the treatyse of Doctor Borde upon Berdes: edited, with a life of Andrew Boorde and large extracts from his Breuyary*  (London: Early English Text Society, 1870).  Borde observed in *The First Boke of the Introduction of Knowledge* that  ‘In Cornwal is two speches, the one is naughty englyshe, and the other is Cornyshe speche.’  The friend might have been [Frances Mary Peard](people/person_1160.qmd).

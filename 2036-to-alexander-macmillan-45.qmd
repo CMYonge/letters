@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-05-29"
+letter_date: "May 29th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 88-89"
+post_id: 2036
+letter_id: "to-alexander-macmillan-45"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-29"
+  url: "https://cmyonge.github.io/letters/2036-to-alexander-macmillan-45"
+---
+
+::: {.letter-metadata}
+**Date:** May 29th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 88-89
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+Here is the [notice](cmy_books/cmybook_59.qmd) of [Cawnpore](other_books/otherbook_406.qmd)[^1] but I shall not be surprised if you do not think it the <u>thing</u>. The whole was too overpowering to say many words about and I have run into mere narrative more than I meant at first from the very force of the events. I am obliged to send it without any other eye over it, as my [mother](people/person_1606.qmd) cannot bear to think of the horrors. I wish every school boy would read the book these holidays, it would pale the excitement of Captain [Mayne Reid](people/person_1944.qmd). I have sent a much shorter [notice](cmy_books/cmybook_60.qmd) of the book to the [Literary Churchman](organizations/other_76.qmd) in pursuance of a [paper](cmy_books/cmybook_307.qmd) on boy literature I have done before.
+
+I have received the volumes of Kitto’s [Pictorial History](other_books/otherbook_401.qmd) and much enjoy reading them. Thanks for the loan. I have sent the proof to be looked over by a clerical friend whose criticisms have always helped me much. 
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Her review of George Otto Trevelyan's book about the massacre at Cawnpore during the [Indian Mutiny](organizations/other_134.qmd) appeared in *[Macmillan's Magazine](organizations/other_78.qmd)* in July.

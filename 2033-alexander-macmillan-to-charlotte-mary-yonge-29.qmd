@@ -1,0 +1,43 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-05-18"
+letter_date: "May 18. 1865"
+manuscript: "Copy outletter book British Library Add MSS. 55384 (1): P. 486"
+post_id: 2033
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-29"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-18"
+  url: "https://cmyonge.github.io/letters/2033-alexander-macmillan-to-charlotte-mary-yonge-29"
+---
+
+::: {.letter-metadata}
+**Date:** May 18. 1865  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (1): P. 486
+:::
+
+Dear Miss Yonge	
+[I](people/person_939.qmd) am waiting till the printer sends the [whole](organizations/other_177.qmd) of what you have sent, in type, before any more detailed remarks or suggestions. I am sure I shall feel more clearly what its <u>effect</u> is when I see it in a larger mass. I am very hopeful both from what I have seen of it and from what you say.
+
+I sent you [Cawnpore](other_books/otherbook_406.qmd), because it struck me as so noble in tone, thought the subject is painful in the highest degree.[^1] If you think you could write a [notice](cmy_books/cmybook_59.qmd) of it for our July number of say three or pages I would like exceedingly. It has been unjustly treated in the [Spectator](organizations/other_180.qmd), [one of the Editors](people/person_1942.qmd) is an old Anglo-Indian and on the ground of taste among other things, which seems to me wholly unjust. Pray tell me if you think you could do anything. But first read the book, and say if you like it.
+
+Ever yours faithfully
+Alex Macmillan		
+
+I will get and send you the books you ask for & also the parcel from abroad when it arrives.
+
+---
+
+[^1]: George Otto Trevelyan's book described the massacre at Cawnpore during the [Indian Mutiny](organizations/other_134.qmd).

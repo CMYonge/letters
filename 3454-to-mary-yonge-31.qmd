@@ -1,0 +1,47 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1900-03-27"
+letter_date: "March 27 [1900]"
+location: "Elderfield Otterbourne"
+manuscript: "MS West Devon Area Record Office Acc No 308"
+post_id: 3454
+letter_id: "to-mary-yonge-31"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-03-27"
+  url: "https://cmyonge.github.io/letters/3454-to-mary-yonge-31"
+---
+
+::: {.letter-metadata}
+**Date:** March 27 [1900]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS West Devon Area Record Office Acc No 308
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I hope [Sydney](people/person_2178.qmd) is as much better as I am, I believe I should be well if the East wind would mitigate itself, but we had showers of snow yesterday, and more looks possible today.  [Helen](people/person_1613.qmd)has been so good as to come down and look after me as her [mother](people/person_1604.qmd) has [Mrs Mansfield](people/person_952.qmd) (Georgina Halliday) staying with her  Her husband is an army doctor, and ordered out – and she is a niece they are fond of.  She has been at Aldershot where the [Moores](people/person_1041.qmd) are in a temporary lodging, as [Lady Audrey Buller](people/person_2223.qmd) does not turn out of Govt House -–[^1] She – G  Mansfield says it is very troublesome, having militia and volunteers who know nothing of real army discipline and don’t like being pulled up –
+
+Helen had a nice courteous letter from [Princess Christian](people/person_2222.qmd) in her own hand to thank for the things she sent.
+
+Fancy a lady sending for the soldiers a lot of old envelopes to be turned out and used to draw upon!  I hope the useful things do get out and not delayed by government arrangements
+
+What flowers [Charlotte](people/person_1587.qmd) must be seeing
+
+your most affectionate
+C M Yonge
+
+---
+
+[^1]: General Montgomery Moore had succeeded to the Aldershot command on the departure for South Africa of General Sir Redvers Buller.

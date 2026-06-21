@@ -1,0 +1,13 @@
+---
+title: "Blanche Atkinson"
+person_id: 70
+---
+
+## Biographical Information
+
+contributor to <i>MP</i> (1893)
+
+## Letters Mentioning This Person
+
+- [Letter 3503](../3503-to-blanche-atkinson.qmd)
+

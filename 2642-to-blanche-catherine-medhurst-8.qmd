@@ -1,0 +1,46 @@
+---
+title: "To Blanche Catherine Medhurst"
+letter_iso_date: "1878-09-22"
+letter_date: "Sept 22d 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2642
+letter_id: "to-blanche-catherine-medhurst-8"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Blanche Catherine Medhurst"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-09-22"
+  url: "https://cmyonge.github.io/letters/2642-to-blanche-catherine-medhurst-8"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 22d 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Medhurst](people/person_988.qmd)
+
+I believe [Emmeline](people/person_1358.qmd)s engagement is an excellent one in every way except for the unfortunate matter of [the man](people/person_562.qmd) being a dissenter
+
+He seems to be a very good man, a clerk, and of a station rather above, much given to good works. He has had to provide for a large family of brothers and sisters and is waiting to marry till they are off his hands. I don’t think one can object, she is still a churchwoman and means to be, but is naturally so far unsettled as to think the one as good as the other
+
+I fancy a vigorous church in those parts would have kept the family - (save that I think [her brother](people/person_2287.qmd) has good deal of self-conceit) I hope you are comfortably settled
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** The last number is hard to read and the date could be 1876.  Emmeline Spratt married William John Gibson (b.1852/3), clerk,  in 1883; he may be the man referred to here.

@@ -1,0 +1,15 @@
+---
+title: "Dr. Samuel Johnson"
+person_id: 1760
+---
+
+## Biographical Information
+
+(1709-1784)
+
+critic and lexicographer
+
+## Letters Mentioning This Person
+
+- [Letter 3059](../3059-to-elizabeth-roberts-37.qmd)
+

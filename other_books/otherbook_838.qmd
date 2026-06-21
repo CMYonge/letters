@@ -1,0 +1,17 @@
+---
+title: "Christabel Coleridge - 'The Light of the Sun'"
+book_id: 838
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Imprint:** <i>MP</i> (Christmas 1873), 100-110.
+
+**Notes:** This story subsequently appeared in Coleridge's [<i>The Face of Carlyon and Other Stories</i>](otherbook_437.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 2475](../2475-to-christabel-rose-coleridge-79.qmd)
+

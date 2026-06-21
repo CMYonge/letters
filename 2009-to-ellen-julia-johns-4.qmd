@@ -1,0 +1,45 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1865-02-14"
+letter_date: "Febry 14 [1865]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Delaware"
+post_id: 2009
+letter_id: "to-ellen-julia-johns-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-02-14"
+  url: "https://cmyonge.github.io/letters/2009-to-ellen-julia-johns-4"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 14 [1865]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Delaware
+:::
+
+My dear [Mrs Johns](people/person_772.qmd),
+Thank you so much for letting me [see] [Mr Ruskin](people/person_1268.qmd)’s very characteristic opinion of the beautiful Griselda work.[^1] I have thought and talked it over with my [mother](people/person_1606.qmd), and certainly it is a complication, but would not the most satisfactory course be to ask some opinion of a person such as [Richmond](people/person_1731.qmd) a thorough artist, and also a religious man, a gentleman, and father of daughters whether it would be his judgment that a girl could really study without the loss of what would be far more important. [Grant](people/person_1926.qmd) - or perhaps [Lady Eastlake](people/person_1925.qmd)- might give the same judgement, but if possible I would prefer a gentleman’s judgement to a lady’s - and try to get one in the abstract rather than on one individual. Then I think it would be to be considered whether the talent would be trainable to a very valuable amount by anything short of the really severe study that Ruskin holds out. I fancy that mere dabblers without real power or correct taste, who only pretend to draw because it is out of woman’s routine are those that bring discredit on the habit of really studying art. But I believe only real experience could judge in such questions 
+
+Thank you for the droll French letter which has produced much amusement, and for the account of the moon’s radiance. I am keeping the Lady Tulips to plant till the frost is a little gone off. I am afraid your cold has not much chance of getting well.
+
+With love to [Kittiwake](people/person_887.qmd)
+Yours sincerely
+
+C M Yonge
+
+---
+
+[^1]: This letter begins the discussion of the kind of art training most suitable for Mrs Johns’s daughter [Ann Catherine Johns](people/person_887.qmd), known as Katie, and a member of the [Gosling Society](organizations/other_104.qmd) as Kittiwake.  She is described by Julia Courtney, in her article on the *Barnacle*, as 'the most talented' of its artists. During this discussion CMY emerges as heavily on the side of 'safety'.  As it happened, Katie Johns later married, separated from her clergyman husband, quarrelled with her mother and became a theosophist.  Possibly CMY's caution at this point was prompted by symptoms of rebelliousness already apparent in Katie.  Ruskin had presumably been offered her drawings of Griselda to inspect.  Perhaps they were illustrations of Chaucer's 'Clerk's Tale', which would be ironic in the light of later events?

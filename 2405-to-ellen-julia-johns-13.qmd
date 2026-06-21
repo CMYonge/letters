@@ -1,0 +1,45 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1871-05-11"
+letter_date: "May 11th 1871"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2405
+letter_id: "to-ellen-julia-johns-13"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-05-11"
+  url: "https://cmyonge.github.io/letters/2405-to-ellen-julia-johns-13"
+---
+
+::: {.letter-metadata}
+**Date:** May 11th 1871  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Mrs Johns](people/person_772.qmd)
+Thank you for your kind note. The second part of the little book is already half way printed - so I hope it will be ready the time the first is finished.[^1]
+
+I believe I am going to London on Monday week, and shall be away for about a month, unless indeed the scarlatina in the parish spreads so as to prevent my going; and then I am afraid it would be equally in the way of meeting you.
+
+So I am afraid I cannot leave the coming to afternoon tea - which I should much like to do - till after I come home. I hope that by the time you will be stronger
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY perhaps refers here to *Musings over the 'Christian Year'*?

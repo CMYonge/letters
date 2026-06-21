@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1863-09-11"
+letter_date: "Sept 11th [1863]"
+location: "Elderfield"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1863/6"
+post_id: 1903
+letter_id: "to-ann-maria-carter-smith-63"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-09-11"
+  url: "https://cmyonge.github.io/letters/1903-to-ann-maria-carter-smith-63"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 11th [1863]  
+**From:** Elderfield  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/6
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+Here are two [chapters](other_books/otherbook_275.qmd) to make up for the having missed one out last time. I was obliged to do so, for I had the wrong proof with me when I was from home, and had to wait till I could get at the proof of the first.
+
+I believe I told you of our change of house. Our direction now is Elderfield, Otterbourn, [sic] Winchester
+
+yours sincerely
+
+C M Yonge
+
+---
+
+**Note:** In envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 11 September 1863 and London SE 12 September 1863.

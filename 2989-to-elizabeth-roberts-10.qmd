@@ -1,0 +1,45 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-05-15"
+letter_date: "May 15th [1852]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters to Elizabeth Roberts"
+post_id: 2989
+letter_id: "to-elizabeth-roberts-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-05-15"
+  url: "https://cmyonge.github.io/letters/2989-to-elizabeth-roberts-10"
+---
+
+::: {.letter-metadata}
+**Date:** May 15th [1852]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters to Elizabeth Roberts
+:::
+
+Dear [Madam](people/person_1243.qmd)
+I return the Stories on the Calendar, which you so bravely speak of rewriting. After all, I feel myself that that is a much more comfortable plan than patching, one spoils the new to make it suit the old, and then the old looks ill by the side of the new. Thank you for so kindly receiving my criticisms, and I hope you will not hurry yourself, as one chapter on the first of the month before it comes out, is all that I wish for.
+
+One thing I forgot to mention, and that is that surely it should be mentioned that divines do not all identify Mary Magdalene with the sinner. There is much on the subject in [Mr Isaac Williams books on the Gospels](other_books/otherbook_230.qmd).
+
+I suppose you know Mrs Jamieson’s [sic] books on [Sacred and Legendary Art](other_books/otherbook_87.qmd), though no authorities, they bring information pleasantly together.
+
+I am glad to have so agreeable a prospect for next year as Margaret with her mind more developed
+
+Yours sincerely
+C M Yonge
+
+A Lady told me the other day, the [Garland](other_books/otherbook_225.qmd) was one of the first things she looked for in the Packet.

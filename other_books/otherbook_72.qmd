@@ -1,0 +1,15 @@
+---
+title: "Johann Wolfgang von Goethe - Iphigenie auf Tauris"
+book_id: 72
+---
+
+## Publication Information
+
+**Date:** 1787
+
+**Notes:** The play was first published in <i>Goethes Schriften</i> Leipzig: Goschen 1787-90, Vol 3.
+
+## Letters Mentioning This Work
+
+- [Letter 3079](../3079-to-anna-butler-8.qmd)
+

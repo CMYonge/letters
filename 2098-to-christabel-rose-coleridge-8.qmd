@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1866-01-12"
+letter_date: "[12 January 1866]"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2098
+letter_id: "to-christabel-rose-coleridge-8"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-01-12"
+  url: "https://cmyonge.github.io/letters/2098-to-christabel-rose-coleridge-8"
+---
+
+::: {.letter-metadata}
+**Date:** [12 January 1866]  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd),
+I should have said that I think you must specify your stones, there are such a frightful number- Pray have opal and turquoise- One for its weird history, the other for its nature- but exclude all the stupid ones, like garnets &c or we shall be swamped - I shall send the parcel on Monday - Meantime I send you the grand Goslings acceptance[^1] - I think [Fernseed](people/person_1160.qmd) must be her name - [Ladyfern](people/person_455.qmd) & [Magpie](people/person_896.qmd) keep on after all. This Fernseed is to be directed to as 
+
+Miss Peard
+Sparnow
+Torquay
+
+your affectionate
+Mother Goose
+
+---
+
+[^1]: Endorsed ‘January 12 1866’.
+[^2]: Frances Peard’s answer to CMY’s request that she join the [Gosling Society](organizations/other_104.qmd).

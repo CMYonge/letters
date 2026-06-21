@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1872-12-23"
+letter_date: "Decr 23d [1872]"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2465
+letter_id: "to-christabel-rose-coleridge-77"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-12-23"
+  url: "https://cmyonge.github.io/letters/2465-to-christabel-rose-coleridge-77"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 23d [1872]  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Here is the pay for [Minne’s Knight](other_books/otherbook_818.qmd), with many thanks.[^1]  I conclude you are at home.  You will see proposals for a monstrous Goose affair in the next packet, but I shall get help in the selection of the essays.[^2]  I hope you will do the Snow and Sun next year
+
+Who asks our question next?  I should think [Hanbury Mills](other_books/otherbook_829.qmd) must be a great success, every body seems to like it who has read it  I am much afraid the Awdry’s departure will be the ruin of our [lectures](organizations/other_240.qmd), there seems to be no one to take the same pains about them[^3]
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: The paper has a decorated motif  ‘New Year’s Day With the Season’s Cheer and a Friend’s Regards.'
+[^2]: ‘Minne’s Knight’ was Coleridge's contribution to the *MP* Christmas number of 1872..
+[^3]: *MP* (January 1873) carries on the back an advertisement for ['COBWEBS OR, THE MONTHLY PACKET ESSAY SOCIETY](organizations/other_116.qmd).  *Two Questions, to be Answered in Writing, on History, Literature, Art or Science, will be proposed in each Number.  Answers to be directed to* ARACHNE, CARE OF THE EDITOR OF THE MONTHLY PACKET.'
+[^4]: The Rev.[William Awdry](people/person_85.qmd) (1842-1910) and his wife since 1868, former Gosling Frances [Emily Moberly](people/person_81.qmd) (1844-1921) had been the moving spirits in bringing lecturers to Winchester in connection with the movement for the higher education of women.

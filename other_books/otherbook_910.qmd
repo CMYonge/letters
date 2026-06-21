@@ -1,0 +1,19 @@
+---
+title: "Reinhart Dozy - Recherches sur l’histoire politique et littéraire de l’Espagne pendant le moyen age"
+book_id: 910
+---
+
+## Publication Information
+
+**Date:** 1849
+
+**Imprint:** Leyden: Brill
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 2649](../2649-to-alexander-macmillan-132.qmd)
+- [Letter 2651](../2651-to-alexander-macmillan-133.qmd)
+

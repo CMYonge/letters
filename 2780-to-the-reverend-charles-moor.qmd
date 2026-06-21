@@ -1,0 +1,48 @@
+---
+title: "To the Reverend Charles Moor"
+letter_iso_date: "1883-10-08"
+letter_date: "Oct 8th [1883]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2780
+letter_id: "to-the-reverend-charles-moor"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Charles Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-10-08"
+  url: "https://cmyonge.github.io/letters/2780-to-the-reverend-charles-moor"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 8th [1883]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+Dear [Charles](people/person_1043.qmd),
+
+&nbsp;
+
+I send you the M S of the story of Burrs hoping that it may help your Christmas number, and not be too youthful
+
+Thank you for the Magazine
+
+Yours truly
+C M Yonge
+
+Some of the pencil numbers are missing but the arrangement is all right
+
+---
+
+**Note:** Envelope addressed to ‘The Revd/ C Moor/Great Grimsby. Postmarked Winchester Oc 8/83. Charles Moor, who was perhaps running a parish magazine, had asked her for a story, and she sent him the MS of one which was about to be published in *Langley Adventures*.

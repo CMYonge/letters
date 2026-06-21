@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1881-10-19"
+letter_date: "Oct 19th [before 1881]"
+location: "“Monthly Packet”  6, Paternoster Row, London, E.C."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3534
+letter_id: "to-an-unknown-woman-72"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-10-19"
+  url: "https://cmyonge.github.io/letters/3534-to-an-unknown-woman-72"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 19th [before 1881]  
+**From:** “Monthly Packet”  6, Paternoster Row, London, E.C.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+
+I am much obliged by your paper on Clothes for the poor, and would willingly put it in at once, but I am afraid that the great want of space will delay it and also the payment for it for some time[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This letter should date from before Walter Smith’s move from Paternoster Row in 1881.

@@ -1,0 +1,17 @@
+---
+title: "Evelyn March-Phillipps - Lanoe Falconer (Author of 'Mademoiselle Ixe')"
+book_id: 1115
+---
+
+## Publication Information
+
+**Date:** 1915
+
+**Imprint:** London: Nisbet
+
+**Notes:** A biography of Mary Elizabeth Hawker.
+
+## Letters Mentioning This Work
+
+- [Letter 18956](../18956-to-mary-elizabeth-hawker.qmd)
+

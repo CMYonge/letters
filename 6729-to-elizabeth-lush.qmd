@@ -1,0 +1,44 @@
+---
+title: "To Elizabeth Lush"
+letter_iso_date: "1874-03-26"
+letter_date: "March 26th [1874]"
+location: "Elderfield"
+manuscript: "MS Ewelme Cottage, 11 Ayr St., Parnell, Auckland, N.Z. [footnote:1]]"
+post_id: 6729
+letter_id: "to-elizabeth-lush"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Lush"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-03-26"
+  url: "https://cmyonge.github.io/letters/6729-to-elizabeth-lush"
+---
+
+::: {.letter-metadata}
+**Date:** March 26th [1874]  
+**From:** Elderfield  
+**Manuscript:** MS Ewelme Cottage, 11 Ayr St., Parnell, Auckland, N.Z. [footnote:1]]
+:::
+
+Dear [Madam](people/person_1839.qmd)
+'On Nebo’s lonely Mountain' is by [Mrs Alexander](people/person_21.qmd), wife of the [Bishop of Derry](people/person_1840.qmd), and author of [Hymns for Little Children](other_books/otherbook_11.qmd) – It is one of a series of hymns on Scripture which were published separately.
+
+I have often met with mentions of [Mr Lush](people/person_1838.qmd) and his family in [Bishop Patteson](people/person_1155.qmd)’s letters and always with great affection[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to Miss Lush/ Northlands/ Hollington/ S. Leonards-on-Sea, and postmarked Winchester 26 March 1874.
+[^2]: Miss Lush’s brother the Rev. Vicesimus Lush (1817-1882) had emigrated to New Zealand in 1850 and worked in various capacities in the Auckland region under Bishop Selwyn. See his *The Auckland Journals, 1850-63* and *The Thames Journals 1868-82*.

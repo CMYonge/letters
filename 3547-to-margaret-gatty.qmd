@@ -1,0 +1,45 @@
+---
+title: "To Margaret Gatty"
+letter_iso_date: "1869-02-04"
+letter_date: "Febry 4 [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3547
+letter_id: "to-margaret-gatty"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Gatty"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-02-04"
+  url: "https://cmyonge.github.io/letters/3547-to-margaret-gatty"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 4 [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Mrs Gatty](people/person_549.qmd)
+This fairy tale strikes me as one of the very prettiest I have seen, but it is too long for the [Packet](organizations/other_52.qmd) and besides ought to be illustrated. So I send it to you, hoping you will have room for it. I am a little disturbed by Venus shining all night but I suppose Fairy land could be no where else It is a most quaint and dainty fancy that does those nursery rhymes, and I think if the word <u>rose</u> was altered she might be supposed to have got into the track of Venus ere her setting. The constellations coming to life amused me much.
+
+Thank you for the two numbers, one of which I sent on to [Madame de Witt](people/person_423.qmd). 
+
+What a spring it is, I am sitting at an open window, feeling like April.
+
+Yours very sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper. Dated on the assumption that it refers to Henriette de Witt’s article 'Across the Sea’, which appeared in *[Aunt Judy’s Magazine](organizations/other_54.qmd)* (March 1869) 273-286.

@@ -1,0 +1,45 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1867-10-12"
+letter_date: "Oct 12th 1867"
+location: "Puslinch Yealmpton"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2212
+letter_id: "to-christabel-rose-coleridge-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-10-12"
+  url: "https://cmyonge.github.io/letters/2212-to-christabel-rose-coleridge-14"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 12th 1867  
+**From:** Puslinch Yealmpton  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+If it is copyright, I think they ought to give you at least £10, you did not sell your copyright to the [Eagle](other_books/otherbook_365.qmd) and it may sometimes make a difference in case of one’s wanting to collect short stories together into a volume[^1] 
+
+I do not know if this is the right sum, but it seems to me about fair
+
+yours affectionately and much hurried
+C M Yonge
+
+I shall be here till the 30th so the answer had better come here.
+
+---
+
+[^1]: Probably the question was how much [Warne](organizations/other_1422.qmd) should pay Coleridge for the copyright of *Giftie*, in comparison with whatever had been paid by CMY for the publication of ‘The Eagle of one house is the Goose of another’ in *MP*.

@@ -1,0 +1,50 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1870-05-31"
+letter_date: "May 31 st [1870]"
+location: "Wantage"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2382
+letter_id: "to-christabel-rose-coleridge-64"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-05-31"
+  url: "https://cmyonge.github.io/letters/2382-to-christabel-rose-coleridge-64"
+---
+
+::: {.letter-metadata}
+**Date:** May 31 st [1870]  
+**From:** Wantage  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+The [Goslings](organizations/other_104.qmd) will not die.  I find we had better kill the useless members, and get some  quite young ones in keeping the questions easier-  We have now left only [Cricket](people/person_1603.qmd), [Frog](people/person_822.qmd), [Double Daisy](people/person_1161.qmd) and[Pixie](people/person_539.qmd) to whom is to be added
+
+The Honble
+[Alethea Colborne](people/person_317.qmd),
+Beechwood
+Plympton
+
+I am not sure what she is to be called [^1]-  Can you still be Secretary even if you have no time for the Questions?  It would be a great help to me.  Frog [^2] proposes a new one but I have not the particulars of her yet.  I am going home on Thursday  I have had a very pleasant expedition all round Devon ending with Torquay and Ottery.  Frog suggests the Goslings writing their criticisms below Cackle, which would be amusing, I think
+
+your affectionate
+Mother Goose
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Mary Fursdon was told Alethea Colborne was to be Bluebell on 10 July 1870.
+[^3]: CMY was staying with Frog's parents the Butlers at Wantage Vicarage.

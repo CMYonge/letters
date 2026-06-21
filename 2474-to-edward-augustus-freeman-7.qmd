@@ -1,0 +1,50 @@
+---
+title: "To Edward Augustus Freeman"
+letter_iso_date: "1873-05-10"
+letter_date: "May 10 1873"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS John Rylands Library, Manchester, FA1/7/834"
+post_id: 2474
+letter_id: "to-edward-augustus-freeman-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edward Augustus Freeman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-05-10"
+  url: "https://cmyonge.github.io/letters/2474-to-edward-augustus-freeman-7"
+---
+
+::: {.letter-metadata}
+**Date:** May 10 1873  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS John Rylands Library, Manchester, FA1/7/834
+:::
+
+Dear [Mr Freeman](people/person_523.qmd)
+Having recently had a fresh look at Fridiswid’s window, I wish to explain that I find the green headed duck is not engaged in a miracle, but is merely an adjunct when she was hiding in the farm yard, and as the stately drake led forth his fleet upon the lake on Loch Lomond, he may be thus employed at home. There is so much worse a window near it that it brings out this one favorably [sic].[^1]
+
+I have been meaning for some time to send you the grandest specimen of ‘Aryan’ that has yet come to my knowledge[^2]   Our country paper, describing a Christmas entertainment of [Lady Portsmouth](people/person_2290.qmd)’s, says that 
+‘In the centre of the table was a small specimen of the conifer genus -‘ to which was appended - ‘the disused habitation of one of the bissennate order’ I only wish that I had cut it out, but an old newspaper is hard to catch.
+
+What made the [Saturday](organizations/other_99.qmd) censure the novel [Chesterleigh](other_books/otherbook_836.qmd) for not calling an Earl’s younger son Lord George also for the family not using their mother’s name when they lost their right to their father’s[^3] The book seems to me to have been as much over rated by the [Spectator](organizations/other_180.qmd) as it is under rated by the Saturday.
+
+By the by, I only review in the [Guardian](organizations/other_75.qmd)what it sends me, and though I now and then ask for a book, I must have no other unless I receive because somebody else may have got it and confusions arise.
+
+Yours very truly
+C.M. Yonge
+
+---
+
+[^1]: The stained-glass window with sixteen scenes from the life of St. Frideswide, patron saint of Oxford, in Christ Church cathedral, Oxford, designed by Edward Burne-Jones in 1857.  CMY had commented unfavourably on it in a previous letter to Freeman.
+[^2]: Freeman preferred the use of words of Anglo-Saxon origin to those with French or Latin roots.
+[^3]: Ansley Conyers, *Chesterleigh* (London: King 1873). Freeman was a prolific contributor to the *Saturday Review*.  The reviewer is wrong about the earl's younger son.

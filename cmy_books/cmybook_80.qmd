@@ -1,0 +1,31 @@
+---
+title: "A Book of Worthies, gathered from the Old Histories and now written out anewBy the author of “The Heir of Redclyffe.”"
+book_id: 80
+sort_title: "Book of Worthies, gathered from the Old Histories and now written out anew"
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Genre:** Non-fiction: history
+
+**Publisher:** London and New York: Macmillan and Company.
+
+## Letters Mentioning This Work
+
+- [Letter 2128](../2128-to-alexander-macmillan-77.qmd)
+- [Letter 2129](../2129-to-alexander-macmillan-78.qmd)
+- [Letter 2133](../2133-to-alexander-macmillan-79.qmd)
+- [Letter 2170](../2170-alexander-macmillan-to-charlotte-mary-yonge-48.qmd)
+- [Letter 2171](../2171-alexander-macmillan-to-charlotte-mary-yonge-49.qmd)
+- [Letter 2172](../2172-alexander-macmillan-to-charlotte-mary-yonge-50.qmd)
+- [Letter 2174](../2174-to-alexander-macmillan-86.qmd)
+- [Letter 2243](../2243-to-alexander-macmillan-94.qmd)
+- [Letter 2298](../2298-to-alexander-macmillan-106.qmd)
+- [Letter 2354](../2354-to-arthur-john-butler-5.qmd)
+- [Letter 3257](../3257-to-george-lillie-craik-14.qmd)
+- [Letter 19563](../19563-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19572](../19572-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19593](../19593-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

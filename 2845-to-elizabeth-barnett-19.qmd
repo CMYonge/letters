@@ -1,0 +1,42 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1886-11-12"
+letter_date: "November 12. [1886]"
+location: "Elderfield,"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 306."
+post_id: 2845
+letter_id: "to-elizabeth-barnett-19"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-11-12"
+  url: "https://cmyonge.github.io/letters/2845-to-elizabeth-barnett-19"
+---
+
+::: {.letter-metadata}
+**Date:** November 12. [1886]  
+**From:** Elderfield,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 306.
+:::
+
+My dear [Lizzie](people/person_113.qmd)- 
+
+. . . Yes, I saw the [*Spectator*](organizations/other_180.qmd) on [*Chantry House*](cmy_books/cmybook_186.qmd), but indeed I did not put in the ghost for the sake of variety or sensation, but to work out my own belief and theory. I could tell you things I quite believe that chime with it. One I must tell, not that it is a ghost probably, it is so curious. The poor people in the Torquay outskirts think a thing walks in the few remaining woods of the Abbey which they call a Widdrington.[^1] Now [Miss Roberts](people/person_1244.qmd) has hunted up that the last Abbot was accused before Henry VIII. of having murdered a monk named Widdrington, whom however he produced safe and sound. Don't you think the live man must have been seen after he was thought dead and so left his name? -
+
+Your most affectionate
+C. M. YONGE.
+
+---
+
+[^1]: Christabel Coleridge, who lived many years in Torquay, commented ‘I have never come across this belief.’ A similar story is told of a fourteenth-century abbot by J. T. White, *History of Torquay* (1878), 26, but the allegedly murdered man's name was Hastings.

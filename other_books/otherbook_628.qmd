@@ -1,0 +1,18 @@
+---
+title: "Alexander Keith Johnston - The National Atlas of Historical, Commercial and Political Geography"
+book_id: 628
+---
+
+## Publication Information
+
+**Date:** 1843
+
+**Imprint:** Edinburgh: Johnstone and Johnston
+
+**Notes:** There were many later editions.
+
+## Letters Mentioning This Work
+
+- [Letter 3151](../3151-to-arthur-donald-innes-3.qmd)
+- [Letter 3153](../3153-to-arthur-donald-innes-4.qmd)
+

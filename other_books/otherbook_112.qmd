@@ -1,0 +1,16 @@
+---
+title: "The Rev. Richard Mant and George D’Oyly - The Holy Bible, according to the Authorized Version: with notes, explanatory and practical"
+book_id: 112
+---
+
+## Publication Information
+
+**Date:** 1817
+
+**Imprint:** Oxford: Clarendon Press
+
+## Letters Mentioning This Work
+
+- [Letter 2356](../2356-to-louisa-anne-gibbs.qmd)
+- [Letter 3042](../3042-to-jemima-blackburn-3.qmd)
+

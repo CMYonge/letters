@@ -1,0 +1,38 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-12-24"
+letter_date: "Decr 24th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 76"
+post_id: 2656
+letter_id: "to-george-lillie-craik-48"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-12-24"
+  url: "https://cmyonge.github.io/letters/2656-to-george-lillie-craik-48"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 24th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 76
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+One line to acknowledge the safe receipt of [£150](organizations/other_160.qmd)on account with many thanks  I don’t suppose you will receive this tomorrow but accept with it my best Christmas wishes
+
+Yours truly
+C M Yonge

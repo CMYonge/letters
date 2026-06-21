@@ -1,0 +1,39 @@
+---
+title: "To Emma Frances Yonge"
+letter_iso_date: "1860-00-00"
+letter_date: "Tuesday [1860-1877]"
+manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3563
+letter_id: "to-emma-frances-yonge-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Emma Frances Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-00-00"
+  url: "https://cmyonge.github.io/letters/3563-to-emma-frances-yonge-3"
+---
+
+::: {.letter-metadata}
+**Date:** Tuesday [1860-1877]  
+**Manuscript:** MS  Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear [Frances](people/person_1604.qmd),
+[Uncle Yonge](people/person_1623.qmd) did not go today. I am sorry to say he has quite got a cold. [Helen](people/person_1613.qmd) is very well and bright – Here is a curiosity by way of a German announcement of a betrothal
+
+Your affect Sister
+C M Yonge
+
+---
+
+**Note:** The letter must date between the birth of Helen Yonge and the death of the Rev. John Yonge.

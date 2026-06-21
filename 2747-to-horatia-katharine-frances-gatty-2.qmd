@@ -1,0 +1,47 @@
+---
+title: "To Horatia Katharine Frances Gatty"
+letter_iso_date: "1882-05-04"
+letter_date: "May 4th [1882?]"
+location: "Elderfield Otterbourne	Winchester"
+manuscript: "UCLA: collection 100: box 95"
+post_id: 2747
+letter_id: "to-horatia-katharine-frances-gatty-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Horatia Katharine Frances Gatty"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-05-04"
+  url: "https://cmyonge.github.io/letters/2747-to-horatia-katharine-frances-gatty-2"
+---
+
+::: {.letter-metadata}
+**Date:** May 4th [1882?]  
+**From:** Elderfield Otterbourne	Winchester  
+**Manuscript:** UCLA: collection 100: box 95
+:::
+
+My dear [Miss Gatty](people/person_469.qmd),
+
+The Signora [Linda Villari](people/person_1444.qmd) wife to [Professor Villari](people/person_2345.qmd) at Florence sent me this pretty little sketch of a real favourite bird. It is too youthful for the [Packet](organizations/other_52.qmd), but I think you will like to open a connection with her, as she writes prettily and freshly. I enclose a card she sent with her address. She wrote a very pretty story once for the Packet called [the Angel of Viareggio](other_books/otherbook_917.qmd).
+
+I hope you can give a tolerable account of [Mrs Ewing](people/person_494.qmd). We were greatly charmed with Laetus Sorte Meâ[^1]
+
+Yours sincerely 
+C M Yonge
+
+On second thought I will keep the card as if rejected you had better return Dinderino to me
+
+---
+
+[^1]: Endorsed in another hand ' Signora Linda Villari/ 93r Via Tinti/ Florence/ “Dinderino”'
+[^2]: ‘The Angel of Viareggio’ appeared in *MP* (January-June 1880) and ‘Laetus Sorte Mea’ in *Aunt Judy’s Magazine* in 1882.  It was published as *The Story of a Short Life* (1882).  The letter must antedate the death of Juliana Ewing in May 1885.

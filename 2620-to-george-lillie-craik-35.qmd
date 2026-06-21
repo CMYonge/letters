@@ -1,0 +1,47 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-03-11"
+letter_date: "March 11th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 50-51"
+post_id: 2620
+letter_id: "to-george-lillie-craik-35"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-03-11"
+  url: "https://cmyonge.github.io/letters/2620-to-george-lillie-craik-35"
+---
+
+::: {.letter-metadata}
+**Date:** March 11th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 50-51
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I see you are advertising a new edition of the [Christian names](cmy_books/cmybook_48.qmd). I hope the printing has not gone too far for the corrections to be put in. I have a copy perfectly full of them. The Greek has all manner of wrong accents. The [Saturday](organizations/other_99.qmd)complained of 'the frightful look of the Greek'[^1] I have the vols all corrected and have been longing for a chance to set them right. Then all that about the letters of the alphabet ought to be made away with, for I puzzled it out in ignorance of Grimm’s law, and am ashamed of it now, and there are hundreds of other blunders. So I trust it is not too late to correct them.
+
+There is also a mistake in [Pioneers and Founders](cmy_books/cmybook_90.qmd) where I said [Thomas Scott](people/person_2315.qmd) was a Dissenter which was not true I promised to rectify this when I could but there is nothing so hard as trying to catch an edition for alteration.
+
+[The Story of the Moors](cmy_books/cmybook_126.qmd) is nearly ready to send you. I should like however first to see [Major Osborns Islam](other_books/otherbook_901.qmd) (Vol 1) It might take a more philosophical view than the authorities I am using
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: 'Miss Yonge's History of Christian Names' *Saturday Review* (ii July 1863), 58-60, 59, had referred to 'the frightful look of Miss Yonge's Greek'.

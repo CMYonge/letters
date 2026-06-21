@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1855-05-31"
+letter_date: "May 31st  [1855-9]"
+location: "[Dogmersfield](organizations/other_121.qmd)"
+manuscript: "MS formerly in the Royal Institution of Cornwall, Enys No. 1428"
+post_id: 3066
+letter_id: "to-an-unknown-woman-8"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-05-31"
+  url: "https://cmyonge.github.io/letters/3066-to-an-unknown-woman-8"
+---
+
+::: {.letter-metadata}
+**Date:** May 31st  [1855-9]  
+**From:** [Dogmersfield](organizations/other_121.qmd)  
+**Manuscript:** MS formerly in the Royal Institution of Cornwall, Enys No. 1428
+:::
+
+Madam
+I am much obliged for your great kindness in allowing [my mother](people/person_1606.qmd) and myself the perusal of the enclosed valuable letter.  I have been from home for some days, or I would sooner have returned it, and expressed our best thanks for the favour of its perusal
+
+yours much obliged
+C M Yonge
+
+---
+
+**Note:** Black-edged paper. Probably dating between the death of WCY and the death of the Rev. Charles Dyson in 1860.

@@ -1,0 +1,43 @@
+---
+title: "To Miss Cole"
+letter_iso_date: "1869-03-17"
+letter_date: "March 17 [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell/2"
+post_id: 2310
+letter_id: "to-miss-cole"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Cole"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-03-17"
+  url: "https://cmyonge.github.io/letters/2310-to-miss-cole"
+---
+
+::: {.letter-metadata}
+**Date:** March 17 [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell/2
+:::
+
+My dear [Miss Cole](people/person_326.qmd)
+I well remember the day you spent here five years ago, and all I have heard of you from the Colborne family.
+
+I am afraid though that it is not of much use for your friend to send me a fairy tale of any length, as I have rather an overflow on my hands of the lighter department and I cannot put in anything of that sort of many pages or of long continuance. I am afraid therefore that sending it would only lead to disappointment
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

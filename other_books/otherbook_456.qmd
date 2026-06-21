@@ -1,0 +1,15 @@
+---
+title: "John Henry Newman - The Letters and Diaries of John Henry Newman"
+book_id: 456
+---
+
+## Publication Information
+
+**Date:** 1961-2008
+
+**Imprint:** Oxford: OUP
+
+## Letters Mentioning This Work
+
+- [Letter 2111](../2111-to-anne-yonge-44.qmd)
+

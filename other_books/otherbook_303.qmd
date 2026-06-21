@@ -1,0 +1,15 @@
+---
+title: "The Earl of Crawford - Lives of the Lindsays, or, A memoir of the houses of Crawford and Balcarres"
+book_id: 303
+---
+
+## Publication Information
+
+**Date:** 1849
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 1826](../1826-to-ann-maria-carter-smith-45.qmd)
+

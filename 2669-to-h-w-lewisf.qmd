@@ -1,0 +1,38 @@
+---
+title: "To H.W. Lewis"
+letter_iso_date: "1879-04-30"
+letter_date: "April ?30th 1879"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS University of Manchester, Ryl Eng MS. 341/172"
+post_id: 2669
+letter_id: "to-h-w-lewisf"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To H.W. Lewis"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-04-30"
+  url: "https://cmyonge.github.io/letters/2669-to-h-w-lewisf"
+---
+
+::: {.letter-metadata}
+**Date:** April ?30th 1879  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS University of Manchester, Ryl Eng MS. 341/172
+:::
+
+[Sir](people/person_875.qmd)
+
+The family of the [Prince Consort](people/person_1736.qmd)has no surname being in fact too old-  Von Sachs is its only distinction of the kind
+
+your truly
+C M Yonge

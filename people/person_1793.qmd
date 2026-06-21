@@ -1,0 +1,15 @@
+---
+title: "Sir Henry Taylor"
+person_id: 1793
+---
+
+## Biographical Information
+
+(1800-1886)
+
+poet
+
+## Letters Mentioning This Person
+
+- [Letter 3109](../3109-to-frances-mary-yonge-2.qmd)
+

@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-10-21"
+letter_date: "Saturday Evening Oct 21st 1865"
+manuscript: "MS British Library Add MSS 54920: 113"
+post_id: 2074
+letter_id: "to-alexander-macmillan-58"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-10-21"
+  url: "https://cmyonge.github.io/letters/2074-to-alexander-macmillan-58"
+---
+
+::: {.letter-metadata}
+**Date:** Saturday Evening Oct 21st 1865  
+**Manuscript:** MS British Library Add MSS 54920: 113
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+My London plans have dwindled down to the smallest span - i.e. - to running up for a day with my [sister in law](people/person_1604.qmd) on Wednesday the 25th. I hope to call at 16 Bedford St[^1] somewhere between 12 and ½ past 4.
+
+Would you send me a line to say whether I shall find you, and if one time is more convenient than another. Please write by Mondays post as I shall have to start before the letters came[sic] on Wednesday.
+
+My present address is at [Mrs Dyson](people/person_462.qmd)’s, Church-Crookham, Farnham.
+
+Yours sincerely
+C M Yonge
+
+I should prefer the earliest hour
+
+---
+
+[^1]: The address of Macmillan & Co.’s office.

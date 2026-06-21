@@ -1,0 +1,57 @@
+---
+title: "Historical Selections: A Series of Readings from the Best Authorities in English and European History.Selected and arranged by E.M. Sewell and C.M. Yonge"
+book_id: 71
+sort_title: "Historical Selections: A Series of Readings from the Best Authorities in English and European History."
+---
+
+## Publication Information
+
+**Date:** 1868
+
+**Genre:** Non-fiction: history (by others)
+
+**Publisher:** London: Macmillan and Company
+
+**Notes:** Probably the earliest instance of CMY’s name being attached to one of her published works.
+
+## Letters Mentioning This Work
+
+- [Letter 2042](../2042-to-alexander-macmillan-48.qmd)
+- [Letter 2043](../2043-alexander-macmillan-to-charlotte-mary-yonge-33.qmd)
+- [Letter 2044](../2044-to-alexander-macmillan-49.qmd)
+- [Letter 2045](../2045-alexander-macmillan-to-charlotte-mary-yonge-34.qmd)
+- [Letter 2047](../2047-to-alexander-macmillan-50.qmd)
+- [Letter 2049](../2049-alexander-macmillan-to-charlotte-mary-yonge-35.qmd)
+- [Letter 2050](../2050-to-alexander-macmillan-51.qmd)
+- [Letter 2051](../2051-alexander-macmillan-to-charlotte-mary-yonge-36.qmd)
+- [Letter 2077](../2077-to-elizabeth-missing-sewell-5.qmd)
+- [Letter 2106](../2106-to-elizabeth-missing-sewell-6.qmd)
+- [Letter 2114](../2114-to-elizabeth-missing-sewell-14.qmd)
+- [Letter 2136](../2136-to-alexander-macmillan-80.qmd)
+- [Letter 2137](../2137-to-alexander-macmillan-81.qmd)
+- [Letter 2139](../2139-to-alexander-macmillan-82.qmd)
+- [Letter 2145](../2145-to-alexander-macmillan-83.qmd)
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
+- [Letter 2183](../2183-to-alexander-macmillan-88.qmd)
+- [Letter 2226](../2226-alexander-macmillan-to-charlotte-mary-yonge-62.qmd)
+- [Letter 2232](../2232-alexander-macmillan-to-charlotte-mary-yonge-65.qmd)
+- [Letter 2233](../2233-alexander-macmillan-to-charlotte-mary-yonge-66.qmd)
+- [Letter 2235](../2235-alexander-macmillan-to-charlotte-mary-yonge-67.qmd)
+- [Letter 2239](../2239-alexander-macmillan-to-charlotte-mary-yonge-71.qmd)
+- [Letter 2245](../2245-to-alexander-macmillan-95.qmd)
+- [Letter 2246](../2246-to-alexander-macmillan-96.qmd)
+- [Letter 2247](../2247-alexander-macmillan-to-charlotte-mary-yonge-73.qmd)
+- [Letter 2248](../2248-to-alexander-macmillan-97.qmd)
+- [Letter 2253](../2253-to-elizabeth-missing-sewell-8.qmd)
+- [Letter 2254](../2254-alexander-macmillan-to-charlotte-mary-yonge-75.qmd)
+- [Letter 2258](../2258-to-alexander-macmillan-98.qmd)
+- [Letter 2283](../2283-to-alexander-macmillan-103.qmd)
+- [Letter 2284](../2284-to-elizabeth-missing-sewell-9.qmd)
+- [Letter 2286](../2286-to-alexander-macmillan-104.qmd)
+- [Letter 2361](../2361-to-alexander-macmillan-112.qmd)
+- [Letter 19643](../19643-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19651](../19651-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19653](../19653-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19670](../19670-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+- [Letter 19672](../19672-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

@@ -1,0 +1,24 @@
+---
+title: "Anne Mozley"
+person_id: 1061
+---
+
+## Biographical Information
+
+(1809-1891)
+
+journalist and editor
+
+There is an obituary by CMY in <i>MP</i> (September 1891), 486.
+
+## Letters Mentioning This Person
+
+- [Letter 1827](../1827-to-florence-wilford-2.qmd)
+- [Letter 2964](../2964-to-mary-anne-dyson-5.qmd)
+- [Letter 2971](../2971-to-mary-anne-dyson-11.qmd)
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
+- [Letter 3006](../3006-to-mary-anne-dyson-13.qmd)
+- [Letter 3029](../3029-to-mary-anne-dyson-17.qmd)
+- [Letter 3183](../3183-to-an-unknown-person-8.qmd)
+- [Letter 3487](../3487-to-frances-mary-peard.qmd)
+

@@ -1,0 +1,42 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-02-24"
+letter_date: "Feb 24 [1894]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 137"
+post_id: 3252
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-17"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-02-24"
+  url: "https://cmyonge.github.io/letters/3252-to-the-reverend-john-frederick-watkinson-bullock-17"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 24 [1894]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 137
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),	
+I would have offered to write [Fletcher](people/person_1677.qmd)’s Life, but I have hunted all over the house twice over and cannot find the [book](other_books/otherbook_213.qmd) I once had, but no doubt you can get it from a library[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to ‘The Revd  J.F.  Bullock/Radwinter Rectory/Saffron Walden. Postmark Feb 24/94.
+[^2]: CMY wrote several in a series of 'Biographies of Eminent Anglicans', which were intended to form part of Bullock's *Daily Lections* project, but were never published.

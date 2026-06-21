@@ -1,0 +1,23 @@
+---
+title: "Conversations on the Catechism: To the end of the Creed. By the author of “The Heir of Redclyffe.”"
+book_id: 33
+sort_title: "Conversations on the Catechism: To the end of the Creed"
+---
+
+## Publication Information
+
+**Date:** 1859
+
+**Genre:** Non-fiction: theology
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London.
+
+## Letters Mentioning This Work
+
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
+- [Letter 2976](../2976-the-reverend-john-keble-to-charlotte-mary-yonge-2.qmd)
+- [Letter 2992](../2992-to-elizabeth-roberts-12.qmd)
+- [Letter 2995](../2995-to-elizabeth-roberts-15.qmd)
+- [Letter 3011](../3011-the-reverend-john-keble-to-charlotte-mary-yonge-3.qmd)
+- [Letter 3121](../3121-from-the-reverend-john-keble-to-charlotte-mary-yonge.qmd)
+

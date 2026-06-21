@@ -1,0 +1,40 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-08-02"
+letter_date: "Aug 2d 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 64-65"
+post_id: 2636
+letter_id: "to-george-lillie-craik-45"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-08-02"
+  url: "https://cmyonge.github.io/letters/2636-to-george-lillie-craik-45"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 2d 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 64-65
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Will you let [Miss Carter Smith](people/person_263.qmd) as before order some of the [Scripture Readings](cmy_books/cmybook_87.qmd) at the price to the trade.
+
+I wish [Clay](organizations/other_173.qmd) would finish off [that last volume](cmy_books/cmybook_129.qmd). He always sends me a proof when I am busy. I send more copy. Then he stops for another 3 months. I have now finished within about 12 chapters, but I shall be in Devonshire after Tuesday for 6 weeks, however a letter here will be sent on
+
+Yours truly
+C M Yonge

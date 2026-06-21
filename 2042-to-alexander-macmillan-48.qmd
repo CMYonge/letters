@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-06-09"
+letter_date: "June 9th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 94-95"
+post_id: 2042
+letter_id: "to-alexander-macmillan-48"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-06-09"
+  url: "https://cmyonge.github.io/letters/2042-to-alexander-macmillan-48"
+---
+
+::: {.letter-metadata}
+**Date:** June 9th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 94-95
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd)
+It does not seem after my last letter that this is the moment to write to you about a fresh plan, but this is a matter that [Miss Sewell](people/person_1301.qmd) and I talked over together last winter, and which has been waiting since for her to have time to give her mind to it. I send her letter to speak for itself. You know she has for many years taken girl pupils to whom she has given a first rate education, and this is the view she has arrived at about the reading. She and I would select passages, give a short notice uniting them, and get up the book altogether - and we agreed that when she was ready she should put forth her ideas, and we should ask you what you thought of the matter. I have felt my way since by talking to two clever people who have had much to do with teaching, and they both say it is the very thing they want.
+
+Thanks for the £25, for which I enclose the receipt
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** The proposed project resulted in the publication of *Historical Selections* (1868) and its successor volume of 1870.  CMY's previous letter had postponed work on Macmillan's idea for a scripture history provisionally entitled '[Bethlehem](organizations/other_177.qmd)'.

@@ -1,0 +1,20 @@
+---
+title: "Friarswood Post Office. By the author of “The Heir of Redclyffe.”"
+book_id: 36
+sort_title: "Friarswood Post Office"
+---
+
+## Publication Information
+
+**Date:** 1860
+
+**Genre:** Fiction (modern)
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78, New Bond Street, London.
+
+## Letters Mentioning This Work
+
+- [Letter 3124](../3124-to-caroline-elizabeth-cooke-trench-2.qmd)
+- [Letter 3125](../3125-to-anne-sturges-bourne-3.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
+

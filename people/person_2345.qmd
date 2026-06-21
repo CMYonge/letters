@@ -1,0 +1,15 @@
+---
+title: "Pasquale Villari"
+person_id: 2345
+---
+
+## Biographical Information
+
+(1827-1917)
+
+historian
+
+## Letters Mentioning This Person
+
+- [Letter 2747](../2747-to-horatia-katharine-frances-gatty-2.qmd)
+

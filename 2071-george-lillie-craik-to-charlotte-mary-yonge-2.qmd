@@ -1,0 +1,36 @@
+---
+title: "George Lillie Craik to Charlotte Mary Yonge"
+letter_iso_date: "1865-09-12"
+letter_date: "12th Sept. 1865"
+manuscript: "Copy outletter book British Library Add MSS. 55384 (2): P. 860"
+post_id: 2071
+letter_id: "george-lillie-craik-to-charlotte-mary-yonge-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "George Lillie Craik to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-09-12"
+  url: "https://cmyonge.github.io/letters/2071-george-lillie-craik-to-charlotte-mary-yonge-2"
+---
+
+::: {.letter-metadata}
+**Date:** 12th Sept. 1865  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (2): P. 860
+:::
+
+Dear Madam,
+[I](people/person_379.qmd) am not aware whether “[The Clever Woman](cmy_books/cmybook_58.qmd)” has been translated, but perhaps you will answer the enclosed yourself.
+
+Dear Madam
+Yours faithfully
+Geo: Lillie Craik

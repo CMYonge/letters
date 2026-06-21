@@ -1,0 +1,15 @@
+---
+title: "Harriet Martineau -  Deerbrook: A Novel"
+book_id: 114
+---
+
+## Publication Information
+
+**Date:** 1839
+
+**Imprint:** London: Moxon
+
+## Letters Mentioning This Work
+
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
+

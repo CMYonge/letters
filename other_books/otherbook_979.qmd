@@ -1,0 +1,18 @@
+---
+title: "Gertrude Mary Ireland Blackburne - 'A Conversation on Books'"
+book_id: 979
+---
+
+## Publication Information
+
+**Date:** 1885
+
+**Imprint:** <i>MP</i> (April 1885), 368-75.
+
+**Notes:** A review of J. H. Shorthouse, [<i>The Little Schoolmaster Mark</i>](otherbook_978.qmd) (1885).
+
+## Letters Mentioning This Work
+
+- [Letter 2800](../2800-to-gertrude-mary-ireland-blackburnef.qmd)
+- [Letter 2801](../2801-to-gertrude-mary-ireland-blackburne-3.qmd)
+

@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1870-05-27"
+letter_date: "May 27th [1870]"
+location: "Ottery"
+manuscript: "MS  British Library Add MSS 54920: 239"
+post_id: 2380
+letter_id: "to-alexander-macmillan-115"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-05-27"
+  url: "https://cmyonge.github.io/letters/2380-to-alexander-macmillan-115"
+---
+
+::: {.letter-metadata}
+**Date:** May 27th [1870]  
+**From:** Ottery  
+**Manuscript:** MS  British Library Add MSS 54920: 239
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I agree with [Miss Sewell](people/person_1301.qmd)as to the alteration, otherwise it will do very nicely. I hope to be at home on the 1st or 2nd of June[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: The book in question must have been *European History* (1870).

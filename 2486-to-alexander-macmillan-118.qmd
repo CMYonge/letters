@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1874-01-19"
+letter_date: "Jany 19th 1874"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 1-2"
+post_id: 2486
+letter_id: "to-alexander-macmillan-118"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-01-19"
+  url: "https://cmyonge.github.io/letters/2486-to-alexander-macmillan-118"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 19th 1874  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 1-2
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I am trying the abridging process upon [Bishop Patteson](cmy_books/cmybook_102.qmd), but I hope the latter part can wait to be reprinted till I get the corrections from the Mission itself.
+
+I am much afraid that [Lady Martin](people/person_970.qmd)’s recollections about New Zealand, about which I wrote to you have been lost on the voyage. They were announced, and enquired after, but never appeared 
+
+I see the third volume of the [Scripture Readings](cmy_books/cmybook_87.qmd) must stop with Daniel’s last chapter. I think I can make the 4th and last get to the end of the Acts as there is much less collateral matter to lengthen out with, and to harmonise a narrative from the Gospels is more desirable than to give <u>every</u> discourse. But I must begin from the return from captivity
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** For the biography of Bishop Patteson.

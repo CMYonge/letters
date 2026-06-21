@@ -1,0 +1,41 @@
+---
+title: "To the Hon. Lady Crauford"
+letter_iso_date: "1896-10-06"
+letter_date: "Oct 6th 1896"
+location: "Elderfield Otterbourne"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3329
+letter_id: "to-the-hon-lady-crauford"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Lady Crauford"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-10-06"
+  url: "https://cmyonge.github.io/letters/3329-to-the-hon-lady-crauford"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 6th 1896  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Lady Craufurd](people/person_2157.qmd)[^1]
+Thank you much for the wise answer to the Puzzled Mother. It is sure to be a question of different temperaments.
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: ‘A Puzzled Mother’ had asked in [*Mothers in Council*](organizations/other_82.qmd) 6 (October 1896) 248 about corporal punishment, ‘as the mother of four little ones of three to seven years, all with hot tempers and all at times very unruly and disobedient.  Of the three answers printed the one which most accords with CMY’s comment is signed ‘Isolda’, and the letter was probably addressed to the Hon. Isolda Caroline Vereker (1852/3-1927), daughter of the 4th Viscount Gort and wife of Sir Charles Craufurd 4th Bt., R.N. (1847-1939), who had ten children.

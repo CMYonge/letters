@@ -1,0 +1,32 @@
+---
+title: "The Rev. John Keble - The Christian Year: Thoughts in Verse for the Sundays and Holydays throughout the Year"
+book_id: 95
+---
+
+## Publication Information
+
+**Date:** 1827
+
+**Imprint:** Oxford: Parker and London: Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 2115](../2115-to-jemima-charlotte-mozley.qmd)
+- [Letter 2134](../2134-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-2.qmd)
+- [Letter 2138](../2138-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-3.qmd)
+- [Letter 2300](../2300-to-mary-ann-dyson-8.qmd)
+- [Letter 2641](../2641-to-elizabeth-barnett-17.qmd)
+- [Letter 2956](../2956-to-anne-yonge-23.qmd)
+- [Letter 2964](../2964-to-mary-anne-dyson-5.qmd)
+- [Letter 2966](../2966-to-mary-anne-dyson-6.qmd)
+- [Letter 2970](../2970-to-mary-anne-dyson-10.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3041](../3041-to-jemima-blackburn-2.qmd)
+- [Letter 3045](../3045-to-jemima-blackburn-4.qmd)
+- [Letter 3114](../3114-to-ann-maria-carter-smith-14.qmd)
+- [Letter 3135](../3135-to-elizabeth-barnett-9.qmd)
+- [Letter 3207](../3207-to-the-reverend-vere-awdry.qmd)
+- [Letter 3325](../3325-to-ethel-romanes.qmd)
+- [Letter 3413](../3413-to-helena-heathcote-2.qmd)
+- [Letter 3496](../3496-to-an-unknown-woman-46.qmd)
+

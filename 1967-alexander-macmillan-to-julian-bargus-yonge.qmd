@@ -1,0 +1,40 @@
+---
+title: "Alexander Macmillan to Julian Bargus Yonge"
+letter_iso_date: "1864-07-30"
+letter_date: "July 30 1864"
+manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 196"
+post_id: 1967
+letter_id: "alexander-macmillan-to-julian-bargus-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Julian Bargus Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-07-30"
+  url: "https://cmyonge.github.io/letters/1967-alexander-macmillan-to-julian-bargus-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** July 30 1864  
+**Manuscript:** Copy outletter book British Library Add MSS. 55383 (1): P. 196
+:::
+
+My dear [Sir](people/person_1624.qmd), 
+
+Your paper on Bridge Bracing has not come to hand.[^1][I](people/person_939.qmd) am rather hesitant whether [Mr Masson](people/person_980.qmd) has any article on American affairs for the September [number](organizations/other_78.qmd). If he has not I will ask him to see whether yours wd suit him. You know he is the chief who has authority. [^2] I shall be very glad if it does.
+
+In the mean time I tell you that the paper has not reached me. Your letter seemed to imply that you had sent it.
+
+---
+
+[^1]: This letter and certain requests from CMY to Macmillan (see letters dated 12 September 1864 and 14 July 1865) suggest that Julian Yonge was hoping for  literary work.
+[^2]: Masson was editor of *Macmillan’s Magazine*.

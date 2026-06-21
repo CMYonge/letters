@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1875-05-24"
+letter_date: "May 24th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2532
+letter_id: "to-christabel-rose-coleridge-81"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-05-24"
+  url: "https://cmyonge.github.io/letters/2532-to-christabel-rose-coleridge-81"
+---
+
+::: {.letter-metadata}
+**Date:** May 24th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+The 1st of July is the right day, but it is convenient to be beforehand with it, as things get much better read than in the great mass of strangers.[^1]  [Miss Bramston](people/person_198.qmd) has sent a splendid one called the [Isle of Progress](other_books/otherbook_863.qmd), - all about 500 years hence.  [Fanny Awdry](people/person_82.qmd) has done rather a [nice one](other_books/otherbook_864.qmd) of the boy type, and I have a few more but dying is so much the fashion with the Grandmothers that I hope you won’t do it.  What did make your secretary call [Mary Avice Butler](people/person_242.qmd), first Marcus, instead of Mavis and then Maria!!!  I suppose Staddacombe is Miss [Geraldine Butt](people/person_246.qmd) but I have not her address.[^2]  I am rather glad [King](organizations/other_242.qmd) declined you for I don’t like his books in general  Sometimes he has a good one, but in general they are trumpery.  I wish [Miss Helmore](people/person_676.qmd) had not dedicated such an unpleasant book as [Cap & Bells](other_books/otherbook_862.qmd) to CRC[^3]   Why does she write in such a style?  It seems to me that she ought to hear that a lady (not by any means over particular) said ‘She did not think it could be a nice girl who wrote that book’.  Is it fast spirit, or supposing it more profitable?  Pray forgive me for saying this of your cousin but it did vex me to see your initials.  I think you could not have read it when you accepted it
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: This was the deadline for the submission of MSS for the Christmas number of *MP*.
+[^2]: Geraldine Butt and Mary Avice Butler were both members of the [Gosling Society](organizations/other_104.qmd), of which Christabel Coleridge was the administrator.
+[^3]: Coleridge's cousin Margaret Helmore was the author of *Cap and Bells*, whose hero is horrified to discover that he is probably illegitimate, but subsequently turns out to have been changed at birth.

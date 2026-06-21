@@ -1,0 +1,15 @@
+---
+title: "Sir Walter Scott 1st Bt. - Old Mortality"
+book_id: 192
+---
+
+## Publication Information
+
+**Date:** 1816
+
+**Imprint:** in <i>Tales of My Landlord</i> Edinburgh: Blackwood 1816
+
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

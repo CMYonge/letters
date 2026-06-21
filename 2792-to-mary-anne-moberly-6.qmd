@@ -1,0 +1,39 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1884-06-18"
+letter_date: "[late June or early July] 1884."
+location: "Otterbourne,"
+manuscript: "MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 279."
+post_id: 2792
+letter_id: "to-mary-anne-moberly-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-06-18"
+  url: "https://cmyonge.github.io/letters/2792-to-mary-anne-moberly-6"
+---
+
+::: {.letter-metadata}
+**Date:** [late June or early July] 1884.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 279.
+:::
+
+[To [Mary Ann Moberly](people/person_1019.qmd)]
+
+How little I thought when I met dear [Joanna Patteson](people/person_1154.qmd) in your drawing-room that it was the last time I should see her!  [Fanny Patteson](people/person_1151.qmd) had come back, and is sure Joan knew and was thinking for others to the last. . . .   I hope you are profiting by the splendid summer weather.  I never knew a year of sweeter smells:  the sheets of wild honeysuckle are quite amazing . . .
+
+---
+
+**Note:** Joanna Elizabeth Patteson (1818/9-23 June 1884) was the elder half-sister of Fanny Patteson and of [Bishop Patteson](people/person_1155.qmd).

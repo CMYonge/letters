@@ -1,0 +1,18 @@
+---
+title: "Johann August Wilhelm Neander - Light in the Dark Places, or, Memorials of Christian life in the Middle Ages Translated from the German of the late Augustus Neander"
+book_id: 416
+---
+
+## Publication Information
+
+**Date:** 1850
+
+**Imprint:** London: Sampson Low
+
+**Notes:** This was a translation of Neander's <i>Denkwürdigkeiten aus der Geschichte des christlichen Lebens</i> (1823-4)
+
+
+## Letters Mentioning This Work
+
+- [Letter 2059](../2059-from-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-7.qmd)
+

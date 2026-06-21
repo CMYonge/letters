@@ -1,0 +1,42 @@
+---
+title: "To the Reverend Charles Moor"
+letter_iso_date: "1883-10-01"
+letter_date: "Oct 1st 1883"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2779
+letter_id: "to-the-reverend-charles-moor-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Charles Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-10-01"
+  url: "https://cmyonge.github.io/letters/2779-to-the-reverend-charles-moor-2"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 1st 1883  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+Dear [Charles](people/person_1043.qmd),
+
+I think I can let you have a story called Burrs, about choir boys if you like to have it. It will be published as part of a volume called [Langley Adventures](cmy_books/cmybook_163.qmd) about Christmas but you will have the start
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to ‘The Revd/ C Moor/Grimsby/ Lincolnshire’ and postmarked Winchester 1 October 1883.  Charles Moor (b. 1857/8) was the son of the Rev. John Frewen Moor, and was perhaps running a parish magazine.

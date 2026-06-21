@@ -1,0 +1,16 @@
+---
+title: "The Rev. Thomas Clark - The Students' Handbook of Comparative Grammar, applied to the Sanskrit, Zend, Greek, Latin, Gothic, Anglo-Saxon, and English Languages"
+book_id: 552
+---
+
+## Publication Information
+
+**Date:** 1862
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 2322](../2322-to-arthur-john-butler-3.qmd)
+- [Letter 2326](../2326-to-arthur-john-butler.qmd)
+

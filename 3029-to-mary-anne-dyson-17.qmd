@@ -1,0 +1,41 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1854-02-25"
+letter_date: "February 25, 1854."
+location: "Otterbourne,"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 194-195"
+post_id: 3029
+letter_id: "to-mary-anne-dyson-17"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-25"
+  url: "https://cmyonge.github.io/letters/3029-to-mary-anne-dyson-17"
+---
+
+::: {.letter-metadata}
+**Date:** February 25, 1854.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 194-195
+:::
+
+My dear [Marianne](people/person_464.qmd)
+Your letter was the pleasure of sympathy that I knew it would be. We have been going on what seems a long time, with a great deal of severe pain in the head, which gets better late in the afternoon, then [he](people/person_1631.qmd) sits up, overtires himself, and makes it worse again. Yesterday [mamma](people/person_1606.qmd) had one of her worst varieties of headache, as might have been expected, but it mended in the middle of the day, especially as [Mrs. Keble](people/person_795.qmd) came and sat three hours with us, which refreshed her much, and she was able to attend the cupping in the afternoon. We are feeding ourselves with a dim hope of [Uncle James](people/person_1614.qmd) coming, though I don't know whether it is a reasonable one. However, he is really better, but it is more of an illness than I believe I expected the day before yesterday. To-day he is more restless and anxious than yesterday when the oppression was greater, and this is certainly a good sign, though more visibly distressing. I do not think he had come to the full perception of the extent of the attack till this morning, and [Mr. Lyford](people/person_911.qmd) says people always do get anxious about themselves in this sort of case as they mend, and his being so much of a doctor adds to it, as it makes him watch his pulse and devise remedies. However, it is better than yesterday, when we could not prevent him from writing to Uncle James, about the worst thing he could attempt, and which, I do believe, brought back the pain in the head to that terrible degree. I wrote this in the morning, and now at five he is rather better, though still exceedingly uncomfortable, but the perspiration much desired has come at last and relieved the pain. I believe it is all right. This slow nursing is more like reality to me than the night itself was. I am glad [Bessie](people/person_358.qmd) has come provided; [Olive](people/person_1749.qmd) gets pence for carrying out letters, so it is an amiable attention I should not wish to disturb.[^1] I am glad you are rid of Emily. Pray tell us all the news. We are in a state when letter news does better than anything else, but I cannot answer news or kindness in full now as the post summons is come. Mrs. Keble has been here with [Lady Heathcote](people/person_665.qmd). The [Isaac Williamses](people/person_1523.qmd), with three boys, are at Hursley; it is so kind of her to come as she has done, and we have had such a kind note from [the Warden](people/person_118.qmd). I am glad [Old Slave](people/person_1061.qmd) should think of me. Perhaps I may write on Sunday, for, of course, school will not be practicable.
+
+Your most affectionate
+C.M.Y.
+
+---
+
+[^1]: Bessie Collins (who was one of Mary Anne Dyson's pupils) and her elder sister Olive were the daughters of [Martha Collins](people/person_360.qmd) who kept the Post Office in Otterbourne.

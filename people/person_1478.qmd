@@ -1,0 +1,13 @@
+---
+title: "A M. Wattus?"
+person_id: 1478
+---
+
+## Biographical Information
+
+correspondent 1880
+
+## Letters Mentioning This Person
+
+- [Letter 2716](../2716-to-a-m-wattus.qmd)
+

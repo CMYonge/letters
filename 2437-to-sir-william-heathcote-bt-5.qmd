@@ -1,0 +1,47 @@
+---
+title: "To Sir William Heathcote, Bt."
+letter_iso_date: "1872-01-30"
+letter_date: "Jan 30th 1872"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS Girton College Cambridge, Yonge  I 1. Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 301."
+post_id: 2437
+letter_id: "to-sir-william-heathcote-bt-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir William Heathcote, Bt."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-01-30"
+  url: "https://cmyonge.github.io/letters/2437-to-sir-william-heathcote-bt-5"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 30th 1872  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS Girton College Cambridge, Yonge  I 1. Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 301.
+:::
+
+My dear [Sir William](people/person_669.qmd),
+Many warm thanks for sending me [Mr Austen Leigh](people/person_78.qmd)’s kind comment on the [Daisies](cmy_books/cmybook_24.qmd). I believe I enjoyed them most, which is the best way to make a thing prosper. I am afraid the moral is not good but I have always found that what one likes best one does best.  As to the crayfish, I did not know that they were so local, having always associated them with rivers and they do not proclaim their presence like nightingales. But the criticism has come happily in time to expel these same crayfish from a feast given by Felix Underwood after he came into his property which was in the same neighbourhood.[^1]  Altogether it is such a story of young people and chatter that it always especially amazes and pleases me when such judges care for it.
+
+Some day next week I hope to drive over and see if I can find you at 5 o’clock tea. I have been wanting to come for some little time, but opportunity was wanting.
+
+The Pillars of the House are written to the end - by which I do not by any means mean finished, but they will not be all out in the [Monthly Packet](organizations/other_52.qmd) till the end of 1873, at which time I suppose they will be published so all corrections and annotations before that time will be most thankfully received.
+
+[Mr Faithfull](people/person_497.qmd) has sent round his papers to ask for subscriptions to his poems
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: The novel she was currently working on was *The Pillars of the House*.

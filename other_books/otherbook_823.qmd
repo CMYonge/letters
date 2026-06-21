@@ -1,0 +1,15 @@
+---
+title: "The Rev. Isaac Williams - Hymns translated from the Parisian Breviary"
+book_id: 823
+---
+
+## Publication Information
+
+**Date:** 1839
+
+**Imprint:** London: Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
+

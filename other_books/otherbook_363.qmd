@@ -1,0 +1,15 @@
+---
+title: "G. H. Townsend (editor) - Men of the Time: A Dictionary of Contemporaries, containing Biographical Notices of Eminent Characters of both Sexes 7th edition"
+book_id: 363
+---
+
+## Publication Information
+
+**Date:** 1868
+
+**Imprint:** London: Routledge
+
+## Letters Mentioning This Work
+
+- [Letter 1948](../1948-to-the-editors-of-a-biographical-dictionary.qmd)
+

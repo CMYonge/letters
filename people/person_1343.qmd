@@ -1,0 +1,16 @@
+---
+title: "Goldwin Smith"
+person_id: 1343
+---
+
+## Biographical Information
+
+(1823-1910)
+
+regius professor of modern history at Oxford University 1858-65
+
+## Letters Mentioning This Person
+
+- [Letter 2101](../2101-to-alexander-macmillan-70.qmd)
+- [Letter 2103](../2103-to-alexander-macmillan-71.qmd)
+

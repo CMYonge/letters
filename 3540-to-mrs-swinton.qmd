@@ -1,0 +1,38 @@
+---
+title: "To Mrs Swinton"
+letter_iso_date: "1875-06-22"
+letter_date: "June 22 [after 1875]"
+location: "Elderfield"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3540
+letter_id: "to-mrs-swinton"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Swinton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-06-22"
+  url: "https://cmyonge.github.io/letters/3540-to-mrs-swinton"
+---
+
+::: {.letter-metadata}
+**Date:** June 22 [after 1875]  
+**From:** Elderfield  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Mrs Swinton](people/person_1388.qmd)
+
+Thank you for your kind card. I hope to appear in the afternoon, but it can hardly be till late as unluckily there is a [G F S](organizations/other_23.qmd) working committee at 1.30 on the 3d of July but I must get away from it as soon as I can
+
+Yours sincerely
+C M Yonge

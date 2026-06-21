@@ -1,0 +1,41 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1867-12-04"
+letter_date: "Decr 4th 1867"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 194"
+post_id: 2222
+letter_id: "to-george-lillie-craik-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-12-04"
+  url: "https://cmyonge.github.io/letters/2222-to-george-lillie-craik-4"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 4th 1867  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 194
+:::
+
+Dear [Mr Craik](people/person_379.qmd),
+I hope this letter is a sufficient acknowledgement of the [£25](organizations/other_160.qmd), as I have no receipt stamp at hand and this village does not provide such articles, and as they must not be bought of the unprivileged[^1] I cannot beg or borrow too often from our worthy [neighbours](people/person_360.qmd) at the shop
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Unprivileged: Those without a license to sell.

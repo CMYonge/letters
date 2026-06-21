@@ -1,0 +1,15 @@
+---
+title: "Robert Southey - The Curse of Kehama"
+book_id: 220
+---
+
+## Publication Information
+
+**Date:** 1810
+
+**Imprint:** London: Longman, Hurst, Rees, Orme and Brown
+
+## Letters Mentioning This Work
+
+- [Letter 2968](../2968-to-mary-anne-dyson-8.qmd)
+

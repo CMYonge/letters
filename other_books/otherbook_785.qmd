@@ -1,0 +1,15 @@
+---
+title: "Augustus Hare - The Story of my Life"
+book_id: 785
+---
+
+## Publication Information
+
+**Date:** 1896-1900.
+
+**Imprint:** London: George Allen
+
+## Letters Mentioning This Work
+
+- [Letter 3481](../3481-to-charlotte-fortescue-yonge.qmd)
+

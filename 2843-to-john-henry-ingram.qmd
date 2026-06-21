@@ -1,0 +1,48 @@
+---
+title: "To John Henry Ingram"
+letter_iso_date: "1886-10-19"
+letter_date: "Oct 19th 1886"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2843
+letter_id: "to-john-henry-ingram"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Henry Ingram"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-10-19"
+  url: "https://cmyonge.github.io/letters/2843-to-john-henry-ingram"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 19th 1886  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Sir](people/person_743.qmd)[^1]
+
+I am very sorry if I did not answer your letter, and acknowledge the little book, I fully thought that I had done so.
+
+I have gone quite half way in the [Life of Hannah More](cmy_books/cmybook_199.qmd). If the requisite number of pages be not attained, I can easily shorten or lengthen the account of her works, but I think the length will be right.
+
+I have the [Mendip annals](other_books/otherbook_1019.qmd) - i.e. Patty More’s Journal, which I find very useful
+
+Yours truly
+C M Yonge		
+
+I think I shall be able to send you the whole MS in less than a month
+
+---
+
+[^1]: John Henry Ingram (1842-1916) was editor of the ‘Eminent Women’ series for which CMY wrote *Hannah More*.

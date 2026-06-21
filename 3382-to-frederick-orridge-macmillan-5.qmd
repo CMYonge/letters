@@ -1,0 +1,39 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1898-09-28"
+letter_date: "Sept 28th 1898"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 247-8"
+post_id: 3382
+letter_id: "to-frederick-orridge-macmillan-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-09-28"
+  url: "https://cmyonge.github.io/letters/3382-to-frederick-orridge-macmillan-5"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 28th 1898  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 247-8
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+Many thanks for your [cheque](organizations/other_160.qmd) which was an agreeable surprise to me. I hope the experiment of cheapness will be successful.
+
+The great day at Hursley is to be the 24th October so if we could have a few of the presentation copies of [John Keble’s parishes](cmy_books/cmybook_247.qmd), it would be a great boon  
+
+Yours sincerely
+C M Yonge

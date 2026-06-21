@@ -1,0 +1,42 @@
+---
+title: "To Walter Smith"
+letter_iso_date: "1888-02-25"
+letter_date: "Feb 25th 1888"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge V 3"
+post_id: 2875
+letter_id: "to-walter-smith"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Walter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-02-25"
+  url: "https://cmyonge.github.io/letters/2875-to-walter-smith"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 25th 1888  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge V 3
+:::
+
+Dear [Mr Smith](people/person_1344.qmd)
+
+Here is the [receipt](organizations/other_160.qmd) with many thanks. I ought to have returned Madge Wylie sooner. If of the right length, it would be a grand thing to have a Greek story for the [Christmas number](organizations/other_52.qmd) it would be so much out of the ordinary beat.[^1]  I have three or four come in already, not at all bad ones - but I hope they may still be excelled
+
+Yours sincerely 
+C M Yonge
+
+---
+
+[^1]: 'Madge Wylie' is not identified and the Greek story does not seem to have appeared in the Christmas 1888 number of *MP*.

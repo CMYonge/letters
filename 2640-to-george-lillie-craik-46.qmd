@@ -1,0 +1,46 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-09-19"
+letter_date: "Sept 19th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 68-69"
+post_id: 2640
+letter_id: "to-george-lillie-craik-46"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-09-19"
+  url: "https://cmyonge.github.io/letters/2640-to-george-lillie-craik-46"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 19th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 68-69
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Thank you first for your answer about magazine rights. I am going to try the paper a little longer.[^1]
+
+Next thanks for [the account](organizations/other_160.qmd). I am very glad to know what I  have to look to. I suppose scarcity of money tells more on the sale of books than anything else, but all things considered this is very good for the year 1878.
+
+If I find that I want £100 or £150 in advance about Christmas, I dare say you will be kind enough to let me have it
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: She had asked him whether, having accepted a series of articles, she was obliged to go on publishing them regardless of quality.

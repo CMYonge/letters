@@ -1,0 +1,51 @@
+---
+title: "To Harriet Dyke Acland Troyte?"
+letter_iso_date: "1862-03-05"
+letter_date: "March 5th [1862]"
+location: "Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 1856
+letter_id: "to-harriet-dyke-acland-troyte"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harriet Dyke Acland Troyte?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-03-05"
+  url: "https://cmyonge.github.io/letters/1856-to-harriet-dyke-acland-troyte"
+---
+
+::: {.letter-metadata}
+**Date:** March 5th [1862]  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Dear [Miss Troyte](people/person_1775.qmd)[^1],
+
+Many thanks for your kind order and pleasant letter. I hope the [Heartsease leaves](cmy_books/cmybook_45.qmd)[^2] may help off some of the still remaining £120 which must be raised before [the bells](organizations/other_103.qmd)[^3] can be ordered. [Lady Lucy Herbert](people/person_679.qmd) has worked hard for them for seven years, literally worked, for she and [her sister](people/person_680.qmd) have drawn and sold their drawings for them.[^4] I believe the delight they will feel will be very great, and [Mrs Selwyn](people/person_1297.qmd) says the promise of the bells will quickly produce a Tower to hang them in.
+
+I ventured on printing 500 Heartsease leaves and have disposed of nearly 200, but further orders will be very welcome. I do indeed seem not many degrees from knowing you, besides the links you mention, having heard of you at Ottery last year, and having to thank you or one of your sisters for copying out a poem of [Faber](people/person_1859.qmd)s for me
+
+yours sincerely
+
+C M Yonge
+
+I did not thank for the stamps
+
+---
+
+[^1]: The letter seems to relate to that of 26 May 1857 (Manchester Central Library) which is in a collection formed by Harriet (Acland Troyte) Griffith.
+[^2]: The year has been added in another hand.
+[^3]: *Last Heartsease Leaves*, which gave information about the subsequent lives of characters from *Heartsease*, was written and printed for sale to raise funds for the Auckland bells (see note below). See also letter to G.L. Craik, 5 September 1865. The text of LHL is reproduced in Georgina Battiscombe and Marghanita Laski (eds.), *A Chaplet for Charlotte Yonge*. London: Cresset Press, 1965.
+[^4]: The April 1857 issue of the *MP* had sent with it a pamphlet headed “Church Bells in New Zealand (An extract from a letter)” in which it was proposed to collect £800 to buy a peal of church bells for the future cathedral in Auckland. The “letter” argued that the sound of bells would remind settlers of home and of their Sunday obligations. Thereafter readers sent contributions mostly in the form of stamps to CMY, who passed them on to the fund organisers. The full sum was ultimately raised and the bells arrived in Auckland in April 1863. They were first hung in a wooden building attached to Bishop Selwyn’s Auckland house, and are now in the Church of St Mathew’s in the City where they are rung every Sunday.
+[^5]: Lady Lucy and Lady Hariot [or Harriet] Herbert were sisters of the second Earl of Powis. Bishop Selwyn of New Zealand had been tutor to the Herbert brothers when they were at Eton in the early 1830s.

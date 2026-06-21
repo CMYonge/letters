@@ -1,0 +1,15 @@
+---
+title: "Samuel Arrowsmith - The Bible Atlas"
+book_id: 559
+---
+
+## Publication Information
+
+**Date:** 1835
+
+**Imprint:** London: Arrowsmith
+
+## Letters Mentioning This Work
+
+- [Letter 2356](../2356-to-louisa-anne-gibbs.qmd)
+

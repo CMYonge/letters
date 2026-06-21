@@ -1,0 +1,39 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1859-09-18"
+letter_date: "September1859]"
+location: "[Otterbourne]"
+manuscript: "MS location unknown.  This fragment printed in Romanes, <i>Appreciation</i>, 88-9."
+post_id: 3135
+letter_id: "to-elizabeth-barnett-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-09-18"
+  url: "https://cmyonge.github.io/letters/3135-to-elizabeth-barnett-9"
+---
+
+::: {.letter-metadata}
+**Date:** September1859]  
+**From:** [Otterbourne]  
+**Manuscript:** MS location unknown.  This fragment printed in Romanes, <i>Appreciation</i>, 88-9.
+:::
+
+[To [Elizabeth Barnett](people/person_113.qmd) 
+
+That visit was on the whole so delicious, and leaves such a sunny impression on my mind, that it is strange to remember the spots of yearning recollection and the great pang of going away.  Not that I was not glad to get back . . .but when one looked back to the last time of parting in the full hope of being together the next year, and remembered that nine such years passed before the next visit, and that it was with two such gaps, one's heart could not but sink.  But it was a happy time and a reassuring one, for I set out with a sense that 'winds had rent my sheltering bowers,' knowing that my [uncle](people/person_1623.qmd) had had a good deal of illness[^1] . . . but when I got [there](organizations/other_123.qmd) it was so like old times, and Uncle Yonge so bright and well and exactly like his old self, that it was quite a happy surprise, and, whatever happens, the recollection of that visit will have been a gain.
+
+---
+
+[^1]: John Keble, *The Christian Year*, ‘Eleventh Sunday after Trinity’, 21-4: ‘If long and sad thy lonely hours, / And winds have rent thy sheltering bowers, / Bethink thee what thou art and where,/  A sinner in a life of care.’

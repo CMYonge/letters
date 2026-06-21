@@ -1,0 +1,17 @@
+---
+title: "Eusèbe Salverte - History of the Names of Men, Nations, and Places in their Connection with the Progress of Civilisation tr. L. H. Mordacque"
+book_id: 367
+---
+
+## Publication Information
+
+**Date:** 1862-1864
+
+**Imprint:** London: J.R.Smith
+
+**Notes:** It was noticed in <i>MP</i> (November 1864).
+
+## Letters Mentioning This Work
+
+- [Letter 1968](../1968-to-caroline-birley.qmd)
+

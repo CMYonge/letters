@@ -1,0 +1,31 @@
+---
+title: "'Biographies of Eminent Anglicans'"
+book_id: 358
+sort_title: "'Biographies of Eminent Anglicans'"
+---
+
+## Publication Information
+
+**Date:** 1890s
+
+**Genre:** Non-fiction, biography
+
+**Notes:** CMY contributed to a series of short biographies of Anglican saints at the behest of the Rev. [J. F. W. Bullock](../people/person_221.qmd), Rector of Radwinter.   In 1902 he finally published the first three volumes of a projected six volume work called <i>Daily Lections for every Morning and Evening throughout the Year</i> (London: Rivington 1902).  Volume V of this work, described in his preface, was to have consisted of 'Lections on Anglican Worthies, arranged as additional Readings for Sunday'.  These 'Biographies of Eminent Anglicans' exist in MS and are catalogued under that name among the Bullock papers in the Bodleian Library, Oxford, but were never published, since no more of the <i>Daily Lections</i> ever appeared.
+
+## Letters Mentioning This Work
+
+- [Letter 3245](../3245-to-the-reverend-john-frederick-watkinson-bullock-2.qmd)
+- [Letter 3246](../3246-to-the-reverend-john-frederick-watkinson-bullock-9.qmd)
+- [Letter 3248](../3248-to-the-reverend-john-frederick-watkinson-bullock-10.qmd)
+- [Letter 3249](../3249-to-the-reverend-john-frederick-watkinson-bullock-15.qmd)
+- [Letter 3251](../3251-to-the-reverend-john-frederick-watkinson-bullock-13.qmd)
+- [Letter 3252](../3252-to-the-reverend-john-frederick-watkinson-bullock-17.qmd)
+- [Letter 3253](../3253-to-the-reverend-john-frederick-watkinson-bullock-19.qmd)
+- [Letter 3254](../3254-to-the-reverend-john-frederick-watkinson-bullock-18.qmd)
+- [Letter 3261](../3261-to-the-reverend-john-frederick-watkinson-bullock-16.qmd)
+- [Letter 3264](../3264-to-the-reverend-john-frederick-watkinson-bullock-25.qmd)
+- [Letter 3274](../3274-to-the-reverend-john-frederick-watkinson-bullock-21.qmd)
+- [Letter 3275](../3275-to-the-reverend-john-frederick-watkinson-bullock-14.qmd)
+- [Letter 3280](../3280-to-the-reverend-john-frederick-watkinson-bullock-5.qmd)
+- [Letter 3286](../3286-to-the-reverend-john-frederick-watkinson-bullock-4.qmd)
+

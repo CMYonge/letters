@@ -1,0 +1,16 @@
+---
+title: "Samuel Richardson - The History of Sir Charles Grandison, in a series of letters published from the originals By the editor of Pamela and Clarissa"
+book_id: 362
+---
+
+## Publication Information
+
+**Date:** 1753-1754
+
+**Imprint:** London: Richardson
+
+## Letters Mentioning This Work
+
+- [Letter 1946](../1946-to-ann-maria-carter-smith-68.qmd)
+- [Letter 3436](../3436-to-miss-e-m-walker-3.qmd)
+

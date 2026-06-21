@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1887-11-28"
+letter_date: "Novr 28th [after 1887]"
+location: "Elderfield"
+manuscript: "MS Harry Ransom Humanities Resource Center, University of Texas at Austin"
+post_id: 3603
+letter_id: "to-an-unknown-woman-48"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-11-28"
+  url: "https://cmyonge.github.io/letters/3603-to-an-unknown-woman-48"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 28th [after 1887]  
+**From:** Elderfield  
+**Manuscript:** MS Harry Ransom Humanities Resource Center, University of Texas at Austin
+:::
+
+Dear Madam
+
+Perhaps the book is out of print – My own private copy of ‘[What to Read](cmy_books/cmybook_196.qmd)’ is one in sheets, the extras having been given away – so that [RTS](organizations/other_35.qmd) may have been taken out later. I have not the Half Hours still, I must have given them away or lent them, and so I cannot refer to them for the publisher[^1]
+
+Yours truly,
+C M Yonge
+
+---
+
+[^1]: It is not at all clear what book is referred to here, and CMY herself does not seem to have published a book of this name.  However, a book did appear called *Sunny Half-Hours: pleasant tales at pleasant times. By Aunt Charlotte* (London: Dean 1876).

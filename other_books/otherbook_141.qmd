@@ -1,0 +1,17 @@
+---
+title: "Sir Walter Scott 1st Bt. - The Lay of the Last Minstrel: A Poem"
+book_id: 141
+---
+
+## Publication Information
+
+**Date:** 1805
+
+**Imprint:** London and Edinburgh: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 2080](../2080-to-alexander-macmillan-61.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

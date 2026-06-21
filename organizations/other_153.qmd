@@ -1,0 +1,20 @@
+---
+title: "Longman"
+other_id: 153
+---
+
+**Type:** organization
+
+## Description
+
+publisher
+
+## Letters Mentioning This
+
+- [Letter 1906](../1906-alexander-macmillan-to-charlotte-mary-yonge-2.qmd)
+- [Letter 1907](../1907-to-alexander-macmillan-3.qmd)
+- [Letter 1913](../1913-to-alexander-macmillan-4.qmd)
+- [Letter 1914](../1914-to-alexander-macmillan-5.qmd)
+- [Letter 1926](../1926-to-alexander-macmillan-8.qmd)
+- [Letter 1927](../1927-alexander-macmillan-to-charlotte-mary-yonge-6.qmd)
+

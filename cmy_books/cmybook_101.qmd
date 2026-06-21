@@ -1,0 +1,21 @@
+---
+title: "Aunt Charlotte’s Stories of English History for the Little Ones."
+book_id: 101
+sort_title: "Aunt Charlotte’s Stories of English History for the Little Ones."
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Genre:** Non-fiction: history
+
+**Publisher:** Marcus Ward & Co., Chandos St, W.C. London; and Royal Ulster Works, Belfast.
+
+## Letters Mentioning This Work
+
+- [Letter 2455](../2455-to-edward-augustus-freeman-4.qmd)
+- [Letter 2488](../2488-to-arthur-john-butler-13.qmd)
+- [Letter 2497](../2497-to-edward-augustus-freeman-8.qmd)
+- [Letter 3480](../3480-to-christabel-rose-coleridge-59.qmd)
+

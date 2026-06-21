@@ -1,0 +1,52 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1890-06-06"
+letter_date: "June 6th 1890"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 21"
+post_id: 3158
+letter_id: "to-arthur-donald-innes-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-06-06"
+  url: "https://cmyonge.github.io/letters/3158-to-arthur-donald-innes-2"
+---
+
+::: {.letter-metadata}
+**Date:** June 6th 1890  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 21
+:::
+
+Dear [Mr Innes](people/person_744.qmd),
+[Miss Gaye](people/person_552.qmd) wants to have her M S back that she may know what to do with it.
+
+I believe you know [Miss Cheape](people/person_289.qmd)’s address, if she is not at St Andrews, would you get a proof of [Christian](other_books/otherbook_595.qmd) sent to her - I sent up two chapters, but I think I can only put one in. 
+
+[Miss Tanner](people/person_1395.qmd). I think you had better send to the care of 
+
+[Mrs Sidney Lear](people/person_859.qmd)
+the Close Salisbury
+
+I do not know who wrote [Tokens](other_books/otherbook_593.qmd) - 
+
+I suppose I told you that the [Grey Woman](other_books/otherbook_594.qmd), in the Christmas number is by Miss Benson the [Archbishop](people/person_140.qmd)’s daughter[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: ‘The Grey Woman’ is a harrowing tale signed ‘A.E.D.’, which appeared in the *MP* Christmas number (1889).  Two letters in the Bodleian Library to [Margaret Benson](people/person_1858.qmd) suggest she was a contributor, though neither seems to refer to this story directly.

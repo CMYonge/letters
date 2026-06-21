@@ -1,0 +1,45 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1870-04-14"
+letter_date: "April 14 1870"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS Yale University, Beinecke Library"
+post_id: 19342
+letter_id: "to-an-unknown-woman"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-04-14"
+  url: "https://cmyonge.github.io/letters/19342-to-an-unknown-woman"
+---
+
+::: {.letter-metadata}
+**Date:** April 14 1870  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS Yale University, Beinecke Library
+:::
+
+My dear Madam
+
+I am afraid that I cannot vote for your protegé as I have promised my vote to a boy some relations are interested in.
+
+In all Sir Walter Scott’s works the royal family of Scotland are spelt Stewart, and I was assured by a Scotch lady that Stuart was only a modern variety adopted in France
+
+yours truly
+
+C M Yonge
+
+&nbsp;
+
+&nbsp;

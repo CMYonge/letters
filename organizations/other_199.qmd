@@ -1,0 +1,11 @@
+---
+title: "Fraser's Magazine"
+other_id: 199
+---
+
+**Type:** periodical
+
+## Letters Mentioning This
+
+- [Letter 10615](../10615-to-john-william-parker-jr.qmd)
+

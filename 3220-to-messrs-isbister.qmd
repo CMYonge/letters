@@ -1,0 +1,46 @@
+---
+title: "To Messrs Isbister and Co."
+letter_iso_date: "1893-05-09"
+letter_date: "May 9th 1893"
+location: "Clovelly, Belgian Crescent Torquay"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3220
+letter_id: "to-messrs-isbister"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Isbister and Co."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-05-09"
+  url: "https://cmyonge.github.io/letters/3220-to-messrs-isbister"
+---
+
+::: {.letter-metadata}
+**Date:** May 9th 1893  
+**From:** Clovelly, Belgian Crescent Torquay  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+[Gentlemen](organizations/other_223.qmd)
+
+The [Bishop of Winchester](people/person_1280.qmd)has given his permission - subject to yours - for the Readings on the Training of Children used in the [Good Words](organizations/other_73.qmd) for 1891 in one number, to appear in [Mothers in Council](organizations/other_82.qmd) (Wells Gardiner)[^1] Have I your permission so to use them 
+
+I remain
+Yours &c
+C.M. Yonge
+
+Editor of Mothers in Council
+
+---
+
+[^1]: The Rt. Rev. Anthony Wilson Thorold (1825–1895) was bishop of Winchester 1890-1895.
+[^2]: Isbister published *Good Words*.

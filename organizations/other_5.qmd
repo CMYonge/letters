@@ -1,0 +1,20 @@
+---
+title: "Keble College, Oxford"
+other_id: 5
+---
+
+**Type:** organization
+
+## Description
+
+A college at Oxford opened in Keble’s memory, with the idea of widening and cheapening access to Oxford University, and bringing up a new generation of High Church clergymen.  CMY attended the opening ceremony of its new buildings in 1876.  For the college’s early and subsequent history see http://www.keble.ox.ac.uk/about/past/
+
+## Letters Mentioning This
+
+- [Letter 2296](../2296-to-anne-elizabeth-mary-anderson-morshead-2.qmd)
+- [Letter 2391](../2391-to-susanna-warren-7.qmd)
+- [Letter 2472](../2472-to-gertrude-louisa-legrand-jacob-3.qmd)
+- [Letter 2543](../2543-to-augusta-boevey-pode-4.qmd)
+- [Letter 2550](../2550-to-mary-yonge-41.qmd)
+- [Letter 3265](../3265-to-ethel-romanes-2.qmd)
+

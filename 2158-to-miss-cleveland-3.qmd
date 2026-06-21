@@ -1,0 +1,46 @@
+---
+title: "To Eliza Callahan Cleveland"
+letter_iso_date: "1867-03-27"
+letter_date: "March 27th 1867"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2158
+letter_id: "to-miss-cleveland-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Eliza Callahan Cleveland"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-03-27"
+  url: "https://cmyonge.github.io/letters/2158-to-miss-cleveland-3"
+---
+
+::: {.letter-metadata}
+**Date:** March 27th 1867  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Cleveland](people/person_307.qmd),	
+I am greatly obliged by your kind notes, and the books which give a very sad and interesting picture. I have read about half through the first volume, and have been greatly interested by many of the lives.
+
+Thanks too for the permission to use those sketches of the good works done among the negroes for [Mission Life](organizations/other_80.qmd), it is a very good magazine, edited by the Reverend [J.W. Halcombe](people/person_604.qmd), and published by Rivington, and it would be a very good thing to make it known in America. Any more particulars you could send for it would be most gratefully accepted for it does not confine itself to the work of our [Society for the Propagation of the Gospel](organizations/other_41.qmd), but goes into the history of older Missions biographies of Missionaries and the like
+
+With many thanks
+Yours sincerely
+C M Yonge
+
+Many, many thanks to Mrs Robbins.[^1] I read those reports with great respect and enjoyment.
+
+---
+
+[^1]: Unidentified, but possibly the children’s writer [Sarah Cook (Stuart) Robbins](people/person_1983.qmd) (1817-1910).

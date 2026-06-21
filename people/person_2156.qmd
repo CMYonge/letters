@@ -1,0 +1,17 @@
+---
+title: "Henry Rider Haggard"
+person_id: 2156
+---
+
+## Biographical Information
+
+(1856-1925)
+
+novelist, author of <i>King Solomon's Mines</i>
+
+He was knighted in 1912.
+
+## Letters Mentioning This Person
+
+- [Letter 3326](../3326-henry-rider-haggard-to-charlotte-mary-yonge.qmd)
+

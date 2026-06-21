@@ -1,0 +1,16 @@
+---
+title: "Dante Alighieri - La Divina Commedia"
+book_id: 246
+---
+
+## Publication Information
+
+**Date:** (wr.<i>c.</i>1320, pub. 1472)
+
+## Letters Mentioning This Work
+
+- [Letter 2155](../2155-to-edith-sophia-jacob-4.qmd)
+- [Letter 2161](../2161-to-edith-sophia-jacob-5.qmd)
+- [Letter 3060](../3060-to-anne-yonge-32.qmd)
+- [Letter 3064](../3064-to-anne-yonge-36.qmd)
+

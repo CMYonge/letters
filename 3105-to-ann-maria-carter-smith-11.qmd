@@ -1,0 +1,44 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1857-07-28"
+letter_date: "July 28 1857"
+location: "Otterbourne Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1857/2"
+post_id: 3105
+letter_id: "to-ann-maria-carter-smith-11"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1857-07-28"
+  url: "https://cmyonge.github.io/letters/3105-to-ann-maria-carter-smith-11"
+---
+
+::: {.letter-metadata}
+**Date:** July 28 1857  
+**From:** Otterbourne Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/2
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+I should have been glad to accept your ‘Manchester Visit’, but it has been forestalled as you will [see](organizations/other_52.qmd) on the first of August.
+
+I have put out [your princesses](other_books/otherbook_262.qmd) for October but I do not feel sure how the space will be[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to Miss Anne Smith/ Stepney Rectory/ London and postmarked Winchester 29 July and on reverse 30 July 1857.
+[^2]: ‘A Glimpse into a Royal Home Seventy Years Ago’ *MP* 14 (November 1857) 470-96.

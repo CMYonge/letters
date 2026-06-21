@@ -1,0 +1,18 @@
+---
+title: "L.M. Budgen - Episodes of Insect Life"
+book_id: 23
+---
+
+## Publication Information
+
+**Date:** 1849-51
+
+**Imprint:** London: Reeve
+
+**Notes:** This work appeared under the pseudonym 'Acheta Domestica'.
+
+## Letters Mentioning This Work
+
+- [Letter 2987](../2987-to-anne-yonge-26.qmd)
+- [Letter 3052](../3052-to-jemima-blackburn-5.qmd)
+

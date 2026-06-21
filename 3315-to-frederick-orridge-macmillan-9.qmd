@@ -1,0 +1,39 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1896-02-24"
+letter_date: "Febry 24th 1896"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 221"
+post_id: 3315
+letter_id: "to-frederick-orridge-macmillan-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-02-24"
+  url: "https://cmyonge.github.io/letters/3315-to-frederick-orridge-macmillan-9"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 24th 1896  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 221
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+Some years ago [Mr Craik](people/person_379.qmd) wrote to me that the sale of the [Cameos of English History](cmy_books/cmybook_73.qmd) had so fallen off that it was not worth while to give me £100 for the copyright of the volume after it had appeared in the[Monthly Packet](organizations/other_52.qmd), and I therefore discontinued  thinking of the separate publication. I think the volumes ended with the [Restoration](cmy_books/cmybook_213.qmd)
+
+Since that, and especially lately, so many people have asked for the volumes to be continued that I venture to ask whether you would go on with them, giving me a smaller sum for the copyright
+
+Yours truly
+C M Yonge

@@ -1,0 +1,18 @@
+---
+title: "Bertrand Du Guesclin - Histoire de Messire Bertrand Du Guesclin Connestable de France"
+book_id: 861
+---
+
+## Publication Information
+
+**Date:** 1618
+
+**Imprint:** Paris: Cramoisy
+
+**Notes:** 
+
+
+## Letters Mentioning This Work
+
+- [Letter 2530](../2530-to-isabel-mary-warburton.qmd)
+

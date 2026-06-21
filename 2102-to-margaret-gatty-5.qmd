@@ -1,0 +1,37 @@
+---
+title: "To Margaret Gatty"
+letter_iso_date: "1866-00-00"
+letter_date: "[“early” 1866]"
+manuscript: "MS location unknown. This fragment printed in Christabel Maxwell, <i>[Mrs. Gatty and Mrs. Ewing](other_books/otherbook_306.qmd)</i>, (1949) 144."
+post_id: 2102
+letter_id: "to-margaret-gatty-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Gatty"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-00-00"
+  url: "https://cmyonge.github.io/letters/2102-to-margaret-gatty-5"
+---
+
+::: {.letter-metadata}
+**Date:** [“early” 1866]  
+**Manuscript:** MS location unknown. This fragment printed in Christabel Maxwell, <i>[Mrs. Gatty and Mrs. Ewing](other_books/otherbook_306.qmd)</i>, (1949) 144.
+:::
+
+[To [Margaret Gatty](people/person_549.qmd)]
+
+Pray tell [Juliana](people/person_494.qmd) that I have been told of a master at Rugby who was so fascinated with [The Brownies](other_books/otherbook_448.qmd) that he ordered all the 30 old volumes of the [magazine](organizations/other_52.qmd) for his house!
+
+---
+
+**Note:** ‘The Brownies’ had appeared in the *MP* (December 1865). Maxwell writes: 'Early in 1866 there was a letter from Miss Yonge to say that it [the Brownies] had evoked a perfect chorus of approval and in her opinion it had been the most successful that they had had in the *Monthly Packet* for a long time.' This letter was sent “shortly afterwards”.

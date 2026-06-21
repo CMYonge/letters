@@ -1,0 +1,13 @@
+---
+title: "Mrs Laurie"
+person_id: 847
+---
+
+## Biographical Information
+
+author of 'Life among the Factories' in <i>MP</i> (1860), which is signed 'K. L.
+
+## Letters Mentioning This Person
+
+- [Letter 1823](../1823-to-ann-maria-carter-smith-43.qmd)
+

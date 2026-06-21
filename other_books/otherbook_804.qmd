@@ -1,0 +1,17 @@
+---
+title: "Christopher Wordsworth - The Holy Bible with notes and Introductions"
+book_id: 804
+---
+
+## Publication Information
+
+**Date:** 1869-1871
+
+**Imprint:** London: Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 2415](../2415-to-elizabeth-wordsworth-4.qmd)
+- [Letter 2721](../2721-to-catharine-elgie-7.qmd)
+- [Letter 2911](../2911-to-the-very-reverend-william-john-butler.qmd)
+

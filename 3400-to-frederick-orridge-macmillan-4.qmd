@@ -1,0 +1,37 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1899-03-17"
+letter_date: "March 17 1899"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add 54921: 253"
+post_id: 3400
+letter_id: "to-frederick-orridge-macmillan-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-03-17"
+  url: "https://cmyonge.github.io/letters/3400-to-frederick-orridge-macmillan-4"
+---
+
+::: {.letter-metadata}
+**Date:** March 17 1899  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add 54921: 253
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I am glad you see your way to publishing these books on the half profit system I send the [Two Guardians](cmy_books/cmybook_13.qmd) and <u>[Henrietta’s Wish](cmy_books/cmybook_11.qmd)</u> shall follow, as soon as we can supply the first two pages which are gone from the only copy I can find
+
+Yours truly
+C M Yonge

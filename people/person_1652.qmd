@@ -1,0 +1,27 @@
+---
+title: "Sir Walter Besant"
+person_id: 1652
+---
+
+## Biographical Information
+
+1836-1901
+
+novelist and founder of the Society of Authors
+
+He was knighted in 1895.
+
+## Letters Mentioning This Person
+
+- [Letter 2666](../2666-to-walter-besant-2.qmd)
+- [Letter 2785](../2785-to-walter-besant-3.qmd)
+- [Letter 2902](../2902-to-c-t-hiatt.qmd)
+- [Letter 2905](../2905-sir-walter-besant-to-charlotte-mary-yonge.qmd)
+- [Letter 3263](../3263-to-anne-isabella-ritchie-2.qmd)
+- [Letter 3285](../3285-to-walter-besant.qmd)
+- [Letter 3326](../3326-henry-rider-haggard-to-charlotte-mary-yonge.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+- [Letter 3395](../3395-to-sir-walter-besant.qmd)
+- [Letter 3418](../3418-to-christabel-rose-coleridge-24.qmd)
+- [Letter 3419](../3419-to-christabel-rose-coleridge-2.qmd)
+

@@ -1,0 +1,37 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1897-12-17"
+letter_date: "Decr 17th [1897]"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 231"
+post_id: 3364
+letter_id: "to-frederick-orridge-macmillan-14"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-12-17"
+  url: "https://cmyonge.github.io/letters/3364-to-frederick-orridge-macmillan-14"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 17th [1897]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 231
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I think it might be well to republish [Kenneth](cmy_books/cmybook_10.qmd). I would add a preface of apology for blunders
+
+Yours truly
+C M Yonge

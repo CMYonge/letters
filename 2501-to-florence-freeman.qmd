@@ -1,0 +1,46 @@
+---
+title: "To Florence Freeman"
+letter_iso_date: "1874-05-13"
+letter_date: "May 13th 1874"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2501
+letter_id: "to-florence-freeman"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Freeman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-05-13"
+  url: "https://cmyonge.github.io/letters/2501-to-florence-freeman"
+---
+
+::: {.letter-metadata}
+**Date:** May 13th 1874  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Freeman](people/person_524.qmd)
+I am very sorry if there is any mistake about one of your webs.[^1] Did you send an address and a stamp with it? We cannot return them without the latter, as when we get 20 answers or so it would be large undertaking for our finances!
+
+If yours was late, it may have missed mention in the printed list. I get the whole parcel sent down on the first day of the month, and my neighbour [Miss Finlaison](people/person_512.qmd) sorts them and picks out the superior articles to be chosen from
+
+I am glad you have done the Multiplication I do not expect the question to be popular and the winner will be hard to decide![^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY's correspondent was taking part in the [Spider Society](organizations/other_116.qmd)'s essay competitions in the *Monthly Packet*.
+[^2]: 'Describe and explain the process of multiplying 4265 by 3902' was one of the Spider questions for May 1874.

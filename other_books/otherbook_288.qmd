@@ -1,0 +1,18 @@
+---
+title: "Anne Grant - Memoirs of an American Lady, with Sketches of Manners and Scenery in America, as they Existed Previous to the Revolution"
+book_id: 288
+---
+
+## Publication Information
+
+**Date:** 1808
+
+**Imprint:** London: Longman
+
+**Notes:** A life of Catalina Schuyler.
+
+
+## Letters Mentioning This Work
+
+- [Letter 1811](../1811-to-ann-maria-carter-smith-39.qmd)
+

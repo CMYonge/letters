@@ -1,0 +1,52 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1871-09-09"
+letter_date: "Sept 9th [1871]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center,  University of Texas"
+post_id: 2419
+letter_id: "to-christabel-rose-coleridge-67"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-09-09"
+  url: "https://cmyonge.github.io/letters/2419-to-christabel-rose-coleridge-67"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 9th [1871]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center,  University of Texas
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Good luck to you in your new work! I had various things to write to you about  Will you send a list of the [Goslings](organizations/other_104.qmd) to 
+
+		Miss [Margaret Macmillan](people/person_2274.qmd)
+			The Elms
+				Streatham
+				Tooting 
+
+I think I told you I have promised to make her a Gosling though she is rather too young. Who is the next to ask questions - will you send her a reminder to send them to me to choose from, and also tell her to send them to Maggie Macmillan
+
+I think I will take your advice and set going a proverb for the Christmas of 1872, but I shall set on not the Goslings only but all my crack authors and I think it will be great fun [Florence Wilford](people/person_1520.qmd), [Frances Peard](people/person_1160.qmd), [Arthur Heathcote](people/person_653.qmd), [Miss Keary](people/person_793.qmd), [Mrs Bromfield](people/person_162.qmd) - not to say yourself. Only what shall it be. Something enigmatical I think - I rather fancy ‘Parmi les aveugles le borgue est roi’.  I think a good deal of variety might be got out of that, people would see it such different ways. Or ‘The pitcher goes often to the well but is broken at last’. Or best of all perhaps ‘In the Dark all Cats are Grey.’ Yes, now I come to think of it that has great capabilities. I heard of a subject the other day ‘The biography of the youngest of the family’. Has [Acorn](people/person_45.qmd) sent you her new address? They have shut up Killerton for the present, I believe[^1] [Mrs Mercier](people/person_990.qmd) is coming here on Tuesday afternoon - she will lament greatly for you 
+
+Your affectionate
+C M Yonge
+
+I hope you have another copy of Patience
+
+---
+
+[^1]: Killerton was the home of the Acland family.  Evidently Agnes Acland had adopted the Gosling name Acorn.

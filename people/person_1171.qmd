@@ -1,0 +1,13 @@
+---
+title: "Miss Phillpotts"
+person_id: 1171
+---
+
+## Biographical Information
+
+letter rejecting a missionary paper
+
+## Letters Mentioning This Person
+
+- [Letter 3521](../3521-to-miss-phillpotts.qmd)
+

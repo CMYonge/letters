@@ -1,0 +1,48 @@
+---
+title: "William Crawley Yonge to the Rev. John Yonge, including Charlotte Mary Yonge to Anne Yonge"
+letter_iso_date: "1837-01-18"
+letter_date: "[?January 1837]"
+manuscript: "MS Plymouth and West Devon Record Office 308/82"
+post_id: 2935
+letter_id: "william-crawley-yonge-to-the-rev-john-yonge-including-charlotte-mary-yonge-to-anne-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "William Crawley Yonge to the Rev. John Yonge, including Charlotte Mary Yonge to Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1837-01-18"
+  url: "https://cmyonge.github.io/letters/2935-william-crawley-yonge-to-the-rev-john-yonge-including-charlotte-mary-yonge-to-anne-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** [?January 1837]  
+**Manuscript:** MS Plymouth and West Devon Record Office 308/82
+:::
+
+My dear [John](people/person_1623.qmd), 
+Since P??  I have thought a little more about [Northcote](people/person_1692.qmd)’s application for a reduction and really on second consideration it does seem to be most unreasonable.  Considering the situation, Garden &c I do think that at £70 it is one of the cheapest houses to be found.  I am sure I know of none in a come at able situation to be compared to it for cheapness  I know that that house in this country would let for £160 or 170.  He might perhaps get a house for £10 a year less in the neighbourhood of Kingsbridge or Two Bridges, but I suppose he is hardly fool enough to go into such a country without roads for the sake of ten pounds.  I dined at [Sir Thomas Baring](people/person_1693.qmd)s last night and wrote the first page of my letter this morning before breakfast.[^1]  When I came home Charlotte fancied I had finished it and left space for her so she wrote the scribble which appears on the opposite page
+
+yours affectly [WCY](people/person_1631.qmd)
+
+[Heathcote](people/person_669.qmd) dined at Stratton with me so I got him to frank which was handy for [Edmund](people/person_322.qmd)s letter.[^2]
+
+My dear [Anne](people/person_1582.qmd)
+
+I ca’nt [sic] say I have much to say but the agreeable news that [Mamma](people/person_1606.qmd) and [Julian](people/person_1624.qmd) are a great deal better today and [Graham](people/person_321.qmd)’s cold was better when he went.  Poor Stumpie was found in the village yesterday morning with his leg broken, but he is going on very well as I believe though it coud not be kept because of its being broken so high up.  I hope Edmunds keys arrived in safety he also left behind one of the Stiks and his stick
+
+your very affectionate cousin
+CMY
+
+---
+
+[^1]: Sir Thomas Baring (1772-1848) 2nd Bt., of Stratton Park, which is eight miles north of Winchester.
+[^2]: Edmund and Graham Colborne were the schoolboy sons of John Yonge's sister Elizabeth, whose husband was currently Lieutenant-Governor of Upper Canada.

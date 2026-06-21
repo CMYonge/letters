@@ -1,0 +1,15 @@
+---
+title: "Robert Bucknill - The Psychology of Shakespeare"
+book_id: 567
+---
+
+## Publication Information
+
+**Date:** 1859
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3507](../3507-to-robert-harrison.qmd)
+

@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-05-07"
+letter_date: "May 7th [1864]"
+manuscript: "MS British Library Add MSS 54920: 25"
+post_id: 1953
+letter_id: "to-messrs-macmillan-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-05-07"
+  url: "https://cmyonge.github.io/letters/1953-to-messrs-macmillan-2"
+---
+
+::: {.letter-metadata}
+**Date:** May 7th [1864]  
+**Manuscript:** MS British Library Add MSS 54920: 25
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I should be much obliged if you would send a copy of [the Trial](cmy_books/cmybook_53.qmd) to [M. Guizot](people/person_597.qmd)’s daughter 
+
+[Madame de Witt](people/person_423.qmd)
+Val Richer
+Lisieux
+Calvados
+France
+
+as she wishes to translate the book.  I believe I sent before the list of copies that I should like to have sent out. I hope the book will appear soon now
+
+Yours faithfully
+C.M. Yonge

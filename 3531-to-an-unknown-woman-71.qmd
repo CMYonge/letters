@@ -1,0 +1,40 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1880-09-03"
+letter_date: "September 3d [before 1881]"
+location: "“Monthly Packet” 6, Paternoster Row, London, E.C."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3531
+letter_id: "to-an-unknown-woman-71"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-09-03"
+  url: "https://cmyonge.github.io/letters/3531-to-an-unknown-woman-71"
+---
+
+::: {.letter-metadata}
+**Date:** September 3d [before 1881]  
+**From:** “Monthly Packet” 6, Paternoster Row, London, E.C.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear Madam,
+
+I wish I could give you a more agreeable answer, but I am afraid that there is no space available in the [Monthly Packet](organizations/other_52.qmd) for your contributions which could hardly find admittance soon enough to answer to your present wishes
+
+I am afraid too that I have too many sketches of travels already on my hands
+
+Yours truly
+C M Yonge

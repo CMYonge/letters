@@ -1,0 +1,42 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1876-05-08"
+letter_date: "May 8 th [1876]"
+location: "Elderfield"
+manuscript: "MS Plymouth and West Devon Area Record Office Acc No 308: 8-5-76"
+post_id: 2553
+letter_id: "to-mary-yonge-44"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-05-08"
+  url: "https://cmyonge.github.io/letters/2553-to-mary-yonge-44"
+---
+
+::: {.letter-metadata}
+**Date:** May 8 th [1876]  
+**From:** Elderfield  
+**Manuscript:** MS Plymouth and West Devon Area Record Office Acc No 308: 8-5-76
+:::
+
+My dear [Mary](people/person_1626.qmd)
+
+All thanks for your letter, I think matters are looking better and that something less than £2000 will clear it all, but we cannot be sure till after the 24th, at any rate [Julian](people/person_1624.qmd) is in much better spirits about it.  [Maurice](people/person_1630.qmd) must have gone to school any way, so that is the least part of the trouble, and I do not think [Anne Parnell](people/person_2070.qmd)much to be regretted for she had got to domineer over [Frances](people/person_1604.qmd)very much and spoilt Maurice and [George](people/person_1610.qmd), while she has never been kind to [Alethea](people/person_182.qmd) and hardly to poor little [Joanna](people/person_388.qmd), but Frances never would see it, and feels the loss very much; but happily a very nice person whom they took as sempstress stays on and will see to the children  Nurses must be scarce for Frances had 24 applications for her by one post.  I think her an excellent nurse for a little baby, but not good for bigger children  
+
+I must tell you about the May garlands of this year  I had just had a letter begging for flowers for a hospital of incurable children in London, and Alethea, Maurice and [Georgina Halliday](people/person_952.qmd) came up to us with beautiful garlands of fresh flowers chiefly polyanthus, which after exhibition they presented to us, and when the village children came I asked the elder girls to bring me any cowslips &c that were fresh enough after the round of the houses they take them to, so we packed up a beautiful box, and I think I must send you the letter of thanks it is so pretty.  You need not return it, for after reading it to the children we took a copy to send into our parish magazine.
+
+Since I began my letter I had a talk with [Mr Jones Bateman](people/person_785.qmd) who says if all goes right, Julian need not have called himself a bankrupt at all, and will not be one.  There is one dangerous person, who has done a good deal of the mischief, and if he does no further harm we shall be well out of it.
+
+your affectionate cousin
+C M Yonge

@@ -1,0 +1,43 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1892-01-01"
+letter_date: "January 1 [1892]"
+location: "Elderfield, Otterbourne"
+manuscript: "MS Girton College Cambridge, Yonge IV 1"
+post_id: 3185
+letter_id: "to-arthur-donald-innes-15"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-01-01"
+  url: "https://cmyonge.github.io/letters/3185-to-arthur-donald-innes-15"
+---
+
+::: {.letter-metadata}
+**Date:** January 1 [1892]  
+**From:** Elderfield, Otterbourne  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 1
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+I send the Cameo that had better precede this one returned.[^1] I found that I had repeated Frederick the Great &c; and must alter. 
+
+Yours truly
+C M Yonge
+
+Is it not time to hear of [my accounts](organizations/other_160.qmd)
+
+---
+
+[^1]: The section of CMY’s long-running series 'Cameos from English History’ dealing with the colonization of Georgia in the 1730s was published in *MP* (February 1892).  The March and April issues dealt with the War of Jenkins’ Ear and the May issue with the War of the Austrian Succession, in which Frederick the Great was involved.

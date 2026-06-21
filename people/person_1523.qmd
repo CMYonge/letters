@@ -1,0 +1,20 @@
+---
+title: "The Rev. Isaac Williams"
+person_id: 1523
+---
+
+## Biographical Information
+
+(1802-1865)
+
+poet, friend of Keble, autobiographer
+
+[ODNB]
+
+## Letters Mentioning This Person
+
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
+- [Letter 2940](../2940-to-anne-yonge-8.qmd)
+- [Letter 3029](../3029-to-mary-anne-dyson-17.qmd)
+- [Letter 3059](../3059-to-elizabeth-roberts-37.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "George Gordon, Lord Byron - Childe Harold's Pilgrimage: A Romaunt"
+book_id: 370
+---
+
+## Publication Information
+
+**Date:** 1812-1818
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 1977](../1977-to-alexander-macmillan-20.qmd)
+

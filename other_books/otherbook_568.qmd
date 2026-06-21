@@ -1,0 +1,15 @@
+---
+title: "William Edmonstone Aytoun - The Ballads of Scotland"
+book_id: 568
+---
+
+## Publication Information
+
+**Date:** 1858
+
+**Imprint:** Edinburgh: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 3507](../3507-to-robert-harrison.qmd)
+

@@ -1,0 +1,44 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1859-06-24"
+letter_date: "June 24th 1859"
+location: "Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/  Yonge 1859/7"
+post_id: 3131
+letter_id: "to-ann-maria-carter-smith-20"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-06-24"
+  url: "https://cmyonge.github.io/letters/3131-to-ann-maria-carter-smith-20"
+---
+
+::: {.letter-metadata}
+**Date:** June 24th 1859  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/7
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+Here is [£8..4 for your kind hel](organizations/other_102.qmd)p in the course of the last half year.  I think [Frances](other_books/otherbook_265.qmd) has been entirely successful.  The sole criticism I have heard is that she might have found plenty of misery at the West End - but then as her father was a landowner in the East, I think she had every call thither.
+
+Thank you for your promise of a story for that far away date Christmas twelve month.  I did mean one of the [Aggesden](other_books/otherbook_268.qmd) kind of length, but I think stories settle their own length better than one can do it for them beforehand.
+
+I hope [Mr Parker](people/person_1143.qmd) will soon think the times good enough for Aggesden
+
+[the rest missing with the signature]
+
+---
+
+**Note:** Envelope addressed to Miss A C Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 24 June 1859 and London SE 25 June 1859.  The paper has been cut to remove the signature.

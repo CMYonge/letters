@@ -1,0 +1,43 @@
+---
+title: "To Jane Mary Dampier"
+letter_iso_date: "1870-01-17"
+letter_date: "Jan 17th [1870]"
+location: "Elderfield"
+manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 2368
+letter_id: "to-jane-mary-dampier"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jane Mary Dampier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-17"
+  url: "https://cmyonge.github.io/letters/2368-to-jane-mary-dampier"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 17th [1870]  
+**From:** Elderfield  
+**Manuscript:** MS  Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear [Miss Dampier](people/person_1345.qmd)
+Do you think you and [your sister](people/person_404.qmd)could manage to come and spend an evening here while [Gertrude Walter](people/person_1462.qmd) is staying with me? I do not ask you to dinner because she cannot go down to it and would have much more pleasure if you would drink tea with us – any evening except Saturday the 22nd or Monday or Tuesday the 24th and 25th would suit us, if you will choose your own day
+
+Yours sincerely
+C M Yonge
+
+I think we should drink tea at seven
+
+---
+
+**Note:** Jane Mary Dampier (1836/7-1906) and her sister Emily Dampier (b.1838/9) were living at this date at Twyford House, Twyford.  The former, who later married and adopted the surname Smith-Dampier, was the author of a novel, *Journal of Lady Beatrix Graham* (1870) which was published with an introduction by CMY.

@@ -1,0 +1,15 @@
+---
+title: "Margaret Oliphant - A Beleagured City"
+book_id: 732
+---
+
+## Publication Information
+
+**Date:** 1880
+
+**Imprint:** London: Macmillan
+
+## Letters Mentioning This Work
+
+- [Letter 3361](../3361-to-mary-elizabeth-christie.qmd)
+

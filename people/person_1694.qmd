@@ -1,0 +1,19 @@
+---
+title: "Victoria"
+person_id: 1694
+---
+
+## Biographical Information
+
+1819-1901
+
+Queen of Great Britain and Empress of India
+
+## Letters Mentioning This Person
+
+- [Letter 2352](../2352-to-mary-yonge-9.qmd)
+- [Letter 2936](../2936-to-anne-yonge-4.qmd)
+- [Letter 3013](../3013-to-alice-arbuthnot-moberly-5.qmd)
+- [Letter 3429](../3429-to-miss-e-m-walker-5.qmd)
+- [Letter 3478](../3478-to-christabel-rose-coleridge-57.qmd)
+

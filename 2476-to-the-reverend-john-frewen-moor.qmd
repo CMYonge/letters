@@ -1,0 +1,45 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1873-07-17"
+letter_date: "July 17th [1873]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2476
+letter_id: "to-the-reverend-john-frewen-moor"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-07-17"
+  url: "https://cmyonge.github.io/letters/2476-to-the-reverend-john-frewen-moor"
+---
+
+::: {.letter-metadata}
+**Date:** July 17th [1873]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+[Mr Wither](people/person_1544.qmd) gives £7 a year and finds everything. What he wants is a girl who has been out before so as to have had her first teaching, and is well to be depended on not to be saucy or lazy with his old housekeeper, who is good natured, and will get up and do things herself instead of making the girl do them. The place is kitchen maid, as Sophy is housemaid & parlour maid, and she should be a steady girl companionable with Sophy, and if a girl who would find her amusement in reading & working at home it would be better.
+
+I think this is all that signified. I thought I had a girl but turned out too much pledged to another place. I hope yours will do.
+
+It was very pleasant to see how much our old friend is thought of there, and what an improvement he has made
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to 'The Revd/ J F Moor/Ampfield Vicarage/ Romsey' and postmarked Winchester Jy 17/73. The Rev. William Bigg Wither, formerly curate of Otterbourne, had moved to Hardwick, Buckinghamshire.

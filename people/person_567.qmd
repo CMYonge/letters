@@ -1,0 +1,19 @@
+---
+title: "A. M. Goodrich"
+person_id: 567
+---
+
+## Biographical Information
+
+contributor to <i>MP</i>
+
+She wrote about  Canterbury Cathedral in the 'Cathedral Sketches' series in <i>MP</i> (1859). She was the author of nineteen stories and tracts published by the SPCK as ‘by the author of <i>Hester</i> Blake’ (a story published in 1855) and others as ‘by the author of <i>The Chamois</i> Hunter’ (a work of which there seems to be no COPAC record).
+
+## Letters Mentioning This Person
+
+- [Letter 1804](../1804-to-susanna-warren-2.qmd)
+- [Letter 1822](../1822-to-ann-maria-carter-smith-42.qmd)
+- [Letter 2543](../2543-to-augusta-boevey-pode-4.qmd)
+- [Letter 3059](../3059-to-elizabeth-roberts-37.qmd)
+- [Letter 3146](../3146-to-elizabeth-roberts-39.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "Elizabeth Whately - Reverses, or, Memoirs of the Fairfax Family"
+book_id: 653
+---
+
+## Publication Information
+
+**Date:** 1833
+
+**Imprint:** London: Fellowes
+
+## Letters Mentioning This Work
+
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

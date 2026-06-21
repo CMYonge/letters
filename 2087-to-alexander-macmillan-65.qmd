@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-12-19"
+letter_date: "Decr 19th [1865]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 126-7"
+post_id: 2087
+letter_id: "to-alexander-macmillan-65"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-19"
+  url: "https://cmyonge.github.io/letters/2087-to-alexander-macmillan-65"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 19th [1865]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 126-7
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I shall be very glad to mark off the chapters that would suit best for the school abridgement of [Golden Deeds](cmy_books/cmybook_51.qmd). Having tried some on my own school children I can do it the better. I should fancy the reading book [Mr Lea](people/person_853.qmd) proposes to be something of what [Dr Vaughan](people/person_1439.qmd) was about, and I also know a lady who I believe has one in hand.
+
+Tell me how soon you would like to have a selection made, and also how many chapters would suit your purposes. I don’t think one could find <u>many</u> very striking money Golden Deeds. Perhaps Mr Budgett’s throwing all his adulterated pepper and sugar into the Bristol Channel is the best on record.[^1] There is a curious story in [Lady Pomfret’s letters](other_books/otherbook_439.qmd) of a man who made restitution of Church Property. I looked it out for the Golden Deeds but the motives would not have been enough understood.
+
+Yours sincerely
+C M Yonge
+
+Many thanks for Mr Lea’s pamphlet. I am just going to read it, I have not heard of Meltrai for a long time.
+
+---
+
+[^1]: Samuel Budgett (1794–1851), the subject of the bestselling biography by William Arthur, *The Successful Merchant* (London 1852).

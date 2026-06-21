@@ -1,0 +1,44 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1877-01-30"
+letter_date: "Jany 30th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 14"
+post_id: 2569
+letter_id: "to-george-lillie-craik-23"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-01-30"
+  url: "https://cmyonge.github.io/letters/2569-to-george-lillie-craik-23"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 30th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 14
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Many thanks for [this payment](organizations/other_160.qmd), which considering that I had £400 before ought indeed to satisfy me.
+
+I wonder when [Clay](organizations/other_173.qmd) means to go on with the [Scripture readings](cmy_books/cmybook_87.qmd)
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** The final volume of CMY's *Scripture Readings* was not in fact published until 1879, but that this was entirely the printer's fault is not certain.

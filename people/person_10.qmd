@@ -1,0 +1,15 @@
+---
+title: "Adams"
+person_id: 10
+---
+
+## Biographical Information
+
+(fl. 8 March 1854)
+
+evidently a humble Devon friend of WCY
+
+## Letters Mentioning This Person
+
+- [Letter 3033](../3033-frances-mary-yonge-to-the-reverend-john-yonge.qmd)
+

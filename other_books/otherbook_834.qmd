@@ -1,0 +1,18 @@
+---
+title: "Gertrude Jacob - 'Twilight'"
+book_id: 834
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Imprint:** <i>MP</i> ns 16 (July 1873) 100-104.
+
+**Notes:** See also [Gertrude Jacob](../people/person_751.qmd).
+
+## Letters Mentioning This Work
+
+- [Letter 2472](../2472-to-gertrude-louisa-legrand-jacob-3.qmd)
+- [Letter 2478](../2478-to-gertrude-louisa-legrand-jacob.qmd)
+

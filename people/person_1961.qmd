@@ -1,0 +1,16 @@
+---
+title: "Henry Wadsworth Longfellow"
+person_id: 1961
+---
+
+## Biographical Information
+
+(1807-1882)
+
+American poet
+
+## Letters Mentioning This Person
+
+- [Letter 2592](../2592-to-miss-cleveland-4.qmd)
+- [Letter 9379](../9379-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i.qmd)
+

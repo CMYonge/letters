@@ -1,0 +1,45 @@
+---
+title: "To  Sir William Heathcote, Bt."
+letter_iso_date: "1872-01-10"
+letter_date: "January 10, 1872."
+location: "Palace, Lichfield,"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 300-301"
+post_id: 2435
+letter_id: "to-sir-william-heathcote-bt-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Sir William Heathcote, Bt."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-01-10"
+  url: "https://cmyonge.github.io/letters/2435-to-sir-william-heathcote-bt-4"
+---
+
+::: {.letter-metadata}
+**Date:** January 10, 1872.  
+**From:** Palace, Lichfield,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 300-301
+:::
+
+My dear [Sir William](people/person_669.qmd)-
+Your letter has come on to me here. I came on Monday to be instructed respecting[Bishop Patteson](people/person_1155.qmd)'s life, which I am to try to [draw up](cmy_books/cmybook_102.qmd) from the very full materials that his family and [Bishop Selwyn](people/person_1295.qmd) can provide. I hope to return on Saturday.
+
+Thank you for letting me see [Mr. Faithfull](people/person_497.qmd)'s decision; I think he is wise to give his name, and so obtain the subscriptions of all his friends. I daresay in this way he will obtain a good
+
+deal of pleasure out of it himself, and I hope some benefit to the hospital funds.-[^1]
+
+Your affectionate
+C. M. YONGE.
+
+---
+
+[^1]: Edward Williams Faithfull, *Occasional Thoughts* (London, E. Faithfull, and Winchester, Jacob and Johnson  1872), a volume of verse published by private subscription, probably in aid of the rebuilt [Royal Hampshire Hospital](organizations/other_36.qmd) in Winchester.

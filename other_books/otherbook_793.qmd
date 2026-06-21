@@ -1,0 +1,17 @@
+---
+title: "Edward Hall - The Union of the Two Noble and Illustre Famelies of Lancastre [and] Yorke"
+book_id: 793
+---
+
+## Publication Information
+
+**Date:** 1548
+
+**Imprint:** London: Grafton
+
+**Notes:** Known as Hall's Chronicle.
+
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
+

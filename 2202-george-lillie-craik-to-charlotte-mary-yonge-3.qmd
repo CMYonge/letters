@@ -1,0 +1,37 @@
+---
+title: "George Lillie Craik to Charlotte Mary Yonge"
+letter_iso_date: "1867-08-10"
+letter_date: "10 Aug. 1867."
+manuscript: "Copy outletter book British Library Add MSS.55387 (1): P. 463"
+post_id: 2202
+letter_id: "george-lillie-craik-to-charlotte-mary-yonge-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "George Lillie Craik to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-08-10"
+  url: "https://cmyonge.github.io/letters/2202-george-lillie-craik-to-charlotte-mary-yonge-3"
+---
+
+::: {.letter-metadata}
+**Date:** 10 Aug. 1867.  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1): P. 463
+:::
+
+Dear Miss Yonge	
+I suppose you [*illegible*] the <u>translation</u> of Alexandre Dumas & after some difficulty we have a shabby copy which I am sending by post.
+
+We will be glad to have the whole [M.S.](cmy_books/cmybook_72.qmd) when it is ready. You can either send it to [Miss Martin](people/person_971.qmd) or to us
+
+Yours very [*illegible*]
+[Geo Lillie Craik](people/person_379.qmd)

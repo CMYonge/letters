@@ -1,0 +1,23 @@
+---
+title: "Stray Pearls: Memoirs of Margaret de Ribaumont, Viscountess of Bellaise. 2 vols"
+book_id: 170
+sort_title: "Stray Pearls: Memoirs of Margaret de Ribaumont, Viscountess of Bellaise"
+---
+
+## Publication Information
+
+**Date:** 1883
+
+**Genre:** Fiction (historical)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+**Notes:** This is a sequel to <i>The Chaplet of Pearls.</i>
+
+## Letters Mentioning This Work
+
+- [Letter 2764](../2764-to-george-lillie-craik-55.qmd)
+- [Letter 2765](../2765-to-george-lillie-craik-56.qmd)
+- [Letter 2772](../2772-to-harper-bros-4.qmd)
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+

@@ -1,0 +1,17 @@
+---
+title: "Two years of School Life by Madame de Pressensé. Edited by the author of “The Heir of Redclyffe.”"
+book_id: 77
+sort_title: "Two years of School Life by Madame de Pressensé"
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Genre:** Edited translation
+
+**Publisher:** London: Frederick Warne and Co., Bedford Street, Covent Garden.
+
+**Notes:** A translation of Élise Françoise de Pressensé, <i>Deux ans au lycée</i>.
+
+

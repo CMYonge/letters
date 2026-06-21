@@ -1,0 +1,37 @@
+---
+title: "To  Lady Leconfield"
+letter_iso_date: "1899-05-26"
+letter_date: "May 26th [1899]"
+location: "Elderfield"
+manuscript: "MS Lord Egremont, Petworth House, in the care of West Sussex Record Office, PHA 9687/2."
+post_id: 3407
+letter_id: "to-lady-leconfield"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Lady Leconfield"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-05-26"
+  url: "https://cmyonge.github.io/letters/3407-to-lady-leconfield"
+---
+
+::: {.letter-metadata}
+**Date:** May 26th [1899]  
+**From:** Elderfield  
+**Manuscript:** MS Lord Egremont, Petworth House, in the care of West Sussex Record Office, PHA 9687/2.
+:::
+
+Dear [Lady Leconfield](people/person_1664.qmd)
+As [Christabel Coleridge](people/person_329.qmd) is here, I shall ask her to put in her autograph She is the remnant of my original [Goslings](organizations/other_104.qmd) worked on as a [Spider](organizations/other_116.qmd) and now edits the [Packet](organizations/other_52.qmd), anxious to raise the tone, and bear it through the bad times for periodicals If you have read [Waynflete](other_books/otherbook_205.qmd), the [Main Chance](other_books/otherbook_206.qmd) and [The Tender Mercies](other_books/otherbook_207.qmd), you will think her autograph worth having. She is the granddaughter of [S T Coleridge](people/person_1667.qmd)
+
+yours sincerely
+C M Yonge

@@ -1,0 +1,47 @@
+---
+title: "To Henrietta Elizabeth Fursdon"
+letter_iso_date: "1862-06-27"
+letter_date: "June 27th 1862"
+location: "[Otterbourne, Winchester.]"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 1867
+letter_id: "to-henrietta-elizabeth-fursdon-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henrietta Elizabeth Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-06-27"
+  url: "https://cmyonge.github.io/letters/1867-to-henrietta-elizabeth-fursdon-6"
+---
+
+::: {.letter-metadata}
+**Date:** June 27th 1862  
+**From:** [Otterbourne, Winchester.]  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Irene](people/person_538.qmd),
+
+Many thanks for the photograph which I am glad to have as a much pleasanter likeness of you. It seems odd that it should have met [Pena](people/person_973.qmd)’s and as [Humble Bee](people/person_81.qmd) is staying here, we set her to guess by the old ones which of her fellow [Goslings](organizations/other_104.qmd) it was. The Exhibition has grievously affected the Goslings this time and few have sent in answers.[^1] Humming Bird[^2] alone has answered all. I think your Missions have the prize - they are very interesting.
+
+Many thanks too for the Stamps. You have been very kind about them. I have not many more than 50 [Last Heartsease Leaves](cmy_books/cmybook_45.qmd) left now, and they will be sure to go off in time, but if anyone turns up happening to want one, you will know where to apply. I have been for a longer walk than I intended and cannot write Mother Goose’s letter tonight but unless [Albatross](people/person_622.qmd)’s should come in to morrow, which I do not expect, I shall send the answers to you tomorrow as Humble Bee has seen them. [Glow Worm](people/person_534.qmd)’s answer was good, but Humble Bee’s better.
+
+your affectionate
+
+Mother Goose
+
+---
+
+[^1]: Address cut out.
+[^2]: The International Exhibition held in South Kensington 1 May-1 November 1862.
+[^3]: Unidentified.

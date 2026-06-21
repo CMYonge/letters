@@ -1,0 +1,44 @@
+---
+title: "To John Athelstan Laurie Riley"
+letter_iso_date: "1893-04-21"
+letter_date: "April 21st [1893]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Lambeth Palace Library  2344 f 176"
+post_id: 3218
+letter_id: "to-john-athelstan-laurie-riley-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Athelstan Laurie Riley"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-04-21"
+  url: "https://cmyonge.github.io/letters/3218-to-john-athelstan-laurie-riley-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 21st [1893]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Lambeth Palace Library  2344 f 176
+:::
+
+Dear [Mr Riley](people/person_1239.qmd)
+Have you Mr [H H Gibbs](people/person_558.qmd)’s name-?  He is either at St Dunstans, Regents Park or at Aldenham Elstree  I should think no one would be more earnest in the cause than he. I would also mention the publisher -  [A D Innes](people/person_744.qmd)31 Bedford Street Strand.  Old Mr [Alexander Macmillan](people/person_939.qmd) I am sure would but I am not so sure of his sons though his partner Mr [G L Craik](people/person_379.qmd) would, I believe   I am much obliged to [Mrs Riley](people/person_2121.qmd) for writing to me, I am sorry I was so stupid.
+
+Of course you know Mr Gibbs’s name as MP for the City in the last Parliament and as a Bank Director[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: Riley was probably trying to raise money for some charitable purpose.
+[^2]: Henry Hucks Gibbs (1819-1907) was MP for the City of London 1891-2, which dates the letter.

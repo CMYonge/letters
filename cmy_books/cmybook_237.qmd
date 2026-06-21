@@ -1,0 +1,27 @@
+---
+title: "The Long Vacation"
+book_id: 237
+sort_title: "Long Vacation"
+---
+
+## Publication Information
+
+**Date:** 1895
+
+**Genre:** Fiction (modern)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+**Notes:** This includes characters from <i>Scenes and Characters, The Pillars of the House, The Two Sides of the Shield </i>and <i>Beechcroft at Rockstone.</i>
+
+## Letters Mentioning This Work
+
+- [Letter 3205](../3205-to-lady-frederick-bruce-2.qmd)
+- [Letter 3216](../3216-to-lady-frederick-bruce-3.qmd)
+- [Letter 3263](../3263-to-anne-isabella-ritchie-2.qmd)
+- [Letter 3278](../3278-to-frederick-orridge-macmillan-7.qmd)
+- [Letter 3281](../3281-to-frederick-orridge-macmillan-8.qmd)
+- [Letter 3300](../3300-to-frederick-orridge-macmillan-or-alexander-macmillan-3.qmd)
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+- [Letter 3420](../3420-to-christabel-rose-coleridge-26.qmd)
+

@@ -1,0 +1,33 @@
+---
+title: "“Female Education.”"
+book_id: 302
+sort_title: "“Female Education.”"
+---
+
+## Publication Information
+
+**Date:** 1866
+
+**Genre:** Non-fiction
+
+**Publisher:** <i>Christian Remembrancer</i> Vol 51 (Jan. 1866): 21-49
+
+**Notes:** Review of <i>Principles of Education, drawn from Nature and Revelation and applied to Female Education in the Upper Classes</i> by Elizabeth Missing Sewell (1865). Identified in letter (20-03-1869) to Alexander Macmillan, MS British Library Add MSS 54920: 227-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Letters Mentioning This Work
+
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+- [Letter 2588](../2588-to-george-lillie-craik-28.qmd)
+

@@ -1,0 +1,43 @@
+---
+title: "To Miss Cox"
+letter_iso_date: "1891-08-20"
+letter_date: "Aug 20th [1891-3]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Rosemary, Viscountess Chaplin"
+post_id: 3608
+letter_id: "to-agnes-cox"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Cox"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-08-20"
+  url: "https://cmyonge.github.io/letters/3608-to-agnes-cox"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 20th [1891-3]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Rosemary, Viscountess Chaplin
+:::
+
+Dear [Miss Cox](people/person_1642.qmd)
+I cannot promise to vote for [Anne Fay](people/person_1679.qmd) but she interests me much, as I have seen a good deal of the same kind of illness and I will see whether it is possible.
+
+I well remember the days of the Cardioscope, which I think was one of the best ideas [we](organizations/other_52.qmd) ever had.[^1]  I have now a [fellow Editor](people/person_329.qmd) who has taken the MSS especially of poetry.  I think she must have your verses
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: ‘The Cardioscope’ was a series in *MP* (July-November 1851).  The idea was that an instrument could test the feelings of the human heart as a stethoscope does.  There is a volume of poems, 1887, by Agnes Cox. CMY is evidently being asked to cast a vote in favour of Anne Fay for admission to some hospital or almshouse.  There is a probable contributor called [Harriet Lucy Cox](people/person_375.qmd) (b. Waddesdon 1825/6) who later married the Rev. Arthur Baker (1817-1868) and transcribed books into Braille;  it is possible that she may have been the author of ‘The Cardioscope’, and a relation of this Miss Cox.

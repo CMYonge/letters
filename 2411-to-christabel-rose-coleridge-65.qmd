@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1871-07-01"
+letter_date: "July 1st [1871]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2411
+letter_id: "to-christabel-rose-coleridge-65"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-07-01"
+  url: "https://cmyonge.github.io/letters/2411-to-christabel-rose-coleridge-65"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st [1871]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+I think you should poke up [Strahan](people/person_1278.qmd), though I fancy he is very tiresome about MSS. [^1]  I hope you have a copy – [Goosedom](organizations/other_104.qmd) is very poor this time, all the best being busy or going travelling  [Frog](people/person_822.qmd) is gone to Ammergau[^2]
+
+your affectionate
+Mother Goose
+
+---
+
+[^1]: Endorsed 'Envelope shows 1871'.
+[^2]: Probably this refers to some attempt by Coleridge to publish fiction in [*Good Words*](organizations/other_73.qmd), the magazine published by Alexander Strahan.
+[^3]: The decennial performance of the Passion Play in the Bavarian village of Oberammergau had become a popular tourist attraction.  The 1870 performance was interrupted by the outbreak of the Franco-Prussian War, and was resumed in June 1871 (*Pall Mall Gazette* 9 June 1871).

@@ -1,0 +1,45 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1890-01-31"
+letter_date: "Jan 31st 1890"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 15"
+post_id: 3151
+letter_id: "to-arthur-donald-innes-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-01-31"
+  url: "https://cmyonge.github.io/letters/3151-to-arthur-donald-innes-3"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 31st 1890  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 15
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+Thank you much for what was useless trouble. I thought Stanford was sure to have had such maps reasonably cheap for travellers.[^1] There is a good little geological map of England in Letts’s [atlas](other_books/otherbook_629.qmd), but the book is very badly bound, and  that one map in my copy has some how been lost.
+
+I think there are small editions of [Keith Johnstone](other_books/otherbook_628.qmd)- but his publisher is [Blackwood](organizations/other_214.qmd), I suppose he has an office in London but I do not know where. I am astonished at the expensiveness in these days of chromolithography  But unless Blackwood is near at hand, or you have a catalogue which would shew if [Cassell](organizations/other_216.qmd) has a cheap one, pray do not take any more trouble
+
+Yours sincerely
+C M Yonge
+
+Perhaps the best way would be to ask Blackwood and Cassell to send me a catalogue
+
+---
+
+[^1]: Edward Stanford opened a specialist map shop in 1853 which is still (2010) operating.

@@ -1,0 +1,57 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1897-11-30"
+letter_date: "Novr 30th 1897"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS British Library  Add MSS 54921: 226-8"
+post_id: 3362
+letter_id: "to-frederick-orridge-macmillan-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-11-30"
+  url: "https://cmyonge.github.io/letters/3362-to-frederick-orridge-macmillan-12"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 30th 1897  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS British Library  Add MSS 54921: 226-8
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I wish to consult you on a matter that I am taking in hand.
+
+[Hursley](organizations/other_127.qmd)- beside the recent association with [Mr Keble](people/person_798.qmd)has a good deal of local interest connected with it. It has the remains of an old Castle destroyed in Stephen’s time, and the customs of the manor’ are all complete
+
+There are a few curious local anecdotes connected with the place, and there is correspondence in Cromwell’s life about his son marrying the heiress. A [book](other_books/otherbook_734.qmd) was drawn up about it by Mr Marsh, the Vicar in 1808, which came to a second edition, (locally) but has long been out of print.
+
+The whole career of Mr Keble and of [Sir William Heathcote](people/person_669.qmd) (who was a model country gentleman, and a great influence over the whole county, besides his political standing) was subsequent. There is a proposal that the book should be reissued taking in a great deal of antiquarian interest unknown to Mr Marsh and notices of the building of the present Church, as well as those of this place and[Amfield](organizations/other_124.qmd) [sic], with the outline sketch of these two friends. 
+
+There ought to be illustrations - portraits of these two friends[,] of Merdon Castle, the former and present houses at the park, the former Church and the present.
+
+There would be a fair sale, for such a book is often enquired for, and I think I could make it attractive for there are considerable materials.
+
+Now is it what  you would like to undertake, or would you advise its being locally done. 
+
+One plan might be to have a superior edition with photographs reproduced, and a cheaper one, without the illustrations.[^1]
+
+I should be very glad to know what you think of the matter before taking any further steps  
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The book was published as *John Keble's Parishes*.

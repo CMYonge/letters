@@ -1,0 +1,40 @@
+---
+title: "To Mrs Bacon"
+letter_iso_date: "1880-07-29"
+letter_date: "July 29th [1872-1898]"
+manuscript: "MS with Waiting For Godot Books, 2005, transcribed from Abebooks."
+post_id: 3582
+letter_id: "to-mrs-bacon"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Bacon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-07-29"
+  url: "https://cmyonge.github.io/letters/3582-to-mrs-bacon"
+---
+
+::: {.letter-metadata}
+**Date:** July 29th [1872-1898]  
+**Manuscript:** MS with Waiting For Godot Books, 2005, transcribed from Abebooks.
+:::
+
+Dear [Mrs. Bacon](people/person_89.qmd)
+
+With many thanks I am afraid I do not see my way to being able to come to your garden party on the 6th. I am going from home the week after and there is a good deal on hand. 
+
+Yours sincerely, 
+C M Yonge.
+
+---
+
+**Note:** Francis Kenrick Bacon (1826/7-1886), retired major in the Bengal Staff Corps, and his wife Sarah Lucy Bacon (1835/6-?1920) are found at the Red House, Hursley, in the 1881 census.  They seem to have arrived by 1872, judging by other newspaper references, and she was still living there as a widow in the 1901 census.  The Hampshire Chronicle  (26 Nov 1887) records that he was buried in the churchyard and she gave a handsome lectern to the church in his memory.

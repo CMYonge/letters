@@ -1,0 +1,43 @@
+---
+title: "To Frances Sophia Coleridge Patteson"
+letter_iso_date: "1862-08-06"
+letter_date: "Aug 6th [1862]"
+location: "Baldersby"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 1870
+letter_id: "to-frances-sophia-coleridge-patteson-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Sophia Coleridge Patteson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-08-06"
+  url: "https://cmyonge.github.io/letters/1870-to-frances-sophia-coleridge-patteson-5"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 6th [1862]  
+**From:** Baldersby  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Fanny](people/person_1151.qmd),
+
+Your letter came to me safely yesterday, and very glad I am of the prospect it holds out. I wrote to Mr Raikes[^1] at once letting him [know] that it was just what I should like, but that he had better send it to me when I get home which I do not think will be till the end of October. I find it so very difficult to get a MS read away from home, and I could not begin it just yet—I believe we shall go on to the Scottish Border on Tuesday, but I shall be very sorry to leave this delightful Church to say nothing of the people. It was particularly pleasant to receive the [Eton boy](people/person_1533.qmd)with his prize, and excellent character in which the sole complaint was of his proneness to unquenchable laughter! You will have been glad to see the notice that the [Bell fund](organizations/other_103.qmd) has “attained its object” and the Bells are really bought. I had a nice little meeting with [Lady Lucy Herbert](people/person_679.qmd) to rejoice over them, and it was nice to hear how warmly [Lady Powys](people/person_1871.qmd) spoke of your Kate, calling her such a very nice pleasant girl, and specially commending her for being so tall, without being all legs and arms. I wish you were able to give a better account of yourself, but I do think Alice’s bright face must do you good and I hope you will be up to enjoying her visit. We had George here for last Sunday on his way home from Scotland, and we heard him preach—which we never should have done in our own country. I hope you will read the little [book of collected stories](other_books/otherbook_330.qmd) which [Juliana Gatty](people/person_494.qmd) has brought out, there are two besides those in the MP far more beautiful. I do not know which is the most lovely. The Viscount’s Friend is perhaps the most beautiful—yet Friedrich’s Ballad went home to my very heart, and it is such fun too! Your Black Mountain we liked greatly, there was something very engaging in it, but I wish more justice had been done to it in the picture, for how the child got on top of the sticks I cannot think! [Miss Warren](people/person_1475.qmd) spent a Sunday here and was very nice and good in her quaint merry way.
+
+Your very affectionate
+
+C M Yonge
+
+---
+
+[^1]: The reference is probably to [Charles Raikes](people/person_1233.qmd) (1812-1885), who seems the most likely person to have contributed ‘The Englishman in India’ to *[MP](organizations/other_52.qmd)* in 1863-6.

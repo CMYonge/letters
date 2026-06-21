@@ -1,0 +1,50 @@
+---
+title: "To the Reverend William Harris Bigg Wither"
+letter_iso_date: "1882-03-26"
+letter_date: "March 26th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2744
+letter_id: "to-the-reverend-william-harris-bigg-wither"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William Harris Bigg Wither"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-03-26"
+  url: "https://cmyonge.github.io/letters/2744-to-the-reverend-william-harris-bigg-wither"
+---
+
+::: {.letter-metadata}
+**Date:** March 26th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mr Wither](people/person_1544.qmd)
+
+The news of the day is that [Lady Chichester](people/person_1744.qmd) is to be doubly Lady Chichester She marries [Sir Arthur Chichester](people/person_2335.qmd), a widower over 60, whose estate joins on to Arlington[^1]
+
+He joins her at Arlington and his two unmarried daughters remain in possession. One of his daughters is [Mrs Chichester](people/person_2336.qmd) so they have a small choice of names. [Mrs Johnstone](people/person_277.qmd)’s two pretty little boys have begun to come to Church
+
+I suppose [the archbishop](people/person_1391.qmd) is really going now and I fully expect we shall lose [our Harold](people/person_213.qmd) but it will be a good thing for the Church, and if they gave us [yours](people/person_926.qmd), it would be a consolation[^2]
+
+[Gilbert Heathcote](people/person_661.qmd) has come to the park. [Ellie](people/person_663.qmd)and [Bella](people/person_1690.qmd) drove over the other day and told us about him.[^3] His daughter [Gertrude](people/person_2337.qmd) rises to the occasion, she has had sole charge of the poor little [baby](people/person_2339.qmd) every since it was born, and brought it and the years old [Caroline](people/person_2338.qmd) home without a nurse   Twenty years between her and Caroline is quite enough to give authority. Gilbert is going to spend the rest of his leave of absence in Scotland. [Charles Mackarness](people/person_1883.qmd) is an excellent person and has been so all his life he is a Wykehamist
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: Rosalie Amelia Chamberlayne (1842/3-1908), daughter of Thomas Chamberlayne of Cranbury Park,  married first (9 February 1865), Sir Alexander Palmer Bruce Chichester, 2nd Bt. (1842/3-1881), of Arlington Park, Devon, and, secondly (23 January 1883), his cousin Sir Arthur Chichester, 8th Bt. (1822/3-1898).  Mrs Johnstone was Lady Chichester's sister, another daughter of Thomas Chamberlayne.
+[^2]: The word 'Brown' added here in a different hand.  The Rt. Rev. Harold Browne (1811–1891) had been Bishop of Winchester since 1873, and was a candidate to succeed the dying  Archibald Campbell Tait (1811–3 December 1882) as Archbishop of Canterbury, though he did not.  CMY suggests that she would be happy to see the Bishop of Oxford, John Mackarness, promoted to become Bishop of Winchester.
+[^3]: The Rev. Gilbert Heathcote (1830-1890), son of Sir William Heathcote, had been married twice.  His second wife Helen Maxwell Cunningham was to die in Florence on 29 October 1882, leaving five children of whom the youngest was a few months old.  He remarried for the third time in November 1883.

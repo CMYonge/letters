@@ -1,0 +1,60 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1888-06-09"
+letter_date: "June 9th [1888]"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 2"
+post_id: 2884
+letter_id: "to-arthur-donald-innes-21"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-06-09"
+  url: "https://cmyonge.github.io/letters/2884-to-arthur-donald-innes-21"
+---
+
+::: {.letter-metadata}
+**Date:** June 9th [1888]  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 2
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+
+If you look at the notice at p. 499 of the May no and 599 of the June you will see the fees as to questions fully explained. In fact I do not know what more there is to say about them.[^1]
+
+[Bishop Jenner](people/person_758.qmd) has carefully looked over the [Prayer book Lessons](cmy_books/cmybook_202.qmd) and returned them to me and I am going over them with his criticisms. Half is quite ready if you want it for the printers.
+
+I should much prefer having a sum at once- say[£50 for the first thousand](organizations/other_160.qmd), and then a royalty on what afterwards sold
+
+In the last number of the [Packet](organizations/other_52.qmd) [‘Early Recollections’](other_books/otherbook_1059.qmd) are by 
+
+[Mrs Brougham](people/person_207.qmd)
+Castlehaven Rectory,
+Castle Townsend
+Co Cork
+
+I think you have the others
+
+yours sincerely 
+C M Yonge
+
+[The One Grief](other_books/otherbook_1060.qmd) is by
+[Miss E Bussell](people/person_232.qmd)
+St James’ Parsonage
+Dingwall
+
+---
+
+[^1]: These were fees for participating in the preparation for the English Literature part of the Cambridge Local Examination.

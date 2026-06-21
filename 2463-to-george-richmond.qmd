@@ -1,0 +1,37 @@
+---
+title: "To George Richmond"
+letter_iso_date: "1872-12-02"
+letter_date: "Decr 2nd [1872]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Royal Academy GRI/3/465"
+post_id: 2463
+letter_id: "to-george-richmond"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Richmond"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-12-02"
+  url: "https://cmyonge.github.io/letters/2463-to-george-richmond"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 2nd [1872]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Royal Academy GRI/3/465
+:::
+
+Dear [Mr Richmond](people/person_1731.qmd)
+Could you and would you do me a great kindness?  The charge of writing my cousin [Bishop Patteson](people/person_1155.qmd)’s [life](cmy_books/cmybook_102.qmd) has been given to me and I feel that a personal description of him as he was when he left England is much wanted.  I do not recollect his appearance distinctly enough to judge between hearsays and it would be a great boon if you could set down for me what you remember of his looks at the time you took the portrait that his sisters have and which is to be engraved.  I hope this is not a very presumptuous entreaty or one that will give you much trouble.
+
+yours sincerely
+C M Yonge

@@ -1,0 +1,44 @@
+---
+title: "To A. M. Wattus"
+letter_iso_date: "1880-08-01"
+letter_date: "[1880?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29: Author Files Wood-Yonge:"
+post_id: 2716
+letter_id: "to-a-m-wattus"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To A. M. Wattus"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-08-01"
+  url: "https://cmyonge.github.io/letters/2716-to-a-m-wattus"
+---
+
+::: {.letter-metadata}
+**Date:** [1880?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29: Author Files Wood-Yonge:
+:::
+
+Dear [Madam](people/person_1478.qmd)
+
+I hardly know how to answer you, for the having had the [Angel of Viareggio](other_books/otherbook_917.qmd) is first a reason for not being able to take another story in the same line. I think however that [Griffith and Farran](organizations/other_233.qmd)- or [Cassell](organizations/other_216.qmd) or[Routledge](organizations/other_258.qmd)- or [Aunt Judy’s Magazine](organizations/other_54.qmd) would be glad of a child’s story with a little foreign colouring.
+
+I believe Signora [Linda Villari](people/person_1444.qmd) is English not American, but I do not know
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Since this letter refers to Linda Villari's 'The Angel of Viareggio', which was published in *MP* in the first half of 1880, it seems probable that it dates from shortly after the publication of that story.

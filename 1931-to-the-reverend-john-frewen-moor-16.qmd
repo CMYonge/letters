@@ -1,0 +1,45 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1864-01-26"
+letter_date: "Jany 26 [1864]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 1931
+letter_id: "to-the-reverend-john-frewen-moor-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-01-26"
+  url: "https://cmyonge.github.io/letters/1931-to-the-reverend-john-frewen-moor-16"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 26 [1864]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+I think it will be much better to throw the prizes open to the whole schools [sic]; it is so discouraging and troublesome to be put out of the competition, and everyone has not a garden who has children at school
+
+My [mother](people/person_1606.qmd) says she meant her prizes instead of the home prize - of course they would chiefly concern the <u>first</u> - not the second - if all the extraparochial people are necessarily in the 3d class, she would extend it to them.
+
+I suppose it will not wait till we see you
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper. Envelope addressed to “The Revd/ J F Moor/Ampfield/Romsey. Postmarked Winchester J 24/64.

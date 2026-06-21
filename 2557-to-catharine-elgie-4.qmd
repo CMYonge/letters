@@ -1,0 +1,42 @@
+---
+title: "To Catharine Elgie"
+letter_iso_date: "1876-07-06"
+letter_date: "July 6th [1876?]"
+location: "Elderfield"
+manuscript: "MS Charlotte Mary Yonge Society/7"
+post_id: 2557
+letter_id: "to-catharine-elgie-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Catharine Elgie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-07-06"
+  url: "https://cmyonge.github.io/letters/2557-to-catharine-elgie-4"
+---
+
+::: {.letter-metadata}
+**Date:** July 6th [1876?]  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mary Yonge Society/7
+:::
+
+My dear [Mrs Elgie](people/person_475.qmd)
+
+Many thanks for this dear little note.  I always did think your Girls most thoroughly good and conscientious, and I think their love of home is the best and happiest thing for the place and people.  I wonder when those lawyers will finish off and let you take possession.[^1]  I hope it is all right about [Helena Dugay](people/person_447.qmd)
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Perhaps of the new incumbency of Otterbourne, so that the  [Rev. Walter Elgie](people/person_478.qmd) became Vicar rather than curate.

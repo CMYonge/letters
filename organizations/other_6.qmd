@@ -1,0 +1,19 @@
+---
+title: "Lady Margaret Hall"
+other_id: 6
+---
+
+**Type:** organization
+
+## Description
+
+Founded as a hall for women students in 1879, with Elizabeth Wordsworth as its Lady Principal, it became a college of Oxford University in 1959. See www.lmh.ox.ac.uk
+
+## Letters Mentioning This
+
+- [Letter 2539](../2539-to-the-reverend-edward-stuart-talbot.qmd)
+- [Letter 2771](../2771-to-christabel-rose-coleridge-107.qmd)
+- [Letter 3339](../3339-to-elizabeth-wordsworth-3.qmd)
+- [Letter 3414](../3414-to-elizabeth-harcourt-mitchell.qmd)
+- [Letter 19064](../19064-to-margaret-julia-argles.qmd)
+

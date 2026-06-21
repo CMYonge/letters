@@ -1,0 +1,19 @@
+---
+title: "Newbery Magazine"
+other_id: 83
+---
+
+**Type:** periodical
+
+## Description
+
+This was a children’s magazine,
+
+## Letters Mentioning This
+
+- [Letter 2911](../2911-to-the-very-reverend-william-john-butler.qmd)
+- [Letter 3156](../3156-to-arthur-donald-innes-7.qmd)
+- [Letter 3164](../3164-to-florence-wilford-6.qmd)
+- [Letter 3171](../3171-to-henrietta-a-woodgate.qmd)
+- [Letter 3236](../3236-to-anne-elizabeth-mary-anderson-morshead-4.qmd)
+

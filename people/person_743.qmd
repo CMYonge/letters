@@ -1,0 +1,20 @@
+---
+title: "John Henry Ingram"
+person_id: 743
+---
+
+## Biographical Information
+
+(1849-1916)
+
+editor
+
+He was editor of the Eminent Women series to which CMY contributed <i>Hannah More</i>.
+
+## Letters Mentioning This Person
+
+- [Letter 2843](../2843-to-john-henry-ingram.qmd)
+- [Letter 2868](../2868-to-edward-augustus-freeman-13.qmd)
+- [Letter 2869](../2869-to-john-henry-ingram-2.qmd)
+- [Letter 2920](../2920-to-john-henry-ingram.qmd)
+

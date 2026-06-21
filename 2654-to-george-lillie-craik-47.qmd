@@ -1,0 +1,38 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-12-11"
+letter_date: "Decr 11th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 75"
+post_id: 2654
+letter_id: "to-george-lillie-craik-47"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-12-11"
+  url: "https://cmyonge.github.io/letters/2654-to-george-lillie-craik-47"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 11th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 75
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+You were so kind as to say you would let me have an advance on account. I should be very glad if you would send me a [cheque for £150](organizations/other_160.qmd)
+
+Yours truly
+C M Yonge

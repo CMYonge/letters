@@ -1,0 +1,80 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1893-08-08"
+letter_date: "[8 August 1893]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add.54921/198-200. Enclosed with1899 letter from CMY to George Macmillan, MS British Library Add MSS 54921: 254"
+post_id: 19450
+letter_id: "to-arthur-donald-innes"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-08-08"
+  url: "https://cmyonge.github.io/letters/19450-to-arthur-donald-innes"
+---
+
+::: {.letter-metadata}
+**Date:** [8 August 1893]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add.54921/198-200. Enclosed with1899 letter from CMY to George Macmillan, MS British Library Add MSS 54921: 254
+:::
+
+AN AGREEMENT made this eighth day of August between MISS CHARLOTTE MARY YONGE  OF Elderfield, Otterbourne, Winchesterof the one part and “[ARTHUR DONALD INNES](people/person_744.qmd) and [THOMAS SLINGSBY TANNER](people/person_2425.qmd) of 31 and 32 Bedford Street, Strand, W.C. Publishers trading under the name of A.D. Innes &amp; Co. WHEREAS the said A.D. Innes &amp; Co. are the publishers of various works from the pen of the said Miss Yonge and it has been found advisable to alter the prices at which the said works are sold to the trade NOW IT IS HEREBY AGREED between the said parties as follows:
+
+In regard to such works as are the property of Miss C.M. Yonge namely [“The Beginnings of Church History”](cmy_books/cmybook_119.qmd) [“Castle Builders”](cmy_books/cmybook_18.qmd) [“Chosen People”](cmy_books/cmybook_42.qmd) [“Countess Kate”](cmy_books/cmybook_44.qmd) [“Friarswood Post Office”](cmy_books/cmybook_36.qmd) [“ Kings of England”](cmy_books/cmybook_6.qmd) [“ Lads and Lasses of Langley”](cmy_books/cmybook_139.qmd) [“Landmarks of Ancient History”](cmy_books/cmybook_14.qmd) [“Langley Little Ones”](cmy_books/cmybook_152.qmd) [“New Ground”](cmy_books/cmybook_68.qmd) [“Sowing and Sewing”](cmy_books/cmybook_166.qmd) [“The Stokesley Secret”](cmy_books/cmybook_40.qmd) [“Talks About the Laws We Live Under”](cmy_books/cmybook_160.qmd) [“Teachings on the Catechism”](cmy_books/cmybook_190.qmd) [“Verses on the Gospels”](cmy_books/cmybook_136.qmd) [“Womankind”](cmy_books/cmybook_115.qmd) [“Cheap Jack”](cmy_books/cmybook_147.qmd) [“Frank’s Debt”](cmy_books/cmybook_146.qmd) and [“Wolf”](cmy_books/cmybook_145.qmd) the whole expense shall be debited to the said Miss Yonge and shall be calculated as follows: (a) direct expenses, that is to say all charges of printers binders paper makers stationers advertisers artists or engravers employed in producing the said books no discount being taken into account; (b) indirect expenses of agency establishment and distribution which shall be calculated as ten per cent on the direct outlay. Sales shall be accounted for at half the published price twelve copies counting as twelve. A commission of ten per cent upon the amount of the sales so calculated shall be payable to Messrs A.D. Innes &amp; Co. for their remuneration.[^1] [*Added in handwriting*] no books shall be reprinted at Miss Yonge’s expense without her permission.
+
+(2) the sums to be paid upon such works by Miss C.M. Yonge as are published by Messrs A.D. Innes &amp; Co. upon royalty shall be as follows
+
+[“Ben Sylvester’s Word”](cmy_books/cmybook_25.qmd) Royalty at the rate of 1½d in the shilling on the published price.
+
+[“Burnt Out”](cmy_books/cmybook_128.qmd) Royalty at the rate of 2/3 of 1d in the shilling on the published price.
+
+[“Landmarks of History of the Middle Ages”](cmy_books/cmybook_16.qmd) Royalty at the rate of 1¾d in the shilling on the published price.
+
+[“Langley School”](cmy_books/cmybook_9.qmd) Royalty at the rate of 2/3 of a 1d in the shilling on the published price.
+
+[“Pigeon Pie”](cmy_books/cmybook_34.qmd) Royalty at the rate of 1½d in the shilling on the published price.
+
+[“Questions on the Catechism”](cmy_books/cmybook_253.qmd) Royalty at the rate of ¾d  in the shilling on the published price.
+
+[“Questions on the Collects”](cmy_books/cmybook_106.qmd) Royalty at the rate of ¾d  in the shilling on the published price.
+
+[“Railroad Children”](cmy_books/cmybook_22.qmd) Royalty at the rate of 2d in the shilling on the published price.
+
+[“Leonard the Lion Heart”](cmy_books/cmybook_26.qmd) Royalty at the rate of 2d in the shilling on the published price.
+
+[Questions on the Epistles. By the author of “The Heir of Redclyffe.” (Preface signed C.M. Yonge)](cmy_books/cmybook_104.qmd)“Questions on the Epistles”] Royalty at the rate of ¾d per copy.
+
+[“Questions on the Gospels”](cmy_books/cmybook_105.qmd) Royalty at the rate of 1d per copy
+
+[“Questions on the Prayer Book”](cmy_books/cmybook_142.qmd) Royalty at the rate of ¾d per copy.
+
+[“Biographies of Good Women”](cmy_books/cmybook_43.qmd) Royalty at the rate of 5d per copy.
+
+[“Kings of England”](cmy_books/cmybook_6.qmd) (cheap edition) Royalty £10 per 1000.
+
+[“Langley Adventures”](cmy_books/cmybook_163.qmd) Royalty at the rate of ¾d in the shilling on the published price beyond the first 2000 sold which are free of royalty, in the case of Langley Adventures only: twelve copies counting as twelve in all cases.
+
+If it be found necessary to sell off the stock of any of the books as remainders such sales shall be, if the books are the property of Miss C.M. Yonge accounted for at the actual price received by Messrs A.D. Innes &amp; Co. if the books be those published upon royalty then no royalty shall be payable upon such sales. This agreement shall be binding on the contracting parties their heirs and assigns throughout the whole legal terms of Copyright except in so far as it may be modified by the consent of both parties. This agreement to come into forced as and from first day of July 1892.
+
+[Signed by Innes and Tanner across the 6d stamp and by CMY underneath and with witnesses Charles K. Turner and Henry Bowles.]
+
+&nbsp;
+
+&nbsp;
+
+---
+
+[^1]: Another copy with corrections is MS BL Add 54921/202-4.
+[^2]: This is the publishing arrangement referred to in other letters as \\"on commission\\".

@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1866-10-26"
+letter_date: "Oct 26th 1866"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 164-165"
+post_id: 2136
+letter_id: "to-alexander-macmillan-80"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-10-26"
+  url: "https://cmyonge.github.io/letters/2136-to-alexander-macmillan-80"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 26th 1866  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 164-165
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Can you tell me how far back in time the reservation of the right of translation goes-? There is a pretty story of Paul Feval’s in the <u>[Feé des Grèves](other_books/otherbook_471.qmd)</u> which [my mother](people/person_1606.qmd) translated, and I want to have in the [Monthly Packet](organizations/other_52.qmd).[^1] It was printed in 1853, and is out of print in France, and there is no notice of reservation of translation in the title page - however by way of being on the safe side I wrote to ask for authorisation for the translation, and this morning my letter has been returned to me with these incomprehensible marks on the envelope. Now if 1853 was - (as I rather think) before it became necessary to get leave to translate, there need by no more trouble, but if not perhaps you could tell me how to make a less unsuccessful application. Whether M. Dageneau has removed - or who is M. Févals present publisher.[^2] The story ought to begin in January so I am rather anxious about it.
+
+[Miss Sewell](people/person_1301.qmd) is coming here today for a consultation over the extracts. I think we have nearly enough in bulk for a first [volume](cmy_books/cmybook_71.qmd), but there are two or three important bits for which we have not yet found writing interesting enough - the Battle of the Standard <sup>3</sup>- Magna Carta, and all Henry II that was not either Becket or Ireland especially.
+
+I am going to send you a piece of [Miss Peard](people/person_1160.qmd)’s work for the [Sunday Library](organizations/other_145.qmd) in a few days.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: It appeared as 'The Fairy of the Sands'. It seems that CMY was mistaken in thinking Dagneau's 1853 edition was the first.
+[^2]: The Battle of the Standard (1138), between the Scots and the English, at Northallerton in North Yorkshire.

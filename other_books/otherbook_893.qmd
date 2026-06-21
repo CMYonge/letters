@@ -1,0 +1,15 @@
+---
+title: "Washington Irving - The Alhambra"
+book_id: 893
+---
+
+## Publication Information
+
+**Date:** 1832
+
+**Imprint:** London: Colburn and Bentley
+
+## Letters Mentioning This Work
+
+- [Letter 2611](../2611-to-alexander-macmillan-129.qmd)
+

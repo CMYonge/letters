@@ -1,0 +1,17 @@
+---
+title: "Maria Edgeworth"
+person_id: 1819
+---
+
+## Biographical Information
+
+(1767-1849)
+
+novelist
+
+## Letters Mentioning This Person
+
+- [Letter 1779](../1779-to-ann-maria-carter-smith-28.qmd)
+- [Letter 1787](../1787-to-ann-maria-carter-smith-33.qmd)
+- [Letter 2330](../2330-to-mary-ann-dyson-2.qmd)
+

@@ -1,0 +1,16 @@
+---
+title: "Anne Ritchie - Old Kensington"
+book_id: 731
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Imprint:** London: Smith, Elder
+
+## Letters Mentioning This Work
+
+- [Letter 2502](../2502-to-anne-isabella-thackeray.qmd)
+- [Letter 3361](../3361-to-mary-elizabeth-christie.qmd)
+

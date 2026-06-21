@@ -1,0 +1,38 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-04-13"
+letter_date: "April 13th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 62"
+post_id: 2628
+letter_id: "to-george-lillie-craik-42"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-04-13"
+  url: "https://cmyonge.github.io/letters/2628-to-george-lillie-craik-42"
+---
+
+::: {.letter-metadata}
+**Date:** April 13th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 62
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I send the end of [the Story of the Christians and Moors](cmy_books/cmybook_126.qmd). It makes 27 chapters, and I think more would outrun the limits besides the history  of the poor Moriscos is so piteous that I do not like to go into it
+
+Yours truly
+C M Yonge

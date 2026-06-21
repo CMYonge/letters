@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1880-06-16"
+letter_date: "June 16th 1880"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection."
+post_id: 2710
+letter_id: "to-an-unknown-woman-52"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-06-16"
+  url: "https://cmyonge.github.io/letters/2710-to-an-unknown-woman-52"
+---
+
+::: {.letter-metadata}
+**Date:** June 16th 1880  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection.
+:::
+
+My dear Miss [name erased]
+
+I am so sorry, but I am going to London on Monday for the [G F S](organizations/other_23.qmd) affairs, and I do not come home till Saturday. If you are going out on an expedition could you not take me on your way back?  I come home on the 27th, and on any day but the 29th shall be at home. At least I have promised to take [my niece](people/person_1613.qmd) in one day of the Assize week to see [Lord Coleridge](people/person_343.qmd) in court, and I am not quite sure which that will be
+
+Yours sincerely
+CM Yonge

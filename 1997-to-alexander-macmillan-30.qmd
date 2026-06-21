@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-11-29"
+letter_date: "Novr 29th [1864]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54920: 59"
+post_id: 1997
+letter_id: "to-alexander-macmillan-30"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-11-29"
+  url: "https://cmyonge.github.io/letters/1997-to-alexander-macmillan-30"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 29th [1864]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54920: 59
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I send the second chapter of the [Dove](cmy_books/cmybook_62.qmd) because I hardly think the first can be long enough for one of your numbers.
+
+Christina does marry the young baron secretly but most of the adventures concern her sons. 
+
+I shall be well pleased with the terms you propose, if the story will answer the purpose.
+
+I sent off one last chapter to the [Golden Deeds](cmy_books/cmybook_51.qmd) yesterday
+
+Yours very truly
+C. M. Yonge

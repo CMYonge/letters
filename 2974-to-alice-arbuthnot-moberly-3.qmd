@@ -1,0 +1,36 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1850-11-18"
+letter_date: "[November or December 1850?]"
+manuscript: "MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 97."
+post_id: 2974
+letter_id: "to-alice-arbuthnot-moberly-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1850-11-18"
+  url: "https://cmyonge.github.io/letters/2974-to-alice-arbuthnot-moberly-3"
+---
+
+::: {.letter-metadata}
+**Date:** [November or December 1850?]  
+**Manuscript:** MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 97.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+Would [George](people/person_1014.qmd) mind being the Colonel? He is never on the stage with Edmund, and a cloak and blue scarf would turn him into a Roundhead.  I do not see what else is to be done, for altering the part now would spoil the dinner scene.  I am glad you are not more perfect in your parts. I say mine every evening when I am going to bed, but I cannot leave off laughing in the wrong places, especially when I have to congratulate Edmund on his alteration since I saw him six years ago.  Mr. Dunderhead[^1] lives in the little dressing-room, to the amazement of all beholders who come suddenly upon him in the twilight.
+
+---
+
+[^1]: Dated on the assumption that 'The Pigeon Pie' succeeded 'The Mice at Play' as the Moberlys' Christmas play.   'When 'The Pigeon Pie' was acted, [Mrs. Yonge](people/person_1606.qmd) made a lay figure to represent a soldier, which went by the name of Zedekias Dunderhead, and George gave much trouble by resolutely refusing to act the part of the Roundhead colonel, so Mrs. Yonge had to take it herself.' *Dulce Domum* 96.

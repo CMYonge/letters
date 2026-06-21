@@ -1,0 +1,17 @@
+---
+title: "George Sale et al.  - An Universal History"
+book_id: 139
+---
+
+## Publication Information
+
+**Date:** 1736-50
+
+**Imprint:** London: Batley, Symon, Osborne and Crokatt
+
+## Letters Mentioning This Work
+
+- [Letter 2549](../2549-to-christabel-rose-coleridge-83.qmd)
+- [Letter 2611](../2611-to-alexander-macmillan-129.qmd)
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

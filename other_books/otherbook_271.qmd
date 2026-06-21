@@ -1,0 +1,16 @@
+---
+title: "J.C.L. Simonde de Sismondi - Histoire des Francais"
+book_id: 271
+---
+
+## Publication Information
+
+**Date:** 1821-1833
+
+**Imprint:** Paris: Treuttel
+
+## Letters Mentioning This Work
+
+- [Letter 2521](../2521-to-edward-augustus-freeman-10.qmd)
+- [Letter 3518](../3518-to-elizabeth-barnett-10.qmd)
+

@@ -1,0 +1,41 @@
+---
+title: "To William John Woollcombe?"
+letter_iso_date: "1891-11-19"
+letter_date: "Novr 19th 1891"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Cheltenham Ladies College 0940/279"
+post_id: 3180
+letter_id: "to-william-john-woollcombe"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To William John Woollcombe?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-11-19"
+  url: "https://cmyonge.github.io/letters/3180-to-william-john-woollcombe"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 19th 1891  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Cheltenham Ladies College 0940/279
+:::
+
+Dear [Mr Woollcombe](people/person_1560.qmd)
+I am just come home from Devon.  I will send your letter to [Macmillan](people/person_942.qmd), I think he will consider that admission to a school will make it quite worth while to cheapen it.  I will ask one of the partners to write direct to you.  I hope your brother [Robert](people/person_1559.qmd)has improved since I left Torquay, on Saturday, but the weather, keeping him indoors, is much against him
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper. William John Woollcombe (1832-1921) was married to CMY’s first cousin Anne Catharina Pode (d. 1913) and was brother to  Major Robert Woollcombe, the husband of Mary Walter.  However, there were seven brothers, and this letter could equally well be to the Rev. George Ley Woollcombe (1828-1902),  Edward Woollcombe (1842-1914) or Richard Woollcombe (1847-1936).

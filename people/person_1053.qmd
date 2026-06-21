@@ -1,0 +1,13 @@
+---
+title: "Miss Moorsom"
+person_id: 1053
+---
+
+## Biographical Information
+
+correspondent
+
+## Letters Mentioning This Person
+
+- [Letter 3100](../3100-to-miss-moorsom.qmd)
+

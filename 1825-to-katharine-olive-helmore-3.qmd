@@ -1,0 +1,46 @@
+---
+title: "To Katharine Olive Helmore"
+letter_iso_date: "1861-03-18"
+letter_date: "March 18th 1861"
+location: "Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell/Cobweb-2"
+post_id: 1825
+letter_id: "to-katharine-olive-helmore-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Katharine Olive Helmore"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-03-18"
+  url: "https://cmyonge.github.io/letters/1825-to-katharine-olive-helmore-3"
+---
+
+::: {.letter-metadata}
+**Date:** March 18th 1861  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell/Cobweb-2
+:::
+
+Most submissive [Cobweb](people/person_675.qmd),
+
+The only change that I would suggest this time would be that for the word Evangelists you should substitute Gospels – as the Forms to which you refer rather symbolize the characteristics of the Gospels themselves than of their writers The [answers](organizations/other_104.qmd) will carry you all very deep and high.
+
+[The Humble Bee](people/person_81.qmd)[^1] will be delighted with [Kepler](people/person_1850.qmd) as the stars are her peculiar line. We shall have such beautiful stories of [Handel](people/person_1851.qmd) that I much look forward to him, but I wonder if any one will take the new view of [Wallace](people/person_1852.qmd)?
+
+your faithful
+
+Mother Goose
+
+---
+
+[^1]: Tiny 95mm x 54mm blue envelope addressed to ‘Miss Helmore/6 Cheyne Walk/Chelsea/SW’ postmarked Winchester 18 March 1861 and London 19 March 1861,
+[^2]: (Frances) Emily Moberly (1844-1921) was a Gosling as Humble Bee from 1859-1868(?),

@@ -1,0 +1,44 @@
+---
+title: "To Miss Faithfull"
+letter_iso_date: "1900-03-25"
+letter_date: "March 25 [1900]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3447
+letter_id: "to-miss-faithful"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Faithfull"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-03-25"
+  url: "https://cmyonge.github.io/letters/3447-to-miss-faithful"
+---
+
+::: {.letter-metadata}
+**Date:** March 25 [1900]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Miss Faithfull](people/person_498.qmd)[^1]
+I am sorry you had such an ungrateful return for your kindness but I have not yet proceeded into the outer air, and am only picking up the neglected tangles that were left. [^2]
+
+ I am very much obliged for the photographs. Little [Eustacie](cmy_books/cmybook_69.qmd) as ever comes out the best
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Perhaps a teacher at Winchester High School.
+[^2]: The reference to Eustacie, a character in *The Chaplet of Pearls* suggests that the photographs were of the tableaux at St. Swithin's on 19 July 1899 in honour of CMY's seventieth birthday, but the date indicates that the letter was written in the following year.

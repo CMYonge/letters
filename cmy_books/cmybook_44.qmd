@@ -1,0 +1,23 @@
+---
+title: "Countess Kate. By the author of “The Heir of Redclyffe.”"
+book_id: 44
+sort_title: "Countess Kate"
+---
+
+## Publication Information
+
+**Date:** 1862
+
+**Genre:** Fiction (modern)
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78, New Bond Street, London.
+
+**Notes:** The heroine also appears in <i>The Pillars of the House.</i>
+
+## Letters Mentioning This Work
+
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+- [Letter 3391](../3391-to-frederick-orridge-macmillan-2.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
+- [Letter 3600](../3600-to-miss-higginbotham.qmd)
+

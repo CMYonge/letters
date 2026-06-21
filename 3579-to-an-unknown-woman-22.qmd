@@ -1,0 +1,37 @@
+---
+title: "To an unknown woman"
+letter_iso_date: "1863-07-22"
+letter_date: "July 22 [after 1863]"
+location: "Elderfield"
+manuscript: "MS British Library Add 45224 L"
+post_id: 3579
+letter_id: "to-an-unknown-woman-22"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-07-22"
+  url: "https://cmyonge.github.io/letters/3579-to-an-unknown-woman-22"
+---
+
+::: {.letter-metadata}
+**Date:** July 22 [after 1863]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add 45224 L
+:::
+
+Dear Madam
+The scene of the [Heir of Redclyffe](cmy_books/cmybook_15.qmd) is imaginary but I had Clovelly in my mind when describing the bay
+
+yours truly
+C M Yonge

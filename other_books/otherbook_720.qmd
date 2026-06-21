@@ -1,0 +1,17 @@
+---
+title: "George Eliot - George Eliot's Life, as related in her Letters and Journals Arranged and edited by her husband J. W. Cross."
+book_id: 720
+---
+
+## Publication Information
+
+**Date:** 1885
+
+**Imprint:** Edinburgh: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 2800](../2800-to-gertrude-mary-ireland-blackburnef.qmd)
+- [Letter 2801](../2801-to-gertrude-mary-ireland-blackburne-3.qmd)
+- [Letter 3334](../3334-to-mary-elizabeth-christie-3.qmd)
+

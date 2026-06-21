@@ -1,0 +1,16 @@
+---
+title: "Goldwin Smith - 'Dr. Pusey's Eirenicon'"
+book_id: 447
+---
+
+## Publication Information
+
+**Date:** 1866
+
+**Imprint:** <i>Macmillan’s Magazine</i> 13 (February 1866) 273-284
+
+## Letters Mentioning This Work
+
+- [Letter 2101](../2101-to-alexander-macmillan-70.qmd)
+- [Letter 2103](../2103-to-alexander-macmillan-71.qmd)
+

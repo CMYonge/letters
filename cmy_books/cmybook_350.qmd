@@ -1,0 +1,21 @@
+---
+title: "article on French history"
+book_id: 350
+sort_title: "article on French history"
+---
+
+## Publication Information
+
+**Date:** 1892?
+
+**Genre:** non-fiction, history
+
+**Publisher:** Cassell?
+
+**Notes:** Letters to Arthur John Butler, then working for Cassell, suggest that CMY contributed an article on French mediaeval history to one of their journals in 1892.
+
+## Letters Mentioning This Work
+
+- [Letter 3201](../3201-to-arthur-john-butler-7.qmd)
+- [Letter 3202](../3202-to-arthur-john-butler-8.qmd)
+

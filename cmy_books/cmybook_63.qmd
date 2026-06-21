@@ -1,0 +1,23 @@
+---
+title: "The Danvers Papers: An InventionBy the author of  “The Heir of Redclyffe.”"
+book_id: 63
+sort_title: "Danvers Papers: An Invention"
+---
+
+## Publication Information
+
+**Date:** 1867.
+
+**Genre:** Fiction (historical)
+
+**Publisher:** London: Macmillan and Co.
+
+## Letters Mentioning This Work
+
+- [Letter 2168](../2168-alexander-macmillan-to-charlotte-mary-yonge-47.qmd)
+- [Letter 2172](../2172-alexander-macmillan-to-charlotte-mary-yonge-50.qmd)
+- [Letter 2174](../2174-to-alexander-macmillan-86.qmd)
+- [Letter 2175](../2175-alexander-macmillan-to-charlotte-mary-yonge-51.qmd)
+- [Letter 2186](../2186-to-alexander-macmillan-89.qmd)
+- [Letter 2660](../2660-to-alexander-macmillan-135.qmd)
+

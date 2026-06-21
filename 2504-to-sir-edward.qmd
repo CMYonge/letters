@@ -1,0 +1,48 @@
+---
+title: "To Sir Edward  ---"
+letter_iso_date: "1874-05-18"
+letter_date: "May 18th 1874"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2504
+letter_id: "to-sir-edward"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir Edward  ---"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-05-18"
+  url: "https://cmyonge.github.io/letters/2504-to-sir-edward"
+---
+
+::: {.letter-metadata}
+**Date:** May 18th 1874  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear Sir Edward
+
+I forgot about [Lady Beatrix Graham](cmy_books/cmybook_91.qmd) to which I certainly contributed <u>nothing</u> but the preface.[^1] I did not even profess to edit it so it was quite gratuitously attributed to me. I ought to have remembered that is had been so.
+
+I am not quite sure where your knowledge of the ornaments of the County hall stopped short. I went over it about Christmas and thought the effect most beautiful
+
+There is a collection being made of the worthies connected with the Castle whose shields are to appear in the windows. No doubt [Mr Wyatt](people/person_2296.qmd) has told you of the curious projection of masonry [words missing] of the upper end, intended perhaps to support the throne, and with an opening in the wall, apparently on a level with the head of a person standing on it, as if to give orders to someone outside[^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: 
+[^2]: *Journal of  the Lady Beatrix Graham* was an anonymous historical novel by Jane Smith-Dampier, published with an introduction by CMY in 1871.
+[^3]: The Great Hall of Winchester Castle was restored by Thomas Henry Wyatt (1807-1880) in 1873.

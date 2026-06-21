@@ -1,0 +1,16 @@
+---
+title: "Orthopaedic Hospital"
+other_id: 9
+---
+
+**Type:** organization
+
+## Description
+
+The Royal National Orthopaedic Hospital, originally called the Infirmary for the Cure of Club Foot and other Contractions, and later the Orthopaedic Institution, was founded in 1838 and opened at Bloomsbury Square in 1840.  Its archives are in London Metropolitan Archives. See http://www.rnoh.nhs.uk/about-the-rnoh/history-the-rnoh.
+
+## Letters Mentioning This
+
+- [Letter 3259](../3259-to-charlotte-anne-elizabeth-moberly.qmd)
+- [Letter 3271](../3271-to-george-lillie-craik-15.qmd)
+

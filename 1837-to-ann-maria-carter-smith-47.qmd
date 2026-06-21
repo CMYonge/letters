@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1861-07-03"
+letter_date: "July 3d 1861"
+location: "Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1861/11"
+post_id: 1837
+letter_id: "to-ann-maria-carter-smith-47"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-07-03"
+  url: "https://cmyonge.github.io/letters/1837-to-ann-maria-carter-smith-47"
+---
+
+::: {.letter-metadata}
+**Date:** July 3d 1861  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/11
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I have sent my brother to torment the Winchester postmaster, so I hope it will all come right. I sent another at the same time to Old Charlton to [Mrs Carr](people/person_259.qmd), which perhaps made this confusion. Perhaps I should have told you that I made out the order in the name only of Ann Smith. How happy you must be with your sailor - it seems like all the holidays of many brothers pressed into a short bright time. I have heard from [Mrs Elphinstone](people/person_482.qmd), who promises to send the £10 in August, and would prefer its being spent according to your first alternative, in helping three respectable old couples through the winter. She says she longs to send more to England but the Indian famine prevents it.
+
+yours sincerely
+
+C M Yonge
+
+The postmaster will send another letter of advice
+
+---
+
+**Note:** Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester (date incomplete) and London SE 4 July 1861.

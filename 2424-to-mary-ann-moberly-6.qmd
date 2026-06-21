@@ -1,0 +1,40 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1871-11-18"
+letter_date: "Nov. 1871."
+location: "Otterbourne,"
+manuscript: "MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 245."
+post_id: 2424
+letter_id: "to-mary-ann-moberly-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-11-18"
+  url: "https://cmyonge.github.io/letters/2424-to-mary-ann-moberly-6"
+---
+
+::: {.letter-metadata}
+**Date:** Nov. 1871.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 245.
+:::
+
+[[To Mary Ann Moberly](people/person_1019.qmd)]
+
+I have little hope of a contradiction;[^1]  it is the same island where they martyred the two boys before, and no one ever set his face more as a flint to meet whatever might come than [he](people/person_1155.qmd) did.  Once before it nearly happened.  How one must pray that this blood may be the seed of the Church!  The last I had heard was of a grand, crowning success of ninety-seven baptised at once at [Mota](organizations/other_150.qmd).   . .   So he has brought his sheaves with him![^2]  When I know more you shall hear, but his sisters are abroad;  I do not think they ever looked to see his face here . . .
+
+---
+
+[^1]: The news that Bishop Patteson had been murdered in the Santa Cruz Islands on 20 September 1871 was reported in *The Times*, 28 November 1871, 9e.
+[^2]: Psalms 126:6.

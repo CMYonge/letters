@@ -1,0 +1,41 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-06-19"
+letter_date: "June 19th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library"
+post_id: 2044
+letter_id: "to-alexander-macmillan-49"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-06-19"
+  url: "https://cmyonge.github.io/letters/2044-to-alexander-macmillan-49"
+---
+
+::: {.letter-metadata}
+**Date:** June 19th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+Thank you for your note. [Miss Sewell](people/person_1301.qmd) is coming here to talk the matter over, and sketch our plans next Wednesday week and then I will write again[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: These were plans for *Historical Selections*.

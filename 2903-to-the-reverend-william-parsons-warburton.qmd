@@ -1,0 +1,45 @@
+---
+title: "To the Reverend William Parsons Warburton"
+letter_iso_date: "1889-03-04"
+letter_date: "March 4th [1889?]"
+location: "Elderfield"
+manuscript: "MS Girton College, Cambridge"
+post_id: 2903
+letter_id: "to-the-reverend-william-parsons-warburton"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William Parsons Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-03-04"
+  url: "https://cmyonge.github.io/letters/2903-to-the-reverend-william-parsons-warburton"
+---
+
+::: {.letter-metadata}
+**Date:** March 4th [1889?]  
+**From:** Elderfield  
+**Manuscript:** MS Girton College, Cambridge
+:::
+
+My dear [Canon Warburton](people/person_1466.qmd)
+
+‘[Foundations of the Creed](other_books/otherbook_1074.qmd)’ by the Bishop of Carlisle has just been mentioned to me in a letter as a particularly good book for the present time.  Perhaps someone else has set it down, but it is better to run the risk of mentioning what is known than to leave it out.
+
+That Pearl story haunts me. I think I see how it may make a very nice little romance after incubation!
+
+Yours sincerely
+
+C M Yonge
+
+---
+
+**Note:** This was probably in connection with the [Winchester Diocesan Society for Higher Religious Education](organizations/other_48.qmd).

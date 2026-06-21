@@ -1,0 +1,11 @@
+---
+title: "London Society"
+other_id: 220
+---
+
+**Type:** periodical
+
+## Letters Mentioning This
+
+- [Letter 3209](../3209-to-arthur-donald-innes-17.qmd)
+

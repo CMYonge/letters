@@ -1,0 +1,19 @@
+---
+title: "Tyntesfield"
+other_id: 207
+---
+
+**Type:** place
+
+## Description
+
+The home in Somerset of [William Gibbs](../people/person_560.qmd) and his wife, CMY's cousin [Matilda Blanche Crawley Boevey](../people/person_557.qmd).
+
+## Letters Mentioning This
+
+- [Letter 2347](../2347-to-anne-elizabeth-mary-anderson-morshead-3.qmd)
+- [Letter 2867](../2867-to-elizabeth-barnett-20.qmd)
+- [Letter 2868](../2868-to-edward-augustus-freeman-13.qmd)
+- [Letter 19162](../19162-to-frances-mary-peard.qmd)
+- [Letter 19419](../19419-to-florence-wilford.qmd)
+

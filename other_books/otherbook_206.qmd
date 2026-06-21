@@ -1,0 +1,15 @@
+---
+title: "Christabel Coleridge - The Main Chance"
+book_id: 206
+---
+
+## Publication Information
+
+**Date:** 1899
+
+**Imprint:** London: Hurst and Blackett
+
+## Letters Mentioning This Work
+
+- [Letter 3407](../3407-to-lady-leconfield.qmd)
+

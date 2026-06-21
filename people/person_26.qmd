@@ -1,0 +1,17 @@
+---
+title: "Jean-Jacques Ampère"
+person_id: 26
+---
+
+## Biographical Information
+
+(1800-1864)
+
+French historian
+
+Son of the physicist André Marie Ampère (d. 1836).
+
+## Letters Mentioning This Person
+
+- [Letter 2330](../2330-to-mary-ann-dyson-2.qmd)
+

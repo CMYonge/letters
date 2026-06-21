@@ -1,0 +1,15 @@
+---
+title: "William Greener - The Gun, or, A Treatise on the Various Descriptions of Small Fire-arms"
+book_id: 76
+---
+
+## Publication Information
+
+**Date:** 1835
+
+**Imprint:** London: Longman and Edinburgh: Cadell
+
+## Letters Mentioning This Work
+
+- [Letter 2979](../2979-to-anne-yonge-25.qmd)
+

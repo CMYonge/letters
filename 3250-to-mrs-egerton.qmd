@@ -1,0 +1,41 @@
+---
+title: "To Mrs Egerton"
+letter_iso_date: "1894-02-15"
+letter_date: "Feb 15th 1894"
+location: "[G F S](organizations/other_23.qmd) Elderfield Otterbourne Winchester"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3250
+letter_id: "to-mrs-egerton"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Egerton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-02-15"
+  url: "https://cmyonge.github.io/letters/3250-to-mrs-egerton"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 15th 1894  
+**From:** [G F S](organizations/other_23.qmd) Elderfield Otterbourne Winchester  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Mrs Egerton](people/person_470.qmd)
+Unluckily the matter of the Grants could not come on till the last and I never found you again. I am sorry to say that the Council refused to forward your application as it would be a dangerous precedent to other Branches who might ask for the same grant. I have written to [Mrs Chester](people/person_1682.qmd) and she may send it to you. I am sorry I had to run away from you, but there was need of my seeing [Miss Chambers](people/person_2133.qmd) and I hoped you would have spoken when the subject came on.
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** In matching envelope with G F S written in upper left corner and stamp removed, addressed ‘Mrs Egerton/The Cottage/Alresford.’

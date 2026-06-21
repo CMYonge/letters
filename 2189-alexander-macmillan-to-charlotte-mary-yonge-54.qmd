@@ -1,0 +1,42 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1867-07-12"
+letter_date: "July 12 1867"
+manuscript: "Copy outletter book British Library Add MSS.55387 (1) P. 348"
+post_id: 2189
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-54"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-07-12"
+  url: "https://cmyonge.github.io/letters/2189-alexander-macmillan-to-charlotte-mary-yonge-54"
+---
+
+::: {.letter-metadata}
+**Date:** July 12 1867  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1) P. 348
+:::
+
+Dear Miss Yonge
+[I](people/person_939.qmd) have sent the description to [Mr Armitage](people/person_60.qmd), who I am sure will be very glad to have it.
+
+About [vignettes](organizations/other_167.qmd) I am rather uncertain. They are very dangerous. Anything short of high excellence is apt to be commonplace and conventional. The cup with the serpent dos not commend itself to me quite. I am afraid I have not much taste for <u>arbitrary</u> symbolism - meanings in fact I do like and in words.
+
+However I think the three pictures will do excellently well, and Mr Armitage will treat them reverently and carefully. I hope to have one to show you before long.
+
+I was so fortunate as to be in when [Miss Sewell](people/person_1301.qmd) called on Wednesday. We had a nice long talk, I hope she will tell you the result! On my return from America she hopes to be ready to begin to print. I start early in August. The time between seems too short for all my preparations. I have been such a stick-at-home all my life that the prospect of a long voyage quite frightens me.
+
+I am dear Miss Yonge
+Yours very truly
+ A. Macmillan

@@ -1,0 +1,40 @@
+---
+title: "To Emily or Jane Mary Dampier"
+letter_iso_date: "1870-00-00"
+letter_date: "[<i>c</i>. 1870?]"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3538
+letter_id: "to-emily-or-jane-dampier"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Emily or Jane Mary Dampier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-00-00"
+  url: "https://cmyonge.github.io/letters/3538-to-emily-or-jane-dampier"
+---
+
+::: {.letter-metadata}
+**Date:** [<i>c</i>. 1870?]  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Miss Dampier](people/person_1345.qmd),
+
+Here are your books with many thanks, and the Scotch one. It is the Edinburgh baillie who is worth reading—the other is <u>horrid</u>. I will get the rest of Mademoiselle as soon as I can and send her or bring her.[^1]
+
+Yours sincerely
+C M  Yonge
+
+---
+
+[^1]: Perhaps *Mémoires de Mademoiselle de Montpensier* ed. Adolphe Cheruel 4 vols (Paris: Charpentier 1858-9).

@@ -1,0 +1,15 @@
+---
+title: "John Claudius Loudon - Arboretum et fruticetum brittanicum, or, The Trees and Shrubs of Britain"
+book_id: 109
+---
+
+## Publication Information
+
+**Date:** 1838
+
+**Imprint:** London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3001](../3001-to-elizabeth-roberts-21.qmd)
+

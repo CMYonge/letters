@@ -1,0 +1,41 @@
+---
+title: "To Miss Higginbotham"
+letter_iso_date: "1892-10-06"
+letter_date: "Oct 6th [1892-1898]"
+location: "Elderfield Otterbourne"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3600
+letter_id: "to-miss-higginbotham"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Higginbotham"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-10-06"
+  url: "https://cmyonge.github.io/letters/3600-to-miss-higginbotham"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 6th [1892-1898]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Miss Higginbotham](people/person_693.qmd)
+I think you will find the beginning of the stories in the [Castle builders](cmy_books/cmybook_18.qmd) & [Countess Kate](cmy_books/cmybook_44.qmd), which are in the hands of [Innes](people/person_744.qmd), 31 Bedford Street Covent Garden.[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The question was evidently which were the earliest of the linked stories.  Innes reprinted *Countess Kate* in 1892 and *The Castle-Builders* in 1896.

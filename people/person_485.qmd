@@ -1,0 +1,22 @@
+---
+title: "Queen Emma"
+person_id: 485
+---
+
+## Biographical Information
+
+(1836-1885)
+
+Queen consort of Hawaii
+
+She visited England in 1865-6 to raise funds for an Anglican cathedral and girls' school.
+
+## Letters Mentioning This Person
+
+- [Letter 1935](../1935-to-the-reverend-john-mason-neale.qmd)
+- [Letter 2066](../2066-to-mary-ann-dyson-3.qmd)
+- [Letter 2067](../2067-to-fanny.qmd)
+- [Letter 2110](../2110-to-anne-yonge-43.qmd)
+- [Letter 2115](../2115-to-jemima-charlotte-mozley.qmd)
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
+

@@ -1,0 +1,15 @@
+---
+title: "James Forbes - Oriental Memoirs"
+book_id: 65
+---
+
+## Publication Information
+
+**Date:** 1813
+
+**Imprint:** London: Bensley
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+

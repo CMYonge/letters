@@ -1,0 +1,43 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1854-03-21"
+letter_date: "March 21st [1854]"
+location: "Otterbourn Winchester"
+manuscript: "MS Princeton University, Parrish Collection, C0171 Box 29"
+post_id: 3037
+letter_id: "to-john-william-parker-jr"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-03-21"
+  url: "https://cmyonge.github.io/letters/3037-to-john-william-parker-jr"
+---
+
+::: {.letter-metadata}
+**Date:** March 21st [1854]  
+**From:** Otterbourn Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171 Box 29
+:::
+
+Dear[Sir](people/person_1143.qmd), 
+There are a few slight corrections of the [‘Heir of Redclyffe](cmy_books/cmybook_15.qmd)’ which I will send in a day or two. I am glad to learn that this edition has sold off so well, but I think we should take it into consideration whether it might not be better still further to lessen the price. I have been much urged by influential persons to publish a large and really cheap edition, such as would fall into the hands of a more extensive class of purchasers, and this would certainly well accord with my own views. I see that Lady Catherine Long’s ‘[Sir Roland Ashton](other_books/otherbook_107.qmd)’[^1]  originally a three volume novel is now published at 2/ and the great sale that books thus cheaply printed obtain would seem to point this out as a desirable measure now that the work has become known
+
+I remain
+Yours faithfully
+C.M. Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: *Sir Roland Ashton: A Tale of the Times* (1844), an anti-tractarian novel by Lady Catherine (Walpole) Long (d. 1867). The edition referred to was advertised in *The Times* (10 March 1854), 13.

@@ -1,0 +1,48 @@
+---
+title: "To  Maria Edith Walker"
+letter_iso_date: "1899-09-22"
+letter_date: "Sept 22 1899"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS  West Sussex County Record Office/ Add. 16,944/3"
+post_id: 3428
+letter_id: "to-miss-e-m-walker-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Maria Edith Walker"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-09-22"
+  url: "https://cmyonge.github.io/letters/3428-to-miss-e-m-walker-6"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 22 1899  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS  West Sussex County Record Office/ Add. 16,944/3
+:::
+
+Dear [Miss Walker](people/person_2234.qmd)
+I should like much to know your [Grandmother](people/person_2199.qmd)’s name, in case I should have heard of her from my [mother](people/person_1606.qmd).  The curious thing is that my mother had no idea that she was a success.  She was very miserable at school, being really too delicate for the treatment of those days and never well in London.  She thought her lessons were always marked ‘<u>très</u> mediocre’, and her comfort was watching the hands of the watch, and sometimes getting a walk with her step brother afterwards [Lord Seaton](people/person_313.qmd) - who told me some 50 years later that it had been a mistake to send her to school for she was too clever for most of her companions. She was extremely surprised when I repeated it to her, for I do not think she had the least idea that she was clever or an example, though the school certainly did remove from some church in consequence of some home report of the doctrine.  The only schoolfellows whose names I remember to have heard her mention were Charlotte and [Mary Anne Mapletoft](people/person_412.qmd).  Mary Anne married [Dr Davys](people/person_411.qmd), the Queen’s tutor, and afterwards Bishop of Peterborough.  The friendship was kept up, and the daughters were great friends of mine.  One granddaughter [Edith Argles](people/person_56.qmd), is on the Calcutta Mission.
+
+I do not know Tongue grass  I think it must be an Irish name for it is in neither of my books.
+
+Playing at travellers may be the game analogous to the Old Coach, where the players jumped up if the place was mentioned, or the one you describe.  My cousins had one of the wonders of nature volcanoes &c, and another where the padlock sent one back to find the key, both moulded on the game of the Goose.   
+
+I think my mother once acted ‘Iras’ at the school[^1]  Do you remember Miss Mitford’s account of the ‘Search after Happiness’ at her school at Reading?[^2]  They call it laylock here, but certainly not with the circumlocution as to the colour!  I regret the laylock prints people used to wear
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Shakespeare’s *Antony and Cleopatra* seems an odd choice for a girls’ school, and this may be a misreading.
+[^2]: Hannah More, *A Search after Happiness: A Pastoral, in three dialogues. By a young Lady* (Bristol: Farley 1773).  Mary Russell Mitford gives a description of its being performed at her school in 'Early Recollections', published in the second volume (1826) of *Our Village*.

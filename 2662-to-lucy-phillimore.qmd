@@ -1,0 +1,43 @@
+---
+title: "To Lucy Phillimore"
+letter_iso_date: "1879-02-21"
+letter_date: "Feb 21st [1879]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Girton College Cambridge, Yonge XIV 1"
+post_id: 2662
+letter_id: "to-lucy-phillimore"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Lucy Phillimore"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-02-21"
+  url: "https://cmyonge.github.io/letters/2662-to-lucy-phillimore"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 21st [1879]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Girton College Cambridge, Yonge XIV 1
+:::
+
+My dear [Miss Phillimore](people/person_1170.qmd),
+
+I wish I could have put in the notice, but it came after all had gone to be printed, and when the proof came there proved to be no room to squeeze anything in but it shall certainly come in April[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Lucy Phillimore (1850-1931), contributor to *MP* and the *Magazine for the Young*, published several messages in *MP* in early 1879 acknowledging contributions to the appeal for the Bishop Wilberforce Confirmation Memorial Window in St. Mary's Southampton.

@@ -1,0 +1,44 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-04-03"
+letter_date: "April 3d 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 60"
+post_id: 2626
+letter_id: "to-george-lillie-craik-40"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-04-03"
+  url: "https://cmyonge.github.io/letters/2626-to-george-lillie-craik-40"
+---
+
+::: {.letter-metadata}
+**Date:** April 3d 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 60
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Should not the title be ['The Story of the Moors and Christians in Spain'](cmy_books/cmybook_126.qmd) <u>A</u> Story looks as if it were fiction
+
+Yours truly
+C M Yonge		
+
+I shall send the proof tomorrow
+
+---
+
+**Note:** Black-edged paper.

@@ -1,0 +1,35 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1865-01-01"
+letter_date: "[?1865]"
+manuscript: "This fragment printed in Mary J. Harris, 1903. [<i>Memoir of Frances Mary Peard</i>](other_books/otherbook_318.qmd),"
+post_id: 19354
+letter_id: "to-frances-mary-peard"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-01-01"
+  url: "https://cmyonge.github.io/letters/19354-to-frances-mary-peard"
+---
+
+::: {.letter-metadata}
+**Date:** [?1865]  
+**Manuscript:** This fragment printed in Mary J. Harris, 1903. [<i>Memoir of Frances Mary Peard</i>](other_books/otherbook_318.qmd),
+:::
+
+[To [Frances Mary Peard](people/person_1160.qmd)].. . . .  to add to the casualties of croquet[^1] a boy had the most terrible blow on his (head ?) the other day from the swinging round of a mallet, and had an artery cut open so as to be very seriously in danger for a day or two.
+
+---
+
+[^1]: Croquet is believed to have been introduced into England in 1856. It was played by adults and children of both sexes on the lawns of private houses. It figures in the plot of Yonge's *The Clever Woman of the Family*, and may have provoked comments from FMP to which this is a response.

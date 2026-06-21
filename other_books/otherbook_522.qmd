@@ -1,0 +1,15 @@
+---
+title: "Anne Marie Louise d'Orleans Montpensier Duchesse de - Mémoires de Mademoiselle de Montpensier, fille de Mr. Gaston d'Orléans, frere de Louis XIII,  roi de France"
+book_id: 522
+---
+
+## Publication Information
+
+**Date:** 1728
+
+**Imprint:** Paris: Le Breton
+
+## Letters Mentioning This Work
+
+- [Letter 2240](../2240-to-jane-mary-smith-dampier-2.qmd)
+

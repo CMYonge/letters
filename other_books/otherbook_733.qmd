@@ -1,0 +1,15 @@
+---
+title: "Margaret Oliphant - The Story of Valentine and his Brother"
+book_id: 733
+---
+
+## Publication Information
+
+**Date:** 1875
+
+**Imprint:** Edinburgh and London: Blackwood
+
+## Letters Mentioning This Work
+
+- [Letter 3361](../3361-to-mary-elizabeth-christie.qmd)
+

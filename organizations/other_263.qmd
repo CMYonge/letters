@@ -1,0 +1,15 @@
+---
+title: "Cambridge University Press"
+other_id: 263
+---
+
+**Type:** organization
+
+## Description
+
+Publishing company.
+
+## Letters Mentioning This
+
+- [Letter 19572](../19572-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

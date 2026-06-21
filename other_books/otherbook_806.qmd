@@ -1,0 +1,13 @@
+---
+title: "Elizabeth Wordsworth - 'On an Olive Branch'"
+book_id: 806
+---
+
+## Publication Information
+
+**Imprint:** <i>MP</i> (September 1871) 222-5
+
+## Letters Mentioning This Work
+
+- [Letter 2415](../2415-to-elizabeth-wordsworth-4.qmd)
+

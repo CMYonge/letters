@@ -1,0 +1,17 @@
+---
+title: "John James Hornby"
+person_id: 1891
+---
+
+## Biographical Information
+
+(1868-1884)
+
+headmaster of Eton College 1868-1884
+
+He was at Eton and at Balliol College, Oxford, with the Rt. Rev. John Coleridge Patteson, and was consulted by CMY when writing the latter's biography.
+
+## Letters Mentioning This Person
+
+- [Letter 7798](../7798-to-sir-john-taylor-coleridge.qmd)
+

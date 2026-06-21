@@ -1,0 +1,17 @@
+---
+title: "Maria, Lady Callcott - Little Arthur’s History of England"
+book_id: 811
+---
+
+## Publication Information
+
+**Date:** 1835
+
+**Imprint:** London: Murray
+
+## Letters Mentioning This Work
+
+- [Letter 2420](../2420-to-charlotte-cordelia-yonge-4.qmd)
+- [Letter 2455](../2455-to-edward-augustus-freeman-4.qmd)
+- [Letter 2456](../2456-to-edward-augustus-freeman-5.qmd)
+

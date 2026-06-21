@@ -1,0 +1,17 @@
+---
+title: "Edith Pond"
+person_id: 2231
+---
+
+## Biographical Information
+
+(b.1874/5)
+
+sister of [Bessie Pond](person_1648.qmd), housemaid
+
+She is found working for Maurice Yonge in the 1901 census just after CMY's death.  She and her sister were daughters of Francis Pond, cabinet-maker, of Wantage.
+
+## Letters Mentioning This Person
+
+- [Letter 3460](../3460-to-christabel-rose-coleridge-45.qmd)
+

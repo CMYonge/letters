@@ -1,0 +1,41 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-05-15"
+letter_date: "May 15th 1894"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 149-50"
+post_id: 3264
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-25"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-05-15"
+  url: "https://cmyonge.github.io/letters/3264-to-the-reverend-john-frederick-watkinson-bullock-25"
+---
+
+::: {.letter-metadata}
+**Date:** May 15th 1894  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 149-50
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+I send you [Charles Simeon](people/person_1275.qmd) You see he was entirely taught by the Church and nothing else, so far as his first beginnings of religion were concerned. He disowned being a Calvinist; but I think his mistake was in studying Huguenot sermons. I do not know if you will put the Simeonite preferments into a note. I thought some explanation was needful I daresay you may know one or other of his three grand-nephews.[^1] The very strong sense of devotion seems to belong to the family and I have little doubt that in these days he would be as strong a Churchman as they are
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: CMY probably meant the sons of Captain [Charles Simeon](people/person_1322.qmd) of Hursley (though he had more than three who were clergymen).  She was urging Bullock to include Simeon in the 'Biographies of Eminent Anglicans' for his *Daily Lections* project.

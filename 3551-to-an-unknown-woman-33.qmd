@@ -1,0 +1,40 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1853-02-09"
+letter_date: "Feb 9th [after 1853]"
+manuscript: "MS New York Public Library: Berg Collection"
+post_id: 3551
+letter_id: "to-an-unknown-woman-33"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1853-02-09"
+  url: "https://cmyonge.github.io/letters/3551-to-an-unknown-woman-33"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 9th [after 1853]  
+**Manuscript:** MS New York Public Library: Berg Collection
+:::
+
+Madam
+
+I am obliged by your MS, but [Alexandrine des Escherolles](other_books/otherbook_273.qmd)has been already translated. [^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: *Private Trials and Public Calamities or, The early life of Alexandrine des Écherolles, during the troubles of the first French revolution*  2 vols (London: Bentley 1853), a translation by Anne Percy of Alexandrine des Écherolles, *Quelques* années *de ma vie* (Moulins 1843).

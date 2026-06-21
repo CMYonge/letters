@@ -1,0 +1,43 @@
+---
+title: "To Evelyn Mary St. John Mildmay"
+letter_iso_date: "1877-02-28"
+letter_date: "Feb 28th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mary Yonge Society/ 1"
+post_id: 2576
+letter_id: "to-evelyn-mary-st-john-mildmay"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Evelyn Mary St. John Mildmay"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-02-28"
+  url: "https://cmyonge.github.io/letters/2576-to-evelyn-mary-st-john-mildmay"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 28th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mary Yonge Society/ 1
+:::
+
+My dear [Miss Mildmay](people/person_996.qmd)
+
+I am much obliged for your Essex dialect, which I will put in when I can.[^1]  I am much afraid such things will soon only be fossils, and that we shall only hear new fashioned vulgarisms
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to ‘Miss E St John Mildmay/ The Rectory/ Chelmsford' and postmarked '28 February 1877’.
+[^2]: This was probably a contribution to *MP*, but has not been identified.

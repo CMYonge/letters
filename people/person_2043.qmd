@@ -1,0 +1,17 @@
+---
+title: "Horatio Nelson"
+person_id: 2043
+---
+
+## Biographical Information
+
+1st Viscount Nelson
+
+(1758-1805)
+
+naval hero
+
+## Letters Mentioning This Person
+
+- [Letter 2331](../2331-to-mary-ann-dyson-12.qmd)
+

@@ -1,0 +1,44 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-02-05"
+letter_date: "Febry 5th [1864]"
+location: "Elderfield Otterbourne, Winchester"
+manuscript: "MS British Library Add MSS 54920: 19"
+post_id: 1936
+letter_id: "to-alexander-macmillan-12"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-02-05"
+  url: "https://cmyonge.github.io/letters/1936-to-alexander-macmillan-12"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 5th [1864]  
+**From:** Elderfield Otterbourne, Winchester  
+**Manuscript:** MS British Library Add MSS 54920: 19
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+I am not certain whether it was mentioned that sheets of the [Trial](cmy_books/cmybook_53.qmd) were to be sent to [Messrs Williams and Norgate](organizations/other_165.qmd) to be forwarded to [M. Tauchnitz](people/person_1396.qmd). He has just written to me to ask for them which makes me mention it.
+
+I send the chapters of The Trial, all but the three last, which shall follow in a week or fortnight.
+
+Yours faithfully
+C. M. Yonge
+
+---
+
+**Note:** Black-edged paper.

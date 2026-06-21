@@ -1,0 +1,15 @@
+---
+title: "Robert Bruce"
+person_id: 1853
+---
+
+## Biographical Information
+
+(1292-1314)
+
+King of Scotland
+
+## Letters Mentioning This Person
+
+- [Letter 1819](../1819-to-katharine-olive-helmore-2.qmd)
+

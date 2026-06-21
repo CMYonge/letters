@@ -1,0 +1,19 @@
+---
+title: "Sir John Taylor Coleridge - A Memoir of the Rev. John Keble M.A., late Vicar of Hursley"
+book_id: 226
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Imprint:** London: Parker
+
+## Letters Mentioning This Work
+
+- [Letter 2300](../2300-to-mary-ann-dyson-8.qmd)
+- [Letter 2304](../2304-to-sir-william-heathcote-bt-2.qmd)
+- [Letter 2316](../2316-to-the-reverend-henry-parry-liddon.qmd)
+- [Letter 2452](../2452-to-william-garrett-horder-2.qmd)
+- [Letter 7798](../7798-to-sir-john-taylor-coleridge.qmd)
+

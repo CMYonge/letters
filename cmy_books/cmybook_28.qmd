@@ -1,0 +1,23 @@
+---
+title: "Landmarks of History III. Modern History: From the Reformation to the Fall of Napoleon. By the author of “The Heir of Redclyffe” and “The Kings of England.”"
+book_id: 28
+sort_title: "Landmarks of History III. Modern History: From the Reformation to the Fall of Napoleon"
+---
+
+## Publication Information
+
+**Date:** 1857
+
+**Genre:** Non-fiction: history
+
+**Publisher:** John and Charles Mozley, 6 Paternoster Row, London. Masters and Co. 78, New Bond Street, London.
+
+## Letters Mentioning This Work
+
+- [Letter 1948](../1948-to-the-editors-of-a-biographical-dictionary.qmd)
+- [Letter 2420](../2420-to-charlotte-cordelia-yonge-4.qmd)
+- [Letter 3060](../3060-to-anne-yonge-32.qmd)
+- [Letter 3076](../3076-to-alice-arbuthnot-moberly-9.qmd)
+- [Letter 3155](../3155-to-arthur-donald-innes-6.qmd)
+- [Letter 7864](../7864-to-john-duke-coleridge.qmd)
+

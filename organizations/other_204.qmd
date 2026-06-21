@@ -1,0 +1,15 @@
+---
+title: "Scribner"
+other_id: 204
+---
+
+**Type:** organization
+
+## Description
+
+American publisher
+
+## Letters Mentioning This
+
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+

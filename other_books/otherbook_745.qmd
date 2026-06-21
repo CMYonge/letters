@@ -1,0 +1,15 @@
+---
+title: "Maria Edgeworth - Rosamond: A Sequel to Early Lessons"
+book_id: 745
+---
+
+## Publication Information
+
+**Date:** 1821
+
+**Imprint:** London: Hunter and Baldwin
+
+## Letters Mentioning This Work
+
+- [Letter 3429](../3429-to-miss-e-m-walker-5.qmd)
+

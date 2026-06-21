@@ -1,0 +1,15 @@
+---
+title: "The Rev. John Keble - The Psalter, or, Psalms of David in English Verse"
+book_id: 97
+---
+
+## Publication Information
+
+**Date:** 1838
+
+**Imprint:** Oxford: Parker and Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 2940](../2940-to-anne-yonge-8.qmd)
+

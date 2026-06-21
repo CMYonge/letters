@@ -1,0 +1,15 @@
+---
+title: "Jacopo Facciolati and Egidio Forcellini - Totius Latinitatis Lexicon"
+book_id: 62
+---
+
+## Publication Information
+
+**Date:** 1771
+
+**Imprint:** Padua: Typis Seminarii
+
+## Letters Mentioning This Work
+
+- [Letter 2983](../2983-to-elizabeth-roberts-5.qmd)
+

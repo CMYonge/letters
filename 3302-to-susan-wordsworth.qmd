@@ -1,0 +1,41 @@
+---
+title: "To Susanna Wordsworth"
+letter_iso_date: "1895-10-24"
+letter_date: "Oct 24th 1895"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3302
+letter_id: "to-susan-wordsworth"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Susanna Wordsworth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-10-24"
+  url: "https://cmyonge.github.io/letters/3302-to-susan-wordsworth"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 24th 1895  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Wordsworth](people/person_1570.qmd)
+I had just got a fresh railway book and studied possibilities, and I find that I had better come by the train that gets in at 4.25 so that I shall be with you by tea time. I propose to go home on Wednesday at 3.15 so as to be able to go to the Cathedral and see my pupil teacher[^1]
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: The Bishop of Salisbury was the Rt. Rev. John Wordsworth.  His first wife had died in 1894, and no doubt his sister Susan was keeping house.  The Diocesan Training College for teachers was in the cathedral close.

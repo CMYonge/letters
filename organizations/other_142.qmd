@@ -1,0 +1,24 @@
+---
+title: "Daniel Appleton and Co."
+other_id: 142
+---
+
+**Type:** organization
+
+## Description
+
+American publisher, based in New York
+
+## Letters Mentioning This
+
+- [Letter 1781](../1781-to-john-william-parker-jr-8.qmd)
+- [Letter 1796](../1796-to-john-william-parker-jr-12.qmd)
+- [Letter 1799](../1799-to-john-william-parker-jr-13.qmd)
+- [Letter 1981](../1981-to-alexander-macmillan-23.qmd)
+- [Letter 1982](../1982-alexander-macmillan-to-charlotte-mary-yonge-15.qmd)
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+- [Letter 2032](../2032-alexander-macmillan-to-charlotte-mary-yonge-28.qmd)
+- [Letter 2211](../2211-to-george-lillie-craik-3.qmd)
+- [Letter 10615](../10615-to-john-william-parker-jr.qmd)
+- [Letter 19655](../19655-alexander-macmillan-to-charlotte-mary-yonge.qmd)
+

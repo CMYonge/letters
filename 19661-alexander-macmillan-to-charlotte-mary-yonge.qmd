@@ -1,0 +1,53 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-12-03"
+letter_date: "Dec. 3. 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (2) P.701"
+post_id: 19661
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-12-03"
+  url: "https://cmyonge.github.io/letters/19661-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Dec. 3. 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (2) P.701
+:::
+
+Dear Miss Yonge,                                          
+
+I have received some copies of [Dynevor Terrace](cmy_books/cmybook_27.qmd). Shall I send them to you or to some place in Brighton? I can probably add a book or two of my own if you say the cause is worthy.[^1]
+
+I will anyway see about the [Cameos](cmy_books/cmybook_73.qmd) very soon and also about [Miss Peard](people/person_1160.qmd). The pre-Christmas weeks are rather pressing.
+
+I liked Miss Sewell’s title very well. It might be slightly modified. Have you got the leave [illegible]  from all the authors?
+
+I will write very soon,
+
+Yours faithfully,
+
+[A. Macmillan](people/person_939.qmd)
+
+So the [Chaplet](cmy_books/cmybook_69.qmd) finished?
+
+&nbsp;
+
+&nbsp;
+
+---
+
+[^1]: CMY had evidently suggested, in reply to Macmillan's suggestion that the copies of *Dynevor Terrace* inherited from Parker and Son should be sold off cheap to Routledge or W. H. Smith, that the books should instead be donated to a charity.

@@ -1,0 +1,43 @@
+---
+title: "To Sir Walter Besant"
+letter_iso_date: "1899-02-08"
+letter_date: "Feb 8th [1899?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3395
+letter_id: "to-sir-walter-besant"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir Walter Besant"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-02-08"
+  url: "https://cmyonge.github.io/letters/3395-to-sir-walter-besant"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 8th [1899?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+[Sir](people/person_1652.qmd),
+I am moved to say something from my own personal knowledge in defence of rustic reading
+
+I do not care whether this is inserted as a letter, but I should like the substance to appear, as I know it to be fact, and I think it is true of many other Hampshire villages[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: It sounds as if this may have enclosed a letter to the *Author*, the organ of the [Society of Authors](organizations/other_44.qmd).

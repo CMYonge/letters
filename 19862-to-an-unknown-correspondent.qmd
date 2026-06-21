@@ -1,0 +1,31 @@
+---
+title: "To an unknown correspondent"
+letter_date: "unknown"
+manuscript: "MS Charlotte Mitchell."
+post_id: 19862
+letter_id: "to-an-unknown-correspondent"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown correspondent"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/19862-to-an-unknown-correspondent"
+---
+
+::: {.letter-metadata}
+**Date:** unknown  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+If you can get this in any how it seems to be an urgent appeal  It is an excellent charity and is in danger
+
+C M Y

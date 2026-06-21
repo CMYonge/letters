@@ -1,0 +1,41 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1882-03-29"
+letter_date: "March 29th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Plymouth and West Devon Record Office Acc No 308: 29-3-82"
+post_id: 2746
+letter_id: "to-mary-yonge-50"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-03-29"
+  url: "https://cmyonge.github.io/letters/2746-to-mary-yonge-50"
+---
+
+::: {.letter-metadata}
+**Date:** March 29th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Plymouth and West Devon Record Office Acc No 308: 29-3-82
+:::
+
+My dear [Mary](people/person_1626.qmd)
+
+Here is the double birthday just over, which one never fails to recollect.[^1]  To [Katharine](people/person_1365.qmd)’s question I say, but I do not know if it will approve itself to her that my best girls would answer that the New Covenant was the Baptismal One, and they would reply to the question What are the terms? with the two first answers in the Catechism.  I suppose – as St Paul was writing to converted Gentiles- the birth under the New Covenant must be the New Birth of Baptism at least with them.  The analogy would be more perfect with ourselves, as I suppose the Jews were born under the Old Covenant, but had to be individually admitted to it by Circumcision, and we being born under the Gospel have to be admitted to it by Baptism.  It is very difficult, and I always think it anxious that so many Sunday Epistles should be about the temporary difficulty of Judaizing, but I suppose it was so overruled to be a protest against the ‘putting our trust in anything that we do’  I am taking the Gospels with the 1st class this year, so I did not go through that Epistle.  I know two of my girls would readily answer this however.  But it is always a small proportion that have brains enough to retain so much and put it together. If I can find them, I will send these two girls’ answers to questions in the [Otterbourne magazine](organizations/other_85.qmd) last month, but I looked them over and marked them yesterday, and I am not sure that they are 
+
+[The rest of the letter is missing]
+
+---
+
+[^1]: The birthday of Mary's two dead sisters, Alethea (Yonge) Anderson Morshead (28 March 1815-1863) and Anne Yonge (28 March 1825-1869).

@@ -1,0 +1,39 @@
+---
+title: "To Elizabeth Barnett?"
+letter_iso_date: "1889-12-18"
+letter_date: "[December 1889]"
+manuscript: "MS fragment Mrs Clare Roels/72"
+post_id: 2923
+letter_id: "to-elizabeth-barnett-23"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-12-18"
+  url: "https://cmyonge.github.io/letters/2923-to-elizabeth-barnett-23"
+---
+
+::: {.letter-metadata}
+**Date:** [December 1889]  
+**Manuscript:** MS fragment Mrs Clare Roels/72
+:::
+
+[To [Elizabeth Barnett](people/person_113.qmd)?]
+
+consciously – in extremity breaks his heart over it and is converted by his failure.  I have had my head very full of it.  I want to know what you think of [the Apples of Sodom](other_books/otherbook_1094.qmd), for we have various controversies about it, [Christabel](people/person_329.qmd) thinks the one religious man becoming morbid and accustomed a mistake and likely to promote the popular fancy about good men and clergy, and [Miss Bramston](people/person_198.qmd) says she meant the morbidness to be part of his penance.  It was confession that he wanted, but it is a painful story, and one wants someone to love though there is something noble in it.  I fancy [Emma](people/person_822.qmd)’s paper was really <u>found</u> too late.[^1]  When I did the [Spiders](organizations/other_116.qmd), papers that came in singly before the general mass, had a tendency to be put aside, and forgotten at the right time.  Please return the letter  [Gertrude](people/person_1462.qmd) keeps all the queer ones, and very queer they are sometimes.  My poor old [May](people/person_351.qmd) has been having blisters for congestion of the liver which I don’t like, but she says she is to have a visit from [Alley](people/person_923.qmd).[^2]  Poor little King of Spain, it would be an escape for him[^3]
+
+---
+
+[^1]: It seems likely that this is Emma (Butler) Knight and that therefore this letter (which is among Christabel Coleridge's papers) is to her aunt Elizabeth Barnett, to whose papers Coleridge had access while writing the biography.
+[^2]: CMY refers here to Mary Coleridge and her sister Alethea Mackarness.
+[^3]: Alfonso XIII (1886-1941), King of Spain, was a posthumous child who had reigned from birth.  His illness was reported in *The Times* (28 December 1889) 9b.

@@ -1,0 +1,47 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1874-09-07"
+letter_date: "Sept 7th 1874"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 5-6"
+post_id: 2512
+letter_id: "to-george-lillie-craik-18"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-09-07"
+  url: "https://cmyonge.github.io/letters/2512-to-george-lillie-craik-18"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 7th 1874  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 5-6
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+‘Enquiring friends’ kept me in such a whirl on Saturday from the moment I came home that I could not acknowledge the very agreeable parcel I found waiting me, which I need not say I was very glad to see. It is certainly a pleasant [amount](organizations/other_160.qmd) to look forward to and I see that it does not include the sum for the Abridged Edition of [Bishop Patteson](cmy_books/cmybook_102.qmd), any more than for [Lady Hester](cmy_books/cmybook_110.qmd).<sup>1</sup>
+
+I hope there has been no mistake about the £200 you were so good as to promise me immediately for I find Messrs [Hoare](organizations/other_169.qmd) have not received it. 
+
+Will you kindly let me know whether it has been paid
+
+Yours truly
+C M Yonge		
+
+What honors [sic] for the Patteson memoir
+
+G.L. Craik Esq
+
+Looking again at your letter I see you say on the 18th of August you have ‘<u>today</u> paid the account,’ - was it to Barnett and Hoare instead of Hoares’ Fleet Street or can they have put it to a wrong account?

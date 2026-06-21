@@ -1,0 +1,21 @@
+---
+title: "The Armourer’s 'Prentices"
+book_id: 171
+sort_title: "Armourer’s 'Prentices"
+---
+
+## Publication Information
+
+**Date:** 1883
+
+**Genre:** Fiction (historical)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+## Letters Mentioning This Work
+
+- [Letter 2783](../2783-to-christabel-rose-coleridge-110.qmd)
+- [Letter 2793](../2793-to-george-lillie-craik-58.qmd)
+- [Letter 2794](../2794-to-george-lillie-craik-59.qmd)
+- [Letter 2834](../2834-to-george-lillie-craik-67.qmd)
+

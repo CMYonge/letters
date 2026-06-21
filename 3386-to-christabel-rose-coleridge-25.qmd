@@ -1,0 +1,43 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1898-10-19"
+letter_date: "Oct 19 [1898]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/74"
+post_id: 3386
+letter_id: "to-christabel-rose-coleridge-25"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-10-19"
+  url: "https://cmyonge.github.io/letters/3386-to-christabel-rose-coleridge-25"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 19 [1898]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/74
+:::
+
+My dear [C C](people/person_329.qmd) 
+Do you want [Campbell’s Highland tales](other_books/otherbook_201.qmd)?  I dont think there is anything bearing on Arthur in them he was quite Cymric not Gaelic.  I sent the two [Mags for young](organizations/other_79.qmd) yesterday.  Shall I write notices of [SPCK](organizations/other_40.qmd)’s books?  They are not a good lot thus far as I have read, and there are two by Miss E Finnimore, [the Postwoman](other_books/otherbook_199.qmd) and [Uncle Isaac’s will](other_books/otherbook_200.qmd) that I am very angry with, they are about farmer folk of the rough cast sort, but with no token of principle or religion, true enough to nature unluckily, but not good to put out with SPCK stamp.  I have written to [Mr Lathbury](people/person_2159.qmd) to ask leave to say my say in the [Guardian](organizations/other_75.qmd).  [Phoebe Allen](people/person_25.qmd)’s [mothers meeting story](other_books/otherbook_202.qmd) gets into a complication of last fathers and sons not so good as last years and FE Beach who generally writes well, has made Ash Wednesday come after the 1st Sunday in Lent  There must be a terrible want of censorship in the whole concern.  We had a great [GFS](organizations/other_23.qmd) course of sermon and meeting last week, and the [MU](organizations/other_31.qmd) comes in tomorrow and next day -  Then the Hursley anniversary on Monday for which some of my people are coming, I lodging the women folk, [Miss Fin](people/person_512.qmd) the men, having only too much room  Very anxious to know what becomes of Preston and Mrs Jeune.  I am very glad [Fanny](people/person_1151.qmd) is coming to poor [Sophy](people/person_974.qmd)
+
+[Canon Wharton](people/person_1675.qmd) preaches such a nice sermon on unconscious influence putting me so in mind of what has come round to me of [my Mother](people/person_1606.qmd)’s effect on people, and bearing out my view that it is unconscious
+
+I have written my Xmas GFS letter, it is rather stupid on the allegory of the voyage of life.  [Miss Knight](people/person_1676.qmd) wants a New Years letter for GL -  I mean to do the Century of Victory & progress with drawbacks
+
+your affte
+C M Yonge
+
+Do you get [N S](organizations/other_32.qmd) books?

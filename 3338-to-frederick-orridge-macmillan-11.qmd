@@ -1,0 +1,41 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1897-01-01"
+letter_date: "Jan 1st 1897"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 224"
+post_id: 3338
+letter_id: "to-frederick-orridge-macmillan-11"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-01-01"
+  url: "https://cmyonge.github.io/letters/3338-to-frederick-orridge-macmillan-11"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 1st 1897  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 224
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I like the appearance of the proof copy of [the Ben Beriah](cmy_books/cmybook_243.qmd) very much and perhaps it would be best to work out the edition. The doubt in my mind would be whether it will be favorably [sic] received as ranging with my tales and novels. I suppose there is no possibility of adding a preface now, I had not put one because it would not have suited in [St Nicholas](organizations/other_88.qmd), and I thought to prepare it afterwards. I had also thought of asking if it could have a few landscape illustrations, the plain at the base of Mount Sinai especially but perhaps all this had better wait for consideration till we see how the first edition succeeds.
+
+I think it will ultimately become a book for school rewards
+
+But if you think it best to publish it as it is, I fully consent
+
+Yours truly
+C M Yonge

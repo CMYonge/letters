@@ -1,0 +1,15 @@
+---
+title: "Ernest Adams - The Elements of the English Language"
+book_id: 841
+---
+
+## Publication Information
+
+**Date:** 1858
+
+**Imprint:** London: Bell and Daldy
+
+## Letters Mentioning This Work
+
+- [Letter 2488](../2488-to-arthur-john-butler-13.qmd)
+

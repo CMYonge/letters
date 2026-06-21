@@ -1,0 +1,45 @@
+---
+title: "To the Reverend James Duncan"
+letter_iso_date: "1882-06-09"
+letter_date: "June 9th 1882"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2753
+letter_id: "to-mr-duncan"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend James Duncan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-06-09"
+  url: "https://cmyonge.github.io/letters/2753-to-mr-duncan"
+---
+
+::: {.letter-metadata}
+**Date:** June 9th 1882  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mr Duncan](people/person_448.qmd)
+
+I send you a first instalment of the first book of [Historical poetry](cmy_books/cmybook_156.qmd),[^1] I think there are about 30 of such pieces as these, containing nothing too difficult for a child of nine or eight years old. I suppose that will be enough for the first book, as it would be better to have it small and cheap enough for being learnt at home.
+
+I have chosen only what are simple in language and ideas. Some are written on purpose, and some I have altered.
+
+Those for the second set are much easier to find, and I think there will be more of them, but I suppose that 40 should be about the number
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Endorsed: ‘Miss Yonge/ sends/ 1st Instalment/of/Ballad Book/Part I/13/6/82’.
+[^2]: Duncan was the secretary of the [National Society](organizations/other_32.qmd), the publishers of *Historical Ballads*.

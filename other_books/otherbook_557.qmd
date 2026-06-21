@@ -1,0 +1,15 @@
+---
+title: "Christian Salzmann translated by Mary Wollstonecraft - Elements of Morality for the Use of Children"
+book_id: 557
+---
+
+## Publication Information
+
+**Date:** 1790
+
+**Imprint:** London: Johnson
+
+## Letters Mentioning This Work
+
+- [Letter 2345](../2345-to-alexander-macmillan-111.qmd)
+

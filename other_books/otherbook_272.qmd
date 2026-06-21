@@ -1,0 +1,15 @@
+---
+title: "Samuel Johnson - A Dictionary of the English Language"
+book_id: 272
+---
+
+## Publication Information
+
+**Date:** 1755
+
+**Imprint:** London: Bentley
+
+## Letters Mentioning This Work
+
+- [Letter 3518](../3518-to-elizabeth-barnett-10.qmd)
+

@@ -1,0 +1,45 @@
+---
+title: "To John Duke Coleridge"
+letter_iso_date: "1861-05-23"
+letter_date: "May 23d 1861"
+manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86207 Yonge JDC"
+post_id: 7883
+letter_id: "to-john-duke-coleridge"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Duke Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-05-23"
+  url: "https://cmyonge.github.io/letters/7883-to-john-duke-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** May 23d 1861  
+**Manuscript:** MS British Library: Coleridge Family Papers E: Add MSS 86207 Yonge JDC
+:::
+
+My dear [John](people/person_343.qmd),
+Many thanks for your kind answer. I suspected it must be so from the numerous examples abroad in the world, but I did not venture to act without being sure of the etiquettes. I was very glad of your account of our dear [Mrs Dyson](people/person_462.qmd) and I am sure you would have been satisfied of our opinion as to the treatment had you heard us rejoicing with [Miss Sturges Bourne](people/person_1379.qmd) that her illness happened where it did, out of the reach of [Dr Gulley](people/person_599.qmd) and all his followers
+
+I do not think she would have been nearly as well off at Hursley in those small rooms, and with the sort of household there, a little delicate maid to whom they dare not give too much work, and the woman of the house with a baby of six weeks old. I cannot get [Mamma](people/person_1606.qmd) to allow it, but I charge some of the illness upon the irregular cookeries of such an establishment, and the unwillingness to give trouble that may have caused neglect of the Gulley system.[^1] And I am sure that so unused to illness and indifferent to dainties as these good people are, she would never have been so fed or nursed as in your house. [Marianne](people/person_464.qmd) could not have done all, and has I am sure been spared much distress and wear that might have broken her down, whereas she seems to me as well as usual, though today she is saving herself, after spending the day at Winchester, where she felt the heat very much 
+
+I hope we shall keep her till the preparations for the return become imminent
+
+I grieve over [Mildred](people/person_17.qmd)’s lameness, it is a very pleasant thing that the [Goslingisms](organizations/other_104.qmd) have brought about a personal knowledge between us, and broken down the difficulty there always is in the younger generation of cousins getting acquainted with the elder
+
+Your affectionate cousin
+C M Yonge
+
+---
+
+[^1]: The Rev. Charles Dyson had died in April 1860, and his widow Elizabeth had moved into lodgings in Hursley with his half-sister Mary Anne Dyson while their new house at Crookham was being prepared. The 1861 census shows them as living with James Miles, a 'Gentleman's Gardener', his wife and two young sons. The household also included a parlour maid aged 19 and a housemaid aged 48.

@@ -1,0 +1,15 @@
+---
+title: "Anon. - The Orphan, or, The renowned history of little Gaffer Two-Shoes, otherwise call'd Mr. Tommy Two-Shoes, brother to the celebrated Goody Two-Shoes"
+book_id: 751
+---
+
+## Publication Information
+
+**Date:** <i>c.</i> 1780
+
+**Imprint:** London: Roberts
+
+## Letters Mentioning This Work
+
+- [Letter 3436](../3436-to-miss-e-m-walker-3.qmd)
+

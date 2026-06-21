@@ -1,0 +1,44 @@
+---
+title: "To Anne Elizabeth Mary Anderson Morshead"
+letter_iso_date: "1869-01-19"
+letter_date: "January 19, 1869"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 331-2"
+post_id: 2296
+letter_id: "to-anne-elizabeth-mary-anderson-morshead-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Elizabeth Mary Anderson Morshead"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-01-19"
+  url: "https://cmyonge.github.io/letters/2296-to-anne-elizabeth-mary-anderson-morshead-2"
+---
+
+::: {.letter-metadata}
+**Date:** January 19, 1869  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 331-2
+:::
+
+My dear [Mary](people/person_28.qmd)
+Thank you so much for your long letter and history of all your doings.[^1] I am sure if usefulness makes a happy life this ought to be one, and you must have much of kindness and of the sense of a living Church round you to fill you with energy. I do not know whether you have ever felt a sort of sense of the absence of the whole salt of life in being with people who had not gone on to the energetic influences of the Church. I don’t quite know whether I am writing sense, but I do remember such a weary flat feeling at one place I stayed at, where the people were highly cultivated, but their energy and interest in Church matters seemed to have died out. I told [F. W.](people/person_1520.qmd) that you had been saying her verses about the Tree to the [Bishop](people/person_578.qmd), and she only hoped you remembered that some of them were a quotation from [Dr. Neale](people/person_1078.qmd). I shall be very glad if you can send me a paper on Church work, but in general I had made it a rule to leave missionary papers to the [*Net*](organizations/other_94.qmd), because they do get so frittered and dispersed among too many magazines, but I do not think that Church work in Cape Town exactly comes under this category, and there is no harm in making an exception sometimes.[^2] The *Illustrated News* is so good as to say that but for its sectarian character the *[Monthly Packet](organizations/other_52.qmd)* would take a high rank among magazines, and I do not wish to diminish that character, though I do not wish to increase it.[^3] How do you get on with your Dutch? It looks as if it must be like speaking very broad Somersetshire. You will have heard how [Anne](people/person_1582.qmd) and I went into Devon together; I saw your [mother](people/person_41.qmd) and all your sisters.[^4] What a very nice face [Beatrice](people/person_31.qmd)’s is. But they were not at home when I called with [Elizabeth Colborne](people/person_320.qmd). [Reginald](people/person_318.qmd) and [Frank Colborne](people/person_323.qmd) are come to [Winchester](organizations/other_50.qmd) to be in the same house with [Ernest Morshead](people/person_29.qmd); it must be a tremendous change for them, coming so suddenly too. I am staying away from home for a few days, and so getting time to write my letters. I fancy I shall make a good many little excursions this year, including one to Normandy, but you had better always write to me at home, as a letter there will be sure to find me. The [Goslings](organizations/other_104.qmd) are come to life again, and I am expecting a flight of answers in a few days, indeed the very day when I hope you will be seeing [Bishop Macrorie](people/person_2027.qmd) consecrated. [Archbishop Tait](people/person_1391.qmd)’s appointment pretty thoroughly settled that matter.[^5] I hear that the building of [Keble College](people/person_5.qmd) is getting on very nicely, and that Mr. [Edwin Palmer](people/person_1128.qmd) is talked of for the head.[^6] [Fernseed](people/person_1160.qmd) and I hope to stay at New College together in the first week in June. Will not that be most delightful? I am afraid this is a very stupid letter, but you will write to me again I hope, and tell me how you are going on, and what your work settles into.
+
+Your affectionate cousin
+C. M. Yonge
+
+---
+
+[^1]: Mary Morshead was now working as a missionary in Cape Town.
+[^2]: It seems probable that the article 'Account of the Consecration of the Rev. W. K. Macrorie' which subsequently appeared in *MP* was by Mary Morshead.
+[^3]: It is not quite clear which periodical CMY refers to here;  the *Illustrated London News* seems unlikely to have been making animadversions on the *MP*;  a more likely possibility is the *Pictorial Missionary News* edited by the Rev. Henry Grattan Guinness.
+[^4]: The sisters were [Louisa](people/person_36.qmd) (b.1846/7), [Julia](people/person_34.qmd) (b. 1850/1), [Mildred](people/person_37.qmd) (b. 1855/6) and Beatrice Anderson Morshead.
+[^5]: The Rt. Rev. William Kenneth Macrorie (1831-1905) was consecrated Bishop of Maritzburg by Bishop Gray on 25 January 1869, a rival to [Colenso](people/person_1872.qmd) who was still in Natal maintaining his right to be bishop.  The Rt. Rev. Archibald Campbell Tait, Bishop of London, had been appointed Archbishop of Canterbury in October 1868.
+[^6]: The Ven. Edwin Palmer (1824-1895), archdeacon of Oxford, was not appointed head of Keble College.

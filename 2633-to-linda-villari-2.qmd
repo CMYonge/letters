@@ -1,0 +1,44 @@
+---
+title: "To Linda Mary Villari"
+letter_iso_date: "1878-06-06"
+letter_date: "June 6th [1878]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: Eng. lett. d. 495 f108"
+post_id: 2633
+letter_id: "to-linda-villari-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Linda Mary Villari"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-06-06"
+  url: "https://cmyonge.github.io/letters/2633-to-linda-villari-2"
+---
+
+::: {.letter-metadata}
+**Date:** June 6th [1878]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: Eng. lett. d. 495 f108
+:::
+
+Dear [Madam](people/person_1444.qmd)
+
+I desired the proof of the first chapter of the [Summer on the Apennines](organizations/other_904.qmd) to be sent at once to you - If you are moving about perhaps the best way would be for you to send a card with your address early every months to the printers 
+
+[Messrs Clay](organizations/other_173.qmd)
+Bread Street Hill
+London EC
+
+Will you have the [payment](organizations/other_102.qmd) every month or at the end of the half year, and how shall it be made
+
+Yours truly
+C M Yonge

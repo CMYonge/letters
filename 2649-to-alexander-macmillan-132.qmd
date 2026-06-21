@@ -1,0 +1,49 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1878-11-10"
+letter_date: "Novr 10th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 70-71"
+post_id: 2649
+letter_id: "to-alexander-macmillan-132"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-11-10"
+  url: "https://cmyonge.github.io/letters/2649-to-alexander-macmillan-132"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 10th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 70-71
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Thank you very much for sending me this [very severe review](other_books/otherbook_588.qmd) in the [Academy](organizations/other_246.qmd).[^1] I feel annihilated, and if my old name does carry off this edition, I will gladly rewrite what calls for it. I really did not know that German criticism had overthrown so much of the old Spanish standard histories to which I trusted, especially for a mere epitome of the old Gothic kingdom, and as I did not want to write a history of Spain, I only knew that [Dozy](other_books/otherbook_910.qmd) had attacked the Cid, and I obtained that volume. I see I ought to have gone further into the matter and that I should have enquired further, but when I found Viardot agree with the elder histories I thought him a safe guide, more likely to lead me right than my own readings in Dozy would. I do not think I know German well enough to work from critical notes, and indeed I never heard of the German books about Spain [Mrs Ward](people/person_1467.qmd) mentions[^2]
+
+I see there are some bits of slovenliness which after the usual unfortunate fashion only strike me too late - such as the mistake in Ingund’s story, in Ayala’s name and about Conde. I am very sorry for these, and feel myself to blame, and I will repair all I can if there is an opportunity. I meant to be sketchy but I ought to have exerted myself more to catch the present level of knowledge
+
+If Mrs Ward was once Miss Mary Arnold, it is like the old champion getting a fall from the young one, for I think she once was one of my [Gosling Society](organizations/other_104.qmd)
+
+I wish the book had been at my own expense
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Mary Augusta (Arnold) Ward reviewed *The Story of the Christians and Moors in Spain* in very critical terms in *Academy* (16 November 1878) 463-4, pouring scorn on its scholarship and suggesting that CMY wrote too much too quickly.  T. Humphry Ward, her husband, had also recently reviewed unfavourably *A Man of Other Days: Recollections of the Marquis Costa de Beauregard* 2 vols (London, Hurst & Blackett 1877), a translation (probably by Julian Yonge) which appeared with CMY's name as editor.
+[^2]: Ward had referred to the works of Felix Dahn and Friedrich Wilhelm Lembke.

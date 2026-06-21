@@ -1,0 +1,15 @@
+---
+title: "Dr David Livingstone"
+person_id: 1935
+---
+
+## Biographical Information
+
+(1813-1873)
+
+missionary and explorer
+
+## Letters Mentioning This Person
+
+- [Letter 2024](../2024-to-an-unknown-person-perhaps-elizabeth-barnett-2.qmd)
+

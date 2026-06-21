@@ -1,0 +1,22 @@
+---
+title: "The Stokesley Secret. By the author of “The Heir of Redclyffe.”"
+book_id: 40
+sort_title: "Stokesley Secret"
+---
+
+## Publication Information
+
+**Date:** 1861
+
+**Genre:** Fiction (modern)
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78, New Bond Street, London.
+
+## Letters Mentioning This Work
+
+- [Letter 3343](../3343-to-mrs-wathen.qmd)
+- [Letter 3391](../3391-to-frederick-orridge-macmillan-2.qmd)
+- [Letter 3422](../3422-to-christabel-rose-coleridge-32.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
+- [Letter 3584](../3584-to-the-hon-lady-montgomery-moore.qmd)
+

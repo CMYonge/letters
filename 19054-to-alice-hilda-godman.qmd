@@ -1,0 +1,42 @@
+---
+title: "To Alice Hilda Godman"
+letter_iso_date: "1882-12-16"
+letter_date: "Decr 16th 1882"
+manuscript: "MS Charlotte Mitchell"
+post_id: 19054
+letter_id: "to-alice-hilda-godman"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Hilda Godman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-12-16"
+  url: "https://cmyonge.github.io/letters/19054-to-alice-hilda-godman"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 16th 1882  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Dear [Miss Godman](people/person_2410.qmd)
+I am afraid you will be disappointed to hear that I have nothing to do with the advertisements
+
+You must send one direct to the publisher with a shilling for every twenty words  But it is too late for January, so I am afraid the rabbits will have to grow older[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to 'Miss Hilda Godman/ Muntham/ Itchenfield/ ?Hareham' and postmarked Winchester 17 December 1882 and Horsham 18 December 1882.  In the 1881 census Muntham was the home of Percy Sander Godman, his wife and five children, of whom Alice Hilda (1875-1925) was the second.
+[^2]: Evidently the plan was dispose of surplus rabbits through the columns of [*MP*](organizations/other_52.qmd).

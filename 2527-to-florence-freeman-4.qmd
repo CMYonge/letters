@@ -1,0 +1,36 @@
+---
+title: "To Florence Freeman"
+letter_iso_date: "1875-04-19"
+letter_date: "April 19th 1875"
+manuscript: "MS Taylor Institution, Oxford"
+post_id: 2527
+letter_id: "to-florence-freeman-4"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Freeman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-04-19"
+  url: "https://cmyonge.github.io/letters/2527-to-florence-freeman-4"
+---
+
+::: {.letter-metadata}
+**Date:** April 19th 1875  
+**Manuscript:** MS Taylor Institution, Oxford
+:::
+
+My dear [Miss Freeman](people/person_524.qmd)
+
+The first week in May will suit me very well and I hope we shall be at our best between banksia roses and nightingales.  I am afraid however that I really have only room for one and that I must not have the pleasure of having your sister though I am very sorry to be so inhospitable, but when you see our household you will understand.  I have a friend coming to me on Wednesday or Saturday, I am not sure which, but she means to stay a week, so on Saturday week I shall be quite ready, or any time after that suits you. [Miss Walter](people/person_1462.qmd) (it has no S) is mending with the Spring, but has not been out of her room since November, I hope she will soon.
+
+yours very sincerely
+C M Yonge

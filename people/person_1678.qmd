@@ -1,0 +1,13 @@
+---
+title: "Mr Barker"
+person_id: 1678
+---
+
+## Biographical Information
+
+perhaps a neighbour of Mary Yonge's
+
+## Letters Mentioning This Person
+
+- [Letter 3385](../3385-to-mary-yonge-4.qmd)
+

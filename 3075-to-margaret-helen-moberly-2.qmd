@@ -1,0 +1,35 @@
+---
+title: "To Margaret Helen Moberly"
+letter_iso_date: "1855-12-24"
+letter_date: "[<i>c</i>. 24 December 1855]"
+manuscript: "MS location unknown . Photocopies lent by Barbara Dennis: Maggie/1"
+post_id: 3075
+letter_id: "to-margaret-helen-moberly-2"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Helen Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-12-24"
+  url: "https://cmyonge.github.io/letters/3075-to-margaret-helen-moberly-2"
+---
+
+::: {.letter-metadata}
+**Date:** [<i>c</i>. 24 December 1855]  
+**Manuscript:** MS location unknown . Photocopies lent by Barbara Dennis: Maggie/1
+:::
+
+My dear little [Maggie](people/person_83.qmd)
+This is to wish you a very happy Christmas I think it must be happier than all the three Christmases before it, because you are old enough to know Who was born a little Baby and what the Angels came to sing while the Shepherds were watching by night.  Thank you for your pretty little note to me; and thank [Mamma](people/person_1019.qmd) and [Alice](people/person_1025.qmd) too for theirs.  I hope I shall see your holly next week.  I shall like so much to come.  I wonder whether you will have a hymn to say to me
+
+My little Maggie’s very affectionate Godmother
+Charlotte M Yonge

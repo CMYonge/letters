@@ -1,0 +1,15 @@
+---
+title: "A. I. - Queen Emma: A Narrative of the Object of her Mission to England"
+book_id: 495
+---
+
+## Publication Information
+
+**Date:** 1865
+
+**Imprint:** London: Day
+
+## Letters Mentioning This Work
+
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
+

@@ -1,0 +1,16 @@
+---
+title: "Daniel Defoe - The Life and Strange Surprizing Adventures of Robinson Crusoe"
+book_id: 658
+---
+
+## Publication Information
+
+**Date:** 1719
+
+**Imprint:** London: Taylor
+
+## Letters Mentioning This Work
+
+- [Letter 2881](../2881-to-jean-ingelow.qmd)
+- [Letter 3186](../3186-to-an-unknown-man-13.qmd)
+

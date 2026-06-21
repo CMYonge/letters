@@ -1,0 +1,18 @@
+---
+title: "Arthur Wellesley"
+person_id: 1486
+---
+
+## Biographical Information
+
+1st Duke of Welling
+
+(1769-1852)
+
+prime minister
+
+## Letters Mentioning This Person
+
+- [Letter 2331](../2331-to-mary-ann-dyson-12.qmd)
+- [Letter 2932](../2932-to-anne-yonge.qmd)
+

@@ -1,0 +1,20 @@
+---
+title: "Introduction to John Keble, The Christian Year"
+book_id: 351
+sort_title: "Introduction to John Keble, The Christian Year"
+---
+
+## Publication Information
+
+**Date:** 1894
+
+**Genre:** Non-fiction, criticism
+
+**Publisher:** London: Macmillan
+
+**Notes:** This appeared in the 'Golden Treasury Series'.
+
+## Letters Mentioning This Work
+
+- [Letter 3257](../3257-to-george-lillie-craik-14.qmd)
+

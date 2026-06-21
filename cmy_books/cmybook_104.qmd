@@ -1,0 +1,18 @@
+---
+title: "Questions on the Epistles. By the author of “The Heir of Redclyffe.” (Preface signed C.M. Yonge)"
+book_id: 104
+sort_title: "Questions on the Epistles"
+---
+
+## Publication Information
+
+**Date:** 1874
+
+**Genre:** Non-fiction: theology
+
+**Publisher:** John and Charles Mozley, 6, Paternoster Row, London.
+
+## Letters Mentioning This Work
+
+- [Letter 3178](../3178-to-arthur-donald-innes-14.qmd)
+

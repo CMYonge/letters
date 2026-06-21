@@ -1,0 +1,15 @@
+---
+title: "Elizabeth Barrett Browning - The Poems of Elizabeth Barrett Browning"
+book_id: 21
+---
+
+## Publication Information
+
+**Date:** 1850
+
+**Imprint:** London: Warne
+
+## Letters Mentioning This Work
+
+- [Letter 3016](../3016-to-messrs-forbes-and-marshall.qmd)
+

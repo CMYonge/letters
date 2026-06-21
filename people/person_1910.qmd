@@ -1,0 +1,13 @@
+---
+title: "Miss Bridges"
+person_id: 1910
+---
+
+## Biographical Information
+
+invalid
+
+## Letters Mentioning This Person
+
+- [Letter 1970](../1970-to-miss-longueville.qmd)
+

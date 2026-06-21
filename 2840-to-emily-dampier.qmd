@@ -1,0 +1,49 @@
+---
+title: "To Emily Dampier"
+letter_iso_date: "1886-09-11"
+letter_date: "Sept 11th [1886]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2840
+letter_id: "to-emily-dampier"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Emily Dampier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-09-11"
+  url: "https://cmyonge.github.io/letters/2840-to-emily-dampier"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 11th [1886]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Dampier](people/person_404.qmd)
+
+So many thanks from [Gertrude](people/person_1462.qmd) doubly!
+
+You will like to hear that [Philip](people/person_235.qmd) and [Margaret Buston](people/person_234.qmd) walked over here yesterday with some Grapes for Gertrude.[^1] They gave a very good account of their [mother](people/person_236.qmd). There is no house to be had at Twyford, so they are looking for one at Winchester which is wiser, I do not think settling in one’s former parish is ever advisable 
+
+Poor [Mrs Monroe](people/person_1033.qmd) does not find it so. What a beautiful garden she has made.
+
+There will be no college meeting till October so nothing can be done about the living before that
+
+With Gertrude’s love
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Philip and Margaret Buston were two of the numerous children of the Rev. [Roger Buston](people/person_233.qmd) (1807-September 1886), Vicar of Twyford.  Evidently this letter is written shortly after his death, when his widow and children were looking for a new home.

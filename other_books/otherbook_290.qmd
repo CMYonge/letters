@@ -1,0 +1,15 @@
+---
+title: "Montagu Pennington (editor) - A Series of Letters between Mrs. Elizabeth Carter and Miss Catherine Talbot From the Year 1741 to 1770"
+book_id: 290
+---
+
+## Publication Information
+
+**Date:** 1808
+
+**Imprint:** London: Rivington
+
+## Letters Mentioning This Work
+
+- [Letter 1811](../1811-to-ann-maria-carter-smith-39.qmd)
+

@@ -1,0 +1,35 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1839-00-00"
+letter_date: "[spring 1839]"
+manuscript: "MS location unknown.  This fragment printed by Coleridge, <i>Life</i>, 140."
+post_id: 2942
+letter_id: "to-anne-yonge-10"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1839-00-00"
+  url: "https://cmyonge.github.io/letters/2942-to-anne-yonge-10"
+---
+
+::: {.letter-metadata}
+**Date:** [spring 1839]  
+**Manuscript:** MS location unknown.  This fragment printed by Coleridge, <i>Life</i>, 140.
+:::
+
+[To [Anne](people/person_1582.qmd)]  I am going to Hursley to-day to stay with [Mr. Keble](people/person_798.qmd), in the hopes of hastening the departure of this tiresome cold.[^1]  I like the thought of the visit very much, though it being the first time of my staying out by myself, how I shall manage winding up my watch remains to be proved.
+
+---
+
+[^1]: ‘A lingering cough, in the spring of 1839, led to my spending a fortnight at the Vicarage;  and this rendered it altogether another home, where for twenty-seven years every joy and care were alike carried to those who could “make grief less bitter, joy less wild.”‘   *Musings over the Christian Year*, vi.  (The quotation is from a poem which CMY made the epigraph to *The Daisy Chain*, Chapter 14: and described there as ‘Lines on a Monument at Lichfield’.)

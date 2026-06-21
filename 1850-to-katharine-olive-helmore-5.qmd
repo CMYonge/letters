@@ -1,0 +1,47 @@
+---
+title: "To Katharine Olive Helmore"
+letter_iso_date: "1861-12-30"
+letter_date: "Decr 30th [1861]"
+location: "Otterbourn"
+manuscript: "MS Charlotte Mitchell/Cobweb-4"
+post_id: 1850
+letter_id: "to-katharine-olive-helmore-5"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Katharine Olive Helmore"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-12-30"
+  url: "https://cmyonge.github.io/letters/1850-to-katharine-olive-helmore-5"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 30th [1861]  
+**From:** Otterbourn  
+**Manuscript:** MS Charlotte Mitchell/Cobweb-4
+:::
+
+My dear [Cobweb](people/person_675.qmd),
+
+I am glad to tell you that no one has passed you, though [Firefly](people/person_1168.qmd) is your equal, in the number of votes, and I therefore should like to know which of [Mother Goose](organizations/other_104.qmd)’s works you would like best to have- only do not expect it immediately as I should like to have it bound for you.
+
+Thank you for letting me see the photograph I am glad you have got it as it is much better than the only one I have now to give away The broken negative was not quite so good as this.
+
+[Humble Bee](people/person_81.qmd), [Irene](people/person_538.qmd) and Stormy Petrel[^1] are the three best this time
+
+your affectionate
+
+Mother Goose
+
+---
+
+[^1]: Stormy Petrel, or Petrel, was a member of the Gosling Society, but her identity is uncertain.

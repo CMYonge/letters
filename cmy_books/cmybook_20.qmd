@@ -1,0 +1,53 @@
+---
+title: "The Little Duke, or, Richard the Fearless. By the author of “The Heir of Redclyffe”, “The Kings of England.”"
+book_id: 20
+sort_title: "Little Duke, or, Richard the Fearless"
+---
+
+## Publication Information
+
+**Date:** 1854
+
+**Genre:** Fiction (historical)
+
+**Publisher:** John W Parker and Son, West Strand, London
+
+## Letters Mentioning This Work
+
+- [Letter 1793](../1793-to-john-william-parker-jr-10.qmd)
+- [Letter 1819](../1819-to-katharine-olive-helmore-2.qmd)
+- [Letter 1914](../1914-to-alexander-macmillan-5.qmd)
+- [Letter 1927](../1927-alexander-macmillan-to-charlotte-mary-yonge-6.qmd)
+- [Letter 1928](../1928-alexander-macmillan-to-charlotte-mary-yonge-7.qmd)
+- [Letter 1930](../1930-to-alexander-macmillan-9.qmd)
+- [Letter 1933](../1933-to-alexander-macmillan-11.qmd)
+- [Letter 1938](../1938-to-alexander-macmillan-13.qmd)
+- [Letter 1939](../1939-alexander-macmillan-to-charlotte-mary-yonge-8.qmd)
+- [Letter 1940](../1940-to-alexander-macmillan-14.qmd)
+- [Letter 1943](../1943-alexander-macmillan-to-charlotte-mary-yonge-9.qmd)
+- [Letter 1944](../1944-to-alexander-macmillan-15.qmd)
+- [Letter 1985](../1985-to-alexander-macmillan-25.qmd)
+- [Letter 1994](../1994-to-alexander-macmillan-28.qmd)
+- [Letter 2047](../2047-to-alexander-macmillan-50.qmd)
+- [Letter 2049](../2049-alexander-macmillan-to-charlotte-mary-yonge-35.qmd)
+- [Letter 2052](../2052-alexander-macmillan-to-charlotte-mary-yonge-37.qmd)
+- [Letter 2083](../2083-to-alexander-macmillan-62.qmd)
+- [Letter 2151](../2151-to-edward-augustus-freeman.qmd)
+- [Letter 2162](../2162-frances-martin-to-alexander-macmillan-3.qmd)
+- [Letter 2238](../2238-alexander-macmillan-to-charlotte-mary-yonge-70.qmd)
+- [Letter 2308](../2308-to-alexander-macmillan-107.qmd)
+- [Letter 2328](../2328-to-mary-ann-dyson-10.qmd)
+- [Letter 2660](../2660-to-alexander-macmillan-135.qmd)
+- [Letter 2830](../2830-to-george-lillie-craik-65.qmd)
+- [Letter 2833](../2833-to-george-lillie-craik-66.qmd)
+- [Letter 3022](../3022-to-elizabeth-roberts-31.qmd)
+- [Letter 3049](../3049-to-john-william-parker-jr-2.qmd)
+- [Letter 3051](../3051-to-john-william-parker-jr-4.qmd)
+- [Letter 3052](../3052-to-jemima-blackburn-5.qmd)
+- [Letter 3056](../3056-to-jemima-blackburn-6.qmd)
+- [Letter 3073](../3073-to-john-william-parker-jr-6.qmd)
+- [Letter 3225](../3225-to-george-lillie-craik-13.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+- [Letter 3411](../3411-to-charlotte-fortescue-yonge-3.qmd)
+- [Letter 3441](../3441-to-mary-drew-2.qmd)
+

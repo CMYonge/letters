@@ -1,0 +1,15 @@
+---
+title: "Oliver Goldsmith - The Roman History, from the Foundation of the city of Rome to the Destruction of the western Empire"
+book_id: 203
+---
+
+## Publication Information
+
+**Date:** 1769
+
+**Imprint:** London: Baker, Leigh, Davies and Davis
+
+## Letters Mentioning This Work
+
+- [Letter 3406](../3406-to-lady-leconfield.qmd)
+

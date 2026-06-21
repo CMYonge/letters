@@ -1,0 +1,16 @@
+---
+title: "Eliot Warburton - Memoirs of Prince Rupert and the Cavaliers, including their Private Correspondence, Now First Published from the Original Manuscripts"
+book_id: 175
+---
+
+## Publication Information
+
+**Date:** 1849
+
+**Imprint:** London, Bentley
+
+## Letters Mentioning This Work
+
+- [Letter 2963](../2963-to-mary-anne-dyson-4.qmd)
+- [Letter 2964](../2964-to-mary-anne-dyson-5.qmd)
+

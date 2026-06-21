@@ -1,0 +1,43 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1856-12-05"
+letter_date: "Decr 5th [1856]"
+location: "Otterbourn"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1856/3"
+post_id: 3089
+letter_id: "to-ann-maria-carter-smith-6"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1856-12-05"
+  url: "https://cmyonge.github.io/letters/3089-to-ann-maria-carter-smith-6"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 5th [1856]  
+**From:** Otterbourn  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/3
+:::
+
+My dear [Madam](people/person_263.qmd)
+I enclose a draft for 8.12. 6. with many thanks both to you and [your sister](people/person_71.qmd).  I was not aware of her marriage, so that congratulations would now lag sadly behind.  My [School Sketches](other_books/otherbook_256.qmd) friend [Miss Emily Taylor](people/person_1397.qmd)[^1], the author of that pretty little book ‘[the Boy and the Birds](other_books/otherbook_163.qmd)’ is the person so anxious to know your name;  she is - as perhaps you know - actively engaged in many London charities and though some of her family are otherwise seems a thorough Churchwoman herself.  But perhaps you know more of her than I do, and you must not suppose I am urging anything on you, for I should never dare do so, especially where both parties are only known to me by letter, but I thought it would be unfair to both not to speak[^2] of  her wish, as she mentioned it again in a letter which I received this morning.  I am very glad of the hope you hold out of future tales
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to Miss A Carter Smith/ Stepney Rectory/ London and postmarked Winchester 5 December 1856 and indistinctly on reverse
+[^2]: Emily Taylor was a member of the large and influential family of Norwich dissenters, and distantly related to Harriet Martineau, Elizabeth Eastlake and Sarah Austin.  Her brother Edgar Taylor (1793-1839), a solicitor, was publicly engaged in the campaign for the repeal of the Test and Corporation Acts.  She  converted from nonconformism under the influence of F. D. Maurice, and was the author of many novels, hymns and textbooks.
+[^3]: The word 'mention' deleted.

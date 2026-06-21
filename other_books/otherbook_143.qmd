@@ -1,0 +1,16 @@
+---
+title: "Sir Walter Scott 1st Bt. - Guy Mannering, or, The Astrologer"
+book_id: 143
+---
+
+## Publication Information
+
+**Date:** 1815
+
+**Imprint:** Edinburgh: Constable and London: Longman
+
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
+

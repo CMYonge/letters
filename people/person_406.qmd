@@ -1,0 +1,18 @@
+---
+title: "Monseigneur Georges Darboy"
+person_id: 406
+---
+
+## Biographical Information
+
+(1813-1871)
+
+Archbishop of Paris
+
+He was assassinated during the Paris Commune.
+
+## Letters Mentioning This Person
+
+- [Letter 2415](../2415-to-elizabeth-wordsworth-4.qmd)
+- [Letter 2425](../2425-to-frances-sophia-coleridge-patteson-6.qmd)
+

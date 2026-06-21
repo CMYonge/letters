@@ -1,0 +1,41 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1867-01-07"
+letter_date: "Jan 7th [1867]"
+manuscript: "MS University of Iowa; MsL/Y56ma1"
+post_id: 2144
+letter_id: "to-alexander-macmillan-114"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-01-07"
+  url: "https://cmyonge.github.io/letters/2144-to-alexander-macmillan-114"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 7th [1867]  
+**Manuscript:** MS University of Iowa; MsL/Y56ma1
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Please be so kind as to direct on this letter.
+
+I am taking the [Chaplet of Pearls](cmy_books/cmybook_69.qmd) to have a final reading by its greatest critics[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Perhaps [Mary Anne Dyson](people/person_464.qmd) (who is known to have encouraged CMY to make Eustacie less adult) and her [sister-in-law](people/person_462.qmd).

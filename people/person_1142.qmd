@@ -1,0 +1,23 @@
+---
+title: "John Henry Parker"
+person_id: 1142
+---
+
+## Biographical Information
+
+(1806-1884)
+
+Tractarian publisher in Oxford
+
+He was keeper of the Ashmolean Museum and the publisher of CMY’s <i>Kenneth, or the Rearguard of the Grand Army</i>, but should not be confused with John William Parker, who published <i>The Heir of Redclyffe</i>. [DLB 106]
+
+## Letters Mentioning This Person
+
+- [Letter 2762](../2762-to-the-reverend-bartholomew-price.qmd)
+- [Letter 3022](../3022-to-elizabeth-roberts-31.qmd)
+- [Letter 3056](../3056-to-jemima-blackburn-6.qmd)
+- [Letter 3363](../3363-to-frederick-orridge-macmillan-13.qmd)
+- [Letter 3398](../3398-to-frederick-orridge-macmillan-3.qmd)
+- [Letter 3441](../3441-to-mary-drew-2.qmd)
+- [Letter 3496](../3496-to-an-unknown-woman-46.qmd)
+

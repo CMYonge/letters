@@ -1,0 +1,45 @@
+---
+title: "To Oscar Fay Adams"
+letter_iso_date: "1892-12-15"
+letter_date: "Decr 15th 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Harvard University, Houghton Library"
+post_id: 3208
+letter_id: "to-oscar-fay-adams"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Oscar Fay Adams"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-12-15"
+  url: "https://cmyonge.github.io/letters/3208-to-oscar-fay-adams"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 15th 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Harvard University, Houghton Library
+:::
+
+Dear[Mr Adams](people/person_16.qmd)
+I think such papers as you kindly propose would be very valuable but my colleague, Miss [Christabel Coleridge](people/person_329.qmd) must be consulted, and likewise the publisher Mr [Arthur D Innes](people/person_744.qmd), 31 Bedford St Strand[^1]
+
+I think as you are in London it might simplify matters if you would call on him, as he would tell you about length of papers and terms and I believe we would find the papers very interesting
+
+Miss Coleridge lives at Cheyne Torquay so is rather out of reach unless you have yet to visit Exeter, Ottery St Mary Church and Truro
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: Oscar Fay Adams (1855-1919), American writer, contributed four articles on American subjects to *[MP](organizations/other_52.qmd)* in 1893-4.  He had first approached CMY when researching his biography of Jane Austen in the Winchester area.

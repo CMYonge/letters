@@ -1,0 +1,41 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1894-12-31"
+letter_date: "Decr 31 1894"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 212"
+post_id: 3278
+letter_id: "to-frederick-orridge-macmillan-7"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-12-31"
+  url: "https://cmyonge.github.io/letters/3278-to-frederick-orridge-macmillan-7"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 31 1894  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 212
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I shall be very happy to receive [£50](organizations/other_160.qmd)for the American copyright of [‘A Long Vacation’](cmy_books/cmybook_237.qmd)
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Endorsed 'Brett has agreed to pay £60 vide his letter of Dec 24/94'.

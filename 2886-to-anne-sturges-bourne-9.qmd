@@ -1,0 +1,46 @@
+---
+title: "To Anne Sturges Bourne"
+letter_iso_date: "1888-06-22"
+letter_date: "June 22d [1888]"
+location: "Elderfield"
+manuscript: "MS Miss Barbara Dennis/5"
+post_id: 2886
+letter_id: "to-anne-sturges-bourne-9"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Sturges Bourne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-06-22"
+  url: "https://cmyonge.github.io/letters/2886-to-anne-sturges-bourne-9"
+---
+
+::: {.letter-metadata}
+**Date:** June 22d [1888]  
+**From:** Elderfield  
+**Manuscript:** MS Miss Barbara Dennis/5
+:::
+
+My dear [Miss Bourne](people/person_1379.qmd)
+
+Thank you, I wish I saw my way, but I have been five weeks in Devonshire, and I cannot go forth again so soon, as there is a great deal on hand, and lee way to make up before another holiday  We have to hunt for an Infant School mistress as our very excellent one marries [the master](people/person_1256.qmd) and retires.[^1]  It is good for him, but bad for us.  We must get an ex p t - I believe they are plenty and cheap.[^2]  Yes, [Miss Marjory’s Ways](other_books/otherbook_1061.qmd) are very clever.  Have you had [the Dragon of the North](other_books/otherbook_1062.qmd)? - It is Fouqué like and yet true - and very good   [Bernard and Marcia](other_books/otherbook_1063.qmd) is good-  so is A Double Marriage, but they are both rather lengthy.[^3]  I don’t like Amélie’s last ‘[Joan Vellacott](other_books/otherbook_1064.qmd)’ - it is sound, of course, and there is a beautiful character in it, but she is barbarously killed, and her husband is deluded by a very horrid girl.  Married troubles of that sort are not nice to write about.  
+
+Dorothy Osborne’s [letters](other_books/otherbook_1065.qmd) are wonderful. I cannot think how she got educated.  If she had had a Mme de Grignan, she would have been a Mme de Sevigné   It is funny to find her discussing the characters in [the Grand Cyrus](other_books/otherbook_1066.qmd) &c just as we do modern novels.  I wish I could come to tell you about my visit to the [Bishop of Bedford](people/person_722.qmd), and seeing the People’s Palace - also the reigning story, but I must keep at home for the present
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: [Alice Misselbrook](people/person_1257.qmd) the mistress of Otterbourne Girls' School, married Alfred Rolfe, who taught the boys.
+[^2]: An ex-pupil-teacher.
+[^3]: CMY probably refers here to Eliza Stephenson, *A Double Wedding* (1888).

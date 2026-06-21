@@ -1,0 +1,41 @@
+---
+title: "To Jean Ingelow"
+letter_iso_date: "1869-06-17"
+letter_date: "June 17th [1869?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS New York Public Library: Berg Collection"
+post_id: 2321
+letter_id: "to-jean-ingelow-3"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jean Ingelow"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-06-17"
+  url: "https://cmyonge.github.io/letters/2321-to-jean-ingelow-3"
+---
+
+::: {.letter-metadata}
+**Date:** June 17th [1869?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS New York Public Library: Berg Collection
+:::
+
+Dear [Miss Ingelow](people/person_741.qmd)
+I enclose a note from a friend of mine, a young clergyman’s wife, who is as you see trying to raise the money for an Organ for her husband’s Church in the close neighbourhood of the White Horse of Berkshire
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

@@ -1,0 +1,15 @@
+---
+title: "Francisque Michel - Les écossais en France, les français en Écosse"
+book_id: 551
+---
+
+## Publication Information
+
+**Date:** 1862
+
+**Imprint:** London and Paris: Trübner
+
+## Letters Mentioning This Work
+
+- [Letter 2320](../2320-to-arthur-john-butler-2.qmd)
+

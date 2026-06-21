@@ -1,0 +1,13 @@
+---
+title: "Mrs Shipley"
+person_id: 2324
+---
+
+## Biographical Information
+
+calling, perhaps about the GFS
+
+## Letters Mentioning This Person
+
+- [Letter 3530](../3530-to-an-unknown-person-10.qmd)
+

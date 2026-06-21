@@ -1,0 +1,43 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-04-24"
+letter_date: "April 24th 1894"
+location: "Elderfield Otterbourne"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 145-6"
+post_id: 3261
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-16"
+citation:
+  type: article
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-04-24"
+  url: "https://cmyonge.github.io/letters/3261-to-the-reverend-john-frederick-watkinson-bullock-16"
+---
+
+::: {.letter-metadata}
+**Date:** April 24th 1894  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 145-6
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+I waited to answer till I saw whether an offer of a story I had made was accepted in which case I should have had no time, but I find I have and can manage the two lives[.] I have Hook’s[Archbishops](other_books/otherbook_695.qmd), and will make use of your  materials gladly. I once had [Frances Havergal](other_books/otherbook_696.qmd) but gave her away so I shall be glad of the loan
+
+I think [Charles Simeon](people/person_1275.qmd) ought to come in.[^1] He did a great work and was far more of a Churchman than ‘Simeonites’
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The Rev. Charles Simeon (1759-1836), vicar of Holy Trinity, Cambridge, where he exerted a strong influence on generations of undergraduates, who was generally associated with the evangelical wing of the church.  CMY knew some of his relations, who were neighbours.  The project under discussion with Bullock was evidently the 'Biographies of Eminent Anglicans' which formed part of his *Daily Lections* project, but were never published.

@@ -1,0 +1,21 @@
+---
+title: "Marie Therèse de Lamourous: foundress of the house of La Miséricorde at Bourdeaux [sic]. A biography abridged from the Fr. [of F. Pouget] by the author of ‘The Heir of Redclyffe’."
+book_id: 31
+sort_title: "Marie Therèse de Lamourous: foundress of the house of La Miséricorde at Bourdeaux "
+---
+
+## Publication Information
+
+**Date:** 1858
+
+**Genre:** Edited translation
+
+**Publisher:** John W Parker and Son West Strand, London.
+
+**Notes:** The title page may that CMY translated this work herself, which is not the case with all the translations from the French described as ‘edited’ by her.
+
+## Letters Mentioning This Work
+
+- [Letter 1914](../1914-to-alexander-macmillan-5.qmd)
+- [Letter 3493](../3493-the-reverend-john-mason-neale-to-charlotte-mary-yonge.qmd)
+
