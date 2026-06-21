@@ -6,8 +6,7 @@ body {
   line-height: 1.6;
 }
 
-/* Hide Quarto auto-generated title metadata (Published date etc.)
-   Belt-and-braces with title-block-style: plain in _quarto.yml */
+/* Hide Quarto auto-generated title metadata (Published date etc.) */
 .quarto-title-meta {
   display: none;
 }
@@ -42,7 +41,8 @@ body {
   font-size: 0.9em;
 }
 
-.quarto-appendix-bibtex {
+.quarto-appendix-bibtex,
+.quarto-appendix-secondary-label {
   display: none;
 }
 
