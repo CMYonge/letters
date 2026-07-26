@@ -8,6 +8,9 @@ library(purrr)
 
 ##### COpurrr##### CONFIGURATION #####
 
+data_dir    <- "C:/db"
+derived_dir <- "C:/db"
+
 output_dir <- "C:/db/reference_pages_qmd_Apr26"
 letter_dir <- "C:/db/all_letters_qmd_Apr26"
 
@@ -36,15 +39,19 @@ dir.create(file.path(output_dir, "other_books"),   showWarnings = FALSE, recursi
 
 ##### LOAD DATA #####
 
-persons    <- read_csv("C:/db/persons.csv",                    show_col_types = FALSE)
-others     <- read_csv("C:/db/wp_others.csv",                  show_col_types = FALSE)
-cmy_bib    <- read_csv("C:/db/wp_cmybibliography.csv",         show_col_types = FALSE)
-gen_bib <- read_csv("C:/db/wp_generalbibliography.csv",
-                    show_col_types = FALSE,
-                    locale = locale(encoding = "UTF-8")) %>%
-  filter(general_bookID != "general_bookID") %>%
-  mutate(general_bookID = as.numeric(str_remove_all(general_bookID, ",")))
-posts      <- read_csv("C:/db/wp_posts.csv",                   show_col_types = FALSE)
+persons      <- read_csv(file.path(data_dir, "persons.csv"), show_col_types = FALSE)
+others       <- read_csv(file.path(data_dir, "wp_others.csv"), show_col_types = FALSE)
+cmy_bib      <- read_csv(file.path(data_dir, "wp_cmybibliography.csv"), show_col_types = FALSE)
+gen_bib      <- read_csv(file.path(data_dir, "wp_generalbibliography.csv"), show_col_types = FALSE,
+                         locale = locale(encoding = "UTF-8")) %>%
+                       filter(general_bookID != "general_bookID") %>%
+                  mutate(general_bookID = as.numeric(str_remove_all(general_bookID, ",")))
+
+posts        <- read_csv(file.path(data_dir, "wp_posts.csv"), show_col_types = FALSE)
+person_links <- read_csv(file.path(data_dir, "wp_persons_posts.csv"), show_col_types = FALSE)
+other_links  <- read_csv(file.path(data_dir, "wp_others_posts.csv"), show_col_types = FALSE)
+cmy_links    <- read_csv(file.path(data_dir, "wp_cmybibliography_posts.csv"), show_col_types = FALSE)
+gen_links    <- read_csv(file.path(data_dir, "wp_generalbibliography_posts.csv"), show_col_types = FALSE)
 
 #### CMY bibliography: display_title and sort_title ####
 
@@ -64,8 +71,10 @@ make_titles <- function(raw_title) {
     after_plain    <- str_trim(str_replace_all(after_italic, "<[^>]+>", ""))
     
     display_italic <- move_trailing_article(italic_content)
-    display_title  <- if (nchar(after_plain) > 0) paste0(display_italic, after_plain)
-    else display_italic
+    display_title  <- if (nchar(after_plain) > 0) {
+      sep <- if (str_detect(after_plain, "^[.,;:!?]")) "" else " "
+      str_squish(paste0(display_italic, sep, after_plain))
+    } else display_italic
     sort_title     <- strip_leading_article(display_italic)
   } else {
     clean         <- clean_text(raw_title)
@@ -82,6 +91,10 @@ cmy_bib <- cmy_bib %>%
     sort_title    = map_chr(processed, "sort_title")
   ) %>%
   select(-processed)
+
+#### Escape double quotes for YAML values
+
+yaml_escape <- function(x) gsub('"', '\\"', x, fixed = TRUE)
 
 write_csv(cmy_bib, "C:/db/wp_cmybibliography_with_sort.csv")
 
@@ -222,9 +235,9 @@ for (i in 1:nrow(cmy_bib)) {
   
   content <- paste0(
     "---\n",
-    "title: \"", title, "\"\n",
+    "title: \"", yaml_escape(title), "\"\n",
     "book_id: ", book_id, "\n",
-    "sort_title: \"", sort_title, "\"\n",
+    "sort_title: \"", yaml_escape(sort_title), "\"\n",
     "---\n\n"
   )
   
