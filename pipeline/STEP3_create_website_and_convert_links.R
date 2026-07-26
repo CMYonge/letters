@@ -93,7 +93,7 @@ make_citation_yaml <- function(post_id, post_title, iso_date, post_name) {
   }
   
   url_line <- paste0(
-    '  url: "', site_base_url, '/letters/',
+    '  url: "', site_base_url, '/',
     post_id, '-', post_name, '"'
   )
   
@@ -117,6 +117,18 @@ make_citation_yaml <- function(post_id, post_title, iso_date, post_name) {
   )
   
   paste(lines[!sapply(lines, is.null)], collapse = "\n")
+}
+
+##### FUNCTION: CLEAN TITLE FOR SORTING #####
+# Strips leading <i>/<em> tags and leading quote characters so titles
+# sort correctly alphabetically (raw HTML/quote marks otherwise sort
+# before letters, producing spurious "<" and "'" groups in indexes).
+
+clean_sort_title <- function(title) {
+  title <- ifelse(is.na(title), "", title)
+  title <- str_remove(title, "^<i>|^<em>")
+  title <- str_remove(title, "^['\"\u2018\u2019\u201c\u201d]+")
+  str_squish(title)
 }
 
 ##### FUNCTION: INJECT CITATION YAML INTO FRONT MATTER #####
@@ -146,8 +158,7 @@ inject_citation_yaml <- function(content_text, citation_yaml) {
 cat("Part 1: Creating website folders...\n")
 
 dir.create(website_dir,                                    showWarnings = FALSE, recursive = TRUE)
-dir.create(file.path(website_dir, "letters"),              showWarnings = FALSE, recursive = TRUE)
-dir.create(file.path(website_dir, "letters", "decades"),   showWarnings = FALSE, recursive = TRUE)
+dir.create(file.path(website_dir, "decades"),              showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "people"),               showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "organizations"),        showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(website_dir, "cmy_books"),            showWarnings = FALSE, recursive = TRUE)
@@ -171,7 +182,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Letters"
-        href: letters/index.qmd
+        href: letters-index.qmd
       - text: "People"
         href: people/index.qmd
       - text: "Organizations"
@@ -179,17 +190,17 @@ website:
       - text: "Decades"
         menu:
           - text: "1834\u20131849"
-            href: letters/decades/3733-letters-1834-1849.qmd
+            href: decades/3733-letters-1834-1849.qmd
           - text: "1850\u20131859"
-            href: letters/decades/3735-letters-1850-1859.qmd
+            href: decades/3735-letters-1850-1859.qmd
           - text: "1860\u20131869"
-            href: letters/decades/3737-letters-1860-1869.qmd
+            href: decades/3737-letters-1860-1869.qmd
           - text: "1870\u20131879"
-            href: letters/decades/3740-letters-1870-1879.qmd
+            href: decades/3740-letters-1870-1879.qmd
           - text: "1880\u20131889"
-            href: letters/decades/3750-letters-1880-1889.qmd
+            href: decades/3750-letters-1880-1889.qmd
           - text: "1890\u20131901"
-            href: letters/decades/3752-letters-1890-1901.qmd
+            href: decades/3752-letters-1890-1901.qmd
       - text: "CMY Bibliography"
         href: cmy_books/index.qmd
       - text: "General Bibliography"
@@ -201,7 +212,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    title-block-style: plain
 '
 
 writeLines(quarto_config, file.path(website_dir, "_quarto.yml"))
@@ -217,7 +227,7 @@ cross-references to people, organizations, and publications mentioned in the let
 
 ## Browse
 
-- **[Letters](letters/index.qmd)** - Browse all letters chronologically
+- **[Letters](letters-index.qmd)** - Browse all letters chronologically
 - **[People](people/index.qmd)** - Index of correspondents and people mentioned
 - **[Organizations](organizations/index.qmd)** - Churches, institutions, and groups
 - **[CMY Bibliography](cmy_books/index.qmd)** - Works by Charlotte Mary Yonge
@@ -235,8 +245,6 @@ converted to a static website for long-term preservation and accessibility.*
 
 writeLines(index_content, file.path(website_dir, "index.qmd"))
 
-writeLines('---\ntitle: "Letters"\n---\n\nLetters are listed chronologically below.\n',
-           file.path(website_dir, "letters", "index.qmd"))
 writeLines('---\ntitle: "People"\n---\n\nBiographical information about correspondents and people mentioned in the letters.\n',
            file.path(website_dir, "people", "index.qmd"))
 writeLines('---\ntitle: "Organizations"\n---\n\nChurches, institutions, and other entities referenced in the letters.\n',
@@ -254,8 +262,7 @@ body {
   line-height: 1.6;
 }
 
-/* Hide Quarto auto-generated title metadata (Published date etc.)
-   Belt-and-braces with title-block-style: plain in _quarto.yml */
+/* Hide Quarto auto-generated title metadata (Published date etc.) */
 .quarto-title-meta {
   display: none;
 }
@@ -290,7 +297,8 @@ body {
   font-size: 0.9em;
 }
 
-.quarto-appendix-bibtex {
+.quarto-appendix-bibtex,
+.quarto-appendix-secondary-label {
   display: none;
 }
 
@@ -361,10 +369,10 @@ convert_tags_and_fix_yaml <- function(filepath, file_location) {
   content_text <- paste(content, collapse = "\n")
 
   if (file_location == "letters") {
-    person_path <- "../people/person_"
-    org_path    <- "../organizations/other_"
-    cmy_path    <- "../cmy_books/cmybook_"
-    book_path   <- "../other_books/otherbook_"
+    person_path <- "people/person_"
+    org_path    <- "organizations/other_"
+    cmy_path    <- "cmy_books/cmybook_"
+    book_path   <- "other_books/otherbook_"
   } else if (file_location == "people") {
     person_path <- "person_"
     org_path    <- "../organizations/other_"
@@ -512,7 +520,7 @@ for (letter_file in letter_files) {
     }
   }
 
-  output_file <- file.path(website_dir, "letters", basename(letter_file))
+  output_file <- file.path(website_dir, basename(letter_file))
   writeLines(converted_content, output_file, useBytes = TRUE)
   letters_processed <- letters_processed + 1
 }
@@ -525,7 +533,7 @@ decade_files <- list.files(file.path(letter_source, "decades"),
                            pattern = "\\.qmd$", full.names = TRUE)
 for (decade_file in decade_files) {
   converted_content <- convert_tags_and_fix_yaml(decade_file, "letters")
-  output_file       <- file.path(website_dir, "letters", "decades", basename(decade_file))
+  output_file       <- file.path(website_dir, "decades", basename(decade_file))
   writeLines(converted_content, output_file, useBytes = TRUE)
 }
 cat(sprintf("✓ Copied %d decade pages\n\n", length(decade_files)))
@@ -654,7 +662,7 @@ if (nrow(undated) > 0) {
   }
 }
 
-writeLines(index_content, file.path(website_dir, "letters", "index.qmd"))
+writeLines(index_content, file.path(website_dir, "letters-index.qmd"))
 cat(sprintf("✓ Created letters index with %d letters across %d decades\n\n",
             n_letters, length(decades)))
 
@@ -873,10 +881,12 @@ gen_df <- gen_bib %>%
       ifelse(is.na(author_surname),    "", author_surname),
       ifelse(is.na(author_suffix),     "", author_suffix)
     )),
+    sort_title = clean_sort_title(title),
     letter_group = toupper(substr(
-      ifelse(is.na(author_surname) | author_surname == "", title, author_surname), 1, 1))
+      ifelse(is.na(author_surname) | author_surname == "", sort_title, author_surname), 1, 1))
   ) %>%
-  arrange(author_surname, author_first_name, title)
+  arrange(author_surname, author_first_name, sort_title)
+
 
 index_content <- paste0(
   "---\n",

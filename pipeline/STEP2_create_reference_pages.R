@@ -4,8 +4,9 @@
 library(dplyr)
 library(readr)
 library(stringr)
+library(purrr)
 
-##### CONFIGURATION #####
+##### COpurrr##### CONFIGURATION #####
 
 output_dir <- "C:/db/reference_pages_qmd_Apr26"
 letter_dir <- "C:/db/all_letters_qmd_Apr26"
@@ -38,9 +39,11 @@ dir.create(file.path(output_dir, "other_books"),   showWarnings = FALSE, recursi
 persons    <- read_csv("C:/db/persons.csv",                    show_col_types = FALSE)
 others     <- read_csv("C:/db/wp_others.csv",                  show_col_types = FALSE)
 cmy_bib    <- read_csv("C:/db/wp_cmybibliography.csv",         show_col_types = FALSE)
-gen_bib    <- read_csv("C:/db/wp_generalbibliography.csv",
-                       show_col_types = FALSE,
-                       locale = locale(encoding = "UTF-8"))
+gen_bib <- read_csv("C:/db/wp_generalbibliography.csv",
+                    show_col_types = FALSE,
+                    locale = locale(encoding = "UTF-8")) %>%
+  filter(general_bookID != "general_bookID") %>%
+  mutate(general_bookID = as.numeric(str_remove_all(general_bookID, ",")))
 posts      <- read_csv("C:/db/wp_posts.csv",                   show_col_types = FALSE)
 
 #### CMY bibliography: display_title and sort_title ####
@@ -143,7 +146,7 @@ for (i in 1:nrow(persons)) {
       letter_id <- mentions$post_id[j]
       slug_row  <- posts %>% filter(post_id == letter_id)
       slug      <- if (nrow(slug_row) > 0) slug_row$post_name[1] else paste0("letter-", letter_id)
-      content   <- paste0(content, "- [Letter ", letter_id, "](../letters/", letter_id, "-", slug, ".qmd)\n")
+      content   <- paste0(content, "- [Letter ", letter_id, "](../", letter_id, "-", slug, ".qmd)\n")
     }
   }
   
@@ -186,7 +189,7 @@ for (i in 1:nrow(others)) {
       letter_id <- mentions$post_id[j]
       slug_row  <- posts %>% filter(post_id == letter_id)
       slug      <- if (nrow(slug_row) > 0) slug_row$post_name[1] else paste0("letter-", letter_id)
-      content   <- paste0(content, "- [Letter ", letter_id, "](../letters/", letter_id, "-", slug, ".qmd)\n")
+      content   <- paste0(content, "- [Letter ", letter_id, "](../", letter_id, "-", slug, ".qmd)\n")
     }
   }
   
@@ -233,7 +236,7 @@ for (i in 1:nrow(cmy_bib)) {
       letter_id <- mentions$post_ID[j]
       slug_row  <- posts %>% filter(post_id == letter_id)
       slug      <- if (nrow(slug_row) > 0) slug_row$post_name[1] else paste0("letter-", letter_id)
-      content   <- paste0(content, "- [Letter ", letter_id, "](../letters/", letter_id, "-", slug, ".qmd)\n")
+      content   <- paste0(content, "- [Letter ", letter_id, "](../", letter_id, "-", slug, ".qmd)\n")
     }
   }
   
@@ -293,7 +296,7 @@ for (i in 1:nrow(gen_bib)) {
       letter_id <- mentions$post_id[j]
       slug_row  <- posts %>% filter(post_id == letter_id)
       slug      <- if (nrow(slug_row) > 0) slug_row$post_name[1] else paste0("letter-", letter_id)
-      content   <- paste0(content, "- [Letter ", letter_id, "](../letters/", letter_id, "-", slug, ".qmd)\n")
+      content   <- paste0(content, "- [Letter ", letter_id, "](../", letter_id, "-", slug, ".qmd)\n")
     }
   }
   

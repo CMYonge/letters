@@ -21,7 +21,8 @@ output_dir <- "C:/db/all_letters_qmd_Apr26"
 
 letterinfo <- read_csv("C:/db/wp_letterinfo.csv",
                        show_col_types = FALSE,
-                       col_types = cols(letter_date = col_character()))
+                       col_types = cols(letter_date   = col_character(),
+                                        letter_dbdate = col_character()))
 posts      <- read_csv("C:/db/wp_posts.csv", show_col_types = FALSE)
 
 # Post IDs of the six decade intro pages.
@@ -171,12 +172,16 @@ convert_letter <- function(html_file) {
 
   if (nrow(meta) == 0) {
     date          <- ""
+    dbdate        <- ""
     location      <- ""
     manuscript    <- ""
     footnote_text <- ""
   } else {
     date <- ifelse(is.na(meta$letter_date[1]) || meta$letter_date[1] == "NA",
                    "", meta$letter_date[1])
+    dbdate <- ifelse(is.na(meta$letter_dbdate[1]) || meta$letter_dbdate[1] == "NA" ||
+                     meta$letter_dbdate[1] == "0000-00-00" || meta$letter_dbdate[1] == "",
+                     "", meta$letter_dbdate[1])
     location <- ifelse(is.na(meta$letter_fromAddress[1]) || meta$letter_fromAddress[1] == "NA",
                        "", meta$letter_fromAddress[1])
     manuscript <- ifelse(is.na(meta$manuscript_location[1]) || meta$manuscript_location[1] == "NA",
@@ -191,7 +196,21 @@ convert_letter <- function(html_file) {
   location   <- trimws(location)
   manuscript <- str_replace_all(manuscript, "\\[\\[footnote:\\d+\\]\\]", "")
   manuscript <- trimws(manuscript)
-  iso_date   <- parse_iso_date(date)
+
+  # Use letter_dbdate as primary ISO date source (clean sortable date);
+  # fall back to parse_iso_date(date) when dbdate absent or zero.
+  # Normalise dbdate: handles both YYYY-MM-DD and DD/MM/YYYY formats.
+  iso_date <- if (dbdate != "") {
+    if (str_detect(dbdate, "^\\d{2}/\\d{2}/\\d{4}$")) {
+      # DD/MM/YYYY → YYYY-MM-DD
+      parts <- str_split(dbdate, "/")[[1]]
+      paste0(parts[3], "-", parts[2], "-", parts[1])
+    } else {
+      dbdate  # already YYYY-MM-DD
+    }
+  } else {
+    parse_iso_date(date)
+  }
 
   ##### DECADE LABEL (decade intro pages only) #####
   # Extract date range e.g. "1870-1879" from slug "letters-1870-1879".
@@ -286,7 +305,7 @@ convert_letter <- function(html_file) {
     "title: \"", str_replace_all(title, '"', "'"), "\"\n",
     ifelse(is_page,                       "listing: false\n",                                ""),
     ifelse(is_page && decade_label != "", paste0("decade_label: \"", decade_label, "\"\n"), ""),
-    ifelse(iso_date   != "",              paste0("date: \"",         iso_date,     "\"\n"), ""),
+    ifelse(iso_date   != "",              paste0("letter_iso_date: \"", iso_date,     "\"\n"), ""),
     ifelse(date       != "",              paste0("letter_date: \"",  date,         "\"\n"), ""),
     ifelse(location   != "",              paste0("location: \"",     location,     "\"\n"), ""),
     ifelse(manuscript != "",              paste0("manuscript: \"",   manuscript,   "\"\n"), ""),
@@ -301,9 +320,7 @@ convert_letter <- function(html_file) {
   if (date       != "") meta_lines <- c(meta_lines, paste0("**Date:** ",       date))
   if (location   != "") meta_lines <- c(meta_lines, paste0("**From:** ",       location))
   if (manuscript != "") meta_lines <- c(meta_lines, paste0("**Manuscript:** ", manuscript))
-  
-  citation_note <- "  \n*Citation metadata for this letter is available for automatic import into reference managers including Zotero, Mendeley, and EndNote.*"
-  
+
   meta_block <- if (length(meta_lines) > 0) {
     paste0("::: {.letter-metadata}\n",
            paste(meta_lines, collapse = "  \n"),
@@ -313,12 +330,9 @@ convert_letter <- function(html_file) {
   ##### COMBINE AND SAVE #####
   # Decade pages: yaml | meta | body | ## Notes
   # generate_decades.R appends: ## Letters\n{{< include _RANGE_letters.md >}}
+  # Note: "Citation metadata..." text is handled by CSS ::after on .quarto-appendix
 
-  refman_note <- if (!is_page) {
-    "\n\n*Citation metadata for this letter is available for automatic import into reference managers including Zotero, Mendeley, and EndNote.*"
-  } else ""
-  
-  full_content <- paste0(yaml_header, meta_block, body_html, footnote_section, refman_note)
+  full_content <- paste0(yaml_header, meta_block, body_html, footnote_section)
 
   if (is_page) {
     output_file <- file.path(output_dir, "decades", paste0(post_id, "-", slug, ".qmd"))
