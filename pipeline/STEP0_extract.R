@@ -1,4 +1,5 @@
-# EXTRACT_sql_to_html.R
+# IMPORTANT DO NOT RUN UNLESS YOU NEED TO REXTRACT THE LETTERS FROM THE WP DUMP
+#EXTRACT_sql_to_html.R
 # Stage: SQL dump line files → individual HTML files, one per letter
 #
 # Prerequisites: 

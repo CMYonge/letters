@@ -306,10 +306,9 @@ convert_letter <- function(html_file) {
     ifelse(is_page,                       "listing: false\n",                                ""),
     ifelse(is_page && decade_label != "", paste0("decade_label: \"", decade_label, "\"\n"), ""),
     ifelse(iso_date   != "",              paste0("letter_iso_date: \"", iso_date,     "\"\n"), ""),
-    ifelse(date       != "",              paste0("letter_date: \"",  date,         "\"\n"), ""),
-    ifelse(location   != "",              paste0("location: \"",     location,     "\"\n"), ""),
-    ifelse(manuscript != "",              paste0("manuscript: \"",   manuscript,   "\"\n"), ""),
-    "post_id: ", post_id, "\n",
+    ifelse(date       != "",              paste0("letter_date: \"",  str_replace_all(date, '"', "'"),         "\"\n"), ""),
+    ifelse(location   != "",              paste0("location: \"",     str_replace_all(location, '"', "'"),     "\"\n"), ""),
+    ifelse(manuscript != "",              paste0("manuscript: \"",   str_replace_all(manuscript, '"', "'"),   "\"\n"), ""),"post_id: ", post_id, "\n",
     "letter_id: \"", slug, "\"\n",
     "---\n\n"
   )
