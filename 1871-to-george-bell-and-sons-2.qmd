@@ -1,0 +1,37 @@
+---
+title: "To Messrs. Bell and Daldy"
+letter_iso_date: "1862-08-08"
+letter_date: "Aug 8th [1862]"
+location: "Baldersby"
+manuscript: "MS Reading University Library, uncatalogued Bell MSS/1"
+post_id: 1871
+letter_id: "to-george-bell-and-sons-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs. Bell and Daldy"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-08-08"
+  url: "https://cmyonge.github.io/letters/1871-to-george-bell-and-sons-2"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 8th [1862]  
+**From:** Baldersby  
+**Manuscript:** MS Reading University Library, uncatalogued Bell MSS/1
+:::
+
+[Gentlemen](organizations/other_135.qmd),
+I am greatly obliged for the copies of [Mrs](people/person_549.qmd) & [Miss Gatty](people/person_494.qmd)’s Books. I find that my not having sooner received the former ones was owing to my directions for the forwarding of parcels to me me [sic] not having been attended to. I am sorry that I have thus been the innocent cause of so much inconvenience and of having thus received more than my due of copies.
+
+yours faithfully
+C M Yonge

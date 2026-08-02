@@ -1,0 +1,43 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1872-02-21"
+letter_date: "Feb 21st 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell."
+post_id: 19897
+letter_id: "to-an-unknown-woman"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-02-21"
+  url: "https://cmyonge.github.io/letters/19897-to-an-unknown-woman"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 21st 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+Madam,
+
+I am glad that the introduction of that letter has been serviceable.  I am afraid though that I do not see any prospect of being able to make room for the story from Mrs Charlesworth as I am engaged to serials for a great way on[^1]
+
+yours truly
+
+C M Yonge
+
+---
+
+[^1]: The well-known children's writer Maria Louisa Charlesworth was unmarried, so it is not clear if this reference is to her or not.  Her work was probably too Low Church for *MP* and possibly the rather chilly tone of this note is connected with CMY's view of her works.

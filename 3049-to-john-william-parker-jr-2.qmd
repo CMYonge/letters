@@ -1,0 +1,41 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1854-07-10"
+letter_date: "July 10th [1854]"
+location: "Otterbourne Winchester"
+manuscript: "MS Michigan State University"
+post_id: 3049
+letter_id: "to-john-william-parker-jr-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-07-10"
+  url: "https://cmyonge.github.io/letters/3049-to-john-william-parker-jr-2"
+---
+
+::: {.letter-metadata}
+**Date:** July 10th [1854]  
+**From:** Otterbourne Winchester  
+**Manuscript:** MS Michigan State University
+:::
+
+Dear [Sir](people/person_1143.qmd),
+My new tale of ‘[Heartsease or The Brother's Wife](cmy_books/cmybook_19.qmd)’ is now complete. I am willing to publish it in the same manner as the ‘[Heir of Redclyffe](cmy_books/cmybook_13.qmd)’ and if you are ready to undertake it, will forward it to you, as soon as I have heard from you. At your convenience, I should be glad to know the state of the account of [The Little Duke](cmy_books/cmybook_20.qmd).
+
+Yours faithfully,
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

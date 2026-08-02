@@ -1,0 +1,43 @@
+---
+title: "To Alice May Gordon"
+letter_iso_date: "1894-04-06"
+letter_date: "April 6th 1894"
+location: "Elderfield Otterbourne"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3258
+letter_id: "to-alice-may-gordon"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice May Gordon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-04-06"
+  url: "https://cmyonge.github.io/letters/3258-to-alice-may-gordon"
+---
+
+::: {.letter-metadata}
+**Date:** April 6th 1894  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mrs Gordon](people/person_572.qmd)
+My books may very well follow the rest of the [collection](organizations/other_221.qmd) to Newnham, I never expected their return and they will be very well there.[^1] I wonder if you will succeed in getting them for the future exhibition!
+
+I am glad you have found such suitable work. What a profusion of periodicals of all sizes there are, though it shocked me a little that no woman’s paper can succeed without the fashions
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Alice Gordon had written to the Editor of *The Times* (5 January 1893): 'A library has been built in the Women's Building of the Chicago Exhibition, in which the best books written by women of all nations are to be exhibited.  We are anxious that English women's writings should be well represented.  A committee has been formed consisting of Miss Agnes Clerke, Mrs. W. K. Clifford, Mrs. Green, Miss Kingsley, Mrs. Humphry Ward, Miss Charlotte Yonge, and Mrs. J.E. H. Gordon, to collect a representative library.' She asked for the gift or loan of books or MSS.

@@ -1,0 +1,43 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1867-01-01"
+letter_date: "Jan. 1. 1867"
+manuscript: "Copy outletter book British Library Add MSS.55386 (2) P. 754"
+post_id: 19667
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-01-01"
+  url: "https://cmyonge.github.io/letters/19667-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Jan. 1. 1867  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (2) P. 754
+:::
+
+My dear Miss Yonge,                                                                       
+
+I omitted yesterday to say that I had sent to [your bankers](organizations/other_169.qmd) the amount of £275 – due at midsummer.
+
+Also that I am reading [Miss Peard](people/person_1160.qmd)’s “[story of Prayer Book](other_books/otherbook_464.qmd)” , and I hope with perhaps a little modification, it may come well into [our Series](organizations/other_145.qmd), but not early.
+
+With all kind New Year wishes
+
+Yours very faithfully
+
+[A. Macmillan](people/person_939.qmd)
+
+&nbsp;

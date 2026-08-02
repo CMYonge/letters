@@ -1,0 +1,48 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-05-10"
+letter_date: "May 10. 1865."
+manuscript: "Copy outletter book British Library Add MSS. 55384 (1): P. 463"
+post_id: 2032
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-28"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-10"
+  url: "https://cmyonge.github.io/letters/2032-alexander-macmillan-to-charlotte-mary-yonge-28"
+---
+
+::: {.letter-metadata}
+**Date:** May 10. 1865.  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (1): P. 463
+:::
+
+My dear Miss Yonge, 	
+It is most kind of you to take my crude criticism in so good part. [I](people/person_939.qmd) did think of the parts, and your possible motive in dwelling on the opening [chapter](organizations/other_177.qmd) in the slight way you have done. Still with an eye to what is coming I cannot but think that the opening should be fuller, more sonorous and in a higher key. But I have asked [Mr Clay](organizations/other_173.qmd) to let me have all you have sent put up in type and then I will be in a position to write you at greater length and with more complete knowledge of what the whole idea is.
+
+I think the whole book should be in a somewhat lofty rapt mood. The 'piece of the ear & the leg,' and the <u>broad tail</u> of the sheep jarred on me. I dont know that I am right, but the mystery and awe, though they clearly demand quietness yet seem to demand that it should be rhythmic, as if one could chant it. If I might prescribe I should say one should read the 34th chapter of Ezekiel and the 23rd Psalm aloud to get the [*illegible*]
+
+But I am trying your patience enough in generalities. I have every confidence that the book will be a noble one. I have been reading the second part of the '[Dove](cmy_books/cmybook_62.qmd)' with great delight. I hope you are getting the proofs all right.
+
+Would you like me to send you Stanleys [sermons](other_books/otherbook_402.qmd). Pray say if you would also if you fail to get Thomson [Land and Book](other_books/otherbook_404.qmd) &c. The [London Library](organizations/other_29.qmd) will get it for you. I have of my own Kittos [Pictorial History of Palestine](other_books/otherbook_401.qmd) if you would like to see it.
+
+I will send the sheets to [Appletons](organizations/other_142.qmd) and [Tauchnitz](people/person_1396.qmd) regularly. The Yankees are very sharp and it appears to me that they are acting systematically on [getting](organizations/other_172.qmd) as much as they can on all hands. But I fancy you will get your money in the long run. I got a little for Mr [Henry Kingsley](people/person_1940.qmd)s two last novels £20 a piece - from [Ticknor & F](organizations/other_179.qmd). He paid me about a month ago. They had waited a while before sending it
+
+Yours very faithfully
+Alex Macmillan		
+</p
+
+---
+
+**Note:** Arthur Penrhyn Stanley (1815-1881), Dean of Westminster, published many volumes of sermons. His *Sermons preached before the Prince of Wales during his tour in the East in 1862, with notices of some of the localities visited*  (London : Murray 1863) is probably the one referred to here. Publishers of CMY’s works in America. *Ravenshoe* (1862) and *Austin Elliot* (1863).

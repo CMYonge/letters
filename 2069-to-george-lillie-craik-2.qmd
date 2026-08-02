@@ -1,0 +1,50 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1865-09-05"
+letter_date: "Sept 5th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 109-10"
+post_id: 2069
+letter_id: "to-george-lillie-craik-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-09-05"
+  url: "https://cmyonge.github.io/letters/2069-to-george-lillie-craik-2"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 5th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 109-10
+:::
+
+Dear [Sir](people/person_379.qmd),
+[Mr Macmillan](people/person_939.qmd) asks me to answer to you the lady’s enquiry about the Strayed Leaves, which are strayed indeed![^1]
+
+The fact was that I wrote a sort of conclusion to [Heartsease](cmy_books/cmybook_19.qmd), which was called [Last Heartsease leaves](cmy_books/cmybook_42.qmd). It was not worth publishing, but it was printed for a bazaar some years ago, and I have never heard the last of it. I put it at last into the last number of <u>[Events of the Month](organizations/other_69.qmd)</u>, and there - the title was somehow misprinted <u>Lost Heartsease</u> Leaves which accounts for its having become Strayed Leaves. It would be the best way to refer the lady to the last number of Events of the Month. It is only one short chapter.
+
+My address for the next two or three weeks will be (using my Christian name[^2]) at 
+
+Puslinch
+Yealmton
+Devon
+
+Yours faithfully
+Charlotte M Yonge
+
+---
+
+[^1]: The preceding letter from Macmillan (British Library Add MSS. 55384 (2): P. 846), which probably contained this request, is quite illegible.
+[^2]: To avoid confusion with her eldest unmarried cousin Mary Yonge.

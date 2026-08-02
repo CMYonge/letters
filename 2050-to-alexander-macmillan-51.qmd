@@ -1,0 +1,41 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-07-01"
+letter_date: "July 1st 1865"
+manuscript: "MS British Library Add MSS 54920: 99-100"
+post_id: 2050
+letter_id: "to-alexander-macmillan-51"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-07-01"
+  url: "https://cmyonge.github.io/letters/2050-to-alexander-macmillan-51"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st 1865  
+**Manuscript:** MS British Library Add MSS 54920: 99-100
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd)
+I think [Miss Sewell](people/person_1301.qmd) and I pretty well came to this conclusion that the first of our periods should begin with William the Conqueror and end with the absolution of King John, so as to make its leading idea the great strife for supremacy between Church and State. I believe we have plenty of materials for a [volume](cmy_books/cmybook_71.qmd). She under takes the compilation of the materials, and I am to write the sketches upon which all are to be hung. I think Milman’s [Latin Christianity](other_books/otherbook_411.qmd) is one of her chief fields for extracts. Some of the best bits of [Gibbon](other_books/otherbook_412.qmd) too will come in for the Crusades, and Sir James Stephen’s [Essays](other_books/otherbook_409.qmd) on Hildebrand and on the Mendicant Orders. But we shall not really set to work till after the holidays.
+
+I send one of the designs for the [Prince and the Page](cmy_books/cmybook_61.qmd). In case you have not looked up the chapter it belongs to in the [Monthly Packet](organizations/other_52.qmd), it is well to mention that the blind man is only meant to have one hand. The arch wants a base however, but this is only a specimen to be judged of. [Miss Johns](people/person_887.qmd) could draw the designs on wood herself, and perhaps after all that would be the best way. What I have seen of hers were really well executed, as far as I could judge, but they did not involve so much design as this. [Her father](people/person_769.qmd)’s book of '[Home Walks](other_books/otherbook_410.qmd)' was illustrated by her, and the frontispiece of a man gathering cherries is very nicely done. But I do not know what may be the comparative merits and costs of photo lithography, over wood engraving done by the original designer. I thought of having six illustrations if it seemed prudent and manageable.
+
+The arrival of the news of the knights death in the [Dove](cmy_books/cmybook_62.qmd) was the original dream out of which the story rose at a house called [Sorel](organizations/other_181.qmd).
+
+I hear [Tennyson](people/person_1874.qmd) is thinking of founding a [poem](other_books/otherbook_413.qmd) on the story of Odin’s Sacrifice in the [Golden Deeds](cmy_books/cmybook_51.qmd).<sup>1</sup>
+
+Yours sincerely
+C M Yonge

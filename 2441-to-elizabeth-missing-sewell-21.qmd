@@ -1,0 +1,41 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1872-04-04"
+letter_date: "[4 April 1872?]"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2441
+letter_id: "to-elizabeth-missing-sewell-21"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-04"
+  url: "https://cmyonge.github.io/letters/2441-to-elizabeth-missing-sewell-21"
+---
+
+::: {.letter-metadata}
+**Date:** [4 April 1872?]  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear Miss Sewell,
+Will not this do? The M.S is come?
+
+Hoping for you on the 25th
+
+Yours affectionately
+C M Yonge
+
+---
+
+**Note:** An envelope, which may go with this note, is  postmarked Winchester 4 Ap 17 72, and addressed to  “Miss E M Sewell/Bonchurch/I of Wight”.  Otherwise it seems more likely that the note dates from their collaboration in 1867-8.

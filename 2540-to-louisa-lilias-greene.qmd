@@ -1,0 +1,44 @@
+---
+title: "To Louisa Lilias Greene"
+letter_iso_date: "1876-01-29"
+letter_date: "Jany 29th 1876"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Humanities Research Center, University of Texas, Austin, Charlotte M. Yonge collection/4"
+post_id: 2540
+letter_id: "to-louisa-lilias-greene"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Louisa Lilias Greene"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-01-29"
+  url: "https://cmyonge.github.io/letters/2540-to-louisa-lilias-greene"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 29th 1876  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Humanities Research Center, University of Texas, Austin, Charlotte M. Yonge collection/4
+:::
+
+Dear [Mrs Greene](people/person_583.qmd)
+
+It is very prettily described but I am afraid the revulsion of feeling is too painful so I think I had better not accept it.
+
+The Copyright of your stories remains with you, and you are quite welcome to publish them separately[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: Greene had contributed a story, 'The Haunted Sacks' to *MP* (Christmas 1875) which was reprinted in her *God's Silver, or, Youthful Days* (1877).

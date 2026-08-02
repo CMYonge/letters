@@ -1,0 +1,42 @@
+---
+title: "To Mary Penelope Fursdon"
+letter_iso_date: "1876-04-01"
+letter_date: "April 1st 1876"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 2548
+letter_id: "to-mary-penelope-fursdon"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Penelope Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-04-01"
+  url: "https://cmyonge.github.io/letters/2548-to-mary-penelope-fursdon"
+---
+
+::: {.letter-metadata}
+**Date:** April 1st 1876  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+To [Mary Penelope Fursdon](people/person_539.qmd)
+
+[Mother Goose](organizations/other_104.qmd)'s questions
+
+The religions of the world ancient and modern..
+
+The [illegible] of history and romance[^1]
+
+---
+
+[^1]: Postcard addressed to 'Miss M. Fursdon/Fursdon/Tiverton', postmarked 'Winchester 1 April 1876'.
+[^2]: This is an interesting survival which shows the format in which essay questions were circulated to members of the Gosling Society.

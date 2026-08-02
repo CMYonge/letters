@@ -1,0 +1,48 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1861-11-23"
+letter_date: "Novr 23d 1861"
+location: "Otterbourne, Winchester"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1861/14"
+post_id: 1845
+letter_id: "to-ann-maria-carter-smith-50"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-11-01"
+  url: "https://cmyonge.github.io/letters/1845-to-ann-maria-carter-smith-50"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 23d 1861  
+**From:** Otterbourne, Winchester  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/14
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I have not the letter, at least I do not believe I have but I am almost certain that it was to be the 4 couples at 2lb; and I think you may safely so apply it. I will wait a week to write to [Mrs Elphinstone](people/person_482.qmd) in case you should be able to tell me anything specially about any of the people.[^1]
+
+I do not know whether I forgot to finish my story or only put it stupidly, the point of it was the staring of the strangers at hearing such a grave polished man as [Dr Harris](people/person_629.qmd) proposing the worst street in Torr as an allurement to a lady. That Torr Churchyard is indeed a strangely mournful place, with all its records of early deaths among strangers and its graves so close together I wish we had more time to spend with the kind cousins there, but I was hurried away by having to meet [Mrs Selwyn](people/person_1297.qmd) before her return to New Zealand, and I could not go to Cockington though I have a whole houseful of cousins and a godson there.[^2] I did once walk there from Livermead many years ago.
+
+[Masters](people/person_981.qmd)’s corrections and criticisms amuse me very much - it was great fun to see how he presided over the [Maiden of our own day](other_books/otherbook_315.qmd). I wish you would have a good fight with him it would do him good
+
+yours sincerely
+
+C M Yonge
+
+---
+
+[^1]: Letters to Carter Smith dated 18 March, 3 July, 21 November 1861 and 3 April 1862 refer to a donation by a Mrs Elphinstone of money to be given to poor people in Ann Carter Smith's parish.
+[^2]: The Mallock family of Cockington Court were connected to the Yonges and the Froudes;  Livermead was a house at Torquay belonging to them

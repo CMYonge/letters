@@ -1,0 +1,10 @@
+---
+title: "Mr Chandler"
+person_id: 1864
+---
+
+## Biographical Information
+
+friend of a would-be contributor
+
+

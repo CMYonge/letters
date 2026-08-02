@@ -1,0 +1,52 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1866-11-19"
+letter_date: "Novr 19th 1866"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 168-169"
+post_id: 2139
+letter_id: "to-alexander-macmillan-82"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-11-19"
+  url: "https://cmyonge.github.io/letters/2139-to-alexander-macmillan-82"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 19th 1866  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 168-169
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+You will think there is no end to my tormenting you, but Mr [Hugo Borges](people/person_174.qmd) of Cambridge has been writing to me rather urgently on behalf of his friend Mr [Otto Franke](people/person_522.qmd), of whom I dare say you have heard, to ask me to let him translate any future novel into German.[^1] I answered that what I had in hand was going into your [Magazine](organizations/other_78.qmd), and he replies that this is just what will suit him as he wants it for a Magazine of translated foreign novels (Roman Magazin des Auslande) and if you will let him have early sheets, he desires me to name my own terms for permission to translate.
+
+I never was paid anything before for permission to translate and I have no idea what the terms should be. Can you tell me -?
+
+I suppose there is no chance of the said [Chaplet](cmy_books/cmybook_69.qmd) being wanted by you for six months at least.
+
+Thank you greatly for not leaving me to the [tender mercies](organizations/other_172.qmd) of America. Whatever I receive from thence, I consider as so much out of the fire.
+
+I like the size of the page of the [Historical Readings](cmy_books/cmybook_71.qmd). I will send you up to the end of the first division as soon as I have had a little more correspondence with my colleague, and I think I must have the introduction back to adapt.
+
+I will send the [cameos](cmy_books/cmybook_73.qmd) as soon as I can look them out. Have you cast your eye over those specimens of Readings on the Books of the Bible. I think I sent those on Leviticus, Numbers and Deuteronomy[^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Otto Franke (b.1842) was the author of a work on Catullus.
+[^2]: These were probably the articles by [Frances Mary Peard](people/person_1160.qmd), originally published in the *[Monthly Paper of Sunday Teaching](organizations/other_81.qmd)*, which CMY wanted Macmillan to publish in his [Sunday Library](organizations/other_145.qmd) series.

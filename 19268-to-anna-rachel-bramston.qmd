@@ -1,0 +1,53 @@
+---
+title: "To Anna Rachel Bramston"
+letter_iso_date: "1897-11-25"
+letter_date: "Novr 25th [1897]"
+location: "Elderfield"
+manuscript: "Essex Record Office D/Dlu/95/1/1"
+post_id: 19268
+letter_id: "to-anna-rachel-bramston"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Rachel Bramston"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-11-25"
+  url: "https://cmyonge.github.io/letters/19268-to-anna-rachel-bramston"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 25th [1897]  
+**From:** Elderfield  
+**Manuscript:** Essex Record Office D/Dlu/95/1/1
+:::
+
+My dear [Miss Bramston](people/person_195.qmd),
+
+It is very odd that I should just have been looking over the [Fairy Bower](other_books/otherbook_240.qmd) and coming to the same conclusion about as to the absurdity of all the neighbourhood being agitated about the children.  But after all it is a device to shew the characters upon.
+
+I think the worst sort of book is as you say, what makes naughtiness charming (it always is amusing) but [Holiday House](other_books/otherbook_1122.qmd) is quite harmless, because the children got punished.  [Misunderstood](other_books/otherbook_1123.qmd) is bad as making disobedience pathetic and a new book [Gerald and Dolly](other_books/otherbook_1124.qmd) is a very bad instance.  The children are let in to see the Xmas tree too soon.  Dolly wants [?] a doll for fear anyone else should get it, and gets burnt to death - not as a lesson against unfair selfishness but as a pretty pathetic incident to close the story.
+
+But you are quite right as to the futility of diving into mysterious misdeeds.  I think it is a conclusion that experience teaches.  I have known a grown up brother and sister declare that they really never knew whether they had done the mischief they got bewildered by the confusion of the investigation.  And, on the other hand, I know two people who each dated their truthfulness from the sufferings of her conscience over a thing that never was found out.
+
+I have got a sincerity paper giving that same advice, not to ask point blank Did you?  So I shall hardly be able to put both in at the same time. I must see which fits in best for April
+
+yours sincerely
+
+C M Yonge
+
+&nbsp;
+
+&nbsp;
+
+---
+
+**Note:** The reference to *Gerald and Dolly*, which was published in September 1897, means the letter can safely be dated in that year or later;  it evidently  relates to a proposed contribution by Anna Bramston to [*Mothers in Council*](organizations/other_82.qmd), of which CMY was editor.

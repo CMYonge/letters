@@ -1,0 +1,38 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1884-00-00"
+letter_date: "[1884]"
+manuscript: "MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 280."
+post_id: 2796
+letter_id: "to-mary-ann-moberly"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-01-01"
+  url: "https://cmyonge.github.io/letters/2796-to-mary-ann-moberly"
+---
+
+::: {.letter-metadata}
+**Date:** [1884]  
+**Manuscript:** MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 280.
+:::
+
+[To [Mary Ann Moberly](people/person_1019.qmd)]
+
+Many, many thanks for the beautiful little miniature of a holy life.[^1]  I do think the last half-century must have been a period of saints, when we think of the many blessed ones we have known.  Nothing so causes me to realise the ten thousand times ten thousand in the Revelation than the ‘[Bollandist Lives of Saints](other_books/otherbook_974.qmd)’ in about 150 years, having got no further than C, and those only canonised Roman Catholic saints with their names recorded.
+
+---
+
+[^1]: The position in *Dulce Domum* indicates 1884.
+[^2]: The book was evidently [Frances Awdry](people/person_82.qmd)'s biography of [Anne Mackenzie](people/person_930.qmd).

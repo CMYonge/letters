@@ -1,0 +1,42 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1877-11-10"
+letter_date: "Novr 10th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Delaware"
+post_id: 2606
+letter_id: "to-ellen-julia-johns-14"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-11-10"
+  url: "https://cmyonge.github.io/letters/2606-to-ellen-julia-johns-14"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 10th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Delaware
+:::
+
+My dear [Mrs Johns](people/person_772.qmd)
+
+So many thanks for your kindness in doing me that nice couvre pied. It was just what [Miss Walter](people/person_1462.qmd) had been assuring me that the sofa specially wanted for the winter and it brightens us up beautifully I am sure it has not been weather for going about this winter or rather autumn 
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

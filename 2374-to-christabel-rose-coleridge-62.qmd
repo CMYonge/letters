@@ -1,0 +1,42 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1870-03-02"
+letter_date: "March 2 [1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2374
+letter_id: "to-christabel-rose-coleridge-62"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-03-02"
+  url: "https://cmyonge.github.io/letters/2374-to-christabel-rose-coleridge-62"
+---
+
+::: {.letter-metadata}
+**Date:** March 2 [1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Yes, the Coral islands and King René will do very well, but really the [Goslings](organizations/other_104.qmd) <u>are</u> so long that I do not think they are worth keeping up.  [Cricket](people/person_1603.qmd) and [Double daisy](people/person_1161.qmd) are the only ones who have sent answers and that only to Henry VIII [^1],  I thought Ulysses might have been so entertaining but I believe nobody that does not live with a public library ever has books enough.  Your modern story is a good notion, it is one I once tried, but I did not get on with it, partly for want of experience of suburban people. Can’t you give your refined young lady a sense of humour to enliven her, and let her see the absurdities that the unrestrained run into?
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: ‘Write the history of Henry VIII’s expedition to France.’  Sent to Mary Fursdon 29 January 1870.

@@ -1,0 +1,43 @@
+---
+title: "To Harper & Bros."
+letter_iso_date: "1880-11-15"
+letter_date: "Novr 15th 1880"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Columbia University Library, New York:  Harper Bros Collection"
+post_id: 2714
+letter_id: "to-harper-bros-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harper & Bros."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-11-15"
+  url: "https://cmyonge.github.io/letters/2714-to-harper-bros-3"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 15th 1880  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Columbia University Library, New York:  Harper Bros Collection
+:::
+
+Messrs [Harper](people/person_248.qmd)
+
+I am much obliged for the [£10](organizations/other_160.qmd) for [Love and Life](cmy_books/cmybook_137.qmd) received on the 14th yesterday. I am also much obliged to you for sending me your ‘[paper for young people](organizations/other_250.qmd).’[^1] I ventured to extract a short poem on the Plumes of Crecy for a [Reading Book for schools](cmy_books/cmybook_150.qmd) making however a few alterations to bring it more into accordance with history than romance[^2]
+
+Yours faithfully
+C.M. Yonge
+
+---
+
+[^1]: There is a pencil line beside the mention of the reading book and  ‘Is not this worth mention?’ written in pencil. Underneath, in ink ‘Attended to./ S.S.C.’
+[^2]: Lillie E. Barr, ‘The Plumes of Creçy’ was included in *English History Reading Books* III, 106-9, with a note ‘in Harper’s Young People (slightly altered)’.  CMY has reciprocated the American [piracy](organizations/other_172.qmd) of her work.

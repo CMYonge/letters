@@ -1,0 +1,41 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1866-03-30"
+letter_date: "Good Friday [30 March], 1866"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 224"
+post_id: 2111
+letter_id: "to-anne-yonge-44"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-03-30"
+  url: "https://cmyonge.github.io/letters/2111-to-anne-yonge-44"
+---
+
+::: {.letter-metadata}
+**Date:** Good Friday [30 March], 1866  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 224
+:::
+
+My dear [Anne](people/person_1582.qmd)
+As we fully expected, the holy and blessed [spirit](people/person_798.qmd) went to its rest at one o’clock on Thursday morning; the [other](people/person_795.qmd) gentle spirit is placidly waiting her call to be with him.[^1] She slept quietly after having given thanks after it was over, but was much overcome on wakening, and this is the last we know of her. I should feel comforted to know the rest had come, which cannot be far off now. The erysipelas had nearly passed off, and the [Bournemouth doctor](people/person_230.qmd) ascribes it altogether to the long strain of sorrow upon the weakened frame. I am very thankful for both their sakes, but we feel very desolate. The funeral is to be on Thursday, and [mamma](people/person_1606.qmd) has written to offer a bed to the [Peter Young](people/person_1636.qmd)s, in case they should not have room at the Vicarage. [Mr. Wither](people/person_1544.qmd) has a terrible cold, and I dread Sunday for him.
+
+Your most affectionate
+C. M. Yonge
+
+---
+
+[^1]: John Keble died at Bournemouth on Thursday 29 March 1866; his wife Charlotte, who had long been an invalid, survived him for six weeks. Newman’s comment was: ‘it struck me (I trust it is a really charitable thought) that she was to be kept awhile to do penance for having kept Keble from being a Catholic.’ *Letters and Diaries* XXII 234.

@@ -1,0 +1,56 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1899-12-12"
+letter_date: "Decr 12th  [1899]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office Acc No 308"
+post_id: 3435
+letter_id: "to-mary-yonge-27"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-12-12"
+  url: "https://cmyonge.github.io/letters/3435-to-mary-yonge-27"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 12th  [1899]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office Acc No 308
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I wonder whether [Charlotte](people/person_1587.qmd)had a foggy, snowy voyage yesterday?  With us the day was very fine, the frosty road so clean and clear and this morning all was white but later it turned to drizzling rain and muddy roads , down which I puddled to the last nursing lecture, and saw instruction given on making a poultice among other things The numbers of people had been 29, but today there were only 19, from weather and the bad colds which are very prevalent-
+
+[Frances](people/person_1604.qmd) has had dear [George](people/person_1610.qmd)’s last letter written on the 18th of October  I have not seen it; she is going to bring it with her on the 20th  Probably no more will be heard till someone is able to write after the war-  That is a sad misfortune of [General Gatacre](people/person_2204.qmd), it cripples everything so much -[^1]  Those Boers are much better soldiers than one expected, and yet the [Illustrated](organizations/other_68.qmd)had many pictures of them drilling
+
+[Alethea](people/person_182.qmd) is at home, and takes little walks, but I have not seen her today  The Southampton water works want to get an act of parliament to enable them to buy up all the lower part of the village beyond the Vicarage walk so as to be able to prevent the wells or the drains from contaminating their water-  Frances and I have both had a great letter about the compulsory sale of the houses and we have set our lawyers to see about it
+
+Here is a hospital rhyme that the Nurse says she hears the patients muttering from one bed to another
+
+‘Here comes a red hot poultice
+The Nurse, she take no notice
+I say t’is red hot
+She say no, t’is not!’ 
+
+She is a lady, and has done a great deal of nursing, and now she is giving 7 lectures in a week – not on Sunday but two on other days.
+
+your most affectionate
+C M Yonge
+
+This ought to have gone yesterday, but got out of sight
+
+---
+
+[^1]: Gatacre had been defeated at the battle of Stormberg (10 December 1899).

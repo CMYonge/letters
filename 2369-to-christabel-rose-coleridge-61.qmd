@@ -1,0 +1,46 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1870-01-28"
+letter_date: "Jany 28th  [1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2369
+letter_id: "to-christabel-rose-coleridge-61"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-28"
+  url: "https://cmyonge.github.io/letters/2369-to-christabel-rose-coleridge-61"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 28th  [1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+What that [Ivy](people/person_2264.qmd) did about her questions I cannot conceive, for both [Frog](people/person_822.qmd) and [Cricket](people/person_1603.qmd) say they have had none, and yet there are some answers come in from Double Daisy and from nobody else[^1]
+
+I have got [Frances](people/person_1604.qmd)’s lame [sister](people/person_1462.qmd) with me, and she is always pleased to help me by copying, so she has written out the questions for me  Will you ask the next?  After these that I send for February-  I hope [Alice](people/person_327.qmd) will come out on the Odyssey question [^2] -  Every one seems to me to like [Lady Betty](other_books/otherbook_788.qmd) very much, I think her and Giles Grantley the real leading characters.  Can you help me now in a question regarding my reigning story, the [Pillars of the House](cmy_books/cmybook_109.qmd).  Miss Geraldine was about 21, an artist whose pupil her brother Edgar had been saw the drawings she did by the help of the teaching Edgar had given.  He was struck with the talent, and said that a course of study at South Kensington would make her able to do something effective -  how is she to manage the study?  I can send her to some relations to stay with, but I want to know the days and rules enough not to make her do anything impossible, and as she is still very lame she must have things made easy, and her brother’s master may help her.  I also want to know, what I do not suppose you can tell me – the regular course of a student at the Royal Academy, how long it takes and what the cost of it ought to be.[^3] To my shame be it spoken I cannot find the address to Double Daisy or to Ivy, so will you direct these on
+
+your affectionate
+Mother Goose
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Ivy is an unidentified member of the [Gosling Society](organizations/other_104.qmd).  Double Daisy was two sisters: [Jane Pearson](people/person_1161.qmd) and either Margaret or Mary Pearson.
+[^3]: ‘What parallel stories does folklore in different countries present to the adventures of Ulysses in the Odyssey?’  See the letter to Mary Fursdon of 29 January 1870.
+[^4]: The details of Geraldine's going to South Kensington for training appeared in *MP* (January 1872).

@@ -1,0 +1,45 @@
+---
+title: "To Arthur Duke Yonge [?]"
+letter_iso_date: "1873-12-12"
+letter_date: "Decr 12th [?1873]"
+location: "Elderfield,"
+manuscript: "MS Pierpont Morgan Library, New York, MA 1485"
+post_id: 19453
+letter_id: "to-arthur-duke-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Duke Yonge [?]"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-12-12"
+  url: "https://cmyonge.github.io/letters/19453-to-arthur-duke-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 12th [?1873]  
+**From:** Elderfield,  
+**Manuscript:** MS Pierpont Morgan Library, New York, MA 1485
+:::
+
+My dear [Arthur](people/person_1583.qmd)[^1]
+
+All thanks for this most interesting letter as well as for the subsequent extracts.  I hope to collect all ideas, and to judge whether or how the abridgement is to be made, since at present each person wants to have taken out whatever does not suit his own particular line and I am not quite sure that one volume in small print will not satisfy them all, but there is a whole multitude of corrections to be made
+
+your affectionate cousin
+
+CM Yonge
+
+&nbsp;
+
+---
+
+[^1]: It seems possible that this letter relates to the abridgement of the Life of John Coleridge Patteson and is addressed to [Arthur Duke Yonge](people/person_1583.qmd) who was in correspondence with his brother,[Frederick Duke Yonge](people/person_1608.qmd), who lived in New Zealand.  The letter is in the autograph album of Mary Millais, and Arthur Yonge was a professional painter.

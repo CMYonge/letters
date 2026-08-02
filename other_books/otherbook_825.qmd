@@ -1,0 +1,14 @@
+---
+title: "Elizabeth Missing Sewell - A Catechism of English History"
+book_id: 825
+---
+
+## Publication Information
+
+**Date:** 1872
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+

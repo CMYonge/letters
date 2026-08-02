@@ -1,0 +1,14 @@
+---
+title: "Alexandre Dumas père - La Bouillie de la comtesse Berthe"
+book_id: 57
+---
+
+## Publication Information
+
+**Date:** 1845
+
+**Imprint:** Paris : Hetzel
+
+**Notes:** This work appeared in several English translations; CMY refers to the 1846 Chapman & Hall edition with 100 illustrations done by Albert Bertall for the French edition.
+
+

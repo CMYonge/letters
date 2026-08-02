@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1871-08-01"
+letter_date: "Aug 1st [?1871]"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS New York Public Library, De Coursey Fales Collection/3"
+post_id: 2413
+letter_id: "to-an-unknown-woman-37"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-08-01"
+  url: "https://cmyonge.github.io/letters/2413-to-an-unknown-woman-37"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 1st [?1871]  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS New York Public Library, De Coursey Fales Collection/3
+:::
+
+Dear Madam,
+The Daisy Chain cot in which I am specially interested is in the [Belgravian Children’s Hospital](organizations/other_17.qmd) 1 Cumberland Street Belgrave Square[^1]  Anything addressed to [Miss Munro](people/person_2272.qmd) - at this direction, for the inmates will be gratefully accepted  The [Children’s Hospital at Great Ormond Street](organizations/other_3.qmd) has two [Aunt Judy](organizations/other_54.qmd) cots which seem to be always well supplied
+
+With many thanks 
+yours truly
+C M Yonge
+
+A little girl from this place was for two months at the Belgravian Hospital and was extremely happy
+
+---
+
+[^1]: An appeal for a Daisy Chain cot to be founded at Cumberland Street Children’s Hospital appeared in *MP* (1 January 1871) 92-5.

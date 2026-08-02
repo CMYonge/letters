@@ -1,0 +1,38 @@
+---
+title: "To Mr Dean? or the Dean of ?"
+letter_iso_date: "1888-06-14"
+letter_date: "June 14th 1888"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/12"
+post_id: 2885
+letter_id: "to-mr-dean-or-the-dean-of"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mr Dean? or the Dean of ?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-06-14"
+  url: "https://cmyonge.github.io/letters/2885-to-mr-dean-or-the-dean-of"
+---
+
+::: {.letter-metadata}
+**Date:** June 14th 1888  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/12
+:::
+
+Dear Mr Dean
+
+Thank you most heartily for the kind thought of sending me this gratifying testimony to what the actions themselves can inspire
+
+yours very truly
+C M Yonge

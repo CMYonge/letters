@@ -1,0 +1,46 @@
+---
+title: "To Ethel Romanes"
+letter_iso_date: "1896-04-29"
+letter_date: "April 29. [1896?]"
+location: "Elderfield, Otterbourne,"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 336."
+post_id: 3325
+letter_id: "to-ethel-romanes"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ethel Romanes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-04-29"
+  url: "https://cmyonge.github.io/letters/3325-to-ethel-romanes"
+---
+
+::: {.letter-metadata}
+**Date:** April 29. [1896?]  
+**From:** Elderfield, Otterbourne,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 336.
+:::
+
+My dear [Mrs. Romanes](people/person_1258.qmd)-
+I have been reading [the book](other_books/otherbook_714.qmd) before thanking you for it, and telling you how grateful I am for being allowed to see something of so beautiful a character.[^1]  Especially I had never understood that religious principles and aspirations had been a thing of early days, so that it was truly ‘our Childhood's Star again arising’ after an eclipse which had not been of the spirit and love of right and purity, but of the intellect, bewildered by search into things visible and substantial.[^2] I am sure it will be a great help to many who get lost in the mist.
+
+Of course I do not enter into those innermost scientific researches, but I have loved and inquired into the out-works of physical knowledge quite enough to enter into a great deal, especially on the botanical side, and about instinct.
+
+You must have found Oxford in its greatest beauty.-
+
+Yours very sincerely,
+C. M. YONGE
+
+---
+
+[^1]: *The Life and Letters of George Romanes, edited by his* wife 2 vols (London: Longman 1896).
+[^2]: John Keble, 'The Epiphany', ll. 5-6, in *The Christian Year*.  The biography deals with George Romanes's struggle to reconcile science and religion.

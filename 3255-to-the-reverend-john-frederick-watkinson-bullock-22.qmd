@@ -1,0 +1,42 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-03-19"
+letter_date: "March 19 1894"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 143-4"
+post_id: 3255
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-22"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-03-19"
+  url: "https://cmyonge.github.io/letters/3255-to-the-reverend-john-frederick-watkinson-bullock-22"
+---
+
+::: {.letter-metadata}
+**Date:** March 19 1894  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 143-4
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+If you can wait a little while for St Maurice I will send him to you but I am very busy just now, and could not turn my mind to it immediately. I have [Baring Gould](other_books/otherbook_692.qmd) and [Alban Butler](other_books/otherbook_27.qmd) both also Fleury[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to ‘The Revd  J.F. Bullock/Radwinter Rectory/Saffron Walden. Postmark MR 19/94.
+[^2]: CMY perhaps refers to Claude Fleury, *Histoire ecclesiastique* (1691-1720) ; she may have known it in Newman’s translation, *The Ecclesiastical History of M. l'abbé Fleury, from the Second Ecumenical Council to the end of the Fourth Century* (Oxford: Parker 1842-4).  She is talking about the work she was doing for Bullock's *Daily Lections* project.

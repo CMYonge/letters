@@ -1,0 +1,12 @@
+---
+title: "Victor Hugo - Les misérables"
+book_id: 371
+---
+
+## Publication Information
+
+**Date:** 1862
+
+**Imprint:** Paris
+
+

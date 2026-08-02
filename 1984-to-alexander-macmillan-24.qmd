@@ -1,0 +1,47 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-10-19"
+letter_date: "Oct 19th [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 47-48"
+post_id: 1984
+letter_id: "to-alexander-macmillan-24"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-19"
+  url: "https://cmyonge.github.io/letters/1984-to-alexander-macmillan-24"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 19th [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 47-48
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+[The Clever Woman of the Family](cmy_books/cmybook_58.qmd) as far as she goes will be sent you in a day or two from a friend who had had her to read.
+
+The [illustrations](organizations/other_167.qmd) are decidedly not successful and I should not wish to perpetuate them. They are not half so good as what [Miss Keary](people/person_793.qmd)’s young [cousin](people/person_887.qmd) does.[^1]
+
+There is about a fourth more of the story to come.
+
+I have nearly finished the [Golden Deeds](cmy_books/cmybook_51.qmd), but alas the Lotty story has eluded me twice again. However I have quite enough for the pages.
+
+Yours very truly
+C. M. Yonge
+
+---
+
+[^1]: Katie Johns, who was related to the novelist Annie Keary (1825-1879).

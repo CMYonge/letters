@@ -1,0 +1,36 @@
+---
+title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+letter_iso_date: "1896-11-00"
+letter_date: "[November 1896]"
+manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (November 1896) 226-7."
+post_id: 9362
+letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-11-01"
+  url: "https://cmyonge.github.io/letters/9362-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+---
+
+::: {.letter-metadata}
+**Date:** [November 1896]  
+**Manuscript:** MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (November 1896) 226-7.
+:::
+
+A LETTER FROM MISS C. M. YONGE
+
+Madam,-
+May I inform Associates who have been very kind to a blind [Member](organizations/other_23.qmd)- [Annie Nangate](people/person_917.qmd) [sic] of Otterbourne- that she died on October 2nd, aged nineteen. She became blind from a brain disease at eleven years old, and had ever since been a very gentle and holy example to all around, and making herself much beloved in the family?[sic] With many thanks to those who kindly sent her presents of books, wool for crochet &c.    
+
+C. M. Yonge.

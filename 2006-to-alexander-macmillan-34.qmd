@@ -1,0 +1,52 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-02-07"
+letter_date: "Febry 7th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 63-64"
+post_id: 2006
+letter_id: "to-alexander-macmillan-34"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-02-07"
+  url: "https://cmyonge.github.io/letters/2006-to-alexander-macmillan-34"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 7th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 63-64
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I have to thank you for sending me the parcel of German books, which I hope will much add to the correctness of my [story](cmy_books/cmybook_62.qmd). I am not sure however that one has not come for me to which I have no right -<u>[Alt-Nordisches Leben](other_books/otherbook_383.qmd) Von Dr Karl Weinhold</u> -
+
+[Miss Keary](people/person_793.qmd) told me that you had promised to get for her some Old Northern books, so perhaps it was meant for her. In that case shall I send it? Did you also put in Duncan’s [Shipwrecks](other_books/otherbook_384.qmd) which do indeed look like a store of Golden Deeds -?
+
+Any way I am very glad of the freight, and much obliged to you for putting me in the way of getting these books. 
+
+Will you be kind enough to have a copy of [Golden Deeds](cmy_books/cmybook_51.qmd) sent to 
+
+	Mlle [Marianne von Nathusius](people/person_1077.qmd),
+Meyendorf
+Leckhausen
+Magdeburg.
+
+She wants to get the start in translating it, before [Tauchnitz](people/person_1396.qmd)’s English edition comes out. [Mme de Witt](people/person_423.qmd)is translating it into French
+
+Yours sincerely
+C M Yonge
+
+Please to let sheets of the [Clever Woman](cmy_books/cmybook_58.qmd) go to M. Tauchnitz, unless this has been already done. I have heard from him today about it

@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1876-07-10"
+letter_date: "July 10th 1876"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "University of Tennessee Special Collections Library"
+post_id: 2558
+letter_id: "to-an-unknown-woman-42"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-07-10"
+  url: "https://cmyonge.github.io/letters/2558-to-an-unknown-woman-42"
+---
+
+::: {.letter-metadata}
+**Date:** July 10th 1876  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** University of Tennessee Special Collections Library
+:::
+
+Dear Madam
+
+Will you kindly send the advertisement with six stamps direct to the publisher as these requests are managed by him
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** The number is indistinct and might read 19th.

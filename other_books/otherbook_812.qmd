@@ -1,0 +1,14 @@
+---
+title: "Elizabeth Missing Sewell - A First History of Greece"
+book_id: 812
+---
+
+## Publication Information
+
+**Date:** 1852
+
+**Imprint:** London: Longman
+
+**Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
+
+

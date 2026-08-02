@@ -1,0 +1,35 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1850-11-18"
+letter_date: "November [1850]"
+manuscript: "MS location unknown. This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 54"
+post_id: 2973
+letter_id: "to-elizabeth-barnett-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1850-11-01"
+  url: "https://cmyonge.github.io/letters/2973-to-elizabeth-barnett-2"
+---
+
+::: {.letter-metadata}
+**Date:** November [1850]  
+**Manuscript:** MS location unknown. This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 54
+:::
+
+You really must beg, borrow or steal something to help me.[^1]  After this winter I shall get on better, but there are *[The Two Guardians](cmy_books/cmybook_13.qmd)* and the *[Landmarks of History](cmy_books/cmybook_14.qmd)* to finish before I can feel really at ease in giving my mind to this affair.  I am rather afraid of spoiling the *Landmarks*  by getting into a hurry.  If you can send me something, I think we could meet the first of January, but I am sure I cannot single-handed. . . .I wish it had found a name;  if there was any word to express 'for Confirmation girls' it would be the thing.  . . .
+
+---
+
+[^1]: i.e. to provide material for the new magazine, the first issue of which appeared on 1 January 1851 under the title *[The Monthly  Packet of Evening Readings for Younger Members of the English Church](organizations/other_52.qmd)*.

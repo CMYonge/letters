@@ -1,0 +1,41 @@
+---
+title: "To the Hon. Mrs Warburton"
+letter_iso_date: "1866-08-18"
+letter_date: "[August 1866]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Iowa; MsL/Y56wa"
+post_id: 3555
+letter_id: "to-isabel-mary-warburton-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Mrs Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-08-01"
+  url: "https://cmyonge.github.io/letters/3555-to-isabel-mary-warburton-3"
+---
+
+::: {.letter-metadata}
+**Date:** [August 1866]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56wa
+:::
+
+My dear [Mrs Warburton](people/person_1465.qmd), 
+I am sorry to say I have to dine with a great wedding party on Monday at my [brother](people/person_1624.qmd)’s, as [Miss Walter](people/person_616.qmd)’s wedding is to be on Tuesday, so that I am obliged to miss the pleasure you kindly propose to me
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Louisa Walter married  Francis Edward Halliday in Otterbourne on Tuesday 7 August 1866.

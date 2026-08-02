@@ -1,0 +1,40 @@
+---
+title: "To Augusta Boevey Pode"
+letter_iso_date: "1895-12-14"
+letter_date: "December 14 1895"
+location: "Elderfield"
+manuscript: "MS location unknown, owned in 1947 by Alethea Yonge; part facsimile in Mare and Percival, [<i>Victorian Best-seller</i>](other_books/otherbook_598.qmd), facing page 208."
+post_id: 3305
+letter_id: "to-augusta-boevey-pode-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Augusta Boevey Pode"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-12-14"
+  url: "https://cmyonge.github.io/letters/3305-to-augusta-boevey-pode-2"
+---
+
+::: {.letter-metadata}
+**Date:** December 14 1895  
+**From:** Elderfield  
+**Manuscript:** MS location unknown, owned in 1947 by Alethea Yonge; part facsimile in Mare and Percival, [<i>Victorian Best-seller</i>](other_books/otherbook_598.qmd), facing page 208.
+:::
+
+My dear [Augusta](people/person_1180.qmd)
+It is rather funny that the same post as brought your letter about [Lady Blachford’](people/person_1253.qmd)s indignation brought one from an American Correspondent of [Gertrude](people/person_1462.qmd)’s saying that she had observed that strict older sisters did generally turn out indulgent Mothers.[^1]  But I understand it this way.  Wilmet had seen that strict laws had not fully answered with Fulbert, Angela or Bernard and the Harewoods were easygoing by nature and also there was a spirit of teasing in the family.  Bill’s goodness came from his friendship with Lance and I do not think indeed I said that outsides in the Navy or Army would have reported ill of the sons, they would do their work there properly, but they did love teasing – up to tyranny pitch as with Gerald when a small child
+
+[the rest not reproduced]
+
+---
+
+[^1]: Wilmet Underwood, who in the early part of *The Pillars of the House* is a strict but fair mother to her younger brothers and sisters, turns in the second part and in sequels into an indulgent parent whose unruly sons bully their cousins.

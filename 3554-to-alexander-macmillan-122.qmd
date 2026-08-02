@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1873-06-30"
+letter_date: "June 30th [1873?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Iowa; MsL/Y56ma2"
+post_id: 3554
+letter_id: "to-alexander-macmillan-122"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-06-30"
+  url: "https://cmyonge.github.io/letters/3554-to-alexander-macmillan-122"
+---
+
+::: {.letter-metadata}
+**Date:** June 30th [1873?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56ma2
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Thank you much but it is an impossibility, I have to be at Aylesbury on Monday, and at home again on Saturday.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY’s visit to Aylesbury was probably to  the Rev. William Bigg Wither, who had become Rector of Hardwicke, Bucks. in 1871.  She is known to have visited him in 1873.

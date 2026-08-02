@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-10-26"
+letter_date: "Oct 26th 1868"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 224"
+post_id: 2286
+letter_id: "to-alexander-macmillan-104"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-26"
+  url: "https://cmyonge.github.io/letters/2286-to-alexander-macmillan-104"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 26th 1868  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 224
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd)
+A proof of the history of St Louis, I suppose [M. Guizot](people/person_597.qmd)’s has come here, but I do not know the why or wherefore. Is it a mistake?[^1]
+
+[Mrs Valentine](people/person_1437.qmd) ([Mr Warne](people/person_1433.qmd)’s reader) says they do not know anything of having had '[Wooed and Won](organizations/other_202.qmd)' sent in. Perhaps you would kindly ask whoever was your messenger to whom he gave it
+
+Yours sincerely
+C M Yonge
+
+Would you kindly have both the [Cameos](cmy_books/cmybook_73.qmd) and [Historical Selections](cmy_books/cmybook_71.qmd) sent to [Madame de Witt](people/person_423.qmd)
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Guizot contributed to Macmillan's [Sunday Library](organizations/other_145.qmd) a volume entitled *Great Christians of France: St. Louis and Calvin* (London: Macmillan 1868).

@@ -1,0 +1,37 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-05-13"
+letter_date: "May 13th [1852]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 2988
+letter_id: "to-elizabeth-roberts-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-05-13"
+  url: "https://cmyonge.github.io/letters/2988-to-elizabeth-roberts-9"
+---
+
+::: {.letter-metadata}
+**Date:** May 13th [1852]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+Dear [Madam](people/person_1243.qmd),
+I send the proof of your very pretty June [garland](other_books/otherbook_225.qmd). I am sorry that by some mistake of mine, May 25th was omitted in its right month. I suppose it was from its following Whitsunday. Do not you think that as Trinity Sunday is a moveable feast, it might be better to give that title instead of June 6th to the paper on the Hearts Ease? I suppose that the Dianthus Deltoides ought properly to be considered as a garden flower, but it is said by [Withering](other_books/otherbook_185.qmd) to grow wild in Scotland, and he gives its English name as Maiden Pink. Should you object to alter the expression that St Norbert was converted? I think that it is better to use that form of speech only for conversions from heathenism.
+
+Yours sincerely
+C M Yonge

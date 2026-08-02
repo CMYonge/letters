@@ -1,0 +1,17 @@
+---
+title: "Little Lucy’s Wonderful Globe."
+book_id: 86
+sort_title: "Little Lucy’s Wonderful Globe."
+---
+
+## Publication Information
+
+**Date:** 1871
+
+**Genre:** Fiction (modern)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+**Notes:** This is a fictionalized geography book.
+
+

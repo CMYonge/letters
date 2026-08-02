@@ -1,0 +1,51 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1868-10-30"
+letter_date: "Oct 30th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Edinburgh Library"
+post_id: 2289
+letter_id: "to-christabel-rose-coleridge-60"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-30"
+  url: "https://cmyonge.github.io/letters/2289-to-christabel-rose-coleridge-60"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 30th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Edinburgh Library
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Thank you much for [Giftie](other_books/otherbook_500.qmd). She looks very pretty and I like her picture. Yes, we will, if we can, have a Christmas [Barnacle](organizations/other_89.qmd). I have one capitally illustrated paper for it already from [Sparrow Hawk](people/person_97.qmd).
+
+Shall we send out the Questions for December, or January, I mean shall they go New Years day, or the month before?
+
+I think we are to have a new [Gosling](organizations/other_104.qmd) -
+
+[Emma Butler](people/person_822.qmd)
+Wantage Vicarage
+Berks.
+
+Would you send her the rules, and the names, omitting alas [Turkscap](people/person_1520.qmd), who has grown too busy. Have you seen her pretty story, ‘[Nigel Bartram’s Ideal](other_books/otherbook_536.qmd)’ a shilling book of Warne’s
+
+yours affectionately
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

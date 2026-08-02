@@ -1,0 +1,38 @@
+---
+title: "To Isabella Lucy Bishop"
+letter_iso_date: "1851-01-07"
+letter_date: "Jany 7th [1851-1881]"
+location: "'Monthly Packet', 6, Paternoster Row, London E.C."
+manuscript: "MS National Library of Scotland 7179"
+post_id: 3494
+letter_id: "to-isabella-bird"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabella Lucy Bishop"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1851-01-07"
+  url: "https://cmyonge.github.io/letters/3494-to-isabella-bird"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 7th [1851-1881]  
+**From:** 'Monthly Packet', 6, Paternoster Row, London E.C.  
+**Manuscript:** MS National Library of Scotland 7179
+:::
+
+Dear [Madam](people/person_1817.qmd)
+
+I see I did send your other poems to the printer, by confusion in the twilight.  But I like them so much as to be glad of it
+
+yours truly
+C M Yonge

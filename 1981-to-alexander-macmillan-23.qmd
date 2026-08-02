@@ -1,0 +1,41 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-10-03"
+letter_date: "Oct 3d 1864"
+location: "Otterbourne,Winchester."
+manuscript: "MS British Library Add MSS 54920: 45-46"
+post_id: 1981
+letter_id: "to-alexander-macmillan-23"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-01"
+  url: "https://cmyonge.github.io/letters/1981-to-alexander-macmillan-23"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 3d 1864  
+**From:** Otterbourne,Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 45-46
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Will you kindly give me your advice on this letter? It is written to [friend](people/person_873.qmd) of mine at Philadelphia who seeing my '[Clever Woman of the Family](cmy_books/cmybook_58.qmd)' was about to appear in parts in '[the Living Age](organizations/other_171.qmd)' wrote to enquire about it. This is [Mr Littell](people/person_883.qmd)’s answer.
+
+I should tell you that [Appleton](organizations/other_142.qmd) gave me £25 for each of my larger books till the war, when he said he did not get profit enough to pay me anything, though he has [published](organizations/other_172.qmd) my books since, without any communication with me. I do not think therefore that I am at all bound to him. The <u>Clever Woman</u> is about half finished in [Hogg](organizations/other_159.qmd)’s [Churchman’s Family Magazine](organizations/other_63.qmd). She is to be completed in March, when I hope you will publish her for me, in the mean time would it be better to let Messrs Hogg send advance sheets to Messrs Littell, and try to make terms with them? I do not know what to ask. I am sure Appleton must have underpaid me, though he always declared that English authors were best off in trusting to the honor of Americans
+
+I am sending the [Golden Deeds](cmy_books/cmybook_51.qmd) proofs back to the printers 
+
+Yours very truly
+C.M. Yonge

@@ -1,0 +1,47 @@
+---
+title: "Dorothea Beale to Charlotte Mary Yonge"
+letter_iso_date: "1890-01-15"
+letter_date: "January 15, 1890."
+location: "Ladies' College, Cheltenham"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 351"
+post_id: 3149
+letter_id: "dorothea-beale-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Dorothea Beale to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-01-15"
+  url: "https://cmyonge.github.io/letters/3149-dorothea-beale-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** January 15, 1890.  
+**From:** Ladies' College, Cheltenham  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 351
+:::
+
+Dear Miss Yonge
+Thanks for your interesting letter, it will give pleasure to [Mrs. Emery](people/person_2106.qmd), [Miss Kilner](people/person_2095.qmd)'s great-niece.
+
+That is very curious about the *[Lectures](other_books/otherbook_624.qmd)*.  It is strange that we found these books so fascinating when we were children;  is it because the story of the development of the soul is the most interesting thing even to little children, and these books, spite of all their erroneous methods, dealt with nothing else?  Besides, we all like a wholesome severity.
+
+Your description of your [mother](people/person_1606.qmd)'s school reminds [me](people/person_128.qmd)of Thackeray's description;  surely he must have seen the girls in Russell Square.[^1]  There was in those schools an exactness which was good, still there was not the thoroughness which looks to principles in grammar.  Those well-marked characters given in Ince's *[Outlines](other_books/otherbook_626.qmd)* were very curious.
+
+The want of sufficient food, exercise and warmth of body, mind, and heart, was the great want.  There are opposite evils now;  the young are too often self-indulgent, they exercise themselves in things too high for them, and they are sometimes sentimental;  still schools now, with all their faults (and I know there are plenty in mine), are more what they should be than in our grandmothers' times, so I thank God and take courage.
+
+Yours sincerely
+D. Beale
+
+---
+
+[^1]: The Osbornes live in Russell Square in *Vanity Fair* (1848), but Miss Pinkerton’s school is in Chiswick.

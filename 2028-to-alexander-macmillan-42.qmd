@@ -1,0 +1,41 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-05-06"
+letter_date: "May 6th 1865"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS British Library"
+post_id: 2028
+letter_id: "to-alexander-macmillan-42"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-06"
+  url: "https://cmyonge.github.io/letters/2028-to-alexander-macmillan-42"
+---
+
+::: {.letter-metadata}
+**Date:** May 6th 1865  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS British Library
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+Many thanks for the [cheque](organizations/other_160.qmd) for £25 for this month’s [Dove](cmy_books/cmybook_62.qmd). I am not sure whether a letter is still a sufficient receipt, if not please let me know, and I will send a stamped one, but receipt stamps are not easy to come by when one is <u>out</u> of the article, unless we are sending to Winchester, therefore I think it better to acknowledge the cheque at once. And at the same time I send [Jacob](organizations/other_177.qmd). I want to give the full scene and circumstances of each stage in foreshadowing and prophecy where it is possible. I am at Moses now and after Balaam I suppose Rahab and Ruth must be touched, and then the promise to David made out fully. Then Isaiah meeting Ahaz at the high way to the Fuller’s field, /Micah\\ - Jeremiah’s 31st chapter, Daniel’s fixing the time, the reoccupation of Bethlehem after the captivity. I have no doubt there is much that needs consideration in what I have done. I dwelt much on the doom on the physical world because I wanted to shew what was remedied and what was not, and besides I think the true connection of decay and pain in the animal creation with human sin is rather a relief than otherwise to a young mind, which is other wise grieved by the problem of innocent things suffering. But I have no doubt that there is much that I have not done well, or made out as I meant to do it.
+
+The photograph is very full of expression. I must confess to not having read the [Saints’ Tragedy](other_books/otherbook_398.qmd) - and but for the candles, the picture made me think it was an eastern scene. The figures all have an eastern look.
+
+I have the [magazine](organizations/other_78.qmd) now, and I see no slip to care about too much, except that Maximilian was not then king - which no one will know - and that the contraction of Ermentrude’s name should have begun with an T instead of an F. It is a fatality common to all magazines I suppose - for it is always befalling the [Monthly Packet](organizations/other_52.qmd) - that similar subjects come together - and thus the twin sons exactly alike in the [Tale of the New Forest](other_books/otherbook_399.qmd) are an odd coincidence with the chief heroes of the Dove
+
+Yours sincerely
+C M Yonge

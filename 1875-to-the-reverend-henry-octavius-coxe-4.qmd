@@ -1,0 +1,66 @@
+---
+title: "To the Reverend Henry Octavius Coxe"
+letter_iso_date: "1862-10-29"
+letter_date: "Oct 29th 1862"
+location: "Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS. Don. d.144 ff 156-7"
+post_id: 1875
+letter_id: "to-the-reverend-henry-octavius-coxe-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Henry Octavius Coxe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-10-29"
+  url: "https://cmyonge.github.io/letters/1875-to-the-reverend-henry-octavius-coxe-4"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 29th 1862  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS. Don. d.144 ff 156-7
+:::
+
+My dear [Mr Coxe](people/person_377.qmd)
+I am going to venture on sending you my Greek Saints’ names. They are out of a Russian Calendar, and are those that seem to have been productive of names and that cannot have been common to both the Eastern and Western Churches since [Alban Butler](other_books/otherbook_27.qmd) takes no notice of them. I hope it will not be very troublesome to you to note down for [me] where and when they lived, and just the leading feature that individualizes them. I am almost ashamed to bother you about it when you are so busy, but even if I were in the study of which I have such pleasant recollections, and I hope gained much ground, though if I had been less stupid I should have gained more.	
+
+With many thanks for help, past, present and to come. 
+
+Agrippina	        June 23
+
+Anysia		Dec 30
+
+Anchippius	Feb 19
+
+Glycera	May 13
+
+Demetrius 	Oct 26
+
+Emilianus	Aug 8 ?
+
+Irene			May 5
+
+Jebroma	June 2
+
+Charlampadius	Feb 1
+
+Chariton 	Sept 2
+
+Photius		Aug 12
+
+Spiridion
+
+Manna
+
+---
+
+**Note:** The letter has illegible annotations in another hand.

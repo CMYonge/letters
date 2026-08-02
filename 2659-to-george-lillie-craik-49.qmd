@@ -1,0 +1,38 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1879-01-25"
+letter_date: "Jan 25th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 82-83"
+post_id: 2659
+letter_id: "to-george-lillie-craik-49"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-01-25"
+  url: "https://cmyonge.github.io/letters/2659-to-george-lillie-craik-49"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 25th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 82-83
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Many, many thanks for prompt [payment](organizations/other_160.qmd), an agreeable sight on a winter’s morning  I think [the story](cmy_books/cmybook_131.qmd) in the [Monthly Packet](organizations/other_52.qmd)will finish there about next spring  It is not longer than the [Three Brides](cmy_books/cmybook_120.qmd), but has been in short chapters. I have not finished writing it yet, but the beginning may be printed when it is convenient. I am correcting the [Moors and Christians](cmy_books/cmybook_126.qmd) gradually, and will send the result soon  I see one or two little corrections are wanting in the [Primer](cmy_books/cmybook_353.qmd). When shall I send them
+
+Yours truly
+C M Yonge

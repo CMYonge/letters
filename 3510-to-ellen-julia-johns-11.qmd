@@ -1,0 +1,42 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1869-12-10"
+letter_date: "Dec 10th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Delaware"
+post_id: 3510
+letter_id: "to-ellen-julia-johns-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-10"
+  url: "https://cmyonge.github.io/letters/3510-to-ellen-julia-johns-11"
+---
+
+::: {.letter-metadata}
+**Date:** Dec 10th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Delaware
+:::
+
+My dear [Mrs Johns](people/person_772.qmd),
+I should be much obliged if you would propose me as a member of the [Literary and Scientific Society](organizations/other_208.qmd).[^1] My [sister in law](people/person_1604.qmd) would like her eldest [girl](people/person_1613.qmd) to attend the classes if they take place, especially the Natural history ones. I suppose the details of management have yet to be settled and perhaps you will then let me know whether we had better subscribe not only for her, but also for the Governess to bring her in. Or whether by subscribing for her and myself would give us three tickets in case of lectures that both the Governess and I might wish to attend
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY reverted to plain paper in May 1870.

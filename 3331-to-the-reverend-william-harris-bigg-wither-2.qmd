@@ -1,0 +1,50 @@
+---
+title: "To the Reverend William Harris Bigg Wither"
+letter_iso_date: "1896-11-22"
+letter_date: "Novr 22 [1896]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Theaterwissenschaftliche Sammlung, Universität zu Köln"
+post_id: 3331
+letter_id: "to-the-reverend-william-harris-bigg-wither-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William Harris Bigg Wither"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-11-22"
+  url: "https://cmyonge.github.io/letters/3331-to-the-reverend-william-harris-bigg-wither-2"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 22 [1896]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Theaterwissenschaftliche Sammlung, Universität zu Köln
+:::
+
+My dear [Mr Wither](people/person_1544.qmd)
+We go on much in the same way, down one day and up another and as it is the same disease as Sir Tom Coulthard had, it will probably linger in the same manner.[^1]  Today is a cheerful one, and [she](people/person_1462.qmd) has had the Holy Communion, for which [Henry](people/person_184.qmd) comes to her after a late Celebration.
+
+Tomorrow, [Raby](people/person_1221.qmd) is to come out and see her while I have to be in Winchester on this Sunday school committee.  I cant imagine what it is to do!  I have been reading the Awdry letters from Osaka and discovering that the small Virginian creeper grows all over the rocks there[^2]  Our Church was quite crimson with it but all the leaves are gone now.  I cannot think where your floods can be nourished. It is quite dry here.
+
+I hope you are not in the Aylesbury Union  What bad influence has come on there?  to determine them on making their children dissent.  [Arnold](people/person_62.qmd), since he left Otterbourne has married the [Miss Vine](people/person_2158.qmd) who had been keeping house for him, I hope she was not [Mrs Arnold](people/person_2055.qmd)’s niece, but he calls her a distant cousin.[^3]
+
+I hope you will have nice weather, and that Marianne will be pretty well for your visit
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: It was reported in *The Times* (30 May 1896) that the Bishop of Osaka and Mrs Awdry had reached Japan from England on April 27. Since Gertrude Walter died on 20 May 1897 this letter must date from the previous year.
+[^2]: Gertrude Walter’s mother was Mary Emma Coulthard.
+[^3]: The Rt. Rev. William Awdry (1842-1910) was Bishop of Osaka (1896-8) and South Tokyo (1898-1908);  he was married to the former Gosling  Emily Moberly (1844-1921).
+[^4]: James John Arnold (b. Peckham 1834/5), of Boyatt, surveyor and engineer, and his wife Sarah (Vine) Arnold (Otterbourne 1821/2-1896).  In the 1861 census she is a spinster farmer of 39 with a companion niece Marianna Vine (b.1843/4) and he is her boarder, aged 26.  He married Ellen Vine in Chelsea in the fourth quarter of 1896 and was keeping a hotel in Colchester with his wife Ellen (b. Hargham, Norfolk 1853/4) in 1901.  However, since his second wife seems to be the Ellen (Drane) Vine (b. Hargham, Norfolk 1853/4), widow and milliner, living with her father in London in 1881 and 1891, it looks as if CMY’s suspicions were unfounded.  Marriage with a deceased wife’s niece was illegal in England and Wales until the passing of the Marriage (Prohibited Degrees) Relationship Act (1931).

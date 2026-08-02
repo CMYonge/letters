@@ -1,0 +1,45 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1867-10-12"
+letter_date: "Oct 12th 1867"
+location: "Puslinch Yealmpton"
+manuscript: "MS British Library Add MSS 54920: 190-191"
+post_id: 2211
+letter_id: "to-george-lillie-craik-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-10-12"
+  url: "https://cmyonge.github.io/letters/2211-to-george-lillie-craik-3"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 12th 1867  
+**From:** Puslinch Yealmpton  
+**Manuscript:** MS British Library Add MSS 54920: 190-191
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I am very happy to agree to this arrangement and thank you for providing the early sheets. Is it not however Holland that is concerned and not Denmark?
+
+I am in a difficulty of my own making. I signed an agreement in the spring with one [Mr Hugo Borges](people/person_174.qmd) that he should have the early sheets of the [Chaplet of Pearls](cmy_books/cmybook_69.qmd) to translate for a <u>Roman Cronik</u> as he calls it, which he and another German are bringing out in Berlin. Unluckily, forgetting that the story might begin when I was from home, I left his letter and address behind me locked up, and now I do not know how he is to be reached - unless [Mr Williams](people/person_1964.qmd) might know the name among the Berlin booksellers. He was to be in partnership with one [Mr Otto ----](people/person_522.qmd) whose surname I unhappily cannot remember, but if the Roman cronik has succeeded perhaps you may know its publisher,[^1] in which case I should be glad if you would cause the sheets to be sent, and also let me have the address, as I ought to write and I do not expect to be at home till near the middle of next month
+
+Yours faithfully
+C M Yonge		
+
+Sheets should also be sent to [M. Tauchnitz](people/person_1396.qmd), and to [Mr Layton](people/person_852.qmd) [Appletons](organizations/other_142.qmd) agent.
+
+---
+
+[^1]: The letter is endorsed ‘Roman Magazine & Roman Zeitung publ by Otto Franke probably Borges is the translator’.

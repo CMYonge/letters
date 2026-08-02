@@ -1,0 +1,42 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1864-06-02"
+letter_date: "June 2nd 1864"
+manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 62"
+post_id: 1957
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-06-02"
+  url: "https://cmyonge.github.io/letters/1957-alexander-macmillan-to-charlotte-mary-yonge-11"
+---
+
+::: {.letter-metadata}
+**Date:** June 2nd 1864  
+**Manuscript:** Copy outletter book British Library Add MSS. 55383 (1): P. 62
+:::
+
+Dear Miss Yonge	
+[I](people/person_939.qmd) enclose a list of the presentation [copies](cmy_books/cmybook_53.qmd) we have sent out. Including those to the Press. I dont know whether there are any other papers that you have been in the habit of having your books sent to. I will send any you suggest gladly.
+
+I am sorry that your parcel went by a route that is inconvenient to you. We will remember again when we have any thing to send.
+
+We will advertise the [Book of Golden Deeds](cmy_books/cmybook_51.qmd) at once. When you come to London I have a larger scheme to speak to you about if you are at all free to enter into it.
+
+I am asking [Mrs Macmillan](people/person_941.qmd) to try to arrange a meeting, she will communicate with you.
+
+My printer will not give me the exact account for the Stereotypes
+
+ [*The rest of this letter is illegible*.]

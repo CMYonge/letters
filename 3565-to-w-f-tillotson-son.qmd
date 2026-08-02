@@ -1,0 +1,33 @@
+---
+title: "To W. F. Tillotson & Son"
+letter_iso_date: "1890-01-01"
+letter_date: "May 29th [probably 1880s or 1890s]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3565
+letter_id: "to-w-f-tillotson-son"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To W. F. Tillotson & Son"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-05-29"
+  url: "https://cmyonge.github.io/letters/3565-to-w-f-tillotson-son"
+---
+
+::: {.letter-metadata}
+**Date:** May 29th [probably 1880s or 1890s]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+Miss Yonge is much obliged by Messrs [Tillotson](organizations/other_260.qmd)’s proposal, but she is too much occupied to entertain it

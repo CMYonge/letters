@@ -1,0 +1,43 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1864-12-30"
+letter_date: "Decr 30th [1864?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1864/ 8"
+post_id: 2000
+letter_id: "to-ann-maria-carter-smith-71"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-12-30"
+  url: "https://cmyonge.github.io/letters/2000-to-ann-maria-carter-smith-71"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 30th [1864?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/ 8
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+I do not know any more about the cheque. I wrote my own name on the back as it was to order, and I thought that was the right thing to do. The last was drawn upon [Saunders and Otley](organizations/other_144.qmd) who I believe are Indian agents, but I suppose that a banker would either cash it or tell one how to manage it, but [Mrs Elphinstone](people/person_482.qmd)’s letter only said what you see.
+
+Thank you for so kindly undertaking it, and your sister for writing about it. I have no doubt it is the right quarter for the benefaction, and that the poor people will flourish on it on Twelfth day. I will write to Mrs Elphinstone when I hear again. I am 
+
+[the rest of the letter is missing]
+C. M. Yonge
+
+---
+
+**Note:** Although this letter dates from after the move to Elderfield in 1863, the benefaction referred to is evidently the same as that discussed in the letter of 18 March 1861.  1863 may also be a possible date.

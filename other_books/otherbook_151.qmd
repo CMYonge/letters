@@ -1,0 +1,14 @@
+---
+title: "Robert Southey - Thalaba the Destroyer: A Metrical Romance"
+book_id: 151
+---
+
+## Publication Information
+
+**Date:** 1801
+
+**Imprint:** London and Bristol: Longman and Rees
+
+**Notes:** See also [Robert Southey](../people/person_1722.qmd).
+
+

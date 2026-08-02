@@ -1,0 +1,45 @@
+---
+title: "To Charlotte Fortescue Yonge"
+letter_iso_date: "1885-07-29"
+letter_date: "July 29th [1885?]"
+location: "Elderfield"
+manuscript: "MS Harvard University, Houghton Library"
+post_id: 3587
+letter_id: "to-charlotte-fortescue-yonge-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charlotte Fortescue Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-07-29"
+  url: "https://cmyonge.github.io/letters/3587-to-charlotte-fortescue-yonge-2"
+---
+
+::: {.letter-metadata}
+**Date:** July 29th [1885?]  
+**From:** Elderfield  
+**Manuscript:** MS Harvard University, Houghton Library
+:::
+
+My dear [Lottie](people/person_1588.qmd)
+
+Many thanks for the Water Soldier who came in excellent order.[^1]  Fancy [Arthur Yonge](people/person_1583.qmd) being like [Julian](people/person_1624.qmd).  He was in a very different style in his younger days being very dark and always carrying his chin rather in the air but I think his beard must have made a difference and I know there always is a tendency in us to be more like the Duke Yonges than anyone else.  My [mother](people/person_1606.qmd) and [Aunt Duke](people/person_1591.qmd) were alike though no relations.  Did you see Arthur’s very pretty [daughter](people/person_1584.qmd) who is living with the Masons to go to the [High School](organizations/other_51.qmd)at Winchester[^2]  The [Moberlys](people/person_1019.qmd) are quite uncertain what will become of them, as they have not yet been able to find a house.  We hoped to have the [Bowleses](people/person_182.qmd) here in August, but they cannot get their duty done, and have had to put it off.  [Joan](people/person_388.qmd) is still with them.  [Mrs Beck](people/person_130.qmd) is staying here till she goes to the Christening of her poor little grandson, who happily is a fine prosperous child[^3]
+
+your affectionate cousin
+C M Yonge
+
+---
+
+[^1]: This letter clearly postdates the marriage of Louisa Alethea Yonge to the Rev. Henry Bowles in 1884 and since Arthur Duke Yonge’s only daughter was born in 1870/1 is unlikely to be later than 1888. It seems most likely that it was written  immediately after the death of the [Rt. Rev. George Moberly](people/person_1015.qmd) on 6 July 1885 and the death of Mrs Beck’s son [Edward Walter](people/person_1461.qmd) on 5 May 1885.
+[^2]: A specimen of the plant *stratiotes aloides*.
+[^3]: Alethea Yonge (b. Italy 1870/1).
+[^4]: Gertrude Walter’s stepmother Caroline Beck had two children, Edward Walter (1854-1885), an army officer who died in an accident, and [Herbert Simcoe Walter](people/person_1463.qmd) (1855-1897).  The grandson was perhaps born posthumously.

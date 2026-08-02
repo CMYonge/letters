@@ -1,0 +1,43 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-08-24"
+letter_date: "Aug 24 [1900?]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/103"
+post_id: 3468
+letter_id: "to-christabel-rose-coleridge-51"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-08-24"
+  url: "https://cmyonge.github.io/letters/3468-to-christabel-rose-coleridge-51"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 24 [1900?]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/103
+:::
+
+My dear [C C](people/person_329.qmd)
+Do you know that [Innes’](people/person_744.qmd)s stock has been taken by [Ward & Lock](organizations/other_235.qmd)?  I heard it second hand from a lady who has been enquiring after her goods.  I suppose you had the letter asking creditors to accept 5 per cent.  I asked what was become of the remains of what was [half mine](organizations/other_160.qmd) and half theirs and was told that Tanner did not know.  I think we are very ill used!
+
+I am in a rage too for the conceited reader scored my [Making of a Missionary](cmy_books/cmybook_250.qmd) all over with most foolish corrections, which I fear confused mine, and then sent no revise, though I wrote Revise on it, and when I at last enquired for the 2o proofs, I found it was printed off.  I think he must be a new hand, and have sent him word that it is quite unprecedented!
+
+Tomorrow is our School Treat at the Grange, and we quake at the clouds.  Almost all the teachers are away-  there is a very nice clergyman’s widow come to the new houses who teaches the SS boys and even sits with them.   She asked one if [Rolfe](people/person_1256.qmd) was the school master, and he answered ‘Yes and the best schoolmaster within 50 miles-‘ rather a large order!  [Miss Finlaison](people/person_512.qmd) has let her house for the holidays to some Welsh people whose father was a Bond and his sister an Ovate.
+
+[Mary Morshead](people/person_28.qmd)spent a fortnight here, and is now gone to her sisters  [Annie Moberly](people/person_1024.qmd) comes for a few days next week so I shall get shaken up a little. 
+
+your affectionate
+C M Yonge

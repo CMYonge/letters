@@ -1,0 +1,37 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1863-11-25"
+letter_date: "Nov: 25. 1863"
+manuscript: "Copy outletter book British Library Add MSS.55381 (2) p. 671"
+post_id: 1918
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-25"
+  url: "https://cmyonge.github.io/letters/1918-alexander-macmillan-to-charlotte-mary-yonge-5"
+---
+
+::: {.letter-metadata}
+**Date:** Nov: 25. 1863  
+**Manuscript:** Copy outletter book British Library Add MSS.55381 (2) p. 671
+:::
+
+Dear Madam,		
+[I](people/person_939.qmd) am almost certain to be free any day next week, and shall be glad to see your [brother](people/person_1624.qmd) any time from 11 till 5 that he may mention. The only chance is I may be called to Oxford one day next week & do not in the least know which day. So if your brother would kind[ly] name one, with another as an alternative, I will let him know the moment I learn in case the one he [*illegible*] should be the one on which I am to be away
+
+I am, dear Madam,
+Very respectfully yours
+Alex. Macmillan
+Miss Yonge Elderfield  Otterbourne Winchester

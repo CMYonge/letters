@@ -1,0 +1,37 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1855-10-18"
+letter_date: "October [1855]"
+manuscript: "MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 122-3."
+post_id: 3071
+letter_id: "to-alice-arbuthnot-moberly-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-10-01"
+  url: "https://cmyonge.github.io/letters/3071-to-alice-arbuthnot-moberly-8"
+---
+
+::: {.letter-metadata}
+**Date:** October [1855]  
+**Manuscript:** MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 122-3.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+With all our best birthday - 20-year-old - wishes, we send a peculiar assortment of presents,.  1. Eau de Cologne from the most genuine-looking place in Cologne.  2. ‘[The Lances of Lynwood](cmy_books/cmybook_23.qmd),’ hoping the Black Cats will  not frighten [Edward](people/person_1013.qmd).  3. I doubt whether it is in your special line, but [Mamma](people/person_1606.qmd)'s heart was so grieved by hearing of the bereaved canary sitting disconsolate - and as she is sure you would desire everybody's happiness on your birthday, she begs to present him with another wife, hoping that in honour of Otterbourne you will call her ‘Lady Percy’ after Hotspur's wife.[^1]  Last touches are being given to the [Daisies](cmy_books/cmybook_24.qmd), and the Spider has devoured [Sir Thomas](cmy_books/cmybook_21.qmd).[^2]
+
+---
+
+[^1]: The mediaeval 'Ballad of Otterbourne' recounts an adventure of Henry Percy (1364-1403), Shakespeare's Hotspur, at the battle of Otterburn (1388) in Northumberland.
+[^2]: CMY was working on *The Daisy Chain*, the first half of which was serialized in *MP* (July1853-December 1855), *The History of the Life and Death of the Good Knight Sir Tom Thumb* (1855) and *Landmarks of History*, which was appearing as a serial in *MP*.

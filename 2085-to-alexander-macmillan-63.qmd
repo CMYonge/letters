@@ -1,0 +1,35 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-12-17"
+letter_date: "Decr 17th [1865]"
+manuscript: "MS British Library Add MSS 54920: 123-4"
+post_id: 2085
+letter_id: "to-alexander-macmillan-63"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-17"
+  url: "https://cmyonge.github.io/letters/2085-to-alexander-macmillan-63"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 17th [1865]  
+**Manuscript:** MS British Library Add MSS 54920: 123-4
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I suppose the [Prince and the Page](cmy_books/cmybook_61.qmd) will be out next week, so I enclose a list of the presentation copies. I hope I sent back the last proof, but it was only of the index, so it matters not at all, unless it has caused a delay. It has been a confused week, for the [little girl](people/person_1592.qmd), after some days of hopeful improvement suddenly lost ground and died early on Thursday morning. The other children have had the disorder favourably and are all well. I hope your party at the Elms are well, and will have a more joyous Christmas than has come to us.
+
+Yours sincerely
+C M Yonge

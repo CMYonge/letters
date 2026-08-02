@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-11-22"
+letter_date: "[22 November 1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 222-3"
+post_id: 2292
+letter_id: "to-alexander-macmillan-105"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-11-22"
+  url: "https://cmyonge.github.io/letters/2292-to-alexander-macmillan-105"
+---
+
+::: {.letter-metadata}
+**Date:** [22 November 1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 222-3
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+Many, many thanks[.]  the birthday[^1] for which the [Heroes](other_books/otherbook_358.qmd) were wanted comes tomorrow, so nothing can be more convenient. The [Lances](cmy_books/cmybook_23.qmd) look very well
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY’s nephew, [Francis Arthur Yonge](people/person_1607.qmd) was going to be seven on 23 November 1868.

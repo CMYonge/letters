@@ -1,0 +1,37 @@
+---
+title: "To Messrs Reeves and Turner"
+letter_iso_date: "1872-11-07"
+letter_date: "Novr 7th 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Yonge Letters: Huntington Library"
+post_id: 2460
+letter_id: "to-messrs-reeves-and-turner"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Reeves and Turner"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-11-07"
+  url: "https://cmyonge.github.io/letters/2460-to-messrs-reeves-and-turner"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 7th 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Yonge Letters: Huntington Library
+:::
+
+Miss Yonge sends up a parcel of books for which she will be obliged if [Messrs Reeves & Turner](organizations/other_239.qmd) will send her an order as before
+
+---
+
+**Note:** Perhaps this relates to the sale of review copies?

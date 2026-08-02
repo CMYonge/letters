@@ -1,0 +1,41 @@
+---
+title: "To the Countess of Meath"
+letter_iso_date: "1890-08-12"
+letter_date: "Aug 12th 1890"
+location: "Elderfield Otterboune"
+manuscript: "MS Charlotte Mitchell."
+post_id: 19829
+letter_id: "to-the-countess-of-meath"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Countess of Meath"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-08-12"
+  url: "https://cmyonge.github.io/letters/19829-to-the-countess-of-meath"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 12th 1890  
+**From:** Elderfield Otterboune  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+My dear [Lady Meath](people/person_985.qmd)
+
+[Annie Cazenove](people/person_274.qmd) and I agree that you would be greatly interested in Miss [Margaretta Scott](people/person_2435.qmd)'s work.  She is an American Churchwoman hard at work among the girls of superior class in Liberia
+
+yours sincerely
+
+C M Yonge
+
+Annie Cazenove is as bright and energetic as ever

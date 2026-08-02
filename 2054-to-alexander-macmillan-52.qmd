@@ -1,0 +1,47 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-07-14"
+letter_date: "July 14th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 101"
+post_id: 2054
+letter_id: "to-alexander-macmillan-52"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-07-14"
+  url: "https://cmyonge.github.io/letters/2054-to-alexander-macmillan-52"
+---
+
+::: {.letter-metadata}
+**Date:** July 14th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 101
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Would you be so kind as to add your signature to this [cheque](organizations/other_160.qmd). I never perceived the omission till I sent it to be changed.	
+
+My [brother](people/person_1624.qmd) has been seeing Huntley and Palmers biscuit manufactory, and has written an account of it, which he tells me to offer to you, in case it should be supposed suitable to the [Magazine](organizations/other_78.qmd), it is really very curious and entertaining.[^1]
+
+I am afraid the earlier [cameos](cmy_books/cmybook_73.qmd)want a great deal of doctoring up before they can be made into a book, but I always hope to do so
+
+Yours sincerely
+C M Yonge
+
+Thanks for [Mr Maclear](people/person_937.qmd)’s direction.
+
+---
+
+[^1]: We have not been able to trace any publication of this essay in *Macmillan’s Magazine* or elsewhere.

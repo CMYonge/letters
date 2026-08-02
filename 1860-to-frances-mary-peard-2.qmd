@@ -1,0 +1,43 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1862-00-00"
+letter_date: "1862"
+manuscript: "MS location unknown. This fragment printed in Mary J. Y. Harris, <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i> (1903), 47."
+post_id: 1860
+letter_id: "to-frances-mary-peard-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-01-01"
+  url: "https://cmyonge.github.io/letters/1860-to-frances-mary-peard-2"
+---
+
+::: {.letter-metadata}
+**Date:** 1862  
+**Manuscript:** MS location unknown. This fragment printed in Mary J. Y. Harris, <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i> (1903), 47.
+:::
+
+Dear [Madam](people/person_1160.qmd),[^1]
+
+. . . . .
+
+Yours much obliged, 
+
+C. M. Yonge 
+
+P.S., I daresay you may know my name as a Devonshire one, I am a niece of [Mr. Yonge](people/person_1623.qmd) of Puslinch.
+
+---
+
+[^1]: Harris writes that the letter contained a request that Miss Peard should send her a paper on the Jewish Sects for the *[Monthly Paper of Sunday Teaching](organizations/other_81.qmd)*.

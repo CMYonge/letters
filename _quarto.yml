@@ -1,0 +1,43 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Charlotte Mary Yonge Letters"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Letters"
+        href: letters-index.qmd
+      - text: "Decades"
+        menu:
+          - text: "1834–1849"
+            href: decades/3733-letters-1834-1849.qmd
+          - text: "1850–1859"
+            href: decades/3735-letters-1850-1859.qmd
+          - text: "1860–1869"
+            href: decades/3737-letters-1860-1869.qmd
+          - text: "1870–1879"
+            href: decades/3740-letters-1870-1879.qmd
+          - text: "1880–1889"
+            href: decades/3750-letters-1880-1889.qmd
+          - text: "1890–1901"
+            href: decades/3752-letters-1890-1901.qmd
+      - text: "People"
+        href: people/index.qmd
+      - text: "Organizations"
+        href: organizations/index.qmd
+      - text: "CMY Bibliography"
+        href: cmy_books/index.qmd
+      - text: "General Bibliography"
+        href: other_books/index.qmd
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+

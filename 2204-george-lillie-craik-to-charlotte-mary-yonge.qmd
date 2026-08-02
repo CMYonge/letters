@@ -1,0 +1,41 @@
+---
+title: "George Lillie Craik to Charlotte Mary Yonge"
+letter_iso_date: "1867-08-15"
+letter_date: "15th Aug. 1867."
+manuscript: "Copy outletter book British Library Add MSS.55387 (1): P. 469"
+post_id: 2204
+letter_id: "george-lillie-craik-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "George Lillie Craik to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-08-15"
+  url: "https://cmyonge.github.io/letters/2204-george-lillie-craik-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 15th Aug. 1867.  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1): P. 469
+:::
+
+Dear Miss Yonge	
+The end of the [M.S](cmy_books/cmybook_72.qmd). reached [me](people/person_379.qmd) with your letter. I at once sent it to the Printer. Whatever alteration you may wish to make either in [*illegible*] or modifying can be done in the proof.
+
+[Miss Martin](people/person_971.qmd) - whom I saw yesterday - agreed with me in this.
+
+Yours very [*illegible*]
+Geo Lillie Craik
+
+---
+
+**Note:** Frances Martin was the editor of [Macmillan's Sunday Library](organizations/other_145.qmd), in which CMY's *The Pupils of St. John the Divine* was going to appear.

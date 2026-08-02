@@ -1,0 +1,46 @@
+---
+title: "To Florence Wilford"
+letter_iso_date: "1880-02-26"
+letter_date: "Feb 26th 1880"
+location: "Elderfield, Otterbourne,Winchester."
+manuscript: "MS University of Iowa; MsL/Y56/1880"
+post_id: 2702
+letter_id: "to-florence-wilford-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Wilford"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-02-26"
+  url: "https://cmyonge.github.io/letters/2702-to-florence-wilford-9"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 26th 1880  
+**From:** Elderfield, Otterbourne,Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56/1880
+:::
+
+My dear [Florence](people/person_1520.qmd)
+
+You have a birthday so seldom that one recollects it, so pray accept my best wishes and this tiny book.[^1] I am afraid there is a little black speck on its cover, but do not look to reject it on that account I hope you received the second volume of [Thrupp on the Psalms](other_books/otherbook_928.qmd). I do not like all of him, though I have learnt a great deal from him, he does not tread in the beaten lines. 
+
+I hope this warmer weather is refreshing you, it has brought up a great crowd of snow drops, and some primroses, but the Lent Lilies lag behind Lent.
+
+With love to [your sister](people/person_1519.qmd), and kind regards to [the General](people/person_1521.qmd)
+
+Yours affectionately
+C M Yonge
+
+---
+
+[^1]: 1880 was a leap year, and Wilford's birthday was evidently on the 29 February.

@@ -1,0 +1,46 @@
+---
+title: "To Sarah Anne Mercier"
+letter_iso_date: "1870-01-08"
+letter_date: "Jan 8th [1870]"
+location: "Elderfield,  Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 2366
+letter_id: "to-anne-mercier-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Anne Mercier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-08"
+  url: "https://cmyonge.github.io/letters/2366-to-anne-mercier-8"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 8th [1870]  
+**From:** Elderfield,  Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+Dear [Mrs Mercier](people/person_990.qmd),
+I enclose a cheque for the remainder of [Campanella](other_books/otherbook_502.qmd) and send at the same time a proof of [Mr Peabody](other_books/otherbook_6562.qmd), hoping you will not sacrifice the modest request which seems to me too good to be lost.
+
+Thank you for [Miss Tucker’](people/person_1424.qmd)s address  I hope she has heard from [Mr Warne](people/person_1433.qmd) by this time[^1]
+
+Yours sincerely
+C M Yonge
+
+[Lady Betty](other_books/otherbook_788.qmd)is an admirable story
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Miss Tucker may perhaps have been author of one of the Victoria Tales and Stories series edited by CMY and published by Warne.

@@ -1,0 +1,45 @@
+---
+title: "To the Reverend Edward Atkinson"
+letter_iso_date: "1877-04-28"
+letter_date: "April 28th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1877/ 1"
+post_id: 2580
+letter_id: "to-the-reverend-edward-atkinson"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Edward Atkinson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-04-28"
+  url: "https://cmyonge.github.io/letters/2580-to-the-reverend-edward-atkinson"
+---
+
+::: {.letter-metadata}
+**Date:** April 28th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1877/ 1
+:::
+
+My dear [Sir](people/person_2309.qmd)[^1]
+
+Your were so kind to me when I was at Cambridge that I am venturing to ask you to give your attention to the letters and testimonials you are about to receive on behalf of [my brother](people/person_1624.qmd), who is very anxious to obtain the Secretaryship of the Governing Body of [Winchester](organizations/other_50.qmd).  I think that from his experience in many ways, he is very well fitted for it, and that as an Eton and Balliol man, who has always had a neighbour's knowledge of Winchester matters without being a Wykehamist, or committed to any line there observed, he would have many special advantages of usefulness.[^2]
+
+I hope therefore that you will give a favorable consideration to his papers when he sends them in
+
+yours truly
+Charlotte M. Yonge
+
+---
+
+[^1]: Envelope,  with matching engraved address on flap, to 'The Revd/ The Master of Clare College/ Cambridge' and postmarked Winchester (date cut out) and Cambridge 30 April 1877.  Endorsed  ‘Apr 29, 77./  Miss Yonge/ Winchester secretary’.  This letter is among CMY's letters to Ann Carter Smith, whose sister Frances was Atkinson's wife.
+[^2]: Julian Yonge was not appointed Secretary of Winchester College.  His application was no doubt connected to the financial crisis.

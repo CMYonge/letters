@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1874-03-03"
+letter_date: "March 3d 1874"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 3-4"
+post_id: 2493
+letter_id: "to-alexander-macmillan-119"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-03-01"
+  url: "https://cmyonge.github.io/letters/2493-to-alexander-macmillan-119"
+---
+
+::: {.letter-metadata}
+**Date:** March 3d 1874  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 3-4
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I send the two vols of [Bishop Patteson](cmy_books/cmybook_102.qmd) by train today, having done all the abridging that I think they will bear, I believe it is about 100pp in each volume, and a good many lines besides so that with smaller type and thinner paper I think it will be reduced enough.
+
+Since I began this has come the enquiry after the author of the [Children of the Forest or the Three Knights](other_books/otherbook_844.qmd).[^1] I cannot recollect anything about her, nor that the story of that title has been in the Monthly Packet
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: ‘The Children in the Forest’, a translation from the German by C.P., had appeared in *MP* (November 1856), 376-384.

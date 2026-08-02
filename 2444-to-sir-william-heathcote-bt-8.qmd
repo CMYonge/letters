@@ -1,0 +1,44 @@
+---
+title: "To Sir William Heathcote, Bt."
+letter_iso_date: "1872-04-23"
+letter_date: "April 23, 1872."
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 302-303."
+post_id: 2444
+letter_id: "to-sir-william-heathcote-bt-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir William Heathcote, Bt."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-23"
+  url: "https://cmyonge.github.io/letters/2444-to-sir-william-heathcote-bt-8"
+---
+
+::: {.letter-metadata}
+**Date:** April 23, 1872.  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 302-303.
+:::
+
+My dear [Sir William](people/person_669.qmd)-
+I am always bothering you about something, and now I want to ask if you would give me a sentence. I want one describing the remarkable and peculiar merits collectively of the Bench of Judges in the [Patteson](people/person_1156.qmd) and [Coleridge](people/person_344.qmd) days.[^1] I cannot well take it out of the mouth of a Coleridge and a judge, and I do not think I can do it rightly myself.[^2] I want to make as full a picture as possible of old Judge Patteson, for he ought to be remembered, and he went for very much in the formation of [his son](people/person_1155.qmd).
+
+If you would put, as you would in a letter, your view of the high stamp of men who were judges from about 1830 to 1855, it would be what I want expressed. I do not know any one else whom I should like to see doing it but Sir [Roundell Palmer](people/person_1129.qmd), and I do not know him enough to ask.-
+
+Your affectionate
+C. M. YONGE.
+
+---
+
+[^1]: CRC’s note: This opinion is incorporated in the *Life of Bishop Patteson*.
+[^2]: She means she can hardly ask [John Duke Coleridge](people/person_343.qmd) to praise his father and uncle at the expense of himself and his judicial colleagues.

@@ -1,0 +1,45 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1868-10-20"
+letter_date: "Oct 20th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Miss Sarah Jardine-Willoughby"
+post_id: 2284
+letter_id: "to-elizabeth-missing-sewell-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-20"
+  url: "https://cmyonge.github.io/letters/2284-to-elizabeth-missing-sewell-9"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 20th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Miss Sarah Jardine-Willoughby
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd)[^1]
+I think you will like to see what the [Literary Churchman](organizations/other_76.qmd) says of our [performance](cmy_books/cmybook_71.qmd) but please return it
+
+yours sincerely
+C M Yonge
+
+Do you know anyone who would like one of these photos  I am selling them towards the school at Eastleigh[^2]
+
+---
+
+[^1]: Black-edged paper. The words ‘of our heliotropes’ written on the reverse in CMY’s hand.
+[^2]: The name has been erased in ink.
+[^3]: The [Church of the Resurrection](organizations/other_188.qmd), Eastleigh, being consecrated, funds were now being raised for a Church of England school in connection with it.  The photographs were of CMY herself.

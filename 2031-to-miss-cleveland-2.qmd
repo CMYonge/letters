@@ -1,0 +1,42 @@
+---
+title: "To Eliza Callahan Cleveland"
+letter_iso_date: "1865-05-10"
+letter_date: "May 10th 1865"
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 2031
+letter_id: "to-miss-cleveland-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Eliza Callahan Cleveland"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-10"
+  url: "https://cmyonge.github.io/letters/2031-to-miss-cleveland-2"
+---
+
+::: {.letter-metadata}
+**Date:** May 10th 1865  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+My dear [Miss Cleveland](people/person_307.qmd),
+Thank you for your very interesting despatch, which we read with much enjoyment.[^1] The account of the Freedmen is especially interesting, and I feel quite sorry to have to put it off so long, as I shall be obliged to do, in order to get to the end of the [Southern journal](other_books/otherbook_381.qmd). I shall however have a [letter](other_books/otherbook_405.qmd)written from Philadelphia in the next number, giving the account of the general mourning there, coming full in the heat of the moment, it seems to be a time for putting in such a letter.[^2]  I am much obliged for the photographs, which are very interesting. What a fine face [Mr Putnam](people/person_1217.qmd)’s is, and your touching sketches of their lives make the faces much more remarkable, I have quite an American gallery of photographs, including the three little children whose [father](people/person_1941.qmd) was found grasping their likeness on the battle field.
+
+With many thanks and kind regards to [Mrs Cleveland](people/person_1939.qmd)
+
+Yours very truly
+C M Yonge
+
+---
+
+[^1]: We have not succeeded in identifying this, which may not have been published.
+[^2]: The mourning was for the death of Abraham Lincoln on 14 April  1865.

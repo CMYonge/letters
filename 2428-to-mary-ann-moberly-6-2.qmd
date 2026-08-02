@@ -1,0 +1,37 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1871-12-28"
+letter_date: "Innocents' Day [28 December 1871]"
+manuscript: "MS location unknown.  Printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd) 245"
+post_id: 2428
+letter_id: "to-mary-ann-moberly-6-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-12-28"
+  url: "https://cmyonge.github.io/letters/2428-to-mary-ann-moberly-6-2"
+---
+
+::: {.letter-metadata}
+**Date:** Innocents' Day [28 December 1871]  
+**Manuscript:** MS location unknown.  Printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd) 245
+:::
+
+[[To Mary Ann Moberly](people/person_1019.qmd)]
+
+I tremble to say that I am going to write [his](people/person_1155.qmd) life, and I am probably going to Lichfield to talk it over with the Selwyns and Abrahams.[^1]  It is very awful, for it is embalming the Saint for the Church.  I hope the [Bishop](people/person_1295.qmd) will let me have copies of the letters to him.
+
+---
+
+[^1]: CMY had been commissioned by the sisters of the martyred Bishop Patteson to write his biography, and went to talk to his former colleagues in New Zealand, the Rt. Rev. George Augustus Selwyn, Bishop of Lichfield, the Rt. Rev. [Charles Abraham](people/person_4.qmd), Bishop of Wellington, and their wives.

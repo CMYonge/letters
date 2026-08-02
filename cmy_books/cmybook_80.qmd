@@ -1,0 +1,15 @@
+---
+title: "A Book of Worthies, gathered from the Old Histories and now written out anew By the author of “The Heir of Redclyffe.”"
+book_id: 80
+sort_title: "Book of Worthies, gathered from the Old Histories and now written out anew"
+---
+
+## Publication Information
+
+**Date:** 1869
+
+**Genre:** Non-fiction: history
+
+**Publisher:** London and New York: Macmillan and Company.
+
+

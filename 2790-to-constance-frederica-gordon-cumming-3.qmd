@@ -1,0 +1,46 @@
+---
+title: "To Constance Frederica Gordon Cumming"
+letter_iso_date: "1884-05-05"
+letter_date: "May 5th [1884]"
+location: "Elderfield"
+manuscript: "MS Cambridge University Library Add 4251 (B)/1539"
+post_id: 2790
+letter_id: "to-constance-frederica-gordon-cumming-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Constance Frederica Gordon Cumming"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-05-05"
+  url: "https://cmyonge.github.io/letters/2790-to-constance-frederica-gordon-cumming-3"
+---
+
+::: {.letter-metadata}
+**Date:** May 5th [1884]  
+**From:** Elderfield  
+**Manuscript:** MS Cambridge University Library Add 4251 (B)/1539
+:::
+
+Dear [Miss Gordon Cumming](people/person_571.qmd)
+
+I had an intimation from the [publisher](people/person_1344.qmd) that he is going to change printers, and so that I must finish up all there is in type before August.  This is keeping you, as well as many other papers back, but I hope to be able to get them in then.[^1]
+
+Something unexpected always happens when one hopes one has comfortable space  [Miss Sewell’s letters](other_books/otherbook_969.qmd) went on two numbers more than I reckoned on.
+
+I have just got [Granite Crags](other_books/otherbook_970.qmd)
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: The existing printer was [Clay](organizations/other_173.qmd), the new one [Clowes](organizations/other_245.qmd). The article referred to here as awaiting publication was perhaps 'Cawnpore and Lucknow' *MP* (October 1884), 358-376.

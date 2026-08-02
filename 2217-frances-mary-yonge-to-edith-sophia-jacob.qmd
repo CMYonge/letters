@@ -1,0 +1,49 @@
+---
+title: "Frances Mary Yonge to Edith Sophia Jacob"
+letter_iso_date: "1867-11-16"
+letter_date: "16th [November 1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 2217
+letter_id: "frances-mary-yonge-to-edith-sophia-jacob"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Frances Mary Yonge to Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-11-16"
+  url: "https://cmyonge.github.io/letters/2217-frances-mary-yonge-to-edith-sophia-jacob"
+---
+
+::: {.letter-metadata}
+**Date:** 16th [November 1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Edith](people/person_749.qmd)
+You will not be surprised to hear that Charlotte is over head and ears in work and glad to find any thing that[I](people/person_1606.qmd)can help her in. So you must believe it will give us both great pleasure to see you if you will let us know when you can come. The beginning of next week we are sure of and after the third Sunday in Advent, we shall be free till after Christmas so let it be before that.
+
+We were to have brought a cousin home with us, but she was not well, and now she may come here any day but she shall be put away in a hole rather than not have you. So let us know when you can come, and if you can come early next week we should like it best there is so much to talk over[.] Three Sermons a day[^1] was much and all remarkable ones, but I dreamt one of them so well that I hope some of the others will return to me by degrees Most likely we could meet you at Winchester and bring you out
+
+your affectionate
+F M Yonge
+
+It <u>was</u> a great mistake to kill Mrs Proudie, but altogether the [book](other_books/otherbook_510.qmd) is a [*illegible*] because of Mr. Crawley
+
+To make the scratch above[^2] clearer. I think we could probably fetch and carry you to meet your own carriage at Winchester Only let us know when you see your way, any time between this and the 3d Sunday in Advent
+
+---
+
+[^1]: Black-edged paper.
+[^2]: At the consecration of [All Saints, Babbacombe](organizations/other_195.qmd).
+[^3]: The sentence beginning ‘Most likely’ has been substituted for several erased lines.

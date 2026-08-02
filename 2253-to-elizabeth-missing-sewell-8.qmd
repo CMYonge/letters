@@ -1,0 +1,47 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1868-06-13"
+letter_date: "June 13th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2253
+letter_id: "to-elizabeth-missing-sewell-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-06-13"
+  url: "https://cmyonge.github.io/letters/2253-to-elizabeth-missing-sewell-8"
+---
+
+::: {.letter-metadata}
+**Date:** June 13th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+I was so hurried that I could not go to [Macmillan](people/person_939.qmd) yesterday so I am writing.
+
+I have done the notes[^1] - the Joyeuse Garde beats both [Mary Coleridge](people/person_351.qmd) and me, we both thought it a real castle on the Seine - and never heard of its being an Order.
+
+Michaud’s [Histoire de Croisades](other_books/otherbook_116.qmd) has almost exactly the same about Simeon & his persecutions as [Milman](other_books/otherbook_411.qmd), and I dont know where to find more - in fact I think Milman copied him
+
+Roman must be Norman
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: These were the notes to the anthology of historical writing *Historical Selections* which they had jointly compiled.

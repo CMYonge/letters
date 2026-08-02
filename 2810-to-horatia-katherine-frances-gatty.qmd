@@ -1,0 +1,46 @@
+---
+title: "To Horatia Katherine Frances Gatty"
+letter_iso_date: "1885-06-10"
+letter_date: "June 10th 1885"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2810
+letter_id: "to-horatia-katherine-frances-gatty"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Horatia Katherine Frances Gatty"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-06-10"
+  url: "https://cmyonge.github.io/letters/2810-to-horatia-katherine-frances-gatty"
+---
+
+::: {.letter-metadata}
+**Date:** June 10th 1885  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Gatty](people/person_469.qmd)
+
+‘[A bit of Green](other_books/otherbook_987.qmd)’ was only in the number preceding ‘[the Blackbird’s Nest](other_books/otherbook_988.qmd)’- July 1861.[^1] I had been on the like quest for the sake of the few words I have said in a conversation on books in the August number, I should have done so in the July one only that it was another persons conversation into which [it] would not fit
+
+I did not write to you for what can I say but how grieved I am, as if a bright light had been taken away, or more truly a lamp become a star, as in that poem of BM’s.
+
+Almost every letter I get has some note of mourning for [one](people/person_494.qmd)who had become dear to so many
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Juliana Ewing had died on 13 May 1885.  Her sister Horatia was probably gathering material for her *Juliana Horatia Ewing and Her Books* (1885).  'A Bit of Green' and 'The Blackbird's Nest' had been Ewing's two earliest contributions to *MP*.  In 'A Conversation on Books' *MP* 3s 10 (August 1885) 62, Arachne discusses Ewing's career, expressing 'our grief that one to whom we all owe so much, should have been taken from us so early.'

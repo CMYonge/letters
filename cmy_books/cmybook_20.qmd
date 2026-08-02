@@ -1,0 +1,15 @@
+---
+title: "The Little Duke, or, Richard the Fearless. By the author of “The Heir of Redclyffe”, “The Kings of England.”"
+book_id: 20
+sort_title: "Little Duke, or, Richard the Fearless"
+---
+
+## Publication Information
+
+**Date:** 1854
+
+**Genre:** Fiction (historical)
+
+**Publisher:** John W Parker and Son, West Strand, London
+
+

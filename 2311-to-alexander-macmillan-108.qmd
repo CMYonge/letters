@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1869-03-20"
+letter_date: "March 20th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 227-8"
+post_id: 2311
+letter_id: "to-alexander-macmillan-108"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-03-20"
+  url: "https://cmyonge.github.io/letters/2311-to-alexander-macmillan-108"
+---
+
+::: {.letter-metadata}
+**Date:** March 20th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 227-8
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Many thanks, it is very agreeable to get anything out of [America](organizations/other_172.qmd). I have a [story](cmy_books/cmybook_81.qmd) of the time of Henry V and James I of Scotland - about half out in the [Monthly Packet](organizations/other_52.qmd), and all written. I was thinking of proposing it to you for Christmas when it will be finished in the Monthly Packet. Might not some arrangement be made about it with [Scribner](organizations/other_204.qmd). I could either send them the numbers already in type the MP - or they might be printed at once, and the duplicate sheets sent up to the end. I do not think we ever came to any agreement about the [Chaplet](cmy_books/cmybook_69.qmd) itself - whether you give me £200 as before for the first edition.
+
+I do not know what has become of the proof of the [Parallel History](cmy_books/cmybook_89.qmd). The printers sent me the copy, evidently printed from but no proofs with it.
+
+What do you think about a volume of essay kind of papers? I have done a few at times for the [Christian Remembrancer](organizations/other_59.qmd), [one](cmy_books/cmybook_302.qmd) on Miss Sewell’s [principles of education](other_books/otherbook_548.qmd) - one on [Folklore](cmy_books/cmybook_65.qmd), an [account of the Sanitary Commission](cmy_books/cmybook_303.qmd) in the American war, a [life of Lord Seaton](cmy_books/cmybook_66.qmd), and a few more which are in the [Literary Churchman](organizations/other_76.qmd) - they seem to me some of them rather worth saving, but they would <u>keep</u>. I have likewise in MS a nearly completed essay on or rather history of literature for children, which I should add to those. It is too long for the [Magazine](organizations/other_78.qmd), and not at all in the same tone.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Nevertheless Macmillan was to publish it in his magazine, in three parts: 'Children’s literature of the last century: I. - Nursery books of the eighteenth century.'; Children’s literature of the last century: II. - Didactic fiction.'; and 'Children’s literature of the last century: III. - Class literature of the last thirty years.'

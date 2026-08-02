@@ -1,0 +1,38 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1864-10-04"
+letter_date: "Oct 4 1864"
+manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 394"
+post_id: 1982
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-15"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-04"
+  url: "https://cmyonge.github.io/letters/1982-alexander-macmillan-to-charlotte-mary-yonge-15"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 4 1864  
+**Manuscript:** Copy outletter book British Library Add MSS. 55383 (1): P. 394
+:::
+
+My dear Miss Yonge	
+[I](people/person_939.qmd) will confess to being about as much in doubt of what can be, or ought to be done with the [Americans](organizations/other_172.qmd) as it is possible for a man to be. I have got for [Mr Kingsley](people/person_816.qmd) £50 to £75, but since the war we have not got a penny for anything.
+
+ If the [Living Age](organizations/other_171.qmd) will <u>give</u> you anything for advanced sheets I certainly would be inclined to take it. [Appletons](organizations/other_142.qmd) are not from all I have heard a liberal, or a scrupulous house. I don’t see however that that is their meaning. They seem to want the prestige of early sheets, and give you a promise to “endeavour” [*next sentence illegible*] what basis for negotiation is possible here? 
+
+The only answer I can see to their note is that if they will send £25, you will send them early sheets. If you don’t do this I would simply do nothing, which perhaps is the simplest & best course. Appleton have according to usage in America, a prescriptive right in your books. The Living Age speaks truth when they say that there is no sort of property in America for English authors any more than there is for American authors in England. 
+
+[*The rest of this letter is illegible*]

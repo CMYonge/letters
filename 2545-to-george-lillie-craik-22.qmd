@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1876-03-17"
+letter_date: "March 17th 1876"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 12-13"
+post_id: 2545
+letter_id: "to-george-lillie-craik-22"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-03-17"
+  url: "https://cmyonge.github.io/letters/2545-to-george-lillie-craik-22"
+---
+
+::: {.letter-metadata}
+**Date:** March 17th 1876  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 12-13
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Thanks for the [estimate](organizations/other_160.qmd) of the copyrights, which is a good deal what I expected, as I thought they must be more valuable to me than to anyone else.
+
+I cannot think what [Clay](organizations/other_173.qmd) is about. A month ago he wrote to me in a great hurry for more copy of the [Cameos](cmy_books/cmybook_124.qmd) saying you wanted the third volume finished, I sent him up at once all but the last two or three chapters which are now ready, and nothing more have I heard of them - no proofs nor any sign of  his going on.
+
+I do not think it was quite settled what I was to have for [My Young Alcides](cmy_books/cmybook_112.qmd).  I should be glad to know.
+
+Yours truly
+C M Yonge

@@ -1,0 +1,45 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1899-11-24"
+letter_date: "Novr 24th [1899]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office Acc No 308"
+post_id: 3434
+letter_id: "to-mary-yonge-26"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-11-24"
+  url: "https://cmyonge.github.io/letters/3434-to-mary-yonge-26"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 24th [1899]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office Acc No 308
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I do not suppose we can hear anything about dear [George](people/person_1610.qmd) till [Capt Plumer](people/person_2203.qmd)’s campaign is over - He had very little with him, he left his medal and his watch the great gold one [Mamma](people/person_1606.qmd) used to carry – at home, but of course he had a smaller one for use - [Frances](people/person_1604.qmd) has just sent out a parcel of socks &amp;c marked for Col Plumer’s troop - Our people have taken up eagerly the sending things - Huge transports go by with steam and shake the house, they shook down a little ornament in one of the bedrooms, a day or two ago and the carts with bricks shake us still worse, and threaten the crazy old cottages, but happily the houses do not mind them There are three trees left – with brown leaves still but most are bare. The prettiest thing is the arbutus which is covered with white bells, the red and yellow balls hanging below.
+
+The nursing lectures go on, we learnt how to make a bed last, a little boy lies on a bed made up on the bagatelle board and thinks it great fun. [Mary Morshead](people/person_28.qmd)’s lectures on St Dunstan go on here, and give great satisfaction. And on the 7th Mrs S[illegible] is coming to address the Mothers Union mothers.[^1] [Lottie Yonge](people/person_1588.qmd) leaves me on Monday, poor thing, she has been laid up all day with a bad sick headache. She goes to [Hannah Carey](people/person_253.qmd) first and then to Stoke Lodge, where poor [Lucy](people/person_2116.qmd) remains very frail and rheumatic[^2] She (Lottie) is anxiously looking out for some work to do-
+
+your most affectionate
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.  CMY's nephew George Yonge had been killed in Rhodesia.
+[^2]: The word does not look like Sumner.
+[^3]: Hannah Carey and Lucy Yonge were both aunts by marriage of Lottie Yonge's.

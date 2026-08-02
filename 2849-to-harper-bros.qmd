@@ -1,0 +1,44 @@
+---
+title: "To Harper & Bros."
+letter_iso_date: "1887-01-13"
+letter_date: "Jan 13th 1887"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Columbia University Library, New York:  Harper Bros Collection"
+post_id: 2849
+letter_id: "to-harper-bros"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harper & Bros."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-01-13"
+  url: "https://cmyonge.github.io/letters/2849-to-harper-bros"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 13th 1887  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Columbia University Library, New York:  Harper Bros Collection
+:::
+
+[Gentlemen](organizations/other_248.qmd)
+
+I am much obliged for [£10](organizations/other_160.qmd) for the [publication](organizations/other_172.qmd) of the [Modern Telemachus](cmy_books/cmybook_185.qmd)  I am sending the receipt to [Mr Asgood](people/person_2367.qmd)
+
+I remain &c
+C M Yonge		
+
+Messrs Harper
+
+---
+
+**Note:** The collection also includes a stamped receipt.

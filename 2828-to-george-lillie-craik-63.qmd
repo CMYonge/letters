@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1886-05-16"
+letter_date: "May 16th [1886]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 140-1"
+post_id: 2828
+letter_id: "to-george-lillie-craik-63"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-05-16"
+  url: "https://cmyonge.github.io/letters/2828-to-george-lillie-craik-63"
+---
+
+::: {.letter-metadata}
+**Date:** May 16th [1886]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 140-1
+:::
+
+Dear[Mr Craik](people/person_379.qmd)
+
+I have been asked so urgently that I hardly know how to refuse, by a person who knows a good deal of the popular mind at Liverpool (being on the Committee of those Recreation classes, and doing much besides) to write [a popular account of the fifty years of the reign](cmy_books/cmybook_189.qmd), to be dispersed in preparation for the  Jubilee Year. She says it ought to cost only sixpence, to be like a succession of stories and profusely illustrated.
+
+What do you think about it? I rather doubt its being enough in your line for you to like to make it as cheap as it must necessarily be to fulfil its purpose?  I should try to make it entertaining rather than connected, and keep out of party politics and personalities.
+
+If you did not wish to take it up, I would try what [Cassell](organizations/other_216.qmd)would say to it, but I would much rather work for you.
+
+Yours truly
+C M Yonge

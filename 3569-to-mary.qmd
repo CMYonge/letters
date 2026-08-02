@@ -1,0 +1,43 @@
+---
+title: "To Mary ?"
+letter_iso_date: "1893-06-18"
+letter_date: "June 18th [?1893]"
+location: "Elderfield"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3569
+letter_id: "to-mary"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary ?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-06-18"
+  url: "https://cmyonge.github.io/letters/3569-to-mary"
+---
+
+::: {.letter-metadata}
+**Date:** June 18th [?1893]  
+**From:** Elderfield  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear Mary
+I came home from Salisbury yesterday afternoon, and tried to answer your note, but could not finish. I will keep your card and see if I can give the case a vote.
+
+I am going to stay with [Frances](people/person_1604.qmd) next week from Monday to Saturday
+
+Your affectionate
+C M Yonge
+
+---
+
+**Note:** Dated on the assumption that it post-dates Frances Yonge’s move to 70 Kensington Gardens Square in 1892.

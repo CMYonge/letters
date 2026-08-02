@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1866-04-19"
+letter_date: "April 19th 1866"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 154-155:"
+post_id: 2119
+letter_id: "to-alexander-macmillan-76"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-04-19"
+  url: "https://cmyonge.github.io/letters/2119-to-alexander-macmillan-76"
+---
+
+::: {.letter-metadata}
+**Date:** April 19th 1866  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 154-155:
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Our start from home is fixed for the 30th of this month. I suppose there is no chance of my getting any copies of the [Dove](cmy_books/cmybook_62.qmd) before I start. I was obliged to delay further by having a revise of the preface where the printers had contrived to make a good many gratuitous mistakes. I never knew Messrs [Clay](organizations/other_173.qmd) so long printing anything. If there is no chance of your sending me a dozen copies before Saturday week will you send me by post four of the [Prince and the Page](cmy_books/cmybook_61.qmd), which at any rate I want before leaving home. If the dove is not ready in time, I will write and say where it can meet me.
+
+[Miss Peard](people/person_1160.qmd) has just sent me the beginning of her [history of the Prayerbook](other_books/otherbook_464.qmd) to look at. I think it will make an exceedingly pretty and interesting book, and she is very careful and correct in her statements.
+
+I ought to have thanked [Mr Craik](people/person_379.qmd) for sending me the Swiss professor’s letter, but it came at a time when I was in much anxiety and grief. Perhaps [Mrs Craik](people/person_378.qmd) could have answered more satisfactorily than I have been able to do. What a beautiful story her last is.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The letter is endorsed ‘You should answer this - or your wife’. Macmillan’s partner, George Lillie Craik (1837-1905) had married (29 April 1865) the well-known novelist Dinah Maria Mulock (1826-1887), whose latest work was *A Noble Life* 2 vols (London, Hurst & Blackett 1866).

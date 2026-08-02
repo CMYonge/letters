@@ -1,0 +1,50 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1869-12-17"
+letter_date: "Decr 17th [1869]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54920: 236-7"
+post_id: 2361
+letter_id: "to-alexander-macmillan-112"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-17"
+  url: "https://cmyonge.github.io/letters/2361-to-alexander-macmillan-112"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 17th [1869]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54920: 236-7
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+[Miss Sewell](people/person_1301.qmd) and I think that it would be worth while to go on at our own expense rather than suffer the scheme to drop - since completeness is the thing it really wants to make it useful and popular. But we are inclined to try whether the Clarendon press would take it, and shall make that attempt before trying our own resources.[^1]
+
+Herewith I send the [Cameos](cmy_books/cmybook_93.qmd) - there are four or five more in MS which have not yet been in the [Packet](organizations/other_52.qmd), and which bring it down to Bosworth. I hope it is enough to make up a volume, for there is no such good halting place through the whole Tudor time
+
+The [translator](people/person_1624.qmd) is much obliged for the answer about the [Old Pear Tree](other_books/otherbook_84.qmd).[^2]
+
+I have proposed the name of 'From East to West' for the Modern Missionaries to [Miss Martin](people/person_971.qmd).[^3] I really shall begin with India, and then go Westwards going country by country instead of chronology
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: This relates to the publication of the anthology of historical writings CMY and Elizabeth Sewell had co-edited, of which the first part appeared as *Historical Selections* (1868) and both parts together in two volumes as *European History: Narrated in a series of Historical Selections* (1870).
+[^3]: CMY's brother JBY was translating this book, to which she lent her name as editor of the translation, as is implied in the letter to Macmillan dated 29 December 1869.
+[^4]: CMY was writing another book, eventually called *Pioneers and Founders, or, Recent Works in the Mission Field* (1871) for Macmillan's [Sunday Library](organizations/other_145.qmd) series, of which Frances Martin was editor.

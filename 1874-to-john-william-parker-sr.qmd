@@ -1,0 +1,51 @@
+---
+title: "To John William Parker, Sr.?"
+letter_iso_date: "1862-10-16"
+letter_date: "Oct 16th [1862]"
+location: "Ottery"
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 1874
+letter_id: "to-john-william-parker-sr"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Sr.?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-10-16"
+  url: "https://cmyonge.github.io/letters/1874-to-john-william-parker-sr"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 16th [1862]  
+**From:** Ottery  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Sir](people/person_1144.qmd),
+
+I did not mean to publish the two volumes of the [History of Christian Names](cmy_books/cmybook_48.qmd) separately.[^1] The second is in a state of forwardness, but I thought I had explained when I saw you that I thought it would save time to have the 1st in the press while I am going over the 2nd again.
+
+I imagine 2000 copies will be sufficient for a first edition.
+
+My direction till the 20th will be the [Revd W Butler](people/person_244.qmd)’s
+
+						  Vicarage
+
+							Wantage	
+
+Yours faithfully
+
+C.M. Yonge
+
+---
+
+[^1]: It was published in two volumes by Parker, Son and Bourn in 1863.  This letter may perhaps have been addressed to [William Butler Bourn](people/person_178.qmd) rather than the elder Parker.

@@ -1,0 +1,53 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1869-09-05"
+letter_date: "September 5, 1869"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 257-8"
+post_id: 2339
+letter_id: "to-mary-yonge-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-09-05"
+  url: "https://cmyonge.github.io/letters/2339-to-mary-yonge-7"
+---
+
+::: {.letter-metadata}
+**Date:** September 5, 1869  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 257-8
+:::
+
+My dearest [Mary](people/person_1626.qmd)
+Thank you so much for that kind letter, and for your message this morning. But I do find that I am not fit to come, I am so much knocked up to-day, having before not quite recovered from the effects of hot journeys and strange food.[^1] And I would not give you the care and trouble of a breakdown just now.
+
+How are you all passing through this Sunday; I seem to have seen Newton Church[^2] more than our own all this time; this is a Sunday I have so often been there, and the hymns are [her](people/person_1582.qmd) own choosing and the same. And her hand was the first on our harmonium, and her voice the first in the new beginning of our choir. And now, oh! surely she is among those that follow the Lamb whithersoever He goeth. It is all so like -
+
+Comes rushing o’er a sudden thought
+Of her who led the strain,
+How oft such music home she brought.[^3]
+
+But it is a blessed thing for the rest of our lives that it is in our times of praise that we shall meet her above all.
+
+Some day when you can, you or [Charlotte](people/person_1587.qmd) will tell me how you have gone through this Sunday, and whether [Duke](people/person_1599.qmd) had any help. I am thinking [John Morshead](people/person_43.qmd) may be able to come.
+
+Your most affectionate
+C. M. Yonge
+
+---
+
+[^1]: CMY is too unwell to attend the funeral of her cousin Anne Yonge.
+[^2]: Newton Ferrars, the parish church, with memorial tablets to all Anne’s deceased siblings.
+[^3]: John Keble, 'Fire' in *Lyra Innocentium*, 155.

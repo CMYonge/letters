@@ -1,0 +1,14 @@
+---
+title: "Maria Trench - 'A Conversation on Books'"
+book_id: 980
+---
+
+## Publication Information
+
+**Date:** 1885
+
+**Imprint:** <i>MP</i> (March 1885), 284-94.
+
+**Notes:** A review of Richard Chenevix Trench, [<i>Brief Thoughts and Meditations on some passages in Holy Scripture</i>](otherbook_981.qmd) (1884).
+
+

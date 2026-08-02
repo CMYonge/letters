@@ -1,0 +1,8 @@
+---
+title: "Hoare's Bank"
+other_id: 169
+---
+
+**Type:** organization
+
+

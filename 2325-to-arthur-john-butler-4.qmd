@@ -1,0 +1,44 @@
+---
+title: "To Arthur John Butler"
+letter_iso_date: "1869-07-05"
+letter_date: "July 5th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Caroline Fairclough/18"
+post_id: 2325
+letter_id: "to-arthur-john-butler-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur John Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-07-05"
+  url: "https://cmyonge.github.io/letters/2325-to-arthur-john-butler-4"
+---
+
+::: {.letter-metadata}
+**Date:** July 5th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Caroline Fairclough/18
+:::
+
+My dear [Arthur](people/person_238.qmd)
+Since you are so good to [Polly](other_books/otherbook_348.qmd), here are the two chapters you missed come in pursuit of you. You see her <u>lls</u> have exhausted the printers’ whole stock which accounts for the odd appearance of the latter sheet
+
+I do not know if it is a monstrous presumption to treat those Italian articles that get compounded with the prepositions as representing the lost instrumental and locative cases- The French grammar claims <u>en</u> (in the) as so doing and surely <u>nel</u> answers to that.
+
+Please return them to me, instead of obeying 
+
+[rest of letter missing]
+
+---
+
+**Note:** Black-edged paper.

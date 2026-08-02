@@ -1,0 +1,38 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1879-03-14"
+letter_date: "March 14th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2667
+letter_id: "to-christabel-rose-coleridge-100"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-03-14"
+  url: "https://cmyonge.github.io/letters/2667-to-christabel-rose-coleridge-100"
+---
+
+::: {.letter-metadata}
+**Date:** March 14th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+How soon do you like to come, for I am now quite ready for you.  [Mary](people/person_351.qmd) has finished her visit, and then I had [Elizabeth Wordsworth](people/person_1566.qmd)for a couple of nights on her way back from Foare.  I hope [your father](people/person_1900.qmd) is well again; and the Church getting on.  We shall not regale you with an inspection this time, [Mr Green](people/person_1647.qmd) was much more amiable, and the girls did very well, except in certain long answers upon domestic economy  The boys were damaged by the changes of master and had twelve failures-  the girls only three- of very small ones- but we have [a good new master](people/person_513.qmd) now so I hope for better things
+
+your affte
+C M Yonge

@@ -1,0 +1,41 @@
+---
+title: "To Marianne Bigg-Wither"
+letter_iso_date: "1897-05-20"
+letter_date: "May 20, 1897."
+location: "Elderfield"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 329."
+post_id: 3349
+letter_id: "to-marianne-bigg-wither-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Marianne Bigg-Wither"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-05-20"
+  url: "https://cmyonge.github.io/letters/3349-to-marianne-bigg-wither-5"
+---
+
+::: {.letter-metadata}
+**Date:** May 20, 1897.  
+**From:** Elderfield  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 329.
+:::
+
+My dearest [Marianne](people/person_1546.qmd)-
+[Raby](people/person_1221.qmd) will have told you that [my dear home companion](people/person_1462.qmd)'s long patience has ended.
+
+She was really dying ever since last evening, though the end did not come till one o'clock to-day, holding my hand, and asking [Henry](people/person_184.qmd)'s prayers all the time till consciousness was gone, not many minutes before the end. I do not think in the relief I feel the difference it will make to me.
+
+Your strawberries were really welcome to me---one of the few things she could take.-
+
+Your most affectionate
+C. M. YONGE.

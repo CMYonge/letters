@@ -1,0 +1,42 @@
+---
+title: "To the Reverend Richard St. John Tyrwhitt"
+letter_iso_date: "1885-03-04"
+letter_date: "March 4th 1885"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 182-3"
+post_id: 2802
+letter_id: "to-the-reverend-richard-st-john-tyrwhitt-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Richard St. John Tyrwhitt"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-03-04"
+  url: "https://cmyonge.github.io/letters/2802-to-the-reverend-richard-st-john-tyrwhitt-3"
+---
+
+::: {.letter-metadata}
+**Date:** March 4th 1885  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 182-3
+:::
+
+Dear [Mr Tyrwhitt](people/person_1428.qmd)
+
+The copy right is yours. It always stays with authors in the [Packet](organizations/other_52.qmd), so neither [Mr Smith](people/person_1344.qmd) nor I can have any objection to [Natural Beauty](other_books/otherbook_985.qmd) appearing in America[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: No serial or volume publication in America of Tyrwhitt's *The Natural Theology of Natural Beauty* (1882) (originally published in *MP* (January, April 1881) as 'The Argument from Natural Beauty') has been traced.

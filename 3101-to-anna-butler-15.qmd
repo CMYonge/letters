@@ -1,0 +1,42 @@
+---
+title: "To Anna Butler"
+letter_iso_date: "1857-06-13"
+letter_date: "June 13th 1857"
+location: "Otterbourne, Winchester"
+manuscript: "MS University of Delaware Library, Newark, Delaware, F295"
+post_id: 3101
+letter_id: "to-anna-butler-15"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1857-06-13"
+  url: "https://cmyonge.github.io/letters/3101-to-anna-butler-15"
+---
+
+::: {.letter-metadata}
+**Date:** June 13th 1857  
+**From:** Otterbourne, Winchester  
+**Manuscript:** MS University of Delaware Library, Newark, Delaware, F295
+:::
+
+My dear [Miss Butler](people/person_237.qmd),
+Two lines to say that here I am at home, & shall be delighted to have [Likes & Dislikes](other_books/otherbook_248.qmd) if they are ready. I go to [Dogd](organizations/other_121.qmd) on Monday week, but if I could have them in the interval, I should be glad. But I am afraid it is of  no use to try for two chapters in [one number](organizations/other_52.qmd) I am engaged to so much, I have been reading Peothès[^1] in English and delighting in him.
+
+In great haste
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The librarian confirms that the word looks like Peothes, but no explanation can be offered.

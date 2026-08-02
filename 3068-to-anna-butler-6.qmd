@@ -1,0 +1,39 @@
+---
+title: "To Anna Butler"
+letter_iso_date: "1855-06-06"
+letter_date: "June 6th [1855]"
+location: "Otterbourn"
+manuscript: "MS Westminster Archives Centre, Barkly MSS M:Acc 0618/80/6"
+post_id: 3068
+letter_id: "to-anna-butler-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-06-06"
+  url: "https://cmyonge.github.io/letters/3068-to-anna-butler-6"
+---
+
+::: {.letter-metadata}
+**Date:** June 6th [1855]  
+**From:** Otterbourn  
+**Manuscript:** MS Westminster Archives Centre, Barkly MSS M:Acc 0618/80/6
+:::
+
+My dear [Miss Butler](people/person_237.qmd)
+‘[Likes and Dislikes](other_books/otherbook_248.qmd)’ are beginning at last you see, and here is the first chapter of them, looking very inviting.
+
+We have had great enjoyment in a visit from your cousin [Elizabeth](people/person_113.qmd), I only wish her back was stronger.   Are you meditating any travels this summer, the [Packet](organizations/other_52.qmd) wonders in rather an interested mood.  By the by, if you have any idea, I should be glad to know what sort of number of chapters you contemplate in the present story
+
+yours sincerely
+C M Yonge

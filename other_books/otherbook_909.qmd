@@ -1,0 +1,14 @@
+---
+title: "Lizzie Alldridge - Clare: A Narrative in one Volume"
+book_id: 909
+---
+
+## Publication Information
+
+**Date:** 1878
+
+**Imprint:** London: Marcus Ward
+
+**Notes:** This appeared in the publisher's 'Bluebell' series, alongside CMY's [<i>The Disturbing Element</i>](../cmy_books/cmybook_125.qmd).
+
+

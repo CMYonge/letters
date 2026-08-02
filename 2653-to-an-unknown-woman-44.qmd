@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1878-11-29"
+letter_date: "Novr 29 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell/7"
+post_id: 2653
+letter_id: "to-an-unknown-woman-44"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-11-29"
+  url: "https://cmyonge.github.io/letters/2653-to-an-unknown-woman-44"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 29 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell/7
+:::
+
+Dear Madam
+
+I wish I could promise a ready admittance to My English Servant into the [Monthly Packet](organizations/other_52.qmd), but I am afraid that sending it to me would only involve an almost endless waiting.  Some stories I have had by me for two years, and I think yours deserves a better fate, I wish the [SPCK](organizations/other_40.qmd) would take it, I can’t understand their principles, for I am sure there are two or three stories in their last set of no use to anybody!
+
+yours truly
+C M Yonge

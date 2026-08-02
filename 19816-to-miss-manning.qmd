@@ -1,0 +1,47 @@
+---
+title: "To Miss Manning"
+letter_iso_date: "1885-12-10"
+letter_date: "Decr 10th 1885"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell."
+post_id: 19816
+letter_id: "to-miss-manning"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Manning"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-12-10"
+  url: "https://cmyonge.github.io/letters/19816-to-miss-manning"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 10th 1885  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+Dear [Miss Manning](people/person_949.qmd)
+
+[Miss Walter](people/person_1462.qmd) and I have much enjoyed reading [Miss Lawrence](people/person_2434.qmd)s' letter all the more as last Sunday evening [Mr Du Boulay](people/person_446.qmd) kindly came and talked to the parish about Madagascar.[^1]
+
+If you will let me know in time, I will send you [the Daisy Chain](cmy_books/cmybook_24.qmd), [Trial](cmy_books/cmybook_53.qmd) and [Pillars of the House](cmy_books/cmybook_109.qmd)to send to her.  I am very glad to have the pleasure of doing so
+
+with many thanks
+
+yours truly
+
+C M Yonge
+
+---
+
+[^1]: James du Boulay was a schoolmaster at Winchester College;  he was married to a sister of the Bishop of Madagascar.  The book dealer who sold the letter read it as 'Mrs du Boulay', but it looks to me like Mr. Either is possible.

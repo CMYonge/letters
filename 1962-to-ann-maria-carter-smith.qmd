@@ -1,0 +1,35 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1864-07-11"
+letter_date: "[11 July 1864]"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1864/ 6"
+post_id: 1962
+letter_id: "to-ann-maria-carter-smith"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-07-11"
+  url: "https://cmyonge.github.io/letters/1962-to-ann-maria-carter-smith"
+---
+
+::: {.letter-metadata}
+**Date:** [11 July 1864]  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/ 6
+:::
+
+[empty envelope]
+
+---
+
+**Note:** Empty envelope, addressed to Miss Smith/ Clare Hall/ Cambridge and postmarked Winchester 11 July 1864 and Cambridge 13 July 1864.

@@ -1,0 +1,46 @@
+---
+title: "To Constance Frederica Gordon Cumming"
+letter_iso_date: "1885-02-17"
+letter_date: "Feb 17th [1885]"
+location: "Elderfield"
+manuscript: "MS Cambridge University Library Add 4251 (B)/1530"
+post_id: 2799
+letter_id: "to-constance-frederica-gordon-cumming-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Constance Frederica Gordon Cumming"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-02-17"
+  url: "https://cmyonge.github.io/letters/2799-to-constance-frederica-gordon-cumming-2"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 17th [1885]  
+**From:** Elderfield  
+**Manuscript:** MS Cambridge University Library Add 4251 (B)/1530
+:::
+
+My dear [Miss Gordon Cumming](people/person_571.qmd)
+
+I have been thinking it over, and I am afraid I must decide against the Red Sea.[^1]  I have had one batch of [letters from the Soudan](other_books/otherbook_966.qmd) which are coming in the next number and perhaps there may be more so that I could not promise any other paper on Egyptian matters a place at the same time, though of course it is quite uncertain whether I may get any more though the writer is certainly safe so far  I have three cousins there, one of whom was wounded in the last fight.[^2]  I think the Officers suffer very largely in proportion.  I fancy it is from the need of bringing on their young soldiers with no elder men among them.  But it is a bitter, bitter thing to have thrown away such a life as [Gordon](people/person_2090.qmd)’s[^3]  One longs for some powerful denunciation like Burke’s to be hurled at the vacillation that caused it, but somehow any generous spirit among us seems to have grown tame and we have no real indignation left.  Even dynamite does not rouse us.
+
+Thank you again though I do return the Red Sea.
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Perhaps an article or series based on Gordon Cumming’s travel book *Via Cornwall to Egypt* (1885).
+[^2]: The sons of the 2nd Lord Seaton.  The Hon. [James Colborne](people/person_325.qmd) (1863- 1955) was severely wounded in the Sudan campaign of 1884-5, in which his brother the Hon. [Lionel Colborne](people/person_323.qmd) (1855-1924) also fought. The other cousin may have been their eldest brother the Hon. [John Colborne](people/person_318.qmd) (1854-1933), or perhaps their uncle the Hon. [John Colborne](people/person_2357.qmd) (1830-1890), a colonel in the Egyptian Army.
+[^3]: The news of Gordon’s death at the siege of Khartoum had reached England on 5 February 1885.

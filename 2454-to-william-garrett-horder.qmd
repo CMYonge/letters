@@ -1,0 +1,75 @@
+---
+title: "To William Garrett Horder"
+letter_iso_date: "1877-08-06"
+letter_date: "Aug 6th [1877]"
+location: "Elderfield"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 2454
+letter_id: "to-william-garrett-horder"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To William Garrett Horder"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-08-06"
+  url: "https://cmyonge.github.io/letters/2454-to-william-garrett-horder"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 6th [1877]  
+**From:** Elderfield  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+[Sir](people/person_712.qmd)
+I was obliged to let your letter wait till my return as I could not reply without referring to the book.[^1]
+
+‘The Second Temple’ is an anonymous poem in a collection called the Casket made by Joanna Baillie some 50 years ago
+
+_______________________________________________________________________
+
+Moses
+[Cardinal Newman](people/person_1084.qmd) - in the [Lyra Apostolica](other_books/otherbook_92.qmd)
+
+_______________________________________________________________________
+
+Seventh Sunday after Trinity-
+Keble - [Lyra Innocentium](other_books/otherbook_232.qmd)
+
+________________________________________________________________________
+
+3d Sunday in Advent
+[Mrs Yonge](people/person_1606.qmd)
+
+________________________________________________________________________
+
+Good Friday
+Come to a desert place
+Wednesday in holy week
+[Professor Anstice](people/person_2285.qmd)
+
+________________________________________________________________________
+
+22d after Trinity
+St John the Evangelist
+Epiphany
+Whitsunday
+from [Translations of hymns from the Paris Breviary](other_books/otherbook_823.qmd) by the Revd [Isaac Williams](people/person_1523.qmd)
+
+________________________________________________________________________
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: Horder, who published several anthologies of hymns, had evidently asked CMY to identify the contributors to *The Child's Christian Year*, a volume compiled by her mother.

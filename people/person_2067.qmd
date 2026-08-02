@@ -1,0 +1,10 @@
+---
+title: "Marion Vassil"
+person_id: 2067
+---
+
+## Biographical Information
+
+wife of [Benjamin Vassil](person_2066.qmd), missionary on Mota
+
+

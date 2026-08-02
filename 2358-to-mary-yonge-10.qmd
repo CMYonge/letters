@@ -1,0 +1,47 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1869-12-13"
+letter_date: "Decr 13th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS WDRO Acc No 308: 13-12-69"
+post_id: 2358
+letter_id: "to-mary-yonge-10"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-12-13"
+  url: "https://cmyonge.github.io/letters/2358-to-mary-yonge-10"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 13th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS WDRO Acc No 308: 13-12-69
+:::
+
+My dear [Mary](people/person_1626.qmd)
+Your letter met me at the Station on my way home, and I hope that the fog of Wednesday was less bad for [uncle Yonge](people/person_1623.qmd) though more disagreeable than frost would have been. There was one continuous fog all the time I was away, and it is very bad for Ottery where there is a bad low typhoid fever among the poor. I found [Sir John](people/person_344.qmd) better than I expected with no cough, and walking a mile every day when it is fine enough, [Lady C](people/person_347.qmd) was terribly feeble, but she came down to dinner every day and looked very nice wearing her own white hair as she never has done before. [Mary](people/person_351.qmd) was in bed with a headache when I arrived, but she was well the next day, and drove out every day, [Alethea Mackarness](people/person_923.qmd) looks much older than she does, and quite fit to support the honors [sic] of a Mrs Bishop.[^1] They think now that [his](people/person_926.qmd) Consecration will be on St Paul’s day - I slept one night at Salisbury on my way home, and found the [Bishop](people/person_1015.qmd) just returned from his Confirmations That at Portland island had interested him much – the Chaplain told him that there could be no doubt that the men who offered themselves were sincere, for they were much tormented by the others. One was as old as himself. The next day, he confirmed the sailor boys from the Boscawen and was delighted with them – so hearty and bright- and such fine lads. One little Church he went to had a stove which being fresh lighted so filled it with smoke that after waiting in vain for an hour they adjourned to another, and there just as they began, the organ loft broke down, but luckily no one was hurt but the school mistress and that slightly. [Mrs Moberly](people/person_1019.qmd)finds that the charities from the Palace were immense. It is a fine old house, and has a most beautiful view of the Cathedral, but the furniture is ready to fall to pieces and very dirty. The Chapel is a beauty. This week all the Ordination candidates came and the ladies will have to live out of sight. I like to think that our grand old Cathedral will be used for the ordination next Sunday, 43 candidates, some being from Oxford diocese. The enthronement is on Thursday. It is said that 11000 tickets have been asked for and the Cathedral will only hold 7000. We hope to have a fine day, for the whole procession has to go to St Lawrence Church- where the [Bishop](people/person_1512.qmd) will demand the key and toll the bell If it is like this, what a fluttering of surplices there will be down the avenue The Bishop is to come to Hursley park on Jany 21st, and he has been so kind as to promise to come and address the Eastleigh people at the opening of their school, while he is there[.] I found all the children’s colds well, and [Anne Parnell](people/person_2070.qmd) going for a visit into Cornwall.[^2] [Maurice](people/person_1630.qmd) will miss her very much.  I think the [Noble Life](other_books/otherbook_463.qmd) must have come home before and have been lent to somebody else, [Irene’s repentance](other_books/otherbook_561.qmd) is mine, but when I asked about them I was not thinking of any chance of coming myself, and now they may as well wait for that, whether before or after Easter, will be for circumstances on both sides to decide, I find Keble College is not to be opened on the 21st of April as was expected And that makes some difference. Tell [Frances](people/person_1605.qmd) that we have not drawn for the raffle yet, and shall be very glad of her shilling.
+
+About what you are so kind as to say of my having something of dear [Anne](people/person_1582.qmd)’s, I should like you to choose any book that you could bear to part with. And there is one thing a tiny china white elephant we each bought one at Southampton together, and gave them to each other, and [Jane Moore](people/person_1042.qmd) had one also, so that there are many thoughts joined with it. I hope you are still being careful and that Christmas is not bringing too much care and work It is well that such Seasons bring their own joy for they bring their own pain when they mark the changes
+
+your most affectionate
+C M Yonge
+
+I suppose your cook is being tried- What becomes of her?
+
+---
+
+[^1]: Black-edged paper.
+[^2]: John Fielder Mackarness, husband of the Coleridge's daughter Alethea, had been made Bishop of Oxford.
+[^3]: The children were CMY's nieces and nephews and Anne Parnell was probably their nurse.

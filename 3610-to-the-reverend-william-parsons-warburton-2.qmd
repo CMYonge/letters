@@ -1,0 +1,37 @@
+---
+title: "To the Reverend William Parsons Warburton"
+letter_iso_date: "1890-00-00"
+letter_date: "[1890s?]"
+manuscript: "MS Girton College Cambridge, Yonge VIII 2"
+post_id: 3610
+letter_id: "to-the-reverend-william-parsons-warburton-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William Parsons Warburton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-01-01"
+  url: "https://cmyonge.github.io/letters/3610-to-the-reverend-william-parsons-warburton-2"
+---
+
+::: {.letter-metadata}
+**Date:** [1890s?]  
+**Manuscript:** MS Girton College Cambridge, Yonge VIII 2
+:::
+
+My dear [Mr Warburton](people/person_1466.qmd) 
+Alas! I wish I could be in two places at once, for I do not at all want to miss the Committee which is enjoyable and instructive- But I have been engaged for weeks past to a [GFS](organizations/other_23.qmd) meeting, and I can’t get off for I have a note from [Mrs Elgee](people/person_475.qmd) this morning that her speaker one at least fails, & I must do it. Whereby it is all the more unavoidable and unpleasant!
+
+In haste - with [Mr Green](people/person_1647.qmd) looming on us in this dismal wet
+
+Yours sincerely
+C M Yonge

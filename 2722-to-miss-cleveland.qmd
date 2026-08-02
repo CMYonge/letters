@@ -1,0 +1,50 @@
+---
+title: "To Eliza Callahan Cleveland"
+letter_iso_date: "1881-04-02"
+letter_date: "April 2d 1881"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection."
+post_id: 2722
+letter_id: "to-miss-cleveland"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Eliza Callahan Cleveland"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-04-01"
+  url: "https://cmyonge.github.io/letters/2722-to-miss-cleveland"
+---
+
+::: {.letter-metadata}
+**Date:** April 2d 1881  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection.
+:::
+
+My dear [Miss Cleveland](people/person_307.qmd)
+
+Thank you much for sending me the answer to that question. Do you remember sending me the two volumes of the [Harvard biographies](other_books/otherbook_886.qmd), James Lowells’ was the one I liked above all others, there seemed to be such depth and originality in his whole character.
+
+I have lent the book to several persons chiefly on his account
+
+I remember that pleasant visit well.
+
+Pray assure friend that our little Scamp is in full health and beauty, and I hope a little better behaved.
+
+I have not seen [ Miss Sewell](people/person_1301.qmd) for a good while, but I hear from her often and she seems as busy as ever upon her plans for education being made as wide as it is universal. Have you seen the[life of sister Augustine](other_books/otherbook_933.qmd)? Kegan Paul publishes it[^1] She was too true a Catholic to accept the dogma of Infallibility, and therefore had to die excommunicate
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: *Sister Augustine, Superior of the Sisters of Charity at the St. Johannis Hospital at Bonn* (London: Kegan Paul 1880) was an authorized translation, by Emily Augusta, Lady Durand, of Henri Lecoultre’s German biography of Amalie von Lasaulx (1815-1872).  The doctrine of papal infallibility had been affirmed by the Vatican Council of 1869-70.

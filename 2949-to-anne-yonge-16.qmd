@@ -1,0 +1,41 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1844-11-19"
+letter_date: "Novr 19th [1844]"
+location: "Otterbourn"
+manuscript: "MS West Devon Record Office Acc No 308: 19/11/44"
+post_id: 2949
+letter_id: "to-anne-yonge-16"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1844-11-19"
+  url: "https://cmyonge.github.io/letters/2949-to-anne-yonge-16"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 19th [1844]  
+**From:** Otterbourn  
+**Manuscript:** MS West Devon Record Office Acc No 308: 19/11/44
+:::
+
+My dear [Anne](people/person_1582.qmd)
+It is very nearly post time and I am afraid I have not time to write a long letter and indeed I do not know how I should for writing to you is a very different thing now from what it was not a month ago does it not seem to you as if it was a year ago that [uncle Yonge](people/person_1623.qmd) and [Alethea](people/person_27.qmd) went to Ottery and as if you were quite in another state of existence.  I am glad you have told us all about your day but I cannot fancy you at all, and I do not think I shall till I have seen some of you again.  How strange it seems now and how glad I am of it that we all went on it seemed almost revelling in the pleasure of our last visit to [Puslinch](organizations/other_123.qmd), with a feeling all the time that it was to be our last to it in its own most happy condition, that it is not only now that we feel that that joy was ‘sweetest in decay’, as we should expect would be the case but that we did so at the time.  There are things in the course of those five weeks which are to be remembered through all my life I hope.  I am longing to have [Julian](people/person_1624.qmd) to talk them over with.  How is [Mary](people/person_1626.qmd), I suppose she finds employment in watching uncle Yonge, and you watch her.  [Mamma](people/person_1606.qmd) says she knows exactly the feeling of the occupation being gone, and that there is nothing left in the world that is worth doing, and going on with the pannels [sic] for the Church was her great comfort then[^1] and now as it seemed to be something for a real purpose, and she wants to know whether you think it would be doing what you would like to copy any of the illuminations in your Bible for her, to serve as patterns, do not do it if you feel you had rather not only to oblige her, but she wishes to propose it to you as one of the things which gave her employment.  She is very well, how thankful I ought to be that this shock did not come at a time when she would have been so much less fit to bear it than now, and oh! if it had been when it was first threatened when we were with you.  Julian has not been quite well lately  It is time to leave off, [Papa](people/person_1631.qmd) is sealing, I had more to say if I could.  How glad I am you are writing out more of the precious memoranda
+
+your most affect
+CMY
+
+---
+
+[^1]: The implication seems to be that FMY is remembering the death of her own mother, which corroborates the view that [Mary Bargus](people/person_103.qmd) had died in 1843, and not, as Coleridge writes (*Life* 154) in 1848.  Anne's mother [Alethea Henrietta Yonge](people/person_1580.qmd) had just died.

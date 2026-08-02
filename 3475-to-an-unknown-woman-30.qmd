@@ -1,0 +1,47 @@
+---
+title: "To an unknown woman"
+letter_iso_date: "1901-01-04"
+letter_date: "Jan 4th 1901"
+location: "Elderfield Otterbourne"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3475
+letter_id: "to-an-unknown-woman-30"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1901-01-04"
+  url: "https://cmyonge.github.io/letters/3475-to-an-unknown-woman-30"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 4th 1901  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+The [Last Heartsease Leaves](cmy_books/cmybook_45.qmd) is the little conversation you saw. I let it be reprinted as a contribution to a Church, and it is now to be had from
+
+[Miss Marriott](people/person_958.qmd)
+Eastleigh	
+Southampton
+
+for sixpence.[^1] If you will send her the amount; with postage she will at once forward it to you
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: *A Chaplet for Charlotte Yonge*, 210, states: 'In 1900 it [*Last Heartsease Leaves*] was printed separately at Bournemouth, in aid of a church restoration fund.'

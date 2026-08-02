@@ -1,0 +1,59 @@
+---
+title: "To Mary Penelope Fursdon"
+letter_iso_date: "1870-07-10"
+letter_date: "[10 July 1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS  Mrs Katherine Wykes-Sneyd"
+post_id: 2384
+letter_id: "to-mary-penelope-fursdon-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Penelope Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-07-10"
+  url: "https://cmyonge.github.io/letters/2384-to-mary-penelope-fursdon-3"
+---
+
+::: {.letter-metadata}
+**Date:** [10 July 1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS  Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Pixie](people/person_539.qmd)
+I don't know if you have heard how nearly [Goosedom](organizations/other_104.qmd)perished from exhaustion and how it has revived again, after throwing off a few idle members.  I did not throw you out because I thought we had had some very impossible questions lately, and we are going to keep them shorter and easier.
+
+Will you send the answers when you get them to Bluebell ie
+
+the Honble [Alethea Colborne](people/person_317.qmd)
+Beechwood
+Plympton
+
+There are two more new members coming in
+
+Facta non Verba.
+[Rachel Deedes](people/person_433.qmd)
+Bengeo Rectory
+Hertford
+
+[Phoebe Allen](people/person_25.qmd)
+Finchcox
+Kilndown
+Staplehurst
+
+your faithful
+Mother Goose
+
+---
+
+**Note:** Black-edged paper with black-edged envelope postmarked Winchester 10 July and Tiverton 11 July 1870 andaddressed to Miss Mary Fursdon/ Fursdon/ Tiverton.

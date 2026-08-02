@@ -1,0 +1,49 @@
+---
+title: "To John Athelstan Laurie Riley"
+letter_iso_date: "1893-02-23"
+letter_date: "Feb 23rd 1893"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Lambeth Palace Library 2343 f.191-3"
+post_id: 3215
+letter_id: "to-john-athelstan-laurie-riley"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Athelstan Laurie Riley"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-02-23"
+  url: "https://cmyonge.github.io/letters/3215-to-john-athelstan-laurie-riley"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 23rd 1893  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Lambeth Palace Library 2343 f.191-3
+:::
+
+Dear [Sir](people/person_1239.qmd)
+The number of [Mothers in Council](organizations/other_82.qmd) must, I think have been sent by [Mrs Sumner](people/person_1381.qmd) to whom I will send on one of your papers, but I think she is absent from Winchester just now, as the illness of the [Bishop of Winchester](people/person_1280.qmd) throws much work on her [husband](people/person_1382.qmd). There is nothing that she and I are more anxious about than Christian education and we much desire to do all in our power to promote it.[^1]
+
+‘The [Mothers Union](organizations/other_31.qmd)’ which Mrs Sumner originated is doing whatever it can to gather up mothers of all ranks in the cause -  The [Parents Union](organizations/other_34.qmd);  patronised by [Lady Aberdeen](people/person_2119.qmd)has nearly the same objects, but with more of secularity and undenominational as well as not dealing so much with the poorer classes.
+
+Lady [Laura Ridding](people/person_1238.qmd)the [Bishop of Southwell](people/person_1237.qmd)’s wife wishes to unite all these Societies and the [Womens’s help](organizations/other_222.qmd)by some kind of affiliation.  I do not know whether this can be carried out but I think it would be well to consult these ladies before forming a special Woman’s League.
+
+We hoped to follow up Mrs Sumner’s [article](other_books/otherbook_674.qmd) in our next (quarterly) number on April 1st but death and illness have disappointed one of the contributions we hoped for.  Anything you could send me on the subject of voluntary schools, as influence on school boards would be most welcome[^2]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: John Athelstan Laurie Riley (1858-1945), Vice-President of the Church Union, member of the London School Board 1891-7.
+[^2]: The letter refers to Mary Elizabeth Sumner’s article ‘A Great Panacea’ *Mothers in Council* 3 (January 1893) 2-15, about the necessity for a religious element in compulsory education, of which she had no doubt sent Riley a copy.
+[^3]: In fact there appeared another article by Mary Sumner, ‘Incomplete and Inadequate Religious Teaching’ *Mothers in Council* 3 (April 1893) 74-82.

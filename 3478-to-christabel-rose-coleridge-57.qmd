@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1901-02-04"
+letter_date: "Feb 4th  [1901]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/109"
+post_id: 3478
+letter_id: "to-christabel-rose-coleridge-57"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1901-02-04"
+  url: "https://cmyonge.github.io/letters/3478-to-christabel-rose-coleridge-57"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 4th  [1901]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/109
+:::
+
+My dear [C C](people/person_329.qmd)
+I had not read the Notes on Modern Thought and I don’t know what [Prof Collins](people/person_2250.qmd) is, though looking at them in a hurry on your letter, I don’t like the looks of them. But would it be well for you and me, and perhaps [Lady Frederick Bruce](people/person_215.qmd) to remonstrate on the danger. I think [GIB](people/person_160.qmd) minds us, and I feel rather pledged to the ‘gates’ for [Reason’s Why](cmy_books/cmybook_252.qmd), which I have written on to 9 or 10 chapters and I think is wanted - if anyone reads the [Churchwoman](organizations/other_64.qmd), I don’t so much mind Kg Charles his I think /the paper\\ him exaggerated, and I never should belong to the White Rose in spite of [Mary Morshead](people/person_28.qmd), though I do wish for the Memorial.[^1] It is funny to remember what a radical GIB was when she wrote [ZigZag](other_books/otherbook_784.qmd)! I believe it was Hawarden. But she is under [Mr Villiers](people/person_2252.qmd) now, and has a charming class of his school children. Are you sure [Mrs Halliday](people/person_616.qmd) is ill, we have heard nothing of it, and I expect it is the Russian scandal of [Mrs George Yonge](people/person_2116.qmd) at Bishopstoke (whence by the by the Hallidays are departed into Somersetshire). She, poor thing, Mrs George Yonge is, I fear dying of complaint of the heart, and [Lottie](people/person_1588.qmd) is there doing what she can for poor broken hearted [George](people/person_1611.qmd) (her uncle)[^2] The direction is Stoke Lodge, Bishopstoke, Hants. She carried off books to write your article if she has time, which I doubt. I think it will end in her living there. We have had our Religious Inspection and my boys were perfectly senseless! Tomorrow is the girls, and we hope for better things, I believe boys brains between 10 and 12 turn to cricket &amp;c.
+
+It rained furiously all Saturday here, I am glad it did not in London. And the Navy came out beautifully – but it is only alas!
+
+Did you hear of the little Dublin tramp whom a gentleman watched, laying down his only penny for a bunch of violets which he scattered over her name[^3]
+
+your affte
+C M Yonge
+
+---
+
+[^1]: This is evidently a discussion of the current issue of *The Churchwoman* (1897-1905), edited by Gertrude Mary Ireland Blackburne (1861-1951).  Mary Morshead was an enthusiastic supporter of [Charles I.](people/person_1768.qmd)
+[^2]: George  Edward Yonge (1824-1904) was CMY’s first cousin, son of her Eton uncle.  His wife was Lucy Acland and they had no children.  ‘Lottie’ was Charlotte Fortescue Yonge, his niece.
+[^3]: The state funeral of [Queen Victoria](people/person_1694.qmd) on 2 February 1901.

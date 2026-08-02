@@ -1,0 +1,45 @@
+---
+title: "To Susanna Warren"
+letter_iso_date: "1870-10-01"
+letter_date: "[1 October 1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Girton College Cambridge, Yonge XI 4"
+post_id: 2391
+letter_id: "to-susanna-warren-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Susanna Warren"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-10-01"
+  url: "https://cmyonge.github.io/letters/2391-to-susanna-warren-7"
+---
+
+::: {.letter-metadata}
+**Date:** [1 October 1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Girton College Cambridge, Yonge XI 4
+:::
+
+My dear [Miss Warren](people/person_1475.qmd),
+Did you see in the [Guardian](organizations/other_75.qmd) the death of ‘[Elizabeth Jane](people/person_797.qmd) wife of the Revd [Thomas Keble](people/person_801.qmd)’?- my own dear [Mrs Keble](people/person_795.qmd)’s sister.[^1] She had but two days illness, and her husband is left feeble and broken. Nobody expected him to live through the winter but she was strong healthy person and it seemed as if her life was absolutely necessary to him - I have however written to [the son](people/person_799.qmd), who will no doubt give his consent. She is a great loss, she was such a link with Hursley. She had just been busy about the transferring the Hursley library to [Keble College](organizations/other_5.qmd). I think there is no doubt of Tom Keble’s[^2] consent, but there may be some delay in its coming as the making arrangements for the care of his father must occupy him much.
+
+Thanks for the Conversion of St Paul  I have just sent off St Andrew
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope addressed 'Miss Susanna Warren / Hazlewood/ Kennock/ Bovey Tracey' postmarked Winchester and Newton Abbot 1 and 3 October 1870.
+[^2]: [John Keble](people/person_798.qmd) and his brother Thomas married sisters, Charlotte and Elizabeth Clarke.
+[^3]: The Rev. Thomas Keble jr. was John Keble’s literary executor.  It seems probable that Warren wanted to quote the elder Keble in a contribution she was making to the[*Monthly Paper of Sunday Teaching*](organizations/other_81.qmd).

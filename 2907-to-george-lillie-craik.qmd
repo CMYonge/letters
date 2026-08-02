@@ -1,0 +1,53 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1889-05-22"
+letter_date: "May 22d 1889"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 173-4"
+post_id: 2907
+letter_id: "to-george-lillie-craik"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-05-01"
+  url: "https://cmyonge.github.io/letters/2907-to-george-lillie-craik"
+---
+
+::: {.letter-metadata}
+**Date:** May 22d 1889  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 173-4
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Thanks for the last set of my books, and for the Kingsley’s whereof we have been going through a course.[^1]
+
+If I might have the payment for the first edition of <u>[Beechcroft at Rockstone](cmy_books/cmybook_201.qmd)</u> I should be glad.
+
+I suppose the [last volume of Cameos](cmy_books/cmybook_213.qmd) is waiting for its index, but I hope it will be out before the season is over.[^2] 
+
+[The Reputed Changeling](cmy_books/cmybook_205.qmd)is a much better thing I hope than the Rockstone story, which is really only a continuation for the sake of old friends
+
+I suppose it will soon be ready. Please let these copies be sent, and the sheets to [Tauchnitz](people/person_2124.qmd).
+
+I hear that [the Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd) is much used as a class book in Switzerland
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Macmillan published a new edition of the complete works of [Charles Kingsley](people/person_816.qmd) in 1889.
+[^2]: Annotated 'yes'.

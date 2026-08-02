@@ -1,0 +1,43 @@
+---
+title: "To Isabella Margaretta Elizabeth Heathcote"
+letter_iso_date: "1886-11-04"
+letter_date: "Novr 4th [1886]"
+location: "Elderfield"
+manuscript: "MS Winchester City Council, Historic Resources Centre, LH3802"
+post_id: 2844
+letter_id: "to-isabella-margaretta-elizabeth-heathcote"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabella Margaretta Elizabeth Heathcote"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-11-04"
+  url: "https://cmyonge.github.io/letters/2844-to-isabella-margaretta-elizabeth-heathcote"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 4th [1886]  
+**From:** Elderfield  
+**Manuscript:** MS Winchester City Council, Historic Resources Centre, LH3802
+:::
+
+My dear [Bella](people/person_1690.qmd)
+
+[Gertrude](people/person_1462.qmd) begs me to write and enquire how [Mr Walpole](people/person_1432.qmd) is. [^1]  I am afraid it takes a long time to recover from anything so exhausting as nose bleeding.  Our [Bishop](people/person_213.qmd) however seems quite to have done so - he has got happily through this time of hard work at the Diocesan Conference  We had a very interesting meeting afterwards at the Deanery about Women’s Work in the Diocese - especially what the Deaconesses at Portsea have to do and the strange things they meet with.  Fancy a woman doubting about having her child baptised for fear it should become an Archangel and have to run about doing the messages for all the others.  [Lady Heathcote](people/person_665.qmd) was here today looking very well, at a meeting of this Habitation? of the [Primrose League](organizations/other_255.qmd).  Gertrude is tolerable today, having visits from [Miss Coulthard](people/person_371.qmd) who is at the other house.  I wonder who [the Lady Valeria](other_books/otherbook_1020.qmd)’s author is.  A Moberly seems as if one should know, but then people do so assume names.[^2]  It is a pretty book but for one thing
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Isabella Heathcote’s father, Spencer Horatio Walpole (1806-1898), M.P. for Cambridge University (1856-1882).
+[^2]: A.Moberly, *Lady Valeria* (1886) was advertised as the work of Major A. Moberly, and can probably be safely attributed to Major [Alfred Moberly](people/person_1860.qmd), nephew of Dr George Moberly.

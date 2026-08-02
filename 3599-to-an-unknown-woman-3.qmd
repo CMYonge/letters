@@ -1,0 +1,45 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1894-11-10"
+letter_date: "Novr 10 [1894?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3599
+letter_id: "to-an-unknown-woman-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-11-10"
+  url: "https://cmyonge.github.io/letters/3599-to-an-unknown-woman-3"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 10 [1894?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+I send two of the books you wish for. [The Cross Roads](cmy_books/cmybook_221.qmd) is I find being read to a class of [G F S](organizations/other_23.qmd) girls, but will be finished by the time you have done with these two. [John Brent](other_books/otherbook_211.qmd) is by S Baring Gould, one of the penny SPCK series. I know I have it and have read it aloud, but I cannot lay my hand on it this moment.
+
+I have only one copy of the [Chimes](cmy_books/cmybook_232.qmd), which is being read every week so I cannot well send it. Our Mothers are fairly punctual, and the accounts cover the little irregular time so we begin with the Litany provided by the [Mother’s Union](organizations/other_31.qmd) and then have the religious reading. It is a better time for the [Vicar](people/person_184.qmd)’s being able to come as he does sometimes that[sic] at the end, when the children are apt to get restless
+
+Yours truly
+C M Yonge		
+
+There is a <u>very</u> good SPCK tract called ‘The Black Copse’[^1]
+
+---
+
+[^1]: Not found.

@@ -1,0 +1,37 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "0000-08-01"
+letter_date: "Augst 1st [n.y.]"
+location: "Elderfield"
+manuscript: "University of Tennessee Special Collections Library"
+post_id: 3517
+letter_id: "to-an-unknown-woman"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3517-to-an-unknown-woman"
+---
+
+::: {.letter-metadata}
+**Date:** Augst 1st [n.y.]  
+**From:** Elderfield  
+**Manuscript:** University of Tennessee Special Collections Library
+:::
+
+Dear Madam
+
+I am obliged by your M S, but I have no space for it
+
+yours truly
+C M Yonge

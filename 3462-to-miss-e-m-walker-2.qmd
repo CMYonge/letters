@@ -1,0 +1,43 @@
+---
+title: "To  Maria Edith Walker"
+letter_iso_date: "1900-06-15"
+letter_date: "June 15 1900"
+location: "Elderfield Otterbourne"
+manuscript: "MS West Sussex County Record Office/ Add. 16,944/7"
+post_id: 3462
+letter_id: "to-miss-e-m-walker-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Maria Edith Walker"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-06-15"
+  url: "https://cmyonge.github.io/letters/3462-to-miss-e-m-walker-2"
+---
+
+::: {.letter-metadata}
+**Date:** June 15 1900  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS West Sussex County Record Office/ Add. 16,944/7
+:::
+
+Dear [Miss Walker](people/person_2234.qmd)
+Thank you for writing to tell me of the fate of the letters, I am afraid such has often befallen the like when they descend to a generation too young to care for them and not wishing for the encumbrance.  I have a screen worked in that way by my mother, but I think almost all my other possessions of the kind have worn out.
+
+[Mr Hobart Hampden](people/person_703.qmd) has his eldest sister [Sarah](people/person_702.qmd) staying with him, and I hope she will make her home with him, as the father died in the winter and the other two sisters are in India[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Rev. Alfred Bertie Hobart-Hampden (1860-1923), rector of Cottered, Herts.  His eldest sister was Sarah Maria Hobart Hampden (d.1939).  Their mother was Jane Awdry (d.1874).

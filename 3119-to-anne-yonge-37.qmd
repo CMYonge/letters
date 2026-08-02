@@ -1,0 +1,47 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1858-09-10"
+letter_date: "September 10, 1858."
+location: "Otterbourne, Winchester,"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 220"
+post_id: 3119
+letter_id: "to-anne-yonge-37"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1858-09-10"
+  url: "https://cmyonge.github.io/letters/3119-to-anne-yonge-37"
+---
+
+::: {.letter-metadata}
+**Date:** September 10, 1858.  
+**From:** Otterbourne, Winchester,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 220
+:::
+
+My dear [Anne](people/person_1582.qmd)-
+[Graham](people/person_321.qmd) and [James Yonge](people/person_1804.qmd)[^1] went away before we were up this morning, and it would all have seemed like a dream if [Duke](people/person_1599.qmd) had not been there at breakfast. [Alice Moberly](people/person_1025.qmd) came out in the fly that fetched us, and spent the whole day with [mamma](people/person_1606.qmd); they gave the schools some buns and sugared negus by way of celebration, and I think mamma did very well.
+
+I think we must have made a very pretty procession; [Julian](people/person_1624.qmd) went into church first with [Mrs. Walter](people/person_130.qmd) and James, and then when [the Colonel](people/person_1461.qmd) brought [Frances](people/person_1604.qmd), we six bridesmaids lined the pretty lych-gate, all hung with festoons of flowers, and closed in behind her.[^2] She had been a good deal overcome while waiting at home, and much more in real need of sal-volatile than [Jane](people/person_1042.qmd) was, and I believe she had a very bad headache all day, but she was quite right as long as she had anything to do, and was very bright and pretty at the luncheon, with little [Herbert](people/person_1463.qmd) upon her lap. Poor [Louisa](people/person_616.qmd) was very much distressed, and little [Gertrude](people/person_1462.qmd) looked so pale, and clung to her every moment she could.[^3] There were about thirty-six people at the luncheon, at a table arranged like a T. . . . Julian looked very nice and well, and one longs for their coming home to eat the great piece of honeycomb which [Kezia](people/person_713.qmd)'s mother has most appropriately presented....
+
+The school-children scattered laurel leaves and flowers, and the church was very full of people. Julian told me to send thanks for the pretty little obelisk and the two plates---how very well the sweetwilliam is done, and I have a special delight in the white flower at the base of the obelisk. [Mr. Keble](people/person_798.qmd) is going to give him a big Bible. I have so many letters to write that I cannot go on any longer-
+
+Your most affectionate
+C. M. Yonge
+
+---
+
+[^1]: Graham Colborne and James Yonge had come to Otterbourne to attend the marriage (9 Sept 1858) of Julian Yonge to Emma Frances Walter (1839-1913).  James Edmund Yonge (b. 1843) was the son of Vice-Admiral Edmund Yonge, brother of Lady Seaton and Uncle Yonge.
+[^2]: Mrs Walter was Frances’s stepmother. Lieut.-Colonel Edward Walter (1804-1862) of the  3rd Bombay Light Cavalry, had married, first, Mary Emma Coulthard and, secondly (1853) Caroline Janetta Bignell.
+[^3]: Louisa (1840-1916) and Gertrude Walter (1849-1897) were Frances’s younger sisters. Herbert was her half-brother.

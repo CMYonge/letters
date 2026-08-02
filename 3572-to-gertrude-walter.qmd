@@ -1,0 +1,43 @@
+---
+title: "To Gertrude Walter"
+letter_iso_date: "1860-00-00"
+letter_date: "[late 1860s?]"
+location: "Crookham"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3572
+letter_id: "to-gertrude-walter"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Gertrude Walter"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-01-01"
+  url: "https://cmyonge.github.io/letters/3572-to-gertrude-walter"
+---
+
+::: {.letter-metadata}
+**Date:** [late 1860s?]  
+**From:** Crookham  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear[Gertrude](people/person_1462.qmd)
+
+Thank you for your letter, which I found here when I arrived yesterday, by way of Salisbury and Basingstoke. I meant all those flowers of which there was but one specimen for you, [Helen](people/person_1613.qmd) may wait to collect for herself
+
+Your most affectionate
+
+C M Yonge
+
+---
+
+**Note:** Dated on the assumption that it was written when Helen Yonge was a small child beginning a collection of pressed flowers.

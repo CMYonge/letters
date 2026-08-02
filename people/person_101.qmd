@@ -1,0 +1,10 @@
+---
+title: "Mrs Ballard"
+person_id: 101
+---
+
+## Biographical Information
+
+listed as a contributor to the <i>Hursley Magazine</i> in 1848
+
+

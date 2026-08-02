@@ -1,0 +1,41 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-10-02"
+letter_date: "Oct 2d [1900]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/104"
+post_id: 3469
+letter_id: "to-christabel-rose-coleridge-52"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-10-01"
+  url: "https://cmyonge.github.io/letters/3469-to-christabel-rose-coleridge-52"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 2d [1900]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/104
+:::
+
+My dear [C C](people/person_329.qmd)
+I hope the change will be a success.  I did not know there had to be so long an interval, I do not remember it here, but as it was between old friends there might have been some arrangement.  [Wells Gardiner](organizations/other_114.qmd) will not reprint [‘Forget me not’](cmy_books/cmybook_330.qmd).  I wonder whether I ought to try [SPCK](organizations/other_40.qmd), they took [Mary Bramston](people/person_198.qmd)’s FL [story](other_books/otherbook_771.qmd) last year -  I don’t think [Macmillan](people/person_942.qmd) would publish anything so small.  I fear all my little books will die away, he does not answer my letters.  [Mr How](people/person_722.qmd) is going to write some papers for the [Sunday Magazine](organizations/other_232.qmd), and wants to come tomorrow to talk to me about ‘Types of Womanhood’-  Mrs Oliphants [life of the Queen](other_books/otherbook_773.qmd) is just what she does so well full of character and appreciation.   But why does M E Coleridge publish [Non Sequitur](other_books/otherbook_772.qmd), I suppose it is contributions to some serial but it is all so short and scrappy and not particularly original or clever.  The ‘Gifts’ and the conversation with Fanny Kemble are the best of it, but those little bits about German places are really not worth having
+
+[Mary Morshead](people/person_28.qmd) begins lecturing on South Africa Missions in this room next week -  [Helen](people/person_1613.qmd) comes most likely on Tuesday, her [mother](people/person_1604.qmd) goes to the Vicarage.  [Miss Finlaison](people/person_512.qmd) is reduced to the Scottish Girl!  She made a muddle last half year, and when the English Governess turned out a failure – owing to a foolish over favorable testimonial, she did not get one to replace her but trusted to amateur work of a nice old pupil, who could not suffice. So [Cicely](people/person_183.qmd) and [Margaret](people/person_185.qmd) got neglected and they are obliged to get a governess for them.  It is partly that she could not find the means for a governess without more expense than she could afford but I think she ought to have given up her own time, and she would have kept them. I am sorry, but she hopes for Paying Guests.
+
+One of the boys brought Rolt a handsome bat, which flies about the house and eats raw meat.  The Technical Education are giving lectures on cutting out and dressmaking to which all womankind resort
+
+your most affectionate
+C M Yonge

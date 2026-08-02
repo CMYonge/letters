@@ -1,0 +1,50 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1860-07-05"
+letter_date: "July 5th 1860"
+location: "Otterbourne,Winchester."
+manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 107, Box 1"
+post_id: 1796
+letter_id: "to-john-william-parker-jr-12"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-07-05"
+  url: "https://cmyonge.github.io/letters/1796-to-john-william-parker-jr-12"
+---
+
+::: {.letter-metadata}
+**Date:** July 5th 1860  
+**From:** Otterbourne,Winchester.  
+**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 107, Box 1
+:::
+
+My dear [Sir](people/person_1143.qmd),
+
+I am obliged for your letter received this morning, and will decide on bringing out <u>[Hopes and Fears](cmy_books/cmybook_37.qmd)</u> as soon as possible.[^1] I will send the chapters from the [Constitutional Press](organizations/other_65.qmd) to be reprinted as soon as I have looked over them. I think that the first edition should certainly be in two volumes uniform with the others, but after the experience of [Dynevor Terrace](cmy_books/cmybook_27.qmd),[^2] I am not inclined to make the number of copies more than 3000 at the most.
+
+Sheets should be sent to [Mr Layton](people/person_852.qmd), Messrs [Appleton](organizations/other_142.qmd)’s agent.[^3] I had made arrangements with him before, but a periodical by some other firm has been bringing the story out, without any permission from me, and I rather rejoice in its being disappointed.
+
+I will send the chapters early next week
+
+Yours faithfully 
+
+C M Yonge
+
+---
+
+[^1]: Printed by David Bonnell Green,  'Two Popular Novelists of the ‘Fifties and Their Publisher: Letters from G. J. Whyte Melville and Charlotte M. Yonge to John William Parker, Jr.' *Notes & Queries*. 10:450-454. 1963.
+[^2]: It appeared later in 1860.
+[^3]: Published in 1857.
+[^4]: Charles Layton, agent of Daniel Appleton and Co. of New York. see *The George Eliot Letters*, ed. Gordon S. Haight (New Haven, 1954-56), III, 268, n. 4.

@@ -1,0 +1,45 @@
+---
+title: "To Edward Augustus Freeman"
+letter_iso_date: "1889-08-31"
+letter_date: "Aug 31st 1889"
+location: "Elderfield"
+manuscript: "MS John Rylands Library, Manchester, FA1/7/841"
+post_id: 2915
+letter_id: "to-edward-augustus-freeman-16"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edward Augustus Freeman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-08-31"
+  url: "https://cmyonge.github.io/letters/2915-to-edward-augustus-freeman-16"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 31st 1889  
+**From:** Elderfield  
+**Manuscript:** MS John Rylands Library, Manchester, FA1/7/841
+:::
+
+My dear [Mr Freeman](people/person_523.qmd),
+
+Thank you for the Report, which entertained us much. I have come to the conclusion that Reporters think anecdotes meant to give them repose I am sure I have seen them resting while a story was being told, and I have looked for it afterwards in vain, but I thought it was a peculiarity of our Winchester reporters![^1]
+
+It was a pity all Hannah’s parishes would not join! I see Tom Poole was keeping Sunday school just at the same time and with the same opposition, and considering his enthusiasm for the early Revolution and the delightful way in which his friends shocked his sober minded cousin about [Robespierre](people/person_2420.qmd) I think some wild reports about Hannah might be explained.[^2]  I wish I had known it in time
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Not identified.
+[^2]: CMY had been to stay with Freeman in Somerset to see the places where Hannah More had done good works, as depicted in CMY's *The Cunning Woman's Grandson*. Thomas Poole (1766-1837), the friend of S.T.Coleridge had also lived in the neighbourhood.  CMY had no doubt been reading Elizabeth Sandford, *Thomas Poole and His Friends*  (1888).

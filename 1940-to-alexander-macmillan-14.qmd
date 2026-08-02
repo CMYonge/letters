@@ -1,0 +1,50 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-02-26"
+letter_date: "Febry 26th 1864"
+location: "Elderfield Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 21-22"
+post_id: 1940
+letter_id: "to-alexander-macmillan-14"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-02-26"
+  url: "https://cmyonge.github.io/letters/1940-to-alexander-macmillan-14"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 26th 1864  
+**From:** Elderfield Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 21-22
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+I suppose [the Trial](cmy_books/cmybook_53.qmd) ought to be stereotyped that it may stand on the same footing with the other books. In all the former cases I have been at the whole expense of printing, paper, binding &c, and have thus had [all the profits](organizations/other_160.qmd), except the commission on the sales - I think the arrangement with regard to the Trial was that I was to receive £200 for 2,000 copies; I conclude therefore that the £68 would be separately my purchase of the stereotype plates - It makes a considerable diminution of the profits of the first edition, but it is certainly a necessary one and I agree to the arrangement.
+
+I am glad you decided against [illustrations](organizations/other_167.qmd) for the [Little Duke](cmy_books/cmybook_20.qmd). [Mrs Blackburn](people/person_159.qmd)’s were not very successful, though she had been so kind about them that I should hardly have liked to put out others by a different hand without first giving her the option. Those to the [Lances of Lynwood](cmy_books/cmybook_23.qmd) are much better, but she is never really at home without animals as her subject.
+
+I think I prefer [Golden Deeds](cmy_books/cmybook_51.qmd) to noble deeds, but that may be only because I have thought of the incidents by the former title, and besides it is a little more uncommon and vague - which last is a gain in a miscellaneous sort of collection, and gives a certain sense of freedom in gathering them. I have a delightful letter about them from [Mrs Macmillan](people/person_941.qmd) which I am going to answer at once.
+
+There are some grand incidents in the [Indian Mutiny](organizations/other_134.qmd) such as [Lieutenant Willoughby](people/person_1904.qmd)’s destruction of the powder at Delhi, Dr Hay remaining with the sick at Benares, and a young officer’s escape carrying a little girl of 3 years old.[^1] But I never saw them but in the Times, and I suppose the only chance of getting the sight of them again would be in some library when I am in London again.
+
+Yours faithfully
+C. M. Yonge		
+
+There are two chapters of the Trial still to come
+
+---
+
+[^1]: Black-edged paper.
+[^2]: All three incidents are included in *A Book of Golden Deeds*.

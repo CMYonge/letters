@@ -1,0 +1,42 @@
+---
+title: "To Miss Kirke"
+letter_iso_date: "1880-09-08"
+letter_date: "Sept 8th [?1880-1888]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2891
+letter_id: "to-miss-kirke"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Kirke"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-09-08"
+  url: "https://cmyonge.github.io/letters/2891-to-miss-kirke"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 8th [?1880-1888]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Kirke](people/person_2378.qmd)
+
+I send you my autograph and a few more that I happened to have by me, but I do not know if those that are only initials with [sic] be useful to you. CRC is [Christabel Rose Coleridge](people/person_329.qmd), author of [Lady Betty](other_books/otherbook_788.qmd), [Hugh Crighton’s Romance](other_books/otherbook_865.qmd)&c. F M P is [Frances Mary Peard](people/person_1160.qmd) author of a good many novels, M R is [Margaret Roberts](people/person_1244.qmd), author of [Mlle Mori](other_books/otherbook_270.qmd). [Louisa Molesworth](people/person_1028.qmd)(Mrs) has written a good many children’s books, [Constance Gordon Cumming](people/person_571.qmd)brilliant travels. The other letter is from [Lord Mount Temple](people/person_1059.qmd)to invite me to a sort of religious conference that is held at his house every year[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: William Francis Cowper-Temple, first Baron Mount Temple (1811-1888), was elevated to the peerage in 1880. MS UCLA, collection 100, box 119 is a collection of 14 autograph letters addressed to CMY  which include one written by William Cowper-Temple which answers the above description.  CMY’s use of the present tense, ‘is held’ suggests that he was still alive at the time she wrote.  However, the other letters are of various dates, the latest being 1893.  Anna Harriet Drury (1891), Isabella Bishop (1893). E. H. Knatchbull-Hugesson (later Lord Brabourne) (1870), W. Emery, Margaret Gatty, Katherine S. Macquoid, Robert Montgomery, William Cowper Temple, James Augustus Henry Murray, J.M. Neale, Baron Tauchnitz, Elizabeth Jane Oswald, Henrietta Stannard (‘John Strange Winter’) and Linda Villari.  No letters with initials are present.   A letter from Mary Louisa Molesworth to CMY (26 February 1886) is MS NLS 9752, and could also be one of the letters referred to here.

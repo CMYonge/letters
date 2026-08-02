@@ -1,0 +1,39 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-05-11"
+letter_date: "May 11th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 197-8"
+post_id: 2245
+letter_id: "to-alexander-macmillan-95"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-05-11"
+  url: "https://cmyonge.github.io/letters/2245-to-alexander-macmillan-95"
+---
+
+::: {.letter-metadata}
+**Date:** May 11th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 197-8
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+We are rather disturbed at the delay in printing the [Historical Selections](cmy_books/cmybook_71.qmd) as [Miss Sewell](people/person_1301.qmd) cannot do any corrections after the end of June, and as she has all the books and has looked out all the selections I could not supply her place.
+
+I suppose the [printers](organizations/other_173.qmd) are postponing it to something more interesting, but if they cannot go on at once and finish at the end of June it would be convenient to know it.
+
+Yours sincerely
+C M Yonge

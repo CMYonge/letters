@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1869-11-04"
+letter_date: "Novr 4th [1869?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2350
+letter_id: "to-the-reverend-john-frewen-moor-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-11-04"
+  url: "https://cmyonge.github.io/letters/2350-to-the-reverend-john-frewen-moor-8"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 4th [1869?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+This is what [Mrs Arnold](people/person_2055.qmd) says, and I should think the terms as fair as could be expected. She is not a very charming looking person, but her [husband](people/person_62.qmd) has been half over the world and will probably be entertaining --- I wish I could send this over to you today, but our man is laid up with a bad cold  --- Anything more you like me to do, I will most gladly. I suppose the Arnolds should meet [Frewen](people/person_2056.qmd) at the Bishopstoke station. I wish your report of [Mrs Moor](people/person_1044.qmd) were more comfortable[^1]
+
+Yours sincerely
+C M Yonge
+
+On second thoughts you may be glad to save a post, so I send this by a messenger ---  Tell me if I can be of [help] I wish I were not too beset with children and young maids to take Frewen in myself but I will send him some books -- to Linkhorn’s farm.
+
+---
+
+[^1]: Black-edged paper.
+[^2]: The problem seems to be to find accommodation nearby for Frewen Moor who is coming home from school and cannot come home because his mother is ill.

@@ -1,0 +1,37 @@
+---
+title: "To Margaret Bateson"
+letter_iso_date: "1892-09-08"
+letter_date: "Sept 8th 1892"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Women’s Library, London Metropolitan University,  7MHE/3/1"
+post_id: 7909
+letter_id: "to-margaret-bateson"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Bateson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-09-08"
+  url: "https://cmyonge.github.io/letters/7909-to-margaret-bateson"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 8th 1892  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Women’s Library, London Metropolitan University,  7MHE/3/1
+:::
+
+Dear [Madam](people/person_1895.qmd)
+I am much obliged for your letter. I will try to write the article you wish, but I should like to know how soon you would wish it to be sent in
+
+Yours truly
+C M Yonge

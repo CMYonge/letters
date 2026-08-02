@@ -1,0 +1,45 @@
+---
+title: "George Lillie Craik to Charlotte Mary Yonge"
+letter_iso_date: "1866-05-14"
+letter_date: "14 May 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (1) P. 48"
+post_id: 19551
+letter_id: "george-lillie-craik-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "George Lillie Craik to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-05-14"
+  url: "https://cmyonge.github.io/letters/19551-george-lillie-craik-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 14 May 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (1) P. 48
+:::
+
+Dear Madam,
+
+[I](people/person_379.qmd) have today paid to your credit with [Hoare &amp; Co](organizations/other_169.qmd) - £200 – as arranged for the [“Dove”](cmy_books/cmybook_62.qmd).
+
+[Mr Macmillan](people/person_939.qmd) has just left, and he asked me to say that a copy has been today sent to [Lt. Col. Hall](people/person_2429.qmd). I am glad to say that we have had a very good start
+
+Yours faithfully
+
+Geo Lillie [Craik](people/person_379.qmd)
+
+Miss Yonge
+
+&nbsp;
+
+&nbsp;

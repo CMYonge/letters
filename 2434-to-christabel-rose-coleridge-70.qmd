@@ -1,0 +1,49 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1872-01-01"
+letter_date: "Jan 1st [1872]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2434
+letter_id: "to-christabel-rose-coleridge-70"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-01-01"
+  url: "https://cmyonge.github.io/letters/2434-to-christabel-rose-coleridge-70"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 1st [1872]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+I did not mean to admit another [Gosling](organizations/other_104.qmd) but an old promise has come up to [Beatrice Morshead](people/person_31.qmd), [Bog Oak](people/person_28.qmd)’s sister, who like her abides at Wiverton Plympton.  She is a very nice girl but I don’t think will prove as brilliant as Bog Oak was.  Will you tell [Cherry](people/person_2276.qmd) to send her questions – if it be Cherry’s turn.  I have had none from her yet, and I can remember nothing about her but that she lives in Kent.  She has sent in a stupidish answer about the Ludicrous
+
+[Bluebell](people/person_317.qmd) has come home, but has not reunited herself to me so perhaps she goes out, - it would be a pity as she lives near Beatrice.
+
+I think [Good Words](organizations/other_73.qmd) has got into bondage to crack authors with made names, - I would get out of it if I were you.
+
+It is is such a indescribable feeling about that Martyrdom, between glory and pain, it has seemed never to be off ones mind all this month[[footnote:]]
+
+yours affectionately
+C M Yonge
+
+Please send Beatrice the list
+
+---
+
+**Note:** CMY refers to the murder of [Bishop Patteson](people/person_1155.qmd) in the Santa Cruz Islands.

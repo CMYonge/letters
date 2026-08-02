@@ -1,0 +1,12 @@
+---
+title: "Jean Froissart - Chroniques de France, d’Angleterre et des pais voisins"
+book_id: 219
+---
+
+## Publication Information
+
+**Date:** <i>c.</i>1400
+
+**Notes:** It is not known which edition CMY used.
+
+

@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1863-10-24"
+letter_date: "Oct 24th 1863"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Charlotte Mitchell"
+post_id: 1908
+letter_id: "to-an-unknown-man-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-10-24"
+  url: "https://cmyonge.github.io/letters/1908-to-an-unknown-man-7"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 24th 1863  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Sir,
+
+The [Revd Dr Littledale](people/person_885.qmd) has encouraged me to send you the book that I hope may arrive by the same mail as this letter, namely the [History of Christian names](cmy_books/cmybook_48.qmd), in the hope that you will kindly point out and correct the errors in the portion upon Cymric names, which I know are done with much greater disadvantages than those which have been elucidated by more modern authorities than I could obtain for the Welsh. It was a very presumptuous work to undertake at all, but I found that the subject was so entirely [neglected][^1] by English writers th[at I] could gain no sufficient light on it, and put forth the book at last hoping that when I had classified the subject, further assistance in correcting it might come into me from the kindness of scholars in the various branches referred to.  If you are kind enough to bestow any such corrections upon me, I shall be extremely grateful
+
+your faithful servant
+
+C M Yonge
+
+---
+
+[^1]: Pasted into a handsomely bound copy of *The Dove in the Eagle’s Nest* 2 vols (London: Macmillan 1866), with the bookplate of St. Edward’s School, Oxford.
+[^2]: The corner of the letter is missing.

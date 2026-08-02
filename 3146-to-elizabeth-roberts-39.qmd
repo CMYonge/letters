@@ -1,0 +1,45 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1859-12-27"
+letter_date: "St John’s day [27 December] 1859"
+manuscript: "MS  Huntington Library"
+post_id: 3146
+letter_id: "to-elizabeth-roberts-39"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-12-27"
+  url: "https://cmyonge.github.io/letters/3146-to-elizabeth-roberts-39"
+---
+
+::: {.letter-metadata}
+**Date:** St John’s day [27 December] 1859  
+**Manuscript:** MS  Huntington Library
+:::
+
+My dear [Miss Roberts](people/person_1243.qmd),
+It is indeed a long time since we have had any communication, though I have been intending to write to you for more weeks past than I like to count - ever since I think, I sent [Lincoln Cathedral](other_books/otherbook_244.qmd)to be put in type! Then I put it off from day to day, meaning to send you the proof, but at last the article was put in without sufficient notice for me to be able to send you the proof to correct I shall soon have to send you the amount for it. I fancied that you had told me that you were acquainted with none of the Southern Cathedrals and Chichester has therefore been done by another hand, for which I am now sorry. St Paul’s also I have been offered by [Miss Goodrich](people/person_567.qmd), who did Canterbury, Salisbury I have half done myself, and there can be few more remaining to be described besides Exeter, which I ought to be able to describe, but I fear I cannot.[^1]
+
+I am indeed concerned to hear that you have had such a year of sorrow and trial - Such a sorrow too as makes one of the marked points of our life and removes one of the pillars of home to make home seem more nearly above than it often does while the home is complete on earth. I sometimes think that the single woman’s feeling for her father is the most complete of filial relations because there is the full power and maturity of mind and feeling together with the trust and dependance, that necessarily passes away in the grown up son and is otherwise directed in the married daughter.
+
+Six years do not seem to me to have made much difference in the missing and loss, above all when last autumn I went into Devonshire, [his](people/person_1631.qmd) own county, where every place was full of his delight in it.
+
+I hope soon to hear from you again, and that you will have something more to send me. The [Packet](organizations/other_52.qmd)is in a very prosperous state, and has gone on doing better and better almost ever since its first start. Some time ago we had some cards given us with coloured pictures of the flowers of each month that would have been just the way to bring out your [Garland](other_books/otherbook_225.qmd), but I suspect the Black Letter and other Saints would be alarming to the weak minds of many purchasers
+
+With all Christmas wishes yours sincerely
+C M Yonge
+
+---
+
+[^1]: ‘Christ Church of Canterbury, the Mother Cathedral of England’ *MP* 17 (February 1859), 172-187 is signed A. M. G., which initials are those of a regular contributor. She was almost certainly the ‘Miss A. M. Goderich’ to whom there are several payments from CMY’s account, and the author of anonymous fiction which the *British Library Catalogue* attributes to A. M. Goodrich.

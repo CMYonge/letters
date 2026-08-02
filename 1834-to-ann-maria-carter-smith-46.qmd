@@ -1,0 +1,41 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1861-06-26"
+letter_date: "June 26th 1861"
+location: "Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1861/9."
+post_id: 1834
+letter_id: "to-ann-maria-carter-smith-46"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-06-26"
+  url: "https://cmyonge.github.io/letters/1834-to-ann-maria-carter-smith-46"
+---
+
+::: {.letter-metadata}
+**Date:** June 26th 1861  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/9.
+:::
+
+My dear [Miss Smith](people/person_263.qmd),
+
+I send you an [order](organizations/other_102.qmd) for the chapters of [the Thorne](other_books/otherbook_275.qmd) that have appeared- also another to correct. I think people like it much - your neighbour [Miss Wilford](people/person_1520.qmd) was talking about it yesterday she is staying with [her aunt](people/person_384.qmd) at [St Cross](organizations/other_130.qmd), and I am always much tempted to betray you
+
+yours sincerely
+
+C M Yonge
+
+The Order is payable to Ann Smith - more names always cause blunders

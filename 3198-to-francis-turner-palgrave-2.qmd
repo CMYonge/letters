@@ -1,0 +1,44 @@
+---
+title: "To Francis Turner Palgrave"
+letter_iso_date: "1892-06-11"
+letter_date: "June 11th 1892"
+location: "Elderfield Otterbourne"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3198
+letter_id: "to-francis-turner-palgrave-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Francis Turner Palgrave"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-06-11"
+  url: "https://cmyonge.github.io/letters/3198-to-francis-turner-palgrave-2"
+---
+
+::: {.letter-metadata}
+**Date:** June 11th 1892  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear Mr Palgrave
+Thank you much for the little book—I am very glad of the testimony to its popularity.[^1]
+
+I suppose your change was in doubt whether the Bothwell affair was Anteros, as no lover at all; and that on that subject you have changed your mind. I think I incline to the belief that the Casket letters were old ones to Darnley garbled for Elizabeth’s benefit. Have you seen the fragment at Hatfield?
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: We have not identified the book, nor the place in which Palgrave had written about the Casket Letters of Mary Queen of Scots.

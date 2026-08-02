@@ -1,0 +1,42 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-10-14"
+letter_date: "Oct 14th [1852]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 3001
+letter_id: "to-elizabeth-roberts-21"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-10-14"
+  url: "https://cmyonge.github.io/letters/3001-to-elizabeth-roberts-21"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 14th [1852]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+Dear [Madam](people/person_1243.qmd),
+It was Edward I who made the law for planting yew trees in Church yards, at least so I was told by a gentleman who never makes mistakes, and is deeply read in history.[^1] I have looked in vain in [Evelyn’s silva](other_books/otherbook_61.qmd) and [Loudon’s arboretum](other_books/otherbook_109.qmd), but I think his information to be trusted. He says it had been done long before, but it was only in Edwd I’s reign that it became the subject of a statute. We have a Ch yard yew near us of very great age, and cut exactly into the shape of a mushroom. I have ventured to erase your ‘alas!’ to St Leonard, for a happy death hardly seems to me a subject for that interjection. I also took out the direct reference to [Dr Newman](people/person_1084.qmd)’s Sermons. I like the beautiful quotation of that very fine sermon but I had rather not acknowledge it.[^2] They have made some strange misprints in the botanical names, but I have not the right ones at hand, and so have left them for you. Your November verses are much too pretty to spare any of them, I will take care they come in at any rate in this next number. I am sorry we are so near the end of the [Garland](other_books/otherbook_225.qmd). I have enjoyed it so much on my own account, but I must look forward to [Margaret and her mother](other_books/otherbook_234.qmd). I conclude that you are at Helmington again and direct there
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The statute ‘Ne Rector prosternat arbores in Caemeterio’ is said to have been passed in 1307.
+[^2]: This was because Newman had become a Roman Catholic and *[MP](organizations/other_52.qmd)* did not want the reputation of encouraging conversion.

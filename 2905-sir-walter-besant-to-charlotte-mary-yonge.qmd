@@ -1,0 +1,38 @@
+---
+title: "Walter Besant to Charlotte Mary Yonge"
+letter_iso_date: "1889-04-08"
+letter_date: "April. 8. 1889."
+location: "Incoporated [Society of Authors](organizations/other_44.qmd), 4, Portugal Street, Lincoln’s Inn Fields, W. C."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin."
+post_id: 2905
+letter_id: "sir-walter-besant-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Walter Besant to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-04-08"
+  url: "https://cmyonge.github.io/letters/2905-sir-walter-besant-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** April. 8. 1889.  
+**From:** Incoporated [Society of Authors](organizations/other_44.qmd), 4, Portugal Street, Lincoln’s Inn Fields, W. C.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin.
+:::
+
+My dear Miss Yonge
+
+Will you kindly read the enclosed and if you approve of the petition will you kindly sign it and send it back to me here?
+
+very truly yours
+[Walter Besant](people/person_1652.qmd)

@@ -1,0 +1,43 @@
+---
+title: "To Euphemia Emily Georgiana Bussell"
+letter_iso_date: "1883-03-20"
+letter_date: "March 20th [1883?]"
+location: "Elderfield"
+manuscript: "MS Miss Sarah Jardine-Willoughby"
+post_id: 2770
+letter_id: "to-euphemia-e-g-bussell"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Euphemia Emily Georgiana Bussell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-03-20"
+  url: "https://cmyonge.github.io/letters/2770-to-euphemia-e-g-bussell"
+---
+
+::: {.letter-metadata}
+**Date:** March 20th [1883?]  
+**From:** Elderfield  
+**Manuscript:** MS Miss Sarah Jardine-Willoughby
+:::
+
+My dear [Miss Bussell](people/person_232.qmd)
+
+Many thanks for your [portrait](other_books/otherbook_958.qmd) which I like very much, & will try to put in.[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: A card with rounded corners, of the same type as
+[^2]: Euphemia Bussell, ‘A Brief Memoir of the late Mrs Anne Elinor Prevost’ *MP* (April 1883) 380-4.

@@ -1,0 +1,39 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1890-02-07"
+letter_date: "Feby 7th [1890]"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 16"
+post_id: 3153
+letter_id: "to-arthur-donald-innes-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-02-07"
+  url: "https://cmyonge.github.io/letters/3153-to-arthur-donald-innes-4"
+---
+
+::: {.letter-metadata}
+**Date:** Feby 7th [1890]  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 16
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+I shall be glad to have fresh editions of [Beginnings of Christian History](cmy_books/cmybook_119.qmd) and of the [Pigeon Pie](cmy_books/cmybook_34.qmd).
+
+My engineering [nephew](people/person_1630.qmd) has routed up an atlas of [Keith Johnstone](other_books/otherbook_628.qmd) of manageable size. If that does not prove sufficient I shall try [Cassell](organizations/other_216.qmd)
+
+Yours truly
+C M Yonge

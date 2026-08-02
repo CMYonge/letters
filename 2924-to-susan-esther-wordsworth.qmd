@@ -1,0 +1,42 @@
+---
+title: "To Susan Esther Wordsworth"
+letter_iso_date: "1887-01-29"
+letter_date: "Jan 29th [l887-1889]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2924
+letter_id: "to-susan-esther-wordsworth"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Susan Esther Wordsworth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-01-29"
+  url: "https://cmyonge.github.io/letters/2924-to-susan-esther-wordsworth"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 29th [l887-1889]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mrs Wordsworth](people/person_1569.qmd)
+I hope to come down to Salisbury by 2.24 on Tuesday, but as I owe an afternoon to the Moberlys, I will send on my goods and my maid to the Palace, and appear there myself at about 5 o’clock[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Dating from after the death of George Moberly in July 1885, and probably dating from before the death of his widow Mary Ann Moberly in February 1890.
+[^2]: Susan Esther (Coxe) Wordsworth (d. 1894) was the first wife of the Right Rev. John Wordsworth (1843-1911), who succeeded George Moberly as Bishop of Salisbury in 1885.

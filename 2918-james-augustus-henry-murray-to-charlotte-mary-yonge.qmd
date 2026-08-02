@@ -1,0 +1,42 @@
+---
+title: "James Augustus Henry Murray to Charlotte Mary Yonge"
+letter_iso_date: "1889-09-20"
+letter_date: "20 Sept. 1889"
+location: "From <u>Dr. MURRAY</u>, (Sunnyside, Banbury Road,) <u>OXFORD</u>,"
+manuscript: "MS UCLA collection 100 box 119/9"
+post_id: 2918
+letter_id: "james-augustus-henry-murray-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "James Augustus Henry Murray to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-09-20"
+  url: "https://cmyonge.github.io/letters/2918-james-augustus-henry-murray-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 20 Sept. 1889  
+**From:** From <u>Dr. MURRAY</u>, (Sunnyside, Banbury Road,) <u>OXFORD</u>,  
+**Manuscript:** MS UCLA collection 100 box 119/9
+:::
+
+Dear Miss Yonge,
+
+<u>[New Eng. Dictionary](other_books/otherbook_1091.qmd)</u>
+
+Mr. [Fitzedward Hall](people/person_2388.qmd) has given me a reference for <u>Clidders</u> to <u>[Heir of Redclyffe](cmy_books/cmybook_15.qmd)</u> ch. vii., which we cannot find. Would it be possible for you to send me the quotation & with the proper reference? Literary quotations for the word are not very easily got.
+
+We know your hand well in the [earlier Dictionary material](organizations/other_151.qmd), though it has not been my fortune to see it often in later times.
+
+Yours very truly,
+[J.A.H. Murray](people/person_1074.qmd)

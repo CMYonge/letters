@@ -1,0 +1,41 @@
+---
+title: "To Isabella Lucy Wilcox?"
+letter_iso_date: "1893-03-25"
+letter_date: "March 25th [1893]"
+location: "Elderfield  Otterbourne  Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3217
+letter_id: "to-miss-wilcox"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabella Lucy Wilcox?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-03-25"
+  url: "https://cmyonge.github.io/letters/3217-to-miss-wilcox"
+---
+
+::: {.letter-metadata}
+**Date:** March 25th [1893]  
+**From:** Elderfield  Otterbourne  Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Wilcox](people/person_2120.qmd)[^1]
+Fisher Unwin has sent me this letter asking me to forward it, and as you are the only person I know likely to be able to do so, I send it on to you, taking the opportunity at the same time of returning your book which has been most useful to me, I kept it so long because I found I had to lengthen out [Grisly Grisell](cmy_books/cmybook_228.qmd) and I wanted to refer to it
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The recipient of this letter was evidently a member of the Wilcox family of Whitburn, cousins of Lewis Carroll, whom CMY had met through her friendship with the Collinson and Harrison families.  *Grisly Grisell* is set in Whitburn, and the book was probably a local history.  [Margaret Wilcox](people/person_1517.qmd) was dead, and this letter was perhaps addressed to her younger sister Isabella, who was still living in Whitburn at the time of the 1891 census.

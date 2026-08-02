@@ -1,0 +1,45 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1883-01-23"
+letter_date: "Jany 23d 1883"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 121-2:"
+post_id: 2768
+letter_id: "to-george-lillie-craik-57"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-01-01"
+  url: "https://cmyonge.github.io/letters/2768-to-george-lillie-craik-57"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 23d 1883  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 121-2:
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Many thanks for the [payment](organizations/other_160.qmd). The knowledge that the amount for [Unknown to History](cmy_books/cmybook_157.qmd) is coming is quite sufficient for me at present.  I have been kept waiting about the [Christian Names](cmy_books/cmybook_48.qmd) by [Mr H Jenner](people/person_760.qmd) of the British Museum who promised to set me right about the Keltic mythology but I suspect has forgotten all about it.[^1] I am desiring him to let me have it again, and let me do my best with it. I think it is compressible into a volume. I took out an immense quantity of the First.
+
+[Clark](organizations/other_251.qmd) made no sign though no doubt there was a stamp with his name. I was surprised at the uniform obliteration of my capitals which I thought I had taught [Clay](organizations/other_173.qmd) to observe. I observe printers have an inveterate hatred to capitals, even when they have only to copy type. I suppose it gives them more trouble - or they lay snares for corrections[^2]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The Cornish scholar Henry Jenner (1848-1934), was an assistant in the MS department of the British Museum, the son of Bishop Jenner and the nephew of Marion Finlaison.
+[^2]: CMY waged constant war with printers.  R & R. Clark of Edinburgh, and not Richard Clay and Sons, were the printers of the first edition of *Stray Pearls*;  evidently CMY had not observed this in correcting the proofs.

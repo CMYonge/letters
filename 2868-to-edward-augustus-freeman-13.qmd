@@ -1,0 +1,49 @@
+---
+title: "To Edward Augustus Freeman"
+letter_iso_date: "1887-10-29"
+letter_date: "Oct 29th 1887"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS John Rylands Library, Manchester, FA1/7/838"
+post_id: 2868
+letter_id: "to-edward-augustus-freeman-13"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edward Augustus Freeman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-10-29"
+  url: "https://cmyonge.github.io/letters/2868-to-edward-augustus-freeman-13"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 29th 1887  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS John Rylands Library, Manchester, FA1/7/838
+:::
+
+My dear [Dr Freeman](people/person_523.qmd),
+
+How very kind in you, and as you say what a pity I did not know of it in time The history of the thing is this [one of the sons](people/person_653.qmd) of my very old friend, Sir [William Heathcote](people/person_669.qmd) is in [Allens firm](organizations/other_256.qmd) - He asked me to write one of their eminent women series and as I know [Roberts’s history](other_books/otherbook_1036.qmd) as one knows the Sunday books of one’s youth, I took [H More](cmy_books/cmybook_199.qmd), helped out by her works and the [Mendip annals of Patty’s journals](other_books/otherbook_1019.qmd) - and got what help I could from [Tyntesfield](organizations/other_207.qmd), the ‘Bleeding Rock’ is in the grounds there, and Nailsea in sight from the windows.[^1] I found Roberts had arranged the letters wrongly, by comparison with Patty’s journal- [Wilberforce’s life](other_books/otherbook_1037.qmd) and public events -Now the book has been in the printers’ hands about six months. I have only had one sheet in proof for they only print these books when they have nothing else to do - And there is [a sharp Editor](people/person_743.qmd), who evidently did not like the touches of improvement I put in.[^2] So I am afraid that besides 'mon <u>liège est ecrit</u> ['] I could not even alter or add much.
+
+But I promised to write for the [National society](organizations/other_32.qmd) which is dealing in a superior kind of tales for reward books, [a story](cmy_books/cmybook_203.qmd) taking Hannah’s work from the scholar’s point of view, making a hero of some youth interfering with the fighting & throwing constables down coal pits-<sup>3</sup>
+
+I should be very glad to pick up some information and scenery useful in that line, but I can’t begin till next year, and if I can avail myself of your help in that way, I shall be very grateful. I was at Oxford in April, but I do not think you were there then- Was Somerleaze one of Hannah’s villages? Or did they pelt her out
+
+Yours very sincerely
+C M Yonge
+
+My kind regards to all your party
+
+---
+
+[^1]: The tone of CMY's next letter to [John Henry Ingram](people/person_743.qmd), editor of the 'Eminent Women' series, is uncharacteristically sharp.
+[^2]: The books by CMY referred to here as inspired by the story of Hannah More are respectively *Hannah More* (1888) and *The Cunning Woman's Grandson* (1889).

@@ -1,0 +1,38 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1868-07-18"
+letter_date: "[July 1868]"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1867/ 3"
+post_id: 2262
+letter_id: "to-ann-maria-carter-smith-78"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-07-01"
+  url: "https://cmyonge.github.io/letters/2262-to-ann-maria-carter-smith-78"
+---
+
+::: {.letter-metadata}
+**Date:** [July 1868]  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1867/ 3
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+Thanks for the [Exhibition](other_books/otherbook_531.qmd) - which is full of interest. I wish there was any chance of my seeing it. I like most of what you have said much, though I do not agree with your deprecation of [Dr Hook](people/person_709.qmd)’s character of Edward VI, for certainly his own journal does not bear out the praises bestowed on him, and it was rather forward to say the least of it in a mere boy to meddle with the convictions of learned men. Thanks much for the whole - it is pleasant reading-
+
+[*The rest of the letter is missing*]
+
+---
+
+**Note:** The paper has been cut about to remove the signature, address and date. A. Carter Smith’s article ‘National Portrait Gallery’ appeared in *MP* 1868 (2): 65. Walter Farquhar Hook wrote *The Three Reformations* (1847), *Lives of the Archbishops of Canterbury* (1862) and *A Church Dictionary* (1864, 9th ed.)

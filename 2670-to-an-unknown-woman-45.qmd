@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1879-05-03"
+letter_date: "May 3d 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin."
+post_id: 2670
+letter_id: "to-an-unknown-woman-45"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-05-01"
+  url: "https://cmyonge.github.io/letters/2670-to-an-unknown-woman-45"
+---
+
+::: {.letter-metadata}
+**Date:** May 3d 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin.
+:::
+
+Dear Madam
+
+[Aunt Judy’s Magazine](organizations/other_54.qmd) generally has a little play every Christmas. It might be worth while to offer yours
+
+Yours truly
+C M Yonge

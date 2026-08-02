@@ -1,0 +1,44 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1851-06-30"
+letter_date: "June 30, 1851"
+manuscript: "MS location unknown.  This  fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 68."
+post_id: 2975
+letter_id: "to-elizabeth-barnett-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1851-06-30"
+  url: "https://cmyonge.github.io/letters/2975-to-elizabeth-barnett-3"
+---
+
+::: {.letter-metadata}
+**Date:** June 30, 1851  
+**Manuscript:** MS location unknown.  This  fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 68.
+:::
+
+No. III. is in clover.[^1]  I have had something of some sort almost every day lately, and am not at all afraid of the 60 pages.
+
+ . . . [Sir Guy Morville](cmy_books/cmybook_15.qmd) considers himself much honoured by your invitation, and as much as there is or will be by that time of him shall attend you.  It will be a real kindness to take him out of my reach, for he is such pleasant work as to spoil me for more regular business, but there is such a quantity of him all uncondensed and untrimmed that I am afraid you will repent.  I hope you have not told [Mrs. Butler](people/person_240.qmd) the story beforehand, for I want much to know the sort of impression the story makes on a new person, and whether Philip is hated as much by those who know how he is to end.
+
+As for Guy, he is seeking his fortune in London, and I expect every day to hear of his fate, so I hope it may not be long before he comes forth to all the world.  He thanks you and Mrs. Butler for kindly inviting him.  I don't think it will be quite as much of a 'Bustle'[^2] book as erst, for the last critical reading decided that there was rather too much Bustle, and he has been a little curtailed.  
+
+I am glad Mrs. Butler does not feel like one of our neighbours, who complained that she never would have read the book if she had known what it was coming to.  I have had a great deal of pleasure out of it, I must say, and it has been very amusing to hear the different views that people have taken of Philip.
+
+Now about [Violet](cmy_books/cmybook_19.qmd).  She is much obliged and honoured by your invitation, but I wanted to tell you the state of the case.   . . .  She is in a very unfit state for being seen.  . . . My opinion is that she is in great danger of being long and stupid, and I am trying to condense her.
+
+---
+
+[^1]: Presumably the third issue of the *[Monthly Packet](organizations/other_52.qmd)*, although one would have expected the March issue to appear before June;  but however see Coleridge, *Life*, 165-66, 278, on the lax editorial methods of early days.
+[^2]: Bustle is Sir Guy Morville's dog in the novel.

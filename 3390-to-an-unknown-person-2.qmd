@@ -1,0 +1,35 @@
+---
+title: "To an Unknown Person"
+letter_iso_date: "1886-11-01"
+letter_date: "[after October 1886]"
+manuscript: "MS location unknown.  This fragment quoted in Mare and Percival, <i>[Victorian Best-seller](other_books/otherbook_598.qmd)</i>, 228."
+post_id: 3390
+letter_id: "to-an-unknown-person-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-10-01"
+  url: "https://cmyonge.github.io/letters/3390-to-an-unknown-person-2"
+---
+
+::: {.letter-metadata}
+**Date:** [after October 1886]  
+**Manuscript:** MS location unknown.  This fragment quoted in Mare and Percival, <i>[Victorian Best-seller](other_books/otherbook_598.qmd)</i>, 228.
+:::
+
+Have you heard the last variety of American Lion hunting – writing to ask for a bit of one’s dress to put into a literary quilt?  I actually had such a request, and while I was laughing at it I came on a book of [Miss Alcott](people/person_1649.qmd)’s where the dear Jo – after she had become a noted authoress – has the same entreaty made to her.
+
+---
+
+**Note:** In Jo's Boys, and How They Turned out. A Sequel to "Little Men." (English edition London: Low 1886), 63, a fan asks Jo Bhaer for ‘an old gown or a pair of stockings of yours to put in a rug she’s making’.

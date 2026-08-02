@@ -1,0 +1,47 @@
+---
+title: "To Margaret Wilcox"
+letter_iso_date: "1882-06-07"
+letter_date: "June 7th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2751
+letter_id: "to-margaret-wilcox"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Wilcox"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-06-07"
+  url: "https://cmyonge.github.io/letters/2751-to-margaret-wilcox"
+---
+
+::: {.letter-metadata}
+**Date:** June 7th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Margaret](people/person_1517.qmd)
+
+So many thanks for sending me [Miss Smedley](people/person_2346.qmd).[^1] I had a good deal of her in the [Readers](cmy_books/cmybook_150.qmd), but I shall borrow more now.[^2] I wish her verses had been more known but I think they will grow into part of the common stock of knowledge of poetry in our youth. I sincerely rejoice at [your brother](people/person_2348.qmd)’s appointment not only is it good for him, but what a load it takes from your shoulders which are used indeed to bearing family burthens.[^3] I filled in the address of your letter and I hope [Canon Bright’s poems](other_books/otherbook_525.qmd) arrived all right
+
+[Mrs Langton Clarke](people/person_301.qmd)’s death is a terrible blow[^4] There was something so bright and charming about her, which left a <u>long</u> impression though I have seen so little of her. I should think it must greatly dim the brightness of Whitburn for years to come though there will be every help that kindness can give, but poor [Mr Clarke](people/person_2347.qmd) with his weak health has so depended upon her that I cant [sic] think how he will every hold up his head
+
+Yours affectionately 
+C.M. Yonge
+
+---
+
+[^1]: Menella Bute Smedley, *Lays and Ballads from English History* (1850).
+[^2]: Between 1881 and 1888 CMY edited a series of history readers, *English History Reading Books* (1881-1883). At the time of this letter she was also working on another textbook for the National Society,  *Historical Ballads* (1882).
+[^3]: Of her several brothers the one most likely to be referred to here was the much younger Ernest Shepley Wilcox, who was a widowed civil engineer living with her and his children in the 1881 census, but had remarried by 1891.
+[^4]: Frances Mary Clarke (1835/6-1882), the wife of the Rev. James Langton Clarke (b.1833/4), curate of Whitburn, was born at Whitburn, and was perhaps related to CMY’s friends Thomas and Sophia (Collinson) Harrison, friends and neighbours of Margaret Wilcox.

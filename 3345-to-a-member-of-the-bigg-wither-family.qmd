@@ -1,0 +1,39 @@
+---
+title: "To a member of the Bigg-Wither family"
+letter_iso_date: "1897-04-28"
+letter_date: "April 28, 1897."
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd),  328."
+post_id: 3345
+letter_id: "to-a-member-of-the-bigg-wither-family"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To a member of the Bigg-Wither family"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-04-28"
+  url: "https://cmyonge.github.io/letters/3345-to-a-member-of-the-bigg-wither-family"
+---
+
+::: {.letter-metadata}
+**Date:** April 28, 1897.  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd),  328.
+:::
+
+. . . But I must tell you of something that has given me the greatest pleasure. About two years ago a lady belonging to the Mission at Calcutta wrote to me that a Hindu student had been so much impressed with the [*Pillars of the House*](cmy_books/cmybook_109.qmd) as to accept Christianity, and that he was going to be baptized. So I sent out one of those illuminated cards that are given at baptisms ([Henry Bowles](people/person_184.qmd) finding me one not adapted to a little baby, as most are!). By the time it arrived he had drawn back, though they were so good as not to disappoint me by telling me. But he has now come all right, and has been baptized.
+
+His friends have sent me this thankworthy letter of his, which I am sure you will like to read. Please return it. It makes one's heart glow. I am sending him out a photo of house and
+garden.
+
+Your very affectionate
+C. M. YONGE
+
+The oak-trees in Cranbury Park are surpassingly lovely in tints.

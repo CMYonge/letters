@@ -1,0 +1,45 @@
+---
+title: "To Henrietta Elizabeth Fursdon"
+letter_iso_date: "1863-03-12"
+letter_date: "March 12th 1863"
+location: "Otterbourne, Winchester."
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 1886
+letter_id: "to-henrietta-elizabeth-fursdon-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henrietta Elizabeth Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-03-12"
+  url: "https://cmyonge.github.io/letters/1886-to-henrietta-elizabeth-fursdon-8"
+---
+
+::: {.letter-metadata}
+**Date:** March 12th 1863  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Irene](people/person_538.qmd)
+
+Many thanks for your sister’s pretty little poem. I daresay it took great effect at your tea drinking. How much more beautiful [Aytoun](people/person_1875.qmd)’s is than [Tennyson](people/person_1874.qmd)’s and what a glorious day that was![^1] I could see the bridal train rush by on the LSW, and hear the guns fired at Southampton. [Our squire](people/person_282.qmd) gave beef and beer to each family at home, and there was a grand bonfire on the hill
+
+Thank you so much about the answers to the Sunday questions
+
+your affectionate
+
+Mother Goose
+
+---
+
+[^1]: The [Prince of Wales](people/person_1876.qmd) (later Edward VII) married Princess [Alexandra](people/person_1877.qmd) of Denmark on 10 March 1863 at St George's Chapel, Windsor. The Poet Laureate, Alfred Tennyson (1809-1892), had composed ‘A Welcome to Alexandra, March 7 1863’ beginning ‘Sea-king’s daughter from over the sea, Alexandra!’ and W.E.Aytoun (1813-1865) a ‘Nuptial Ode on the Marriage of his Royal Highness the Prince of Wales’  to celebrate the marriage.

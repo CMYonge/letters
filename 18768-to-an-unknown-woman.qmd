@@ -1,0 +1,39 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1878-01-05"
+letter_date: "Jany 5th [1878]"
+manuscript: "MS Special Collections, University of Virginia Library"
+post_id: 18768
+letter_id: "to-an-unknown-woman"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-01-05"
+  url: "https://cmyonge.github.io/letters/18768-to-an-unknown-woman"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 5th [1878]  
+**Manuscript:** MS Special Collections, University of Virginia Library
+:::
+
+Madam
+Your [Magician](other_books/otherbook_1105.qmd) is very amusing, and shall be inserted when there is room, which is I fear the scarcest commodity in the [Monthly Packet](organizations/other_52.qmd).  It is a capital story and I am only puzzled by the names not being given to the police and so explaining things[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The story, 'In the Fog, or, The Magician Hunt' *MP* (Christmas 1878), is about a clergyman's daughter who is accused of being a pickpocket; the police do not know her because she new to the locality, a detail which may have been changed. It is described as being by 'the author of \\"Marling Hall\\" and \\"William Hooper\\".'  The former story appeared in *London Society* in 1866, the latter has not been traced.  Another letter from CMY, evidently to the same person, also on *MP* writing paper, dated 10 September, was advertised for sale by David J. Holmes Autographs in November 2000.  The extract quoted ran 'The Last of the Heryngs[?] is very amusing, but I am afraid it is a little entrely made to fit its own purpose - which it does admirably for general publication.  St. Cadoc's Well is I hope soon to be printed among the Victoria Stories and will bring you 5 pounds.  I was in hopes that the Magician Hunt would have shared the same fate, but . .  Messrs. [Warne](people/person_1433.qmd), saying that as the tales were all to be of a moral tendency the name would not suit, and so they substituted another story!'

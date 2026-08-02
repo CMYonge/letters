@@ -1,0 +1,42 @@
+---
+title: "To Isabella Sophia Wynyard"
+letter_iso_date: "1882-09-05"
+letter_date: "Sept 5th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell /8"
+post_id: 2757
+letter_id: "to-isabella-sophia-wynyard"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Isabella Sophia Wynyard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-09-05"
+  url: "https://cmyonge.github.io/letters/2757-to-isabella-sophia-wynyard"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 5th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell /8
+:::
+
+My dear [Mrs Wynyard](people/person_1575.qmd)[^1]
+
+I am sorry to say I cannot accept your kind invitation as I am going from home on Monday for four or five days. I did not come home last night till too late for the post, so that I could not answer sooner
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: A neighbour, the wife of a retired Bengal Civil Servant.

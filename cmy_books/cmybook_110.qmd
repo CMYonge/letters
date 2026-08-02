@@ -1,0 +1,17 @@
+---
+title: "Lady Hester, or, Ursula’s Narrative."
+book_id: 110
+sort_title: "Lady Hester, or, Ursula’s Narrative"
+---
+
+## Publication Information
+
+**Date:** 1874
+
+**Genre:** Fiction (modern)
+
+**Publisher:** London and New York: Macmillan and Company.
+
+**Notes:** The Tauchnitz edition of this book (Leipzig 1874) also includes <i>The Mouth of the Leamy</i>.
+
+

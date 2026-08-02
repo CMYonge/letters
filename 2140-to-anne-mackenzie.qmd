@@ -1,0 +1,39 @@
+---
+title: "To Anne Mackenzie"
+letter_iso_date: "1866-12-06"
+letter_date: "Dec 6th [1866]"
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2140
+letter_id: "to-anne-mackenzie"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Mackenzie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-12-06"
+  url: "https://cmyonge.github.io/letters/2140-to-anne-mackenzie"
+---
+
+::: {.letter-metadata}
+**Date:** Dec 6th [1866]  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Anne](people/person_930.qmd)
+[Mrs Keble](people/person_797.qmd) has just returned me this, it had no end to it and I hope it ought not. How very interesting it is and how heart stirring [Miss Arthur](people/person_65.qmd)’s letter, which I am sending to Mrs T Keble.[^1] Our [Nets](organizations/other_94.qmd) are not come yet. I forgot to tell you of Miss Parkes’ [Vignettes](other_books/otherbook_476.qmd) to order. I think you would find much to interest you
+
+Your most affectionate
+C M Yonge
+
+---
+
+[^1]: The enclosure was no doubt some comment on the recent death of [John Keble](people/person_798.qmd) and his wife, about which CMY had been corresponding with his sister-in-law Elizabeth Jane Keble (Mrs Thomas Keble).  Anne Mackenzie edited a missionary magazine called *The Net*, and Mary Arthur, a missionary in South Africa, was probably one of her correspondents.

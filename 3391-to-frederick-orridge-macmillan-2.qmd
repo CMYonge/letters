@@ -1,0 +1,52 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1899-00-00"
+letter_date: "1899"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 254"
+post_id: 3391
+letter_id: "to-frederick-orridge-macmillan-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-01-01"
+  url: "https://cmyonge.github.io/letters/3391-to-frederick-orridge-macmillan-2"
+---
+
+::: {.letter-metadata}
+**Date:** 1899  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 254
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I have been looking for [Innes](people/person_744.qmd)’s accounts, (I send the agreement drawn up with him and Tanner in /93.) but there is no mention of the [Castle builders](cmy_books/cmybook_18.qmd) in it[^1] nor in any of the subsequent accounts, which go to /96. I cannot find a later one, though I should have thought there would have been one in /97.
+
+I think the book must  have been out of print when he took the business over from [Walter Smith](people/person_1344.qmd). I know there has been a recent reprint, within the last 3 or 4 years, but I see no trace of [payment](organizations/other_102.qmd) for royalty in /96. The book was a very early one republished by [Mozley](organizations/other_108.qmd) after appearing in the [Monthly Packet](organizations/other_52.qmd), and must have been handed on through Smith nor do I believe that Innes sent me any agreement before the reprint, but I cannot speak with certainty, nor tell the date, as I have not the book so you had better act as may be best. Can Innes shew that he paid me Royalty or (within the last years) was it absorbed in other accounts?
+
+I have little books in wrappers sold well at first, but afterwards did not succeed, being undersold by [SPCK](organizations/other_40.qmd) but I have been asked several times lately for <u>[Questions</u> on the Catechism](cmy_books/cmybook_253.qmd)[^2]
+
+[Countess Kate](cmy_books/cmybook_44.qmd) and [the Stokesley Secret](cmy_books/cmybook_41.qmd)  join into the [Daisy Chain](cmy_books/cmybook_24.qmd) series and <u>might</u> have a sale.
+
+[Beginnings of Church History](cmy_books/cmybook_119.qmd) and [Talks about Laws](cmy_books/cmybook_160.qmd) are perhaps superseded and [Kings of England](cmy_books/cmybook_6.qmd) is already obsolete for schools
+
+[Womankind](people/person_115.qmd) has been so far recommended by the [Mother’s Union](organizations/other_31.qmd) that there ought not to be so many on hand, but perhaps it is behind the times
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: It is in BL Add MSS 54921: 198-204.
+[^2]: Her articles under this title were published in the *Monthly Paper of Sunday Teaching* and published anonymously by Mozley in 1869.

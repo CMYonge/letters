@@ -1,0 +1,45 @@
+---
+title: "To Mary Elizabeth Webster"
+letter_iso_date: "1887-03-07"
+letter_date: "March 7th [1887]"
+location: "Elderfield"
+manuscript: "MS Liverpool University Library, Hope Autograph Collection: 85"
+post_id: 3606
+letter_id: "to-mary-elizabeth-webster"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Elizabeth Webster"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-03-07"
+  url: "https://cmyonge.github.io/letters/3606-to-mary-elizabeth-webster"
+---
+
+::: {.letter-metadata}
+**Date:** March 7th [1887]  
+**From:** Elderfield  
+**Manuscript:** MS Liverpool University Library, Hope Autograph Collection: 85
+:::
+
+My dear [Miss Webster](people/person_1.qmd)
+
+I will try [to bring the paper in](organizations/other_52.qmd) when I can upon the Mission Parcel society, which no doubt is very useful.[^1]  As to time I can only undertake to tell you when I am actually seeing it safe in type - for I am never certain of the space, as Debatable Ground, and the criticisms come in at the last moment and are of varying lengths, so that the shorter articles and appeals, or poems often get squeezed out at the last moment after I have reckoned on them.
+
+I will take care however that your July paper goes in.
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: ‘Debatable Ground’ was a series in *MP* which ran May 1886-January 1894.
+[^2]: In the MP 'Notices to Correspondents' (October 1887) a letter appeared beginning: ‘Sir, Will you kindly give me space for a few words, asking those of your readers who are willing to do something for our missionaries, to post regularly one or more of their newspapers or magazines when read . ..', signed Mary E. Webster, Ripple Lodge, Malvern Link.  It is not easy to see any article in the July 1887 issue which can possibly be her work.

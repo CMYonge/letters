@@ -1,0 +1,44 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1856-04-02"
+letter_date: "April 2nd [1856]"
+location: "Otterbourn"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1856/1"
+post_id: 3081
+letter_id: "to-ann-maria-carter-smith-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1856-04-02"
+  url: "https://cmyonge.github.io/letters/3081-to-ann-maria-carter-smith-4"
+---
+
+::: {.letter-metadata}
+**Date:** April 2nd [1856]  
+**From:** Otterbourn  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/1
+:::
+
+[Madam](people/person_263.qmd),
+I delayed to thank you for [your M S](other_books/otherbook_253.qmd), till I had had time to read it.  It is a very well told story, and I shall have great pleasure in inserting it in an early number of the ensuing volume, either in July or August.  The only criticism I should make, is that the boys are rather too old, even at that date, for a schoolroom tea, especially Johnnie, if he had already been to Otaheite.
+
+Allow me to add that [Lucy and Christian](other_books/otherbook_31.qmd) have been universally liked, and I have been many times asked whether there were any foundation of truth for the story[^1]
+
+With many thanks
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: *Lucy and Christian Wainwright*, a story by Ann Carter Smith which appeared in *MP* 11 (February 1856) 111-37, and was subsequently published in *Lucy and Christian Wainwright and Other Tales* (1863).  The manuscript referred to is presumably that of *Thorns and Roses in a Homely Life*, published in *MP* 12 (December 1856), 414-64.

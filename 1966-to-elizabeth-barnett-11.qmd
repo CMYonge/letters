@@ -1,0 +1,39 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1864-06-00"
+letter_date: "[Summer 1864]"
+manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 102"
+post_id: 1966
+letter_id: "to-elizabeth-barnett-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-01-01"
+  url: "https://cmyonge.github.io/letters/1966-to-elizabeth-barnett-11"
+---
+
+::: {.letter-metadata}
+**Date:** [Summer 1864]  
+**Manuscript:** MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 102
+:::
+
+I have been entreated to send Dr. May to cure her [Ermine], but I think that would be past even his capacities!
+
+There is no heart
+
+breaking about him [the Colonel]; with Rachel, she had made up her mind to immolate her affections at the shrine of her asylum before she found out that she was in no danger. Now I believe in her.
+
+---
+
+**Note:** The request for plot changes to *The Clever Woman of the Family* suggests that the letter was written while it was being serialised. The serialisation took 17 months, and the incidents referred to come in the first third of the book. From *The Daisy Chain*. Romanes’s parentheses.

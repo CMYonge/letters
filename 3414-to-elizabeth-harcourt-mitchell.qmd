@@ -1,0 +1,44 @@
+---
+title: "To Elizabeth Harcourt Mitchell"
+letter_iso_date: "1899-07-31"
+letter_date: "July 31, 1899."
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 330"
+post_id: 3414
+letter_id: "to-elizabeth-harcourt-mitchell"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Harcourt Mitchell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-07-31"
+  url: "https://cmyonge.github.io/letters/3414-to-elizabeth-harcourt-mitchell"
+---
+
+::: {.letter-metadata}
+**Date:** July 31, 1899.  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 330
+:::
+
+My dear [Mrs. Mitchell](people/person_1007.qmd)
+Thank you for your [conversation](other_books/otherbook_596.qmd).[^1] It reminds me of what I tried to impress on some of the promoters of [Lady Margaret Hall](organizations/other_6.qmd), that the Old Colleges began with training for the church the first object, and the secular work a sort of appendage, the Christian training running through. And I tried to shadow it out in that drawing of Geraldine's in the *[Pillars of the House](cmy_books/cmybook_109.qmd)*, of the Christian School of Athens. If you happen to have the book you will see the ideal.
+
+I think the Talbots would have been glad to have such a college[^2], but times are too strong, and [Elizabeth Wordsworth](people/person_1566.qmd) and [Anne Moberly](people/person_1024.qmd) at [St. Hugh's](organizations/other_14.qmd) do make their colleges in many respects training for the Church.
+
+Yours sincerely
+C. M. Yonge
+
+---
+
+[^1]: ‘Education and Manners: A Trialogue’ *Mothers in Council* 9 (October 1899) 193-202, which describes an imaginary college for women in which ‘study [is] made subservient to religion, instead of religion being made subservient to study’.  The debate was continued in the following year.
+[^2]: [Edward Stuart Talbot](people/person_1691.qmd) and his wife [Lavinia](people/person_2082.qmd) were prominent campaigners for women's education.

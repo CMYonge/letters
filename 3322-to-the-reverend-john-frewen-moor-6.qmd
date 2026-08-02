@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1896-04-13"
+letter_date: "April 13th 1896"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 3322
+letter_id: "to-the-reverend-john-frewen-moor-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-04-13"
+  url: "https://cmyonge.github.io/letters/3322-to-the-reverend-john-frewen-moor-6"
+---
+
+::: {.letter-metadata}
+**Date:** April 13th 1896  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+Mr Reynolds has just been here about [Annie Norgate](people/person_917.qmd).[^1] I shall be most thankful to you for helping her, and shall gladly join in the £10.10 subscription for her
+
+Yours sincerely
+C M Yonge
+
+Mr Davies writes to[^2]
+
+---
+
+[^1]: Anne Norgate (1876-1896), was blind.  Her death was registered in the last quarter of 1896.
+[^2]: The letter breaks off thus.

@@ -1,0 +1,40 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1854-02-26"
+letter_date: "February 26, 1854."
+location: "[Otterbourne]"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 195."
+post_id: 3030
+letter_id: "to-mary-anne-dyson-18"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-26"
+  url: "https://cmyonge.github.io/letters/3030-to-mary-anne-dyson-18"
+---
+
+::: {.letter-metadata}
+**Date:** February 26, 1854.  
+**From:** [Otterbourne]  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 195.
+:::
+
+My trouble has come; he had a second attack and died at six to-night.
+
+[Mamma](people/person_1606.qmd) is too like [Amy](cmy_books/cmybook_15.qmd), excited with thankfulness. I dread what it will be; I don't think we half believe it yet.
+
+You will write to me; perhaps I may write to-morrow, but I can't tell. We have [Mr](people/person_798.qmd). and [Mrs. Keble](people/person_795.qmd) helping us to-night. Oh what will the waking be! So many of our Psalm superstitions have come true.
+
+Your most affectionate 
+C. M. Y.

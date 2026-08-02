@@ -1,0 +1,39 @@
+---
+title: "To the Commissioners of Customs and Excise?"
+letter_iso_date: "1880-09-30"
+letter_date: "Sept 30th 1880"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection: C0171: Box 29"
+post_id: 2712
+letter_id: "to-the-commissioners-of-customs-and-excise"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Commissioners of Customs and Excise?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-09-30"
+  url: "https://cmyonge.github.io/letters/2712-to-the-commissioners-of-customs-and-excise"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 30th 1880  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection: C0171: Box 29
+:::
+
+I hearby authorize the importation of a copy of my work [Byewords](cmy_books/cmybook_135.qmd) printed by [Baron Tauchnitz](people/person_1396.qmd)[^1]
+
+C M Yonge
+
+---
+
+[^1]: The Leipzig publisher Tauchnitz had an 'English Authors' series of small format reprints of English books which circulated cheaply on the Continent in paper covers, but copyright law was supposed to prevent travellers bringing them back to England.

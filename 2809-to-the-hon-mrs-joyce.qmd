@@ -1,0 +1,47 @@
+---
+title: "To the Hon. Mrs Joyce"
+letter_iso_date: "1885-05-10"
+letter_date: "May 10th [1885]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Birmingham University Library"
+post_id: 2809
+letter_id: "to-the-hon-mrs-joyce"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Mrs Joyce"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-05-10"
+  url: "https://cmyonge.github.io/letters/2809-to-the-hon-mrs-joyce"
+---
+
+::: {.letter-metadata}
+**Date:** May 10th [1885]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Birmingham University Library
+:::
+
+My dear [Mrs Joyce](people/person_787.qmd),
+
+I am sorry to say I must ask you to put off your kind visit till next week.
+
+My [sister in law](people/person_1604.qmd)’s brother, [Charles Walter](people/person_1464.qmd), has been killed in Alderney by a fall from his dog cart.[^1]  He is to be buried on Tuesday, beside his [father](people/person_1461.qmd)at Winchester, and the relations will be in and out here to see the poor [invalid sister](people/person_1462.qmd) so that I cannot venture to have anyone here on my own account.
+
+Next week will be free, except on what ever day they may fix for electing the High school mistress  Then I shall be very glad to see you
+
+yours very sincerely
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to ‘The Honble Mrs. Joyce/ St John’s Croft/ Winchester’ and postmarked 10 May 1885.
+[^2]: Frances (Walter) Yonge and Gertrude Walter had two younger half-brothers of their father’s second marriage of whom the elder was Edward Charles Lethbridge Walter (1854-5 May 1885).

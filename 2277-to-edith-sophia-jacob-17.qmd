@@ -1,0 +1,45 @@
+---
+title: "To Edith Sophia Jacob"
+letter_iso_date: "1868-10-06"
+letter_date: "Oct 6th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 2277
+letter_id: "to-edith-sophia-jacob-17"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-06"
+  url: "https://cmyonge.github.io/letters/2277-to-edith-sophia-jacob-17"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 6th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Edith](people/person_749.qmd)
+I longed to answer you sooner, but the press of letters seems to me to result in my not writing them, though strange to say I am quite well, and do not even feel the mischief a great sorrow generally leaves.[^1] I think the real shock was that day you were here in the spring, and there has been nothing but calm decay ever since, and I cannot compare the wrench now to the pain of feeling the power of interest fading away - though recognition did not fail till the final insensibility - and the last smile I saw was given that very morning to hearing of the cousin’s being expected that day - though her arrival was just an hour too late - not really though for to have come during the unconscious struggle would have been too sad. Dear Edith, what you said about the Hand and the Sacrament was most comforting and true - though you said it without knowing she was gone where the Presence is full.
+
+Your [Watching](other_books/otherbook_515.qmd) came well to chime in with thoughts like these. It is gone to the Printer. I will try to find out the No. of the [Literary Churchman](organizations/other_76.qmd) I hope your carriage[^2] is a success. I heard of it from your [sister](people/person_751.qmd).
+
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: ‘1867’ has been added in pencil in another hand, and then changed to ‘1868’. The letter is annotated in pencil ‘after Mrs Yonge’s death’ and also marked ‘Return’.
+[^3]: The death of her mother [FMY](people/person_1606.qmd) on 28 September 1868.
+[^4]: Annotated in pencil ‘spinal chair’.

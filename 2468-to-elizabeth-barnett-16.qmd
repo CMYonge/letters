@@ -1,0 +1,44 @@
+---
+title: "To Elizabeth Barnett?"
+letter_iso_date: "1872-00-00"
+letter_date: "[check 1872]"
+location: "[Tyntesfield]"
+manuscript: "MS location unknown.  This fragment printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 158 - 9"
+post_id: 2468
+letter_id: "to-elizabeth-barnett-16"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-01-01"
+  url: "https://cmyonge.github.io/letters/2468-to-elizabeth-barnett-16"
+---
+
+::: {.letter-metadata}
+**Date:** [check 1872]  
+**From:** [Tyntesfield]  
+**Manuscript:** MS location unknown.  This fragment printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 158 - 9
+:::
+
+[To [Elizabeth Barnett?](people/person_113.qmd)]
+
+[J.F.O.](people/person_926.qmd)[^1] slept here last night to assist at the opening of [Mr. Randall](people/person_1222.qmd)'s church at Clifton,[^2] to which we have been this morning.  The Bishop of Salisbury, [Dr. Moberly](people/person_1015.qmd), preached most beautifully about the Shadow and the Image.  [Mr. Skinner](people/person_1329.qmd)[^3] is also here for it. . .   Those who stayed for the luncheon are full of enthusiasm, and say it was most successful, and that the two Bishops spoke in perfection in their several ways;  but [Archdeacon Denison](people/person_2137.qmd)[^4] seems to have almost demolished poor Dr. Moberly by with the noise he made.  This is a holy and beautiful house to be in, with [Blanche](people/person_557.qmd)'s almost unearthly goodness and humility, and [her husband](people/person_560.qmd)'s princely nobleness.  . . . He still reads the lessons in chapel, and with beautiful expression.  Just fancy what it was to hear him read the last chapter of Ecclesiastes, the spirit so rising above the infirmities!  He wants to build a chapel here for the district, also a private chapel, licensed for H[oly]. C[ommunion].  But the [Rector](people/person_2289.qmd)[^5], a very low and slovenly Churchman, will not consent; though the [Bishop](people/person_2288.qmd) has been talked to by [our Bishop](people/person_1512.qmd) and [him of Ely](people/person_213.qmd)[^6], he will not or cannot abide it.  As to the chapel, there came a letter two days ago, saying ' he would do everything in his power,' but it is much feared that this means only a licence for the Holy Communion, not permitting anyone not in the house to receive.  It is celebrated now in the Oratory, but with a sense that it is irregular and might be stopped when nobody is really ill.  How Mr. [Vaughan] and the Bishop can take advantage of the scrupulous forbearance they meet with, I cannot think.
+
+---
+
+[^1]: The Rev. John Fielder Mackarness (1820-1889), bishop of Oxford, who signed his letters J. F. O., was married to CMY's cousin Alethea Coleridge.  CMY was staying at Tyntesfield, the home of William and Blanche Gibbs, rich and enthusiastic members of the Church Movement.  Both the Gibbses were related to CMY through the Crawley-Boevey family.
+[^2]: The Rev. Richard William Randall (1824-1906), a notorious ritualist, became first vicar of  All Saints, Clifton in 1868.  It was designed by G. E. Street and rebuilt after bombing in the Second World War.
+[^3]: The Rev. James Skinner (1818-1881), founder of the English Church Union and vicar of Newland, Worcs., was author of 'A Plea for the Threatened Ritual of the Church of England' (1865).
+[^4]: The Venerable George Anthony Denison (1805-1896), archdeacon of Taunton, vicar of East Brent, Somerset, and protagonist in a protracted battle in the ecclesiastical courts during 1854- 8 over the doctrine of the Real Presence.
+[^5]: The Rector of Wraxall since 1857, the Rev. Edward Protheroe Vaughan, who owned the presentation of the living.
+[^6]: The Bishop of Bath and Wells, in whose diocese Wraxall lay, was an Evangelical, the Hon. and Rt. Rev. Lord Arthur Charles Hervey (1808-1894);  the Bishop of Ely was the Rt. Rev. Edward Harold Browne (1811-1891);  and 'our Bishop' was Samuel Wilberforce (1805-1873), Bishop of Winchester.

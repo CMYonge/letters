@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-12-06"
+letter_date: "Decr 6th 1865"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54920: 119-20"
+post_id: 2083
+letter_id: "to-alexander-macmillan-62"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-06"
+  url: "https://cmyonge.github.io/letters/2083-to-alexander-macmillan-62"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 6th 1865  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54920: 119-20
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+Will you direct this on if you know the address - if not perhaps [Mr Williams](people/person_1964.qmd) would kindly do so. [M. Pichot](people/person_1172.qmd)[^1] wrote to ask my sanction for translation of the Dove, and I answered that I had already given permission to [Mlle Souvestre](people/person_1354.qmd). But the next thing I heard was that Mlle Souvestre had given it up for want of time so that I must write to him again, and I had made away with his letter.
+
+Messrs [Spottiswood](organizations/other_183.qmd) have sent to me for the preface to [the Prince & Page](cmy_books/cmybook_61.qmd). I think I enclosed it to you about a month ago, but if you do not find it ready to hand, I can easily write another.
+
+The book is smaller than I thought it would have turned out, and must I suppose be less costly than the [Little Duke](cmy_books/cmybook_20.qmd).
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Amédée Pichot (1795-1877) was a prolific translator; his work included *La Colombe dans le nid de l’aigle* (Paris: 1867).  It seems CMY proposed to get in touch with him through [Williams and Norgate](organizations/other_165.qmd).

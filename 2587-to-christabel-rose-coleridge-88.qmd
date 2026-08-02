@@ -1,0 +1,46 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1877-07-09"
+letter_date: "July 9th 1877"
+manuscript: "MS Harry Ransom Humanities Research Center,  University of Texas"
+post_id: 2587
+letter_id: "to-christabel-rose-coleridge-88"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-07-09"
+  url: "https://cmyonge.github.io/letters/2587-to-christabel-rose-coleridge-88"
+---
+
+::: {.letter-metadata}
+**Date:** July 9th 1877  
+**Manuscript:** MS Harry Ransom Humanities Research Center,  University of Texas
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+I am very sorry this sad check has fallen on all the bright hopes.[^1] I remember [Mrs Keble](people/person_795.qmd) saying, when my [brother](people/person_1624.qmd) lost his [first](people/person_1632.qmd), how often it happens that the first fruits of a family are thus consecrated and taken, and become in time a happy remembrance.
+
+[May](people/person_351.qmd) has been hoping that [Minny](people/person_927.qmd)’s baby may come today on its [great grandfather](people/person_344.qmd)’s birthday, I wonder if it will. Poor [Katie Lloyd](people/person_887.qmd) is at Ramsgate, very lame.[^2]
+
+I have a nice set of Will stories, some very funny and some very melancholy.[^3]
+
+Your affectionate
+C.M. Yonge
+
+---
+
+[^1]: CMY commiserates on the death of Thomas Drake Coleridge (18 Feb-2 July 1877), eldest son of Christabel Coleridge’s brother Ernest Hartley Coleridge (1846-1920).
+[^2]: May was Mary Frances Keble Coleridge (1824-1898), daughter of Sir John Taylor Coleridge (9 July 1790-1876). Her niece Mary (Mackarness) Coleridge, who was married to Bernard Coleridge, was expecting a baby,  [Geoffrey Duke Coleridge](people/person_338.qmd), 3rd Lord Coleridge  (23 July 1877–1955).   Katie (Johns) Lloyd, was the former Gosling, who had married in 1873 the Rev. John Henry Lloyd, curate of Wormleighton.
+[^3]: The Christmas 1877 number of *MP* consisted of stories on the theme 'Will'.

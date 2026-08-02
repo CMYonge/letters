@@ -1,0 +1,47 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1862-12-02"
+letter_date: "Decr 2nd [1862]"
+location: "Otterbourne/ Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1862/ 7"
+post_id: 1881
+letter_id: "to-ann-maria-carter-smith-57"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-12-02"
+  url: "https://cmyonge.github.io/letters/1881-to-ann-maria-carter-smith-57"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 2nd [1862]  
+**From:** Otterbourne/ Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/ 7
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+I am sorry my counsels only led to disappointment but I daresay it is wise in poor old [Mr Parker](people/person_1144.qmd) to undertake as little as possible. I should think you were in good hands with [Bell & Daldy](organizations/other_135.qmd). I know [Mrs Gatty](people/person_549.qmd) thinks them very liberal. In one case I knew where a lady wanted to publish a story rather longer than yours, they offered to take it if she would guarantee £30 in case the book failed- she did not like to do this, so it went off, but I think that would be a good course with your story.
+
+I think they are attentive and courteous to their clients, twice they have sent on people to me when they thought a thing better for the [M P](organizations/other_52.qmd) than for themselves one was the [Xmas story](other_books/otherbook_340.qmd) in this number the other [Little Maggie](other_books/otherbook_339.qmd) which I did not like, but they printed
+
+So Rose & are some shades less naughty, I cannot guess in what form her chastisement will come, I begin to hope you won’t kill Rosemary as I dreaded
+
+yours sincerely
+
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 2 December 1862 and London SE 3 December 1862. The envelope also enclosing a letter from John William Parker, Sr., dated 19 November 1862.

@@ -1,0 +1,48 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1897-09-25"
+letter_date: "Sept 25 [1897?]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/73"
+post_id: 3359
+letter_id: "to-christabel-rose-coleridge-30"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-09-25"
+  url: "https://cmyonge.github.io/letters/3359-to-christabel-rose-coleridge-30"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 25 [1897?]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/73
+:::
+
+My dear [C C](people/person_329.qmd)
+I hope your Rector has made a good beginning.  Had you to hear the 39 articles?  [Mr Bowles](people/person_184.qmd)read them out twice, and [Mr Gordon Wickham](people/person_2184.qmd) of Crookham fainted away in the middle of the celibacy of the clergy, and [Lord Frederick Kerr](people/person_811.qmd) carried him out of the pulpit which as he afterward, after much difficulty, married [Miss Kerr](people/person_2185.qmd), was highly curious.[^1]
+
+I send you two more sets of leaves which haunted me, and now I want to get them out of the way
+
+We had a splendid day for the Thanksgiving[^2] – with big coleuses in pots, with a fan palm behind them and the sun shone through them beautifully -  Such full Churches
+
+The baronne de Curtot’s [memoirs](other_books/otherbook_730.qmd)are worth reading<sup>3</sup>  She begins with her friends who kept her letters.  They were sentimental Germans, but there is a ring of truth about the letters, though her story is really too strange, and one can’t believe it, but when she went back to Paris in the Consulate her impressions of the court, [Josephine](people/person_2415.qmd) &c are delightful.  When first she met [Murat](people/person_2416.qmd), she wrote that he was exactly like a Circus rider
+
+your very affectionate
+C M Yonge
+
+---
+
+[^1]: The Rev. Gordon Bolles Wickham (d.1920), Vicar of Bradford Abbas, married (1887) Sidney Katherine Kerr (d. 1928), daughter of Admiral Lord Frederick Kerr (1818-1896).
+[^2]: The Thanksgiving Service for the Diamond Jubilee of Queen Victoria, Sunday 20 June 1897.

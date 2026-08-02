@@ -1,0 +1,50 @@
+---
+title: "To Katharine Olive Helmore"
+letter_iso_date: "1861-02-26"
+letter_date: "Feb 26th 1861"
+location: "Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell/Cobweb-1"
+post_id: 1819
+letter_id: "to-katharine-olive-helmore-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Katharine Olive Helmore"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-02-26"
+  url: "https://cmyonge.github.io/letters/1819-to-katharine-olive-helmore-2"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 26th 1861  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell/Cobweb-1
+:::
+
+Dear [Cobweb](people/person_675.qmd)
+
+I did not answer you at once because the [Glowworm](people/person_534.qmd) sent me a set of questions by the same post, and I had to refer to the [Secretary](people/person_351.qmd) to know which was to have the first turn. She decides that, as by some blunder the Glow Worm stepped into Fru Astrida’s place, and that her questions had therefore better have the first turn.[^1] I believe this is rather a good thing for your first will require a little reconsidering, as you know there is a great question whether St Mary Magdalen be the same with the Sister of Lazarus, and also with the woman who anointed our Blessed Lord’s Feet in the house of Simon. If you mean to have this question entered upon, I think it should be expressed, else everyone will be in difficulties – as they are this time as to what is exactly meant by the <u>Jews</u>. Without disallowing the question, I am inclined to think you had better either put it another form or change it.
+
+No 2 – is an immense question, had you not better either ask for an <u>outline</u> of the general course of the war, or else specify some one episode in it, such as either [Wallace](people/person_1852.qmd)’s career or [Bruce](people/person_1853.qmd)’s rise – otherwise the doing both in detail will be very hard work, and the prize will come to whoever has most time.
+
+The [Handel](people/person_1851.qmd) question is a very good one, and I like the [Kepler](people/person_1850.qmd) one very much too - I wonder if anyone will do the a calculation for a specimen - I have your answers this morning. Pray don’t think me a horrible hissing old Goose, but I am afraid for the poor flies entangled in your toils - I believe asking questions is much harder than answering them
+
+your critical
+
+Mother Goose
+
+Yours stand over for April-
+
+---
+
+[^1]: Tiny 95mm x 54mm blue envelope addressed to ‘Miss Helmore/6 Cheyne Walk/Chelsea/SW’ postmarked Winchester 26 February 1861 and London 27 February 1861.
+[^2]: The turn of page happens before ‘into Fru Astrida’s’, which accounts for the shift in grammar. 'Fru Astrida' (the name of an elderly character in *The Little Duke*) was evidently another member of the [Gosling Society](organizations/other_104.qmd), but has not been identified.

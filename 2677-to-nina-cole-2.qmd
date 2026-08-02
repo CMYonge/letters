@@ -1,0 +1,42 @@
+---
+title: "To ?Nina Cole"
+letter_iso_date: "1879-07-02"
+letter_date: "July 2d 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell/3"
+post_id: 2677
+letter_id: "to-nina-cole-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To ?Nina Cole"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-07-01"
+  url: "https://cmyonge.github.io/letters/2677-to-nina-cole-2"
+---
+
+::: {.letter-metadata}
+**Date:** July 2d 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell/3
+:::
+
+My dear [Miss Cole](people/person_326.qmd)
+
+I have been a long time answering you, but I waited to see [Mrs Moore](people/person_1042.qmd) and hear more about the matter as it is one in which I hardly felt competent to judge. I am sure it is an excellent purpose, and I send you my shilling, though my country life is so utterly unconnected with anything of the kind that I can be of no use[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: If the identification of CMY's correspondent as Nina Cole is correct, it seems reasonable to associate this letter with the recent foundation of the Church and Stage Guild, of which Cole was a committee member.  Its objects, according to an advertisement in *The Era* (13 July 1879 were 'to promote religious and social sympathy between the members of the Church and of the Stage'. This explanation seems consistent with the rather gingerly tone of CMY's letter.

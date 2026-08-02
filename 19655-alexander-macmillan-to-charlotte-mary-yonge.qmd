@@ -1,0 +1,49 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-11-26"
+letter_date: "Nov. 26 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (2) P. 636"
+post_id: 19655
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-11-26"
+  url: "https://cmyonge.github.io/letters/19655-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Nov. 26 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (2) P. 636
+:::
+
+Dear Miss Yonge,                                                                   
+
+Your small packet of the [Cameos](cmy_books/cmybook_73.qmd) has just reached. I will see about it at once, and answer your enquiries.
+
+I saw [Mr Layton](people/person_852.qmd) last week. He said at once that the claim for difference of value in gold was untenable. He said your best plans are to write direct, and say that you expected, and had his f[illegible]  authority for saying, firstly,  that the remittance should be in sterling money untouched. Also ask about balance forever(?) due. Mr Layton says it must have been an oversight.[^1]
+
+I would write promptly to make it clear what you expect, and that you expect it. They are very unsatisfactory I am sorry to say. This amount is £60 or a little more. You need not specify. Say the full amount in sterling money. I will see that it is right when it comes.
+
+Very f’lly yours
+
+[A. Macmillan](people/person_939.qmd)
+
+&nbsp;
+
+&nbsp;
+
+---
+
+[^1]: This relates to a dispute over money due to CMY from the American firm of [Appleton & Co](organizations/other_142.qmd).

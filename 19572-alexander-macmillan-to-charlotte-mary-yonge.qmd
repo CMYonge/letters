@@ -1,0 +1,46 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-07-06"
+letter_date: "July 6 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (1) p. 228"
+post_id: 19572
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-07-06"
+  url: "https://cmyonge.github.io/letters/19572-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** July 6 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (1) p. 228
+:::
+
+Dear Miss Yonge
+
+[Mr Craik](people/person_379.qmd)’s title was Heroes of History, which was less objectionable than A Book of Heroes as regards the chance of confusion with [Mr Kingsley](people/person_816.qmd)'s.[^1] Still there is some objection to it. It had not struck either of us before, but we both feel it now when you point it out.
+
+How would [“A Book of Worthies”](cmy_books/cmybook_80.qmd) do? There is the old [“Scotch Worthies”](other_books/otherbook_1126.qmd) and [“Worthies of France”](other_books/otherbook_1127.qmd) and [Fuller’s “worthies”](other_books/otherbook_1126.qmd). The first objection that strikes me is that the word has a semi-derisive(?) application in some modern day regions. But it is a capital old word nevertheless, and there is no harm but much good in restoring a noble word from lower use. I rather feel that ‘true chivalry’ lacks sim[illegible]  And the epithet “true” has a sort of antagonistic tone, [illegible] for books that I do not like. “A Book of Chivalry” would be better I think. I will have little hope of you  [*next two paragraphs indecipherable*]
+
+Very faithfully yours
+
+[A. Macmillan](people/person_939.qmd)
+
+I went to the Delegates meeting last Monday [*rest of the paragraph indecipherable*][^2]
+
+---
+
+[^1]: In 1856 Macmillan had published Charles Kingsley's, *The Heroes, or, Greek fairy tales for my children*.
+[^2]: Macmillan had attended a meeting of the Delegates, or governing committee, of the [Cambridge University Press](organizations/other_263.qmd).

@@ -1,0 +1,45 @@
+---
+title: "To Robert Brett"
+letter_iso_date: "1867-09-04"
+letter_date: "Sept 4th 1867"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2206
+letter_id: "to-robert-brett"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Robert Brett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-09-04"
+  url: "https://cmyonge.github.io/letters/2206-to-robert-brett"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 4th 1867  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+Dear [Mr Brett](people/person_210.qmd),
+I am told that to your other labours, you add that of acting for a [Society](organizations/other_194.qmd) for the promotion of Churches entirely free and unappropriated[^1]
+
+I am very much interested in building such a [Church](organizations/other_188.qmd) at Eastleigh, better known as the Bishopstoke Junction station, where there is a large and fast encreasing [sic] colony of railway men, 3 miles from the parish Church (South Stoneham) and two miles from any other.	
+
+We laid the first stones of a small new Church on the Feast of St Bartholomew, the seats are entirely free and we should be grateful for a grant. If there is a form of application to filled up, perhaps you would be so kind as to send it to me, when I would get it filled up and signed by the [Vicar of South Stoneham](people/person_636.qmd). The endowment is secured by the [Bishop](people/person_1383.qmd) giving up the great tithes of two adjoining farms, which belong to the See, and by £40 which the Vicar proposed to give up but the [owner](people/person_282.qmd) of the land makes up instead, so that there will be £120 per annum. The name is the Church of the Resurrection.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: *i.e*. pew rents were not paid and seating was free to all.

@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1890-01-13"
+letter_date: "Jany 13th 18901"
+location: "Elderfield"
+manuscript: "MS Charlotte Mitchell/18"
+post_id: 3167
+letter_id: "to-an-unknown-woman-23"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-01-13"
+  url: "https://cmyonge.github.io/letters/3167-to-an-unknown-woman-23"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 13th 18901  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mitchell/18
+:::
+
+Dear Madam
+It is too late for our agenda.  I will mention the subject at the Working Committee but I think it is a doubtful one and that legislation might cut two ways[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: This letter obviously relates to one of the organisations in which CMY was interested, of which the [Girls' Friendly Society](organizations/other_23.qmd) seems the most likely.

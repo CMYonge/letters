@@ -1,0 +1,17 @@
+---
+title: "The Victorian Half-Century: A Jubilee Book By Charlotte M. Yonge, author of ‘The Heir of Redclyffe,’ ‘Unknown to History,’ etc.."
+book_id: 189
+sort_title: "Victorian Half-Century: A Jubilee Book"
+---
+
+## Publication Information
+
+**Date:** 1886
+
+**Genre:** Non-fiction: history
+
+**Publisher:** London and New York: Macmillan and Company
+
+**Notes:** The preface is dated December 1886.  This is a historical survey of Queen Victoria’s reign.
+
+

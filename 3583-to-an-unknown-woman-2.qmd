@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1880-08-08"
+letter_date: "Aug 8th [1880s?]"
+location: "Elderfield"
+manuscript: "MS Helen Schinske"
+post_id: 3583
+letter_id: "to-an-unknown-woman-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-08-08"
+  url: "https://cmyonge.github.io/letters/3583-to-an-unknown-woman-2"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 8th [1880s?]  
+**From:** Elderfield  
+**Manuscript:** MS Helen Schinske
+:::
+
+Dear Madam
+
+I am sorry I mistook but indeed I would not think of your copying out the index for me, as I really know pretty well by long use where to find anything that I want so that I lose no time over it.[^1]
+
+I should be very sorry to give you all the trouble.
+
+Yours truly,
+C M Yonge
+
+---
+
+[^1]: Her correspondent is evidently offering to index the [Monthly Packet](organizations/other_52.qmd).

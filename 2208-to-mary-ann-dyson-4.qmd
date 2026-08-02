@@ -1,0 +1,33 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1867-09-24"
+letter_date: "September 24, 1867"
+manuscript: "MS location unknown. This fragment printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 235"
+post_id: 2208
+letter_id: "to-mary-ann-dyson-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-09-24"
+  url: "https://cmyonge.github.io/letters/2208-to-mary-ann-dyson-4"
+---
+
+::: {.letter-metadata}
+**Date:** September 24, 1867  
+**Manuscript:** MS location unknown. This fragment printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 235
+:::
+
+[To [Mary Anne Dyson](people/person_464.qmd)] 
+
+We had a wonderful visit yesterday from an utterly unknown little American girl of fourteen or fifteen, who bobbed into the room, rushed up to me, shook hands, ‘Miss Yonge, I’ve come to thank you for your books, I’m an American.’ Papa and mamma were, it appears, seeing the church, and were going round by Hursley back to Winchester. It was odd to be thanked by a little bolt upright mite, as if in the name of all the American Republic, for writing for the Church!

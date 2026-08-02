@@ -1,0 +1,47 @@
+---
+title: "To François Pierre Guillaume Guizot"
+letter_iso_date: "1870-12-09"
+letter_date: "Decr 9th 1870"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Archives Nationales"
+post_id: 2394
+letter_id: "to-francois-pierre-guillaume-guizot-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To François Pierre Guillaume Guizot"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-12-09"
+  url: "https://cmyonge.github.io/letters/2394-to-francois-pierre-guillaume-guizot-3"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 9th 1870  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Archives Nationales
+:::
+
+My dear [M. Guizot](people/person_597.qmd)
+[My brother](people/person_1624.qmd) begs me to convey his best thanks as well as my own to you for so kindly sending us your pamphlet.[^1]  I am afraid the sky has darkened even more in the short time that has elapsed since its conclusion, and that the enemy are nearer to you.  It seems to me that English sympathy has been greatly gained by this gallant resistance.  I hear so many persons who were all for the Germans at first now changing their ground.  It seems to me that the analogy of the recovery of France after the invasion of Henry V is being worked out, when France rallied under so terrible a succession of defeats, and apparently with no leader.
+
+I do not feel secure of this letter reaching you if Havre is occupied, but I will not withold it for the doubt.
+
+Pray give my love to [Madame de Witt](people/person_423.qmd).  Her story Quelquechose de Grand has just been returned to me with its translation[^2]
+
+Believe me
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Possibly *M. Guizot à Messieurs les Membres du Gouvernement de la Défense Nationale* (Lisieux, 1870)?  CMY refers to the Prussian occupation of France.
+[^2]: Untraced.

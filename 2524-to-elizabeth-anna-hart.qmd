@@ -1,0 +1,38 @@
+---
+title: "To Elizabeth Anna Hart"
+letter_iso_date: "1875-03-31"
+letter_date: "March 31st 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS The Hypatia Trust"
+post_id: 2524
+letter_id: "to-elizabeth-anna-hart"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Anna Hart"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-03-31"
+  url: "https://cmyonge.github.io/letters/2524-to-elizabeth-anna-hart"
+---
+
+::: {.letter-metadata}
+**Date:** March 31st 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS The Hypatia Trust
+:::
+
+My dear [Mrs Harte](people/person_639.qmd)
+
+If you can spare the 12th chapter of [Disobedient Cecil](other_books/otherbook_859.qmd) please send it direct to [Messrs Mozley](organizations/other_108.qmd) at Derby, as they want to set it up
+
+yours sincerely
+C M Yonge

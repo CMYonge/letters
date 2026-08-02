@@ -1,0 +1,41 @@
+---
+title: "To Mary Christiana Boyle?"
+letter_iso_date: "1891-06-01"
+letter_date: "June 1st 1891"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/11"
+post_id: 3172
+letter_id: "to-mary-christiana-boyle"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Christiana Boyle?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-06-01"
+  url: "https://cmyonge.github.io/letters/3172-to-mary-christiana-boyle"
+---
+
+::: {.letter-metadata}
+**Date:** June 1st 1891  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/11
+:::
+
+My dear [Mrs Boyle](people/person_193.qmd)[^1]
+I waited till all our plans had settled themselves to thank you, and say that we shall much enjoy coming to you for luncheon on Wednesday Our train is at 12.44
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Perhaps Mary Christiana Robins, wife of the Very Rev. George David Boyle (1828-1901), dean of Salisbury 1880-1901.

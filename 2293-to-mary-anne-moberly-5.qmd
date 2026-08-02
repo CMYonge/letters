@@ -1,0 +1,38 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1868-11-18"
+letter_date: "[November 1868]"
+location: "Puslinch"
+manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 207-8."
+post_id: 2293
+letter_id: "to-mary-anne-moberly-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-11-01"
+  url: "https://cmyonge.github.io/letters/2293-to-mary-anne-moberly-5"
+---
+
+::: {.letter-metadata}
+**Date:** [November 1868]  
+**From:** Puslinch  
+**Manuscript:** MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 207-8.
+:::
+
+Many many thanks for [your](people/person_1019.qmd) most kind letter, and for telling me of the happy prospect before [Dora](people/person_968.qmd)[^1] . . . I have asked [Mrs. Wilson](people/person_1539.qmd) to send on to you a letter of [Bishop Patteson](people/person_1155.qmd)’s, which I think you will feel refreshed by reading; please send it on to [Miss Anne Mackenzie](people/person_930.qmd). You are so very kind, and it would be very delightful to make one in the migration; but I have only seen [Miss Dyson](people/person_464.qmd) for a day since *her* sorrow, and not at all since *mine*,[^2] and the meeting at Testwood has become such an institution that I could not fail in it, so I must wait until you are at Brighstone again, and I have always had a wish to see that in spring. I have just returned from [Lady Seaton](people/person_314.qmd)’s It is a [house](organizations/other_126.qmd) of shadows and memories to me.
+
+---
+
+[^1]: Dora Frances Moberly’s had become engaged to the Rev. Charles Martin, whom she married 14 September 1869.
+[^2]: Mary Anne Dyson's sister-in-law [Elizabeth Dyson](people/person_462.qmd) (with whom she had lived at Crookham since her brother’s death) had died in the first quarter of 1868, and CMY's [mother](people/person_1606.qmd) had died on 28 September 1868.

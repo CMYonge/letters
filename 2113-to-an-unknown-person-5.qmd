@@ -1,0 +1,35 @@
+---
+title: "To an Unknown Person"
+letter_iso_date: "1866-04-07"
+letter_date: "[7? April 1866]"
+manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 103"
+post_id: 2113
+letter_id: "to-an-unknown-person-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-04-07"
+  url: "https://cmyonge.github.io/letters/2113-to-an-unknown-person-5"
+---
+
+::: {.letter-metadata}
+**Date:** [7? April 1866]  
+**Manuscript:** MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 103
+:::
+
+It was the one bright, beautiful day of a cold, wet spring, and the celandines spread and glistened like stars round the grave where we laid him, and bade him our last 'God be with you' with the 23rd Psalm, and went home, hoping that he would not blame us for irreverence for thinking of him in words applied to the first saint who bore his name: 'He was a burning and a shining light, and ye were willing for a season to rejoice in his light.'[^1]
+
+---
+
+[^1]: The [funeral](organizations/other_184.qmd) of [John Keble](people/person_798.qmd) took place at All Saints, Hursley, on Friday 6 April 1866.  The text is John 5:35.

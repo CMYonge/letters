@@ -1,0 +1,35 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1836-03-18"
+letter_date: "[March 1836]"
+manuscript: "MS location unknown.  This fragment printed by Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i>, 124."
+post_id: 2933
+letter_id: "to-anne-yonge-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1836-03-01"
+  url: "https://cmyonge.github.io/letters/2933-to-anne-yonge-2"
+---
+
+::: {.letter-metadata}
+**Date:** [March 1836]  
+**Manuscript:** MS location unknown.  This fragment printed by Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i>, 124.
+:::
+
+One of the things I have to do for [M. de Normanville](people/person_1088.qmd)[^1] is to write a story in French, and [my story](cmy_books/cmybook_1.qmd) goes on for ever and ever . . .  my poor little girls meet with all sorts of dangers.
+
+---
+
+[^1]: F. de Normanville (b. 1770/1), her French and Italian teacher, an émigré from the French Revolution.

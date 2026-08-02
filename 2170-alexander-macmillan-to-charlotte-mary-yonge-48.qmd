@@ -1,0 +1,48 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1867-05-14"
+letter_date: "May 14. 1867"
+manuscript: "Copy outletter book British Library Add MSS.55387 (1) P. 171"
+post_id: 2170
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-48"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-05-14"
+  url: "https://cmyonge.github.io/letters/2170-alexander-macmillan-to-charlotte-mary-yonge-48"
+---
+
+::: {.letter-metadata}
+**Date:** May 14. 1867  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1) P. 171
+:::
+
+Dear Miss Yonge	
+The first instalment of the [Book of Worthies](cmy_books/cmybook_80.qmd) has just come to hand. [I](people/person_939.qmd) will at once send it to the printer, as I shall be glad to get it out if possible for the summer. I quite feel that you are right about the length of the Biographies. Too great brevity would lessen the interest of the stories, and a few well told & pretty fully told is better than many made too brief.
+
+I am not quite sure about the propriety of admitting Arthur at all. He is quite mythical in all details, the only reality that can be claimed for him is his name. Besides I am having a [*illegible*] edition of that dear old book of [Malory](other_books/otherbook_235.qmd) prepared for general readers. [Sir Edward Strachey](people/person_1989.qmd) who first proposed it to me is doing it with all his heart & skill both of which is [sic] great.
+
+You had better come direct to Alfred I think. Have you got all the books you want for your purpose? I daresay I can get you any you require with little difficulty.
+
+You remember that I have always had some engraved portrait or subject as a [vignette](organizations/other_167.qmd) on the title page of these golden Treasury books. Now what or who am I to choose in this case. Would Charlemagne do? And if so can you tell me anything about [*illegible*]
+
+Your Sunday [book subject](cmy_books/cmybook_72.qmd) seems to me excellent and such an excellent title. I am sending
+
+that list of yours to [Miss Martin](people/person_971.qmd), who will write to you in a few days. I [*illegible*] I should like to get your book pretty early in the series. But I suppose I may say I want the Worthies first. But be sure to ask me for books. Will you want some more recent authorities, at least to refer to than [*illegible], [illegible*], & Milman I should fancy could be useful. There are translations of both the [*3 lines illegible*] and he was very much [*illegible*] High Church.
+
+I am very sorry to hear you have not been quite well, and that we are not to have a hope of seeing you. You shall hear from Miss Martin very soon.
+
+I am dear Miss Yonge
+Yours very faithfully
+Alex Macmillan

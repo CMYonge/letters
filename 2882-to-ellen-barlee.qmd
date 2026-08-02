@@ -1,0 +1,42 @@
+---
+title: "To Ellen Barlee"
+letter_iso_date: "1888-05-05"
+letter_date: "May 5th 1888"
+location: "Torquay"
+manuscript: "MS Winchester City Council, Historic Resources Centre LH3803.1"
+post_id: 2882
+letter_id: "to-ellen-barlee"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Barlee"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-05-05"
+  url: "https://cmyonge.github.io/letters/2882-to-ellen-barlee"
+---
+
+::: {.letter-metadata}
+**Date:** May 5th 1888  
+**From:** Torquay  
+**Manuscript:** MS Winchester City Council, Historic Resources Centre LH3803.1
+:::
+
+My dear [Miss Barlee](people/person_108.qmd)
+
+The [Bishop of Madagascar](people/person_2344.qmd) has sent me this sad history of devastation asking to have it made known in [the Net](organizations/other_94.qmd), so I send it to you direct.[^1]  It has wandered a little as I am making visits in Devonshire but I hope to be at home by the end of the month.
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Evidently Ellen Barlee, writer, social worker and contributor to *MP*had succeeded Anne Mackenzie as editor of the missionary journal *The Net*.  The first Anglican Bishop of Madagascar, the Rt. Rev. Robert Kestell Cornish (1824-1909), was consecrated in 1874. His brother-in-law taught at Winchester College and was a friend of CMY's.

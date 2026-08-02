@@ -1,0 +1,43 @@
+---
+title: "To Marianne Bigg Wither"
+letter_iso_date: "1867-00-00"
+letter_date: "[1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Royal Institution of Great Britain, XVA/186/32 f.63/2"
+post_id: 2197
+letter_id: "to-marianne-bigg-wither"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Marianne Bigg Wither"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-01-01"
+  url: "https://cmyonge.github.io/letters/2197-to-marianne-bigg-wither"
+---
+
+::: {.letter-metadata}
+**Date:** [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Royal Institution of Great Britain, XVA/186/32 f.63/2
+:::
+
+My dear [Marianne](people/person_1546.qmd)
+The great heads will be 1/6, but I fear they will be long in coming like all the rest.[^1]
+
+I will thankfully send you some of all kinds when I get them.
+
+In haste your aff
+C M Yonge
+
+---
+
+[^1]: Copies of the photographs mentioned in the letter of July 20 to Marianne Bigg Wither were probably being made by a photographer in Plymouth.

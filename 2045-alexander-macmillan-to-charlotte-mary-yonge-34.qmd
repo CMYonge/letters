@@ -1,0 +1,40 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-06-20"
+letter_date: "June 20. 1865"
+manuscript: "Copy outletter book British Library Add MSS. 55384 (2): P. 584"
+post_id: 2045
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-34"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-06-20"
+  url: "https://cmyonge.github.io/letters/2045-alexander-macmillan-to-charlotte-mary-yonge-34"
+---
+
+::: {.letter-metadata}
+**Date:** June 20. 1865  
+**Manuscript:** Copy outletter book British Library Add MSS. 55384 (2): P. 584
+:::
+
+Dear Miss Yonge	
+[I](people/person_939.qmd) am sure that when [Miss Sewell](people/person_1301.qmd) and yourself meet you will divide the history as it will be best.[^1] I only venture to say that it has struck me more & more, as I thought of it that divisions of the History, such as seemed called for should be made as far as possible according to Spiritual or Vital <u>Articulation</u> not by a mere arbitrary division of reigns or countries. I have been thinking that the struggle for constitutional Government, including the lives of Simon de Montfort & others connect with that great advance in national life. I think it would be an admirable opportunity of giving a <u>conservative</u> view of progress. May I say the true and the woman’s view of it that is the view that gathers round and develops from the family life. My boys are getting up - 12 & 14 – curious how practically this makes one feel everything.[^2]
+
+Yours most truly
+A. Macmillan
+
+---
+
+[^1]: They were planning the work which became *Historical Selections*.
+[^2]: His two elder sons were [Malcolm Kingsley Macmillan](people/person_1945.qmd) (1852-1889) and [George Augustin Macmillan](people/person_1946.qmd) (1855-1936).

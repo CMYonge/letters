@@ -1,0 +1,41 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1854-02-23"
+letter_date: "Febry 23d [1854]"
+location: "Otterbourn"
+manuscript: "MS Plymouth and West Devon Record Office 308/257"
+post_id: 3027
+letter_id: "to-anne-yonge-30"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-01"
+  url: "https://cmyonge.github.io/letters/3027-to-anne-yonge-30"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 23d [1854]  
+**From:** Otterbourn  
+**Manuscript:** MS Plymouth and West Devon Record Office 308/257
+:::
+
+My dear [Anne](people/person_1582.qmd)
+[Mamma](people/person_1606.qmd) is writing to [Uncle James](people/person_1614.qmd) so I think [Puslinch](organizations/other_123.qmd) must hear at the same time otherwise I should like to save [Uncle Yonge](people/person_1623.qmd) the anxiety.
+
+[Papa](people/person_1631.qmd) has been over working himself with spending whole long days without dinner upon [Julian](people/person_1624.qmd)’s preparations, and yesterday after going to Portsmouth to take leave of him, and coming home very late, a sort of seizure came on like an exaggerated headache.  We sent for [Mr Lyford](people/person_911.qmd) who cupped him and that much relieved him, and we hope he is better today, able to speak and recollect but with a very bad headache.  poor Julian he was able to come home today by 1 o’clock but he must go at five to sail tomorrow. I hope he will take a better account away with him for he cannot hear again till he gets to Malta.  It came on about ten at night and was better so that Mr Lyford went by half past two.  Mamma did very well all night, and was not so very much frightened.  Mr Lyford seems to make sure of his being better tomorrow.  I will tell you if there is any more to say before post time.
+
+your most affectionate
+CMY
+
+It is better.  I began my letter while there was a flushed face that made us uneasy, but that is gone off now, and he has been mending all day, but we have not ventured to let him see Julian, who only looked at him asleep.  The attack is certainly passing off and they promise us he shall be much better tomorrow

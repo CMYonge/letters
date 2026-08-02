@@ -1,0 +1,38 @@
+---
+title: "To Gertrude Mary Ireland Blackburne"
+letter_iso_date: "1885-00-00"
+letter_date: "[late 1885?]"
+manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 188, 189."
+post_id: 2821
+letter_id: "to-gertrude-mary-ireland-blackburne-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Gertrude Mary Ireland Blackburne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-01-01"
+  url: "https://cmyonge.github.io/letters/2821-to-gertrude-mary-ireland-blackburne-6"
+---
+
+::: {.letter-metadata}
+**Date:** [late 1885?]  
+**Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 188, 189.
+:::
+
+Next time I have to set down ‘Likes and Dislikes,’ I shall put a General Election as my chief antipathy.[^1]
+
+I always fancied Hyères the most of these resorts, perhaps because [my father](people/person_1631.qmd) was there to take charge of a consumptive [cousin](people/person_1602.qmd) in 1816-17, and he used to talk of the sheets of big blue violets. He had been at Waterloo, and was with the army of occupation, and this cousin came out for the fashionable cure of living in a cowhouse. . . . It must have answered in this case, for the patient lived to die an Admiral over seventy, though he had a cough all his life.[^2]
+
+---
+
+[^1]: The other surviving letters to Gertrude Ireland Blackburne can mostly be dated firmly to 1885, and although the evidence is slight, the General Election of  November 1885 seems quite likely to be the one referred to here.
+[^2]: Vice-Admiral Edmund Yonge (1795-1868),  younger brother of the Rev. John Yonge of Puslinch and first cousin of WCY.

@@ -1,0 +1,45 @@
+---
+title: "To Mrs Donkin"
+letter_iso_date: "1867-08-16"
+letter_date: "Aug 16th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors"
+post_id: 2205
+letter_id: "to-mrs-donkin"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Donkin"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-08-16"
+  url: "https://cmyonge.github.io/letters/2205-to-mrs-donkin"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 16th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors
+:::
+
+My dear [Mrs Donkin](people/person_441.qmd),
+As soon as may be I will get the [Summer Vacation](other_books/otherbook_505.qmd) sent to the press, but it cannot be before October at soonest that I send it - as all these remarkable events have thrown other M S back. I have a Naval Review just come, to complete the series you began.
+
+By the by, it was a Woolwich cadet’s uniform that [prince Arthur](people/person_1997.qmd) wore - as the [daughter](people/person_1520.qmd) of the late [commandant](people/person_1521.qmd) specially begged me to observe. I wonder whether the Prince will criticise it too.
+
+I was not sure enough where you were to send you the proofs, as there was no time to spend in their wanderings
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Unidentified. ‘The naval review’, by A sailor’s daughter, had appeared in *MP* in September.

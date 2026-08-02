@@ -1,0 +1,38 @@
+---
+title: "Charles Wooldridge to Charlotte Mary Yonge"
+letter_iso_date: "1895-06-29"
+letter_date: "June 29 1895"
+manuscript: "Copy outletter book, Hampshire Record Office 70M92W/59/187"
+post_id: 3297
+letter_id: "charles-wooldridge-to-charlotte-mary-yonge-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Charles Wooldridge to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-06-29"
+  url: "https://cmyonge.github.io/letters/3297-charles-wooldridge-to-charlotte-mary-yonge-8"
+---
+
+::: {.letter-metadata}
+**Date:** June 29 1895  
+**Manuscript:** Copy outletter book, Hampshire Record Office 70M92W/59/187
+:::
+
+Dear Madam
+I expect to receive the Policy from the Norwich Union Office in a day or two & will then forward it to [Mrs. Yonge](people/person_1604.qmd)as you wish.  You know of course that at the present time the Policy is absolutely your property & stands in your name with the Company
+
+I am yours faithy
+[Chas Wooldridge](people/person_2094.qmd)
+
+Miss Yonge
+Lady Seaton’s[Beechwood](organizations/other_126.qmd) Devon

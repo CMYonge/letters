@@ -1,0 +1,49 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1863-02-18"
+letter_date: "Febry 18th 1863"
+location: "Otterbourne, Winchester"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1863/2"
+post_id: 1884
+letter_id: "to-ann-maria-carter-smith-59"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-02-18"
+  url: "https://cmyonge.github.io/letters/1884-to-ann-maria-carter-smith-59"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 18th 1863  
+**From:** Otterbourne, Winchester  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/2
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+Many thanks for the first sight of my dear friends [the Franklyns](other_books/otherbook_331.qmd) how attractive [Bell](organizations/other_135.qmd)’s pretty paper makes them. I will take care they go safely tomorrow on their long voyage, but I am afraid it is quite too late for a notice of them in the forthcoming [Packet](organizations/other_52.qmd)  I take shame to myself for not have[^1] remembered that Mutterchen was neuter in the time of the M S and now the adjective surely ought to be kleines, klein is only the adverbial form. Is it possible to put an erratum as the books are not quite ready?  Dear little Mary. She looks as sweet as I thought her the first time. I will say a good word for her in April and am sorry to have no room now. And what is more a [Lancashire sketch](other_books/otherbook_341.qmd)that I thought must go in before the bad times were over squeezed out both you and other things I wanted to have in.[^2] I know it would have been fairer to have left out [the Trial](cmy_books/cmybook_53.qmd) but I thought this was too critical a place to do so in the story.
+
+I send your little friend a few foreign stamps. I have three other clients, so that I have had those that have come to me well picked, & have been a sort of stamp office. The plain pink one is rather valuable to collectors being Natal’s earliest effort & now extinct!
+
+Thanks for the promised Franklyns. I shall get them on the 1st or 2nd when all such kind gifts come to me from the office
+
+yours sincerely
+
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE and postmarked Winchester 18 February 1863 and London SE 19 February 1863.
+[^2]: Probably CMY forgot the grammar of her sentence as she turned the page between my and self.
+[^3]: The American Civil War blockade caused distress in the Lancashire textile industry, especially acute in the winter of 1862/3.

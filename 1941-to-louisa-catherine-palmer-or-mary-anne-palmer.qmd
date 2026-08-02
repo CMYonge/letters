@@ -1,0 +1,43 @@
+---
+title: "To Louisa Catherine Palmer or Mary Anne Palmer"
+letter_iso_date: "1864-02-26"
+letter_date: "Feb 26th [1864]"
+location: "Elderfield Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 1941
+letter_id: "to-louisa-catherine-palmer-or-mary-anne-palmer"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Louisa Catherine Palmer or Mary Anne Palmer"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-02-26"
+  url: "https://cmyonge.github.io/letters/1941-to-louisa-catherine-palmer-or-mary-anne-palmer"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 26th [1864]  
+**From:** Elderfield Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Miss Palmer](people/person_1131.qmd)[^1]
+I am ashamed of not having thanked you sooner for the statement [C M S](organizations/other_19.qmd) which is a great help to me, being very clear though of course very sad. I think Mr Gorst’s [book](other_books/otherbook_359.qmd) must be soon coming, and then I shall dash into my subject - I was going to say like Captain Dodd at the pirate, for I have just been reading that wonderful chapter of [Hard Cash](other_books/otherbook_360.qmd). Have you heard of [Miss Bennett](people/person_138.qmd) lately. I am afraid her eyes are very much affected. She spent a day with us and was obliged to shade them constantly with a screen and I am afraid they have been worse since that
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Elderfield added by hand to the printed address.
+[^3]: Louisa Catherine Palmer (d. 1868) and [Mary Anne Palmer](people/person_1132.qmd) (d. 1884) were sisters -in-law of the Rev. Charles Abraham, first bishop of Wellington, New Zealand.  They may have supplied CMY with tales of missionary heroism for use in *A Book of Golden Deeds*.

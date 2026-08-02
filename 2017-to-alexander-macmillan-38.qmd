@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-04-20"
+letter_date: "April 20th [1865]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 73-74"
+post_id: 2017
+letter_id: "to-alexander-macmillan-38"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-04-20"
+  url: "https://cmyonge.github.io/letters/2017-to-alexander-macmillan-38"
+---
+
+::: {.letter-metadata}
+**Date:** April 20th [1865]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 73-74
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+I send a second instalment of the [Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd), I suppose about enough for another [number](organizations/other_78.qmd).
+
+I hope I am to have the proofs, for there is a mention of Maximilian in the first chapter as grown up which I must alter.
+
+I have done two more chapters of [Bethlehem](organizations/other_177.qmd), - that is I have written them, but I am not satisfied with the second of them.
+
+Many thanks for the four copies of [Golden Deeds](cmy_books/cmybook_51.qmd). 
+
+What an unusually glorious spring.
+
+Yours sincerely
+C M Yonge

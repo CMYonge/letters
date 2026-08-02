@@ -1,0 +1,35 @@
+---
+title: "To Miss Manning"
+letter_iso_date: "1867-00-00"
+letter_date: "[1867]"
+manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. c.25 ff 268-9"
+post_id: 2221
+letter_id: "to-miss-manning"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Manning"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-01-01"
+  url: "https://cmyonge.github.io/letters/2221-to-miss-manning"
+---
+
+::: {.letter-metadata}
+**Date:** [1867]  
+**Manuscript:** MS Bodleian Library, Oxford: MSS. Autogr. c.25 ff 268-9
+:::
+
+Dear [Miss Manning](people/person_2001.qmd),
+I am sorry not to have been able sooner to answer you and tell you how much I like your [friend](people/person_175.qmd)’s [Stone cutter](other_books/otherbook_175.qmd), whom I shall most gladly have in the [Monthly Packet](organizations/other_52.qmd), though I am afraid it can hardly be before the end of the year, as though in the enlarged size of the Monthly Packet I can generally get a short self-contained story in every month, I am engaged a good deal in advance with them
+
+Yours sincerely
+C M Yonge

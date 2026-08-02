@@ -1,0 +1,41 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1867-07-09"
+letter_date: "July 9th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 3484
+letter_id: "to-ellen-julia-johns-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-07-09"
+  url: "https://cmyonge.github.io/letters/3484-to-ellen-julia-johns-2"
+---
+
+::: {.letter-metadata}
+**Date:** July 9th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Mrs Johns](people/person_772.qmd),
+I am very glad there is a prospect of our seeing [Miss Keary](people/person_793.qmd).  Would you or [Kate](people/person_887.qmd) be so kind as to let us know when she comes, and how long she is likely to be with you, and then we may fix a day for meeting or trying to meet.  Next week and the week after too we have friends coming to us just so invalidish that I dare not make engagements till I have seen how they are, and the length of the second visit also, but at any rate, I hope we shall not miss seeing you and Miss Keary
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** With envelope addressed to Mrs Johns/ Winton House/ Winchester and postmarked Winchester 9 July 1867.

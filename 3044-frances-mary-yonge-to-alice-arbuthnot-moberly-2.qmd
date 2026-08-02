@@ -1,0 +1,36 @@
+---
+title: "Frances Mary Yonge to Alice Arbuthnot Moberly"
+letter_iso_date: "1854-05-18"
+letter_date: "May 1854"
+manuscript: "MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 111-2."
+post_id: 3044
+letter_id: "frances-mary-yonge-to-alice-arbuthnot-moberly-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Frances Mary Yonge to Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-05-01"
+  url: "https://cmyonge.github.io/letters/3044-frances-mary-yonge-to-alice-arbuthnot-moberly-2"
+---
+
+::: {.letter-metadata}
+**Date:** May 1854  
+**Manuscript:** MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 111-2.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+[I](people/person_1606.qmd) wrote instantly to thank [Dr. Moberly](people/person_1015.qmd) for his good news, but the cart was missed on Sunday morning.  Tell us if [Margaret](people/person_83.qmd) has seen [the brother](people/person_1026.qmd)[^1], and what she said of him, and tell us who the boy is like and whether he is large or small, dark or fair.  Three days of well-doing make us think you will soon be ready for ‘[Heartsease](cmy_books/cmybook_19.qmd)’;  there will be plenty for you to begin upon.  I am bent upon Charlotte seeing all she can of [Bishop Selwyn](people/person_1295.qmd), and trust to Dr. Moberly to manage it for her, and must have her see [Mrs. Selwyn](people/person_1297.qmd) somehow.
+
+---
+
+[^1]: Selwyn William Moberly (1854-1871), seventh son and youngest of the Moberlys' fifteen children, was christened on 8 June 1854.

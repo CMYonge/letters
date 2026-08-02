@@ -1,0 +1,42 @@
+---
+title: "To Caroline Birley?"
+letter_iso_date: "1881-10-12"
+letter_date: "Oct 12th 1881"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2736
+letter_id: "to-miss-birley"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Caroline Birley?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-10-12"
+  url: "https://cmyonge.github.io/letters/2736-to-miss-birley"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 12th 1881  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Miss Birley](people/person_153.qmd)
+
+Many thanks for your two pretty books, I was a little startled at the [???] with which they afflicted you in ‘Yes and no’- but I hope that gentleman’s white lion[?] explains it sufficiently to be a fatherly embrace
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Perhaps Caroline Birley, whose story *A Heap of Stones* (London: SPCK 1881) had been published in *MP* (December 1880), 158-184, and who was also the author of *We are Seven: A Tale for Children*, with illustrations by T. Pym (London: Wells, Gardner 1880).   CMY seems to have been concerned about an illustration.

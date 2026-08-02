@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-05-29"
+letter_date: "May 29th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 199-200"
+post_id: 2246
+letter_id: "to-alexander-macmillan-96"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-05-29"
+  url: "https://cmyonge.github.io/letters/2246-to-alexander-macmillan-96"
+---
+
+::: {.letter-metadata}
+**Date:** May 29th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 199-200
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+[Miss Sewell](people/person_1301.qmd) is in want of a volume of Milmans[Latin Christianity](other_books/otherbook_411.qmd) which the [London Library](organizations/other_29.qmd) does not send. She will write to you which it is and perhaps you could kindly cause it to be sent to her. I cant think what [Clay](organizations/other_173.qmd) meant by our delaying the [proofs](cmy_books/cmybook_71.qmd) for we had never done so.
+
+I have never had any of [Heartsease](cmy_books/cmybook_19.qmd) to put the headings to the pages.[^1] 
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: This issue, and the reference to Clay’s complaint, must have been raised by Macmillan in letters either missing from the archive, or indecipherable because of bad wet-press copying.

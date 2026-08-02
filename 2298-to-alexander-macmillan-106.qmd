@@ -1,0 +1,47 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1869-02-02"
+letter_date: "Febry 2nd [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 225-6"
+post_id: 2298
+letter_id: "to-alexander-macmillan-106"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-02-02"
+  url: "https://cmyonge.github.io/letters/2298-to-alexander-macmillan-106"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 2nd [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 225-6
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I enclose a [receipt](organizations/other_160.qmd) with many thanks, and rejoicings that the books still continue to prosper. I should be finishing another [Worthy](cmy_books/cmybook_80.qmd) today if I had not five young cousins spending the day with me, but at any rate old Curius Dentatus will come before the end of the week, I chose him as the representative of the old hardy uneducated peasant king that the first Romans were. Then comes Scipio for the Gentleman Roman before he was spoilt. I hope to be in London for a few days about the 1st of March, and will then bring you a specimen of the Double Skeleton.
+
+Those [papers](other_books/otherbook_539.qmd) were both very striking in the last no of the [Magazine](organizations/other_78.qmd). I believe the fault is the father’s for paying no heed to the daughters interests. Almost all the most superior girls I have known have owed much to their father’s influence. I am sure it made me.
+
+The author of [Estelle Russell](other_books/otherbook_540.qmd) has got the names of places at the Yealm so nearly right that one wonders that she made the charitable young lady walk across the estuary three miles broad at least, between Wembury and Revelstoke.
+
+I think minute geography of real places is dangerous
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

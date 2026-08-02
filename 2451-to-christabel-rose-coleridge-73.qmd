@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1872-07-01"
+letter_date: "July 1st 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2451
+letter_id: "to-christabel-rose-coleridge-73"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-07-01"
+  url: "https://cmyonge.github.io/letters/2451-to-christabel-rose-coleridge-73"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+I like this very much and Gruet is a very satisfactory Eagle.[^1]  It is much more satisfactory to reform Ruprecht instead of demolishing him-  The land of romance too is a satisfactory variety.  There is one [fairy land play](other_books/otherbook_821.qmd) – also a [story from Gibraltar](other_books/otherbook_822.qmd) and [one from Ascension isle](other_books/otherbook_819.qmd) and [one](other_books/otherbook_817.qmd) from [Mme de Witt](people/person_423.qmd) about a poor girl left in charge of her sisters children while their parents are shut up in Paris! [^2]  Also a [Church decking narrative](other_books/otherbook_820.qmd) related by a Church Eagle, who certainly does not shew himself at all a goose.  But I have three visits – only one is a boy’s, which makes a little variety.
+
+I suppose it is too late now for the suggestion but should you not call Ferdinand the [Constant Prince](other_books/otherbook_741.qmd) to make plain whom you mean
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: CMy refers to the plans for the Christmas number of the *MP* for 1872, to which Coleridge contributed a story called 'Minne's Knight'.
+[^2]: Inserted above, 'young lady'.

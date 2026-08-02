@@ -1,0 +1,37 @@
+---
+title: "Frances Mary Yonge to Daniel Sedgwick"
+letter_iso_date: "1865-08-05"
+letter_date: "5th August 1865"
+manuscript: "MS BL Add. 57,504 f.128"
+post_id: 2063
+letter_id: "frances-mary-yonge-to-daniel-sedgwick"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Frances Mary Yonge to Daniel Sedgwick"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-08-05"
+  url: "https://cmyonge.github.io/letters/2063-frances-mary-yonge-to-daniel-sedgwick"
+---
+
+::: {.letter-metadata}
+**Date:** 5th August 1865  
+**Manuscript:** MS BL Add. 57,504 f.128
+:::
+
+Mrs Yonge informs Mr Sedgwick[^1] that the Hymn ‘Think of the Mercy’ - was written by a young lady who died at fourteen, many years ago, she was the youngest daughter of the [Dean of Winchester](people/person_542.qmd).[^2] The other hymn ‘And is the day of mercy set’ was taken from a book ‘by a Layman’. The book having been a borrowed book the publisher’s name cannot be referred to
+
+---
+
+[^1]: Miscatalogued as from ‘Miss Yonge’.  Black-edged paper.
+[^2]: Daniel Sedgwick (1814-1879), a hymnologist, was seeking information about hymns in the collection produced much earlier by FMY: *The Child's Christian Year: hymns for every Sunday and Holy-day. Compiled for the use of parochial schools* (Oxford : J. H. Parker 1841).  The two hymns appeared there for Christmas Day and for the Second Sunday in Advent respectively.
+[^3]: Inserted in pencil in another hand, ‘Miss Jacob’.  This however is an error for 'Miss Garnier'.  John Julian’s *Dictionary of Hymnology* (1898), which drew on Sedgwick's collections, notes that it was written in 1835 by Emily Garnier, daughter of the Dean of Winchester (II, 1164).

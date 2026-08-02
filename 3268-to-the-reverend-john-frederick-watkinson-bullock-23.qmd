@@ -1,0 +1,42 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-06-22"
+letter_date: "June 22  [1894?]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 173-4"
+post_id: 3268
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-23"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-06-22"
+  url: "https://cmyonge.github.io/letters/3268-to-the-reverend-john-frederick-watkinson-bullock-23"
+---
+
+::: {.letter-metadata}
+**Date:** June 22  [1894?]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 173-4
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+Here is Salisbury. I am sorry I could find no more to say about it, the cathedral having been all built at once, and the Bishops not having been memorable except the last four.[^1] Burnet I could not put in![^2] The sunshine on the Altar on the 15th of August is quite true. I have seen it twice
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY refers to the work she was doing for Bullock's *Daily Lections* project. The last four Bishops of Salisbury had been [Edward Denison](people/person_2137.qmd), [Walter Kerr Hamilton](people/person_2138.qmd), [George Moberly](people/person_1015.qmd) and [John Wordsworth](people/person_1567.qmd), all High Churchmen.
+[^2]: Gilbert Burnet (1643-1715) was probably both too worldly and too Low Church to please CMY.

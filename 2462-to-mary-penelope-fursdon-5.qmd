@@ -1,0 +1,41 @@
+---
+title: "To Mary Penelope Fursdon"
+letter_iso_date: "1872-11-15"
+letter_date: "Novr 15 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 2462
+letter_id: "to-mary-penelope-fursdon-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Penelope Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-11-15"
+  url: "https://cmyonge.github.io/letters/2462-to-mary-penelope-fursdon-5"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 15 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Pixie](people/person_539.qmd)
+Your questions are all so good, I don't know which to choose, but I think we had better have the citizen of Athens, and the history of the Glorias[^1]
+
+your faithful
+Mother Goose
+
+---
+
+[^1]: The members of the [Gosling Society](organizations/other_104.qmd) took it in turns to pose questions for each other to write on, and the essays were read by CMY.

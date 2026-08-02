@@ -1,0 +1,38 @@
+---
+title: "To Beatrix Feodore Cresswell"
+letter_iso_date: "1888-03-31"
+letter_date: "March 31st 1888"
+location: "Elderfield Otterbourne"
+manuscript: "MS Girton College Cambridge, Yonge IX 3"
+post_id: 2876
+letter_id: "to-beatrix-feodore-cresswell"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Beatrix Feodore Cresswell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-03-31"
+  url: "https://cmyonge.github.io/letters/2876-to-beatrix-feodore-cresswell"
+---
+
+::: {.letter-metadata}
+**Date:** March 31st 1888  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Girton College Cambridge, Yonge IX 3
+:::
+
+Dear [Madam](people/person_383.qmd),
+
+The copy right of [Monthly packet](organizations/other_52.qmd) stories remains with the author, so that you are free to republish [King Pepito](other_books/otherbook_1053.qmd)
+
+Yours truly
+C.M. Yonge

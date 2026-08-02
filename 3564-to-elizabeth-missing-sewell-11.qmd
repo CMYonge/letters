@@ -1,0 +1,41 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1867-09-29"
+letter_date: "Michaelmas [29 September ?1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3564
+letter_id: "to-elizabeth-missing-sewell-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-09-29"
+  url: "https://cmyonge.github.io/letters/3564-to-elizabeth-missing-sewell-11"
+---
+
+::: {.letter-metadata}
+**Date:** Michaelmas [29 September ?1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS  Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd)
+(What a horrible pen) We shall be very glad to see you whenever you can come to us in the autumn. We have no engagement in the way. I will try to get the life of St Bernard – but the [London Library](organizations/other_29.qmd) but I cannot say it is better than other libraries for the ease of getting books.[^1]  wonder if he is among Lamartine’s [biographies](other_books/otherbook_578.qmd) some of which are telling, and I do not think they are very badly translated. But as you say this is a period when eloquent histories are scarce – Pray let us know as soon as you see your way to us. We have no engagement between next week and December.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Sic: CMY apparently lost the thread of her sentence when turning the page.  An excerpt from James C. Morison, *Life and Times of St. Bernard* appeared in the second volume of *European History* (1871).  It is tempting to date the letter to 1869, but the use of the word 'we' seems to place it definitely before the death of CMY's mother.

@@ -1,0 +1,35 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1865-00-00"
+letter_date: "[1865?]"
+manuscript: "MS location unknown. This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 181"
+post_id: 2001
+letter_id: "to-elizabeth-barnett-12"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-01-01"
+  url: "https://cmyonge.github.io/letters/2001-to-elizabeth-barnett-12"
+---
+
+::: {.letter-metadata}
+**Date:** [1865?]  
+**Manuscript:** MS location unknown. This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 181
+:::
+
+I hope [you](people/person_113.qmd) have Eugénie de Guérin.[^1] You are one of the people to like her especially and extremely, with her sweet religious, pastoral spirit and . . . devotion to her brother. I am exceedingly in love with her myself.
+
+---
+
+[^1]: CMY contributed an unsigned article on Eugénie de Guérin to the *Christian Remembrancer* in 1864.  *Lettres d’Eugénie de Guérin* (Paris, Didier 1865) was also reviewed in the *MP* 29 (March 1865) 297 as ‘Additional Letters of Eugenie de Guerin’.

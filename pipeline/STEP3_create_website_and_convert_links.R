@@ -22,7 +22,7 @@ derived_dir <- "C:/db"
 text_dir <- "C:/db/letters/data"   # hand-written prose, version controlled
 letter_source <- file.path(derived_dir, "all_letters_qmd_Apr26")
 ref_source    <- file.path(derived_dir, "reference_pages_qmd_Apr26")
-website_dir   <- file.path(derived_dir, "cmy_letters_website_Apr")
+website_dir   <- "C:/db/letters"
 
 
 # Update this when charlottemyonge.org.uk goes live
@@ -177,7 +177,7 @@ cat("Part 2: Creating Quarto config files...\n")
 quarto_config <- '
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Charlotte Mary Yonge Letters"
@@ -807,8 +807,8 @@ cmy_letter_counts <- cmy_links %>%
 
 cmy_df <- cmy_bib %>%
   left_join(cmy_letter_counts, by = "cmy_bookID") %>%
-  mutate(n_letters = ifelse(is.na(n_letters), 0, n_letters)) %>%
-  arrange(date, title)
+  mutate(n_letters = ifelse(is.na(n_letters), 0, n_letters))# %>%
+  #arrange(date, title)
 
 cmy_df <- cmy_df %>%
   mutate(category = str_squish(category),

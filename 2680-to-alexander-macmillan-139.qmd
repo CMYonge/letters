@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1879-07-09"
+letter_date: "July 9th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 99-100"
+post_id: 2680
+letter_id: "to-alexander-macmillan-139"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-07-09"
+  url: "https://cmyonge.github.io/letters/2680-to-alexander-macmillan-139"
+---
+
+::: {.letter-metadata}
+**Date:** July 9th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 99-100
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Old proofs of these Christmas stories have fortunately been discovered so I send them off herewith.[^1]
+
+I find I must ask you to be kind enough to let me have [£200 on account](organizations/other_160.qmd), or else £100 now and another £100 before Christmas. There  have been some unexpected calls upon me which drive me to ask this favour of you, though I am sorry to have to do so so early in the year
+
+Yours sincerely
+C M Yonge
+
+I suppose [Magnum Bonum](cmy_books/cmybook_131.qmd) will soon be put in hand
+
+---
+
+[^1]: She had been assembling the stories which were republished as *Bye-Words* (1880).

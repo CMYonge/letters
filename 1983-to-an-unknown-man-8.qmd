@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1864-10-07"
+letter_date: "Oct 7th 1864 [?]"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 1983
+letter_id: "to-an-unknown-man-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-10-07"
+  url: "https://cmyonge.github.io/letters/1983-to-an-unknown-man-8"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 7th 1864 [?]  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Sir,
+I am inclined to think that your purpose would best by answered by [SW](people/person_1475.qmd)’s Manuals on the Prayerbook, which have been written to enable scholars to prepare for competition for the Bishop of Exeter’s Prize.[^1] They, however, are only on parts of the Prayer book. There are also easy questions, going through the Prayerbook in recent volumes of the [Monthly Paper](organizations/other_81.qmd), I think the 3d and 4th but am not sure.
+
+Yours faithfully
+C M Yonge
+
+Both are published by Mozley
+
+---
+
+[^1]: Susanna Warren published, as ‘S.W.’, *A Manual of the Litany* (London: Mozley 1865), *A Manual of the Te Deum* (London: Mozley 1865) and *A Manual of the Office for Public Baptism of Infants, the Office for Private Baptism of Children, and the Order of Confirmation. For the use of Candidates for the examination for the Bishop of Exeter’s Prayer-Book Prizes* (London, Derby, Mozley 1866).   These books do not seem to have been published any earlier (the first was commended in 'Hints on Reading' in *MP* September 1865), and it may be that this letter in fact dates from later in the 1860s.

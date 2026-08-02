@@ -1,0 +1,46 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1880-04-19"
+letter_date: "April 19th [mid 1880s?]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2925
+letter_id: "to-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-04-19"
+  url: "https://cmyonge.github.io/letters/2925-to-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** April 19th [mid 1880s?]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mary](people/person_1626.qmd)
+
+[Gertrude](people/person_1462.qmd) desires me to say that the little fish arrived quite fresh and were very nice too which I can testify as she sent me two for breakfast. I am sorry you could not go to the Kitley entertainment. I dont [sic] think the tenants can be very badly off at this rate!
+
+We had a very nice confirmation [Georgie](people/person_1610.qmd) went up first of the boys.[^1] We had 30 altogether, Hursley 2 Ampfield 15.  [Mr Moor](people/person_1046.qmd) had to go home directly, [she](people/person_1044.qmd) is in a very precarious state with angina pectoris.[^2] Poor Jewel has been got into the hospital at last, they say he is very bad, and ought to have been there a year ago.[^3]  [Louisa](people/person_616.qmd) is coming to the house on Friday.  3h[?] Allbrook children came to school here last week, and the boys are emulously trying to catch up ours in their arithmetic
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: CMY's nephew George was born in 1871, so this would place the letter in the mid-1880s.
+[^2]: Frances Dorothy Moor (1825/6-1913), wife of the Rev. John Frewen Moor.
+[^3]: Perhaps William Jewell (b. 1853/4), living in Otterbourne as a gardener in the 1881 census, a gardener in Portsea in 1891. He could be the husband of [Mrs Jewell](people/person_767.qmd) to whose poverty CMY earlier refers.

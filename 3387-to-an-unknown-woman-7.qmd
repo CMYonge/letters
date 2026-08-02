@@ -1,0 +1,37 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1898-11-29"
+letter_date: "Novr 29 1898"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/30"
+post_id: 3387
+letter_id: "to-an-unknown-woman-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-11-29"
+  url: "https://cmyonge.github.io/letters/3387-to-an-unknown-woman-7"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 29 1898  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/30
+:::
+
+Dear Madam
+I am sorry to say that [Mrs Perowne](people/person_1663.qmd)’s paper is too late to appear in this number
+
+yours truly
+C M Yonge

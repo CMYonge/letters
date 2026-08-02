@@ -1,0 +1,52 @@
+---
+title: "To Louisa Alethea Bowles"
+letter_iso_date: "1899-12-22"
+letter_date: "Friday [22 December 1899]"
+location: "Elderfield"
+manuscript: "MS Pusey House, Oxford, inserted in a copy of <i>John Keble’s Parishes</i>, call mark 69.82cKEB.4."
+post_id: 3437
+letter_id: "to-louisa-alethea-bowles"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Louisa Alethea Bowles"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-12-22"
+  url: "https://cmyonge.github.io/letters/3437-to-louisa-alethea-bowles"
+---
+
+::: {.letter-metadata}
+**Date:** Friday [22 December 1899]  
+**From:** Elderfield  
+**Manuscript:** MS Pusey House, Oxford, inserted in a copy of <i>John Keble’s Parishes</i>, call mark 69.82cKEB.4.
+:::
+
+My dear [Alley](people/person_182.qmd)
+[Mrs Dennis](people/person_2205.qmd) and I counted up and found six babies of[Mothers Meeting](organizations/other_31.qmd)
+
+Alice Bean
+Gray
+Miles
+Hoskins boy
+May
+One other whom I cannot remember.
+
+Now can you tell me what you would like us to do on Christmas day-?  Our parties are so many that I want you to say candidly whether it would be too much for you for us to come down, the 3 of us to midday dinner or whether we had not better eat it at home and come down directly after-  What do you really think and feel about it?
+
+I found the women had rather not have a meeting next Thursday so I put it off to the first in 1900
+
+your affte
+C M Yonge
+
+---
+
+**Note:** Plain paper, endorsed in another hand ‘Dec: 22nd 1899.’

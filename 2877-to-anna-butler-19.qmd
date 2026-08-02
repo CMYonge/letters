@@ -1,0 +1,44 @@
+---
+title: "To Anna Butler?"
+letter_iso_date: "1888-03-14"
+letter_date: "March 14th 1888"
+location: "Elderfield"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2877
+letter_id: "to-anna-butler-19"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-03-14"
+  url: "https://cmyonge.github.io/letters/2877-to-anna-butler-19"
+---
+
+::: {.letter-metadata}
+**Date:** March 14th 1888  
+**From:** Elderfield  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Miss Butler](people/person_237.qmd)
+
+I am afraid that there would not be good room for your paper till the end of the year—I mean Jany 1889. I agree with you that those old letters are full of deep interest, and such curiously unexpected traits come out in them. 
+
+You will see in a note in the next [Monthly Packet](organizations/other_52.qmd) a very odd thing just disinterred out of some papers of my great-great-great grandfather about a tradition of Becket.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: In a note signed by C.M.Y. appended to 'The Canterbury Relics' in *MP*  3s 15 (April 1888) 368, she quotes from the diary of James Yonge (1647-1721)  his seeing a dark line of corn in a field which was supposed to mark a path taken by Thomas à Becket.

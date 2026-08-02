@@ -1,0 +1,39 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1866-04-26"
+letter_date: "April 26th [1866]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 156-157"
+post_id: 2121
+letter_id: "to-alexander-macmillanm081-1866-04-26"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-04-26"
+  url: "https://cmyonge.github.io/letters/2121-to-alexander-macmillanm081-1866-04-26"
+---
+
+::: {.letter-metadata}
+**Date:** April 26th [1866]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 156-157
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I enclose the list of the other copies of the [Dove](cmy_books/cmybook_62.qmd) to be sent out besides my own dozen. Our day of departure is still fixed for Monday, but it is very likely to be put off till Friday. I suppose you naturally send copies of my books to the [Guardian](organizations/other_75.qmd) but it is odd how it has ceased to notice them.
+
+If [Miss Keary](people/person_793.qmd)’s new [book](other_books/otherbook_465.qmd) is finished at the same time, I should be glad to have a copy in the parcel.
+
+Yours sincerely
+C M Yonge

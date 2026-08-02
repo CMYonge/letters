@@ -1,0 +1,51 @@
+---
+title: "To Henrietta Elizabeth Fursdon"
+letter_iso_date: "1860-12-29"
+letter_date: "Decr 29th [1860s]"
+location: "Elderfield"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 19298
+letter_id: "to-henrietta-elizabeth-fursdon"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henrietta Elizabeth Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-12-29"
+  url: "https://cmyonge.github.io/letters/19298-to-henrietta-elizabeth-fursdon"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 29th [1860s]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Henrietta](people/person_538.qmd)
+
+Many thanks to you both for your answers to the Scripture questions, - you see they are beginning to come into the [Monthly Paper](organizations/other_81.qmd) if you take it in
+
+I hope [Glow Worm](people/person_534.qmd)'s cold is mending.  Her Gay Geese were quite new to the collections.  I have sent all the Goose answers, though I think [Gurgoyle](people/person_327.qmd)'s must stand as the best.  I think you will be delighted with the [Barnacle](organizations/other_89.qmd) it is a very grand one this time.[^1]
+
+I am glad you have answered the Palm Sunday question.  I was afraid no one would.  Some unknown person sent me two nice answers for the two Christmas
+
+&nbsp;
+
+[passage missing where signature has been cut out]
+
+&nbsp;
+
+I shall help out one of your Palm Sunday answers with the other for the [M Paper](organizations/other_81.qmd).
+
+---
+
+[^1]: CMY refers to the essay contributions to the [Gosling Society](organizations/other_104.qmd) by Henrietta ('Irene'), her sister Charlotte ('Glow Worm') and Alice Coleridge ('Gurgoyle').

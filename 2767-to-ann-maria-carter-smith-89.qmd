@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1883-01-16"
+letter_date: "Jan 16th 1883"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1883/ 1"
+post_id: 2767
+letter_id: "to-ann-maria-carter-smith-89"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-01-16"
+  url: "https://cmyonge.github.io/letters/2767-to-ann-maria-carter-smith-89"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 16th 1883  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1883/ 1
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+Thank you much  I will keep the story for the final selection.  I think the mistake is excellently done, but I am not sure that the girls’ taking the journey on purpose to defy Mr Ritchie is not too dreadful.
+
+I am so glad you have brought out [Dulcibella](other_books/otherbook_957.qmd) again[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope with violet engraving on flap addressed to Miss Carter Smith/ Thistleworth/ Stevenage and postmarked Winchester (date cut out) and Stevenage 17 January 1883.
+[^2]: CMY seems to refer to two stories by Carter Smith here:  a story for the Christmas number which does not seem to have been chosen, and 'The Tramp of Many Feet', which was in course of serialization in the [*Churchman's Companion*](organizations/other_62.qmd).

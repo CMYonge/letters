@@ -1,0 +1,41 @@
+---
+title: "To Clifford Wyndham Holgate"
+letter_iso_date: "1896-05-26"
+letter_date: "May 26th 1896"
+location: "Elderfield"
+manuscript: "MS Charlotte Mitchell/17"
+post_id: 3327
+letter_id: "to-clifford-wyndham-holgate-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Clifford Wyndham Holgate"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-05-26"
+  url: "https://cmyonge.github.io/letters/3327-to-clifford-wyndham-holgate-3"
+---
+
+::: {.letter-metadata}
+**Date:** May 26th 1896  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mitchell/17
+:::
+
+Dear [Mr Holgate](people/person_1643.qmd)[^1]
+I will try what I can do.  I did write a short [memoir](cmy_books/cmybook_66.qmd) of Lord Seaton in the Christian Remembrancer, and it has all the dates. If I can find it, I can easily do what you wish. How soon will it be wanted?
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: Clifford Wyndham Holgate (1859-1903) was the author of a number of works on the history of Winchester College;  this correspondence seems to relate to a proposed article on Lord Seaton, perhaps to be published in the school magazine?

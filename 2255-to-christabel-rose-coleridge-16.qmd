@@ -1,0 +1,46 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1868-07-01"
+letter_date: "July 1st [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2255
+letter_id: "to-christabel-rose-coleridge-16"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-07-01"
+  url: "https://cmyonge.github.io/letters/2255-to-christabel-rose-coleridge-16"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Here are the answers but I really have no time to do their Cackle. The two months holidays come now, and would you kindly tell the brood that I think they had better not send me any questions after the holidays till I tell them. I hope by no means to give up [Goosedom](organizations/other_104.qmd) in the end, but [Mamma](people/person_1606.qmd) is so sadly failing that I must for the present drop all unnecessary claims on my time. I can still do things but those that tie me to certain days are necessarily many, and as things can only get worse, I am sure it is better not to do what can be dispensed with.
+
+Please make the others understand this, and likewise that I hope to return to my Goose work some time or other Tell them also that [Bog Oak](people/person_28.qmd) resigns, as she is going out to work at Cape Town under the [Bishop of Capetown](people/person_578.qmd).[^1] N B dont write this about her to her two cousins [Sparrow Hawk](people/person_97.qmd) and [Iceberg](people/person_1384.qmd), as her uncles & aunts are only to be told too late to make a remonstrance.[^2] In fact I think the Torquay ones had better simply be told she resigns.
+
+I saw [Katie Johns](people/person_887.qmd) yesterday but not to speak to
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: The boat sailed from Southampton, picking up Bishop Robert Gray and his wife at Plymouth on 10 October 1868.
+[^2]: The mother of Sparrowhawk (Anne Baker b.1840/1) was sister to Bog Oak (Mary Anderson Morshead)’s father; her mother and the mother of Iceberg (Mary Sunderland 1853/4-1877), were sisters.

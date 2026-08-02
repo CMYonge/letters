@@ -1,0 +1,41 @@
+---
+title: "To Fanny Harrison"
+letter_iso_date: "1887-10-11"
+letter_date: "Oct 11th [1887]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Dr Susan Walton"
+post_id: 14540
+letter_id: "to-fanny-harrison"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Fanny Harrison"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-10-11"
+  url: "https://cmyonge.github.io/letters/14540-to-fanny-harrison"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 11th [1887]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Dr Susan Walton
+:::
+
+Dear [Miss Harrison](people/person_2260.qmd)
+I believe the letter is from you though it is not the usual signature -  I do not know if you mean the original first number of the [Monthly Packet](organizations/other_52.qmd)or the first number of the series -  I have only one copy of the first, and that it is in a bound volume and marked and I do not like to post it without being sure that it is what you want
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** With envelope addressed to 'Miss Harrison, St Cross, Weybridge' and postmarked Weybridge 12 October 1887.

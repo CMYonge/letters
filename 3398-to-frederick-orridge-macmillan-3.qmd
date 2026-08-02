@@ -1,0 +1,43 @@
+---
+title: "To Frederick Orridge Macmillan?"
+letter_iso_date: "1899-03-01"
+letter_date: "March 1st 1899"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 251-2"
+post_id: 3398
+letter_id: "to-frederick-orridge-macmillan-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-03-01"
+  url: "https://cmyonge.github.io/letters/3398-to-frederick-orridge-macmillan-3"
+---
+
+::: {.letter-metadata}
+**Date:** March 1st 1899  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 251-2
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I believe I wrote before and asked whether you thought it worth while to revive two or three books of mine that have gone out of print. I have been asked about them again, which leads me to write. ‘[The Two Guardians](cmy_books/cmybook_13.qmd)’ and ‘[Henrietta’s Wish’](cmy_books/cmybook_11.qmd) were published by [Masters](organizations/other_112.qmd) and went through three editions at least, then I heard no more of them and his business  has been given up. The copyright is mine.
+
+They are both ‘stories for young people’ and were a good deal liked and honestly I think there is good work in them.
+
+[Kenneth or the Rear Guard of the Grand Army](cmy_books/cmybook_10.qmd) was published by [Parker of Oxford](people/person_1142.qmd). I believe he has let it drop, but there must be some merit in it since Mr E Arnold wrote to ask permission to make extracts in a [Reading book](other_books/otherbook_601.qmd)
+
+I thank you much for the beautiful series on Natural History. The birds delight me much
+
+Yours very truly
+C M Yonge

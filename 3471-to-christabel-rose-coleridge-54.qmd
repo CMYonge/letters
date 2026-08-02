@@ -1,0 +1,43 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-10-15"
+letter_date: "Oct 15 th [1900?]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/106"
+post_id: 3471
+letter_id: "to-christabel-rose-coleridge-54"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-10-15"
+  url: "https://cmyonge.github.io/letters/3471-to-christabel-rose-coleridge-54"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 15 th [1900?]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/106
+:::
+
+My dear [C C](people/person_329.qmd)
+By all means-
+
+My people sail on the 26th  I think [Mrs Woollcombe](people/person_1558.qmd)stays till Novr 1 and [Lottie](people/person_1588.qmd) does not come till the end of the month   [Mary Morshead](people/person_28.qmd) comes to do her African lectures on Mondays  She has just given her first and you will come in for the two last-
+
+I had a very interesting East London parson to entertain on Sunday week, a Huguenot who had been everywhere-   I mean an old Huguenot family of course.
+
+Xtian knowledge deals in historical stories   [Leila’s Quest](other_books/otherbook_777.qmd)is good also [‘Brownie’](other_books/otherbook_778.qmd)- the last not [SPCK](organizations/other_40.qmd)
+
+your affte
+C M Yonge

@@ -1,0 +1,39 @@
+---
+title: "To Miss Phillpotts"
+letter_iso_date: "1866-00-00"
+letter_date: "[after 1866]"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3521
+letter_id: "to-miss-phillpotts"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Phillpotts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-01-01"
+  url: "https://cmyonge.github.io/letters/3521-to-miss-phillpotts"
+---
+
+::: {.letter-metadata}
+**Date:** [after 1866]  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Miss Phillpotts](people/person_1171.qmd),
+It seems hardly fair to have kept your paper several days, when the [Monthly Packet](organizations/other_52.qmd) is obliged to 'draw a line' against the numerous Missionary Papers it might have, but I wanted to show it to [Miss Crawley](people/person_382.qmd) - who you know, as well as [Miss Morshead](people/person_28.qmd) was one of the first Sisters.
+
+She begged to keep a copy of it, and I think it would be most advisable to publish it. I was thinking of sending it to the [Literary Churchman](organizations/other_76.qmd)
+
+Yours truly
+C M Yonge
+
+Looking again at your note I see you design it for the [Net](organizations/other_94.qmd)as the next choice, so here it is.

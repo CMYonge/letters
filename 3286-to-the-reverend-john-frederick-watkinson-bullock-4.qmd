@@ -1,0 +1,45 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1895-03-16"
+letter_date: "March 16 [1895]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: English Letters: e.174 ff 159-61"
+post_id: 3286
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-03-16"
+  url: "https://cmyonge.github.io/letters/3286-to-the-reverend-john-frederick-watkinson-bullock-4"
+---
+
+::: {.letter-metadata}
+**Date:** March 16 [1895]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: English Letters: e.174 ff 159-61
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+I will try to do [Raymond Lull](cmy_books/cmybook_358.qmd) in short by the end of next week, I have both the books.[^1]
+
+You will be glad to hear that I have had a cheerful letter from Miss [Florence Wilford](people/person_1520.qmd) well, and at home with her [sister](people/person_1519.qmd)[^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to ‘The Revd  J.F.  Bullock/Radwinter Rectory/Saffron Walden.’ Postmark MR 16/95.
+[^2]: Raymond Lull (1232-1315), missionary and philosopher.
+[^3]: Florence Wilford seems to have been confined in a lunatic asylum in later life.

@@ -1,0 +1,47 @@
+---
+title: "To Elizabeth Wordsworth"
+letter_iso_date: "1897-01-02"
+letter_date: "January 2, 1897"
+location: "Elderfield"
+manuscript: "MS location unknown; these fragments printed in Wordsworth, [<i>Glimpses of the Past</i>](other_books/otherbook_727.qmd), 187-8"
+post_id: 3339
+letter_id: "to-elizabeth-wordsworth-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Wordsworth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-01-02"
+  url: "https://cmyonge.github.io/letters/3339-to-elizabeth-wordsworth-3"
+---
+
+::: {.letter-metadata}
+**Date:** January 2, 1897  
+**From:** Elderfield  
+**Manuscript:** MS location unknown; these fragments printed in Wordsworth, [<i>Glimpses of the Past</i>](other_books/otherbook_727.qmd), 187-8
+:::
+
+. . .Whether I shall accomplish wishing [you](people/person_1566.qmd) and [Lady Margaret Hall](organizations/other_6.qmd) a good New Year to-day must depend on the need of refreshing the church decorations, which always comes severely on the permanent workers, when the enthusiasm of the festival is over, with their occasional helpers .   . . . I sometimes think I could make a dissertation on staying at home in the holidays and getting every one's work to do.  Not that I mind it, but it is rather amusing - from hunting up a clergyman to baptize a child, to supplying half a crown towards the rent of some one going to be turned out, not knowing if it be a just demand.
+
+ . . .What joy there must be at Salisbury over the little daughter![^1]  I think the family has chiefly 'run to boys,' so she is the more welcome.   . . .Please give your sister [Susan](people/person_1570.qmd) my love, if I may.   . . . 
+
+Have you read Lord Selborne's '[Recollections](other_books/otherbook_726.qmd)'? The wisdom of his old father impresses me exceedingly, as does his own.  And the account of [Lord Chewton](people/person_2161.qmd) is so beautiful.  He was one of the veritable *héros de roman*.  One thing that pleased me in the ['Daisy Chain'](cmy_books/cmybook_24.qmd) article in the [*Guardian*](organizations/other_75.qmd) was the recognition that my good men were really imitations of the good men of the day, not mere ideals, as the present generation has come to imagine them. You may like to know that 'Heartsease' was the last book [Lord Raglan](people/person_1276.qmd) read;  the man ([Admiral Stewart](people/person_1277.qmd)) who lent it to him told me so. I have, in the last year or so, done what Rousseau's [Thérèse](people/person_2422.qmd) called the peacock admiring its own tail, or *tale* (it was hard that the pun was denied her), and been edified by the changes traceable in manners;  the funniest perhaps is, when Clement, a choir boy, talks of going third-class as a condescension.[^2]
+
+Oh, the contrast of the [Selborne life](other_books/otherbook_726.qmd) and [the Manning one](other_books/otherbook_725.qmd)!  The ambition and the want of real truth, yet the self-conscious nature trying to convince itself that he was neither ambitious nor untruthful.  And, as some review rightly observed, really repressing the faults, while Anglican, but thinking they were for the good of the Church when he had Romanized.  He hated Jesuits, but he had essentially the Jesuit nature.
+
+Yours sincerely and affectionately
+C. M. Yonge
+
+---
+
+[^1]: Elizabeth Wordsworth's brother [John](people/person_1567.qmd), Bishop of Salisbury (1843-1911) had married for the second time in 1896, and his daughter Margaret Faith Wordsworth was born in 1897.
+[^2]: Clement is a character in CMY's novel *The Pillars of the House*.  CMY's source for the Rousseau anecdote may have been Alexandre Dumas, *Mémoires d'un médecin: Joseph Balsamo* 19 vols (1846-8).

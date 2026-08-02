@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1884-07-17"
+letter_date: "July 17th [1884-1893]"
+manuscript: "MS Winchester City Council, Historic Resources Centre LH 3803.3"
+post_id: 3502
+letter_id: "to-an-unknown-woman-68"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-07-17"
+  url: "https://cmyonge.github.io/letters/3502-to-an-unknown-woman-68"
+---
+
+::: {.letter-metadata}
+**Date:** July 17th [1884-1893]  
+**Manuscript:** MS Winchester City Council, Historic Resources Centre LH 3803.3
+:::
+
+Dear Madam
+
+I am afraid these papers will not quite suit the [Packet](organizations/other_52.qmd).
+
+Would not [Friendly Leaves](organizations/other_71.qmd) be a good field for them[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: *Friendly Leaves* (1876-1917) was the magazine of the Girls’ Friendly Society, and continued as *The Girls’ Friendly Society Magazine* to 1951.

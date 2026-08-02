@@ -1,0 +1,47 @@
+---
+title: "To Edith Sophia Jacob"
+letter_iso_date: "1868-00-00"
+letter_date: "[1868]"
+manuscript: "MS Charlotte Mitchell"
+post_id: 2250
+letter_id: "to-edith-sophia-jacob-13"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-01-01"
+  url: "https://cmyonge.github.io/letters/2250-to-edith-sophia-jacob-13"
+---
+
+::: {.letter-metadata}
+**Date:** [1868]  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Amiable Beloved
+Can dear Eyes feel great hope in joy kindling lonely Margaretta’s notions of procuring quarters reposefully secure through united votes with xpressed youthful zeal - ?
+
+The alphabet will not serve me to express that I never gave [you](people/person_749.qmd) the direction to the lady who will try to get votes for [Miss Erle](people/person_2010.qmd), and here it is.[^1] [Mamma](people/person_1606.qmd) is very well and bright. The Chair is to be sent for to be inspected at home
+
+your affectionate 
+C M Yonge
+
+The address is 
+
+[Miss Carter Smith](people/person_263.qmd)
+8 Wellington Road
+Charlton
+
+---
+
+[^1]: Jacob is evidently seeking the admission of Miss Erle, whose first name was presumably Margaretta or Margaret, to a home for incurables. CMY had a subscriber's vote at the [Royal Hospital for Incurables](organizations/other_37.qmd), but the [Home for Incurable and Infirm Women](organizations/other_26.qmd) is another possibility.

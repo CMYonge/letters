@@ -1,0 +1,66 @@
+---
+title: "To Sir Walter Besant"
+letter_iso_date: "1899-02-07"
+letter_date: "Febry 7th [1899?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3394
+letter_id: "to-sir-walter-besant-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sir Walter Besant"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-02-07"
+  url: "https://cmyonge.github.io/letters/3394-to-sir-walter-besant-2"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 7th [1899?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Sir](people/person_1652.qmd)
+I have been so much interested by the book you have kindly sent me, in common with rest of the [Author’s Society](organizations/other_44.qmd) and, having had a little correspondence with you many years ago, when you were editing the English Plutarch, I venture to write, thinking you may care to hear some experiences of a long life of writing, not from necessity but because I had something to say.
+
+The passion for telling a story developed itself early, but began to take shape after reading Alisons [history of the Retreat](other_books/otherbook_214.qmd) from Moscow. [My father](people/person_1631.qmd) was an exact and fastidious man and he criticised and condemned every awkward expression in my MS till I could not get on, and it was laid aside for some years. Then the desire to make the beauty of Manzoni’s  <u>[I Promessi Sposi](other_books/otherbook_113.qmd)</u> known to him led to my translating it  - but as another translation came out, the only benefit was the training in language, and when I next attempted original composition, it passed muster though much corrected.
+
+That was my training in style, except the knowing his great admiration for the scene of [Bertram’s return to Ellangowan](other_books/otherbook_143.qmd), and [Morton’s](other_books/otherbook_192.qmd)to his home. When people ask me how to form a style, I always tell them ‘Take care of your grammar and your style will take care of itself’ - Though I do not know whether this is right, and of course there is an arrangement of syllables necessary -
+
+Nothing taught me so much as to the <u>keeping</u> to a story and the subordination of details as Sir Joshua Reynold’s old [Letters on Art](other_books/otherbook_135.qmd).
+
+Conversations benefitted by the habit of early youth, in <u>gaieté du coeur</u> of writing down in dramatic fashion the actual talks of a large merry party and I should recommend the habit as giving life to dialogue.
+
+Being a strong and practical man, my Father looked into publishing accounts, and came to most of your conclusions. ‘[The Little Duke](cmy_books/cmybook_20.qmd)’ was actually printed at Winchester and published on commission but my Father died suddenly while I was still very young, and being no accountant I was glad to leave things in the hands of [J.W. Parker](people/person_1143.qmd) to whom [Sir John Taylor Coleridge](people/person_344.qmd) had recommended me for the <u>[Heir of Redclyffe](cmy_books/cmybook_15.qmd)</u>, 1750 first Edition half profits, on his giving up I passed to [Macmillan](organizations/other_111.qmd) and I do not think I have had any cause to complain. Curiously however the <u>[Daisy Chain](cmy_books/cmybook_24.qmd)</u>, though brought out in awkward form, and never advantageously received has in the long run been more successful than any book, though <u>[Heartsease](cmy_books/cmybook_19.qmd)</u> reached 2000 the first year.
+
+My books for poor children remained with [Mozley](organizations/other_108.qmd) for whom I edited the [Monthly Packet](organizations/other_52.qmd), and for his successors, for more than 30 years, with fair success in its own field, juvenile (not children’s) and religious. Thus I have had experience in editorship enough to go along with what you say as to the hopelessness of the poor people who begin to write <u>for a purpose</u> - Also in general of recommendations. Only one of mine succeeded that of [the author of Mademoiselle Mori](people/person_1244.qmd), who would have done as well without it.
+
+One other curious fact I may mention. ‘<u>[John Inglesant](other_books/otherbook_534.qmd)</u>’ was sent me from the <u>[Guardian](organizations/other_75.qmd)</u> with a large parcel of other books. The small type, the awkward form and generally local or provincial appearance made me suppose it was a strictly private or provincial sort - and left it to the last
+
+Then of course I saw what a remarkable book it was. I [reviewed](cmy_books/cmybook_346.qmd) it there, and told others of it, especially [Mr St John Tyrwhitt](people/person_1428.qmd). After a time [Mr Gladstone](people/person_1653.qmd) took it up, and it was the book of the day, though [Mr Shorthouse](people/person_1654.qmd) had tried in vain to publish it and did so at his own expense.
+
+I sometimes wonder if it lives. He has done nothing to equal it.
+
+And - if you are not tired of this long letter, I should like to add that often in first efforts there is a charm of freshness and spontaneity not to be found in later work, though that may be really superior and better in workmanship. [Peter Simple](other_books/otherbook_193.qmd), [Harry Lorrequer](other_books/otherbook_194.qmd), [Waverley](other_books/otherbook_195.qmd), perhaps [Pickwick](other_books/otherbook_196.qmd), [Alice in Wonderland](other_books/otherbook_197.qmd), [Reata](other_books/otherbook_198.qmd) are all specimens of what I mean. One feels the enjoyment of the story-teller before he has to work up to his former performance.
+
+Begging you to excuse  me for this long egotistical letter
+
+Yours sincerely
+C M Yonge
+
+The Society has twice successfully interfered on my behalf[^1]
+
+---
+
+[^1]: Tentatively dated on the assumption that 'the book you have sent me' refers to Besant's *The Pen and the Book* (London: Burleigh 1899).
+[^2]: One of these occasions may have been the episode described in 'The Art of Authorship' *The Author* I (16 June 1890), 44-46, in which CMY is mentioned among those bamboozled by George Bainton into supplying them with descriptions of their writing practices which he subsequently had published as *The Art of Authorship* (London: Clarke 1890).

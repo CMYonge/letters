@@ -1,0 +1,44 @@
+---
+title: "To Charles Wooldridge"
+letter_iso_date: "1895-04-05"
+letter_date: "April 5th 1895"
+location: "Elderfield Otterbourne"
+manuscript: "MS Hampshire Record Office 67M92W/82/24"
+post_id: 3290
+letter_id: "to-charles-wooldridge-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charles Wooldridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-04-05"
+  url: "https://cmyonge.github.io/letters/3290-to-charles-wooldridge-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 5th 1895  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Hampshire Record Office 67M92W/82/24
+:::
+
+Dear [Mr Wooldridge](people/person_2094.qmd)
+I am afraid I am very ignorant about the term of the loan of the £1000.  I cannot say I ever expect [Mrs Yonge](people/person_1604.qmd) to pay it back to me.  She does not even know that I have paid it off.
+
+If I discontinue the payment for insuring her life, will the future payment of £1000 on her death lapse.
+
+Or if I continue it, or my heirs (for I can hardly expect to survive her) will it be paid on her death to my heirs?
+
+Also, to whom for the future shall I pay the fire insurance 1st for the London houses  2nd for those at Otterbourne?
+
+Apologising for all the trouble I am giving
+Yours truly
+C M Yonge

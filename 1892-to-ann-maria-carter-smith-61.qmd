@@ -1,0 +1,47 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1863-06-11"
+letter_date: "June 11th [1863]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1863/4"
+post_id: 1892
+letter_id: "to-ann-maria-carter-smith-61"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-06-11"
+  url: "https://cmyonge.github.io/letters/1892-to-ann-maria-carter-smith-61"
+---
+
+::: {.letter-metadata}
+**Date:** June 11th [1863]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/4
+:::
+
+My dear [Miss Smith](people/person_263.qmd),
+
+I am half afraid of plunging into a tour because I have got so many on hand, that [Eastern journal](other_books/otherbook_344.qmd) is indeed printed to the end, but I cannot get it in, and the [Journal in Holland](other_books/otherbook_345.qmd) lingers on, and I have some [Italian letters](other_books/otherbook_346.qmd) that I grieve not to have got in, so on the whole I think I had better decline yours, though if I had not been so ‘furred up’ as Hants people say I should have liked it very much.
+
+I must confess to having betrayed you to [Florence Wilford](people/person_1520.qmd) She so very nearly knew that I was obliged to tell, but I think she is very discreet. She has been staying a long time with [her aunt](people/person_384.qmd) nursing a sprained foot, but is now gone home.
+
+I heard of nothing amiss about the postage of your last [proofs](other_books/otherbook_275.qmd).
+
+yours sincerely
+
+C M Yonge
+
+---
+
+**Note:** Black edged paper, black engraved address Otterbourne, / Winchester, the word Elderfield added above Otterbourne. Envelope addressed to Miss Smith / 8 Wellington Buildings/ Charlton/ SE and postmarked Winchester 11 June 1863 and London SE (date illegible).

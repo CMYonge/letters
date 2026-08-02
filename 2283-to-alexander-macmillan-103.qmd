@@ -1,0 +1,49 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-10-20"
+letter_date: "Oct 20th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 220-1"
+post_id: 2283
+letter_id: "to-alexander-macmillan-103"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-20"
+  url: "https://cmyonge.github.io/letters/2283-to-alexander-macmillan-103"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 20th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 220-1
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+The enclosed rather puzzles me, for I thought it was settled that sheets of the [Chaplet of Pearls](cmy_books/cmybook_69.qmd) were to be forwarded to [Mr Franke](people/person_522.qmd) as they were ready for the Magazine? 
+
+Will you kindly see if this has been done?
+
+Please send me back [Wooed and Won](organizations/other_202.qmd). I must try what I can do with it.
+
+Are you reprinting Kingsley’s [Heroes](other_books/otherbook_358.qmd). We tried for both them and Miss Keary’s [heroes of Asgard](other_books/otherbook_534.qmd) for my brother’s children, and found both are out of print.
+
+The [Literary Churchman](organizations/other_76.qmd) is very favorable [sic] to the [Selections](cmy_books/cmybook_71.qmd), as I hear they have begun on them at a great girls’ school
+
+Yours very truly
+C.M. Yonge
+
+---
+
+**Note:** Black-edged paper.

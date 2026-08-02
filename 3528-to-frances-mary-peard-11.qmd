@@ -1,0 +1,46 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1880-03-29"
+letter_date: "March 29th [1880]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3528
+letter_id: "to-frances-mary-peard-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-03-29"
+  url: "https://cmyonge.github.io/letters/3528-to-frances-mary-peard-11"
+---
+
+::: {.letter-metadata}
+**Date:** March 29th [1880]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Frances](people/person_1160.qmd),
+
+We have had a chance of seeing the new (April) [Aunt Judy](organizations/other_54.qmd), so we will not benefit the revenue by the transmission of your copy this time 
+
+Poor [Alethea](other_books/otherbook_1098.qmd), one sympathises with her, but she is very naughty, and I am wondering what her form of discipline will be.[^1] We have had a splendid Easter, and the dry weather so favoured the Lenten services that they were remarkably well attended, and the church was exceedingly full on Good Friday and Easter day. But our poor school masters [wife](people/person_2394.qmd) was taken by some strange attack on Thursday and died today - leaving no children.<sup>2</sup> Poor thing she had lost seven at their birth, and I think it had preyed on her. [He](people/person_513.qmd) has made the boys behave better than I ever knew them but they did not shine in their examination, and I think he wants alertness and training - he had earned his certificate without being at a college.
+
+Have you see Miss Bramston’s [Thorn Fortress](other_books/otherbook_1099.qmd) S P C K?<sup>3</sup> I never knew a story give more satisfaction Winchester is bl[az]ing with blue and red, I am thankful the county has no contest. I am afraid it is beer that will bring in the Conservative at Winchester
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: Frances Mary Peard, *Princess Alethea* (London: Bell 1883), a novel reprinted from *Aunt Judy’s Magazine*, in which it had been serialized (January-December 1879). It was praised in ‘A Conversation on Books’ *MP* (January 1883).

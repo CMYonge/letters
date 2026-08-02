@@ -1,0 +1,17 @@
+---
+title: "'Cawnpore'"
+book_id: 60
+sort_title: "'Cawnpore'"
+---
+
+## Publication Information
+
+**Date:** 1865
+
+**Genre:** Non-Fiction: criticism
+
+**Publisher:** Not reprinted in volume form
+
+**Notes:** This was a review of <i>Cawnpore</i> by George Otto Trevelyan. The author was not named.
+
+

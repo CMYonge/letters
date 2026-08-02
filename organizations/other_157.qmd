@@ -1,0 +1,12 @@
+---
+title: "Wigram and Sons"
+other_id: 157
+---
+
+**Type:** organization
+
+## Description
+
+shipbuilders.  They constructed the Southern Cross.
+
+

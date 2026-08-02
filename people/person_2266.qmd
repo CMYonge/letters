@@ -1,0 +1,10 @@
+---
+title: "William John Dampier"
+person_id: 2266
+---
+
+## Biographical Information
+
+brother of [Jane](person_1345.qmd) and [Emily Dampier](person_404.qmd)
+
+

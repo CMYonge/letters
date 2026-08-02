@@ -1,0 +1,43 @@
+---
+title: "To Harriet Poole?"
+letter_iso_date: "1873-08-18"
+letter_date: "[August 1873]"
+manuscript: "MS Charlotte Mitchell"
+post_id: 2480
+letter_id: "to-harriet-poole-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harriet Poole?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-08-01"
+  url: "https://cmyonge.github.io/letters/2480-to-harriet-poole-2"
+---
+
+::: {.letter-metadata}
+**Date:** [August 1873]  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Miss Poole](people/person_1187.qmd)[^1]
+I suspected that you would have to change to Monday. I wonder if the enclosed will make any further change.  We shall be very glad to have you here on Sunday, and the carriage with [Miss Mackenzie](people/person_930.qmd) in it will meet you at Bpstoke at the same time.
+
+I suppose - as you do not say so - [Miss Dyson](people/person_464.qmd) has heard no more from Heaths Court[^2]
+
+yours affectionately
+C M Yonge
+
+---
+
+[^1]: Endorsed in pencil ‘Aug. 1873/ authoress’.
+[^2]: Presumed to be addressed to Harriet Poole, governess and sister of the Gosling Alice Poole.
+[^3]: Heath's Court was the home of Sir [John Taylor Coleridge](people/person_344.qmd).

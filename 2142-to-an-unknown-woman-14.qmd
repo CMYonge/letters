@@ -1,0 +1,53 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1866-12-30"
+letter_date: "Dec 30th [1866?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection"
+post_id: 2142
+letter_id: "to-an-unknown-woman-14"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-12-30"
+  url: "https://cmyonge.github.io/letters/2142-to-an-unknown-woman-14"
+---
+
+::: {.letter-metadata}
+**Date:** Dec 30th [1866?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection
+:::
+
+Madam,
+The school that I should think more likely to answer your purpose would be [St Michael’s, Bognor](organizations/other_185.qmd), which is under the Provostship of [Mr Woodward](people/person_1551.qmd) who has done so much for education – I cannot tell what the terms are but I know they are on a less expensive scale than those of schools equally good as education goes, and the doctrine is thoroughly <u>high</u> – The person to address for information is
+
+	The [Lady Warden](people/person_1973.qmd)
+St Michael’s
+Bognor
+
+[Miss Lowden](people/person_900.qmd) – Frome Selwood and [Miss Parkinson](people/person_1145.qmd) at Brighton have excellent schools, but the terms are high.
+
+	[Miss Bell](people/person_134.qmd)
+[Winnington Hall](organizations/other_186.qmd)
+Northwich
+
+has a school on a very large scale, where young ladies receive an excellent education on moderate terms. In fact it is the locality of [Ruskin](people/person_1268.qmd)’s [Ethics of the Dust](other_books/otherbook_477.qmd) and I believe he is often there, though I do not know whether that is a recommendation. The Author of [Mabel’s music lessons](other_books/otherbook_478.qmd) is musical governess there[^1] 
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: ‘Aunt Cecily’s music lessons,’ addressed to her niece Mabel, appeared in *MP* (July 1866-July 1869). The 1871 census indicates that the music teacher at Winnington Hall was then Elizabeth Flowel or Howel (b. Hampshire 1847/8).

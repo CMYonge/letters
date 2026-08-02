@@ -1,0 +1,10 @@
+---
+title: "Mrs Dennis"
+person_id: 2205
+---
+
+## Biographical Information
+
+helping at the Mothers' Meeting in 1899, perhaps the wife of [Mr Dennis](person_2171.qmd)
+
+

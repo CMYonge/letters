@@ -1,0 +1,37 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1894-07-21"
+letter_date: "July 21st 1894"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS British Library  Add MSS 54921: 208-9"
+post_id: 3271
+letter_id: "to-george-lillie-craik-15"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-07-21"
+  url: "https://cmyonge.github.io/letters/3271-to-george-lillie-craik-15"
+---
+
+::: {.letter-metadata}
+**Date:** July 21st 1894  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS British Library  Add MSS 54921: 208-9
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I see that your [‘house’](organizations/other_111.qmd) appears in the list of subscribers to the [Surgical Aid Society](organizations/other_16.qmd). Do you think one or more letters could be spared to me? A little child was sent from the Society for protecting [Waifs and Strays](organizations/other_2.qmd) with a lame foot paralysed after measles- to be boarded at a cottage here. She is now in the [Orthopaedic hospital](organizations/other_9.qmd), but she requires a boot and irons, and the expense is heavy, so that we should be very thankful for any letters to the surgical aid society to help us with it
+
+Yours truly
+C M Yonge

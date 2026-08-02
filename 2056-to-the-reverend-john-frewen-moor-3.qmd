@@ -1,0 +1,39 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1873-07-20"
+letter_date: "July 20th [1873?]"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2056
+letter_id: "to-the-reverend-john-frewen-moor-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-07-20"
+  url: "https://cmyonge.github.io/letters/2056-to-the-reverend-john-frewen-moor-3"
+---
+
+::: {.letter-metadata}
+**Date:** July 20th [1873?]  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+Will you write your list, and put it into this envelope, with anyone else’s who may want roots - Nobody else here will have any this year - Will you also add the no in Great Winchester St, I stupidly forgot to look at it before packing up the list - I am going to Hardwicke on Tuesday[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The reference to Hardwick, Bucks., of which the Rev. William Bigg Wither became Rector in 1871, suggests the 1870s; and CMY visited him in July 1873.

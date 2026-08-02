@@ -1,0 +1,77 @@
+---
+title: "To Messrs Macmillan"
+letter_iso_date: "1864-05-31"
+letter_date: "May 31st 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 26-27"
+post_id: 1956
+letter_id: "to-messrs-macmillan-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-05-31"
+  url: "https://cmyonge.github.io/letters/1956-to-messrs-macmillan-3"
+---
+
+::: {.letter-metadata}
+**Date:** May 31st 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 26-27
+:::
+
+Miss Yonge would wish the following presentation copies of <u>[the Trial](cmy_books/cmybook_53.qmd)</u> to be sent - if they have not already been sent, - she is not certain whether [Messrs Macmillan](organizations/other_111.qmd) had her list and should wish to guard against any being sent twice over - Copies to be sent to
+
+[Miss Coleridge](people/person_351.qmd)
+Heaths Court
+
+Care of [JD Coleridge](people/person_343.qmd) Esq
+6 Southwark Crescent 
+
+			also to - 
+
+[Sir William Heathcote](people/person_669.qmd) Bart M P
+91 Victoria Street
+
+[Mrs Pode](people/person_1180.qmd)
+3 Craven Place
+Westbourne Terrace
+
+Miss [Anne Yonge](people/person_1582.qmd)
+Puslinch
+Yealmton 
+Devon
+
+[Miss Dyson](people/person_464.qmd)
+Church Crookham
+Farnham
+
+Miss [Frances Patteson](people/person_1151.qmd)
+Weston
+St Mary Church
+Torquay 
+
+[Madame de Witt](people/person_423.qmd)
+Val Richer
+Lisieux
+Calvados
+France
+
+Also 12 copies to be sent to my/herself - by the South Western railway, addressed to 
+
+Miss Yonge
+Elderfield
+Otterbourne
+<u>Bishopstoke</u>
+
+Letters to be always directed to Winchester as post town, parcels by railway to Bishopstoke.

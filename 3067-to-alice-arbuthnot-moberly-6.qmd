@@ -1,0 +1,39 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1855-06-18"
+letter_date: "June 1855."
+location: "Otterbourne,"
+manuscript: "MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 121-2."
+post_id: 3067
+letter_id: "to-alice-arbuthnot-moberly-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-06-01"
+  url: "https://cmyonge.github.io/letters/3067-to-alice-arbuthnot-moberly-6"
+---
+
+::: {.letter-metadata}
+**Date:** June 1855.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 121-2.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+I hope [George](people/person_1014.qmd) is feeling the freshness of these nice cool days[^1], and [Mrs. Moberly](people/person_1019.qmd) is contented and happy without the babies, who by [Mary](people/person_1020.qmd) and [Edith](people/person_1012.qmd)'s account must be very funny, especially [Edward](people/person_1013.qmd).  What a pleasure it will be to see George at Winchester again, and to hear of all your doings, by which I hope ‘[The Daisy Chain](cmy_books/cmybook_24.qmd)’ will profit, as it has a Commemoration in it.  ‘[Cleve Hall](other_books/otherbook_146.qmd)’ I like very much, I think the best of [Miss Sewell](people/person_1301.qmd)'s stories.  . . .We had a nice visit from [Dora](people/person_968.qmd), [Kitty](people/person_114.qmd), [Annie](people/person_1024.qmd), and [Johnnie](people/person_1017.qmd) last week, and we all joined [Mr. Bigg-Wither](people/person_1544.qmd) and the Miss Yards[^2] and walked to Brambridge Gardens;  there was a very hot sun and a thunderstorm - not quite enough to satisfy *you*, but enough to flatter the children with the hope of being rained up at Otterbourne, in which case I think [Miss Cowing](people/person_374.qmd) would have been in a tolerable state of alarm.  I should have liked to have heard that Sea-King lecture.
+
+---
+
+[^1]: Alice Moberly was in Oxford, nursing her brother George through a serious illness.
+[^2]: [Eliza](people/person_1578.qmd) and [Adelaide Yard](people/person_1577.qmd)

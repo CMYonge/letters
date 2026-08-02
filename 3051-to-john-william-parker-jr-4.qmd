@@ -1,0 +1,41 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1854-07-19"
+letter_date: "July 19th [1854]"
+location: "Otterbourne"
+manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors. Printed by Green, ['Two Popular Novelists'](other_books/otherbook_75.qmd)."
+post_id: 3051
+letter_id: "to-john-william-parker-jr-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-07-19"
+  url: "https://cmyonge.github.io/letters/3051-to-john-william-parker-jr-4"
+---
+
+::: {.letter-metadata}
+**Date:** July 19th [1854]  
+**From:** Otterbourne  
+**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors. Printed by Green, ['Two Popular Novelists'](other_books/otherbook_75.qmd).
+:::
+
+Dear [Sir](people/person_1143.qmd)
+I am much obliged by your sending me the account of ‘[The Little Duke](cmy_books/cmybook_20.qmd)’ and the accompanying [£100](organizations/other_160.qmd). I should be glad if, in sufficient time beforehand, you would be kind enough to tell me your opinion with regard to a second edition, and whether it would be advisable to renew it in the present form, or to have one much smaller and cheaper.
+
+I have also to thank you for ‘[The Plurality of Worlds](other_books/otherbook_179.qmd)’, I had seen the first edition of that remarkable book but I am very glad to possess this with the additional matter at the commencement.
+
+I suppose 400 pages will not make the volumes too large. I do not know whether the printer has taken into account that most of the latter part of the M S is written less closely than the earlier portions
+
+Yours faithfully
+C M Yonge

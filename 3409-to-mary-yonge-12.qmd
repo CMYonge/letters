@@ -1,0 +1,48 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1899-07-01"
+letter_date: "July 1st[1899]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office Ac 1092/19"
+post_id: 3409
+letter_id: "to-mary-yonge-12"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-07-01"
+  url: "https://cmyonge.github.io/letters/3409-to-mary-yonge-12"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st[1899]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office Ac 1092/19
+:::
+
+My dear [Mary](people/person_1626.qmd)
+I remember [Charles Archer](people/person_52.qmd) at [Winchester](organizations/other_50.qmd) and he once or twice called on me.  [Harward](people/person_53.qmd) and [Fulbert](people/person_51.qmd) must be nearly the only ones left except [Mrs Tolcher](people/person_2087.qmd).[^1]  I think Fulbert was a little while at Winchester.  I sent you my idea of the insulted sufferer on a card yesterday  I thought at first of Zechariah the son of Jehoiader, but that did not quite to suit and I do not know that the other does.[^2]
+
+The Woollcombes go to London on Monday, poor [Mary](people/person_1558.qmd) for an operation on her throat for which she goes to a lady’s hospital, and spends about a week there while [he](people/person_1559.qmd) goes to [Admiral Woollcombe](people/person_2088.qmd)’s -  She has had it done before, and for those days it is painful and she cannot swallow.  I shall be very glad when it is over.  The Choir expedition is on Wednesday to the Earls Court exhibition, so most likely [Henry](people/person_184.qmd) will see the the [sic] Major and hear how it is.  Towards the end of the time, if she is going on well [Frances](people/person_1604.qmd) will be able to see her.  Her throat has always been amiss, and the influenza this spring set it wrong again.
+
+You get no [Monthly Packet](organizations/other_52.qmd) this month; [Innes](people/person_744.qmd) has come to some kind of smack, and it is stopped. [Christabel](people/person_329.qmd) comes to me the end of the week to see about what can be done, and if it can be revived at /6 a week-  I do not know if she stays on or goes to [Miss Bramston](people/person_195.qmd) when [Annie Cazenove](people/person_274.qmd) comes.  They both of them are bent on being present on the 19th when the [Bishop](people/person_1382.qmd) is to present me with the endowment of the [scholarship](organizations/other_113.qmd) and I must try not to look more sheepish and foolish than I can help.  By the by, Henry had a letter two days ago from a lady who wanted to describe ‘the late Miss Yonge’s garden’ and wished him to say where I was buried.  To which he answered that he had breakfasted with me that morning!  I wonder if Percy’s are the same mud baths I did a description of in [Magnum Bonum](cmy_books/cmybook_131.qmd)-  [Blanche Webber](people/person_1480.qmd) picked up much while here. I believe I go to Dorking on the 8th There was a garden party of 2000 at Farnham Castle on the 28th and a dreadful storm, one tree in the Park struck by lightning We had three short ones, one with huge hail for a few moments  Today is very showery.  
+
+your most affectionate
+C M Yonge
+
+A true story of a goose or gander   An English sentry in the time of the Canada rebellion saw a goose pursued by a fox.  It took refuge between his legs, and he killed the fox with his bayonet.  The goose grew so fond of him that it always went on guard with him and once when some rebels advanced to attack him it gave the alarm, and beat them off.  It lived with the regiment for 12 years and had a gold collar, now at the Horse Guards
+
+---
+
+[^1]: The Archers were cousins of the Yonges.  The Rev. Charles Harward Archer had evidently died.  His 10 brothers and sisters included the Rev. Samuel Harward Archer (b. 1821), Rector of Newton Ferrars, Fulbert Archer (1825-1904), who emigrated to New Zealand, and Catherine (Archer) Tolcher.
+[^2]: 2 Chronicles 24:20.

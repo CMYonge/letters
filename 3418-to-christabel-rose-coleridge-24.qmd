@@ -1,0 +1,44 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1899-08-15"
+letter_date: "[15 August 1899]"
+manuscript: "MS Mrs Clare Roels/79"
+post_id: 3418
+letter_id: "to-christabel-rose-coleridge-24"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-08-15"
+  url: "https://cmyonge.github.io/letters/3418-to-christabel-rose-coleridge-24"
+---
+
+::: {.letter-metadata}
+**Date:** [15 August 1899]  
+**Manuscript:** MS Mrs Clare Roels/79
+:::
+
+My dear [C C](people/person_329.qmd)
+I am sure unless we could get an amount of subscribers enough to start a new Church [Packet](organizations/other_52.qmd) with security, it would be vain.  Could we find out?  Otherwise [Sir W Besant](people/person_1652.qmd) is right, and we must acquiesce.  I would make [Duck’s  Eggs](cmy_books/cmybook_251.qmd) a fresh start for it is needed, but I think it is not hopeful, sorry as I am, especially that Church should be a decided drawback.[^1]  If it eschewed Controversy Churchbuilding charity and saints I should think it might get on  But <u>men</u> such as [Canon Ashwell](people/person_68.qmd) are hard to catch in these days  [FMP](people/person_1160.qmd) has changed her mind and says she won’t come, but is going to <u>India</u> .  I have written to beg her to meet me at Waterloo and come home with me on Friday but I don’t know if she will.
+
+I have excogitated a new end for <u>Ducks Eggs</u> working in the old friends.  All were going out to Carrigaboola, <u>via</u> San Frisco-  Magdalen- Paula and all, with Angela and the Bishop – also Bernard who – on holiday in England was suddenly wanted for a Travis & Underwood emergency, involving California  Ship either wrecked or on fire not far beyond Liverpool   ([Annie Moberly](people/person_1024.qmd) wanted a woman to hide for the sake of saving a more valuable life of Man)  Angela dies – putting her Sisters bonnet on someone else. All the women are saved, but Bernard is struck down by a spar left unseen, insensible  He comes to himself to find Angela hanging over him, the golden curls looking like her childhood.   They think they are going together, but a Ewemouth collier picks them up in time-  Bernard lifted into unconscious but Angela falls in lifting him into the sea  
+
+Phyllis had had to be left at home-  So you have the account in Bernard’s words to Clement
+
+your affte
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to Miss C R Coleridge/ Cheyne/ Torquay and postmarked Dorking 15 August 1899.
+[^2]: The working title for the novel which became *Modern Broods* (1900).

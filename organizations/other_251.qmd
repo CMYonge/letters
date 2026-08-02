@@ -1,0 +1,12 @@
+---
+title: "R & R Clark"
+other_id: 251
+---
+
+**Type:** organization
+
+## Description
+
+An Edinburgh printing firm.  They were the printers of [<i>Stray Pearls</i>](../cmy_books/cmybook_170.qmd) (1883).
+
+

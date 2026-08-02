@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1869-01-25"
+letter_date: "Jany 25th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS New York Public Library, De Coursey Fales Collection/4"
+post_id: 2297
+letter_id: "to-an-unknown-woman-32"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-01-25"
+  url: "https://cmyonge.github.io/letters/2297-to-an-unknown-woman-32"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 25th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS New York Public Library, De Coursey Fales Collection/4
+:::
+
+My dear Miss [name deliberately obscured][^1]
+I hope I am not tormenting you but on account of other engagements I am anxious to know whether you could come this week or next. The week that begins with the 7th and has Ash Wednesday in it, I am going to spend at [Mr Wilson](people/person_1541.qmd)’s but the one after that I shall be at home again if that suited you better than within the next fortnight
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper, endorsed ‘1869’.
+[^2]: Possibly [Elizabeth Missing Sewell](people/person_1301.qmd), a number of whose letters from CMY are marked in this way.

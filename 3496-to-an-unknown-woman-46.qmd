@@ -1,0 +1,48 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1875-12-17"
+letter_date: "Decr 17th [1875]"
+location: "'Monthly Packet'  6, Paternoster Row, London, E.C."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 3496
+letter_id: "to-an-unknown-woman-46"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-12-17"
+  url: "https://cmyonge.github.io/letters/3496-to-an-unknown-woman-46"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 17th [1875]  
+**From:** 'Monthly Packet'  6, Paternoster Row, London, E.C.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear Madam
+
+I well remember the warm interest that [Mr Keble](people/person_798.qmd) took in your poem, indeed one sentence in the notice was his own. The illustrated edition to which you allude of the [Christian Year](other_books/otherbook_95.qmd), must I think be either one with some photographs or else one with illuminations both of which were got up with little or no sanction from Mr Keble
+
+[Parker of Oxford](people/person_1142.qmd) is the only publisher to whom you could apply, but the copyright and the whole authority over the poems now belong to Mr Keble’s nephew - the [Revd T Keble (junior)](people/person_799.qmd) Bussage, Bisley, Stroud. [Sir John Coleridge](people/person_344.qmd) has nothing to do with them now.
+
+I should recommend your waiting till the drawings have been exhibited as then there will be something definite and known to mention, and you will be better able to judge of the impression they make on the general public
+
+I do not know what other advice to give, but I have always found much difficulty in getting publishers to accept [illustrations](organizations/other_167.qmd) that I care for.
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** The letter can probably be dated between the deaths of Keble’s brother, the Rev. Thomas Keble (1793-5 September 1875), and of Sir John Taylor Coleridge (1790-11 February 1876).  It is possible though that the elder Thomas Keble was still living when it was written, but the mid-1870s are still the most likely period (Keble had died in March 1866).

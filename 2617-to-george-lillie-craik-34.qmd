@@ -1,0 +1,44 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-01-22"
+letter_date: "Jany 22d 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 46-47"
+post_id: 2617
+letter_id: "to-george-lillie-craik-34"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-01-01"
+  url: "https://cmyonge.github.io/letters/2617-to-george-lillie-craik-34"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 22d 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 46-47
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Many thanks for [the payment](organizations/other_160.qmd) which comes pleasantly early this year.
+
+My [Spaniards and Moors](cmy_books/cmybook_126.qmd) are progressing, but I suppose I had better finish all before I send them, as if abridgement is needful it is better done on a whole than on a part.  
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

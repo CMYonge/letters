@@ -1,0 +1,43 @@
+---
+title: "To Gertrude Louisa LeGrand Jacob"
+letter_iso_date: "1873-04-30"
+letter_date: "April 30th [1873]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 2472
+letter_id: "to-gertrude-louisa-legrand-jacob-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Gertrude Louisa LeGrand Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-04-30"
+  url: "https://cmyonge.github.io/letters/2472-to-gertrude-louisa-legrand-jacob-3"
+---
+
+::: {.letter-metadata}
+**Date:** April 30th [1873]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Gertrude](people/person_751.qmd)
+I hope your chapter[^1] will be of a length that will fit happily into July.  I will do my best for its coming in.  Here is your [Twilight](other_books/otherbook_834.qmd)[^2] which please look over, and it will get in when there is room. I do not think I am likely to come to London  I have had two outings - to Chichester in Easter week and last week to the laying the 1st stone of [Keble Chapel](organizations/other_5.qmd) and I don't think I shall make much of an expedition till the opening of [Mr Wither](people/person_1544.qmd)'s Church   I wish Crawley was on this side Winchester[^3]
+
+yours very sincerely
+C M Yonge
+
+---
+
+[^1]: The first chapter of  G.L.J., 'The English Raja: James Brooke', was published in *MP* 16 (August 1873) 135-46, which ran until August 1874, and was published as Gertrude L. Jacob,  *The Raja of Saráwak : An account of Sir James Brooke, K.C.B., LL.D., given chiefly through letters and journals* (London: Macmillan 1876).
+[^2]: G. L. J., 'Twilight' *MP* ns 16 (July 1873) 100-104.
+[^3]: Jacob's father was Rector of Crawley, near Winchester.

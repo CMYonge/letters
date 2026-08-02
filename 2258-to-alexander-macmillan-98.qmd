@@ -1,0 +1,39 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-07-22"
+letter_date: "July 22nd [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 203-4"
+post_id: 2258
+letter_id: "to-alexander-macmillan-98"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-07-22"
+  url: "https://cmyonge.github.io/letters/2258-to-alexander-macmillan-98"
+---
+
+::: {.letter-metadata}
+**Date:** July 22nd [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 203-4
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+I am afraid I have been guilty of a misunderstanding, and of leading [Miss Sewell](people/person_1301.qmd) into one, but I thought we were to have [£200](organizations/other_160.qmd) for the copyright of the [Historical Selections](cmy_books/cmybook_71.qmd), and I must say I think it is hardly compensation for all the trouble it has given. Miss Sewell has connection enough to secure it a good sale as a school book and we should be quite willing to take a percentage on the sale, only that the permanent long account to be divided would be troublesome.
+
+I am afraid it is all my fault. You offered us the same as I was to have for the [Cameos](cmy_books/cmybook_73.qmd), and I am afraid I did think this was £200 for want of referring back to your letter about them and thus I misled both Miss Sewell and myself so that we had agreed that she should have £125 and I £75. I am sorry I made the blunder, but I think that now, unless you would give us the £200 (which I really think that the copyright is worth) that a percentage on the price of each 100 would be the most satisfactory way
+
+Yours sincerely
+C M Yonge

@@ -1,0 +1,47 @@
+---
+title: "To the Hon. Laura Elizabeth Palmer"
+letter_iso_date: "1874-08-13"
+letter_date: "Aug 13th 1874"
+location: "Somerleaze"
+manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 175-6."
+post_id: 2511
+letter_id: "to-the-hon-laura-elizabeth-palmer-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Laura Elizabeth Palmer"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-08-13"
+  url: "https://cmyonge.github.io/letters/2511-to-the-hon-laura-elizabeth-palmer-4"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 13th 1874  
+**From:** Somerleaze  
+**Manuscript:** MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 175-6.
+:::
+
+My dear [Miss Palmer](people/person_1238.qmd)
+The printer has put your name in full upon this proof - but if you do not wish it to appear, you had better scratch it out, though of course the Packet would be glad to have the story owned.[^1]
+
+I am glad it did not come while you were occupied with the wedding bustle, they like to put the Christmas number in hand a long time in advance. I am now at Mr [Edward Freeman](people/person_523.qmd)’s, but to morrow I go to [Mr Gibbs](people/person_560.qmd)’s at Tyntesfield and thence to Heaths Court.
+
+If it will suit [Lady Selborne](people/person_2299.qmd), I should be glad to come to you on Friday the 4th, for a night - it is a day later than I intended, but I have had to squeeze in another visit before coming to Crookham, and I shall not get there till the 27th
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to “The Honble/ Laura Palmer/ Blackmoor,/ Petersfield/ Hants” postmarked “Winchester/AU/ 21/74\\".
+[^2]: Somerleaze, near Wells, was the home of the historian Edward Augustus Freeman.
+[^3]: Palmer's story, 'Itys, the Faun' was contributed to the Christmas 1874 number of *MP*, which was in proof.

@@ -1,0 +1,44 @@
+---
+title: "To Lady Sophia Matilda Palmer"
+letter_iso_date: "1893-12-06"
+letter_date: "Decr 6th 1893"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS University of Iowa; MsL/Y56se"
+post_id: 3238
+letter_id: "to-lady-sophia-matilda-palmer"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Lady Sophia Matilda Palmer"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-12-06"
+  url: "https://cmyonge.github.io/letters/3238-to-lady-sophia-matilda-palmer"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 6th 1893  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS University of Iowa; MsL/Y56se
+:::
+
+My dear [Lady Sophia](people/person_1133.qmd),
+I am asked to send this card, in case [Lord Selborne](people/person_1129.qmd) has a vote disengaged for this poor young man. I hope the Blind are not so plentiful as idiots and incurables from whom there is no peace![^1]
+
+I suppose you have Dr Pusey’s [life](other_books/otherbook_683.qmd), it must be wonderfully interesting but it has not yet come in my way.[^2] It seems to fill up the complement of the other lives - I remember hearing about [Lucy Pusey](people/person_1216.qmd)’s death.<sup>3</sup> She must have been the flower of the flock.
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: No doubt the Earl of Selborne was a subscriber to an institution for the blind, perhaps the [Hampshire Blind School](organizations/other_25.qmd).
+[^2]: Pusey’s eldest child Lucy Maria Bouverie Pusey (?1829-22 April 1844).

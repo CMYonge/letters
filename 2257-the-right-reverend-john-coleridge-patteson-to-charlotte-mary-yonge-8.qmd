@@ -1,0 +1,37 @@
+---
+title: "The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge"
+letter_iso_date: "1868-07-18"
+letter_date: "[Norfolk Island, 18 July 1868]"
+manuscript: "MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i>, II, 330-1."
+post_id: 2257
+letter_id: "the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-07-18"
+  url: "https://cmyonge.github.io/letters/2257-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-8"
+---
+
+::: {.letter-metadata}
+**Date:** [Norfolk Island, 18 July 1868]  
+**Manuscript:** MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i>, II, 330-1.
+:::
+
+[He](people/person_1279.qmd) has been with [me](people/person_1155.qmd) for some years, always good and amiable; but too good-natured, too weak, so that he did not take a distinct line with his people. He is a person of some consequence in his neighbourhood. Now he gives all the proofs that can well be given of real sincerity. He wonders himself, as he contrasts his present with his former thoughts. I feel, humanly speaking, quite convinced that he is thoroughly in earnest. His wife and little child are in the islands. ‘How foolish of me not to have listened to you, and brought them here at once. Then we could stop here for good.’ But he will return with them, all being well, or without them, if anything has happened to them, and I see in him, as I hope and pray, the pioneer for San Cristoval at last.
+
+Three young Mahagan scholars, two grown up, one a lad of rank (for in the Solomon Islands they have chiefs of more or less consequence), speak and act in the same manner. [Hundulu](people/person_2013.qmd), the youngest, is a regular little hanger-on of mine, from the time that his father gave him to me years ago; and as I was lying down at night in the village ( a few months after burnt by their enemies) I felt the little fellow put his head on my chest for a pillow, and so signify his entering into my possession.
+
+---
+
+**Note:** The second paragraph was omitted from the revised edition.

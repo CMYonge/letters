@@ -1,0 +1,40 @@
+---
+title: "To Messrs Macmillan"
+letter_iso_date: "1864-09-03"
+letter_date: "Sept 3d 1864"
+location: "Testwood"
+manuscript: "British Library Add MSS 54920: 34"
+post_id: 1972
+letter_id: "to-messrs-macmillan-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-09-01"
+  url: "https://cmyonge.github.io/letters/1972-to-messrs-macmillan-4"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 3d 1864  
+**From:** Testwood  
+**Manuscript:** British Library Add MSS 54920: 34
+:::
+
+Miss Yonge would be much obliged if [Messrs Macmillan](organizations/other_111.qmd) would send a copy of each of her works to the [Vnble Archdeacon Badnell](people/person_90.qmd)[^1]
+Care of H J Dunell Esq
+4 Upper Hyde Park Gardens W[^2]
+
+---
+
+[^1]: The Ven. Hopkins Badnall (1821- 1892) was Archdeacon of George in South Africa, and later Bishop of Cape Town, which accounts for his correspondence being forwarded. CMY was probably presenting the books to a school.
+[^2]: On the reverse is a list of book titles in CMY’s writing: ‘History of Christian Names/ The Heir of Redclyffe/ Dynevor Terrace/ Daisy Chain/ Heartsease/ Hopes and Fears/ Young Stepmother/ Lances of Lynwood/ Little Duke / Marie Theresè of Lamourous’. These have been ticked in pencil and 'sent by I.D.C. Sept 5’ is noted.

@@ -1,0 +1,12 @@
+---
+title: "Alexandre Dumas - Le Comte de Monte-Cristo"
+book_id: 1120
+---
+
+## Publication Information
+
+**Date:** 1844-1845
+
+**Imprint:** Paris: Pétion
+
+

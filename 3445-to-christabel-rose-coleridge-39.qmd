@@ -1,0 +1,41 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-02-26"
+letter_date: "Feb 26 [1900]"
+manuscript: "MS Mrs Clare Roels/91"
+post_id: 3445
+letter_id: "to-christabel-rose-coleridge-39"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-02-26"
+  url: "https://cmyonge.github.io/letters/3445-to-christabel-rose-coleridge-39"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 26 [1900]  
+**Manuscript:** MS Mrs Clare Roels/91
+:::
+
+My dear [C C](people/person_329.qmd)
+I shall be very glad to see you on the 16th and I hope you come back again with the news of the meeting as I am told you can stay on with me a little while longer.  I hope you will sharpend up my wits a little about [my missionary lad](cmy_books/cmybook_250.qmd), who I mean to have the divine <u>afflatus</u> but I am almost afraid the history of his home preventions will almost stifle the mission work.
+
+We have had a man killed by falling in of[f] the chalk at the water works.
+
+Good luck to your lectures,  I suppose you have seen that they have found out who Sir Thomas Mallory was, a Lancastrian in prison. It was in the [Spectator](organizations/other_180.qmd).  
+
+[Cronje](people/person_2213.qmd)’s men are making a fine figure for history and sympathy
+
+your affte
+C M Yonge

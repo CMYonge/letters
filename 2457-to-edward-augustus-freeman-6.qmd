@@ -1,0 +1,46 @@
+---
+title: "To Edward Augustus Freeman"
+letter_iso_date: "1872-10-02"
+letter_date: "Oct 2nd [1872]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS John Rylands Library, Manchester, FA1/7/843"
+post_id: 2457
+letter_id: "to-edward-augustus-freeman-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edward Augustus Freeman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-10-02"
+  url: "https://cmyonge.github.io/letters/2457-to-edward-augustus-freeman-6"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 2nd [1872]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS John Rylands Library, Manchester, FA1/7/843
+:::
+
+My dear [Mr Freeman](people/person_523.qmd)
+I am not sure whether it be you or [Macmillan](people/person_939.qmd) whom I have to thank for the masterly little compendium that makes your [introductory volume](other_books/otherbook_828.qmd).[^1] It is a great comfort to be so helped along the line of the Holy Roman Empire. I dare say you know those quaint old books - I have seen two different ones - that give portraits of all the Emperors in succession from Constantine to the existing German one, the barbarous taste of the Byzantine head dresses being peculiarly amusing.  My uncle has one, where Charles the Great has such a magnificent head that if it be not a portrait the artist must have had an inspiration.
+
+Your suggestion about the pigs puts me in mind of a blunder that <u>ryles</u> me exceedingly and of which I believe [Owen Jones](people/person_782.qmd) to be the author.[^2]  Do you know the St Fridiswid’s window in the Cathedral at Oxford-? Now it is one thing to let alone old painted glass with a whole lot of apocryphal miracles in it, and quite another to adorn a Church in modern times with miracles in which you have not an atom of faith - and in this case there is a compartment with St Friediswid restoring to life a brood of  ducklings - and the most wonderful part of the whole is that the mother duck has a green head like a drake!
+
+I will wait about the German history till I hear what terms you come to with [the Scotsman](people/person_2286.qmd) - if he throws it up, I think it might be considered whether the thing might not be done in two parts the first coming down to the reign of Maximilian’s father
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Edward Augustus Freeman, *General Sketch of European History* (London: Macmillan 1872) was volume 1 of the 'Historical Course for Schools' of which he was editor.
+[^2]: Owen Jones (1809-1874) was a well-known designer and decorator whose work used lavish polychromatic effects, including stained glass;  the St. Frideswide window in Christ Church Cathedral, however, had been designed by [Edward Burne-Jones](people/person_227.qmd) (1833-1898).

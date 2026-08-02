@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1899-09-19"
+letter_date: "Sept 19 [1899]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Mrs Clare Roels/87"
+post_id: 3427
+letter_id: "to-christabel-rose-coleridge-35"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-09-19"
+  url: "https://cmyonge.github.io/letters/3427-to-christabel-rose-coleridge-35"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 19 [1899]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Mrs Clare Roels/87
+:::
+
+My dear [C C](people/person_329.qmd)
+I confess that though I mourn over the Manes of the [M P](organizations/other_52.qmd) I am personally a little relieved, for I was considering what I could honestly personally undertake or allow my name to be used for, in relation first to Truth, secondly in public spirit to the Church and girlhood, and thirdly in justice to kind helpers and endeavours for a fresh start.[^1]  [Helen](people/person_1613.qmd) has been reading the early volumes which somehow she had never seen, and I find that they were almost entirely my best and most enduring things, such as I could hardly renew imitate, and if I <u>did</u>, they would be only stale.  No, I could not do the same, nor could you, though you can do better and deeper and the young and lively do things of their own not in old grooves of their predecessors-  So we had better throw it off our minds and turn to what we <u>can</u> do – though we do not finish – like the singers in one of Hardy’s books with ‘a Sunday that is not something <u>after</u> a feast day’-[^2]
+
+[Nat Soc](organizations/other_32.qmd) has [paid](organizations/other_160.qmd) me as much as ever.  I hope the [Herd Boy](cmy_books/cmybook_248.qmd) may come in a day or two.  [Miss Fin](people/person_512.qmd)’s [Miss Blunt](people/person_163.qmd) is coming to see her on Thursday, she is all right again, but [Alethea](people/person_182.qmd) has had the prevalent complaint!  [Annie](people/person_1024.qmd) went away yesterday, having had a fit of rheumatism in one leg.  I hope you will see more of her.  Wilfred Merrifield has set up a mischievous little flirtation with Vera.[^3]  I think I shall finish by Christmas or before, and then <u>my</u> [missionary story](cmy_books/cmybook_250.qmd), but the aunt and niece might be simultaneous if we see an opening.
+
+your affectionate
+C M Yonge
+
+I wonder if we shall ever hear what has become of [A D I](people/person_744.qmd)  I am very sorry for him, as well as sorry for you, and the upset of work
+
+---
+
+[^1]: They were abandoning attempts to revive the *Monthly Packet*, which had come to an end as a result of the collapse of A. D. Innes's publishing business.
+[^2]: Thomas Hardy, *Under the Greenwood Tree: A Rural Painting of the Dutch School* 2 vols (London: Tinsley 1872), Chapter 4: ‘All we thought was, that for us old ancient singers to be choked off quiet at no time in particular, as now, in the Sundays after Easter, would seem rather mean in the eyes of other parishes, sir.  But if we fell glorious with a bit of a flourish at Christmas, we should have a respectable end, and not dwindle away at some nameless paltry second-Sunday-after or Sunday-next-before something, that's got no name of his own.’
+[^3]: Characters in *Modern Broods*.

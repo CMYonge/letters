@@ -1,0 +1,14 @@
+---
+title: "Anon. - Der Weiss Kunig: eine Erzehlung von den Thaten Kaiser Maximilian des Ersten"
+book_id: 420
+---
+
+## Publication Information
+
+**Date:** 1775
+
+**Imprint:** Vienna: Kurzboeckens
+
+**Notes:** Like <i>Der Theuerdank</i>, this was a fictionalized autobiography or biography of Maximilian I.  This one was published from fragments in 1775.
+
+

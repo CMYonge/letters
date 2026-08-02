@@ -1,0 +1,48 @@
+---
+title: "To the Reverend Arthur Rawson Ashwell"
+letter_iso_date: "1868-11-10"
+letter_date: "Nov 10th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Yale University, Beinecke Library"
+post_id: 20021
+letter_id: "to-the-reverend-arthur-rawson-ashwell"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Arthur Rawson Ashwell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-11-10"
+  url: "https://cmyonge.github.io/letters/20021-to-the-reverend-arthur-rawson-ashwell"
+---
+
+::: {.letter-metadata}
+**Date:** Nov 10th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Yale University, Beinecke Library
+:::
+
+My dear [Mr Ashwell](people/person_68.qmd)
+
+Here is a small photo of the [Church of the Resurrection](organizations/other_188.qmd).  There are some larger, but they will not travel so well.  I hope in the lighter days of spring to get one taken of the Reredos, which represent our Lord’s Resurrection, and which was my mother’s gift though she never saw it.  It is very beautiful, but the interior wants colour, and Mr Langlands means to try experiments on it with the Christmas decorations.  I will see whether any thing turns up that will make an interesting review for January, I am afraid the Woman’s Kingdom[^1] which I sent you yesterday was rather a dull summary of the story.  I am afraid it is too late to get a mention of the [LC](organizations/other_76.qmd) into the Decr [M P](organizations/other_52.qmd), but I will try, and at any rate there is January.  If [Mudie](organizations/other_137.qmd) would only send me the books I want, there would be some chance of writing one’s notices in time!  Herewith is one of the translation of the Abbé Perreque, which I own I beheld with dismay, having just set a young friend of my own to work upon it.  However I think it is well done.
+
+We are all torn here about the Oxford election.  [My brother](people/person_1624.qmd) and [Mr Wither](people/person_1544.qmd) both think they ought to vote for Mowbray,[^2] though it goes sorely against them to oppose [Sir R Palmer](people/person_1129.qmd).  We shall never see the like of [Sir Wm Heathcote](people/person_669.qmd) again, but at least we have him at home less ill than we feared
+
+yours sincerely
+
+C  M Yonge
+
+&nbsp;
+
+---
+
+[^1]: Dinah Mulock Craik, *The Woman's Kingdom*. 3 vols.London:Hurst and Blackett, 1869. (First published serially in [*Good Words*](organizations/other_73.qmd), Jan-Dec, 1868.)
+[^2]: Sir John Robert Mowbray, Bt. (1815–1899) succeeded Sir William Heathcote as M. P. for the University of Oxford in 1868.

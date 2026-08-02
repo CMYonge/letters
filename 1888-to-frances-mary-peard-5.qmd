@@ -1,0 +1,44 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1863-03-19"
+letter_date: "March 19th 1863"
+location: "Otterbourne, Winchester."
+manuscript: "MS Princeton University, Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 1888
+letter_id: "to-frances-mary-peard-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-03-19"
+  url: "https://cmyonge.github.io/letters/1888-to-frances-mary-peard-5"
+---
+
+::: {.letter-metadata}
+**Date:** March 19th 1863  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Miss Peard](people/person_1160.qmd)
+
+It is very kind of you and exceedingly inviting - the Sphinxes especially, but just at this moment [my mother](people/person_1606.qmd) and I are moving into a cottage - as my [brother](people/person_1624.qmd)’s family is outgrowing this house, where I have lived the 39 years of my life - and we are in such difficulties how to stow away our belongings, especially in the way of pictures that we are really afraid to increase the number of them, otherwise I think we should be greatly tempted by your very kind offer. How you will enjoy the choice. I wish I was to be in town in time to see them, but I daresay I shall meet with a sight of some when we come up for a week in the end of April. All the more enterprising part of our household kept the great day at Winchester and considered themselves to have had a good view of the [princess](people/person_1877.qmd)[^1] in her train. I only saw the carriage on the line half a mile off, and heard the guns at Southampton. The bonfires were a magnificent sight in which the country people really had the advantage. I hope the happy pair had not their heads too stiff with bowing to look out at Osborne for all the I of Wight was blazing, and the Portsmouth shore. What a fairy land it must all be to her in her fresh simplicity I think I like [Aytoun](people/person_1875.qmd)’s poem[^2] the best of those the event has produced. Our direction after Monday will be at Elderfield Otterbourn [sic] &c 
+
+Yours sincerely
+
+CMYonge
+
+---
+
+[^1]: The note is folded, sealed, stamped and addressed on the reverse to ‘Miss Peard 16 South Audley Street/Grosvenor Square/London/W’.
+[^2]: Alexandra Princess of Wales, travelling with her husband (later Edward VII) to Osborne House, on the Isle of Wight, for their honeymoon.

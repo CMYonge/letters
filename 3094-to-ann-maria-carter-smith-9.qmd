@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1857-02-04"
+letter_date: "Febry 4th [1857]"
+location: "Otterbourn"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1857/1"
+post_id: 3094
+letter_id: "to-ann-maria-carter-smith-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1857-02-04"
+  url: "https://cmyonge.github.io/letters/3094-to-ann-maria-carter-smith-9"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 4th [1857]  
+**From:** Otterbourn  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/1
+:::
+
+Dear [Miss Smith](people/person_263.qmd)
+I am sorry to say that Aylton will not do. Phoebe is a noble little creature, and all has much of the prettiness that it is in all you do, but in the first place, the whole turns exclusively on love, and though that is not a subject that I at all wish to omit in the [M.P.](organizations/other_52.qmd) I had rather have it as an accessory than a principal. In the second place I never could like that kind of death bed request and I have an objection to the marrying a first love after a second. Still these are tastes of my own, and the story would probably tell very well in some other publication, and yet I think it is really a little exaggerated in several points. Would Constance with her perception of Phoebe’s superiority have brought her husband to live close by her? And are not two premature births rather too much? I think the whole effect to me is that this is a tale, whereas all your others are like bits of life, and have much more pathos, because they are so much quieter. I hear more and more praise of [Thorns and Roses](other_books/otherbook_253.qmd). Strangers seem as if they could not help expressing how much they like them.
+
+Poor [Wishop](other_books/otherbook_257.qmd)! I have a great tenderness for Helen, but I confess that Roger rubs roughly against me. What will you say to me for having read it to [Miss Sewell](people/person_1301.qmd) the other evening. She liked most of it very much, but she was strong against Roger taking Holy Orders. I do think the contrast between Hester’s failures and Kate’s apparent success too valuable to be quite lost. But I honor the withdrawal, when you have the feeling that you can do better, and I believe that the best thing we can do will be this, that I should return you Wishop and Aylton by tomorrow’s post, and publish the [Household Record](other_books/otherbook_259.qmd) at the first interval - (that is as soon as [Adelaide and her Godson](other_books/otherbook_260.qmd) are over, for to my surprise, they are twice as long as I thought) and still hope you may favour me with some story at your leisure. I should not wonder if you were to improve and soften the Wishop story, for I should not like Hester never to come to good, and I have many a time found that an idea mends by keeping and waiting.
+
+Hoping you will exonerate my unpleasant sincerity
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to Miss A C Smith/ Stepney Rectory/ London  and postmarked Winchester 4 Feb and on reverse 5 February 1857

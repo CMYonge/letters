@@ -1,0 +1,51 @@
+---
+title: "To Alice Arbuthnot Moberly?"
+letter_iso_date: "1893-08-23"
+letter_date: "Aug 23d [1893?]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3228
+letter_id: "to-alice-arbuthnot-moberly-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-08-01"
+  url: "https://cmyonge.github.io/letters/3228-to-alice-arbuthnot-moberly-11"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 23d [1893?]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Alice](people/person_1025.qmd)
+Jill is without a doubt Gillian, which is Juliana, and can be traced in genealogies all around the country. Of course that has the same derivation as Julius, whatever that may correctly be.
+
+In France there were two Saints, popularly called Josse. One was Jodocus apparently Welsh, who came to Brittany, then was a hermit at Ponthieue, and Jodocus <u>Venator</u> appears in Doomsday, so probably Josse with diminutive Josceline was our name. There was another Josse made out of St Justus or Juste of Lyons, and no one knows the rights of the contractions or which is which!
+
+Joyce - feminine is Jocosa, but I much doubt Josceline being feminine properly, I never met one except old Countess Joscelind in the [Antiquary](other_books/otherbook_678.qmd), not an agreeable namesake
+
+I have had a splendid little silver box given me by a lady who was not in time for the Nest
+
+I hope [Robert](people/person_1021.qmd) is not the worse for his journey. What a comfort this coolness is though we quake as the school children go to Porchester today
+
+[Harriet](people/person_1359.qmd) would like to put you in mind that you said she should have the cutting from the Times[^1]
+
+Your most affectionate
+C M Yonge
+
+---
+
+[^1]: This is a reference to the [presentation](organizations/other_225.qmd) made to CMY on her 70th birthday, 11 August 1893, reported in *The Times* (16 August 1893), 8.

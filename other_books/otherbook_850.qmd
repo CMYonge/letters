@@ -1,0 +1,12 @@
+---
+title: "Francois Guizot - Histoire de la civilisation en france depuis la chute de l'empire romain jusque en 1789"
+book_id: 850
+---
+
+## Publication Information
+
+**Date:** 1829
+
+**Imprint:** Paris: Pichon et Didier
+
+

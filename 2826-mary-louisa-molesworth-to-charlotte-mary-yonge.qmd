@@ -1,0 +1,45 @@
+---
+title: "Mary Louisa Molesworth to Charlotte Mary Yonge"
+letter_iso_date: "1886-02-26"
+letter_date: "February 26 [1886]"
+location: "85, Lexham Gardens, Kensington, W"
+manuscript: "MS NLS 9752"
+post_id: 2826
+letter_id: "mary-louisa-molesworth-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Mary Louisa Molesworth to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-02-26"
+  url: "https://cmyonge.github.io/letters/2826-mary-louisa-molesworth-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** February 26 [1886]  
+**From:** 85, Lexham Gardens, Kensington, W  
+**Manuscript:** MS NLS 9752
+:::
+
+Dear Miss Yonge
+
+I had the proofs of [‘One Sunday Morning’](other_books/otherbook_993.qmd) some time ago & corrected them carefully.  There were several small errors - in themselves small but rather important as affecting the sense, but I daresay the printers will have made all right.  I want to know if I may send you another [short article](other_books/otherbook_998.qmd) I have by me just now.  It is not original, being a <u>free</u> translation from the French of Madame de Pressensé;  the original appeared <u>recently</u> in a French serial not known in England. It was beautifully written in French & I don't think it reads like a translation in English.  It is the history of a sort of <u>French</u> ‘city arab’, and I think it cd. be rather new to English readers.  Madame de Pressensé gave me leave to do what I liked with my translation, but I should like it to appear before <u>very</u> long, for her sake.  The French title is ‘Le Parigot’, I have called it ‘Felix, an outcast’.  Shall I send it to you?  I think it cd. easily divide into two parts if too long for one.  
+
+My friend [Mr. Craik](people/person_379.qmd) told me the other day that you had asked him if I was the Mrs. Molesworth who had written [‘Carrots’](other_books/otherbook_999.qmd) &c.  Perhaps I shd. have mentioned this to you when I wrote first, but there is no other <u>woman</u> of the name who writes, so I did not think of it. 
+
+And in one sense it makes me all the more pleased that you like my sketch, <u>without</u> knowing me.
+
+Believe me
+yours very truly
+[Louisa Molesworth](people/person_1028.qmd)
+
+I have stupidly mislaid your address. Will you kindly let me have a word in reply as soon as you can.

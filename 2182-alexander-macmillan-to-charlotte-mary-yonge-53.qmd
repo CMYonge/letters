@@ -1,0 +1,47 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1867-06-29"
+letter_date: "June 29. 1867."
+manuscript: "Copy outletter book British Library Add MSS.55387 (1): P. 313"
+post_id: 2182
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-53"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-06-29"
+  url: "https://cmyonge.github.io/letters/2182-alexander-macmillan-to-charlotte-mary-yonge-53"
+---
+
+::: {.letter-metadata}
+**Date:** June 29. 1867.  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1): P. 313
+:::
+
+Dear Miss Yonge	
+[I](people/person_939.qmd) write mainly to acknowledge the receipt of your last four chapters, and also to say that your sketch seems to me very good. But were you not to give a <u>third</u> [pupil of St John](cmy_books/cmybook_72.qmd)?
+
+I will see [Miss Martin](people/person_971.qmd) today she will no doubt write to you on any point of detail. I do not in the least anticipate any difficulty on point of church arrangements.[^1] Only one thing has struck me that in glancing over parts, that your tone is <u>slightly too</u> much as if addressed to quite young people . It would be quite enough to make it such as they will understand; but we wish to give food which stronger stomachs will like with relish. In <u>families</u> we thought of all sorts of educated people short of <u>learned</u>. I do not think that anything need be altered in what is actually done, but it might be well to bear this in mind in what is to come.
+
+I will see [Mr Armitage](people/person_60.qmd) on the subject of [illustrations](organizations/other_167.qmd). I hope he will [*illegible*]
+
+your subjects, the only one I am doubtful of is the <u>lions</u>[^2], which are hard to treat I fear.
+
+I am dear Miss Yonge
+Yours very faithfully
+Alex Macmillan
+
+---
+
+[^1]: CMY had been anxious whether Macmillan's view of his [Sunday Library](organizations/other_145.qmd) was consonant with her High Church views.
+[^2]: The lions in the Colosseum who devoured St John’s pupil Ignatius.

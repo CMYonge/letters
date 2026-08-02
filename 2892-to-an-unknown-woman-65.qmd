@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1888-10-06"
+letter_date: "Oct 6th 1888"
+location: "Elderfield"
+manuscript: "MS Yale, Beinecke Library,  Osborn Files 41.21"
+post_id: 2892
+letter_id: "to-an-unknown-woman-65"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-10-06"
+  url: "https://cmyonge.github.io/letters/2892-to-an-unknown-woman-65"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 6th 1888  
+**From:** Elderfield  
+**Manuscript:** MS Yale, Beinecke Library,  Osborn Files 41.21
+:::
+
+Dear Madam
+
+I am exceedingly sorry for this, but I have nothing to do with those advertisements which are entirely [the publisher](people/person_744.qmd)’s affair [^1] I will send him your letter at once
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: CMY's correspondent had evidently complained about the advertisement in *MP* of a book by  [Mary Ward](people/person_1467.qmd), whose *Robert Elsmere* was a novel about a clergyman's loss of faith. See below, letter to Innes (1 November 1888).

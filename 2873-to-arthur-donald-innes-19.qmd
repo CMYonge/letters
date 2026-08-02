@@ -1,0 +1,62 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1888-02-08"
+letter_date: "Feb 8th 1888"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 8"
+post_id: 2873
+letter_id: "to-arthur-donald-innes-19"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-02-08"
+  url: "https://cmyonge.github.io/letters/2873-to-arthur-donald-innes-19"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 8th 1888  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 8
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+
+I am afraid I never answered about the MS. It will not do being too much of the mere novelette. I do not object to such dénouements, but a story ought, I think to turn on something besides.
+
+[Miss Coleridge](people/person_329.qmd) has £5 a year for her work upon [Debatable Ground](other_books/otherbook_1045.qmd). I do not know if that was mentioned but she has not had it yet. I think you have her new address.
+
+I think you have all the addresses this time except 
+
+[Padre Agostino](other_books/otherbook_1046.qmd)
+[Mrs Morgan Morgan](people/person_1055.qmd)
+St Peter’s Parsonage Peterhead NB
+
+[Workhouse Infirmary](other_books/otherbook_1047.qmd)
+[Miss Cazenove](people/person_274.qmd)
+Ravensleigh
+Betchworth
+
+[Mother Carey](other_books/otherbook_1048.qmd)
+[Miss Bramston](people/person_198.qmd)
+41 Dingwall Road 
+Croydon
+
+She - as you know is an author <u>with a name</u>
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** 

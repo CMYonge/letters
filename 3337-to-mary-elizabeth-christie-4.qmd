@@ -1,0 +1,41 @@
+---
+title: "To Mary Elizabeth Christie"
+letter_iso_date: "1896-12-15"
+letter_date: "December 15 (1896)"
+location: "Elderfield, Otterbourne"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd),  341"
+post_id: 3337
+letter_id: "to-mary-elizabeth-christie-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Elizabeth Christie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-12-15"
+  url: "https://cmyonge.github.io/letters/3337-to-mary-elizabeth-christie-4"
+---
+
+::: {.letter-metadata}
+**Date:** December 15 (1896)  
+**From:** Elderfield, Otterbourne  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd),  341
+:::
+
+Dear [Miss Christie](people/person_294.qmd)-
+If I could I would help you to an autograph, but I have long ago given away such of [Mr. Keble](people/person_798.qmd)'s as were not too personal and precious, and I do not think I have any left except some scraps of correction on the proofs of hymns in the [*Child's Christian Year*](other_books/otherbook_186.qmd), such as you would hardly care for.
+
+I well know the pressure of [*Guardian*](organizations/other_75.qmd) books, but as I am as devoted to Sunday-school work at seventy as I was at seven I am always sustained by the hope of finding something appropriate thereto, and at this time of year this carries me through floods of milk and water and spoon meat. It is much to come on one really superior book in a batch.
+
+No wonder you cannot read or write with a holiday boy to ‘tackle,’ as our old women say.-
+
+Yours truly,
+C. M. YONGE

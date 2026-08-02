@@ -1,0 +1,79 @@
+---
+title: "To the Reverend Henry Octavius Coxe"
+letter_iso_date: "1861-10-13"
+letter_date: "Oct 13th [1861]"
+location: "Torquay"
+manuscript: "MS Bodleian Library, Oxford: MS. Don. d.144 ff 158-9"
+post_id: 1839
+letter_id: "to-the-reverend-henry-octavius-coxe"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Henry Octavius Coxe"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1861-10-13"
+  url: "https://cmyonge.github.io/letters/1839-to-the-reverend-henry-octavius-coxe"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 13th [1861]  
+**From:** Torquay  
+**Manuscript:** MS Bodleian Library, Oxford: MS. Don. d.144 ff 158-9
+:::
+
+My dear [Mr Coxe](people/person_377.qmd), 
+If you have become a DD you must excuse me just as you had to do about the omission of your final e for which [Mr Wither](people/person_1544.qmd) scolded me. As I never hear him call [you] anything but Coxe I have nothing to go upon.
+
+When we were going to Oxford before, he gave me a message from you that you would be so kind as to look out for me the books I most wanted to consult, if I would tell you their names beforehand and not too long beforehand and I hope that I may be hitting off the happy medium by writing today, the day week from that on which we hope to be at Oxford. I am afraid my wits have been so dissipated of late that I do not know what I want half as well as starting from home, and my wants are likewise so <u>priggish</u> that I am ashamed of them, but some I only want to look at to see whether they are too utterly beyond my capacity to make it worth while to get them to study, and others only just to consult. I hope it will not be giving you very much trouble
+
+Yours sincerely
+C M Yonge
+
+Not knowing the register names of half the books makes it much more troublesome I fear 
+
+Decius Maximus (the spurious book on Norway)
+
+[The Master’s Annals of Ireland](other_books/otherbook_312.qmd) (Translation)
+
+[Bopp’s Comparative Grammar](other_books/otherbook_313.qmd)
+
+[Kemble’s Anglo-Saxon Names](other_books/otherbook_314.qmd)
+
+[Glossary of the Norse poetical works](other_books/otherbook_311.qmd) (I don’t know its right name, it is a new book)
+
+[Kemble’s Beowulf](other_books/otherbook_310.qmd)
+
+The most reliable comment on the Ossianic traditions (not [Campbell’s 2 last vols](other_books/otherbook_308.qmd)) - perhaps the [papers of the Ossianic Society](other_books/otherbook_309.qmd) but I suspect them of being a wood where one could not find one’s way in so short a time
+
+The most reasonable, <u>very</u> early Irish history giving national conjectures on their ethnology of Ireland.
+
+Any later information than is to be found in [Tooke’s history](other_books/otherbook_307.qmd) about the Slavonian mythology, names and language
+
+Further questions whose answers I want to make out
+
+Why was Caius college Cambridge so called?
+
+Who were the Slovinians?
+
+Who were the Wends - were they the same as the Vandals, were they Slav or Teuton?
+
+Were there ever any Kelts in Scandinavia before the Northmen.
+
+The pros and cons of the Phoenicians in Cornwall
+
+History of Greek saints as distinct from Latin ones
+
+Anything helpful about the transimulation of Letters in different languages and history of the alphabet
+
+<u>NB</u>. I can read a Greek word when I see it, but not understand it.
+
+I can just puzzle out Latin with a dictionary - but translations are preferable when to be had - or else dictionary - best of all original & translation both.

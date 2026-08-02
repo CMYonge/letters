@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1865-11-23"
+letter_date: "Novr 23d [after 1865]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Iowa; MsL/Y56/23.Nov."
+post_id: 3552
+letter_id: "to-an-unknown-woman-31"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-11-01"
+  url: "https://cmyonge.github.io/letters/3552-to-an-unknown-woman-31"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 23d [after 1865]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56/23.Nov.
+:::
+
+My dear Madam
+That poem on the Sabbath Bells was given me by Lady [Lucy Herbert](people/person_679.qmd), [Lord Powis](people/person_2076.qmd)’s sister, at the time when she was collecting subscriptions for [bells for Auckland](organizations/other_103.qmd) Cathedral New Zealand. She sent it to me undoubtingly to be printed with an appeal we were then making. She has since married and I cannot remember her present name - but perhaps you know her, and at any rate her sister, Lady [Harriet Herbert](people/person_680.qmd) would, I am sure, be glad to tell you how the verses came into their family[^1]
+
+yours truly
+C M Yonge
+
+---
+
+[^1]: William Wordsworth, *Ecclesiastical Sonnets*, 28, begins: 'The Sabbath bells renew the inviting peal', and may be the poem referred to.

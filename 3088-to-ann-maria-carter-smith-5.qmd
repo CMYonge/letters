@@ -1,0 +1,49 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1856-12-03"
+letter_date: "Decr 3d [1856]"
+location: "Otterbourn"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1856/2."
+post_id: 3088
+letter_id: "to-ann-maria-carter-smith-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1856-12-01"
+  url: "https://cmyonge.github.io/letters/3088-to-ann-maria-carter-smith-5"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 3d [1856]  
+**From:** Otterbourn  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/2.
+:::
+
+Dear [Madam](people/person_263.qmd), 
+I cannot deny myself the pleasure of writing to tell you how much your [Thorns and Roses](other_books/otherbook_253.qmd) have already elicited of admiration. [^1]   [One of my best contributors](people/person_1397.qmd) ([the School Sketches](other_books/otherbook_256.qmd)) has written this morning ‘you must let me say how much charmed I & all here are with the beautiful tale, Thorns &c  Is it a secret absolutely whose authorship it is, or is it permissible to ask whether it is by a young writer untried before.  If so, we may hope for much more.’  
+
+I did not give up your secret, but I am sure you will not dislike reading the enquiry.
+
+I heard too this morning that [our neighbour](people/person_669.qmd), a distinguished M. P. sat up to finish it, and was greatly pleased with it.  I am hoping soon to begin [Wishop Rectory](other_books/otherbook_257.qmd).
+
+Meantime I shall have the pleasure of sending you £6 for your three papers inserted this year - and [Miss Frances Smith](people/person_71.qmd) £2.. 2.. 6.[^2] Perhaps it would save trouble if I were to include both in one cheque, but I will wait to hear from you or from her.
+
+With my best thanks to both - and hopes for future hope of the same valuable kind
+yours truly
+C M Yonge
+
+---
+
+[^1]: *Thorns and Roses in a Homely Life*, by A.C. D. , had appeared in *[MP](organizations/other_52.qmd)* (December1856).
+[^2]: Carter Smith's sister Frances Hester (Carter Smith) Atkinson contributed a series of papers on 'Traditions of Norway' to *MP*.

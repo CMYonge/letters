@@ -1,0 +1,40 @@
+---
+title: "To an unknown woman"
+letter_iso_date: "1901-03-01"
+letter_date: "Mar-01"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Seymour Public Library, Auburn, New York"
+post_id: 3482
+letter_id: "to-an-unknown-woman-78"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3482-to-an-unknown-woman-78"
+---
+
+::: {.letter-metadata}
+**Date:** Mar-01  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Seymour Public Library, Auburn, New York
+:::
+
+Dear Madam
+I have desired a few of my village books to be sent to you - I cannot do more as I have a good deal on my hands here, and all the books suitable for giving away are absorbed by needs at hand
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** The transcription was kindly supplied by Mr Stephen C. Erskine, the Librarian.  If the date is correct it is a very late letter indeed since CMY died on 24 March.  It is uncharacteristic of her to give only the month.

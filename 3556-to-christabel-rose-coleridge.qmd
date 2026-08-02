@@ -1,0 +1,32 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_date: "Undated"
+manuscript: "MS Harry Ransom Humanities Research Center, University of, Austin"
+post_id: 3556
+letter_id: "to-christabel-rose-coleridge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3556-to-christabel-rose-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** Undated  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of, Austin
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+Many thanks and no time for more
+C M Yonge

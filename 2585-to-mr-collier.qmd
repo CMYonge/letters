@@ -1,0 +1,37 @@
+---
+title: "To Mr Collier"
+letter_iso_date: "1877-06-14"
+letter_date: "June 14th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2585
+letter_id: "to-mr-collier"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mr Collier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-06-14"
+  url: "https://cmyonge.github.io/letters/2585-to-mr-collier"
+---
+
+::: {.letter-metadata}
+**Date:** June 14th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Miss Yonge would be obliged to [Mr Collier](people/person_356.qmd) if he would reserve a ticket for her for each day of the Conference.[^1] She encloses stamps for 5/
+
+---
+
+[^1]: The Hampshire Diocesan Conference in Winchester, which opened on Tuesday 26 June 1877.

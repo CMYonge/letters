@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1882-06-07"
+letter_date: "June 7th 1882"
+location: "Elderfield, Otterbourne,Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2752
+letter_id: "to-an-unknown-woman-57"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-06-07"
+  url: "https://cmyonge.github.io/letters/2752-to-an-unknown-woman-57"
+---
+
+::: {.letter-metadata}
+**Date:** June 7th 1882  
+**From:** Elderfield, Otterbourne,Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear Madam
+
+I am much obliged by your pretty book. It is an excellent thing to put forth what encreases interest in the mission field.
+
+Yours truly
+C M Yonge

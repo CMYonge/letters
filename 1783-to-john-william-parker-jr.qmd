@@ -1,0 +1,43 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1860-03-08"
+letter_date: "March 8th 1860"
+location: "Otterbourne,Winchester."
+manuscript: "MS New York Public Library, De Coursey Fales Collection/2"
+post_id: 1783
+letter_id: "to-john-william-parker-jr"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-03-08"
+  url: "https://cmyonge.github.io/letters/1783-to-john-william-parker-jr"
+---
+
+::: {.letter-metadata}
+**Date:** March 8th 1860  
+**From:** Otterbourne,Winchester.  
+**Manuscript:** MS New York Public Library, De Coursey Fales Collection/2
+:::
+
+My dear [Sir](people/person_1143.qmd),
+
+Many thanks for the three critiques on [Mlle Mori](other_books/otherbook_270.qmd)which I hope to shew [Miss Roberts](people/person_1244.qmd).
+
+I think there is a good deal of one sidedness in the [Literary Gazette](organizations/other_143.qmd)- as though written by a person who saw from only one point of view.
+
+I cannot judge whether the characters are too English but I fully believe Miss Roberts had authority for some of the things here represented as impossible and I wonder whether the writer has any grounds for the ‘simply not true’, that the hero and heroine were unlikely to receive alms because not Roman Catholics.
+
+yours with thanks
+
+CMYonge

@@ -1,0 +1,47 @@
+---
+title: "To Sarah Angelina Acland"
+letter_iso_date: "1893-01-10"
+letter_date: "Jan 10th 1893"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: MS Acland d.175.ff 178-9"
+post_id: 3210
+letter_id: "to-sarah-angelina-acland"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Angelina Acland"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-01-10"
+  url: "https://cmyonge.github.io/letters/3210-to-sarah-angelina-acland"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 10th 1893  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: MS Acland d.175.ff 178-9
+:::
+
+My dear [Miss Acland](people/person_8.qmd)
+I am sending Pompei (it does not look natural) to [Christabel Coleridge](people/person_329.qmd) at Cheyne, Torquay, and it will be more convenient for her to let you know about it, as I am not the sole dictator of [Packet](organizations/other_52.qmd) now, but one of a triumvirate - being really, I suppose, rather dropped behind the present world.[^1]
+
+I fear that any how the diagrams cannot be brought in, but that [the publisher](people/person_744.qmd) must decide, and they <u>may</u> think it long and minute
+
+A ridiculous fabulous history of me declared that I never permitted a Roman Catholic to write in the packet, which was very untrue[.] I once had [Kathleen O’Meara](people/person_1096.qmd) and dropped her, not for her opinions, but for making the cannon fire a salute when William the Conqueror started for England, which destroyed my confidence in her [‘Old Castles’](other_books/otherbook_673.qmd).
+
+I saw [Mrs Cooke Trench](people/person_367.qmd) last week. The party have not started yet as [Beatrice](people/person_655.qmd) feels bound to wait for young [Mr Compton](people/person_2118.qmd)’s coming of age ball. [Lady Heathcote](people/person_665.qmd) was then very unwell but was much better when last I heard [Helena](people/person_663.qmd) was not well but not seriously, and I expect to meet her at some of the [GFS](organizations/other_23.qmd) affairs next week
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: The article does not seem to have been published.

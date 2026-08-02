@@ -1,0 +1,37 @@
+---
+title: "To Charles Wooldridge"
+letter_iso_date: "1896-01-30"
+letter_date: "Jan 30th 1896"
+location: "Elderfield Otterbourne"
+manuscript: "MS Hampshire Record Office 67M92W/82/24"
+post_id: 3313
+letter_id: "to-charles-wooldridge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charles Wooldridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-01-30"
+  url: "https://cmyonge.github.io/letters/3313-to-charles-wooldridge"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 30th 1896  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Hampshire Record Office 67M92W/82/24
+:::
+
+Dear [Mr Wooldridge](people/person_2094.qmd)
+Those three cottages form one block, they are of cement, and tiled 4 roomed brick foundations and chimneys, but cemented in frames in the walls
+
+Yours truly
+C M Yonge

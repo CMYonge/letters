@@ -1,0 +1,47 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1898-07-12"
+letter_date: "July 12th 1898"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 245-6"
+post_id: 3379
+letter_id: "to-frederick-orridge-macmillan-19"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-07-12"
+  url: "https://cmyonge.github.io/letters/3379-to-frederick-orridge-macmillan-19"
+---
+
+::: {.letter-metadata}
+**Date:** July 12th 1898  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 245-6
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I am asking [Mr Medley](people/person_916.qmd) (The Rev John Medley Tyntesfield, Bristol) to write to you direct about his Grandfather’s drawing.[^1] It is rather a question what he may feel able to do, as it does not belong to him but to his cousin. It is in a book, but whether only fastened in, or bound up I cannot tell  
+
+I have told him that in either case, book or drawing would be quite safe with you. It is a very beautiful and characteristic sketch and should have [Mr Bacon](people/person_2196.qmd)’s name.
+
+Here is an addition to be sent to the printer. [Lady Heathcote](people/person_665.qmd) (being past 80) could not find it at first and her daughters did not like to press the matter, I do not like notes encumbering pages but if the alteration to the text is too much this might go as a note at the end of the first chapter
+
+I send the proofs through [Miss Heathcote](people/person_663.qmd) so as to be secure from mistakes, as she is much more accurate than myself, besides having local knowledge on the Hursley side
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The Rev. John Medley was presumably the son of Christina Bacon and the Rt. Rev. John Medley (1804-1892), bishop of Fredericton.

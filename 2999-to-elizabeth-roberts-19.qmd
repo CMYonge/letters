@@ -1,0 +1,37 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-09-11"
+letter_date: "Sept 11th [1852]"
+location: "Otterbourn"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 2999
+letter_id: "to-elizabeth-roberts-19"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-09-11"
+  url: "https://cmyonge.github.io/letters/2999-to-elizabeth-roberts-19"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 11th [1852]  
+**From:** Otterbourn  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+My dear [Madam](people/person_1243.qmd),
+I send your pretty little [garland](other_books/otherbook_225.qmd) for October, hoping it will find you improved in health
+
+Yours sincerely
+C M Yonge

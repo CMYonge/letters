@@ -1,0 +1,43 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1860-03-16"
+letter_date: "March 16th 1860"
+location: "Otterbourne, Winchester."
+manuscript: "Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 1786
+letter_id: "to-john-william-parker-jr-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-03-16"
+  url: "https://cmyonge.github.io/letters/1786-to-john-william-parker-jr-9"
+---
+
+::: {.letter-metadata}
+**Date:** March 16th 1860  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+My dear [Sir](people/person_1143.qmd)
+
+If you are writing to [Tauchnitz](people/person_1396.qmd),[^1] I hope you will be kind enough to express my best thanks for the very curious and prettily got up book which I am much obliged to you for forwarding to me, the binding is beautiful, and there is much interest in the comparison of the contents. I thank you too for the enclosed review of [Miss Roberts](people/person_1244.qmd)’ [book](other_books/otherbook_270.qmd). I have not heard from her for so long that I begin to think she must be on her way home, and so do not write to her
+
+Yours faithfully
+
+C.M. Yonge
+
+---
+
+[^1]: A Leipzig publishing firm, headed by Bernhard, Baron von Tauchnitz (1816-1895), which circulated paperback reprints of many English novels on the continent.

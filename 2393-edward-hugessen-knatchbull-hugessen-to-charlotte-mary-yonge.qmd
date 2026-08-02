@@ -1,0 +1,43 @@
+---
+title: "Edward Hugessen Knatchbull-Hugessen to Charlotte Mary Yonge"
+letter_iso_date: "1870-12-03"
+letter_date: "Decr 3/1870"
+location: "Secretary of State, Home Department Smeeth"
+manuscript: "MS UCLA collection 100 box 119"
+post_id: 2393
+letter_id: "edward-hugessen-knatchbull-hugessen-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Edward Hugessen Knatchbull-Hugessen to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-12-03"
+  url: "https://cmyonge.github.io/letters/2393-edward-hugessen-knatchbull-hugessen-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 3/1870  
+**From:** Secretary of State, Home Department Smeeth  
+**Manuscript:** MS UCLA collection 100 box 119
+:::
+
+Dear Miss Yonge
+Your letter has only reached me this morning. February will do very well for my Fairy tale to appear, as far as I am concerned—I only wanted to know its fate, & shall be glad to have it in the [Monthly Packet](organizations/other_52.qmd) rather than worked into one of my books.[^1]
+
+I have directed Macmillan to send you [my new book](other_books/otherbook_798.qmd), which I hope will please you
+
+yrs truly
+[E. H. Knatchbull-Hugessen](people/person_819.qmd)
+
+---
+
+[^1]: 'The Search after Happiness' *MP* (February 1871), 200.

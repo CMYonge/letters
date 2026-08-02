@@ -1,0 +1,41 @@
+---
+title: "To Charles Wooldridge"
+letter_iso_date: "1895-04-09"
+letter_date: "April 9th 1895"
+location: "Elderfield Otterbourne"
+manuscript: "MS Hampshire Record Office 67M92W/82/24"
+post_id: 3292
+letter_id: "to-charles-wooldridge-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charles Wooldridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-04-09"
+  url: "https://cmyonge.github.io/letters/3292-to-charles-wooldridge-3"
+---
+
+::: {.letter-metadata}
+**Date:** April 9th 1895  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Hampshire Record Office 67M92W/82/24
+:::
+
+Dear [Mr Wooldridge](people/person_2094.qmd),
+I think it will be wise to keep up the insurance on [Mrs Yonge](people/person_1604.qmd)’s life.  The only further question is whether it should be mentioned in my will that the payment should be continued, and to whom the amount should be paid.
+
+On this I will write to [Mr Houseman](people/person_2146.qmd) who made my will.
+
+I enclose the cheque for the insurance understanding that it covers all the houses here and in London
+
+Yours truly
+C M Yonge

@@ -1,0 +1,35 @@
+---
+title: "Thomas Constable & Co. to Charlotte Mary Yonge"
+letter_iso_date: "1859-11-28"
+letter_date: "28 November [?1859]"
+manuscript: "MS NLS, copy letter book of T. & A. Constable"
+post_id: 3141
+letter_id: "thomas-constable-co-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Thomas Constable & Co. to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-11-28"
+  url: "https://cmyonge.github.io/letters/3141-thomas-constable-co-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** 28 November [?1859]  
+**Manuscript:** MS NLS, copy letter book of T. & A. Constable
+:::
+
+Messrs [Thomas Constable & Co](organizations/other_136.qmd)with Compliments to Miss Yonge beg to send her herewith three copies of the new edition of <u>[Tom Thumb](cmy_books/cmybook_21.qmd)</u>.[[f Should Miss Yonge require more  they will be happy to send a farther supply on hearing from her.
+
+---
+
+**Note:** Thomas Constable (1812–1881) began trading under his own name in 1833. Dated on the assumption that the edition of 1859 is referred to.

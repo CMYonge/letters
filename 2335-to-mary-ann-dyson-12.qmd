@@ -1,0 +1,39 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1869-08-14"
+letter_date: "August 14. [1869]"
+location: "Hotel Castiglione, 12 Rue Castiglione,"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 255-257"
+post_id: 2335
+letter_id: "to-mary-ann-dyson-12"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-08-14"
+  url: "https://cmyonge.github.io/letters/2335-to-mary-ann-dyson-12"
+---
+
+::: {.letter-metadata}
+**Date:** August 14. [1869]  
+**From:** Hotel Castiglione, 12 Rue Castiglione,  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 255-257
+:::
+
+My dear [Marianne](people/person_464.qmd)-
+We broke up from [Val Richer](organizations/other_205.qmd) with many regrets. The Falaise expedition had turned out very well ; they had a splendid scramble upon a magnificent steep rock, with a deep ravine between it, and such another rock, and the castle in tall, round towers, one of which they climbed up to the top, and were very stiff all day after it, and the roof was covered with zinc, sloping down all round, and no guard round it, which made me thankful that I was not there. They were shown the window where Robert of Normandy was said to have seen Arlette, and the room where William the Conqueror was born, which is turned into a sort of office for the builders, who are restoring the castle. Also they saw the grand view from the top of the tower, grey ups and downs to a vast extent, giving the idea of the sea, though there is really no sea to be seen from it. The most diverting part of the fair was over, but they saw a great many fine horses, and were very much amused by a story [M. de Witt](people/person_419.qmd) told them of the way in which it came to pass that the citizens of Falaise have or had always to carry about a light with them at night. 'Quand on venait à la garde- "Qui va là ?" "Bon bourgeois de Falaise." "Où est ta lanterne ?" "On n’a pas dit." "On va t’en dire." Et la nuit prochaine quand on rencontrait la garde---"Qui va là?" "Bon bourgeois de Falaise." "Où est ta lanterne?" "A la main." "Elle n’a pas de chandelle." "On n’a pas dit." "On va t’en dire." Et la nuit prochaine quand on rencontrait la garde---"Qui va là ?" "Bon bourgeois de Falaise." "Où est ta lanterne?" "A la main." "Où est la chandelle." "A la lanterne." "N’a pas fuse ou bout." "On n’a pas dit." "On va t’en dire." Et voilà l’histoire de la lanterne du bon bourgeois de Falaise.' So it is written down from [Julian](people/person_1624.qmd)’s dictation after hearing it from M. de Witt. We started at 12.15 yesterday, drove to Lisieux, and there had our railway carriage to ourselves all the way, a glimpse from the train at an old tower and fine church at Conches, the beautiful cathedral at Evreux, and the church at Mantes, which does not look quite as it did when William the Conqueror’s horse danced upon its ruins. I have seen only a tower or two that looked to me like Norman architecture, it has all been very pointed, but Julian saw a beautiful Norman doorway at Falaise. After Mantes we came among vineyards, the vines trained about as high as raspberry bushes, and all the grapes growing down at the bottom of them. It was copsy country, with low hills, and at Confleurs a great deal of wood, where I believe the Emperor hunts. An omnibus belonging to the hotel met us at the station, and here we are very comfortably lodged in a regular suite of rooms, and a street with about as much noise as a moderate London one. The *table d’hôte* was at 6, and we were in time for it, though late; there were a merry Irish lady and gentleman there, who seem to make this their abode at present. Afterwards we took a turn under the arcades that run all along this street and a great deal farther on, opposite the Tuilleries gardens, but it was raining a little and we could not go much beyond them, and we only looked in at the shop windows. [M. Guizot](people/person_597.qmd) has given us a letter to the prefect of police to give us orders to see everything that we want.
+
+We are just going out-
+
+Your most affectionate
+C. M. YONGE.

@@ -1,0 +1,46 @@
+---
+title: "To Matthew R. Bigge"
+letter_iso_date: "1899-02-27"
+letter_date: "Febry 27 1899"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "The Rev. Canon Geoffrey Curtis"
+post_id: 3397
+letter_id: "to-matthew-r-bigge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Matthew R. Bigge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-02-27"
+  url: "https://cmyonge.github.io/letters/3397-to-matthew-r-bigge"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 27 1899  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** The Rev. Canon Geoffrey Curtis
+:::
+
+Dear [Sir](people/person_2083.qmd)
+I am much obliged for your letter, with the curious particulars about the Bartons.  The cow is delightful!  
+
+But Manydown is not a mistake, it is near Basingstoke, and (I believe) held on the tenure of receiving the Winchester scholars if the plague was in the city.  I have known many of the family of Bigg, who two generations ago, took the surname of Wither, on inheriting Tangier Park from the family of [George Wither](people/person_1686.qmd), the Poet.  The crest is a demi hare, with an ear of Big (barley) in its mouth.  I cannot recollect the shield, but I rather think that it had the big or barley in it.  I wonder whether yours is the same.
+
+yours sincerely
+C M Yonge
+
+That was a bad pen so I will take a better one for an autograph
+Charlotte Mary Yonge
+
+---
+
+**Note:** Pasted into a copy of *John Keble's Parishes* (1899) with the ownership stamp of Matthew R. Bigge and the bookplate and monogrammed binding of John Tricks Spalding.

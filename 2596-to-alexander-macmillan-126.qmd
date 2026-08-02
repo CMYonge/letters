@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1877-08-25"
+letter_date: "Aug 25th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 31"
+post_id: 2596
+letter_id: "to-alexander-macmillan-126"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-08-25"
+  url: "https://cmyonge.github.io/letters/2596-to-alexander-macmillan-126"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 25th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 31
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+I am sending today a third instalment of the [Primer](cmy_books/cmybook_353.qmd) with additions, I hope you have had the others safely. I have sent them to you instead of the printers to save further mistakes and will follow them up with the rest
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

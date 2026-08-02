@@ -1,0 +1,42 @@
+---
+title: "To Juliana Horatia Gatty"
+letter_iso_date: "1863-05-22"
+letter_date: "May 22nd [1863-7]"
+location: "Elderfield"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3560
+letter_id: "to-juliana-horatia-gatty-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Juliana Horatia Gatty"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-05-22"
+  url: "https://cmyonge.github.io/letters/3560-to-juliana-horatia-gatty-2"
+---
+
+::: {.letter-metadata}
+**Date:** May 22nd [1863-7]  
+**From:** Elderfield  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Aunt Judy](people/person_494.qmd),[^1]
+I am glad that you are not thinking of crossing today—for assuredly you would never cross, and I hope the winds and waves may have abated by this day week, when it will be very pleasant to meet you at Bishopstoke, and look forward to the whole of the next day.[^2] May it be a fine one! We will take you to Winchester any time you please on the 31st, and make the most of you in the mean time. You will let us know your train as the time approaches. I think you are on the wrong side of the Island, I like the back of it so much better.
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: It seems more likely that CMY would address Juliana Gatty as 'Aunt Judy' before her marriage.
+[^2]: From the Isle of Wight.

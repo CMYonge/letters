@@ -1,0 +1,37 @@
+---
+title: "To Caroline Jeannette Beck?"
+letter_iso_date: "1872-04-25"
+letter_date: "April 25th [1872-1891]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3573
+letter_id: "to-caroline-jeannette-beck"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Caroline Jeannette Beck?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-25"
+  url: "https://cmyonge.github.io/letters/3573-to-caroline-jeannette-beck"
+---
+
+::: {.letter-metadata}
+**Date:** April 25th [1872-1891]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear [Mrs Beck](people/person_130.qmd)
+Thank you much for your kind invitation. I am sorry to say that Saturday is a day I never can go out as I have Church decoration always more or less on my hands that day. – Poor [Gertrude](people/person_1462.qmd) has rather a bad time just now,  her leg has been very painful
+
+Yours very sincerely
+C M Yonge

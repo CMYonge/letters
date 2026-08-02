@@ -1,0 +1,12 @@
+---
+title: "Primrose League, The"
+other_id: 255
+---
+
+**Type:** organization
+
+## Description
+
+A political organisation founded in 1883 to encourage support for the Conservative party and disbanded in 2004.
+
+

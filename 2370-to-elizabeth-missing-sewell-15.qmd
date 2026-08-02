@@ -1,0 +1,43 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1870-01-28"
+letter_date: "[28 January 1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Girton College Cambridge, Yonge VI 2"
+post_id: 2370
+letter_id: "to-elizabeth-missing-sewell-15"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-28"
+  url: "https://cmyonge.github.io/letters/2370-to-elizabeth-missing-sewell-15"
+---
+
+::: {.letter-metadata}
+**Date:** [28 January 1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Girton College Cambridge, Yonge VI 2
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+Here is a demand from the [London library](organizations/other_29.qmd) for you. I hope you have done with the book.
+
+The weather shews that you were wise. I hope to see you as soon as it looks more mild
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper, with  envelope addressed to  'Miss Elizthe Sewell/Bonchurch/I of Wight' and postmarked Winchester and Ventnor 28 and 29 January 1870.

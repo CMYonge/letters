@@ -1,0 +1,38 @@
+---
+title: "To Messrs Forbes and Marshall"
+letter_iso_date: "1853-00-00"
+letter_date: "[1853?]"
+manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3016
+letter_id: "to-messrs-forbes-and-marshall"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Forbes and Marshall"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1853-01-01"
+  url: "https://cmyonge.github.io/letters/3016-to-messrs-forbes-and-marshall"
+---
+
+::: {.letter-metadata}
+**Date:** [1853?]  
+**Manuscript:** MS  Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+Miss Yonge requests Messrs Forbes and Marshall to send for
+
+Mrs E Barrett Browning’s [poems](other_books/otherbook_21.qmd)
+The last [Edinburgh review](organizations/other_132.qmd)
+[Rollo and his race](other_books/otherbook_177.qmd)
+[The Provocations of Mde Palissy](other_books/otherbook_111.qmd)
+
+The books at present at Otterbourn shall be returned either on Thursday or the first day after it that Joyce the carrier goes to Southampton

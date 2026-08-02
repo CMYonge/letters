@@ -1,0 +1,37 @@
+---
+title: "To an unknown woman"
+letter_iso_date: "1897-02-19"
+letter_date: "Febry 19th 1897"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Charlotte Mitchell"
+post_id: 3341
+letter_id: "to-an-unknown-woman-29"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-02-19"
+  url: "https://cmyonge.github.io/letters/3341-to-an-unknown-woman-29"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 19th 1897  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Dear Madam
+I think yours is a useful paper, and I shall be glad to have it for [Mothers in Council](organizations/other_82.qmd) when there is room for it, but the April number is full
+
+yours truly
+C M Yonge

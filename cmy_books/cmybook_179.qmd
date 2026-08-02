@@ -1,0 +1,17 @@
+---
+title: "Memoirs of Marshal Bugeaud from his private correspondence and original documents 1784-1849. By the Count H. D’Ideville. Edited from the French by Charlotte M. Yonge, 2 vols"
+book_id: 179
+sort_title: "Memoirs of Marshal Bugeaud from his private correspondence and original documents 1784-1849."
+---
+
+## Publication Information
+
+**Date:** 1884
+
+**Genre:** Edited translation
+
+**Publisher:** London : Hurst and Blackett, 13 Great Marlborough Street.
+
+**Notes:** Probably translated by Julian Bargus Yonge.
+
+

@@ -1,0 +1,35 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1855-00-00"
+letter_date: "[summer 1855]"
+manuscript: "MS location unknown.  This fragment printed in <i>Dulce Domum</i> 122."
+post_id: 3070
+letter_id: "to-alice-arbuthnot-moberly-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-01-01"
+  url: "https://cmyonge.github.io/letters/3070-to-alice-arbuthnot-moberly-7"
+---
+
+::: {.letter-metadata}
+**Date:** [summer 1855]  
+**Manuscript:** MS location unknown.  This fragment printed in <i>Dulce Domum</i> 122.
+:::
+
+It is a great relief to-day to hear of the operation being over.[^1] I am so glad [Dr. Moberly](people/person_1015.qmd) was able to be there. I have been wishing to see [Mr. Keble](people/person_798.qmd) to hear how [you](people/person_1025.qmd) were all looking in Oxford, but we have not been able to go to Hursley. [Johnnie](people/person_1017.qmd)'s wig is very shaggy, but we agree that he is growing very handsome. . . .
+
+---
+
+[^1]: The operation on [George Moberly](people/person_1014.qmd) the younger.

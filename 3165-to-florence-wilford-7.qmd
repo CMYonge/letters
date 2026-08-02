@@ -1,0 +1,46 @@
+---
+title: "To Florence Wilford"
+letter_iso_date: "1890-10-18"
+letter_date: "Oct 18th 1890"
+location: "Elderfield"
+manuscript: "MS University of Iowa; MsL/Y58wi"
+post_id: 3165
+letter_id: "to-florence-wilford-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Wilford"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-10-18"
+  url: "https://cmyonge.github.io/letters/3165-to-florence-wilford-7"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 18th 1890  
+**From:** Elderfield  
+**Manuscript:** MS University of Iowa; MsL/Y58wi
+:::
+
+My dear [Florence](people/person_1520.qmd),
+In the first place my [Incurable](organizations/other_37.qmd) Vote is promised two deep so I am afraid that is of no use.
+
+I could not answer before as I was at the [G F S](organizations/other_23.qmd) annual Conference - more over my [colleague](people/person_329.qmd) took the M S away to read. She approves of it much, and we hope to put it in among the short stories, when we can.[^1] The same may be said of [Emma](people/person_1519.qmd)’s poem, but I don’t know how to fix any time.[^2] I have more to do  than I <u>can</u> do today and it is almost Church time, so good bye
+
+Your affectionate
+C M Yonge
+
+Can you get any [Mother’s](organizations/other_31.qmd) ladies to order this
+
+---
+
+[^1]: Perhaps the MS was 'Limp Ladies', *MP* (August 1891), 186-168, which was the next article signed by Wilford to appear in the magazine.
+[^2]: Her correspondent’s sister Emma Wilford (b. 1832/3).  A poem ‘The Treasures of the Snow: Feast of the Purification’, signed ‘W.’ appeared in *MP* (February 1891).  (The feast of the Purification is 2 February.)

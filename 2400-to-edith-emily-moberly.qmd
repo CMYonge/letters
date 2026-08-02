@@ -1,0 +1,38 @@
+---
+title: "To Edith Emily Moberly"
+letter_iso_date: "1871-03-18"
+letter_date: "[March 1871]"
+location: "Otterbourne."
+manuscript: "MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 231-2."
+post_id: 2400
+letter_id: "to-edith-emily-moberly"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Emily Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-03-02"
+  url: "https://cmyonge.github.io/letters/2400-to-edith-emily-moberly"
+---
+
+::: {.letter-metadata}
+**Date:** [March 1871]  
+**From:** Otterbourne.  
+**Manuscript:** MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 231-2.
+:::
+
+My dear [Emily](people/person_1012.qmd),
+An odd question, but can you tell me what [Edward](people/person_1013.qmd) first taught himself on the violin?  I want Lance Underwood to do it, and must mention some tune . . .
+
+---
+
+**Note:** Edith Emily Moberly (b.1839), third daughter of George Moberly. The date is implied by its position in *Dulce Domum*.

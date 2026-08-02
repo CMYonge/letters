@@ -1,0 +1,37 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1868-04-29"
+letter_date: "April 29 1868"
+manuscript: "Copy outletter book British Library Add MSS.55388 (1): P. 302"
+post_id: 2241
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-72"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-04-29"
+  url: "https://cmyonge.github.io/letters/2241-alexander-macmillan-to-charlotte-mary-yonge-72"
+---
+
+::: {.letter-metadata}
+**Date:** April 29 1868  
+**Manuscript:** Copy outletter book British Library Add MSS.55388 (1): P. 302
+:::
+
+Dear Miss Yonge,
+[I](people/person_939.qmd) enclose the [monthly cheque](organizations/other_160.qmd) with best remembrances.
+
+I hope the [Cameos](cmy_books/cmybook_73.qmd) will get out by & by. The volume proves thinner than I had expected and I am making calculations as to price. This first edition at 4/6 or even 5/- will not yield much. Are you disposed to sell us the copy right?
+
+Yours very faithfully
+A. Macmillan

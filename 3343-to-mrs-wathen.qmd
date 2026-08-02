@@ -1,0 +1,66 @@
+---
+title: "To Mrs Wathen"
+letter_iso_date: "1897-03-04"
+letter_date: "March 4th [1897]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3343
+letter_id: "to-mrs-wathen"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Wathen"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-03-04"
+  url: "https://cmyonge.github.io/letters/3343-to-mrs-wathen"
+---
+
+::: {.letter-metadata}
+**Date:** March 4th [1897]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Madam](people/person_2165.qmd)
+As far as I can remember the first four tales were 
+[Redclyffe](cmy_books/cmybook_15.qmd)
+[Heartsease](cmy_books/cmybook_19.qmd)
+[Hopes and Fears](cmy_books/cmybook_37.qmd)
+[Dynevor Terrace](cmy_books/cmybook_27.qmd)	
+
+because I meant them to have some sort of analogy to the four seasons[^1]
+
+[The Daisy Chain](cmy_books/cmybook_24.qmd)
+[Trial](cmy_books/cmybook_53.qmd)
+are really connected, and the [Pillars of the House](cmy_books/cmybook_109.qmd) came later but picked up on [Countess Kate](cmy_books/cmybook_44.qmd) and the Daisy Chain in the course of the story -
+
+[Scenes and Characters](cmy_books/cmybook_3.qmd) had been written long before, but was taken up again in [Two Sides of the Shield](cmy_books/cmybook_184.qmd)where also an early story [the Stokesley Secret](cmy_books/cmybook_40.qmd)furnished some characters -
+
+[Beechcroft At Rockstone](cmy_books/cmybook_210.qmd)
+[Strolling Players](cmy_books/cmybook_229.qmd)
+[The Long Vacation](cmy_books/cmybook_237.qmd)
+make up the story
+
+The others are all disconnected except 
+[The Chaplet of Pearls](cmy_books/cmybook_69.qmd)
+[Stray Pearls](cmy_books/cmybook_170.qmd)
+[The Release](cmy_books/cmybook_239.qmd) -
+
+Some of the persons in [Magnum Bonum](cmy_books/cmybook_131.qmd) and Hopes and Fears are referred to again
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to Mrs Wathen/ Withan House/ Alum Chine Road/ Bournemouth. Postmarked 97.
+[^2]: This was on the analogy of La Motte Fouqué's *Die Jahrzeiten*.

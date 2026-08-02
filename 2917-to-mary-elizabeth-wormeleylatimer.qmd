@@ -1,0 +1,51 @@
+---
+title: "To Mary Elizabeth (Wormeley)Latimer"
+letter_iso_date: "1889-09-20"
+letter_date: "Sept 20th 1889"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 12, Box 4: Foreign Hymn Writers"
+post_id: 2917
+letter_id: "to-mary-elizabeth-wormeleylatimer"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Elizabeth (Wormeley)Latimer"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-09-20"
+  url: "https://cmyonge.github.io/letters/2917-to-mary-elizabeth-wormeleylatimer"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 20th 1889  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 12, Box 4: Foreign Hymn Writers
+:::
+
+My dear [Mrs Latimer](people/person_846.qmd)
+
+You once were so kind as to say that you would befriend my nephew [Arthur Yonge](people/person_1607.qmd) if he came in your way. He has been getting on very prosperously at the saw mills in Cumberland valley but he has had a malarial fever, and does not shake off the effects, and it might be a great help to his health if you would be so very good as to let him spend a few days with you. He is a nice gentlemanlike youth of 26, but not clever. His address is
+
+F.A.Yonge
+c/o A. Arthur
+146 Knoxville
+Tennessee
+
+I hope you will soon see [your Elf](other_books/otherbook_1090.qmd), as the Christmas Number is to come out early this year.
+
+I do not think I ever thanked you about the Treasury of Psalms. I do not think our Library needs them now, and it has rather alarmed itself by the expense to which it has gone in books so that it is just as well the book is out of print[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The library may have been the one associated with the [Otterbourne Penny Club*](organizations/other_10.qmd) or that of the [Winchester Diocesan Society for Higher Religious Education](organizations/other_48.qmd).

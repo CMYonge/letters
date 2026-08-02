@@ -1,0 +1,37 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1864-00-00"
+letter_date: "[Summer 1864]"
+manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 175."
+post_id: 1961
+letter_id: "to-alice-arbuthnot-moberly"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-01-01"
+  url: "https://cmyonge.github.io/letters/1961-to-alice-arbuthnot-moberly"
+---
+
+::: {.letter-metadata}
+**Date:** [Summer 1864]  
+**Manuscript:** MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 175.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+I was thinking of sending ‘The Mice at Play’ to [Maggie](people/person_83.qmd), but somehow I felt that the note must be to one who could remember the old days, when the three bright faces[^1] it brings to mind were with us. If you had been people who shrank from such recollections instead of cherishing them, I would of course never have disinterred this old affair, but I know you will like the recurrence to those merry old days and bright remembrances.
+
+---
+
+[^1]: This is printed by the author of *Dulce Domum* as part of a group of fragments with dates ranging from May to October 1864.
+[^2]: Two of the faces must be those of Alice’s second brother, [Arthur Moberly](people/person_1011.qmd) (1840?-1858), and second sister, [Mary Louisa (Moberly) Ridding](people/person_1020.qmd) (1838-1859). The third person was perhaps [WCY](people/person_1631.qmd).

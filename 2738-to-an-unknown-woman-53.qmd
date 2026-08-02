@@ -1,0 +1,42 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1881-11-10"
+letter_date: "Novr 10th 1881"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2738
+letter_id: "to-an-unknown-woman-53"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-11-10"
+  url: "https://cmyonge.github.io/letters/2738-to-an-unknown-woman-53"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 10th 1881  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+
+I should like much to get your [Christmas tree paper](other_books/otherbook_948.qmd)[^1] in for December, and I will try, but it must depend on the reckoning of pages by the printer
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: 'A Christmas Tree at a Workhouse' *MP* 3rd series 2 (December 1881) 609-612.

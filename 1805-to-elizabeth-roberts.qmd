@@ -1,0 +1,39 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1860-11-05"
+letter_date: "Novr 5th 1860"
+location: "Otterbourne, Winchester."
+manuscript: "MS Huntington Library"
+post_id: 1805
+letter_id: "to-elizabeth-roberts"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-11-05"
+  url: "https://cmyonge.github.io/letters/1805-to-elizabeth-roberts"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 5th 1860  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Huntington Library
+:::
+
+My dear [Miss Roberts](people/person_1243.qmd)
+
+I am quite ashamed to think how long it is since we have had any communication with you and now I am writing not quite on my own account, but to mention a plan in which I think you would be able and willing to assist. There is an idea of setting on foot a series of county histories and descriptions fit for popular use and such as would teach an intelligent poor man what to be proud of in his county, I am to do Hampshire; and Lincolnshire is also undertaken - it is, it is hoped, to make a set of shilling volumes, one for each county and if possible put out by [SPCK](organizations/other_40.qmd), in which case the author’s payment would be secure. The geology and botany would be touched on so as to give general features and peculiarities. Would you undertake one or any counties - We are anxious to get some scheme drawn up before submitting it to the SPCK, and though I have declined the general editorship I have undertaken to endeavour to find 'collaborateurs' as the French would say - I cannot help thinking you would do it excellently -
+
+Yours sincerely
+
+CMYonge

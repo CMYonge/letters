@@ -1,0 +1,42 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1869-04-18"
+letter_date: "[April? 1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3571
+letter_id: "to-elizabeth-missing-sewell-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-04-01"
+  url: "https://cmyonge.github.io/letters/3571-to-elizabeth-missing-sewell-2"
+---
+
+::: {.letter-metadata}
+**Date:** [April? 1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear [[name erased](people/person_1301.qmd)]
+I am sending you [Keightley](other_books/otherbook_212.qmd) by this post, I must ask Macmillan to send you Pearson as I have only got a [Mudie](organizations/other_137.qmd)’s copy here –[^1] I think I shall go to [Brighstone](organizations/other_140.qmd) in Whitsunweek, when I would try to get to Bonchurch to see you
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY visited the Moberlys at Brightstone in May 1869.
+[^2]: Probably Thomas Keightley, *The Crusaders, or, Scenes, Events and Characters from the Times of the Crusades* (London: Parker, 1834).

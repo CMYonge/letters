@@ -1,0 +1,43 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-10-26"
+letter_date: "Oct 26 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (2) P. 520"
+post_id: 19643
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-10-26"
+  url: "https://cmyonge.github.io/letters/19643-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 26 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (2) P. 520
+:::
+
+Dear Miss Yonge,                                                                   Oct 26 1866
+
+[Mr Williams](people/person_1964.qmd) of [W. &amp; Norgate](organizations/other_165.qmd) tells me that reserved rights which are made [illegible]  [illegible]  [illegible]  are for twelve months after publication cease to exist and [illegible]  [illegible] copyright treaty was only made in 1853 so you are quite safe in all aspects.
+
+I shall be very glad to hear the results of your consultation with [Miss Sewell](people/person_1301.qmd), and hope very much that something really valuable can come of your [Extracts](other_books/otherbook_71.qmd). I should be rather glad to have a sketch of the whole scheme and a bit of the extracts when you have leisure [&lt;i&gt;sic&lt;/i&gt;].
+
+Also Pr[illegible] look with interest for [illegible]  parents, [illegible]
+
+Very faithfully yours
+
+[Alex. Macmillan](people/person_939.qmd)
+
+&nbsp;

@@ -1,0 +1,44 @@
+---
+title: "To Anna Butler"
+letter_iso_date: "1854-02-10"
+letter_date: "Febry 10th [1854]"
+location: "[Dogmersfield](organizations/other_121.qmd)"
+manuscript: "MS Mrs Caroline Fairclough/2"
+post_id: 3024
+letter_id: "to-anna-butler-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-02-10"
+  url: "https://cmyonge.github.io/letters/3024-to-anna-butler-3"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 10th [1854]  
+**From:** [Dogmersfield](organizations/other_121.qmd)  
+**Manuscript:** MS Mrs Caroline Fairclough/2
+:::
+
+My dear [Miss Butler](people/person_237.qmd)
+Thank you for your message.  I do not think Rudolf requires to return to you for he stands so much alone that he only needs to be taken out.[^1]
+
+Thanks too for the derivations, I shall trouble you with plenty more, I have no doubt, when I am at home with my list, and see my way out of the Latin derived names.[^2]  I am to go home this afternoon after a very happy visit here.  [Elizabeth Barnett](people/person_113.qmd) is writing on the opposite side of the table, I wish I was going to take her back with me.  My [mother](people/person_1606.qmd) is reading your <u>[philosophe](other_books/otherbook_154.qmd)</u> with great delight
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY had asked Butler to delete a passage from her series of articles *Aunt Louisa's Travels*.
+[^2]: CMY had asked Butler's help with Scandinavian names for the series of articles in *[MP](organizations/other_52.qmd)* called 'Name-Fancying' which later became *A History of Christian Names*.

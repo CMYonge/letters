@@ -1,0 +1,43 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1893-01-15"
+letter_date: "Jan 15th 1893"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS British Library  Add MSS 54921: 190"
+post_id: 3211
+letter_id: "to-george-lillie-craik-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-01-15"
+  url: "https://cmyonge.github.io/letters/3211-to-george-lillie-craik-9"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 15th 1893  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS British Library  Add MSS 54921: 190
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I send herewith the story of [‘The Strolling Players’](cmy_books/cmybook_229.qmd) - from the [Monthly Packet](organizations/other_52.qmd). The joint production of [Miss C R Coleridge](people/person_329.qmd) and me. It joins to the [Beechcroft](cmy_books/cmybook_3.qmd) series. If you could tell us what the royalty would be the division would be easier
+
+Yours truly
+C M Yonge		
+
+I suppose [Mrs Gordon](people/person_572.qmd) has called about the [Chicago books](organizations/other_221.qmd)[^1]
+
+---
+
+[^1]: See the letter to Alice May Gordon (6 May 1894) about CMY’s loan of her books for the exhibition in Chicago. Alice Gordon had written to the Editor of *The Times* (5 January 1893): 'A library has been built in the Women's Building of the Chicago Exhibition, in which the best books written by women of all nations are to be exhibited.  We are anxious that English women's writings should be well represented.  A committee has been formed consisting of Miss Agnes Clerke, Mrs. W. K. Clifford, Mrs. Green, Miss Kingsley, Mrs. Humphry Ward, Miss Charlotte Yonge, and Mrs. J.E. H. Gordon, to collect a representative library.' She asked for the gift or loan of books or MSS.

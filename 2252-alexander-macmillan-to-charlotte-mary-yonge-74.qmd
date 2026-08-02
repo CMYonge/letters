@@ -1,0 +1,35 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1868-06-10"
+letter_date: "June 10 1868"
+manuscript: "Copy outletter book British Library Add MSS.55387 (1) P. 447"
+post_id: 2252
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-74"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-06-10"
+  url: "https://cmyonge.github.io/letters/2252-alexander-macmillan-to-charlotte-mary-yonge-74"
+---
+
+::: {.letter-metadata}
+**Date:** June 10 1868  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1) P. 447
+:::
+
+Dear Miss Yonge,
+I shall certainly be here between 3& 5 on Friday, unless something quite unforeseen falls out, and be very glad to see you.
+
+Yours very faithfully
+[A. Macmillan](people/person_939.qmd)

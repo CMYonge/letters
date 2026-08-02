@@ -1,0 +1,43 @@
+---
+title: "To Mary Caroline Holbeach"
+letter_iso_date: "1894-07-09"
+letter_date: "July 9th 1894"
+location: "Elderfield Otterbourne"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3269
+letter_id: "to-mary-caroline-holbeach"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Caroline Holbeach"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-07-09"
+  url: "https://cmyonge.github.io/letters/3269-to-mary-caroline-holbeach"
+---
+
+::: {.letter-metadata}
+**Date:** July 9th 1894  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mrs Holbeach](people/person_706.qmd)
+Thank you very much for your sweet story. It is a very happy recollection.
+
+How good of you to send it in the midst of your own care and sorrow
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to ‘Mrs Holbeach/ Farnborough Hall/ Banbury’.

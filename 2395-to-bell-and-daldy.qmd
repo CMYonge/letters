@@ -1,0 +1,43 @@
+---
+title: "To Bell and Daldy"
+letter_iso_date: "1870-12-12"
+letter_date: "Decr 12th 1870"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS  Reading University Library, uncatalogued Bell MSS/2"
+post_id: 2395
+letter_id: "to-bell-and-daldy"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Bell and Daldy"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-12-12"
+  url: "https://cmyonge.github.io/letters/2395-to-bell-and-daldy"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 12th 1870  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS  Reading University Library, uncatalogued Bell MSS/2
+:::
+
+[Gentlemen](organizations/other_135.qmd)
+Are you disposed to undertake the publication of four historical tales by [Madame Guizot de Witt](people/person_423.qmd), translated from MSS which have never yet appeared in France or England?[^1]
+
+The subjects are the Countess of Montfort’s defence of Brittany, the childhood of Blaise Pascal and his sister, and some scenes from Madame de Sevigné’s life, and to these I could add Francis Xavier in Japan, translated by myself, but which has appeared in the [Monthly Packet](organizations/other_52.qmd)  My name may be used as editor and I am very anxious for the publication as Mme de Witt wants means of assisting the sufferers in France
+
+yours faithfully
+C M Yonge
+
+---
+
+[^1]: The book was eventually published by Warne as Henriette Guizot de Witt, *Dames of High Estate*, the translations edited by Charlotte M. Yonge (1871).

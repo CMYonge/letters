@@ -1,0 +1,39 @@
+---
+title: "To Ann Maria Carter Smith?"
+letter_iso_date: "1891-08-10"
+letter_date: "Aug 10th [1891-1893]"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3601
+letter_id: "to-ann-maria-carter-smith-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-08-10"
+  url: "https://cmyonge.github.io/letters/3601-to-ann-maria-carter-smith-2"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 10th [1891-1893]  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+Articles addressed to the Ed of [M P](organizations/other_52.qmd) go to [Miss Coleridge](people/person_329.qmd).[^1] She has been from home and things go to arrears, which she has hardly made up yet, but I will tell her to see about your paper.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Joint editorship of the *MP* began in July 1891. CMY retired from the editorship in December 1893.

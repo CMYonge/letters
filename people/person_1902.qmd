@@ -1,0 +1,10 @@
+---
+title: "Mrs Richards"
+person_id: 1902
+---
+
+## Biographical Information
+
+schoolmistress
+
+

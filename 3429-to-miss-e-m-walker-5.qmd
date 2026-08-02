@@ -1,0 +1,45 @@
+---
+title: "To  Maria Edith Walker"
+letter_iso_date: "1899-09-26"
+letter_date: "Sept 26th 1899"
+location: "Elderfield Otterbourne"
+manuscript: "MS  West Sussex County Record Office/ Add. 16,944/4"
+post_id: 3429
+letter_id: "to-miss-e-m-walker-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Maria Edith Walker"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-09-26"
+  url: "https://cmyonge.github.io/letters/3429-to-miss-e-m-walker-5"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 26th 1899  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS  West Sussex County Record Office/ Add. 16,944/4
+:::
+
+Dear [Miss Walker](people/person_2234.qmd)
+I was much interested in your letter, though I am afraid I had not heard [Miss Lawrence](people/person_2199.qmd)’s name.  I believe my [mother](people/person_1606.qmd)left school at 14 in consequence of her[father](people/person_106.qmd)’s very sudden death, so her career there must have been a short one.  I have always thought it must have been a very good school, her knowledge was so thorough, and she taught me almost entirely except a French master and arithmetic, mathematics and Latin from my [father](people/person_1631.qmd). What you tell me of my dear early friend [Mary Davys](people/person_1201.qmd) is most interesting, and just like her.  She had not rank enough to be a Maid of honour, though she lived with them and her right designation was Resident Bedchamber Woman.  Her chief work was to receive the Ministers while they were waiting for the [Queen](people/person_1694.qmd).  She made us one long visit in her holidays, and once we went to see her in Buckingham palace.  She married [Mr Pratt](people/person_1200.qmd), but I only saw her once afterwards,  I always heard of him as very excellent but also that the old clergyman in ‘[Miss Toosey](other_books/otherbook_746.qmd) was a likeness. They had four daughters, two of whom poor things were burnt to death from muslin dresses taking fire from bedcandles.[^1]  I saw much more latterly of [Julia](people/person_57.qmd), whose [husband](people/person_58.qmd) became Dean of Peterborough.  She only died last year.  Her daughter’s husband Mr Rawnsley had the Duke of Albany and the Battenburg boys at his school in the New Forest.[^2] I do wonder that I should not have heard of Miss Lawrence, but I think the languor always consequent of being in London must have hung upon the recollection of schoolfellows
+
+Petty scandal and ‘Airs and Graces’ always seem to me wondrously clever  I wonder if the Black Lane still exists[^3]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The four daughters were [Florence Maria](people/person_1203.qmd), [Fanny Mary Harriet](people/person_1202.qmd), [Ethel Julia](people/person_1204.qmd) and [Mary Josephine Pratt](people/person_1205.qmd).
+[^2]: Alice Julia Argles (b.1848/9) married (1880) [Willingham Franklin Rawnsley](people/person_1225.qmd), who ran a school at Lyndhurst.  His pupils would be Queen Victoria’s grandsons: Prince [Leopold](people/person_868.qmd) (1884–1954), second Duke of Albany and Duke of Saxe-Coburg and Gotha;  and the sons of Princess Beatrice, Prince [Alexander](people/person_122.qmd) (1886-1960), Prince [Leopold Henry](people/person_123.qmd) (1889–1922) and Prince [Maurice](people/person_124.qmd) (1891-1914) of Battenberg.
+[^3]: These stories were published in Maria Edgeworth, *Rosamond: A Sequel to Early Lessons* (London: Hunter and Baldwin 1821).

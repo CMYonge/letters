@@ -1,0 +1,33 @@
+---
+title: "To Marianne Bigg Wither"
+letter_iso_date: "1899-03-17"
+letter_date: "March 17 [1899]"
+manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 330"
+post_id: 3399
+letter_id: "to-marianne-bigg-wither-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Marianne Bigg Wither"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-03-17"
+  url: "https://cmyonge.github.io/letters/3399-to-marianne-bigg-wither-3"
+---
+
+::: {.letter-metadata}
+**Date:** March 17 [1899]  
+**Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 330
+:::
+
+[To [Marianne Bigg Wither](people/person_1546.qmd) about the death of her brother the Rev. [William Bigg Wither](people/person_1544.qmd).]
+
+I had not heard for a fortnight, and had just made up my mind to write to ask [Raby](people/person_1221.qmd) whether you knew anything, and when I saw your writing I knew how it must be. This gradual, gentle sinking is the most merciful way of going one can think of, though I hope that there may not be the restlessness that belongs to weakness and is so very distressing. I shall ask [Henry Bowles](people/person_184.qmd) to pray for him, especially on Sunday when the people are there. I hope it is peaceful sleepiness, and that [your niece](people/person_1089.qmd) or one of the nephews can be with him. The last letter I had, now more than a fortnight ago, spoke of going to church at eleven and preaching from his chair.

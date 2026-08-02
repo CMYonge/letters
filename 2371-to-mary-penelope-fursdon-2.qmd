@@ -1,0 +1,45 @@
+---
+title: "To Mary Penelope Fursdon"
+letter_iso_date: "1870-01-29"
+letter_date: "Jany 29th [1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 2371
+letter_id: "to-mary-penelope-fursdon-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Penelope Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-29"
+  url: "https://cmyonge.github.io/letters/2371-to-mary-penelope-fursdon-2"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 29th [1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+[To [Mary Penelope Fursdon](people/person_539.qmd)]
+
+[Gosling](organizations/other_104.qmd) questions for February
+
+Write the history of Henry VIII's expedition to France.
+
+What parallel stories does folklore in different countries present to the adventures of Ulysses in the Odyssey?
+
+Mother Goose
+
+---
+
+**Note:** Black-edged paper, with black-edged blue envelope addressed to Miss Mary Fursdon/ Fursdon/ Tiverton postmarked Winchester 29 Jan and Tiverton 30 Jan 1870.

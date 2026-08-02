@@ -1,0 +1,39 @@
+---
+title: "To  Maria Edith Walker"
+letter_iso_date: "1899-12-15"
+letter_date: "Decr 15th 1899"
+location: "Elderfield"
+manuscript: "MS  West Sussex County Record Office/ Add. 16,944/5"
+post_id: 3436
+letter_id: "to-miss-e-m-walker-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Maria Edith Walker"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-12-15"
+  url: "https://cmyonge.github.io/letters/3436-to-miss-e-m-walker-3"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 15th 1899  
+**From:** Elderfield  
+**Manuscript:** MS  West Sussex County Record Office/ Add. 16,944/5
+:::
+
+Dear [Miss Walker](people/person_2234.qmd)
+I read a review of [Miss Winslow’s diary](other_books/otherbook_749.qmd), which must have given a fair idea of it. Most [Grandisonian](other_books/otherbook_362.qmd) days those were!  Did you see [‘Like Another Helen’](other_books/otherbook_750.qmd) in which very good imitation letters are written by a young lady who actually was the one woman in the Black Hole.  I thought it the best novel I had seen of the season.  I wonder whether [Gaffer Two Shoes](other_books/otherbook_751.qmd) was an imitation of [Goody](other_books/otherbook_555.qmd).  My cousin has a copy where our prudent Great Grandmother had turned the Ghost in the Church into a dog making arrant nonsense  Did you ever come across  [‘Juliana or the Affectionate Geese.’](other_books/otherbook_764.qmd)  My [Mother](people/person_1626.qmd) once read a part of it, but never saw it again.  Another recollection of hers was of a novel where there was a family of nine Miss Simmondses, and at some county races, on the box of each carriage there was perched a Miss Simmonds  I think we once met a person who likewise remembered the nine Miss Simmondses
+
+I am afraid I must put you off with this short letter for it is a busy day
+
+yours sincerely
+C M Yonge

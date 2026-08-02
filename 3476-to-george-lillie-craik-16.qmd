@@ -1,0 +1,39 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1901-01-15"
+letter_date: "Jan 15th 1901"
+location: "Elderfield Otterbourne"
+manuscript: "MS Reading University Library 1448/120"
+post_id: 3476
+letter_id: "to-george-lillie-craik-16"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1901-01-15"
+  url: "https://cmyonge.github.io/letters/3476-to-george-lillie-craik-16"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 15th 1901  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Reading University Library 1448/120
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I see you are advertising [Highways and Byways in Spain](other_books/otherbook_780.qmd).  I should be much obliged if I might have a copy as my [Sister in law](people/person_1604.qmd) and her daughters are at Algeciras, where the [husband](people/person_386.qmd) of [one](people/person_388.qmd) is Vice Consul.  I am expecting the [elder one](people/person_1613.qmd) to return before the end of the month, and the book would be much enjoyed by us together.
+
+I am glad [Modern Broods](cmy_books/cmybook_251.qmd) is doing well.  It is more than I expected, for I do not think I can attempt any more of the kind after a long spell of success.
+
+yours sincerely
+C M Yonge

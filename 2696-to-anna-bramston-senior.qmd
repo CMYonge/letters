@@ -1,0 +1,46 @@
+---
+title: "To Jane Bramston"
+letter_iso_date: "1874-05-22"
+letter_date: "May 22nd [1874-7?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2696
+letter_id: "to-anna-bramston-senior"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jane Bramston"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1874-05-22"
+  url: "https://cmyonge.github.io/letters/2696-to-anna-bramston-senior"
+---
+
+::: {.letter-metadata}
+**Date:** May 22nd [1874-7?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Mrs Bramston](people/person_2303.qmd)
+
+The Eastleigh girl would not go to London, so if you have a Winchester - or an Essex one, it would be a very good thing for 
+
+Mrs Spralt[?][^1]
+57 Brushfield St
+Spitalfields
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: This is one of many letters which show CMY helping to obtain jobs in domestic service for village girls.  Miss Maria Salter, butcher, is recorded at this address in the 1882 Post Office London Directory.  Jane Bramston was the wife of a clergyman who taught at Winchester College, and the daughter of an Essex clergyman.

@@ -1,0 +1,40 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-06-03"
+letter_date: "June 3d 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British LibraryAdd MSS 54920: 28-29"
+post_id: 1958
+letter_id: "to-alexander-macmillan-16"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-06-01"
+  url: "https://cmyonge.github.io/letters/1958-to-alexander-macmillan-16"
+---
+
+::: {.letter-metadata}
+**Date:** June 3d 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British LibraryAdd MSS 54920: 28-29
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+
+There is one more copy of [the Trial](cmy_books/cmybook_53.qmd) that I should like to have sent to the Press - i.e., to [Events of the Month](organizations/other_69.qmd), Mozley’s, 6 Paternoster Row - it is a sort of school room [Athenaeum](organizations/other_170.qmd) which I wish to help forward
+
+Thanks for your note. I hope nothing will prevent my meeting [Mrs D Macmillan](people/person_941.qmd) and I shall be glad to talk over your scheme, and see if it comes within my views and capabilities. The [Golden Deeds](cmy_books/cmybook_51.qmd) have been most enjoyable work
+
+Yours faithfully
+C.M. Yonge

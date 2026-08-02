@@ -1,0 +1,49 @@
+---
+title: "To the Reverend Bartholomew Price"
+letter_iso_date: "1882-12-09"
+letter_date: "Decr 9th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS  Pembroke College Oxford 60/14/97"
+post_id: 2762
+letter_id: "to-the-reverend-bartholomew-price"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Bartholomew Price"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-12-09"
+  url: "https://cmyonge.github.io/letters/2762-to-the-reverend-bartholomew-price"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 9th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS  Pembroke College Oxford 60/14/97
+:::
+
+My dear [Mr Price](people/person_1208.qmd)
+
+Mr [Walter Smith](people/person_1344.qmd) took the [Mozleys](organizations/other_108.qmd)’ business when [John Mozley](people/person_1065.qmd) died and [Charles](people/person_1063.qmd) retired.  He was trained at [Macmillans](organizations/other_111.qmd) and I think he knows his profession (or what ever it is to be called) thoroughly.[^1]  He is a gentleman and pleasant to deal with in all ways.  I do not know [the present Parker](people/person_2349.qmd), as my dealings were with [his father](people/person_1142.qmd), but I prefer Mr Smith greatly to J H P.  He is very straightforward and lets one understand what he is about, and I should call him rather cautious than enterprising.  He has had to feel his way a good deal, for old John Mozley had attended to nothing for years, and a foreman they took into partnership immediately went mad, and upset the arrangements- and they had to go on paying him as partner after he was in an asylum, till the firm could be dissolved.  
+
+So poor Mr Smith has had a great deal against him but I think he has done well, and I am quite sure you may have full confidence in his honourable dealing.
+
+He is a very good Churchman, and would think the work a great honor  I think it would be the making of him so that I hope you will see your way to giving the publication to him.
+
+[Julian](people/person_1624.qmd) is getting through the winter well among his birds and his china painting.
+
+With kindest regards to Mrs Price
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: As well as being Sedleian Professor of Natural Philosophy Price was secretary to the delegates of the Oxford University Press 1873-84, and his enquiry about Smith seems to have been about employing him in this capacity.

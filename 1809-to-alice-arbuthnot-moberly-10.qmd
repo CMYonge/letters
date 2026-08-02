@@ -1,0 +1,38 @@
+---
+title: "To Alice Arbuthnot Moberly"
+letter_iso_date: "1860-12-18"
+letter_date: "Dec. 1860"
+manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum}</i>, 163-4."
+post_id: 1809
+letter_id: "to-alice-arbuthnot-moberly-10"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alice Arbuthnot Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-12-01"
+  url: "https://cmyonge.github.io/letters/1809-to-alice-arbuthnot-moberly-10"
+---
+
+::: {.letter-metadata}
+**Date:** Dec. 1860  
+**Manuscript:** MS location unknown. This fragment printed in <i>[[otherbook:122](other_books/otherbook_122.qmd)Dulce Domum}</i>, 163-4.
+:::
+
+My dear [Alice](people/person_1025.qmd),
+
+I trow you are not expecting me to-night, and a great pity it is, but it will be mitigated if [Dr. Moberly](people/person_1015.qmd) will only be so kind as to lend us the lecture to read at home, in which case the Institution shall honestly have the price of our tickets.[^1] If you will tell the cart to call we will send in [Froude](other_books/otherbook_286.qmd), vol v., and ‘[Cornwallis](other_books/otherbook_287.qmd).’[^2] I am afraid you are not in the way of the glory of the snow. It was like a succession of fairy palaces all the way to church this morning, and we have just come in from revelling in it by the lovely little crescent moon, with the sunset light far away. Even waggons have not stained it yet, and the hill is one great twelfth cake: and the cabbages are divided into Esquimaux huts and lawyers’ wigs. I am afraid that [Mrs. Moberly](people/person_1019.qmd) feels the cold, and still more afraid that [Mrs. Keble](people/person_795.qmd) does . . .
+
+---
+
+[^1]: *The Hampshire Telegraph* reported (22 December 1860) that the Rev. George Moberly had given on Thursday 20 December a lecture on 'Earl Waltheof and Norman Winchester' in aid of 'the fund for the establishment of a new and enlarged refuge for penitent females', *i.e.* [the Winchester Female Refuge](organizations/other_49.qmd).
+[^2]: Volumes 5 and 6 of J.A. Froude’s *History of England from the Fall of Wolsey to the Death of Elizabeth*  (later renamed  *to the Defeat of the Spanish Armada*) appeared in 1860.

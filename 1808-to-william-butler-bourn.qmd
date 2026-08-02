@@ -1,0 +1,41 @@
+---
+title: "To William Butler Bourn"
+letter_iso_date: "1860-11-22"
+letter_date: "Novr 22nd 1860"
+location: "Otterbourne, Winchester."
+manuscript: "MS Helen Schinske"
+post_id: 1808
+letter_id: "to-william-butler-bourn"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To William Butler Bourn"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-11-22"
+  url: "https://cmyonge.github.io/letters/1808-to-william-butler-bourn"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 22nd 1860  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Helen Schinske
+:::
+
+Miss Yonge is much obliged to [Mr Bourn](people/person_178.qmd) for sending her several reviews and critical notices of <u>[Hopes & Fears](cmy_books/cmybook_37.qmd)</u>.
+
+She would be glad to know how the sale of the work has been proceeding.
+
+Miss Yonge would be much obliged if Mr Bourn would inform her whether [Mr Parker](people/person_1144.qmd) is pretty well, and also to express to him her sincere regrets and condolence[^1]
+
+---
+
+[^1]: His son [John William Parker](people/person_1143.qmd), Jr. (1820-1860) had died on 9 November.  Bourn and the elder Parker were now running the firm.

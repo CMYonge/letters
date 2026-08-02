@@ -1,0 +1,32 @@
+---
+title: "To an Unknown Person"
+letter_date: "Undated"
+manuscript: "MS Miss Sarah Jardine-Willoughby"
+post_id: 3495
+letter_id: "to-an-unknown-person"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3495-to-an-unknown-person"
+---
+
+::: {.letter-metadata}
+**Date:** Undated  
+**Manuscript:** MS Miss Sarah Jardine-Willoughby
+:::
+
+to shorten her holiday for it
+
+your affectionate
+CMYonge

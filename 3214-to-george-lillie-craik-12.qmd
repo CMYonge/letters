@@ -1,0 +1,45 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1893-02-01"
+letter_date: "Feb 1st 1893"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 193-4"
+post_id: 3214
+letter_id: "to-george-lillie-craik-12"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-02-01"
+  url: "https://cmyonge.github.io/letters/3214-to-george-lillie-craik-12"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 1st 1893  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 193-4
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+I return the receipt with many thanks.
+
+I quite agree to your decision about the [Rubies of St Lo](cmy_books/cmybook_234.qmd) not being attached to [Grisly Grisell](cmy_books/cmybook_228.qmd) as the only connection between them is that Henry VI is mentioned in each.
+
+I could add a chapter at the end to Grisly Grisell, as I was afraid to wind up all the characters lest it should be too long, but it may perhaps be better to finish where it does on the principle of not ‘rhyming to that dull elf’[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Walter Scott, *Marmion* (1808) 6, 618-9: ‘I do not rhyme to that dull elf,/ Who cannot image to himself . . ‘

@@ -1,0 +1,43 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1869-03-25"
+letter_date: "March 25th [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2312
+letter_id: "to-an-unknown-woman-17"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-03-25"
+  url: "https://cmyonge.github.io/letters/2312-to-an-unknown-woman-17"
+---
+
+::: {.letter-metadata}
+**Date:** March 25th [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+Dear Madam,
+I am much obliged by your kind answer and will write again in a short time. Another application that I had made about ten days before and had begun to think was unnoticed, has at length answered me, and I must know first whether the girl is eligible to the school that has been mentioned to me.
+
+When this is decided I will write again
+With many thanks
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

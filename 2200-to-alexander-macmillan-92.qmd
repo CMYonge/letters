@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1867-07-29"
+letter_date: "July 29th [1867]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 188-189"
+post_id: 2200
+letter_id: "to-alexander-macmillan-92"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-07-29"
+  url: "https://cmyonge.github.io/letters/2200-to-alexander-macmillan-92"
+---
+
+::: {.letter-metadata}
+**Date:** July 29th [1867]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 188-189
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I am getting well again, and gone to work again.[^1] Clement of Alexandria is the first authority for the robber story, but Eusebius takes it from him. I have a queer old [translation of Eusebius](other_books/otherbook_504.qmd), Socrates and Co - from which I really did expand the account, and so I think I had better leave Eusebius, as it looks less as if it all came out of [Smith’s dictionary](other_books/otherbook_389.qmd) as in fact much necessarily does.
+
+I am glad you and [Mr Masson](people/person_980.qmd) consent to the [Chaplet of Pearls](cmy_books/cmybook_69.qmd) - it really was a material chaplet, and if it were coming at once in a book by itself, I should begin by quoting [Froissart](other_books/otherbook_219.qmd)’s old French about it. I suppose by your account there is power in the [Scotch girl](organizations/other_193.qmd) that wants toning down. 
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: She was working on *The Pupils of St. John the Divine*.

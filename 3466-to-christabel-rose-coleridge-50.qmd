@@ -1,0 +1,43 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-08-01"
+letter_date: "Aug 1 [1900]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/102. Printed by Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 345-6 and dated by her 1900."
+post_id: 3466
+letter_id: "to-christabel-rose-coleridge-50"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-08-01"
+  url: "https://cmyonge.github.io/letters/3466-to-christabel-rose-coleridge-50"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 1 [1900]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/102. Printed by Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 345-6 and dated by her 1900.
+:::
+
+My dear [C C](people/person_329.qmd)
+Does not your paper want something more of practical application, not that I quite see how it is to be done.  Maud and Lily are capitally described, but the upshot is that a nice girl does not like to be mixed up with them- also that mothers should be exhorted to keep girls <u>nice</u> – and mistresses to take care whom they take.
+
+Would be possible to bring it more to a point?  Suppose I made an addition, if you don’t.  I was rather moved to write a sort of comment on a rather silly paper in [Macmillan](organizations/other_78.qmd) which results in our doing without servants American fashion, and at any rate seems to think them all the smart parlour maids of 20 or so, resenting want of liberty, and the edicts against fringes- which the author thinks jealousy.  Are you inclined to write a little more, bringing it to some more of point, or is it impossible.  Or shall I make a sort of note at the end?
+
+Domum seems to have been very pleasant, though all in the fields, for [Miss Crawford](people/person_2241.qmd), the [Warden](people/person_2240.qmd)’s sister in law actually died in the midst of the singing.  I wonder they had it at all.  They did not have the ball. [Mary Morshead](people/person_28.qmd) went in with old [Miss Warenne](people/person_2237.qmd) and saw Tory in his new abode – also stepped on him.  Vic lies curled up with his mother  I wonder what would have happened if Tory had been added to your ‘feudal jars’-  The Century has some charming Literary Cats.  [Reggie](people/person_189.qmd) comes home on Saturday with a good character, his little sisters were all running about the lane yesterday with bare feet.  I am enjoying Mary Morshead.  She is to give a lecture on [GFS](organizations/other_23.qmd) tomorrow at Twyford to the middle class girls who think it is only for servants.  We are to drink tea with [Mrs Hoets](people/person_2238.qmd).
+
+Young [Walter Moberly](people/person_2239.qmd), [Robert](people/person_1021.qmd)’s son, is keeping up the credit of the family by getting medals.  Annie comes to me from the 3d or 4th of September to the 7th
+
+your affte
+C M Yonge

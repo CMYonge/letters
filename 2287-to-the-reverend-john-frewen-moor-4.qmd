@@ -1,0 +1,46 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1868-10-26"
+letter_date: "Oct 26th 1868"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2287
+letter_id: "to-the-reverend-john-frewen-moor-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-26"
+  url: "https://cmyonge.github.io/letters/2287-to-the-reverend-john-frewen-moor-4"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 26th 1868  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear[Mr Moor](people/person_1046.qmd),
+We are so very much concerned to hear of [Mrs Moor](people/person_1044.qmd)’s illness, of which we were not at all aware till Saturday.
+
+I would not trouble you now, but that I should be so very glad if you found it convenient to trust us with [Selina](people/person_1048.qmd) and [Philip](people/person_1047.qmd).[^1] [Mr Wither](people/person_1544.qmd) (who is obliged to go to Winchester today) desires me to say he would be very glad to have them and their maid to sleep at his house and we would look after them by day, with <u>really</u> great pleasure—and I hope we could make them happy. If you can send them over tomorrow we should be quite ready for them.
+
+If it were not convenient to send their maid, the nurse we had here, who is a very nice bright person and is lodging in the village could take care of them.
+
+Yours sincerely,
+C. M Yonge
+
+---
+
+[^1]: Black-edged paper and a small black-edged blue envelope addressed “The Revd J F Moor/Ampfield”, not sent through the post.
+[^2]: Selina and Philip Moor were the Moors' two youngest children.

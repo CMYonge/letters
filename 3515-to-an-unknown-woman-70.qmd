@@ -1,0 +1,40 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1883-07-12"
+letter_date: "July 12th [1883-1893]"
+manuscript: "MS Charlotte Mitchell"
+post_id: 3515
+letter_id: "to-an-unknown-woman-70"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-07-12"
+  url: "https://cmyonge.github.io/letters/3515-to-an-unknown-woman-70"
+---
+
+::: {.letter-metadata}
+**Date:** July 12th [1883-1893]  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Dear Madam
+
+I kept little Frieda in case there should be room for it in the Christmas number, but as there is not I return it
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** The silurian paper was used by CMY from the early 1880s until her death, but this letter was probably written before Christabel Coleridge was joined with her in the editorship in January 1893.

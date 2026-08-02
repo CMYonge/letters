@@ -1,0 +1,45 @@
+---
+title: "To Blanche Catherine Medhurst"
+letter_iso_date: "1872-12-18"
+letter_date: "Decr 18th 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2464
+letter_id: "to-blanche-catherine-medhurst-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Blanche Catherine Medhurst"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-12-18"
+  url: "https://cmyonge.github.io/letters/2464-to-blanche-catherine-medhurst-2"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 18th 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+Dear [Miss Medhurst](people/person_988.qmd)
+I like your New Year’s Eve poem, but I ought to have had it long ago.
+
+If you have not disposed of it otherwise, will you send it to me next October for December of 1873. 
+
+I believe [Mrs Mercier](people/person_990.qmd) has put a little pupil of mine under your care as member of the Guild [Emmeline Spratt](people/person_1358.qmd). She is a really good girl I believe, and very affectionate but I should not wonder if you thought her a little sentimental	
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

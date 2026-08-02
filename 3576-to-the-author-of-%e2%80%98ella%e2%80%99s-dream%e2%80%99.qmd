@@ -1,0 +1,44 @@
+---
+title: "To the Author of ‘Ella’s Dream’"
+letter_iso_date: "1870-02-10"
+letter_date: "Febry 10th [1870s?]"
+location: "Elderfield"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3576
+letter_id: "to-the-author-of-%e2%80%98ella%e2%80%99s-dream%e2%80%99"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Author of ‘Ella’s Dream’"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-02-10"
+  url: "https://cmyonge.github.io/letters/3576-to-the-author-of-%e2%80%98ella%e2%80%99s-dream%e2%80%99"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 10th [1870s?]  
+**From:** Elderfield  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+Dear Sir,
+
+Many thanks for your paper, which shall certainly go into the [Monthly Packet](organizations/other_52.qmd). I have been asked to call for some such spoon meat for [a packet of small books](cmy_books/cmybook_211.qmd) for [Mr Warne](people/person_1433.qmd), and as your Elsie’s Dream seems to me just the right thing in length and material for the purpose, I venture to ask if you would object to its so appearing instead of in the Monthly Packet.[^1] Mr Warne promises £2 for each tale, and I think in this manner it will probably sooner appear.
+
+yours truly
+C M Yonge
+
+&nbsp;
+
+---
+
+[^1]: There was more than one series of ‘Warne’s Victoria Toy Books:  A Packet of Twelve Nursery Stories’, and they are treated variously by cataloguers, since they appeared as  ‘Edited by the Author of *The Heir of Redclyffe*’.  Some assume this means that CMY wrote them. According to WorldCat the only surviving copy of *Ella’s Dream* is owned by the University of Florida.

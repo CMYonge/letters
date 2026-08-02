@@ -1,0 +1,41 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-11-02"
+letter_date: "Nov 2 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (2) P.548"
+post_id: 19651
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-11-02"
+  url: "https://cmyonge.github.io/letters/19651-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Nov 2 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (2) P.548
+:::
+
+Dear Miss Yonge,
+
+How does page(?) suit your idea of the [History book](cmy_books/cmybook_71.qmd)? What you sent me was about 240 pages like the specimens. So the whole would be too much for one volume. Can we make two - or three? Are there any natural divisions?
+
+Very faithfully yours
+
+[A. Macmillan](people/person_939.qmd)
+
+Among the books that were transferred to us from [Parker](organizations/other_152.qmd) are some copies of [Dynevor Terrace](cmy_books/cmybook_27.qmd) in the two volume form we don’t sell [illegible]  of course. Had I not better sell them to [Routledge](organizations/other_258.qmd) or [Smiths](organizations/other_161.qmd) at a very cheap price?
+
+&nbsp;

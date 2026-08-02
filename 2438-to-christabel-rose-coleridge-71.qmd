@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1872-02-01"
+letter_date: "Feb 1st [endorsed '1872']"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2438
+letter_id: "to-christabel-rose-coleridge-71"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-02-01"
+  url: "https://cmyonge.github.io/letters/2438-to-christabel-rose-coleridge-71"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 1st [endorsed '1872']  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+Here are the answers please to set on the next questioner.  Is it [Polypodium](people/person_50.qmd) whom I think a very good one with plenty of stuff in her.[^1]  I am sorry you have not caught any pupils  I thought you would have had [Mr Johns](people/person_769.qmd)’s rejected addresses.[^2]
+
+I am having new school experiences, having taken half an hour twice a week of our boys’ [school](organizations/other_107.qmd), which somehow had got a good deal let down, so that nobody knew who his neighbour was.[^3]  They are quiet little lads and I don’t think stupid  
+
+Cannot you invent some small stimulus to break the silent spell?  I believe it is the second stage of civilisation there is the blurting out period, the silent one and that of reasonable speech
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Polypodium, Maria Archer Houblon, was a member of the [Gosling Society](organizations/other_104.qmd), of which Christabel Coleridge was the secretary.
+[^2]: The phrase no doubt comes from the well-known parodies of Wordsworth etc. (James and Horatio Smith, *Rejected Addresses*, 1812).  The Rev. Charles Alexander Johns ran a prep school at Winton House, Winchester, until his death in 1874;  but was absent during the 1871 census, and it is possible that ill-health or some other reason had led to a scaling down of the school. Christabel's brother [Ernest](people/person_336.qmd) had perhaps hoped for his pupils.
+[^3]: This  refers to the questions in the church catechism about 'my duty towards my Neighbour'.

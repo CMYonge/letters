@@ -1,0 +1,44 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1889-12-28"
+letter_date: "Decr 28th 1889"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 14"
+post_id: 2922
+letter_id: "to-arthur-donald-innes-29"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-12-28"
+  url: "https://cmyonge.github.io/letters/2922-to-arthur-donald-innes-29"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 28th 1889  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 14
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+
+I specially desired [Clowes](organizations/other_245.qmd) to put <u>two</u> chapters of the [Norse Literature](other_books/otherbook_1095.qmd) in type, and send them at once, because [Miss Oswald](people/person_1105.qmd) wanted time to send them to Iceland. [^1]  You said there was no reason they should not. Now they have just sent in the proof of only one - so that they have evidently never heeded my letter.
+
+I am sorry because Miss Oswald must think it my fault.
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Elizabeth Jane Oswald sent CMY her *By Fell and Fjord, or, Scenes and Studies in Iceland* (Edinburgh: 1882) with a note (UCLA MS) and she also contributed to *MP* (Christmas 1889).  From this letter it appears that she was also the author of the series ‘Sketches of Old Norse Literature’ which ran in *MP* (January-December 1890).

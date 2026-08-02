@@ -1,0 +1,45 @@
+---
+title: "To Alexander Macmillan,"
+letter_iso_date: "1870-09-13"
+letter_date: "Sept 13th [1870]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 2388
+letter_id: "to-alexander-macmillan-116"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan,"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-09-13"
+  url: "https://cmyonge.github.io/letters/2388-to-alexander-macmillan-116"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 13th [1870]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Have you made any arrangements with American publishers about my [Scripture Readings](cmy_books/cmybook_87.qmd)? I think I might perhaps do so, but I should like first to know whether you have any views.
+
+[Miss Sewell](people/person_1301.qmd) is very anxious to know when the [selections](cmy_books/cmybook_82.qmd) are to come.
+
+I suspect you are from home.
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

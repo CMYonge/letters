@@ -1,0 +1,45 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1871-08-11"
+letter_date: "Aug 11th [1871]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas."
+post_id: 2416
+letter_id: "to-christabel-rose-coleridge-66"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-08-11"
+  url: "https://cmyonge.github.io/letters/2416-to-christabel-rose-coleridge-66"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 11th [1871]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas.
+:::
+
+My dear [Christabel](people/person_329.qmd),
+The Humberts[^1] are very nice people, [Florence Wilford](people/person_1520.qmd) is very fond of them and he was an immense comfort to the two old ladies. He was the making of [St Cross](organizations/other_130.qmd), as first Master after the reformation there, and did an immense deal both for the Church and parish, but when his [wife](people/person_2273.qmd) got softening on the brain, he lost his delight and love in the place and became anxious to get away - and poor man, his wife fell into the fire and got burnt to death the very day after their arrival at Chiddingfold. I do not know much of the girls myself - they were very young; but Florence always took great interest in them. [Mr. Humbert](people/person_730.qmd) is much given to architecture and is rather a cultivated  man, of a good deal of taste, though not a clever one, and is a much better Churchman than most of [Bp Sumner](people/person_1383.qmd)’s appointments[^2]
+
+I wish [Katie Johns](people/person_887.qmd) would tell [Mr Strahan](people/person_1278.qmd) that respectable people will have to give up [Good Words](organizations/other_73.qmd) if [the Sylvestres](other_books/otherbook_807.qmd)goes on much longer, I believe I should at once but for [the High Mills](other_books/otherbook_808.qmd) and the hope of your story.[^3] 
+
+Yours affectionately
+C.M. Yonge
+
+---
+
+[^1]: The Rev. [Lewis Macnaughton Humbert](people/person_730.qmd) (1819-1896), was Master of St. Cross Hospital at the time of the 1861 census, and Rector of Chiddingfold in 1871. The almshouse of St. Cross had been the subject of a well-known scandal over clerical pluralism which is supposed to have inspired Trollope's novel *The Warden*.  Florence Wilford's aunt [Maria Cristall](people/person_384.qmd) lived at St. Cross with an elderly friend. The 'girls' were [Ellen](people/person_731.qmd) (b. 1850/1) and [Margaret](people/person_732.qmd) (b. 1858/9).
+[^2]: The Rt. Rev. Charles Sumner, Bishop of Winchester, who had retired owing to ill-health in 1869, had been antagonistic to Keble and his circle.
+[^3]: The implication seems to be that Ann Catherine Johns worked as an illustrator on *Good Words*, the magazine published by Alexander Stuart Strahan (1833–1918).

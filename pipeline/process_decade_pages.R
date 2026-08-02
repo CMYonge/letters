@@ -17,7 +17,7 @@ library(stringr)
 
 ##### CONFIGURATION #####
 
-website_dir <- "C:/db/cmy_letters_website_Apr"
+website_dir <- "C:/db/letters"
 data_dir    <- "C:/db"
 decades_dir <- file.path(website_dir, "decades")
 
@@ -202,7 +202,7 @@ cat("Fixing _quarto.yml...\n")
 quarto_config <- '
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Charlotte Mary Yonge Letters"
@@ -296,7 +296,7 @@ gen_bib <- read_csv("C:/db/wp_generalbibliography.csv", show_col_types = FALSE)
 get_cmy_title <- function(id) {
   row <- cmy_bib[cmy_bib$cmy_bookID == id, ]
   if (nrow(row) == 0) return(paste("CMY Book", id))
-  trimws(str_replace_all(row$title[1], "<[^>]+>", ""))
+  trimws(str_replace_all(row$display_title[1], "<[^>]+>", ""))
 }
 get_gen_title <- function(id) {
   row <- gen_bib[gen_bib$general_bookID == id, ]

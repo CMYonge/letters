@@ -1,0 +1,47 @@
+---
+title: "To Beatrice Henrietta Heathcote"
+letter_iso_date: "1898-01-29"
+letter_date: "Jan 29th [1898?]"
+location: "Elderfield"
+manuscript: "MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/62"
+post_id: 3368
+letter_id: "to-beatrice-heathcote-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Beatrice Henrietta Heathcote"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-01-29"
+  url: "https://cmyonge.github.io/letters/3368-to-beatrice-heathcote-3"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 29th [1898?]  
+**From:** Elderfield  
+**Manuscript:** MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/62
+:::
+
+My dear [Bea](people/person_655.qmd),
+No doubt this extract is what Carlyle went upon. Oliver Cromwell’s - or the Commonwealth Great Seal as figured by Knight has the map of England and Ireland on one side, and (apparently) parliament sitting on the reverse. The authority for it is not given. Rapin’s [history](other_books/otherbook_736.qmd) however says that Richard had a new Great seal made for himself, and this must be the thing that was hidden, as it was an awkward thing to carry off as James II found.[^1]
+
+Is Vertue’s collection in the British museum?[^2] The Vertue portraits are all in my Rapin but not the seals. I wish that it was given. I think all the Great seals are at the Museum, and perhaps the account of how they got there.
+
+I hope to meet you at Wolvesey on the 11th I hope [Lady Heathcote](people/person_665.qmd) will escape any more neuralgia. They have not yet sent me John Backland’s rubbing from Hursley.[^3] [Duthy](other_books/otherbook_737.qmd) and [Marsh](other_books/otherbook_734.qmd) do not agree as to his name, I think[Edmund Morshead](people/person_42.qmd) will have to go over and investigate himself.
+
+Yours affectionately
+C M Yonge
+
+---
+
+[^1]: This discussion relates to the account of Richard Cromwell in *John Keble's Parishes*.
+[^2]: The collection of drawings of seals by the engraver George Vertue (1684-1756) are held by the Society of Antiquaries, London.
+[^3]: The epitaph is quoted in *John Keble's Parishes*, 19-20.

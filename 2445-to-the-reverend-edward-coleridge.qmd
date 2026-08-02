@@ -1,0 +1,42 @@
+---
+title: "To the Reverend Edward Coleridge"
+letter_iso_date: "1872-04-25"
+letter_date: "April 25th 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Royal College of Surgeons, London, Hunter-Baillie collection 0014/7/244"
+post_id: 2445
+letter_id: "to-the-reverend-edward-coleridge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Edward Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-25"
+  url: "https://cmyonge.github.io/letters/2445-to-the-reverend-edward-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** April 25th 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Royal College of Surgeons, London, Hunter-Baillie collection 0014/7/244
+:::
+
+My dear [Cousin](people/person_332.qmd)
+Thank you for your note.  The character you give dear [Coley](people/person_1155.qmd) is I think almost exactly what [Bishop Abraham](people/person_4.qmd), [in] the papers in [St Luke’s Magazine](organizations/other_87.qmd), and his own letters, have been helping me to trace, but I am very glad of your confirmation of it.[^1]  Can you remember anything about his giving a seal to [Bishop Selwyn](people/person_1295.qmd) when he came to take leave at Eton before his first going out.  It is spoken of in a letter but neither the Selwyns nor Pattesons can recollect anything about it.  I am glad you mentioned the copying.  It is sometimes referred to in his letters but I had not spoken of it.  Any time that it is convenient to you to send the letters I shall be grateful for them, but they will not come into immediate use for a month or six weeks as I have only reached the Oxford period, and I am just now a good deal interrupted.  Perhaps I had better write when I am close upon the need for them, and ask for them.  I am very anxious to shew how extensive his mind and interests were.
+
+Your affectionate cousin
+C M Yonge
+
+---
+
+[^1]: Other letters in this collection are addressed to the Rev. Edward Coleridge; letter 242 is from Max Müller enclosing letters from Bishop Patteson for CMY’s biography; 239 from Sir John Taylor Coleridge, about his own illness; 246 last page of letter from Bishop Patteson, when Selwyn’s chaplain, giving his views on New Zealand politics, especially his disagreement with the Governor.
+[^2]: CMY was researching her biography of Bishop Patteson. Coleridge was Bishop Patteson's uncle, and had taught him at Eton, but was also an important British supporter of the Melanesian mission.

@@ -1,0 +1,43 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1896-04-17"
+letter_date: "April 17 [1896]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: English Letters: e 86."
+post_id: 3323
+letter_id: "to-the-reverend-john-frewen-moor-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-04-17"
+  url: "https://cmyonge.github.io/letters/3323-to-the-reverend-john-frewen-moor-5"
+---
+
+::: {.letter-metadata}
+**Date:** April 17 [1896]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+I have a very kind woman, [Mrs James Hoskins](people/person_2154.qmd) who has brought up 6 daughters and two waifs and strays very well - is a Communicant &c She has a vacancy now having lost an old aunt who lived with her and having now only a brother and sister 8 and 7, would be glad of another child.
+
+Only the [Waifs and Strays](organizations/other_2.qmd) specify that other or lodgers must not be taken, meaning I think to exclude [Bernardos](organizations/other_115.qmd)[sic] - Would you send me in full the antecedents  of this child, so that I could ask permission of [Mr Rodolf](people/person_1119.qmd) of the Waifs.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Edward de Montjoie Rudolf (1852-1933), prime mover in the foundation of the first Church of England Central Home for Waifs and Strays in 1881, which became the Church of England Society for Providing Homes for Waifs and Strays, and focussed on boarding out the children in families.

@@ -1,0 +1,37 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1866-10-10"
+letter_date: "Oct 10th 1866"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Iowa; MsL/Y56/1866"
+post_id: 2135
+letter_id: "to-an-unknown-man-17"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-10-10"
+  url: "https://cmyonge.github.io/letters/2135-to-an-unknown-man-17"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 10th 1866  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Iowa; MsL/Y56/1866
+:::
+
+Dear Sir,
+Many thanks for the poem which is to be placed with a collection of autographs made by a member of my family
+
+Yours truly
+C M Yonge

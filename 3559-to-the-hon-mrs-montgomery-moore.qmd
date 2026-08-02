@@ -1,0 +1,41 @@
+---
+title: "To the Hon. Mrs Montgomery Moore?"
+letter_iso_date: "1863-12-19"
+letter_date: "Decr 19th [after 1863]"
+location: "Elderfield"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3559
+letter_id: "to-the-hon-mrs-montgomery-moore"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Mrs Montgomery Moore?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-12-19"
+  url: "https://cmyonge.github.io/letters/3559-to-the-hon-mrs-montgomery-moore"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 19th [after 1863]  
+**From:** Elderfield  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+Dearest[Jay](people/person_1042.qmd)[^1]
+Thank you – here are a few hardly worth it
+
+Your affec
+C M Yonge
+
+---
+
+[^1]: Two other affectionate letters to a cousin addressed as Jay exist (MSS Charlotte Mitchell), and from internal evidence  the most likely recipient seems to be Jane (Colborne) Montgomery Moore.

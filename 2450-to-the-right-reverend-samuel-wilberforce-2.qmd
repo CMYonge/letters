@@ -1,0 +1,38 @@
+---
+title: "To the Right Reverend Samuel Wilberforce."
+letter_iso_date: "1872-06-17"
+letter_date: "June 17th 1872"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MSS. Wilberforce c. 18 ff129-30"
+post_id: 2450
+letter_id: "to-the-right-reverend-samuel-wilberforce-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Right Reverend Samuel Wilberforce."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-06-17"
+  url: "https://cmyonge.github.io/letters/2450-to-the-right-reverend-samuel-wilberforce-2"
+---
+
+::: {.letter-metadata}
+**Date:** June 17th 1872  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MSS. Wilberforce c. 18 ff129-30
+:::
+
+My dear [Lord Bishop](people/person_1512.qmd),
+I had been thinking of writing to you, if I could not meet you for some time past and the being asked to send you this card gives an impulse.  I wanted to ask you whether you published - or have any record of a sermon which you preached at Eton on the 31st of October 1841, when [Bishop Selwyn](people/person_1295.qmd)was taking leave for the first time. I am doing my best to put together [an account](cmy_books/cmybook_102.qmd) of my dear cousin, [Bishop Patteson](people/person_1155.qmd), and on going through his old letters, and enlightening them by the family recollections it seems quite clear that it was that day (when he was only 14) that made him a missionary. I have recovered the text of the Bishop of Lichfields sermon, and I should be very thankful if I could obtain any account of yours likewise - though I hardly should have ventured to trouble you if I had not been sure of the pleasure it would give you to find that bit of bread coming back after so many days
+
+Believe me
+Yours with affectionate regard
+C M Yonge

@@ -1,0 +1,12 @@
+---
+title: "William Shakespeare - The Works of William Shakespeare"
+book_id: 1131
+---
+
+## Publication Information
+
+**Date:** 1863-1866
+
+**Imprint:** Cambridge: Macmillan
+
+

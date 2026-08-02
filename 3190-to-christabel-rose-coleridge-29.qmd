@@ -1,0 +1,42 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1892-02-11"
+letter_date: "Feb 11th [1892]"
+location: "Elderfield"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3190
+letter_id: "to-christabel-rose-coleridge-29"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-02-11"
+  url: "https://cmyonge.github.io/letters/3190-to-christabel-rose-coleridge-29"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 11th [1892]  
+**From:** Elderfield  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [C C](people/person_329.qmd)
+You may as well see this remonstrance of one of the old fashioned goody souls [Mrs Crocker](people/person_2109.qmd) her name seems to be. She goes on afterwards about [‘Amethyst’](other_books/otherbook_663.qmd)— and I won’t send that, for it is all misunderstanding. I wrote a defence of Cherry and Maisie saying that she was in a process of growth, and I also explained the scope of Amethyst and that you are not a dangerous person, but I think we must try to keep the religious element more prominent and that [Mr Innes](people/person_744.qmd) should know that in gaining the young we may be losing the sobersided goody variety—[^1]   It is the girls become the aunts.
+
+[no signature]
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Cherry is the hero of Coleridge's novel *An English Squire* (1881). Her novel *Amethyst: The Story of a Beauty* (1891), was favourably reviewed by Mary Bramston in *MP* (December 1891) 706.
+[^3]: Innes wanted the [*MP*](organizations/other_52.qmd) to be more modern and popular, and instituted innovations which alarmed CMY.

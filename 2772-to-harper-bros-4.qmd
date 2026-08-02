@@ -1,0 +1,40 @@
+---
+title: "To Harper & Bros."
+letter_iso_date: "1883-04-30"
+letter_date: "April 30th 1883"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Columbia University Library, New York:  Harper Collection"
+post_id: 2772
+letter_id: "to-harper-bros-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Harper & Bros."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-04-30"
+  url: "https://cmyonge.github.io/letters/2772-to-harper-bros-4"
+---
+
+::: {.letter-metadata}
+**Date:** April 30th 1883  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Columbia University Library, New York:  Harper Collection
+:::
+
+Messrs [Harper](organizations/other_248.qmd)
+
+Gentlemen
+
+I am much obliged for your [remittance](organizations/other_172.qmd) of [£5](organizations/other_160.qmd) for [Stray Pearls](cmy_books/cmybook_170.qmd)
+
+Yours truly
+C M Yonge

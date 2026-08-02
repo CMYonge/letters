@@ -1,0 +1,12 @@
+---
+title: "Norwich Union Insurance Company"
+other_id: 8
+---
+
+**Type:** organization
+
+## Description
+
+Founded in 1797, the firm is now part of Aviva, see www.aviva.co.uk
+
+

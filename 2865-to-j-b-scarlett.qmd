@@ -1,0 +1,43 @@
+---
+title: "To John Robson Scarlett"
+letter_iso_date: "1887-09-09"
+letter_date: "Sept 9th [1887]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2865
+letter_id: "to-j-b-scarlett"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John Robson Scarlett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-09-09"
+  url: "https://cmyonge.github.io/letters/2865-to-j-b-scarlett"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 9th [1887]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Sir](people/person_2370.qmd)
+
+The lines are certainly not mine - nor do I think I could ever have quoted them for I do not remember ever to have heard them[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to J B [or R?] Scarlett Esq/ 24 Cramer Terrace/ Gateshead on Tyne, postmarked 87.
+[^2]: CMY's correspondent, an accountant who is listed at this address in the 1891 census, used the same trick to get autographs from both Thomas Hardy and A. C. Swinburne:  see *Collected Letters of Thomas Hardy*, VII, 105 and *The Swinburne Letters*, V, 231.

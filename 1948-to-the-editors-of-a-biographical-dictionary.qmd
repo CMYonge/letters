@@ -1,0 +1,41 @@
+---
+title: "To George Routledge & Sons?"
+letter_iso_date: "1864-04-18"
+letter_date: "April 18th 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Birmingham City Archives, Birmingham Reference Library MS 135"
+post_id: 1948
+letter_id: "to-the-editors-of-a-biographical-dictionary"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Routledge & Sons?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-04-18"
+  url: "https://cmyonge.github.io/letters/1948-to-the-editors-of-a-biographical-dictionary"
+---
+
+::: {.letter-metadata}
+**Date:** April 18th 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Birmingham City Archives, Birmingham Reference Library MS 135
+:::
+
+[Gentlemen](organizations/other_258.qmd),[^1]
+I enclose the slip you have been so good as to forward to me - with a few corrections, to which I would wish to add that I have been the author of ‘the [Kings of England](cmy_books/cmybook_6.qmd),’ and of ‘Landmarks of History’ [‘] [Ancient](cmy_books/cmybook_14.qmd)’, ‘[Middle Ages](cmy_books/cmybook_16.qmd)’ and ‘[Modern](cmy_books/cmybook_28.qmd)’ being a compendium of Universal History for young people. I should prefer no statement being made as to the application of the proceeds of my publications
+
+your obt servt
+C M Yonge
+
+---
+
+[^1]: The biographical dictionary referred to here was probably *Men of the Time* (7th ed. London: Routledge 1868), whose entry on CMY appears to correspond with this letter.

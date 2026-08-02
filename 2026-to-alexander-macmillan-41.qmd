@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-05-04"
+letter_date: "May 4th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 78-79"
+post_id: 2026
+letter_id: "to-alexander-macmillan-41"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-05-04"
+  url: "https://cmyonge.github.io/letters/2026-to-alexander-macmillan-41"
+---
+
+::: {.letter-metadata}
+**Date:** May 4th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 78-79
+:::
+
+My dear [Mr Macmillan](people/person_939.qmd),
+In the first place I have a beautiful photograph to thank you for, which arrived here viâ [Nutt and Wells](organizations/other_178.qmd) this morning, and the subject of which much excites our speculations, and adds pleasant mystery to our admiration.
+
+Next I return the first sheet of [Bethlehem](organizations/other_177.qmd), the appearance of which I like much. I think there should be a text and a verse to each chapter. Do you wish to have each chapter sent up as it is completed? I have just finished Jacob but unless the chapters are really wanted I had rather keep them both to refer to, and for possible touching up. Are you intending vignette illustrations? for some mediæval Lion of the tribe of Judah would be the most appropriate for this chapter on Jacob’s blessing.
+
+I shall get the [Magazine](organizations/other_78.qmd) on Saturday I hope. I dare say as neither you nor [Mr Masson](people/person_980.qmd) hit the blots I dare say that no body else will, but what sits heavy on my soul is that I must have made Maximilian too old, and antedated the Swabian league (I only learnt the right date from Hegewisch’s [history](other_books/otherbook_397.qmd)) and that I regaled the travellers on pasty, when they should have eaten sausage. I doubt too if I had quite settled the spelling of the names, but I dare say that all will prove quite nearly enough right. Thanks for Mr Masson’s direction. I well send the other [chapters](cmy_books/cmybook_62.qmd)direct to him.
+
+I have been reading your books of [shipwrecks](other_books/otherbook_384.qmd). They are a grand collection of sea adventures of all nations, and nearly all times, and they bring me to the conclusion that of all companions a Frenchman is the worst for a wreck. I met /with\\ one last night who described eating up his negro with more coolness than some people describe having to eat a dog. But there are many fine stories, and the record is one well worth having.
+
+Yours sincerely
+C M Yonge

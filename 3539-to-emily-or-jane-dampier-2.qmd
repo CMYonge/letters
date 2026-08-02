@@ -1,0 +1,39 @@
+---
+title: "To Jane Mary Dampier"
+letter_iso_date: "1868-04-24"
+letter_date: "April 24th [1868?]"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3539
+letter_id: "to-emily-or-jane-dampier-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jane Mary Dampier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-04-24"
+  url: "https://cmyonge.github.io/letters/3539-to-emily-or-jane-dampier-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 24th [1868?]  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Miss Dampier](people/person_1345.qmd),
+I am sorry to do no more than leave the parcel but we have to be at home in time to take [Mrs Halliday](people/person_616.qmd) to meet the train, so I can only deposit this at your door. I am much better thank you, and the nightingales have begun to sing in hearing from the house though not as near as they sometimes are. I enclose the 1/6 for Montrose.
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** The letter must post-date the marriage of Frances Yonge’s sister Louisa to Frank Halliday in August 1866.  The reference to Montrose (about whom Dampier published a novel with a preface by CMY, *Lady Beatrix Graham*) may possibly relate to a correspondence in *MP* between September and December 1868, in which a line from Lovelace's 'To Lucasta, on Going to the Wars' was incorrectly attributed to Montrose.

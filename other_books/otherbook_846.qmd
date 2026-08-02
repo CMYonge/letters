@@ -1,0 +1,14 @@
+---
+title: "Margaret Macarthur - History of Scotland"
+book_id: 846
+---
+
+## Publication Information
+
+**Date:** 1873
+
+**Imprint:** London: Macmillan
+
+**Notes:** This was volume 3 of the Historical Course for Schools series edited by [E. A. Freeman](../people/person_523.qmd).
+
+

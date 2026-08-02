@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1880-04-05"
+letter_date: "April 5th 1880"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2707
+letter_id: "to-the-reverend-john-frewen-moor-19"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-04-05"
+  url: "https://cmyonge.github.io/letters/2707-to-the-reverend-john-frewen-moor-19"
+---
+
+::: {.letter-metadata}
+**Date:** April 5th 1880  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+
+I enclose the £1  I fancied I had heard that [Miss Le Gallais](people/person_855.qmd) had made her start in life.
+
+Will you tell [Selina](people/person_1048.qmd) that I am sending on the magazine today[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Moor's daughter Selina seems to have been the editor of a magazine, perhaps the Ampfield Parish Magazine.

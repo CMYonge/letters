@@ -1,0 +1,41 @@
+---
+title: "To Blanche Catherine Medhurst"
+letter_iso_date: "1873-05-09"
+letter_date: "May 9th 1873"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2473
+letter_id: "to-blanche-catherine-medhurst-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Blanche Catherine Medhurst"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-05-09"
+  url: "https://cmyonge.github.io/letters/2473-to-blanche-catherine-medhurst-4"
+---
+
+::: {.letter-metadata}
+**Date:** May 9th 1873  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Medhurst](people/person_988.qmd)
+I did hope to have put in [this sonnet](other_books/otherbook_835.qmd) of yours in time for Ascension day, but I could not manage it, so I can only send you the proof and thank you for your kindness to [Emmeline Spratt](people/person_1358.qmd), who after her visit to you wrote the happiest letter she had written at all since leaving home[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: In fact the sonnet waited a year to be published in *MP* (May 1874).  Blanche Medhurst's social work had brought her in touch with Emmeline, the niece of CMY's maid Harriet Spratt.

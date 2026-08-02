@@ -1,0 +1,37 @@
+---
+title: "To Miss North"
+letter_iso_date: "1868-07-24"
+letter_date: "July 24 [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 2261
+letter_id: "to-miss-north"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss North"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-07-24"
+  url: "https://cmyonge.github.io/letters/2261-to-miss-north"
+---
+
+::: {.letter-metadata}
+**Date:** July 24 [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+Dear [Miss North](people/person_1090.qmd),
+I hope the translation of '[Mulhause](other_books/otherbook_529.qmd)' is ready as this is the time at which it ought to be sent to the printers. I hope you were thanked for the [Hints on Reading](other_books/otherbook_530.qmd) but my time is much taken up at present by my [mother](people/person_1606.qmd)’s infirm state, and a friend who was staying here wrote for me. I think if possible it would be best to avoid French idioms in English 
+
+Yours sincerely
+C M Yonge

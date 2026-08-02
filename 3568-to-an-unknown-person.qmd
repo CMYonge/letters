@@ -1,0 +1,29 @@
+---
+title: "To an Unknown Person"
+letter_date: "Undated"
+manuscript: "MS fragment Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3568
+letter_id: "to-an-unknown-person"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  url: "https://cmyonge.github.io/letters/3568-to-an-unknown-person"
+---
+
+::: {.letter-metadata}
+**Date:** Undated  
+**Manuscript:** MS fragment Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+other train – Which gives more time than our 9 o’clock shopping one

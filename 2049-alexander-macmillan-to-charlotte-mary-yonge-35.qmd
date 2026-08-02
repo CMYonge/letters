@@ -1,0 +1,45 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1865-06-26"
+letter_date: "June 26. 1865"
+manuscript: "Copy outletter British Library Add MSS. 55384 (2): P. 604"
+post_id: 2049
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge-35"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-06-26"
+  url: "https://cmyonge.github.io/letters/2049-alexander-macmillan-to-charlotte-mary-yonge-35"
+---
+
+::: {.letter-metadata}
+**Date:** June 26. 1865  
+**Manuscript:** Copy outletter British Library Add MSS. 55384 (2): P. 604
+:::
+
+My dear Miss Yonge
+The M S. has come all right. Sending as early as - [I](people/person_939.qmd) am thankful indeed you do, to address him here is the simplest way.[^1] His private address is <u>2 Newton Villas Finchley New Road. N.W.</u>
+
+I shall be very glad to hear about the result of your conference with [Miss Sewell](people/person_1301.qmd). My only feeling in the suggestion I made re - Montfort was that each [volume](cmy_books/cmybook_71.qmd) - supposing it is found that we have so emphatically met a public want that go beyond the first, which I dont in the least doubt [-] should be complete as to an <u>idea</u>, not merely to a year. What you suggest clearly fulfils this better than my crude list.
+
+I shall be very delighted to have your <u>[Prince & the Page](cmy_books/cmybook_61.qmd)</u> for a Christmas book. For the illustrations, <u>photolithography</u> which was use in the case of Kingsleys [Water Babies](other_books/otherbook_391.qmd) will be better than <u>zincography</u>[.] But both are inclined to be rough. But I will go into it carefully, if you will kindly send me one of the drawings. I will also go over the story itself [to] see what quantity it will make, like the [Little Duke](cmy_books/cmybook_20.qmd).
+
+This months number of the Dove is admirable, so clear and firm in [*illegible*] tone, reminding me constantly of these qualities in [Scott](people/person_1672.qmd). I was thinking why should not the Christmas book be written in this honest style. Pardon me.
+
+Yours very faithfully
+A. Macmillan
+
+---
+
+[^1]: This refers to the chapters of *The Dove in the Eagle's Nest* which she was sending to [David Masson](people/person_980.qmd), editor of *[Macmillan’s Magazine](organizations/other_78.qmd)*, where it was being serialized.

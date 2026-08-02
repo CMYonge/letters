@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1883-06-06"
+letter_date: "June 6th [1883]"
+location: "Elderfield"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1883/ 2"
+post_id: 2774
+letter_id: "to-ann-maria-carter-smith-90"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1883-06-06"
+  url: "https://cmyonge.github.io/letters/2774-to-ann-maria-carter-smith-90"
+---
+
+::: {.letter-metadata}
+**Date:** June 6th [1883]  
+**From:** Elderfield  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1883/ 2
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+
+Many thanks for [Delicia](other_books/otherbook_959.qmd), who is very pretty, and I shall be very glad of her when I can put her in.[^1]
+
+I envy the spirit of the people who finished their Whitsuntide decorations before the early service.  I am thankful enough to get them all done on Saturday
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: A silurian envelope with a long flap for writing on, the outside addressed to Miss Carter Smith/ Thistleworth/ Stevenage and postmarked Winchester 6 June and Stevenage 7 June 1883.
+[^2]: In fact *Delicia Darling: A Kentish Medley* did not appear in *MP*  until August 1886.

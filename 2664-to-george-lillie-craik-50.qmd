@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1879-03-08"
+letter_date: "March 8th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 84-85"
+post_id: 2664
+letter_id: "to-george-lillie-craik-50"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-03-08"
+  url: "https://cmyonge.github.io/letters/2664-to-george-lillie-craik-50"
+---
+
+::: {.letter-metadata}
+**Date:** March 8th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 84-85
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I enclose the receipts and agreement with many thanks. I hope the [Primer](cmy_books/cmybook_353.qmd) is doing well. One Blunder ought to be set right. I can’t help thinking it must have been a misprint. I knew it so well - ie that the Karling line had not died out - but been set aside.
+
+I have done a good many correction to the [Christians & Moors](cmy_books/cmybook_126.qmd) and will finish them up when wanted.
+
+As a matter of curiosity, what has [Mr Freeman](people/person_523.qmd) done with [France](cmy_books/cmybook_99.qmd)? I have kept all my old proofs for comparison when the book comes out.
+
+Yours very truly
+C M Yonge

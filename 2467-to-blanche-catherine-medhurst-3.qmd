@@ -1,0 +1,40 @@
+---
+title: "To Blanche Catherine Medhurst"
+letter_iso_date: "1872-12-31"
+letter_date: "Decr 31st [1872]"
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2467
+letter_id: "to-blanche-catherine-medhurst-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Blanche Catherine Medhurst"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-12-31"
+  url: "https://cmyonge.github.io/letters/2467-to-blanche-catherine-medhurst-3"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 31st [1872]  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+Dear [Miss Medhurst](people/person_988.qmd) 
+Thank you for your kindness to [Emmeline](people/person_1358.qmd), she is an affectionate girl and has a refinement about her that makes her pleasant to have to do with. Her [brother](people/person_2287.qmd) with whom she lives was one of the College choristers at [Winchester](organizations/other_50.qmd) and had a good education there, so I hope she is in good hands, but a little notice and sympathy will be a great help in the great plunge it must be from daily services to the business of life. I wanted her to have been a school mistress, but though she was a good teacher she did not like it, and it is too much a profession to be taken up experimentally now. The inspector too advised me not, thinking her too delicate, so Sunday school teaching might be too great a strain, otherwise she would be valuable for it. She will like to tell you about Hursley which she knows well. The family are so consumptive that I am always prepared to have her break down
+
+With many thanks
+Yours truly
+C M Yonge
+
+---
+
+**Note:** The paper has an ornamental decoration: 'With a Christmas greeting on my tongue/ with a friendship old whose faith keeps young/ I venture friend thy friends among'.

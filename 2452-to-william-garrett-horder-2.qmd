@@ -1,0 +1,43 @@
+---
+title: "To William Garrett Horder"
+letter_iso_date: "1877-07-28"
+letter_date: "July 28th [1877]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 2452
+letter_id: "to-william-garrett-horder-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To William Garrett Horder"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-07-28"
+  url: "https://cmyonge.github.io/letters/2452-to-william-garrett-horder-2"
+---
+
+::: {.letter-metadata}
+**Date:** July 28th [1877]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+[Sir](people/person_712.qmd)
+<If you had consulted [Mr Keble](people/person_798.qmd)’s [biography](other_books/otherbook_226.qmd) or even the title page of the [Lyra Innocentium](other_books/otherbook_232.qmd) you would have seen that the whole of the poems is by him with one single exception, which is acknowledged.
+
+[The Child’s Christian Year](other_books/otherbook_186.qmd) is a compilation of many different poems by numerous authors
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** William Garrett Horder was the compiler of a large number of hymnals from the late 1870s onwards, so that it is hard to identify the particular book referred to in these three letters.  It could however be *The Book of Praise for Children* (1878).

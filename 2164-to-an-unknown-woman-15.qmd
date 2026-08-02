@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1867-04-12"
+letter_date: "April 12th [1867?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29: Author Files Wood-Yonge"
+post_id: 2164
+letter_id: "to-an-unknown-woman-15"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-04-12"
+  url: "https://cmyonge.github.io/letters/2164-to-an-unknown-woman-15"
+---
+
+::: {.letter-metadata}
+**Date:** April 12th [1867?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29: Author Files Wood-Yonge
+:::
+
+Dear Madam
+I am much obliged by your kindness in sending Mr [Nobb](people/person_1986.qmd)’s letter - It is however the [Melanesian mission](organizations/other_30.qmd), not the Pitcairners, for which I am collector and it is better not to mix the two arrangements.[^1] [Bishop Patteson](people/person_1155.qmd)’s sisters sent out what is really worth sending to him, but in general money is more useful than goods, and people have been sending such useless things lately that I wished to check them.[^2]
+
+I believe [Miss Mackenzie](people/person_930.qmd) is appointing a receiver for Pitcairners.
+
+Yours much obliged
+C M Yonge
+
+---
+
+[^1]: The Bounty survivors on Pitcairn were transferred to Norfolk Island in 1856. In March 1867 Bishop Patteson began moving his Melanesian Mission to Norfolk Island, where it was intended he should also minister to the Pitcairners.
+[^2]: *i.e.* in her recent *MP* article encouraging support for the Ladies' Association of the [SPG](organizations/other_41.qmd) and giving advice on the best kind of donations for various purposes.

@@ -1,0 +1,39 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1890-05-31"
+letter_date: "May 31st [1890s]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell"
+post_id: 3609
+letter_id: "to-an-unknown-woman-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-05-31"
+  url: "https://cmyonge.github.io/letters/3609-to-an-unknown-woman-4"
+---
+
+::: {.letter-metadata}
+**Date:** May 31st [1890s]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Dear Madam
+I have put it in [Mrs Matthew](people/person_1689.qmd)’s hands, whether to put in the article, or an apology.
+
+The number of [Mothers in Council](organizations/other_82.qmd) being all arranged, it is very inconvenient, as some contributor must be put off
+
+yours truly
+C M Yonge

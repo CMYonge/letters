@@ -1,0 +1,91 @@
+---
+title: "To the Reverend William John Butler"
+letter_iso_date: "1868-10-28"
+letter_date: "St. S[imon]. & J[ude]. [28 October] 1868"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 237-8"
+post_id: 2288
+letter_id: "to-the-reverend-william-john-butler-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend William John Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-28"
+  url: "https://cmyonge.github.io/letters/2288-to-the-reverend-william-john-butler-2"
+---
+
+::: {.letter-metadata}
+**Date:** St. S[imon]. & J[ude]. [28 October] 1868  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 237-8
+:::
+
+My dear [Mr. Butler](people/person_244.qmd)
+Thanks. I wish I felt more worthy of being an Exterior Sister,[^1] but I am thankful to be joined to what is good, though I do not think you would care to have me if you knew how I ‘shrink when hard service must be done,’[^2] and what a spoilt child I have been ever since I grew up, very nearly useless in anything practical. But I will constantly use the prayer, and I hope whenever I can come to Wantage that I may be admitted.
+
+I wish we could have seen you again. The church *is* the same still, and has its atmosphere about it, as much I think as possible. I wish the [Wilson](people/person_1541.qmd)s had been there, they bring breaths of the old times with them, but altogether it was rather like the [Tate and Brady](other_books/otherbook_537.qmd) verse that begins
+
+		I sigh whene’er my musing thoughts -[^3]
+
+When you read your novel, do let it be *[Nigel Bartram’s Ideal](other_books/otherbook_536.qmd)*, one of Warne’s Companion Library - shilling books- it is by the little [lady](people/person_1520.qmd) who showed us over [St. Cross](organizations/other_130.qmd), and I think has a great deal in it.
+
+Is [Emma](people/person_822.qmd) inclined [Goslingwards](organizations/other_104.qmd)? Shall I tell the [Senior Gosling](people/person_329.qmd) to send her the names and rules?
+
+Yours affectionately
+C. M. Yonge
+
+---
+
+[^1]: She had become an Exterior Sister of the [Community of St Mary the Virgin](organizations/other_21.qmd), Wantage, a sisterhood founded by Butler in 1848.
+[^2]: It is interesting that CMY applied to herself this poem by John Henry Newman. Although it subsequently gained the title 'Flowers without Fruit', when it appeared in *Lyra Apostolica* it was called 'Deeds not Words':
+
+
+
+Prune thou thy words; the thoughts control
+
+That o'er thee swell and throng;--
+
+They will condense within thy soul,
+
+And change to purpose strong.
+
+
+
+But he who lets his feelings run
+
+In soft luxurious flow,
+
+Shrinks when hard service must be done,
+
+And faints at every woe.
+
+
+
+Faith's meanest deed more favor bears,
+
+Where hearts and wills are weighed,
+
+Than brightest transports, choicest prayers,
+
+Which bloom their hour, and fade.
+[^3]: Coleridge transcribes 'missing', but the quotation, from Tate and Brady's version of  Psalm 43 5:4, runs:
+
+
+
+I sigh, whene'er my musing thoughts
+
+Those happy days present,
+
+When I with troops of pious friends
+
+Thy temple did frequent;

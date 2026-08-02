@@ -1,0 +1,52 @@
+---
+title: "To the Rt. Rev. Allan Becher Webb"
+letter_iso_date: "1875-09-13"
+letter_date: "Sept 13 1875"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS fragment Girton College Cambridge, Yonge X 2"
+post_id: 2535
+letter_id: "to-the-bishop-of-bloemfontein"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Rt. Rev. Allan Becher Webb"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-09-13"
+  url: "https://cmyonge.github.io/letters/2535-to-the-bishop-of-bloemfontein"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 13 1875  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS fragment Girton College Cambridge, Yonge X 2
+:::
+
+My dear [Lord Bishop](people/person_1479.qmd)
+
+I shall be very grateful for permission to put in the Monthly Packet a copy of this excellent little [paper](other_books/otherbook_866.qmd) -[^1] 
+
+[rest of page missing]
+
+. . . recorded
+
+I think too there is a little awkwardness in the piece about hospitality   I do not think it will induce people to exercise it
+
+[rest of page missing]
+
+. . . will not be encouraged by it
+
+Yours respectfully
+C.M. Yonge
+
+---
+
+[^1]: The Rt. Rev. Allan Becher Webb (1839-1907), Bishop of Bloemfontein (1870-1883).  The article was 'The Work of Women at Home for Foreign Missions (A Paper read by the Bishop of Bloemfontein at Rugby, July 8, 1875)', *MP* ns 20 (November 1875) 397-403.

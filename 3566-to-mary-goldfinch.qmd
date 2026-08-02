@@ -1,0 +1,45 @@
+---
+title: "To Mary Goldfinch"
+letter_iso_date: "1881-02-16"
+letter_date: "Feb 16th [<i>c</i>.1881]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3566
+letter_id: "to-mary-goldfinch"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Goldfinch"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-02-16"
+  url: "https://cmyonge.github.io/letters/3566-to-mary-goldfinch"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 16th [<i>c</i>.1881]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+Dear Madam
+
+I am much obliged for the loan of these two books. I have the [Queens of England](other_books/otherbook_157.qmd)but not the [Queens of Scotland](other_books/otherbook_1111.qmd), and the little book about Northamptonshire told me just what I wanted[^1] 
+
+With many thanks
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Annotated “From Miss Yonge the Authoress to Mary Goldfinch”.
+[^2]: Probably written during the composition of *Unknown to History: A  Story of the Captivity of Mary of Scotland* (1882).
+[^3]: Agnes Strickland, *Lives of the Queens of England From the Norman Conquest* 12 vols (London: Colburn 1840-8); Agnes Strickland, *Lives of the Queens of Scotland and English Princesses* 8 vols  (Edinburgh: Blackwood 1850-9).

@@ -1,0 +1,41 @@
+---
+title: "To Elizabeth Jane Keble"
+letter_iso_date: "1866-08-06"
+letter_date: "Aug 6th [1866?]"
+manuscript: "MS Lambeth Palace Library Keble Deposit 4/143"
+post_id: 2130
+letter_id: "to-mrs-elizabeth-jane-keble"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Jane Keble"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-08-06"
+  url: "https://cmyonge.github.io/letters/2130-to-mrs-elizabeth-jane-keble"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 6th [1866?]  
+**Manuscript:** MS Lambeth Palace Library Keble Deposit 4/143
+:::
+
+My dear [Mrs Keble](people/person_797.qmd)
+How very stupid and ungrateful you must have thought me, but I never saw your [Son](people/person_799.qmd)’s letter when I opened – and answered yours, and only found it this morning.  
+
+It satisfies me all the more as being what I was always inclined to think.
+
+yours affectionately
+C M Yonge
+
+---
+
+**Note:** Written on paper used between 1864 and 1868. It seems probable that the query related to the life of [John Keble](people/person_798.qmd).

@@ -1,0 +1,47 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-04-02"
+letter_date: "April 2nd 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921"
+post_id: 2625
+letter_id: "to-george-lillie-craik-39"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-04-02"
+  url: "https://cmyonge.github.io/letters/2625-to-george-lillie-craik-39"
+---
+
+::: {.letter-metadata}
+**Date:** April 2nd 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I am exceedingly puzzled. I am sure I wrote on to the end of the [history of France](cmy_books/cmybook_353.qmd), and that [Mr Greene](people/person_582.qmd) had it and wrote to me that it only came to 86 pp, and that I must make it  longer. What can have become of the latter part? What did he go upon if he had it not in type to the end? Besides, I believe I had it in type but the printers must know best. I should have said I was certain I have had and corrected on the other end, but that if the printers have it not, that becomes impossible
+
+I should like to know whether Mr Greene saw the whole of the pages, or only calculated[.] I must supply them of course if they are no where, but I can hardly do so till after Easter[.] I am working hard to finish up [the Story of the Moors](cmy_books/cmybook_126.qmd), and then be in London for a few days in the second week after Easter
+
+I suspect that the 2nd part of my Copy must have been lost  - or it may have gone to [Clay](organizations/other_173.qmd) as I did not at first know that [Clowes](organizations/other_245.qmd) was doing the primer - and Mr Greene must have written from calculation[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: This relates to the *History of France* CMY was contributing to Macmillan's 'Historical Primers' series edited by John Richard Green.

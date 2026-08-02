@@ -1,0 +1,42 @@
+---
+title: "To Frederick James Furnivall"
+letter_iso_date: "1869-02-21"
+letter_date: "Febry 21st [1869]"
+manuscript: "MS Huntington Library: Letters to Frederick James Furnivall. FU 974"
+post_id: 2303
+letter_id: "to-frederick-james-furnivall-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick James Furnivall"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-02-21"
+  url: "https://cmyonge.github.io/letters/2303-to-frederick-james-furnivall-5"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 21st [1869]  
+**Manuscript:** MS Huntington Library: Letters to Frederick James Furnivall. FU 974
+:::
+
+Dear [Mr Furnivall](people/person_531.qmd),
+Thank you for the English Text. I do not think I can have had the [hymns to the Virgin](other_books/otherbook_543.qmd).  The last I had bears the date 1866, and is a [collection of poems](other_books/otherbook_542.qmd) on love, religion and politics, beginning with 'Twelve words &c-' [^1] What a wonderful store you have there!
+
+Yours sincerely
+C M Yonge
+
+Our Otterbourn is in Domesday, but I don’t know how spelt[.] Ottery St Mary always appears in early times as Shotrey
+
+---
+
+[^1]: Black-edged paper. Small black-edged envelope with black fuchsia-like flowering plant on flap, addressed F J Furnivall Esq/ 3 Old Square/ Lincolns Inn/ London WC.
+[^2]: *Hymns to the Virgin & Christ, The parliament of devils, and Other Religious Poems, Chiefly from the Archbishop of Canterbury’s Lambeth MS. no. 853* ed. F. J. Furnivall (London, Early English Text Society 1867-8)  and  *Political, religious, and love poems from the Archbishop of Canterbury’s Lambeth MS. no. 306, and other sources ; with a fragment of the romance of Peare of Provence and the fair Maguelone ; and a sketch, with the prolog and epilog, of the romance of The Knight Amoryus and the Lady Cleopes by John Metham, scholar of Cambridge, A.D. 1448-9* ed. F. J. Furnivall (London, Early English Texts Society 1866).

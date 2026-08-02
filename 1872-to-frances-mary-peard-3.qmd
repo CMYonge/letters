@@ -1,0 +1,31 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1862-00-00"
+letter_date: "[1862]"
+manuscript: "MS location unknown. This fragment printed in Mary J. Y. Harris, <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i>, 1903. 48."
+post_id: 1872
+letter_id: "to-frances-mary-peard-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-01-01"
+  url: "https://cmyonge.github.io/letters/1872-to-frances-mary-peard-3"
+---
+
+::: {.letter-metadata}
+**Date:** [1862]  
+**Manuscript:** MS location unknown. This fragment printed in Mary J. Y. Harris, <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i>, 1903. 48.
+:::
+
+Many thanks for this beautiful paper which will beautifully finish off the year .... [Your](people/person_1160.qmd) references are all so full and so clear that they make the [papers](organizations/other_81.qmd) all the more useful, and I always find myself glad when I have one to read with my class which is after all the best test.

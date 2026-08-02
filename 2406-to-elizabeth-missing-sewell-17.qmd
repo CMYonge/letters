@@ -1,0 +1,39 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1871-05-13"
+letter_date: "[13 May 1871]"
+manuscript: "UCLA: collection 100: box 95"
+post_id: 2406
+letter_id: "to-elizabeth-missing-sewell-17"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-05-13"
+  url: "https://cmyonge.github.io/letters/2406-to-elizabeth-missing-sewell-17"
+---
+
+::: {.letter-metadata}
+**Date:** [13 May 1871]  
+**Manuscript:** UCLA: collection 100: box 95
+:::
+
+[To [Elizabeth Missing Sewell](people/person_1301.qmd)]
+
+All right. [M](people/person_939.qmd) sends them to me for nothing. You shall have them. Has he sent you the [Scripture Readings](cmy_books/cmybook_87.qmd)
+
+C M Y
+
+---
+
+**Note:** A postcard postmarked Winchester D My 13 71 and Ventnor My 14.

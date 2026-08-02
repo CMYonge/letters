@@ -1,0 +1,42 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-02-01"
+letter_date: "Febry 1st [1864]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 18"
+post_id: 1933
+letter_id: "to-alexander-macmillan-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-02-01"
+  url: "https://cmyonge.github.io/letters/1933-to-alexander-macmillan-11"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 1st [1864]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 18
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+
+I enclose what [Mrs Blackburn](people/person_159.qmd) says in answer to my question about the drawings for the [Little Duke](cmy_books/cmybook_20.qmd) - Will you tell me what you think of the matter? I suppose she might improve some of the faces, but I think it is quite open to you to find some other designer. I shall send tomorrow another parcel of [the Trial](cmy_books/cmybook_53.qmd)
+
+Yours faithfully
+C.M. Yonge
+
+---
+
+**Note:** Black-edged paper.

@@ -1,0 +1,41 @@
+---
+title: "To Agnes Charlotte Compton"
+letter_iso_date: "1896-04-18"
+letter_date: "April 18th [1896]"
+location: "G F S Elderfield Otterbourne Winchester"
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3324
+letter_id: "to-agnes-charlotte-comptonf"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Agnes Charlotte Compton"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-04-18"
+  url: "https://cmyonge.github.io/letters/3324-to-agnes-charlotte-comptonf"
+---
+
+::: {.letter-metadata}
+**Date:** April 18th [1896]  
+**From:** G F S Elderfield Otterbourne Winchester  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Miss Compton](people/person_364.qmd)
+Would you be so kind as to answer this lady, as you understand the [Reading Union](organizations/other_211.qmd) much better than I do
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Agnes Charlotte Compton (b. 1863), daughter of the Rev. John Compton, Rector of Minstead with Lyndhurst. Envelope postmarked Winchester 2.45.PM Ap 18 96 and addressed ‘Miss A C Compton/Rectory/ Minstead/Lyndhurst’ and forwarded to ‘c/o Canon Lucas/Shortlands/Kent’.

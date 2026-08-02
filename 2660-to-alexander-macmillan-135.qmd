@@ -1,0 +1,54 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1879-01-29"
+letter_date: "Jany 29th 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 80- 81"
+post_id: 2660
+letter_id: "to-alexander-macmillan-135"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-01-29"
+  url: "https://cmyonge.github.io/letters/2660-to-alexander-macmillan-135"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 29th 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 80- 81
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+It is rather difficult to arrange the order of these books.[^1] [Heartsease](cmy_books/cmybook_19.qmd)was out before [the Daisy Chain](cmy_books/cmybook_24.qmd) indeed those four that I numbered first were meant to answer to the four Seasons, and ought to go together[^2]
+
+In point of date, the Daisy Chain and [the Young Stepmother](cmy_books/cmybook_38.qmd)are the next, but the Daisy Chain [Trial](cmy_books/cmybook_53.qmd) and [Pillars](cmy_books/cmybook_109.qmd) ought to come together  
+
+What is to be done about the lesser historical ones, [the Prince & Page](cmy_books/cmybook_61.qmd), and [Little Duke](cmy_books/cmybook_20.qmd) are children’s books but [the Danvers’ Papers](cmy_books/cmybook_63.qmd) are not, Would it not be well to pair some lesser ones together?
+
+What is the size and price to be  
+
+I have classed historical ones according to date except [Lady Hester](cmy_books/cmybook_110.qmd) which would bind with Danvers Papers
+
+Please have a copy of the Daisy Chain & Trial sent to [Mrs Beresford Earle](people/person_2319.qmd) the Soke, Winchester  Also one of [the Three Brides](cmy_books/cmybook_120.qmd) sent to [Miss Lewis](people/person_873.qmd) - 710 Pine St Philadelphia US.
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: There is a box drawn round the final paragraph and Post Jan 23/79 MC 660/16 written after first and per New York 23/1/79 MC after second.
+[^2]: This letter refers to the uniform edition of CMY's novels.
+[^3]: When the uniform edition was published the first four books were numbered 1. *The Heir of Redclyffe* (1853), 2. *Heartsease* (1854), 3. *Hopes and Fears* (1860) and 4. *Dynevor Terrace* (1857). The model for this intriguing arrangement was undoubtedly La Motte Fouqué, *Die Jahreszeiten* (1811-14), consisting of *Frühlings-Heft: Undine*; *Sommer-Heft: Die beiden Hauptleute*; *Herbst-Heft: Aslauga’s Ritter* and *Alpin und Jucunde*; and *Winter-Heft: Sintram und seine Gefährten*.

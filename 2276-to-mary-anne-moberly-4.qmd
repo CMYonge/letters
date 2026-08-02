@@ -1,0 +1,38 @@
+---
+title: "To Mary Ann Moberly"
+letter_iso_date: "1868-10-18"
+letter_date: "[early] Oct. 1868."
+location: "Otterbourne,"
+manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 207."
+post_id: 2276
+letter_id: "to-mary-anne-moberly-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Ann Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-01"
+  url: "https://cmyonge.github.io/letters/2276-to-mary-anne-moberly-4"
+---
+
+::: {.letter-metadata}
+**Date:** [early] Oct. 1868.  
+**From:** Otterbourne,  
+**Manuscript:** MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 207.
+:::
+
+[Anne](people/person_1582.qmd) and I were pleased to have a sight of [Emily](people/person_81.qmd); there is more change in the latter than in the former in the fourteen years since they met.[^1] I hope [you](people/person_1019.qmd) will not have to part with the Chester division[^2] of the family much before Christmas. Perhaps if you do not join them there very soon after they go, you would let me come to you for a little while. . .  I am not afraid of solitary days; after all, it is all well . . .
+
+---
+
+[^1]: Anne Yonge (b. 1825) would have been 29 fourteen years earlier, Emily Awdry (nee Moberly) (b. 1839) only 15.
+[^2]: Dr Moberly was appointed a Canon of Chester in October 1868, and the family moved there in December 1868.

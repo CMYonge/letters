@@ -1,0 +1,10 @@
+---
+title: "Cherry"
+person_id: 2276
+---
+
+## Biographical Information
+
+an unidentified member of the Gosling Society
+
+

@@ -1,0 +1,47 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1878-11-08"
+letter_date: "Novr 8 th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2648
+letter_id: "to-christabel-rose-coleridge-98"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-11-08"
+  url: "https://cmyonge.github.io/letters/2648-to-christabel-rose-coleridge-98"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 8 th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+I never thanked you for your last kind note-  The loss out of ones life is very great, though the long weakness and inability to correspond had done much to break the habit of dependance for sympathy & confidence so that one can bear it better than if ‘her sun had gone down while it was yet day’.[^1]
+
+I have been making efforts through [Mr Awdry](people/person_80.qmd) to get the Blue Bells taken by [Smith](organizations/other_161.qmd).  He says (Mr Awdry) that of course it depends on people asking for them – so I think it would be well to take every opportunity.[Clare](other_books/otherbook_909.qmd) is by far the best there has been yet, only I think Piers was treacherous.[^2]  [Gertrude](people/person_1462.qmd) says she saw my whole face alter when I saw what was coming!
+
+We heard today of our pupil teachers  [Alice](people/person_1257.qmd) has failed, and [Harriet](people/person_2316.qmd) succeeded  I rather expected it would be so, but I believe Alice to have more knack of discipline.  The school had a trial for [Mrs Bishop](people/person_156.qmd)’s husband was supposed to be dying in Haslar Hospital and the two girls kept school a fortnight without her, nothing going amiss the whole time.  He is ill still but she only goes back to him for the Sundays now.  That little school at Albrook has risen up to 53!
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Mary Anne Dyson had died on 29 September 1878.  CMY refers to Jeremiah 15: 9 'she hath given up the ghost; her sun is gone down while it was yet day'.
+[^2]: Charles Awdry, the husband of CMY's goddaughter Margaret Moberly, was employed by W. H. Smith, and CMY had evidently tried to persuade him to get the Bluebell series of novels, published by Marcus Ward (to which she had contributed) stocked on railway bookstalls.  Lizzie Alldridge, *Clare* (1878) appeared in the series.

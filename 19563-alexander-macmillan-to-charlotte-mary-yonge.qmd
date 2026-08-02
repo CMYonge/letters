@@ -1,0 +1,50 @@
+---
+title: "Alexander Macmillan to Charlotte Mary Yonge"
+letter_iso_date: "1866-06-14"
+letter_date: "June 14 1866"
+manuscript: "Copy outletter book British Library Add MSS.55386 (1) P.160"
+post_id: 19563
+letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Charlotte Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-06-14"
+  url: "https://cmyonge.github.io/letters/19563-alexander-macmillan-to-charlotte-mary-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** June 14 1866  
+**Manuscript:** Copy outletter book British Library Add MSS.55386 (1) P.160
+:::
+
+My dear Miss Yonge,
+
+Except for a possible visit to [illegible] Lodge on Saturday, whence I shall return on Monday, I will be at home all the 10 days from the 20th and it will be a great pleasure to me to see you. I have several matters which I should wish to talk over with you. I am sorry I can say little about  Mr J[illegible]  in [illegible] my dear [Sister-in-law](people/person_941.qmd). We are not losing [illegible]  gaining ground.[^1]
+
+The [dove](cmy_books/cmybook_62.qmd) is continuing a success with even the most captious critics, and is selling well in spite of a dull distressing season, caused by all these distressing bank failures. The year has revealed very un[golden deeds](cmy_books/cmybook_51.qmd).
+
+How does the [chaplet of Pearls](cmy_books/cmybook_69.qmd) stand? You will tell me about it when I see you.
+
+Could you do a second series of Golden Deeds, or rather a companion volume, of the doers?[^2] Mr Craik has suggested a volume Heroes of History, and in talking it over it looks as if it might assume that form. I mention it now that you may think over it.
+
+[*Next 7 lines indecipherable*]**
+
+Yours very faithfully,
+
+Alex.  Macmillan
+
+---
+
+[^1]: Frances Macmillan appears to have been very ill, but was recovering by September 6.
+[^2]: Macmillan proposes here the collection that eventually became A Book of Worthies.

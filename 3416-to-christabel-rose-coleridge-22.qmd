@@ -1,0 +1,48 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1899-08-12"
+letter_date: "Aug 12 [1899]"
+location: "The Old House Dorking"
+manuscript: "MS Mrs Clare Roels/78"
+post_id: 3416
+letter_id: "to-christabel-rose-coleridge-22"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-08-12"
+  url: "https://cmyonge.github.io/letters/3416-to-christabel-rose-coleridge-22"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 12 [1899]  
+**From:** The Old House Dorking  
+**Manuscript:** MS Mrs Clare Roels/78
+:::
+
+My dear [C C](people/person_329.qmd)
+I am glad there are some signs of life or of decay more properly of poor [A D I](people/person_744.qmd)- !  I do think there are more and more signs that a 6d phoenix would be welcomed.[^1]
+
+I find the booksellers make all sorts of excuses for not having got it –  The [Authors Soc](organizations/other_44.qmd) want to see my agreement before advising me.  I could not find it easily before I left home and was too hot for a hunt.  [FMP](people/person_1160.qmd) has written to offer a visit on the 17th or 18th so I have written to her to meet me and come with me on the 18th  I have got the MS of [Ducks Eggs](cmy_books/cmybook_251.qmd), I think I can make them much more interesting and longer.  We are nice and cool here now, but I think people must suppose that I dispose of all the [scholarship](organizations/other_113.qmd) money for the begging letters are endless.  [Anna Bramston](people/person_195.qmd) has photographed all the tableaux before the break up!  Poor [George](people/person_1610.qmd) at Kimberley is tormented as nephew to a lion, and was invited to go to a book dance as ‘[The Daisy Chain](cmy_books/cmybook_24.qmd)’- pretty well for a great black police officer.  So you may tell [Walter](people/person_353.qmd) to prepare to be invited out as Jack a Lantern.  [Helen](people/person_1613.qmd) returns remembrances.  I have had a charming letter from the old [Mignonette](people/person_1637.qmd) about Maximilian and the Martinswand- and an Italian palace – quite good enough for an article. [^2]  The local demon [Mr ffinch](people/person_1688.qmd) & co are a great success, he reads the lessons so beautifully that I am quite sorry to miss a fortnight of him.  He is warden of a college for ‘decayed gentlewomen’  I should think you would have heard of it.
+
+[Maurice](people/person_1630.qmd) and [Maude](people/person_1629.qmd) have the funniest little cottage at Fleet, in the middle of purple heath
+
+your affectionate
+C M Yonge
+
+Poor Lanty!
+
+---
+
+[^1]: They were hoping that the *[MP](organizations/other_52.qmd)* would be revived in a cheaper form.
+[^2]: The legend that the emperor Maximilian I (1459-1519) climbed the Martinswand near Innsbruck is referred to in CMY’s novel *The Dove in the Eagle’s Nest* (1866) and is also the subject of one of Schubert’s songs.

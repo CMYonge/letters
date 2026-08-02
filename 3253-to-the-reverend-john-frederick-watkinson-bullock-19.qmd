@@ -1,0 +1,41 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-03-01"
+letter_date: "March 1st 1894"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 139-40"
+post_id: 3253
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-19"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-03-01"
+  url: "https://cmyonge.github.io/letters/3253-to-the-reverend-john-frederick-watkinson-bullock-19"
+---
+
+::: {.letter-metadata}
+**Date:** March 1st 1894  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 139-40
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+I think that with the book of Shropshire worthies I could manage [Fletcher](people/person_1677.qmd)’s life. [Lady Falkland](people/person_2408.qmd) is so well done in Miss Kavanagh’s [Women of Christianity](other_books/otherbook_91.qmd) that I think I could write her from thence.[^1] I suppose you are entirely at sea as to disposing of [the book](other_books/otherbook_118.qmd) and cannot tell at all what you could allow the writers
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The biographies of the Rev. John William Fletcher and of Lettice, Viscountess Falkland were among the 'Biographies of Eminent Anglicans' intended for Bullock's *Daily Lections* project, but were never published.

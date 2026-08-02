@@ -1,0 +1,49 @@
+---
+title: "To Charlotte Fortescue Yonge"
+letter_iso_date: "1901-02-26"
+letter_date: "February 26, 1901"
+location: "Elderfield,"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 347"
+post_id: 3481
+letter_id: "to-charlotte-fortescue-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Charlotte Fortescue Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1901-02-26"
+  url: "https://cmyonge.github.io/letters/3481-to-charlotte-fortescue-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** February 26, 1901  
+**From:** Elderfield,  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 347
+:::
+
+My dear [Lottie](people/person_1588.qmd)-
+How are you getting on ; I am afraid there is not much change any way and that your hands are full.
+
+I believe [Helen](people/person_1613.qmd) is somewhere either in the Bay of Biscay or the Chops of the Channel; she sailed on the 18th, and in a nice cabin with her goldfinches, and after to-morrow I may have a telegram any day to say she is in the Thames.
+
+[Christabel](people/person_329.qmd) talks of coming on the 7th or 8th; 1 will let you know when, as you might be able to come over and see them.
+
+Poor [Reggie](people/person_189.qmd) has never been well since he went to St. Leonards; [Alethea](people/person_182.qmd) is going over to-morrow to see about him and bring him home.
+
+[Cordelia Steer](people/person_1364.qmd) was to come to her[grandmother](people/person_1587.qmd) for good, as soon as she has fully recovered on the Blue Mountains from her fever. [Charles](people/person_1656.qmd) and [Ada](people/person_2256.qmd) are in their new house.
+
+Fancy a girl writing to me for my autograph and saying she had got [Lord Roberts](people/person_2258.qmd), and hoped to get [General Buller](people/person_2257.qmd) when she knew his address. I could not help telling her that I thought it very impertinent to worry a busy General about a young lady's fashion of collection. I wonder if she will heed.-
+
+Your affectionate
+C. M. YONGE.
+
+Mr. Hare's [recollections](other_books/otherbook_785.qmd) are very entertaining, brimful of Ghost Stories.

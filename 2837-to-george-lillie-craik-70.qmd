@@ -1,0 +1,51 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1886-06-29"
+letter_date: "June 29th [1886]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 153-4"
+post_id: 2837
+letter_id: "to-george-lillie-craik-70"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-06-29"
+  url: "https://cmyonge.github.io/letters/2837-to-george-lillie-craik-70"
+---
+
+::: {.letter-metadata}
+**Date:** June 29th [1886]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 153-4
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I think I had better glance over [the Shells](cmy_books/cmybook_357.qmd).
+
+I have begun upon [the flowers](cmy_books/cmybook_17.qmd) but I find there must be a great revolution there, as it is no use in these days to teach the old Linnean system. I can manage by transposition, but it will take some time to set it in order, and I think it had better come in time for the spring, as it starts with the flowers of the months.
+
+I do not think ‘Householders’ need as much retouching, but I only have it in the magazine, and could look it over better in the pages to be printed from.[^1]  
+
+I have been waiting to hear what the Liverpool lady says to the downfall of her plans - but she has not written.
+
+My present idea is to put [the history of the Reign](cmy_books/cmybook_189.qmd) into the [Monthly Packet](organizations/other_52.qmd) and then publish it after wards if there seems an opening, but I have not yet had her answer so that I cannot quite decide.[^2]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: CMY was trying to get 'Householders' and *The Herb of the Field* republished.
+[^2]: The unnamed Liverpool lady had encouraged CMY to write the book which appeared as *Victorian Half-Century*.

@@ -1,0 +1,17 @@
+---
+title: "‘A very friendly leaf.’"
+book_id: 337
+sort_title: "‘A very friendly leaf.’"
+---
+
+## Publication Information
+
+**Date:** 1901
+
+**Genre:** Non-fiction
+
+**Publisher:** <i>Friendly Leaves</i></i> (January 1901) 45-46.
+
+**Notes:** This series, 'Leaves for the Months', is identified as by CMY in an obituary in <i>Friendly Leaves</i>, April 1901.
+
+

@@ -1,0 +1,41 @@
+---
+title: "To Henrietta Elizabeth Fursdon"
+letter_iso_date: "1869-07-29"
+letter_date: "July 29th [1869]"
+location: "Elderfield"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 2327
+letter_id: "to-henrietta-elizabeth-fursdon"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henrietta Elizabeth Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-07-29"
+  url: "https://cmyonge.github.io/letters/2327-to-henrietta-elizabeth-fursdon"
+---
+
+::: {.letter-metadata}
+**Date:** July 29th [1869]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Irene](people/person_538.qmd)
+You introduced the Young Gosling to me in her eggshell long ago, and I am sure the brood with [sic for will] be very happy to have her.[^1] I send [passage missing where signature cut out] is our [senior member](people/person_329.qmd) and chief manager. The first questions will come on the first of October, it is of no use to try to get them done in September. Even Mother Goose herself is going to fly across the Channel next Monday for the month of August.
+
+[signature cut out]
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Henrietta Fursdon’s younger sister [Mary](people/person_539.qmd) became a member of the [Gosling Society](organizations/other_104.qmd) this year.

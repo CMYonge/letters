@@ -1,0 +1,56 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1867-07-01"
+letter_date: "July 1st [1867]"
+location: "Elderfield Otterbourn"
+manuscript: "MS British Library Add MSS 54920: 181-182"
+post_id: 2183
+letter_id: "to-alexander-macmillan-88"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-07-01"
+  url: "https://cmyonge.github.io/letters/2183-to-alexander-macmillan-88"
+---
+
+::: {.letter-metadata}
+**Date:** July 1st [1867]  
+**From:** Elderfield Otterbourn  
+**Manuscript:** MS British Library Add MSS 54920: 181-182
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+I believe the childish form does not last,[^1] it is always cramping and a scratch of the pen will alter it where it prevails.
+
+I was sorry afterwards I had not mentioned St John being recognised by his former pupil, the captain of the robbers, when he went out to be taken by him. It would be a fine subject for expression, and I wonder it has never been taken before. I believe I meant Archippus - the (supposed) angel of Laodicea as the third pupil of St John, but there is not enough of him to stand alone, without a wonderful amount of sermonizing - so I have worked him in with the other less little distinguished and half made out people.
+
+ I hope you will put an Eagle on the [cover](organizations/other_167.qmd). Have you seen the Eagle in New College Chapel, it is a magnificent creature, and I should <u>most particularly</u> like to have it either there or in the title page, or both, for many reasons. I would send you a photograph but the one I have is not in the best position - and you are so much at Oxford that it would be sending coals to Newcastle.
+
+What a fair and sensible [article](other_books/otherbook_498.qmd) Mr Ll. Davies’s is.
+
+We are in a world of hayfields delicious to all senses
+
+Yours sincerely
+C M Yonge
+
+It is just possible that on Wednesday or Thursday [Miss Sewell](people/person_1301.qmd) may call on you.[^2] If you will be from home on either of those days - would you let her know at the [Revd W. Sewell](people/person_1306.qmd)’s
+
+Huntley
+
+Gloucester
+
+---
+
+[^1]: He had objected to the childish tone of her draft chapters of *The Pupils of St. John the Divine*.
+[^2]: This would be in connection with the book of *Historical Selections* being compiled by CMY and Sewell.

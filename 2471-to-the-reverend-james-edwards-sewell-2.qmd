@@ -1,0 +1,42 @@
+---
+title: "To the Reverend James Edwards Sewell"
+letter_iso_date: "1873-04-21"
+letter_date: "April 21st 1872 [1873?]"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS Girton College Cambridge, Yonge X 1"
+post_id: 2471
+letter_id: "to-the-reverend-james-edwards-sewell-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend James Edwards Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-04-21"
+  url: "https://cmyonge.github.io/letters/2471-to-the-reverend-james-edwards-sewell-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 21st 1872 [1873?]  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS Girton College Cambridge, Yonge X 1
+:::
+
+My dear [Mr Warden](people/person_1304.qmd),[^1]
+I find I cannot well leave home till the 3.30 train on Wednesday, so I hope to be at Oxford at 6.45. I hope this is not so late as to put out your dinner hour as I think it often is at 7.30. I am very glad to hear that [Mr Wither](people/person_1544.qmd) will be there
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to 'The Revd the Warden/ New College/ Oxford', postmarked Winchester and Oxford 21 and 22 April 1873.
+[^2]: The Rev. James Edwards Sewell, Warden of New College, Oxford and brother of Elizabeth Sewell.

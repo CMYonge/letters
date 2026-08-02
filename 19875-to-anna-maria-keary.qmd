@@ -1,0 +1,47 @@
+---
+title: "To Anna Maria Keary"
+letter_iso_date: "1875-02-01"
+letter_date: "Febry 1st 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell."
+post_id: 19875
+letter_id: "to-anna-maria-keary"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Maria Keary"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-02-01"
+  url: "https://cmyonge.github.io/letters/19875-to-anna-maria-keary"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 1st 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+My dear [Miss Keary](people/person_793.qmd)
+
+Many thanks for this delightful bit of the story[^1] of which I am very fond.  I suppose you know best but I almost wish Teddy could have been lost before he was found, and that the snowy morning could come before that delightful expedition of Boxe's, and the still more delightful result.
+
+What do you think, I am ashamed to say I have not seen [Mrs Johns](people/person_772.qmd) or [Katie](people/person_887.qmd) for ages.  My poor house mate 'or rather wife, [Gertrude Walter](people/person_1462.qmd), has been so ill this winter that I have done nothing extra, and they are not easy to get at.  I heard from [Christabel Coleridge](people/person_329.qmd) however that she had seen her, and thought her looking ill and out of spirits.  The drawing must be a terrible deprivation.
+
+What a sad January it has been.  We have been saddened here, (besides the great and more public losses) by the death of [Sir Thomas Fairbairn](people/person_496.qmd)'s bright joyous [girl of 16](people/person_2439.qmd).  One week's illness from neglected damp feet!
+
+yours very sincerely
+
+C M Yonge
+
+---
+
+[^1]: Keary's *A York and a Lancaster Rose* appeared in *MP*  (January 1875-May 1876).

@@ -1,0 +1,43 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1858-02-16"
+letter_date: "Febry 16th 1858"
+location: "Otterbourne, Winchester."
+manuscript: "MS Huntington Library"
+post_id: 3116
+letter_id: "to-elizabeth-roberts-38"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1858-02-16"
+  url: "https://cmyonge.github.io/letters/3116-to-elizabeth-roberts-38"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 16th 1858  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Huntington Library
+:::
+
+My dear [Miss Roberts](people/person_1243.qmd),
+I am very sorry for my very stupid omission. I fancied that I had sent [the money](organizations/other_102.qmd) before for [Ely](other_books/otherbook_244.qmd), but I see it was not so, and I am much obliged to you for reminding me. [^1] These stamps should have come before but that our village post office requires a day’s notice when it is called upon for so large a supply.
+
+I hope Lincoln at least will come in your way, rather like the mountain and Mahomet is it not?  Fortunately these sketches are not necessarily continuous. I shall be very glad when any inclination leads you to send me another chapter for the [Monthly Packet](organizations/other_52.qmd) on that or any other subject. Did I ever mention to you my notion of collecting a descriptive and historical series of Rivers for the Packet. My stock at present consists of the Euphrates and the Dee and the Arno is coming. So you see the field is varied and I almost hope you may have some pet river to describe
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: 'The Church of the Holy and Undivided Trinity, Ely', one of the 'Cathedral Sketches' series, appeared in *MP* 14 (July 1857) 73-9.

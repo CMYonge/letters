@@ -1,0 +1,38 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1875-05-13"
+letter_date: "May 13th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Columbia University Library, New York:  Lohf Collection"
+post_id: 2531
+letter_id: "to-george-lillie-craik-20"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-05-13"
+  url: "https://cmyonge.github.io/letters/2531-to-george-lillie-craik-20"
+---
+
+::: {.letter-metadata}
+**Date:** May 13th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Columbia University Library, New York:  Lohf Collection
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+[Clay](organizations/other_173.qmd) has sent me proofs of the [French history](cmy_books/cmybook_99.qmd), but would it not be better to wait to print till I have finished, as the limits are fixed? 
+
+Yours sincerely
+C M Yonge

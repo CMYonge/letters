@@ -1,0 +1,36 @@
+---
+title: "To Christabel Rose Coleridge?"
+letter_iso_date: "1860-00-00"
+letter_date: "[1860s]"
+manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3562
+letter_id: "to-christabel-rose-coleridge-21"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-01-01"
+  url: "https://cmyonge.github.io/letters/3562-to-christabel-rose-coleridge-21"
+---
+
+::: {.letter-metadata}
+**Date:** [1860s]  
+**Manuscript:** MS  Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+[probably to [Christabel Coleridge](people/person_329.qmd), secretary of the [Gosling Society](organizations/other_104.qmd)]
+
+The first instalment of[Barnacle](organizations/other_89.qmd) is come
+
+Yours affectionately
+C M Yonge

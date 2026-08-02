@@ -1,0 +1,37 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1854-03-11"
+letter_date: "March 11th [1854]"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 3035
+letter_id: "to-elizabeth-roberts-33"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-03-11"
+  url: "https://cmyonge.github.io/letters/3035-to-elizabeth-roberts-33"
+---
+
+::: {.letter-metadata}
+**Date:** March 11th [1854]  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+Dear [Miss Roberts](people/person_1243.qmd),
+I do not like to leave you longer without a few words of thanks for your kind letter. We were indeed most mercifully aided and supported in our time of greatest need by all the help the Church affords, or rather the Lord of the Church. It was not one of our least blessings that our Church (of which my [Father](people/person_1631.qmd) was almost the sole architect) is so close to the garden that we could go to the service every day of that week, and all the time till our own kindred could come to us we were soothed and cared for by[Mr](people/person_798.qmd) and [Mrs Keble](people/person_795.qmd), who kindly called it parish work to take up their abode in the house of mourning. And now it is over, it is marvellous how much strength and spirit we have been allowed to retain, so that we are recurring with interest to the occupations which his interest and pleasure in them still seem to light up; and feeling much as if he was gone to some pleasure and had left us to take care of him in his absence. His habits of usefulness to the parish were so like a clergyman that he was continually addressed as one, though a thorough soldier in heart and in tastes; and we have reason now to be thankful he was not really clerical, as our dear home, so full of him, is still spared to us, to keep for [my brother](people/person_1624.qmd), who, poor boy, must just now have met the tidings at Malta.
+
+I shall be very glad to hear any news of [the Garland](other_books/otherbook_225.qmd), or to read any Cathedrals when ever you like to send me one. I believe I told you how much my dear Father liked your translation or versification of Death and Sleep. He is one to whom death is a sweet sleep after a life of toil in the service of others
+
+Yours sincerely
+C M Yonge

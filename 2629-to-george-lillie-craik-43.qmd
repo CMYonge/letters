@@ -1,0 +1,43 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1871-03-31"
+letter_date: "31 March 1871 [changed from mistken 31 march 1817]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2629
+letter_id: "to-george-lillie-craik-43"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-03-31"
+  url: "https://cmyonge.github.io/letters/2629-to-george-lillie-craik-43"
+---
+
+::: {.letter-metadata}
+**Date:** 31 March 1871 [changed from mistken 31 march 1817]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Dear [Mr Craik](people/person_379.qmd),
+
+I am much obliged for the cheque, I feel as if I hardly deserved it after all the trouble I have given [Mr Freeman](people/person_523.qmd).[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Perhaps the Royal Needles Hotel, Alum Bay, from which Marconi sent the first wireless transmission in 1897.
+[^2]: Catharine Elgie, wife of the curate of Otterbourne.

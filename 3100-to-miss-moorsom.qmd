@@ -1,0 +1,37 @@
+---
+title: "To Miss Moorsom"
+letter_iso_date: "1857-06-13"
+letter_date: "June 13th 1857"
+manuscript: "MS Princeton University: Parrish Collection, C0171: Box 29"
+post_id: 3100
+letter_id: "to-miss-moorsom"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Moorsom"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1857-06-13"
+  url: "https://cmyonge.github.io/letters/3100-to-miss-moorsom"
+---
+
+::: {.letter-metadata}
+**Date:** June 13th 1857  
+**Manuscript:** MS Princeton University: Parrish Collection, C0171: Box 29
+:::
+
+My dear [Miss Moorsom](people/person_1053.qmd)
+I wrote to the [author](people/person_1243.qmd) of the [Garland of the Year](other_books/otherbook_225.qmd) in case she should be able to help you to any authorities for the Oxalis, but I have an answer from her this morning saying that it was one of the very few flowers which she described at second hand, but she has written to the person who helped her to try if she can recollect what book she found it in, in the library of the British Museum, rather a wide field it must be confessed! I have been looking in [Mrs Loudon’s perennials](other_books/otherbook_108.qmd), but I cannot find it there, and I should think the index to some gardening magazines was your best chance. 
+
+I can send you a very good account of all our neighbours here. [Mrs Keble](people/person_795.qmd) is nearly at her best, and the [Moberly](people/person_1015.qmd)s are all brilliant, the school room party have just migrated to the farm, where we join them on Monday while the house is being painted. Perhaps you have not heard that the [Peter Young](people/person_1636.qmd)s are gone to a curacy near Totness a district of Dartington parish, a great loss to us all, excepting in Church music, for [Mr le Geyt](people/person_856.qmd) his successor has a very fine voice, and has made a great improvement in the Choir. If any thing satisfactory comes to light on the Oxalis subject I will write again
+
+Yours sincerely
+C M Yonge

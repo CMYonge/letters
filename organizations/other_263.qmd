@@ -1,0 +1,12 @@
+---
+title: "Cambridge University Press"
+other_id: 263
+---
+
+**Type:** organization
+
+## Description
+
+Publishing company.
+
+

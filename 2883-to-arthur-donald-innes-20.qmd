@@ -1,0 +1,49 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1888-06-20"
+letter_date: "June 20th [1888]"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 3"
+post_id: 2883
+letter_id: "to-arthur-donald-innes-20"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-06-20"
+  url: "https://cmyonge.github.io/letters/2883-to-arthur-donald-innes-20"
+---
+
+::: {.letter-metadata}
+**Date:** June 20th [1888]  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 3
+:::
+
+Dear [Mr Innes](people/person_744.qmd),
+
+I have just managed to insert <u>time</u> in the notice in my last proof - Is it impossible to consider the separate sheet of class list-? Church history takes up 5 pp this time, and if another 5pp is absorbed, what will be left of the poor old [M P](organizations/other_52.qmd)- ?[^1]
+
+I suppose £25 is the <u>first</u> sum, but it is curious to find how time and trouble in literary matters are in inverse ration to profit. I could write a story worth £100 at once in a quarter of the time this has taken. I should certainly be glad of the £25 on publication
+
+I send all but the last three chapters
+
+They are corrected but I am afraid of putting them out of reach[^2]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The class list was for those who were following the course on English literature in preparation for the Cambridge Higher Local Examinations, see 'Notices to Correspondents' *MP* (June 1888), 595.
+[^2]: The work under discussion here was perhaps *Preparation of Prayer-book Lessons* (London: Smith and Innes, 1888), which was still in course of serialization in *MP*, but whose appearance in volume form was noticed in 'A Conversation on Books' *MP* (December 1888), 590.

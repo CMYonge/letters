@@ -1,0 +1,41 @@
+---
+title: "To John William Parker, Jr."
+letter_iso_date: "1859-10-29"
+letter_date: "Oct 29th 1859"
+location: "Otterbourne,Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 3139
+letter_id: "to-john-william-parker-jr-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To John William Parker, Jr."
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1859-10-29"
+  url: "https://cmyonge.github.io/letters/3139-to-john-william-parker-jr-7"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 29th 1859  
+**From:** Otterbourne,Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+My dear [Sir](people/person_1143.qmd),
+I have to thank you for the pretty tale of the [Nut Brown Maids](other_books/otherbook_173.qmd) which we are reading with much interest and pleasure.
+
+Some months ago, [Miss Roberts](people/person_1244.qmd), I believe, wrote to you about [a tale](other_books/otherbook_270.qmd) of the Roman Revolution of 1848 which you rejected. She has since lent me the M S and I am so much struck with it, that I cannot for bear venturing to ask whether it were an account of the ill success of [the Two Mottoes](other_books/otherbook_136.qmd) or on its own merits that you declined it. If the first, may I be allowed to say that I think the former stories no criterion for the present, which is exceedingly in advance of them. The former ones were weak and youthful - this is on new ground, and full of very pretty descriptions of scenery, and characters that I should think admirable, the manners giving a very new and interesting picture. Some friends of mine who are now reading it and who have been much in Italy are delighted with the faithfulness of the picture, and I can hardly believe it can be otherwise than very popular.
+
+Miss Roberts is now abroad, and has left it in my hands, to endeavour to procure its publication. Before taking further measures, I could not forbear asking you (in case it had only been rejected because of the unfortunate Two Mottoes) to reconsider the verdict, for I candidly think it a book not to be rejected. I have thought more highly of the book since some recent articles in the [Saturday Review](organizations/other_99.qmd), which seemed like a comment on it. I own that I expected little from the M S judging by her former works, but I was surprised and delighted with this, I will await your answer before taking any further step
+
+Yours faithfully
+C.M. Yonge

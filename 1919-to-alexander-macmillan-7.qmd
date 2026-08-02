@@ -1,0 +1,48 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1863-11-27"
+letter_date: "Novr 27th 1863"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS British Library Add MSS 54920: 11-12"
+post_id: 1919
+letter_id: "to-alexander-macmillan-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-11-27"
+  url: "https://cmyonge.github.io/letters/1919-to-alexander-macmillan-7"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 27th 1863  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS British Library Add MSS 54920: 11-12
+:::
+
+Dear [Sir](people/person_939.qmd), 
+
+My brother will call on you on Wednesday morning, the 2nd, unless he should hear from you to the contrary. His address is [J.B. Yonge](people/person_1624.qmd) Esq
+
+					9 Montague Place
+
+					  Bryanston Square.
+
+I have just heard that there are 50 copies of the <u>[Lances of Lynwood](cmy_books/cmybook_23.qmd)</u> ordered, and that there are none in stock.
+
+I think a new edition should be put in hand at once, it is a childs book, with designs by [Mrs Blackburn](people/person_159.qmd) engraved by [Dalziel](organizations/other_163.qmd), I will send up a copy of the 1st edition by my brother. I have not one of the more recent, but I know it was smaller and less ornamental though with the illustrations - Perhaps you will judge how the new one should appear.
+
+I shall send by him the account of “<u>[the Young Stepmother](cmy_books/cmybook_38.qmd)</u>, which I think should be taken into consideration as a basis for arranging the terms for the <u>[Trial](cmy_books/cmybook_53.qmd)</u>. 
+
+Yours faithfully
+C.M. Yonge

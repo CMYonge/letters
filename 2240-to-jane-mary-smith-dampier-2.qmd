@@ -1,0 +1,48 @@
+---
+title: "To Jane Mary Dampier"
+letter_iso_date: "1868-04-04"
+letter_date: "April 4th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 2240
+letter_id: "to-jane-mary-smith-dampier-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Jane Mary Dampier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-04-04"
+  url: "https://cmyonge.github.io/letters/2240-to-jane-mary-smith-dampier-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 4th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+Dear [Madam](people/person_1345.qmd),
+
+I am sorry to have kept you waiting so long for an answer about [Lady Beatrix](cmy_books/cmybook_91.qmd), but first I was unhinged by a long influenza, and then a great Sorrow has engrossed me, and left me little time for letter writing.[^1]
+
+I like the journal <u>very</u> much in its gentle tone_
+
+I only think in revising it, it will need a little condensing - and one or two things struck me. I do not think Scots then attempted to speak anything but Scotch so that he Montrose would hardly have blamed her accent. Also in his grief for the King’s death, Beatrix would surely copy his Sonnet, which gives such an effect of bitter grief. I always think that and his poem 'Love one and love no more' have such an effect of force and character - they ring in my ears. I own however that I could not make out the earlier handwriting[;] after it becomes like your present hand I read every word. You will think me very particular about titles, but I am not sure of the degree of the two aunts. I fancied them old maids, and if so Dame would surely not belong to them as it is the note of a knight’s wife. Did you ever read Mademoiselle’s [Memoirs](other_books/otherbook_522.qmd), I think you would get Paris touches there, and may they not meet Jurence[?] who I think knew Montrose
+
+One other thing struck me - the dressing gown - Long after they were called night gowns - I fancy too Lady Fanshawe’s [memoirs](other_books/otherbook_520.qmd) and even [Grisell Baillie’s](other_books/otherbook_521.qmd)would be a help - I believe that it would be better for the Journal’s own sake to have it by itself, I hope to return it next week- shall it be to [Miss Terle](people/person_2006.qmd) or [Miss Dampier](people/person_404.qmd). In the beginning of Cardinal de Retz’s [memoirs](other_books/otherbook_523.qmd) there is <u>such</u> a ghost fright, it is a pity she should not hear of it
+
+Yours faithfully
+C M Yonge
+
+---
+
+[^1]: Presumably her [mother](people/person_1606.qmd)'s mental and physical decline.

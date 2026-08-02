@@ -1,0 +1,41 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1876-02-26"
+letter_date: "Febry 26th 1876"
+manuscript: "MS British Library Add MSS 54921: 11"
+post_id: 2542
+letter_id: "to-george-lillie-craik-21"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-02-26"
+  url: "https://cmyonge.github.io/letters/2542-to-george-lillie-craik-21"
+---
+
+::: {.letter-metadata}
+**Date:** Febry 26th 1876  
+**Manuscript:** MS British Library Add MSS 54921: 11
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+Could you give me any idea what is the[value of my copy rights](organizations/other_160.qmd), I do not mean that I want to part with them, but it would be convenient to me to know what is likely to be the full value of my property, and what I could raise by them in case of need[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Endorsed  'See my letter. Feb 29/1'.
+[^2]: This question is likely to have been prompted by anxiety about the financial situation of CMY's brother [Julian](people/person_1624.qmd).

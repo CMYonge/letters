@@ -1,0 +1,46 @@
+---
+title: "To Mary Anne Dyson"
+letter_iso_date: "1869-06-07"
+letter_date: "June 7. [1869]"
+location: "Wantage,"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 259"
+post_id: 2317
+letter_id: "to-mary-ann-dyson-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Anne Dyson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-06-07"
+  url: "https://cmyonge.github.io/letters/2317-to-mary-ann-dyson-9"
+---
+
+::: {.letter-metadata}
+**Date:** June 7. [1869]  
+**From:** Wantage,  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 259
+:::
+
+My dear [Marianne](people/person_464.qmd)-
+We have had a very successful time, so successful that I have had no time for letter-writing or anything else, but I have been most enjoying myself. I did just shake hands with [Dr. Pusey](people/person_1215.qmd), in his red doctor’s gown, and moreover heard him speak about the Palestine---no, the Sinai exploration.[^1]
+
+9th.---There, I wrote on Monday, and not a bit of time have I had to write since, but I am enjoying all things. I think the eager life here just suits me, from the wonderful unflagging feeling about it. It is so much the sparkling, hurrying stream.[^2]
+
+I know it is a delusion to hope to make this letter longer, so I shall not try---
+
+Your most affectionate
+C. M. YONGE
+
+---
+
+[^1]: The universities of Oxford and Cambridge had recently voted money for the purchase in the Near East of Arabic and other ancient manuscripts.  There was also a geographical survey being made of the Sinai peninsula, which it was hoped would shed light on the history and geography of the Old Testament.
+[^2]: If this is a quotation it is unidentified, but it clearly refers to the elaborate parish arrangements which the [Reverend William Butler](people/person_244.qmd) and his family had established in Wantage.  These included schools, welfare workers and a nunnery, the [Community of St. Mary the Virgin](organizations/other_21.qmd), of which CMY at about this time became an Associate Member.

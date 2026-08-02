@@ -1,0 +1,41 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1897-05-22"
+letter_date: "Saturday  [22 May 1897]"
+location: "Elderfield"
+manuscript: "MS West Devon Area Record Office"
+post_id: 3351
+letter_id: "to-mary-yonge-22"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1897-05-22"
+  url: "https://cmyonge.github.io/letters/3351-to-mary-yonge-22"
+---
+
+::: {.letter-metadata}
+**Date:** Saturday  [22 May 1897]  
+**From:** Elderfield  
+**Manuscript:** MS West Devon Area Record Office
+:::
+
+My dear [Mary](people/person_1626.qmd)
+You will like to know that the funeral is to be on Monday- her 48th birthday.  By her own wish, [she](people/person_1462.qmd) is to be carried into Church at 8 for the Celebration.  Burial at 3. Hymns ‘The King of Love’ and ‘Peace, perfect peace’ her own choice.
+
+[Frances](people/person_1604.qmd) is here I wish you could pay me a real visit a little later when the house has been set to rights, but I think I shall have to go out while it is doing-  only for a few days.  But I would make all fit to what you could give me of time, and there will be plenty of room now.
+
+I can’t feel yet what the difference will be
+
+your loving
+C M Yonge

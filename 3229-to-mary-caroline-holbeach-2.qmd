@@ -1,0 +1,45 @@
+---
+title: "To Mary Caroline Holbeach"
+letter_iso_date: "1893-08-21"
+letter_date: "Aug 21st 1893"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3229
+letter_id: "to-mary-caroline-holbeach-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Caroline Holbeach"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1893-08-21"
+  url: "https://cmyonge.github.io/letters/3229-to-mary-caroline-holbeach-2"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 21st 1893  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mrs Holbeach](people/person_706.qmd)[^1]
+I am much obliged for your book which I should have acknowledged sooner but I was just going from home
+
+I chiefly took the account of the battle of Wakefield from Sir James Ramsays’[history](other_books/otherbook_679.qmd), and as it was a hired book I cannot see whether any bit of old spelling of his could have misled me. I am afraid it is too late to get it altered in the second edition[^2]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: With envelope addressed to ‘Mrs Holbeach/ Farnborough Hall/ Banbury’.
+[^2]: Mary Caroline (Walrond) Holbeach (1854-1933), wife of Walter Henry Holbeach (1846-1901) of Farnborough Hall.
+[^3]: This seems most likely to be a reference to Grisly Grisell.

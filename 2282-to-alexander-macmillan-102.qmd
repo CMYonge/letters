@@ -1,0 +1,58 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1868-10-10"
+letter_date: "Oct 10th 1868"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 218-9"
+post_id: 2282
+letter_id: "to-alexander-macmillan-102"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-10"
+  url: "https://cmyonge.github.io/letters/2282-to-alexander-macmillan-102"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 10th 1868  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 218-9
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+The lack of a tiger is serious. I mourned it as I read, and yet I thought it shewed some strength of mind to have avoided any ordinary ingredients of excitement. And when we were reading many books aloud, I certainly found [this](organizations/other_202.qmd) answer better than many with a more direct selling element did, and the freshness of descriptions to me compensated for want of incident. Will you kindly direct it to [Mrs Valentine](people/person_1437.qmd), care of [Mr Warne](people/person_1433.qmd), and send it in. I think that they are beginning a system of one volume tales into which it might fit.[^1]
+
+The other matter was a mistake of mine. I imagined that the lady wrote to me on behalf of a branch institution just set up at Grimsby instead of which it turned out that she was only staying there on a visit. It was one of the confusions I made during the last months of illness.
+
+The right direction is
+
+The [Sister in Charge](people/person_2020.qmd) for the Grimsby connection.
+Kings College Hospital
+Portugal Street
+Strand
+
+and if you will so send the unfortunate parcel, I should be much obliged.
+
+I find it is a library for the lady nurses’ own reading that they want - not as I fancied only books for the patients’ use. So I think I had better send a copy of each of my tales, instead of only the three I mentioned before if you will kindly give orders accordingly.[^2]
+
+Having lost the first letter I will not lay the blame on it, but I certainly did not understand it. A much more practical one has now come
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: CMY subsequently lent her name as editor to Warne's 'Star of Hope' and 'Victoria Tales and Stories' series.  Possibly the projected series may be connected with either or both of these.
+[^3]: A list is appended in a different hand: ‘Heartsease, Dynevor Terrace, Heir of Redclyffe, Daisy Chain, Hopes & Fears, Young Stepmother, Dove in Eagle’s Nest, Clever Woman of A Family.’

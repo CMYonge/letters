@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1881-11-04"
+letter_date: "Novr 4th [before 1881]"
+location: "“Monthly Packet,” 6, Paternoster Row,London, E.C."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 3537
+letter_id: "to-an-unknown-woman-73"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-11-04"
+  url: "https://cmyonge.github.io/letters/3537-to-an-unknown-woman-73"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 4th [before 1881]  
+**From:** “Monthly Packet,” 6, Paternoster Row,London, E.C.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Madam
+
+I liked the opening of your story very much but I do not think the danger of the time is so much want of toleration as indifference to faith, and therefore I cannot accept it.
+
+Yours truly
+C M Yonge

@@ -1,0 +1,40 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1880-02-13"
+letter_date: "Feb 13th 1880"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Devon Record Office, Exeter 53/10/9/2"
+post_id: 2698
+letter_id: "to-an-unknown-woman-49"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-02-13"
+  url: "https://cmyonge.github.io/letters/2698-to-an-unknown-woman-49"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 13th 1880  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Devon Record Office, Exeter 53/10/9/2
+:::
+
+Dear Madam
+
+The illustrations are most beautiful and I am very much struck with the expressiveness and good drawing of all the animals.  Unfortunately I have mislaid your first letter and cannot refer to it, so that I am not sure whether it was sent with a view to future publications, or to plans of publishing it.
+
+I have no power to change my own [illustrators](organizations/other_167.qmd), but if you liked, I could send it to [Macmillans](organizations/other_111.qmd) and beg them to ask the same hand to illustrate some of my books
+
+yours truly
+C M Yonge

@@ -1,0 +1,41 @@
+---
+title: "To Henrietta Elizabeth Fursdon"
+letter_iso_date: "1862-12-30"
+letter_date: "Decr 30th [1862]"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 1882
+letter_id: "to-henrietta-elizabeth-fursdon-7"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Henrietta Elizabeth Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-12-30"
+  url: "https://cmyonge.github.io/letters/1882-to-henrietta-elizabeth-fursdon-7"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 30th [1862]  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Irene](people/person_538.qmd),
+
+Do you know your stamps never came out of your letter. I waited a day or two in case you had forgotten them and would find them out, but they are not forthcoming yet. I do not think I could have lost them in opening the letter. Many thanks for them all the same.
+
+[Chelsea Delf](people/person_329.qmd) and you are the [winners](organizations/other_104.qmd) this time You for the compass
+
+your affectionate
+
+Mother Goose
+
+Jany 2nd This letter got into another by mistake and has been to Edinburgh!

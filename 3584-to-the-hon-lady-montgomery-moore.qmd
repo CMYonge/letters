@@ -1,0 +1,40 @@
+---
+title: "To the Hon. Mrs Montgomery Moore"
+letter_iso_date: "1885-11-12"
+letter_date: "Novr 12th [after 1885]"
+location: "Elderfield"
+manuscript: "MS Harold B Lee Library, Brigham Young University"
+post_id: 3584
+letter_id: "to-the-hon-lady-montgomery-moore"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Hon. Mrs Montgomery Moore"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-11-12"
+  url: "https://cmyonge.github.io/letters/3584-to-the-hon-lady-montgomery-moore"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 12th [after 1885]  
+**From:** Elderfield  
+**Manuscript:** MS Harold B Lee Library, Brigham Young University
+:::
+
+Dearest [Jay](people/person_1042.qmd)
+
+I find I have a copy of the [Shield](cmy_books/cmybook_184.qmd) which you are welcome to keep, I never did any more to the volumes than this, only imagined it.  I found when I was half through the Shield that I had used the name of Merrifield before, in the [Stokesley Secret](cmy_books/cmybook_40.qmd). . .   
+<C M Yonge
+
+---
+
+**Note:** The letter is inserted in a copy of *The Two Sides of the Shield* (London: Macmillan 1885), in such a way as to make the back of the first leaf illegible.

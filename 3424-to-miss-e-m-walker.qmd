@@ -1,0 +1,43 @@
+---
+title: "To  Maria Edith Walker"
+letter_iso_date: "1899-09-09"
+letter_date: "Sept 9th 1899"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS  West Sussex County Record Office/ Add. 16,944/1"
+post_id: 3424
+letter_id: "to-miss-e-m-walker"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To  Maria Edith Walker"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1899-09-09"
+  url: "https://cmyonge.github.io/letters/3424-to-miss-e-m-walker"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 9th 1899  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS  West Sussex County Record Office/ Add. 16,944/1
+:::
+
+Dear [Madam](people/person_2234.qmd)
+[Macmillan](organizations/other_111.qmd) published both series of the [Store House of Stories](cmy_books/cmybook_83.qmd).  I do not know that the [second series](cmy_books/cmybook_96.qmd) is gone out of print, I should think they had it in stock.  If not I could lend it to you- or my own old copy of ‘[the Puzzle for a curious girl](other_books/otherbook_619.qmd)’  which I inherited from my mother, and is somewhere in the house, though I cannot lay my hand on it without a search.[^1]  It has a red back, and illustrations at the top of the chapters, in the style of 1810-20, I should say - but of course they may have been made for the edition.
+
+But I should hardly think the idea or the writing were Addisonian though it is a very clever story.  It seems to me to be of a later period than Mrs Dorothy Kilner’s [Jemima Placid](other_books/otherbook_742.qmd) and the ‘little gilt books’ of the ‘corner of St Paul’s Church Yard
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY had reprinted S.W., *A Puzzle for a Curious Girl* (London: Tabart and Harris ?1803) in *A Storehouse of Stories* (London: Macmillan 1870).

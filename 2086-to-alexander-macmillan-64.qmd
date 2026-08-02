@@ -1,0 +1,36 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-12-18"
+letter_date: "Decr 18th [1865]"
+manuscript: "MS British Library Add MSS 54920: 125"
+post_id: 2086
+letter_id: "to-alexander-macmillan-64"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-18"
+  url: "https://cmyonge.github.io/letters/2086-to-alexander-macmillan-64"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 18th [1865]  
+**Manuscript:** MS British Library Add MSS 54920: 125
+:::
+
+[To [Alexander Macmillan](people/person_939.qmd)]
+
+I would think that [Mr Lea](people/person_853.qmd)’s proposal was a very good one, and that the [Golden Deeds](cmy_books/cmybook_51.qmd) might be very useful as such a class book. But I imagine that to give it currency, it would be advisable to get it placed on the list of books recommended by the Council of Education people. I suppose there would have to be some omissions to make it into so cheap a book.
+
+Yours sincerely
+C M Yonge

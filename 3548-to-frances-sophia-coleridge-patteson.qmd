@@ -1,0 +1,44 @@
+---
+title: "To Frances Sophia Coleridge Patteson"
+letter_iso_date: "1884-04-29"
+letter_date: "April 29th [1884-91?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "UCLA: collection 100: box 95"
+post_id: 3548
+letter_id: "to-frances-sophia-coleridge-patteson"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Sophia Coleridge Patteson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1884-04-29"
+  url: "https://cmyonge.github.io/letters/3548-to-frances-sophia-coleridge-patteson"
+---
+
+::: {.letter-metadata}
+**Date:** April 29th [1884-91?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** UCLA: collection 100: box 95
+:::
+
+My dear [Fanny](people/person_1151.qmd)
+
+I am afraid this is not exactly in the line of the substance of the [Packet](organizations/other_52.qmd). I wonder if [Miss Maclean](people/person_2325.qmd) would think it worthwhile to pay for it at the rate of 1/ for twenty words and have it put into the advertisement part, in which case she had better send it straight to the publisher.
+
+Eton was a great undertaking. I hope you prospered, and are quite well again. Poor [Gertrude](people/person_1462.qmd) has been having a bad attack of German measles, not a good addition to her other troubles. In fact if I went on it would be a list of ailments but [Julian](people/person_1624.qmd) seems really to have rather gained than lost ground.
+
+Your affectionate cousin
+C M Yonge
+
+---
+
+**Note:** The letter contains no message to Fanny Patteson's half-sister Joanna, so probably post-dates the latter's death in June 1884.  It was certainly written before the death of Julian Yonge in October 1891.

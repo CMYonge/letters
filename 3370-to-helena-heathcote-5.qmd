@@ -1,0 +1,47 @@
+---
+title: "To Helena Mary Heathcote"
+letter_iso_date: "1898-05-05"
+letter_date: "May 5 1898"
+location: "Elderfield"
+manuscript: "MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/65"
+post_id: 3370
+letter_id: "to-helena-heathcote-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Helena Mary Heathcote"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-05-05"
+  url: "https://cmyonge.github.io/letters/3370-to-helena-heathcote-5"
+---
+
+::: {.letter-metadata}
+**Date:** May 5 1898  
+**From:** Elderfield  
+**Manuscript:** MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/65
+:::
+
+My dear [Ellie](people/person_663.qmd)
+I am delighted to hear of the Medallion![^1]
+
+Have you seen Sir Herbert Maxwell’s [book of the months](other_books/otherbook_738.qmd)-? He disbelieved the rod and someone ought to write to him. He watched [Mullins](people/person_2189.qmd) - and fancied he had discovered the places before. But [Lady Crawley](people/person_2188.qmd), the mother of [Mrs William Gibbs](people/person_557.qmd), who had the power only in that generation of the family laughed at it as imagination, and I believe Mrs Gibbs inherited it, but never spoke of it. [Mrs Monroe](people/person_1033.qmd) had Mullins to find water at Colden Common and he did. All the servants tried under his tuition but only one maid succeeded.
+
+I am doing our Birds with anecdotes if possible to add to the book.
+
+[Helen](people/person_1613.qmd) has a copy of [illegible] marked by her [father](people/person_1624.qmd) and can complete the set. There really is much to say of them.
+
+Your affectionate
+C M Yonge
+
+---
+
+[^1]: A medallion is mentioned in *John Keble's Parishes*, 3, which is the book under discussion here.

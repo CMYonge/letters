@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frederick Lloyd"
+letter_iso_date: "1873-11-20"
+letter_date: "Novr. 20th 1873"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Alexander Turnbull Library, Wellington, New Zealand.Ref: ms-papers-1786-4."
+post_id: 2484
+letter_id: "to-the-reverend-john-frederick-lloyd"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Lloyd"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-11-20"
+  url: "https://cmyonge.github.io/letters/2484-to-the-reverend-john-frederick-lloyd"
+---
+
+::: {.letter-metadata}
+**Date:** Novr. 20th 1873  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Alexander Turnbull Library, Wellington, New Zealand.Ref: ms-papers-1786-4.
+:::
+
+My dear [Mr Archdeacon](people/person_888.qmd)[^1]
+At last I return all the precious letters you lent me.<sup>2</sup> I ought to have done so sooner
+
+I have not been able to use many as they went so much on the same ground as the journal letters.
+
+With many thanks
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Rev. John Frederick Lloyd (1810-1875) was a fellow of St John's College, Auckland, 1849-1853, vicar of St Paul's, Auckland, 1853-1865 and archdeacon of Waitemata, 1865-1870. Owing to ill health he returned to England in 1870 where he became rector of Kirk-lreton, Wirksworth. CMY is thanking him for help with her *Life of John Coleridge Patteson*.

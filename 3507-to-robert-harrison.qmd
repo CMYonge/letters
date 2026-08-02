@@ -1,0 +1,50 @@
+---
+title: "To Robert Harrison"
+letter_iso_date: "1860-04-07"
+letter_date: "April 7th [mid 1860s?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3507
+letter_id: "to-robert-harrison"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Robert Harrison"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-04-07"
+  url: "https://cmyonge.github.io/letters/3507-to-robert-harrison"
+---
+
+::: {.letter-metadata}
+**Date:** April 7th [mid 1860s?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+[To [Robert Harrison](people/person_635.qmd), the Librarian of the [London Library](organizations/other_29.qmd)]
+
+Miss Yonge returns the books she has had of late, and would be glad to have the undermentioned sent to her
+
+Richardson’s [Clarissa](other_books/otherbook_565.qmd)
+Ottilie Wildemuth [Heimath der Frau](other_books/otherbook_566.qmd)
+
+Bucknill [Psychology of Shakespeare](other_books/otherbook_567.qmd)
+
+Aytoun [Ballads of Scotland](other_books/otherbook_568.qmd)
+
+Wilson [Memoirs of Edinburgh](other_books/otherbook_569.qmd)
+
+Mme D’Arblay [Life](other_books/otherbook_570.qmd)
+
+[The Poor Artist](other_books/otherbook_571.qmd)
+
+Wilmott’s [Journal of Summer time in Country](other_books/otherbook_572.qmd)

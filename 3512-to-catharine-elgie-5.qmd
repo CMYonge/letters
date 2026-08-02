@@ -1,0 +1,40 @@
+---
+title: "To Catharine Elgie"
+letter_iso_date: "1870-00-00"
+letter_date: "[1870s?]"
+manuscript: "MS Charlotte Mary Yonge Society/3"
+post_id: 3512
+letter_id: "to-catharine-elgie-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Catharine Elgie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-01"
+  url: "https://cmyonge.github.io/letters/3512-to-catharine-elgie-5"
+---
+
+::: {.letter-metadata}
+**Date:** [1870s?]  
+**Manuscript:** MS Charlotte Mary Yonge Society/3
+:::
+
+My dear [Mrs Elgie](people/person_475.qmd)
+
+I have a stupid cold in my head.  If it gets fine, I will come down at 2, if I see [Miss Davies](people/person_408.qmd) go by in the fly, but I thought she was not coming in rain.[^1]  If she does come, and the rain goes on I am afraid I must ask her to look in on me on her way, I should not mind the damp or this slight cold, only it makes [G](people/person_1462.qmd) so unhappy for me to go out
+
+your affec
+CMY
+
+---
+
+[^1]: Perhaps Miss Davies who was Diocesan Secretary of the Girls’ Friendly Society in 1878.

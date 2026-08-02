@@ -1,0 +1,45 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-04-23"
+letter_date: "April 23d [1900?]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/94"
+post_id: 3453
+letter_id: "to-christabel-rose-coleridge-42"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-04-01"
+  url: "https://cmyonge.github.io/letters/3453-to-christabel-rose-coleridge-42"
+---
+
+::: {.letter-metadata}
+**Date:** April 23d [1900?]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/94
+:::
+
+My dear [Christabel](people/person_329.qmd)
+[Mrs Sewell](people/person_2220.qmd)came to call on Saturday and brought [Mrs Brook](people/person_2221.qmd), who said she was one of your old friends, so we had a talk about you. [Henry](people/person_184.qmd) has been setting up flags and making the children do honour to St George’s day.  We are in high spirits about our reports, they are better than ever they have been but there is influenza still about.
+
+[Adam Grigson](other_books/otherbook_766.qmd) is good but the cult of noble blood is too serious.
+
+Rosamund was not a wretch <u>because</u> her mother was a tobacconists daughter- and why does Francis always <u>think</u> without g to his participles he <u>might</u> speak but not think in slang grammar.
+
+[The Valley of the Great Shadow](other_books/otherbook_767.qmd) is very good.
+
+I have got the number of the CL  I <u>do</u> believe [Mary Bramston](people/person_198.qmd) will live to repent of being bitten by ?Driver when she feels what it involves towards the Gospels
+
+your affte
+C M Yonge

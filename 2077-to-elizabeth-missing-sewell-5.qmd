@@ -1,0 +1,42 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1865-10-27"
+letter_date: "Oct 27th [1865]"
+location: "Crookham"
+manuscript: "MS Girton College Cambridge, Yonge VI 1"
+post_id: 2077
+letter_id: "to-elizabeth-missing-sewell-5"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-10-27"
+  url: "https://cmyonge.github.io/letters/2077-to-elizabeth-missing-sewell-5"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 27th [1865]  
+**From:** Crookham  
+**Manuscript:** MS Girton College Cambridge, Yonge VI 1
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+I have meant to write to you for a long time past, but you know how one’s good intentions fail one when one is holiday making. However my holiday comes to an end tomorrow, and I hope to be heartily at work again next week.[^1] Meantime, I ought to have long ago confessed that it was all a delusion of mine about that Lanfranc article. [John Coleridge](people/person_343.qmd) had meant to write one, and talked it over, and my memory confounded his real article on St Cuthbert and this intention, so as to make up the fancy - I hope it has not given you any trouble or put out your arrangements - The St Anselm came from hence, as I think I made known.[^2] I am quite ready to go to work when I come home, and will send for any books that may be wanted from the [London library](organizations/other_29.qmd) - Any time that you can come for another study of the subject, we shall be very glad to see you, and I hope I shall be less stupid than I was last time. I am sure it will not be for want of idleness if I am not.
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: On their *Historical Selections*.
+[^2]: This is a little obscure and may be a misreading.  The life of St. Anselm in the published book was taken from the Rev. Richard Church, *Essays and Reviews* (1854)

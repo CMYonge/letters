@@ -1,0 +1,41 @@
+---
+title: "To Messrs Macmillan"
+letter_iso_date: "1877-04-18"
+letter_date: "[May 1877]"
+manuscript: "MS British Library Add MSS 54921: 17"
+post_id: 2579
+letter_id: "to-messrs-macmillan-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Messrs Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-05-01"
+  url: "https://cmyonge.github.io/letters/2579-to-messrs-macmillan-6"
+---
+
+::: {.letter-metadata}
+**Date:** [May 1877]  
+**Manuscript:** MS British Library Add MSS 54921: 17
+:::
+
+Miss Yonge would be obliged if [Messrs Macmillan](organizations/other_111.qmd) would send copies of each of her works to 
+
+Sister Elizabeth
+[St Mary’s](organizations/other_21.qmd) Home
+Wantage
+
+Also one copy of [the Heir of Redclyffe](cmy_books/cmybook_15.qmd) for herself
+
+---
+
+**Note:** Endorsed ‘Rail/28 5/77’ and (against ‘herself’) ‘Post 28/5/77’.

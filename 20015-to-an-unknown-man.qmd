@@ -1,0 +1,41 @@
+---
+title: "To an unknown man"
+letter_iso_date: "1877-01-19"
+letter_date: "Jany 19th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Yale University, Beinecke Library"
+post_id: 20015
+letter_id: "to-an-unknown-man"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-01-19"
+  url: "https://cmyonge.github.io/letters/20015-to-an-unknown-man"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 19th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Yale University, Beinecke Library
+:::
+
+Sir
+
+I am grateful for what you say of the [Scripture Readings](cmy_books/cmybook_87.qmd), I did consider of the use of paragraphs, but as I meant the book primarily for school reading I though the loss of verses would be inconvenient, and I myself do not like using a paragraph Bible because I can never find anything quickly in it
+
+Perhaps I was actuated by my childish dislike to [Lloyd’s Bible](other_books/otherbook_1133.qmd) which used to seem to me unnatural.
+
+yours truly
+
+C M Yonge

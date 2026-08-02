@@ -1,0 +1,12 @@
+---
+title: "Sir Thomas Malory - Le Morte Darthur"
+book_id: 235
+---
+
+## Publication Information
+
+**Date:** 1498
+
+**Imprint:** London: Caxton
+
+

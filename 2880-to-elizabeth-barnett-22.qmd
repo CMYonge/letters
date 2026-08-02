@@ -1,0 +1,46 @@
+---
+title: "To Elizabeth Barnett"
+letter_iso_date: "1888-03-31"
+letter_date: "Easter Eve [?31 March 1888]"
+location: "Elderfield"
+manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 307-8."
+post_id: 2880
+letter_id: "to-elizabeth-barnett-22"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Barnett"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-03-31"
+  url: "https://cmyonge.github.io/letters/2880-to-elizabeth-barnett-22"
+---
+
+::: {.letter-metadata}
+**Date:** Easter Eve [?31 March 1888]  
+**From:** Elderfield  
+**Manuscript:** MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 307-8.
+:::
+
+My dear [Lizzie](people/person_113.qmd)
+
+Things are coming all right;  [Mary Coleridge](people/person_351.qmd) will be ready for me on the 29th, so I shall have the week before for sights of the dear people.[^1]
+
+Here am I writing letters instead of decorating, for I have got laid up with an attack of shingles;  however, as it began on Sunday, though I did not know what it was, I hope it will soon finish off.
+
+I wish someone (not a woman) would put it with authority that it is frightful that we, 'whose souls are lighted' by the inspired tradition of thousands of years, should listen to the German critics who have no church, even if they believe at all, and who talk as if Hebrew was their mother tongue.  It seems to me letting the devil in.  Have you seen [Mr. Rosenthal](people/person_1261.qmd)'s [lecture on Isaiah](other_books/otherbook_1054.qmd), which shows how one really bred to Hebrew scholarship disposes of the twofold idea?
+
+Your affectionate
+C. M. Yonge
+
+---
+
+[^1]: The dating of this letter is supported by the reference to  Mary Frances Keble Coleridge (1824-1898) in the letter to Jean Ingelow (3 May 1888).

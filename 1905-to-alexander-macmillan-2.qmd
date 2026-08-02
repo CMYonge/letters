@@ -1,0 +1,47 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1863-10-07"
+letter_date: "Oct 7th 1863"
+location: "Otterbourne, Winchester."
+manuscript: "MS British Library Add 54920: : 1-2:"
+post_id: 1905
+letter_id: "to-alexander-macmillan-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-10-07"
+  url: "https://cmyonge.github.io/letters/1905-to-alexander-macmillan-2"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 7th 1863  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add 54920: : 1-2:
+:::
+
+[Sir](people/person_939.qmd),
+
+[Mr Furnival](people/person_531.qmd) has forwarded to me your proposal of dealing with me for my tale of the [Clever Woman of the Family](cmy_books/cmybook_58.qmd) as a book - I should be obliged if you would let me know your terms for publishing on commission; and like wise if in case of such an arrangement being practicable, whether you would take charge of my works that have been hitherto in [Mr Parker](people/person_1144.qmd)’s hands - All have been published by commission, excepting the two first, the [Heir of Redclyffe](cmy_books/cmybook_15.qmd) and [Heartsease](cmy_books/cmybook_19.qmd) which were on the half profit system, and respecting which it would be necessary to make an arrangement with Mr Parker -
+
+The last years half profits on the Heir of Redclyffe were £28 .. 15 - on Heartsease £9..13 -
+
+I mention this to facilitate your estimate of the worth of the half profits in case you should wish to purchase them
+
+Your obt servt 
+
+C. M. Yonge
+
+---
+
+**Note:** Black-edged paper. Serialised in *Churchman's Family Magazine*, Jan 1864 to March 1865 and published by Macmillan and Co. 1865.

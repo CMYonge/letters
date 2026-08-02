@@ -1,0 +1,50 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-11-01"
+letter_date: "Nov 1st [1865]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54920: 117-8"
+post_id: 2080
+letter_id: "to-alexander-macmillan-61"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-11-01"
+  url: "https://cmyonge.github.io/letters/2080-to-alexander-macmillan-61"
+---
+
+::: {.letter-metadata}
+**Date:** Nov 1st [1865]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54920: 117-8
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+By no means did I mean the graceful little lamp on [Golden Deeds](cmy_books/cmybook_51.qmd) - nor the Dove in the [Sunday Book](other_books/otherbook_377.qmd) - nor the well in [Cawnpore](other_books/otherbook_406.qmd). I meant such a high priest and book as are outside Smith’s [Biblical dictionary](other_books/otherbook_389.qmd); or some of the whole pictures of men and women one often sees upon books, - spoiling the whole effect of the real [illustration](organizations/other_167.qmd) within. It was odd that I asked my [mother](people/person_1606.qmd) if she thought what I said could be supposed to apply to Golden Deeds and she said - no by no means.[^1]
+
+The Montfort arms are a lion. I will get the description soon but it need not be a formal shield like the arms on a peerage, but a sort of trophy, perhaps a helmet, shield and broken sword /& spear\\, which would answer to the memory of old Montfort that pervades the [whole](cmy_books/cmybook_61.qmd). If the design formed a vignette on the title page it might have the motto -
+
+But he the chieftain of them all
+His sword hangs rusting on the wall
+Beside his broken spear.[^2]
+
+I send the bit of preface, and shall be glad to have the proofs - the long concluding chapter wants to be divided and furnished with mottoes. The <u>to be continued</u> was a mistake that I ought to have corrected.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: They were discussing plans for illustrating *The Prince and the Page*.
+[^2]: Walter Scott, *The Lay of the Last Minstrel* I, 7.

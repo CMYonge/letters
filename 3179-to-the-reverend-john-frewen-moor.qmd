@@ -1,0 +1,35 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1891-10-06"
+letter_date: "[6 October 1891]"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 3179
+letter_id: "to-the-reverend-john-frewen-moor"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1891-10-06"
+  url: "https://cmyonge.github.io/letters/3179-to-the-reverend-john-frewen-moor"
+---
+
+::: {.letter-metadata}
+**Date:** [6 October 1891]  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+[only an envelope]
+
+---
+
+**Note:** Envelope addressed to ‘The Revd/ J F Moor/Ampfield Vicarage/Romsey. Postmarked Winchester Oc 6/91. ‘Miss Yonge’s autograph’ written in another hand across the top.

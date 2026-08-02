@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1888-03-29"
+letter_date: "March 29th 1888"
+location: "Elderfield"
+manuscript: "MS Charlotte Mitchell/28"
+post_id: 2879
+letter_id: "to-an-unknown-woman-63"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-03-29"
+  url: "https://cmyonge.github.io/letters/2879-to-an-unknown-woman-63"
+---
+
+::: {.letter-metadata}
+**Date:** March 29th 1888  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mitchell/28
+:::
+
+Dear Madam
+
+Here is my autograph hoping that the Octave may have a bright Easter
+
+yours truly
+Charlotte M Yonge

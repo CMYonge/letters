@@ -1,0 +1,48 @@
+---
+title: "To Mary Trebeck"
+letter_iso_date: "1892-07-11"
+letter_date: "[11 July 1892]"
+manuscript: "MS Charlotte Mitchell/33"
+post_id: 3578
+letter_id: "to-mary-trebeck"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Trebeck"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-07-11"
+  url: "https://cmyonge.github.io/letters/3578-to-mary-trebeck"
+---
+
+::: {.letter-metadata}
+**Date:** [11 July 1892]  
+**Manuscript:** MS Charlotte Mitchell/33
+:::
+
+This life is not the Temple but the Gate
+Where men secure of entrance watch and wait
+
+		[Aubrey de Vere](people/person_2259.qmd)
+
+Dear [Mrs Trebeck](people/person_1416.qmd)
+
+I am afraid this is too late but I cannot help sending it
+
+yours sincerely
+
+C M Yonge
+
+They are the end of his sonnet in answer to ‘A life worth living[‘]
+
+---
+
+**Note:** With envelope addressed to Mrs Trebeck/ Southwell/ Notts and postmarked Winchester 11 July 1892. Mary Trebeck edited *The Blue Birthday Book:  Proverbs, Maxims and Quotations for Every Day of the Year*  (London: Gardner, Darton 1898).

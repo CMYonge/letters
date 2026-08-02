@@ -1,0 +1,12 @@
+---
+title: "Samuel Johnson - A Dictionary of the English Language"
+book_id: 272
+---
+
+## Publication Information
+
+**Date:** 1755
+
+**Imprint:** London: Bentley
+
+

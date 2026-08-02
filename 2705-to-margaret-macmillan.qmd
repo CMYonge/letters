@@ -1,0 +1,45 @@
+---
+title: "To Margaret Anne Macmillan"
+letter_iso_date: "1880-04-26"
+letter_date: "April 26th 1880"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2705
+letter_id: "to-margaret-macmillan"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Anne Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-04-26"
+  url: "https://cmyonge.github.io/letters/2705-to-margaret-macmillan"
+---
+
+::: {.letter-metadata}
+**Date:** April 26th 1880  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Miss Macmillan](people/person_2274.qmd)
+
+If you will send me a short account of the Working Women’s College I will gladly put it in.[^1] Perhaps it will be best to do so when everything is settled. I wonder how much the women read the papers, I suppose they may be more alive to public matters than their sisters in the country, but even the men at our village reading room care much less for papers than for books.
+
+The [Goslings](organizations/other_104.qmd) have turned into [Spiders](organizations/other_116.qmd), almost as wonderful a transformation as that of barnacles into barnacle geese![^2]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: For discussion of the various colleges which operated under this name see http://www.ucl.ac.uk/bloomsbury-project/institutions/working_womens_college.htm
+[^2]: Margaret Macmillan (b.1857), third child and elder daughter of CMY's publisher Alexander Macmillan, had been a member of the Gosling Society.

@@ -1,0 +1,45 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1864-11-08"
+letter_date: "Novr 8th 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1864/ 7"
+post_id: 1991
+letter_id: "to-ann-maria-carter-smith-70"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-11-08"
+  url: "https://cmyonge.github.io/letters/1991-to-ann-maria-carter-smith-70"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 8th 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/ 7
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+I so seldom see the paper that I did not know that this greatest sorrow that can befall one’s unmarried life had come upon you.[^1] It takes me back at once to ten years ago when I was tasting the same cup, and strangely enough there was the same connection between the sorrow and my first real [success](cmy_books/cmybook_15.qmd). How you must feel the change & the sorrow for others as well as yourself. I am glad there is not in your case the shock of an immediate break of home, but that you have time to detach yourself gradually. As to the grief itself, I think it is one that lives more than any other I have known and yet is more precious. And those testimonies from poor neighbours do so live with one like treasures through the rest of ones life.
+
+The [Anastasias](other_books/otherbook_361.qmd) must I am sure be a success from the tone of all the notices I have seen of them, and [Miss Taylor](people/person_1397.qmd) is very much pleased with them, you know she is a great admirer of yours (except [the Websters](other_books/otherbook_275.qmd)) but she has not guessed you here. She likes the 3d volume specially. I am just going to enjoy it
+
+With many thanks
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE postmarked Winchester 8 November 1864 and London SE 9 November 1864.
+[^2]: The Rev. [Richard Carter Smith](people/person_297.qmd) died on 1 October 1864.  CMY's father [WCY](people/person_1631.qmd) had died in 1853.

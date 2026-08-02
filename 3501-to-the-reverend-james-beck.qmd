@@ -1,0 +1,45 @@
+---
+title: "To the Reverend James Beck"
+letter_iso_date: "1878-08-20"
+letter_date: "Aug 20th [1878 or later]"
+location: "Torre Villa Yealmpton"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3501
+letter_id: "to-the-reverend-james-beck"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend James Beck"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-08-20"
+  url: "https://cmyonge.github.io/letters/3501-to-the-reverend-james-beck"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 20th [1878 or later]  
+**From:** Torre Villa Yealmpton  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mr Beck](people/person_132.qmd)
+
+I hear that the Warden and the Echeverias have safely reached Otterbourne.[^1]
+
+Thank you very much for them
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: This was the home of Mary Yonge after her father’s death in August 1877.
+[^2]: The person most likely to be the one thanked here seems to be the Rev. James Beck (b. 1819/20), Rector of Parham, Sussex, and subsequently of Bildeston, Suffolk, who had married (1867) Caroline Jeannette (Bignell) Walter, stepmother of Gertrude Walter.  The 'Warden' was probably a pear tree.

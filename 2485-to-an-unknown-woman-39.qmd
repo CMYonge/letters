@@ -1,0 +1,37 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1873-12-15"
+letter_date: "Decr 15th 1873"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Columbia University Library, New York:  Ray Coll"
+post_id: 2485
+letter_id: "to-an-unknown-woman-39"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1873-12-15"
+  url: "https://cmyonge.github.io/letters/2485-to-an-unknown-woman-39"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 15th 1873  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Columbia University Library, New York:  Ray Coll
+:::
+
+Dear Madam
+I am much obliged in the name of the [Melanesian Mission](organizations/other_30.qmd) for your subscription, but I am afraid I must ask you to exchange it for one on Winchester as there is no money order office here and they will not cash it at Winchester
+
+Yours truly
+Charlotte Yonge

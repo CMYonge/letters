@@ -1,0 +1,47 @@
+---
+title: "To Mary Louisa Molesworth"
+letter_iso_date: "1886-10-08"
+letter_date: "Oct 8th 1886"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2842
+letter_id: "to-mary-louisa-molesworth"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Louisa Molesworth"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1886-10-08"
+  url: "https://cmyonge.github.io/letters/2842-to-mary-louisa-molesworth"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 8th 1886  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Mrs Molesworth](people/person_1028.qmd)
+
+I think [Felix](other_books/otherbook_998.qmd)can go into the December number as my [Ulysses](cmy_books/cmybook_185.qmd) finishes in November, and there will be the space it leaves, before another begins[^1] I have tried to keep down the serials this year to leave more room for selfcontained articles but it is very difficult.
+
+I will do my best to notice your books if I see them, but I cannot always mention a book as a matter of course because I am very anxious to keep to notices in the [Packet](organizations/other_52.qmd) of books for a definite purpose. Of all your books I liked best one of the [Summer stories](other_books/otherbook_1016.qmd), but I have been witheld [sic] from giving it to children by the eeriness of the Ghost, and I must own myself to be not <u>very</u> fond of the dreamy semi fairy tale nor of [Walter Crane](people/person_2366.qmd)’s drawings<sup>2</sup> 
+
+But I <u>do</u> like [<u>a charge fulfilled</u>](other_books/otherbook_1017.qmd) - and also the live [children lost in Paris](other_books/otherbook_1018.qmd) and the gypsy pair. But do you think children like phonetic spellings of their lispings? It seems to me to make their reading more difficult
+
+Pray forgive me
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Mary Louisa Molesworth,  ‘Felix, an outcast. (From the French of Madame de Pressense.)  *MP* 3s 12 (December 1886), 568-580. In the event, 'A Modern Quest of Ulysses' did continue into the December number, but they made room for 'Felix' anyway.

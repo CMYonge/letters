@@ -1,0 +1,46 @@
+---
+title: "To Anne Sturges Bourne"
+letter_iso_date: "1888-09-05"
+letter_date: "Sept 5th 1888"
+location: "Elderfield"
+manuscript: "MS Miss Barbara Dennis/6"
+post_id: 2890
+letter_id: "to-anne-sturges-bourne"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Sturges Bourne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1888-09-05"
+  url: "https://cmyonge.github.io/letters/2890-to-anne-sturges-bourne"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 5th 1888  
+**From:** Elderfield  
+**Manuscript:** MS Miss Barbara Dennis/6
+:::
+
+My dear [Miss Bourne](people/person_1379.qmd)
+
+Indeed I would gladly if I could, but months ago [Professor Freeman](people/person_523.qmd)asked me to come and see Hannah Mores villages, and hear his recollections of her, and the time has fixed itself for next week, and after that comes harvest - and dedication feasts - and Mission Guild meeting, and I am afraid I cannot do it  though I am very sorry not to see you again this year before you are shut up for the winter. If you were well enough I might manage a day or two later.  My [National Society](organizations/other_32.qmd)story I fancy you will like being the history of a young school mistress and pupil teachers.[^1]  We have just had a grand wedding here of [our master](people/person_1256.qmd)and [Alice Misselbrook](people/person_1257.qmd)after being infant mistress nine years.[^2]  She gives up which is better for him than for us and we are expecting her successor.
+
+Of worthy books, you should read [the Dragon of the North](other_books/otherbook_1062.qmd).  It is like a possible Fouqué
+
+your affectionate
+C M Yonge
+
+---
+
+[^1]: Silurian envelope addressed to 'Miss Sturges Bourne/ Crookham Knole/ Farnham' and postmarked Winchester 5 September 1888 and Farnham 6 September 1888.
+[^2]: This was CMY's *Our New Mistress, or, Changes at Brookfield Earl* (London, National Society 1888).
+[^3]: Alice Misselbrook, the mistress of Otterbourne Girls' School, married Alfred Rolfe, who taught the boys.

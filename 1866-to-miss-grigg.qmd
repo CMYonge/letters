@@ -1,0 +1,37 @@
+---
+title: "To Miss Grigg"
+letter_iso_date: "1862-06-25"
+letter_date: "June 25th 1862"
+manuscript: "MS Charlotte Mitchell"
+post_id: 1866
+letter_id: "to-miss-grigg"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Grigg"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-06-25"
+  url: "https://cmyonge.github.io/letters/1866-to-miss-grigg"
+---
+
+::: {.letter-metadata}
+**Date:** June 25th 1862  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+Dear [Miss Grigg](people/person_586.qmd), 
+
+I send a few papers with many thanks to you for dispersing them. [Miss Adams](people/person_15.qmd) and [her aunt](people/person_1870.qmd) are arriving today, and in all the troubles of getting into their house this afternoon.
+
+yours sincerely
+
+C M Yonge

@@ -1,0 +1,41 @@
+---
+title: "To Arthur John Butler"
+letter_iso_date: "1871-03-16"
+letter_date: "March 16th 1871"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Mrs Caroline Fairclough/25"
+post_id: 2402
+letter_id: "to-arthur-john-butler-12"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur John Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-03-16"
+  url: "https://cmyonge.github.io/letters/2402-to-arthur-john-butler-12"
+---
+
+::: {.letter-metadata}
+**Date:** March 16th 1871  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Mrs Caroline Fairclough/25
+:::
+
+My dear [Arthur](people/person_238.qmd)
+Arianwen means silver lady.  She was a Welsh saint and the name has never quite died out in Wales, so I suppose the girl has Welsh belongings of some sort. Arian rhod a silver bow is the rain bow, who scares away spirits of wrath there is a charming bit about her in old Davis’s [Celtic researches](other_books/otherbook_49.qmd) which nobody believes now.  Alas!  [Macmillan](people/person_939.qmd) took advice about the [School room magazine](organizations/other_69.qmd) till his heart failed him and he would not try it.  I think it is a pity, but those grand people must embark on a large scale if they do it at all.  And war literature has so filled the [Monthly Packet](organizations/other_52.qmd) that I have never had room for that chapter of [Polly](cmy_books/cmybook_348.qmd) all this time.[^1]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: Butler, who was the son of CMY's friend the Rev. W. J. Butler, Vicar of Wantage, shared her enthusiasm for etymology (expressed in her ground-breaking *History of Christian Names*, and collaborated with her on a series of articles in *MP* on comparative linguistics under the title 'Polyglot Parsing'.

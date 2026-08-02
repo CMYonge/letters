@@ -1,0 +1,39 @@
+---
+title: "To Miss Redgrave"
+letter_iso_date: "1860-11-04"
+letter_date: "Novr/ 4 [1860s?]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell."
+post_id: 19845
+letter_id: "to-miss-redgrave"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Miss Redgrave"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1860-11-04"
+  url: "https://cmyonge.github.io/letters/19845-to-miss-redgrave"
+---
+
+::: {.letter-metadata}
+**Date:** Novr/ 4 [1860s?]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+Dear [Miss Redgrave](people/person_2411.qmd)
+
+I enclose the Order with many thanks and apologies
+
+yours sincerely
+
+C M Yonge

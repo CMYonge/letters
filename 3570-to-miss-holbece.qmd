@@ -1,0 +1,42 @@
+---
+title: "To Helen Holbeche"
+letter_iso_date: "1862-02-13"
+letter_date: "Feb 13th [1862-3]"
+location: "Otterbourn"
+manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
+post_id: 3570
+letter_id: "to-miss-holbece"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Helen Holbeche"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1862-02-13"
+  url: "https://cmyonge.github.io/letters/3570-to-miss-holbece"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 13th [1862-3]  
+**From:** Otterbourn  
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+:::
+
+My dear [Miss Holbeche](people/person_2078.qmd),
+I send some stamps from a Miss Murray at Brighton for your poor blind friend, and by the same post your 13 copies of the [Last Heartsease Leaves](cmy_books/cmybook_45.qmd), with many thanks  for your kindness in disposing of them, I hope they will not prove so small as to be very disappointing
+
+With many thanks
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** The letter is evidently addressed to the author of 'Blindness: Its Trials and Blessings' *MP* (July 1861) 91-99.

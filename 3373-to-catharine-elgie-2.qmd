@@ -1,0 +1,39 @@
+---
+title: "To Catharine Elgie"
+letter_iso_date: "1898-03-15"
+letter_date: "March 15 [1898]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3373
+letter_id: "to-catharine-elgie-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Catharine Elgie"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1898-03-15"
+  url: "https://cmyonge.github.io/letters/3373-to-catharine-elgie-2"
+---
+
+::: {.letter-metadata}
+**Date:** March 15 [1898]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Mrs Elgie](people/person_475.qmd)
+There is a poor old surgeon of 80 for whom I have been voting for [sic]. If he is no more I will vote for [Annie Reynolds](people/person_2192.qmd) as I always think Winchester has the first claim
+
+[Caroline Ray](people/person_2190.qmd), [Charles](people/person_2111.qmd)’s eldest sister, who has spent her life in nursing invalid old gentlemen, and been well paid, takes Price’s shop, as soon as his nephew can sell off the remains
+
+Yours affly
+C M Yonge

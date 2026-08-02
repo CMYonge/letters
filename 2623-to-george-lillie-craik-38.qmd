@@ -1,0 +1,42 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1878-03-25"
+letter_date: "March 25th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 57"
+post_id: 2623
+letter_id: "to-george-lillie-craik-38"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-03-25"
+  url: "https://cmyonge.github.io/letters/2623-to-george-lillie-craik-38"
+---
+
+::: {.letter-metadata}
+**Date:** March 25th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 57
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+They have only sent me the first 19 columns of the [French primer](cmy_books/cmybook_353.qmd), which I had [illegible] and which only want a little correction of the [illegible]. What I want is the latter half which I know was once set up, but which has not been lengthened, as this earlier part has been
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

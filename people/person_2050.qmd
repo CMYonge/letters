@@ -1,0 +1,10 @@
+---
+title: "John Bewick"
+person_id: 2050
+---
+
+## Biographical Information
+
+engraver of <i>Blossoms of Morality</i>, brother of the engraver Thomas Bewick
+
+

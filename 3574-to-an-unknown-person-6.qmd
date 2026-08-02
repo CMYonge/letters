@@ -1,0 +1,40 @@
+---
+title: "To an unknown person"
+letter_iso_date: "1865-00-00"
+letter_date: "[1865]"
+manuscript: "MS fragment Charlotte Mitchell/13"
+post_id: 3574
+letter_id: "to-an-unknown-person-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an unknown person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-01-01"
+  url: "https://cmyonge.github.io/letters/3574-to-an-unknown-person-6"
+---
+
+::: {.letter-metadata}
+**Date:** [1865]  
+**Manuscript:** MS fragment Charlotte Mitchell/13
+:::
+
+. . . [Barnacle](organizations/other_89.qmd) article rather in the style of the Spring of the poets, and we wanted you to laugh with us.  I think you know the [Gatty](people/person_549.qmd)s, so I conclude you do not want an autograph from that quarter.
+
+I am glad [Dr Harris](people/person_629.qmd) was able to go to [George](people/person_625.qmd)’s wedding, but I shall be glad to hear that he is safe back again[^1]  Poor Hursley has been very forlorn all the winter but its [squire](people/person_669.qmd) came back last week, and its [Vicar](people/person_798.qmd) comes on the 10th
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Rev. Joseph Hemington Harris (1799/1800-1881), Vicar of Tor Mohun, Torquay, was married to Jane Yonge, sister of the Rev. John Yonge of Puslinch.  His son the Rev. George Collyer Harris (1833-1874) married Percy Primrose in London in 1865 (June 1865).

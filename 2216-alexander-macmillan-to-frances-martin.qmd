@@ -1,0 +1,39 @@
+---
+title: "Alexander Macmillan to Frances Martin"
+letter_iso_date: "1867-11-11"
+letter_date: "Nov: 11.1867."
+manuscript: "Copy outletter book British Library Add MSS.55387 (1) P. 670"
+post_id: 2216
+letter_id: "alexander-macmillan-to-frances-martin"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "Alexander Macmillan to Frances Martin"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-11-11"
+  url: "https://cmyonge.github.io/letters/2216-alexander-macmillan-to-frances-martin"
+---
+
+::: {.letter-metadata}
+**Date:** Nov: 11.1867.  
+**Manuscript:** Copy outletter book British Library Add MSS.55387 (1) P. 670
+:::
+
+Dear [Miss Martin](people/person_971.qmd), 	
+[I](people/person_939.qmd) have read through Miss Yonge’s “<u>[Pupils](cmy_books/cmybook_72.qmd)</u>” yesterday. It really is not satisfactory as regards the earlier part but what is one to do under the circumstances?[^1] There is much that is really very fine and especially in the latter part just as well done as it could be. So we must go on. It has occurred to me while reading the extracts from the letters that a complete translation of them might be given at the end. What do you think? It would at least help to fill up and be really interesting. For [*illegible*] I want all of those 120pp. Is there anything in them that seems to you of importance to be altered? Nothing strikes me.
+
+Yours ever faithfully
+A. Macmillan
+
+---
+
+[^1]: Frances Martin was the editor of [Macmillan's Sunday Library](organizations/other_145.qmd).

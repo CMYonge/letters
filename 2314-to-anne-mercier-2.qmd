@@ -1,0 +1,41 @@
+---
+title: "To Sarah Anne Mercier"
+letter_iso_date: "1869-04-01"
+letter_date: "April 1st [1869]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection, CO171"
+post_id: 2314
+letter_id: "to-anne-mercier-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Sarah Anne Mercier"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-04-01"
+  url: "https://cmyonge.github.io/letters/2314-to-anne-mercier-2"
+---
+
+::: {.letter-metadata}
+**Date:** April 1st [1869]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171
+:::
+
+Dear [Mrs Mercier](people/person_990.qmd)
+As [Madame Melon](people/person_2031.qmd) says SHE has not written to you I enclose her note that you may see how the matter stands. I hope she will have a satisfactory answer about the Grand Bienfacteur
+
+Yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

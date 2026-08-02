@@ -1,0 +1,43 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1872-12-28"
+letter_date: "Innocents day [28 December 1872]"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2466
+letter_id: "to-christabel-rose-coleridge-78"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1872-12-28"
+  url: "https://cmyonge.github.io/letters/2466-to-christabel-rose-coleridge-78"
+---
+
+::: {.letter-metadata}
+**Date:** Innocents day [28 December 1872]  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+
+Thanks for the grand faithful [Gosling](organizations/other_104.qmd) card, which is capital. These two Escorials are all that Goosedom has produced[^1] I never expected any thing of it at Christmas They both seem to be of the childish good kind. No, I have not seen [Garnstone](other_books/otherbook_832.qmd). [Warne](people/person_1433.qmd) is not very liberal of his books. I don’t know what school children would do but for the happy dispensation that makes their own people prefer them to all others! Our mistress is I believe to visit a friend in your parish next week. I can’t say I prefer her to all others! She is quite devoid of the moral influence [her predecessor](people/person_1178.qmd) had
+
+your affectionate
+C M Yonge
+
+[Florence Wilford](people/person_1520.qmd)’s [Aunt](people/person_384.qmd) died on Monday-
+
+---
+
+[^1]: The paper has an ornamental decoration: 'Dear Friend Accept This CHRISTMAS Greeting Heart with Heart in Memory Meeting'.
+[^2]: The Goslings had been asked to write an essay on ‘The history of the Escorial’, a theme proposed by Pixie (CMY to Mary Fursdon, 15 November 1872)

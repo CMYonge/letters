@@ -1,0 +1,41 @@
+---
+title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+letter_iso_date: "1890-02-00"
+letter_date: "[February 1890]"
+manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (February 1890) 23."
+post_id: 9418
+letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-02-01"
+  url: "https://cmyonge.github.io/letters/9418-to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+---
+
+::: {.letter-metadata}
+**Date:** [February 1890]  
+**Manuscript:** MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (February 1890) 23.
+:::
+
+THE WOMEN’S REBELLION
+
+Dear Madam,-
+In the criticism of the Christmas number of the [*Monthly Packet*](organizations/other_52.qmd), [‘The Women's Rebellion’](other_books/otherbook_435.qmd) is said to be incorrect because parish priests are always secular clergy.[^1] What may have been the ecclesiastical arrangements I do not know, but the [author](people/person_198.qmd), who well knows the north of Italy, has seen several parishes in charge of Capuchin friars; for instance Bordighiera. The incident really happened.
+
+I remain, &amp;c.,
+C.M. Yonge.
+
+---
+
+[^1]: This letter is followed on the same page with a letter headed 'AN APOLOGY' and signed 'Your penitent Reviewer'. The author says she consulted 'two Roman Catholics, a Frenchwoman and an Italian,' who both 'held my view', but admits that 'as facts are \\"stubborn things,\\" we are obviously as wrong as the authoress of the Women’s Rebellion is right.'

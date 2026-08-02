@@ -1,0 +1,78 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-03-11"
+letter_date: "March 11th 1864"
+location: "Elderfield Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920:"
+post_id: 1944
+letter_id: "to-alexander-macmillan-15"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-03-11"
+  url: "https://cmyonge.github.io/letters/1944-to-alexander-macmillan-15"
+---
+
+::: {.letter-metadata}
+**Date:** March 11th 1864  
+**From:** Elderfield Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920:
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+I sent the [drawing](organizations/other_167.qmd) by the train yesterday. It was very dull of me not to have seen that it was a drawing. Our only other criticism is that a touch or two might make the [little Duke](cmy_books/cmybook_20.qmd)’s limbs more child like.
+
+As a matter of fact I believe the Normans did not wear beards, but I only found this out long after the book was out, so book and beard must both stand as they are much to the advantage of the picturesque.
+
+I add the list of people to whom I should like copies of the <u>[Trial](cmy_books/cmybook_53.qmd)</u> to be sent. If it comes out during the Easter recess however that first copy in the list should come with mine instead of going to Victoria Street
+
+Yours faithfully
+C. M. Yonge		
+
+[Sir William Heathcote](people/person_669.qmd) Bart M P
+91 Victoria Street
+
+[Mrs Pode](people/person_1180.qmd)
+3 Craven Place
+Westbourne Terrace
+
+The[London Library](organizations/other_29.qmd)
+12 St James’s Street
+
+[Miss Coleridge](people/person_351.qmd)
+Heaths Court
+Ottery St Mary
+
+Miss [Frances Patteson](people/person_1151.qmd)
+Weston
+St Mary Church
+Torquay
+
+Miss [Anne Yonge](people/person_1582.qmd)
+Puslinch
+Yealmton 
+
+[Mrs Wilson](people/person_1540.qmd)
+Broomfield
+Davidson’s Mains
+Edinburgh
+
+6 copies to myself[^1]
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Another hand has written ‘6 by rail’ across the top left corner.
+
+<br/

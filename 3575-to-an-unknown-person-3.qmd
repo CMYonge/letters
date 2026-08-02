@@ -1,0 +1,41 @@
+---
+title: "To an Unknown Person"
+letter_iso_date: "1892-00-00"
+letter_date: "[after 1892]"
+location: "70 Kensington Gardens Square"
+manuscript: "MS Charlotte Mitchell/20"
+post_id: 3575
+letter_id: "to-an-unknown-person-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Person"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-01-01"
+  url: "https://cmyonge.github.io/letters/3575-to-an-unknown-person-3"
+---
+
+::: {.letter-metadata}
+**Date:** [after 1892]  
+**From:** 70 Kensington Gardens Square  
+**Manuscript:** MS Charlotte Mitchell/20
+:::
+
+Dear Madam
+I shall be out all day tomorrow, and from 11 o’clock both Friday and Saturday, and I go away on Saturday so I hardly like to propose your taking the trouble of calling so early
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

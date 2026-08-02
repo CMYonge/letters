@@ -1,0 +1,48 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1855-03-22"
+letter_date: "March 22d [1855]"
+location: "Otterbourn"
+manuscript: "MS West Devon Record Office Acc 1092/11"
+post_id: 3061
+letter_id: "to-anne-yonge-33"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1855-03-01"
+  url: "https://cmyonge.github.io/letters/3061-to-anne-yonge-33"
+---
+
+::: {.letter-metadata}
+**Date:** March 22d [1855]  
+**From:** Otterbourn  
+**Manuscript:** MS West Devon Record Office Acc 1092/11
+:::
+
+My dear [Anne](people/person_1582.qmd)
+It is a relief every time your letters are opened to see the [sic] at least not worse, and it is cheering that they go at the best time of the day, but one feels half sick to know that the afternoon did not bring a return of that terrible suffering.  [Julian](people/person_1624.qmd) is intending to go and get the letters today, but if the terrible weather lasts he cannot attempt it, as he has a sore throat.  We thought much last night whether you were dreading the blasts of that roaring wind, and all the clattering sounds it would produce about the house interfering with the chances of sleep.  I am afraid your lodge outside the door is very cold. I can see you sitting there in your little checkey shawl.  I hope [Mary](people/person_1626.qmd) has been able to have some peaceful rest today.  [John](people/person_1619.qmd) and [Cordelia](people/person_1590.qmd) talk of coming here on Saturday, if accounts are better, but I almost fear that today’s must have decided them on coming home.[^1]  I suppose it will all depend on what they may hear this morning and we this afternoon.
+
+Meanwhile the Miss Palmers are really coming to spend to night here, the [Bishop](people/person_1295.qmd) and [Mrs Selwyn](people/person_1297.qmd) going to Hursley, where [Mrs Keble](people/person_795.qmd) is well enough to see a little of them in quiet in the evening, and [Mr Keble](people/person_798.qmd) has asked us to breakfast tomorrow morning, which I am sorry to say [Mamma](people/person_1606.qmd) calls ‘figuring’ and will not do, though if the weather is respectable she will walk over to the morning service.  The Southern Cross is to be well tried, and if pronounced sea worthy is to follow with the crew.  [Mary Coleridge](people/person_351.qmd) says Lloyd will not insure her under 4 times the amount, so I think it is a great escape.  The D of Portland sails on the 27th under a penalty of £5 for every day’s delay.  It seems that till he saw his way home the Bishop could turn to nothing else, and so could make no engagements, and hardly any visits.  [Mrs Abraham](people/person_3.qmd) has had my Winchester letter.  I suppose we shall hear much from the Palmers.[^2]  Mamma’s head ached yesterday, but not immoderately, and she seems to be rising in spirit for the turmoil today.  The [Dogmersfield](organizations/other_121.qmd) people were very sorry to miss you, and all seemed well for them.  [Marianne](people/person_464.qmd) has lent Mamma some more of her mother’s papers[^3]
+
+5 o’clock.  Julian has brought your note back.  I still send you my letter of today, because you say you like to hear of our doings, but it is with a very sore heart, and you may believe how much our thoughts are with you.  I am afraid John will not come now, indeed I can hardly hope it.  I know that help and comfort will be sent to you, as they have been before, but I cannot say any more, one knows not how it may be when you have this.  Only blessing and peace there must be for one ever so patient and submissive
+
+your most affectionate
+CMY
+
+---
+
+[^1]: Black-edged paper.
+[^2]: John Bargus Yonge (1821-1863), Anne’s elder brother, and his wife Cordelia Hay.  The letter refers to the illness of their sister [Jane Duke Yonge](people/person_1616.qmd) (1820/1-27 March 1855).
+[^3]: [Louisa](people/person_1131.qmd) and [Mary Anne Palmer](people/person_1132.qmd) were Mrs Abraham’s sisters and Mrs Selwyn’s first cousins, and were therefore up on New Zealand affairs.
+[^4]: Some of the papers of  Mary Anne Dyson’s mother and namesake were published as *Memorials of a Departed Friend* (1833).

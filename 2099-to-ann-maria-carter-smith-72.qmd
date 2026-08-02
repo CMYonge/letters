@@ -1,0 +1,39 @@
+---
+title: "To Ann Maria Carter Smith"
+letter_iso_date: "1866-01-22"
+letter_date: "Jan 22nd [1866]"
+manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1866/ 1"
+post_id: 2099
+letter_id: "to-ann-maria-carter-smith-72"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ann Maria Carter Smith"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-01-22"
+  url: "https://cmyonge.github.io/letters/2099-to-ann-maria-carter-smith-72"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 22nd [1866]  
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1866/ 1
+:::
+
+My dear [Miss Smith](people/person_263.qmd)
+Here is for [Georgie](other_books/otherbook_379.qmd) who really has been a most brilliant and successful story that every body has liked. I wonder when you will have another such to send me. It is a long time since I have heard of you, but I hope you have been well. This has been a sad winter in many ways.
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to Miss Carter Smith/ 8 Wellington Road/ Old Charlton SE and postmarked indistinctly Winchester 23 January 1866 and London SE.

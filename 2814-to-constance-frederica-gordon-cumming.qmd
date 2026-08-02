@@ -1,0 +1,45 @@
+---
+title: "To Constance Frederica Gordon Cumming"
+letter_iso_date: "1885-09-19"
+letter_date: "Sept 19th [1885]"
+location: "Elderfield"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2814
+letter_id: "to-constance-frederica-gordon-cumming"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Constance Frederica Gordon Cumming"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-09-19"
+  url: "https://cmyonge.github.io/letters/2814-to-constance-frederica-gordon-cumming"
+---
+
+::: {.letter-metadata}
+**Date:** Sept 19th [1885]  
+**From:** Elderfield  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Miss Gordon Cumming](people/person_571.qmd)
+
+Thank you so very much for the photos, I am very glad to have it. I am afraid this is no return, as it was taken from a not very good picture. [Bassano’](people/person_2361.qmd)s negatives are used up and he has been intreating me to come again- but I have not been in London for two years.[^1] If ever we are there at the same time, I do hope we may get beyond photographs.
+
+Yes, I look at the [Mungoose](other_books/otherbook_990.qmd) & consider of him, but I am afraid I must finish off other things before Christmas which have got into type by a sort of mistake for the Christmas number.[^2] I had a scolding about it from the publisher and must appease him.
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Alexander Bassano (1829-1913), a London photographer.
+[^2]: C. F. Gordon Cumming, ‘The Rabbit Plague in Australasia’ *MP* 3s 12 (July 1886), 58-69, discusses the possibility that the introduction of the mongoose might control the rabbits.

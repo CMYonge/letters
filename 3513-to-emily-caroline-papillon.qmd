@@ -1,0 +1,40 @@
+---
+title: "To Emily Caroline Papillon?"
+letter_iso_date: "1870-01-18"
+letter_date: "[probably late January ?1870s]"
+manuscript: "MS fragment Mitchell Library, Sydney. Autograph letters collected by Sir Henry Parkes, 1862-1888. (Microfilmed Dec 1995. Reel CY3430.)"
+post_id: 3513
+letter_id: "to-emily-caroline-papillon"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Emily Caroline Papillon?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1870-01-01"
+  url: "https://cmyonge.github.io/letters/3513-to-emily-caroline-papillon"
+---
+
+::: {.letter-metadata}
+**Date:** [probably late January ?1870s]  
+**Manuscript:** MS fragment Mitchell Library, Sydney. Autograph letters collected by Sir Henry Parkes, 1862-1888. (Microfilmed Dec 1995. Reel CY3430.)
+:::
+
+. . . Kensington. I have just been having the account of the labours of Boxing day when from 2.30 to 12.30 at night there had to be one incessant round of diversions to keep the girls out of mischief. No wonder she finishes her letter by saying she can only feel thankful when Christmas is over. I directed a lady the other day to find out about the G W H S, for her London parish. I wonder whether it came to anything
+
+My love to [Muriel](people/person_1137.qmd) and thanks for her card
+
+Yours affectionately
+C M Yonge
+
+---
+
+**Note:** Perhaps addressed to [Emily Caroline (Garnier) Papillon](people/person_1136.qmd), the mother of CMY's goddaughter Muriel Papillon (b.1867).

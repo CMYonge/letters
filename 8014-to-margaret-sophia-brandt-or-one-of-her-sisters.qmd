@@ -1,0 +1,41 @@
+---
+title: "To Margaret Sophia Brandt or one of her sisters"
+letter_iso_date: "1865-01-21"
+letter_date: "Jany 21st [1865]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Dr Susan Walton"
+post_id: 8014
+letter_id: "to-margaret-sophia-brandt-or-one-of-her-sisters"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Sophia Brandt or one of her sisters"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-01-21"
+  url: "https://cmyonge.github.io/letters/8014-to-margaret-sophia-brandt-or-one-of-her-sisters"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 21st [1865]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Dr Susan Walton
+:::
+
+My dear [Madam](people/person_1898.qmd)
+I am much obliged for the very interesting [account](other_books/otherbook_355.qmd) of the terrible cyclone. Don’t you think one might have the official account of your [brother](people/person_1896.qmd)’s conduct with the 'butter' – it would surely not be a breach of confidence.[^1] I shall be very glad to put the whole in as soon as I can.
+
+Yours very truly
+C M Yonge
+
+---
+
+[^1]: The article on the cyclone at Masulipatam is described in letters from the assistant collector there, Francis Brandt.  This letter is evidently to one of his three sisters, and has arbitrarily been assigned to the eldest, though it may equally have been addressed to [Emily Charlotte Brandt](people/person_1897.qmd) or [Margaret Adelaide Brandt](people/person_1899.qmd) (it seems odd but he did have two sisters whose first name was Margaret).  The 'butter' was the official commendation of Brandt's conduct.

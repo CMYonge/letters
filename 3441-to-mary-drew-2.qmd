@@ -1,0 +1,60 @@
+---
+title: "To Mary Drew"
+letter_iso_date: "1900-02-01"
+letter_date: "Feb 1st [1900]"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library: Mary Gladstone Papers. Add MSS 46252: 6-7."
+post_id: 3441
+letter_id: "to-mary-drew-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Drew"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-02-01"
+  url: "https://cmyonge.github.io/letters/3441-to-mary-drew-2"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 1st [1900]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library: Mary Gladstone Papers. Add MSS 46252: 6-7.
+:::
+
+Dear [Mrs Drew](people/person_443.qmd),
+I am almost certain that the [Little Duke](cmy_books/cmybook_20.qmd) and the [Lances of Lynwood](cmy_books/cmybook_23.qmd) are published in chapter form for school children’s reading and our schoolmistress told us she had seen [Kenneth](cmy_books/cmybook_10.qmd) advertised as abridged for School reading - I know [Arnold](people/person_2211.qmd) wrote to me for permission and I told him he might use it, if he could arrange with [Parker of Oxford](people/person_1142.qmd), who published it when I knew nothing of arrangements.[^1] [Macmillan](organizations/other_111.qmd) has all the rest; I have made some attempts to get them reduced but the Daisy Chain [Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd) was published at /6 and they will reduce no more unless 50,000 are ordered, so I fear nothing can be done.
+
+The [National Society](organizations/other_32.qmd) might make its reward books cheaper - it has a good many historical tales of mine.
+
+Certainly that catalogue of reward books must have been constructed on considered principles. Nevertheless a shop girl told Christabel Coleridge that the two books which had done her the most good in her life were [‘Cometh up as a flower’](other_books/otherbook_757.qmd) and [‘the Daisy Chain’](cmy_books/cmybook_24.qmd)[^2]
+
+I hope your little girl is arriving at recovery rapidly
+
+The books that my 10 and 9 years old grand nephew and niece[^3] have liked best lately have been
+
+[Little King Richard](other_books/otherbook_759.qmd) (SPCK)
+[Heidi](other_books/otherbook_760.qmd) / translated from German of Mme Spyri
+[Stories from Froissart](other_books/otherbook_761.qmd) /Wells Gardiner
+Sylvia in Flowerland by Linda Gardiner (Seeley)
+
+Also a [book of Agnes Giberne’s](other_books/otherbook_763.qmd) explaining common facts - capillary attraction and the like, but I  cannot remember the name<sup>4</sup> Also [a Brave Girl](other_books/otherbook_758.qmd)(SPCK) is a very pretty story in the Indian Mutiny and ends well
+
+Did you send me a paper to be signed for I never found it?
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: See the letter to Macmillan (3 March 1899).
+[^2]: Rhoda Broughton. *Cometh up as a Flower: An Autobiography* (London: Richard Bentley 1867), notorious when it first came out for its discussion of sex;  the anecdote must have been recounted as a joke.
+[^3]: [Reginald](people/person_189.qmd) and [Cicely Bowles](people/person_183.qmd).

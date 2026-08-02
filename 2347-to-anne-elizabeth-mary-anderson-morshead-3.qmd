@@ -1,0 +1,49 @@
+---
+title: "To Anne Elizabeth Mary Anderson Morshead"
+letter_iso_date: "1869-10-08"
+letter_date: "October 8, 1869."
+location: "Elderfield"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 332-3"
+post_id: 2347
+letter_id: "to-anne-elizabeth-mary-anderson-morshead-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Elizabeth Mary Anderson Morshead"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-10-08"
+  url: "https://cmyonge.github.io/letters/2347-to-anne-elizabeth-mary-anderson-morshead-3"
+---
+
+::: {.letter-metadata}
+**Date:** October 8, 1869.  
+**From:** Elderfield  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 332-3
+:::
+
+My dear [Mary](people/person_28.qmd)
+It seems as if all of the letters one wrote to you began with sorrow, for now six weeks nearly after that great blow at Puslinch, it still seems as if it had but first happened. I thought of you at once, for I think you were one who very much loved and looked up to [her](people/person_1582.qmd), and to whom she had put out a great deal of her power of sympathy, as I am sure you took up a great deal of her thoughts. What a comfort it is that one can give thanks for those departed in faith and fear; one feels it more when so many of those one mentioned in early life are gone ‘behind the veil.’[^1] [Miss Arthur](people/person_65.qmd) has sent me your letter of introduction, so I wrote to her that I hoped she would let me know if she was coming to [Miss Mackenzie](people/person_930.qmd), but Miss M. is from home now. You will have heard of her begging for extracts from your letters, they have been so kind as to copy out some from [*sic*] the *[Net](organizations/other_94.qmd)*.[^2] Tell [Edith Crawley](people/person_382.qmd) that I am going to [Tyntesfield](organizations/other_207.qmd) next week, and the week after to Church Crookham, and then I go to London for a day to see [Dr. Moberly](people/person_1015.qmd)’s consecration. We are very happy in some of our new Bishops, our own selves especially and Oxford.[^3] I wish I knew any ladies to send you, but everybody seems to have some work of their own, or else is not allowed.[^4]
+
+I am printing the[Catechism](cmy_books/cmybook_253.qmd) from the [monthly paper](organizations/other_81.qmd) separately, but I had not thought of the lessons for small children.[^5] I believe it is a bad time for publishing, it is difficult to stir printers up to do anything one wants. Since my last letter to you I have been seeing Paris; I found my preconceived notions upset, I admired Notre Dame a great deal more than I expected, the solemnity of the five aisles is so great, and the Ste. Chapelle disappointed me - I think it has never been reconsecrated since Marat had his orgies there, and though it is splendidly repainted there is no altar, and it is only used for Gape Seed.[^6] The grand St. Michael[^7] at the Louvre, and [Marie Antoinette](people/person_2417.qmd)’s cell at the Conciergerie were the two things that I cared for most. So much of the old is taken away that there are few really historical bits, even the place where the Swiss Guard fought is gone, though at Versailles we did see Marie Antoinette’s balcony, and the door Madame Anguier defended. Versailles oppressed me like a great terrible tragedy, between the guilt there and the doom upon it. Your letter came while I was abroad, I found it on my return.
+
+Your affectionate cousin
+C. M. Yonge
+
+---
+
+[^1]: *i.e*. all those for whom she was accustomed to pray as a little girl: her parents, her Puslinch cousins, etc..
+[^2]: The obscurity of this sentence could come from a mistranscription of  'for' as 'from'.
+[^3]: The new bishops of Winchester and Oxford were respectively [Samuel Wilberforce](people/person_1517.qmd) and [John Fielder Mackarness](people/person_926.qmd).
+[^4]: Anderson Morshead had evidently asked for women volunteers to help with the missionary work she was doing in South Africa.
+[^5]: Possibly the material subsequently printed as *Teachings on the Catechism for the Little Ones* (1886).
+[^6]: A colloquial term describing the attitude of ignorant or sensation-seeking tourists.
+[^7]: Raphael's picture of St. Michael slaying the devil is still in the Louvre and illustrated on the site www.louvre.fr

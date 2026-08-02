@@ -1,0 +1,43 @@
+---
+title: "To Augusta Boevey Pode"
+letter_iso_date: "1877-08-19"
+letter_date: "Aug 19th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Plymouth and West Devon Area Record Office Ac 1092/31"
+post_id: 2595
+letter_id: "to-augusta-boevey-pode"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Augusta Boevey Pode"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-08-19"
+  url: "https://cmyonge.github.io/letters/2595-to-augusta-boevey-pode"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 19th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Plymouth and West Devon Area Record Office Ac 1092/31
+:::
+
+My dear [Augusta](people/person_1180.qmd)
+
+It is a long time since I heard of you and almost as long since I heard of [Kate](people/person_899.qmd), and I am anxious to know how she got on this summer   I hope [Ernest](people/person_1183.qmd) is quite well after his chicken pox.  I went about looking for him at Domum till I met [Mrs Morshead](people/person_2084.qmd) and she told me he was gone home.  The only Saints day that they did not have him at the other house, I was obliged to go to a meeting of the [Girls Friendly Society](organizations/other_23.qmd)so I have not seen very much of him this half.[^1] [Gertrude](people/person_1462.qmd) has been off and on poorly this summer, but she is now gone to her friends at Winston and is to come back on Saturday.  I am afraid things are closing in at Puslinch.[^2]  Every letter of [Mary](people/person_1626.qmd)’s tells of greater weakness than the last, and I hardly think there can be any rally.  It is like watching an old tree come down after it has sheltered one all ones life.  [Arty](people/person_1607.qmd) has just brought me my letters from Winchester, and here is one from Kate herself.  Only think of her being out once more.  How wonderful it is!  I wonder if she will get to you.
+
+your affecte cousin
+C M Yonge
+
+---
+
+[^1]: Augusta (Crawley) Pode and her elder sister Kate (Crawley) Low, were CMY's first cousins.  The former's eldest son Ernest was a schoolboy at Winchester College, which explains why he was invited to spend his free saints' days at Otterbourne either with Julian Yonge's family or with CMY.
+[^2]: CMY's uncle the Rev. [John Yonge](people/person_1623.qmd) of Puslinch was in poor health and died on 23 August 1877.

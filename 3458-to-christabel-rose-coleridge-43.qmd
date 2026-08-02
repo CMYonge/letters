@@ -1,0 +1,41 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1900-05-12"
+letter_date: "May 12 [1900]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/95"
+post_id: 3458
+letter_id: "to-christabel-rose-coleridge-43"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-05-12"
+  url: "https://cmyonge.github.io/letters/3458-to-christabel-rose-coleridge-43"
+---
+
+::: {.letter-metadata}
+**Date:** May 12 [1900]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/95
+:::
+
+My dear [C C](people/person_329.qmd) 
+I have got a letter for [M in C](organizations/other_82.qmd) from [Canon Lias](people/person_227.qmd) about [Red Pottage](other_books/otherbook_768.qmd), highly contrary to yours, and which the Sumners approve  He goes on the unfitness of such subjects for women’s writing or reading, and certainly I should have thought ‘incline mine heart to keep this law’ went against either inventing or making people read them and so do you-  At least I recognize you as Undine  You will think I am very hard on your friends but at any rate we are perfectly agreed about [Mary Bramston](people/person_198.qmd), and I have been obliged to write an article about Higher Criticism and the Dawn of Revelation  [Mrs Sumner](people/person_1381.qmd) and the Council were at it yesterday at Westminster  I have not heard about them yet, the [Bishop of G](people/person_1382.qmd) could not go, having broken the bones of his wrist, falling down from catching his foot in a mat inside the transept door of the Cathedral.
+
+I really think I am quite well now, as I don’t get tired with ordinary walks.  Everything is splendid, such dainty young green, such apple blossom, and my round tall clump has a circle of forget me nots like a giant Christmas card
+
+your affte
+C M Yonge
+
+I profited by your advice to make [my missionary](cmy_books/cmybook_250.qmd)s mother marry again.  He is just going to [St Augustines](organizations/other_13.qmd).  He will go to China and be well out of your man’s way

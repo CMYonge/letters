@@ -1,0 +1,43 @@
+---
+title: "To Earl Nelson"
+letter_iso_date: "1900-04-14"
+letter_date: "April 14th 1900"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3452
+letter_id: "to-earl-nelson"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Earl Nelson"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-04-14"
+  url: "https://cmyonge.github.io/letters/3452-to-earl-nelson"
+---
+
+::: {.letter-metadata}
+**Date:** April 14th 1900  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+My dear [Lord Nelson](people/person_1081.qmd)
+I have been thinking of writing to you ever since I saw this grievous loss in the paper, and Easter eve seems to bear it the more in upon me, for surely no one can be more at peace in the home consecrated by this day than [that gentle dutiful spirit](people/person_164.qmd).[^1] I remember her ever since she was a little thing of four or five years old in her striped frock, and ever since it has been a great pleasure to see her whenever we met at our various functions at Winchester and Southampton; and to hear of everyone - recollecting the old friendship of our mothers, and the days of Brickworth. I can hardly believe that I shall never meet her bright eyes again, and I do not know how to think of [Mr Blunt](people/person_2077.qmd) and the desolation of the happy home.
+
+[Jane Montgomery Moore](people/person_1042.qmd) wrote to me from Ramsgate otherwise I have heard nothing. At our age we seem to be ‘in the front’ with the comrades of our lives dropping fast away
+
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: This is a letter of condolence on the death of his sister Lady Susan Blunt.

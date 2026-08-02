@@ -1,0 +1,46 @@
+---
+title: "To the Reverend Orby Shipley"
+letter_iso_date: "1865-12-29"
+letter_date: "Decr 29th 1865"
+location: "Elderfield"
+manuscript: "Princeton University, Parrish Collection, C0171: Box 29"
+post_id: 2092
+letter_id: "to-the-reverend-orby-shipley"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend Orby Shipley"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-29"
+  url: "https://cmyonge.github.io/letters/2092-to-the-reverend-orby-shipley"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 29th 1865  
+**From:** Elderfield  
+**Manuscript:** Princeton University, Parrish Collection, C0171: Box 29
+:::
+
+My dear [Mr Shipley](people/person_1315.qmd),
+I am afraid that such an awful subject would not suit with anything so light as the [Monthly Packet](organizations/other_52.qmd), and that I had therefore better return it which I will do the next time I send into Winchester, I send you the prospectus of a cheap [missionary magazine](organizations/other_94.qmd), which [Miss Mackenzie](people/person_930.qmd) hopes to make very interesting
+
+Yours sincerely
+C M Yonge
+
+*[In different handwriting on the second half of the sheet]*
+
+Dear Mr Bramley
+I am very sorry for this Suppose you write to the [Churchman Family](organizations/other_63.qmd) (Bride’s Avenue, Fleet St, Hogg & Son) by <u>return</u> of <u>post</u> & offer the MS - say it is suitable for Lent & <u>must</u> appear then V. Orby Shipley
+
+---
+
+**Note:** *The Net Cast in Many Waters: Sketches from the Life of Missionaries*, a missionary magazine edited by Anne Mackenzie and published annually from 1866 to 1896.

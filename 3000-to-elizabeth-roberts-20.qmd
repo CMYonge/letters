@@ -1,0 +1,49 @@
+---
+title: "To Elizabeth Roberts"
+letter_iso_date: "1852-10-04"
+letter_date: "Oct 4th [1852]"
+location: "Malvern"
+manuscript: "MS Huntington Library: Yonge Letters"
+post_id: 3000
+letter_id: "to-elizabeth-roberts-20"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Roberts"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1852-10-04"
+  url: "https://cmyonge.github.io/letters/3000-to-elizabeth-roberts-20"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 4th [1852]  
+**From:** Malvern  
+**Manuscript:** MS Huntington Library: Yonge Letters
+:::
+
+My dear [Madam](people/person_1243.qmd)
+I cannot deprive myself of the pleasure of telling you if you have not seen it yet, to look at the Notice of the [Garland](other_books/otherbook_225.qmd) for the year in the [Christian Remembrancer](organizations/other_59.qmd), I received it yesterday, and was very much pleased with it.
+
+I have, like you had a fortnight’s illness & idleness, ending in a holiday to visit some merry cousins here.[^1] This morning I have had the great pleasure of a good look over Worcester Cathedral, I cannot think it equal to Winchester or Salisbury, but there are some most interesting monuments, the good Bishop Wulstan especially delighted me, and the Saints and heraldic devices on Prince Arthur’s occupied us a long time. I am sorry it is too late to botanize here, I hear such an account of the flowers. We leave this place on Thursday, and if in the course of the week after you are kind enough to send any additional flowers, please to direct to me at the 
+
+Revd [Charles Dyson](people/person_461.qmd)’s
+Dogmersfield Rectory
+Winchfield
+
+The letters are called for
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: A reference (14 Dec 1853) to the good [Edmund Colborne](people/person_322.qmd) had gained at Malvern suggests the possibility that all the Colbornes had gathered there.

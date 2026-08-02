@@ -1,0 +1,49 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1876-03-03"
+letter_date: "March 3d 1876"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. MSS. Autogr.  d. 33 ff 245-6"
+post_id: 2546
+letter_id: "to-elizabeth-missing-sewell-22"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-03-01"
+  url: "https://cmyonge.github.io/letters/2546-to-elizabeth-missing-sewell-22"
+---
+
+::: {.letter-metadata}
+**Date:** March 3d 1876  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MSS. Autogr. MSS. Autogr.  d. 33 ff 245-6
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+
+There is only one chapter of [Heartsease a conversation](cmy_books/cmybook_45.qmd). It was privately printed twice, and now people are always asking for it, so I am going to put it into the June [Monthly Packet](organizations/other_52.qmd) though I do not think it is at all worth all the curiosity about it[^1]
+
+The publisher sent me [Miss Owen](people/person_1110.qmd)’s book just in time for me to answer a person who wrote to enquire whether the chapters were  separately published. I will certainly mention it
+
+I am afraid I have no autograph of [bishop Patteson](people/person_1155.qmd)s that I could cut off, his letters all being closely written there is no cutting one off, and as our correspondence did not begin  till he was in New Zealand I have no notes, so that I am unable to find one for you
+
+With my kind regards to [Miss Janetta](people/person_1305.qmd)
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: This was the additional chapter of *Heartsease* which explained what happened to the characters.
+[^2]: A. C. Owen, who had contributed articles on 'Christian Art' to *MP* in 1874-5, had just published *The Arts Schools of Mediæval Christendom* edited by John Ruskin (London: Mozley & Smith 1876). He had commended the volume of *MP* containing these articles in a lecture later published in his *The Pleasures of England* (1884).  CMY does not seem to have recommended it in *MP*, however.

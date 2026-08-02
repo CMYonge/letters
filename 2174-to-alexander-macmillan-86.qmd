@@ -1,0 +1,49 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1867-06-10"
+letter_date: "Whit Monday [10 June]1867"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 176-177"
+post_id: 2174
+letter_id: "to-alexander-macmillan-86"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-06-10"
+  url: "https://cmyonge.github.io/letters/2174-to-alexander-macmillan-86"
+---
+
+::: {.letter-metadata}
+**Date:** Whit Monday [10 June]1867  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 176-177
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd),
+Thanks for the books which the carrier will probably bring today. I will betake myself to [St John’s pupils](cmy_books/cmybook_72.qmd) at once, though it is rather a sudden change from the banks of the Granicus, where I left Alexander.[^1]
+
+And there is another thing that I should like to know ie - the [sum](organizations/other_160.qmd) that will come to me both for the Pupils of St John and the [Danvers Papers](cmy_books/cmybook_63.qmd). The reason I ask is this, I am much interested in a [Church](organizations/other_188.qmd) that has been made necessary by the encrease of population at the Bishopstoke station, and the question whether it can be of stone or must be brick may depend on what I am sure of having by Christmas. As the Worthies were to be the same as the [Golden Deeds](cmy_books/cmybook_51.qmd) I was thinking myself half way to £200, and could have promised it in time for the estimates and I am now anxious to know what I am likely to have in hand soon.[^2]
+
+I have been anxious to consult you about another matter. I have been feeling much the want of a [Guide or handbook to the Charitable Institutions](organizations/other_190.qmd) of England, including all that are not strictly local, and a friend and I have been collecting materials for such a work. We thought [Mr Rivington](people/person_1991.qmd) would take it as a sort of companion to his Year Book of Church Matters, but he does not wish to have it unless it consists of only 500pp, and I do not think it possible to make it so short. It seemed to me so much out of your line that I did not ask you about it (as [Miss Batty](people/person_126.qmd) my coadjutor was the chief manager) and I suppose you would not like to undertake; but would you advise us to whom to apply? We began before we heard of Low’s [London Charities](other_books/otherbook_496.qmd), and I am not sure whether the book is likely so to take the wind out of our sails so that it ought to be given up. But our plan takes in many that are not London such as homes for convalescents, for clergy widows, the [Bath rheumatic hospital](organizations/other_189.qmd) &c. I should be very thankful for some advice
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: The battle of the Granicus (334 BC) was a victory of Alexander the Great over the Persians, described in *A Book of Worthies*.
+[^3]: According to a recent local history of Eastleigh she ultimately contributed £500. For further details of plans for the church see letter to Robert Brett dated 4 September 1867.
+[^4]: Johanna Batty, who contributed to *MP* as ‘Ivanovna’.
+[^5]: For Macmillan’s response, see next letter.

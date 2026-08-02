@@ -1,0 +1,40 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1889-01-31"
+letter_date: "Jany 31st 1889"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54921: 167"
+post_id: 2900
+letter_id: "to-george-lillie-craik-75"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-01-31"
+  url: "https://cmyonge.github.io/letters/2900-to-george-lillie-craik-75"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 31st 1889  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54921: 167
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+I am very glad you approve of ‘[the Reputed Changeling](cmy_books/cmybook_205.qmd)’ for a name.
+
+He shall come on the 18th or 19th as soon as I have read him to an old friend and critic with whom I am  going to stay on the 11th - when I shall put some last touches and corrections.
+
+Yours truly
+C M Yonge

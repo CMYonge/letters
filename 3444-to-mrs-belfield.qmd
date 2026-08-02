@@ -1,0 +1,41 @@
+---
+title: "To Florence Belfield"
+letter_iso_date: "1900-02-12"
+letter_date: "Feb 12th 1900"
+location: "Elderfield Otterbourne"
+manuscript: "MS Girton College Cambridge, Yonge XIII 2"
+post_id: 3444
+letter_id: "to-mrs-belfield"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Florence Belfield"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1900-02-12"
+  url: "https://cmyonge.github.io/letters/3444-to-mrs-belfield"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 12th 1900  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Girton College Cambridge, Yonge XIII 2
+:::
+
+Dear [Madam](people/person_133.qmd)
+After having exhibited the mittens to various very respectful admirers and waiting in vain for my [Cousin](people/person_28.qmd) to come and see them last week I have decided on sending them to her registered and I am sure she will carefully return them in a short time with many many thanks for the privilege.
+
+Yours thankfully
+C.M. Yonge
+
+---
+
+**Note:** Envelope addressed  ‘Mrs Belfield/Malmain/French hay /Bristol and postmarked Winchester 12 February 1900.

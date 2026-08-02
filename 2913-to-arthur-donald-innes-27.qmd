@@ -1,0 +1,43 @@
+---
+title: "To Arthur Donald Innes"
+letter_iso_date: "1889-07-27"
+letter_date: "July 27th 1889"
+location: "Elderfield"
+manuscript: "MS Girton College Cambridge, Yonge IV 11"
+post_id: 2913
+letter_id: "to-arthur-donald-innes-27"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Arthur Donald Innes"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1889-07-27"
+  url: "https://cmyonge.github.io/letters/2913-to-arthur-donald-innes-27"
+---
+
+::: {.letter-metadata}
+**Date:** July 27th 1889  
+**From:** Elderfield  
+**Manuscript:** MS Girton College Cambridge, Yonge IV 11
+:::
+
+Dear [Mr Innes](people/person_744.qmd)
+
+Thanks for the [cheque](organizations/other_160.qmd). I think it is a very good thing to cheapen [Womankind](cmy_books/cmybook_115.qmd), especially as it is getting a start through the [Mothers’ Union](organizations/other_31.qmd) taking it up. It will also be well to have [New Ground](cmy_books/cmybook_68.qmd) at 2s  [Mr Scarth](people/person_1272.qmd) of the Waterside Mission is very anxious to have [Friday’s Child](other_books/otherbook_1068.qmd) published separately for the sake of the sailors. I believe [Miss Crompton](people/person_390.qmd)[^1] has been urged to write to you about it and I hope you will do it.  She is singularly unambitious
+
+Yours truly
+
+C M Yonge
+
+---
+
+[^1]: Frances Crompton, author of *Friday's Child*, was one of Innes's authors.

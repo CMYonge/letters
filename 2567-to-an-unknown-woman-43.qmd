@@ -1,0 +1,38 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1877-01-03"
+letter_date: "Jany 3d 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Bodleian Library, Oxford:  MS. Autogr. d.23 f116"
+post_id: 2567
+letter_id: "to-an-unknown-woman-43"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-01-01"
+  url: "https://cmyonge.github.io/letters/2567-to-an-unknown-woman-43"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 3d 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford:  MS. Autogr. d.23 f116
+:::
+
+Dear Madam
+
+Let me thank you very heartily for your kind gift of your Fathers photograph which I shall value very much 
+
+Yours truly
+C M Yonge

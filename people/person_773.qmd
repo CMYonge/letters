@@ -1,0 +1,10 @@
+---
+title: "Mary Johnson"
+person_id: 773
+---
+
+## Biographical Information
+
+contributor to <i>MP</i> (1879-82)
+
+

@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1863-10-13"
+letter_date: "Oct 13th 1863"
+location: "Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 3-4"
+post_id: 1907
+letter_id: "to-alexander-macmillan-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-10-13"
+  url: "https://cmyonge.github.io/letters/1907-to-alexander-macmillan-3"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 13th 1863  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 3-4
+:::
+
+[Sir](people/person_939.qmd),
+
+I am obliged for your letter of the 9th. The MS of the [Clever Woman of the Family](cmy_books/cmybook_58.qmd) is not sufficiently forward for the calculations for printing to be made yet. I have however a tale called '<u>[the Trial](cmy_books/cmybook_53.qmd)</u>' which has been coming out in the [Monthly Packet](organizations/other_52.qmd), where it will be completed in the early spring when I should wish to bring it out, but it ought to be uniform with the '<u>[Daisy Chain](cmy_books/cmybook_24.qmd)</u>' as it is in some degree a continuation. If you think it worth while to make any calculations regarding it so long beforehand, I will send you as much as is printed, which is by far the greater part.
+
+I should prefer the arrangement you propose of receiving a fixed sum for each edition. With regard to my other works I have long thought it would be well to bring out a cheap edition, but [Messrs Parker](organizations/other_152.qmd) were averse to so doing, and I think it may be a difficulty that all the books are in stereotype, so that there can hardly be a change of size in a new edition.
+
+I find that [Mr Parker](people/person_1144.qmd) has made over his interest in my works to Messrs [Longman](organizations/other_153.qmd), to whom I wrote to enquire various particulars as to terms and as to the price they would set upon the half profits of the [Heir of Redclyffe](cmy_books/cmybook_15.qmd) and [Heartsease](cmy_books/cmybook_19.qmd). In answer they say that they will take 'the earliest opportunity of replying to my question.' When I have received this reply, I shall hope to communicate with you again 
+
+Your obt servt 
+
+C.M. Yonge

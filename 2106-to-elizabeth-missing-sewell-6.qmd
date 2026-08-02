@@ -1,0 +1,43 @@
+---
+title: "To Elizabeth Missing Sewell"
+letter_iso_date: "1866-03-15"
+letter_date: "March 15th [1866]"
+manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
+post_id: 2106
+letter_id: "to-elizabeth-missing-sewell-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Elizabeth Missing Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-03-15"
+  url: "https://cmyonge.github.io/letters/2106-to-elizabeth-missing-sewell-6"
+---
+
+::: {.letter-metadata}
+**Date:** March 15th [1866]  
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+:::
+
+My dear [Miss Sewell](people/person_1301.qmd),
+I ought to have answered you long ago that I am very glad that you are as Hampshire people say 'tackling' that [beginning](cmy_books/cmybook_71.qmd) of mine
+
+I suppose Carter’s history was the other authority for Hereward that I proposed, I have however a great mind for [Thierry](other_books/otherbook_454.qmd), as the place where I fell in love with him first.[^1] Perhaps I had better send you the book, or shall I translate it, I think I could do so quickly, if I left it to take my own time, translating is just what suits me as company or travelling work. I am afraid I cannot do much for your friend in the way of autographs as my [sister in law](people/person_1604.qmd) seizes all my first choice of them - but here is one of [Sir John Coleridge](people/person_344.qmd) - When I get another of [Miss Ingelow](people/person_741.qmd) you shall have it, but the two I have I want one for Frances the other for myself. I am not sure if [Miss Roberts](people/person_1244.qmd) is considered famous enough
+
+Yours sincerely
+C M Yonge
+
+After all the Judge’s letter has hidden itself. When it comes up you shall have the autograph.
+
+---
+
+[^1]: They were working together on *Historical Selections*, an anthology of passages from different historians arranged chronologically by subject, beginning with the Norman Conquest.

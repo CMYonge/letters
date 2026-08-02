@@ -1,0 +1,43 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1865-12-23"
+letter_date: "Decr 23d [1865]"
+manuscript: "MS British Library Add MSS 54920: 128-9"
+post_id: 2089
+letter_id: "to-alexander-macmillan-66"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-01"
+  url: "https://cmyonge.github.io/letters/2089-to-alexander-macmillan-66"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 23d [1865]  
+**Manuscript:** MS British Library Add MSS 54920: 128-9
+:::
+
+Dear [mr Macmillan](people/person_939.qmd),
+[The Prince and Page](cmy_books/cmybook_61.qmd) look very well, and I hope will thrive as well as they look. I think I sent the names for the copies - but I suppose the general mass of them are not ready yet.
+
+If [my brother](people/person_1624.qmd)’s M S about the Reading Biscuits is not available and can be recovered he would be very glad to have it again.[^1]
+
+With all Christmas wishes to the Elms party
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: JBY had written an article about the Huntley and Palmer factory at Reading, which he was trying to get published. ‘Not available’ here means ‘of no use to *Macmillan’s Magazine*’.

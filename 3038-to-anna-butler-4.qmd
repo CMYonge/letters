@@ -1,0 +1,42 @@
+---
+title: "To Anna Butler"
+letter_iso_date: "1854-04-10"
+letter_date: "April 10th [1854]"
+location: "Otterbourn"
+manuscript: "MS Mrs Caroline Fairclough/3"
+post_id: 3038
+letter_id: "to-anna-butler-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Butler"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1854-04-10"
+  url: "https://cmyonge.github.io/letters/3038-to-anna-butler-4"
+---
+
+::: {.letter-metadata}
+**Date:** April 10th [1854]  
+**From:** Otterbourn  
+**Manuscript:** MS Mrs Caroline Fairclough/3
+:::
+
+My dear [Miss Butler](people/person_237.qmd)
+Here is [Aunt Louisa](other_books/otherbook_242.qmd)’s Berne[^1] chapter, which with its Ogre fountain will, I think, be considered very amusing.  I hope you will be able to let me have her conclusion next week, as she will then finish with the volume, always satisfactory, as not leaving straggling chapters for another.  However this may be asking much in this week, and when I suppose next month is already bringing you preparations and at least engrossing your thoughts.  I have not put my Scandinavian questions in order yet, but when you have time you may expect a long list[^2]
+
+yours sincerely
+C M Yonge
+
+---
+
+[^1]: The Berne chapter of *Aunt Louisa’s Travels* was published in *[MP](organizations/other_52.qmd)* May 1854.
+[^2]: CMY wished to consult Butler about Scandinavian first names for the work eventually published as *A History of Christian Names*.

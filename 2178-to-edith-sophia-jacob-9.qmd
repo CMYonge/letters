@@ -1,0 +1,41 @@
+---
+title: "To Edith Sophia Jacob"
+letter_iso_date: "1867-06-26"
+letter_date: "June 26th 1867."
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 2178
+letter_id: "to-edith-sophia-jacob-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1867-06-26"
+  url: "https://cmyonge.github.io/letters/2178-to-edith-sophia-jacob-9"
+---
+
+::: {.letter-metadata}
+**Date:** June 26th 1867.  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Edith](people/person_749.qmd),
+I enclose the sum due to you for the [Gates of Paradise](other_books/otherbook_483.qmd). You cannot think how much they are liked, and by people whose opinion I care very much about. I have only had one objection and that from a lady whom I do not consider the judge she thinks herself. Do you not think you could manage some day to come and stay with us, we should get so much better acquainted than the scanty meetings even when you are at Winchester. I am only afraid that this is a bad time to ask you, when your brothers will be coming home, but I will tell you how we stand. We have [Miss Sewell](people/person_1301.qmd) for next Monday night, otherwise we shall be alone till the 11th or 12th, when some friends come to stay till the 19th and after that there are only floating ideas of visitors so that if it suited you to come soon, it would be very pleasant to us, or if you had rather, we shall I believe still be at home in the autumn
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

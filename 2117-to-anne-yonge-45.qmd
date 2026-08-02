@@ -1,0 +1,45 @@
+---
+title: "To Anne Yonge"
+letter_iso_date: "1866-04-06"
+letter_date: "April 6, 1866"
+location: "Elderfield, Otterbourne, Winchester"
+manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 224"
+post_id: 2117
+letter_id: "to-anne-yonge-45"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anne Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1866-04-06"
+  url: "https://cmyonge.github.io/letters/2117-to-anne-yonge-45"
+---
+
+::: {.letter-metadata}
+**Date:** April 6, 1866  
+**From:** Elderfield, Otterbourne, Winchester  
+**Manuscript:** MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 224
+:::
+
+My dear [Anne](people/person_1582.qmd)
+Most peaceful, most gentle has the day been.[^1] The Psalms suited perfectly, and while we said ‘In His pleasure is Life,’ a butterfly flew about in the sunshine in church. I had a short talk with the [Bishop of Brechin](people/person_516.qmd) and told him your abode, and he hopes to come and see you about the end of the week. You had not sent me the Hursley letter about our dear [Louisa](people/person_616.qmd). When you can I shall indeed like to see it. [Mrs. Wilson](people/person_1539.qmd) of Rownhams and I have been clinging together all day.
+
+I did go to the early service, and stayed the time between at the park. Is not [Sir William](people/person_669.qmd) to be pitied to have to supply such a place?
+
+*Such* a [gathering of the good](organizations/other_184.qmd). Some said it was like Paradise, but oh! there tears and mourning will have fled away.
+
+Your most affectionate
+C. M. Yonge
+
+---
+
+[^1]: Keble's funeral took place at All Saints, Hursley on Friday 6 April 1866.

@@ -1,0 +1,44 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1892-02-12"
+letter_date: "Feb 12th 1892"
+location: "Elderfield  Otterbourne  Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3191
+letter_id: "to-an-unknown-man-14"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-02-12"
+  url: "https://cmyonge.github.io/letters/3191-to-an-unknown-man-14"
+---
+
+::: {.letter-metadata}
+**Date:** Feb 12th 1892  
+**From:** Elderfield  Otterbourne  Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Sir
+I should think [Miss Knapp](people/person_2110.qmd)’s story would have every chance of attention if you recommended it to [Mr Duncan](people/person_448.qmd) in person, I have always found that literary work stands on its own merits and on the actual opening for it.[^1]
+
+I feel quite sure no recommendation from me would be of half the use of your requesting Canon Duncan to let his reader judge of the M S. That is where the real decision lies, and this is the best time before their number of tales is filled up
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: Canon Duncan was the secretary of the [National Society](organizations/other_32.qmd) which published stories  for children.

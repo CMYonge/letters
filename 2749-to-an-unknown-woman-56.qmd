@@ -1,0 +1,50 @@
+---
+title: "To an Unknown Woman"
+letter_iso_date: "1882-05-26"
+letter_date: "May 26th 1882"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2749
+letter_id: "to-an-unknown-woman-56"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Woman"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1882-05-26"
+  url: "https://cmyonge.github.io/letters/2749-to-an-unknown-woman-56"
+---
+
+::: {.letter-metadata}
+**Date:** May 26th 1882  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear Madam
+
+I am afraid your paper is too outspoken for the atmosphere of the [Monthly Packet](people/person_52.qmd) - which has to be guarded for young readers.
+
+I should think there was every chance of the [SPCK](organizations/other_40.qmd) being glad to take your papers. 
+
+I do not know Cornwall at all, but is it not too strong to say that <u>Adultery</u> as such is not viewed as a sin - even by very neglected people
+
+The other sin is - I suppose, wherever there is much ignorance and neglect, viewed as part of a courtship and when a marriage does not ensue, is viewed as a misfortune to the girl and mean of the man. But after such preliminaries, I think the married are almost always faithful and that their own public opinion requires it.
+
+And certainly the tone before marriage is greatly improving though of course not among such as would find their way to the workhouse
+
+Yours sincerely
+C M Yonge
+
+---
+
+**Note:** Perhaps the author of ‘Workhouse Orphans’ (and perhaps also of 'A Christmas Tree at a Workhouse') to whom CMY had written on 24 February 1882 a letter also in the Parrish Collection, who seems to have been a clergyman's wife living in Cornwall very close to a workhouse.

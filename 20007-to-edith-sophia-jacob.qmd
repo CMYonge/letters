@@ -1,0 +1,45 @@
+---
+title: "To Edith Sophia Jacob"
+letter_iso_date: "1881-07-25"
+letter_date: "July 25th [1881]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 20007
+letter_id: "to-edith-sophia-jacob"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Edith Sophia Jacob"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1881-07-25"
+  url: "https://cmyonge.github.io/letters/20007-to-edith-sophia-jacob"
+---
+
+::: {.letter-metadata}
+**Date:** July 25th [1881]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Edith](people/person_749.qmd)
+
+It came safely the next day and you shall have a chapter either rewritten or doctored in time for the New Year which I should think would be the best time to begin.  I suspect the right way to do it would be rounded sketches of periods, each as complete in itself as the space will allow of.  To shew what authority there is in the Acts and Epistles (without having a letter) for the Church System seems to me as if it should be the great object of the first.
+
+Oh dear! how one wonders how good men who have erred in faith are shewn it in the next world, especially when they have 'taught men so!'
+
+&nbsp;
+
+your affectionate
+
+CMYonge
+
+&nbsp;

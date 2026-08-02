@@ -1,0 +1,44 @@
+---
+title: "To Mary Drew"
+letter_iso_date: "1887-04-15"
+letter_date: "April 15th [1887?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS British Library: Mary Gladstone Papers. Add MSS 46252: 10-11."
+post_id: 2858
+letter_id: "to-mary-drew-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Drew"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-04-15"
+  url: "https://cmyonge.github.io/letters/2858-to-mary-drew-3"
+---
+
+::: {.letter-metadata}
+**Date:** April 15th [1887?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS British Library: Mary Gladstone Papers. Add MSS 46252: 10-11.
+:::
+
+Dear [Mrs Drew](people/person_443.qmd),
+
+I was out all yesterday and could not answer your kind letter, nor thank you for the excellent paper, which I have ventured to take to [Mrs Sumner](people/person_1381.qmd), who is really the parent of the [Mother’s Union](organizations/other_31.qmd). I could not use it for the [Monthly Packet](organizations/other_52.qmd)  as I am obliged scrupulously to keep that for young girls’ reading; but there is a yet undeveloped notion of starting some kind of paper, leaflet or the like for the Mothers and if this were done, I hope we might have the use of your admirable paper.
+
+Mrs Sumner has brought into the Mother’s Union most of the tradesmen’s wives of all degrees, and this seem to be very helpful
+
+Yours very truly
+C M Yonge
+
+---
+
+**Note:** The letter must postdate Mary Drew's marriage on 25 December 1885, and predate the letter to her of 1 February 1888 which refers to the forthcoming publication of the [*Mothers' Union Journal*](organizations/other_93.qmd).

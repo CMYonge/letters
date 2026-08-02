@@ -1,0 +1,35 @@
+---
+title: "To Frances Mary Peard"
+letter_iso_date: "1865-00-00"
+letter_date: "[1865/6]"
+manuscript: "MS location unknown. This fragment printed in Mary J. Y. Harris, 1903. <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i>, pp. 51-52."
+post_id: 2093
+letter_id: "to-frances-mary-peard-9"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frances Mary Peard"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-01-06"
+  url: "https://cmyonge.github.io/letters/2093-to-frances-mary-peard-9"
+---
+
+::: {.letter-metadata}
+**Date:** [1865/6]  
+**Manuscript:** MS location unknown. This fragment printed in Mary J. Y. Harris, 1903. <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i>, pp. 51-52.
+:::
+
+My dear [Frances](people/person_1160.qmd),
+Is this a very outrageous thing I am going to propose. You must know [Goosedom](organizations/other_104.qmd) has had a shock and a revolution, chiefly induced by [Mildred Coleridge](people/person_17.qmd) having no time for it and her [aunt](people/person_351.qmd) therefore losing her interest in it. So after having very nearly broken up, we are beginning again in a more brilliant manner, and the thing is would you condescend to be a Gosling. All you would have to do would be to take a Goosey name, receive two questions on the first of each month--except August and September--and send the answers to me, then in due time the best answers would be sent to you to be handed on to the next Gosling, but the Goslings sit very loose to their questions and do not answer unless it quite suits their convenience; also any contribution of wit, wisdom, or drawing to that esteemed Quarterly the [Barnacle](organizations/other_89.qmd) is likewise much coveted. I think the old Goslings who have kept on, i.e., [Christabel](people/person_329.qmd) and [Alice Coleridge](people/person_327.qmd) need some real thought and power in their colleagues to balance them so we were very glad to catch [Florence Wilford](people/person_1520.qmd)-otherwise called ‘Turk’s cap’---and such a Gosling as you, even if you answered only one question once in two months would be very wholesome for us. 
+
+Yours affectionately,
+C. M. YONGE.

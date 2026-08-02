@@ -1,0 +1,37 @@
+---
+title: "From Charlotte Mary Yonge and Christabel Rose Coleridge to Mary Penelope Fursdon and the other members of the Gosling Society"
+letter_iso_date: "1877-09-29"
+letter_date: "Michaelmas Day [29 September] 1877"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 2600
+letter_id: "from-charlotte-mary-yonge-and-christabel-rose-coleridge-to-mary-penelope-fursdon-and-the-other-members-of-the-gosling-society"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "From Charlotte Mary Yonge and Christabel Rose Coleridge to Mary Penelope Fursdon and the other members of the Gosling Society"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-09-29"
+  url: "https://cmyonge.github.io/letters/2600-from-charlotte-mary-yonge-and-christabel-rose-coleridge-to-mary-penelope-fursdon-and-the-other-members-of-the-gosling-society"
+---
+
+::: {.letter-metadata}
+**Date:** Michaelmas Day [29 September] 1877  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+Mother Goose & [the last Gosling of the original brood](people/person_329.qmd), faithful where few were faithful found having eaten goose together on Michaelmas day solemnly dissolve the ancient [Brood](organizations/other_104.qmd).  Having begun with 12 intimate friends & cousins who actually did 4 questions once a month it has come to only two once in two months & of those generally only one answered by a few - while there is little acquaintance between many[.]  It seems therefore time to break it up, since there are other essay societies in plenty now and Mother Goose still superintends the [Spiders](organizations/other_116.qmd).  Much that has been amusing & useful has been elicited in these 17 or 18 years & Mother Goose looks back with much pleasure on the intercourse it has produced.
+
+If Goslings will send questions to the Spiders Mother Goose will be very happy to insert them if suitable.
+
+---
+
+**Note:** Black-edged paper.  In another hand, probably Coleridge's.

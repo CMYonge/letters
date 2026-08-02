@@ -1,0 +1,44 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-01-27"
+letter_date: "Jany 27th [1864]"
+location: "Elderfield"
+manuscript: "MS British Library Add MSS 54920: 17"
+post_id: 1932
+letter_id: "to-alexander-macmillan-10"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-01-27"
+  url: "https://cmyonge.github.io/letters/1932-to-alexander-macmillan-10"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 27th [1864]  
+**From:** Elderfield  
+**Manuscript:** MS British Library Add MSS 54920: 17
+:::
+
+Dear [Mr Macmillan](people/person_939.qmd)
+
+Besides what I sent on Monday and the 63 pp I am sending by this days post, there are 380 pp of [the Trial](cmy_books/cmybook_53.qmd) in type in the [Monthly Packet](organizations/other_52.qmd), and in MS what I should think would make about 45 or 50 more.
+
+I am writing to [Mrs Blackburn](people/person_159.qmd) about her drawings
+
+Yours faithfully
+C. M. Yonge
+
+---
+
+**Note:** Black-edged paper.

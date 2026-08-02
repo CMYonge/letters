@@ -1,0 +1,43 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1868-10-08"
+letter_date: "Oct 8th [1868]"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS University of Delaware"
+post_id: 2279
+letter_id: "to-ellen-julia-johns"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1868-10-08"
+  url: "https://cmyonge.github.io/letters/2279-to-ellen-julia-johns"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 8th [1868]  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS University of Delaware
+:::
+
+My dear [Mrs Johns](people/person_772.qmd)
+Thank you warmly for your kind note. I can see that both as daughter and as mother you have more than a common fellow feeling for the sorrow.[^1] In fact, I think the present loss is softened by the long weaning as it were which the slow dimming of the faculties led to, with quite as much affection and clings, but without the power of response - and latterly the weariness of great debility had been so distressing, that I cannot but be thankful that the yet more painful steps downwards were spared, but the call which secured sudden death at last.
+
+With love to [Katie](people/person_887.qmd) and thanks for your kindness
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: The sorrow was for the death of her mother [FMY](people/person_1606.qmd) on 28 September 1868.

@@ -1,0 +1,12 @@
+---
+title: "Lewis Carroll - Alice's Adventures in Wonderland"
+book_id: 197
+---
+
+## Publication Information
+
+**Date:** 1866
+
+**Imprint:** London: Macmillan
+
+

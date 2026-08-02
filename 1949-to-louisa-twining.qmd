@@ -1,0 +1,44 @@
+---
+title: "To Louisa Twining"
+letter_iso_date: "1864-04-26"
+letter_date: "April 26th [1864]"
+location: "Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 1949
+letter_id: "to-louisa-twining"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Louisa Twining"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-04-26"
+  url: "https://cmyonge.github.io/letters/1949-to-louisa-twining"
+---
+
+::: {.letter-metadata}
+**Date:** April 26th [1864]  
+**From:** Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Twining](people/person_1427.qmd),
+I am sending off your acknowledgements today, but I am much afraid they will not be in time for the next [packet](organizations/other_52.qmd), if not they must appear in June, and I hope may by that time be added to as I am sure your paper must excite great interest[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Envelope addressed to Miss Twining/Industrial House/22 New Ormond Street/London WC and postmarked 1864.
+[^2]: The paper referred to here was evidently the unsigned 'Help for Incurables *MP* (April 1864) 437-449, which can be attributed to Twining on the basis of this letter.  A notice to correspondents appeared *MP* (June 1864) 668: ‘Miss L. Twining begs to acknowledge, with many thanks, the receipt of the following donations from readers of The Monthly Packet, to the [Home for Incurable and Infirm Women](organizations/other_26.qmd), 23, New Ormond Street, W.C.’ followed by a list of names and amounts. These must be the “acknowledgements” that were too late for the May issue.
+
+ ‘Hints on Reading’ (March 1864) 335) also includes a notice of ‘Stories of Crowbridge Union,’ edited by Miss Twining,. ‘The book would be useful, not for young readers, but in showing those who can gain access to a Union Workhouse, the sort of use they can be of to the inmates--a subject on which we hope to say more in our next number.’ The book was M.A.B., *Tales of Crowbridge Workhouse. Blind Charlie. The Three Friends. Cousin Jane*. By M. A. B. With a preface by Louisa Twining. (London: Masters 1863)

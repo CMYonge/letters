@@ -1,0 +1,41 @@
+---
+title: "To the Reverend John Frederick Watkinson Bullock"
+letter_iso_date: "1894-11-21"
+letter_date: "Novr 21 [1894?]"
+location: "Elderfield"
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 171-2"
+post_id: 3276
+letter_id: "to-the-reverend-john-frederick-watkinson-bullock-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frederick Watkinson Bullock"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-11-21"
+  url: "https://cmyonge.github.io/letters/3276-to-the-reverend-john-frederick-watkinson-bullock-6"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 21 [1894?]  
+**From:** Elderfield  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 171-2
+:::
+
+Dear [Mr Bullock](people/person_221.qmd),
+The word in the French version is <u>vertu</u>. I have made it power, as that must be the sense[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: This message evidently relates to the work CMY did for Bullock's *Daily Lections*.

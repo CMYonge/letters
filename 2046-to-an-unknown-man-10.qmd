@@ -1,0 +1,37 @@
+---
+title: "To an Unknown Man"
+letter_iso_date: "1865-06-20"
+letter_date: "June 20th 1865"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2046
+letter_id: "to-an-unknown-man-10"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To an Unknown Man"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-06-20"
+  url: "https://cmyonge.github.io/letters/2046-to-an-unknown-man-10"
+---
+
+::: {.letter-metadata}
+**Date:** June 20th 1865  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+Sir,
+I am obliged by your letter, but I am afraid that other engagements are likely to prevent my becoming a contributor to the proposed journal—and at any rate I could undertake nothing without fuller information.
+
+Yours faithfully
+C M Yonge

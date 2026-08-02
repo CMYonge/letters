@@ -1,0 +1,42 @@
+---
+title: "To Mary Elizabeth Sumner"
+letter_iso_date: "1887-01-10"
+letter_date: "Jan 10th 1887"
+location: "Elderfield Otterbourne Winchester."
+manuscript: "MS Trinity College, Cambridge Cullum Q81"
+post_id: 2848
+letter_id: "to-mary-elizabeth-sumner"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Elizabeth Sumner"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1887-01-10"
+  url: "https://cmyonge.github.io/letters/2848-to-mary-elizabeth-sumner"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 10th 1887  
+**From:** Elderfield Otterbourne Winchester.  
+**Manuscript:** MS Trinity College, Cambridge Cullum Q81
+:::
+
+My dear [Mrs Sumner](people/person_1381.qmd)
+
+I shall be very happy to come to luncheon on Thursday  Please do not wait for me if I am a few minutes late for I shall not be able to set off till 12.30, and the roads <u>may</u> be as bad as they are today!
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** Envelope addressed to Mrs Sumner/ The Close/ Winchester and postmarked Winchester 10 January 1887.

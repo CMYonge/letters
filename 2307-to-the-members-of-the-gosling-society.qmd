@@ -1,0 +1,38 @@
+---
+title: "To the Members of the Gosling Society"
+letter_iso_date: "1869-03-18"
+letter_date: "[March 1869]"
+manuscript: "MS Mrs Clare Roels"
+post_id: 2307
+letter_id: "to-the-members-of-the-gosling-society"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Members of the Gosling Society"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1869-03-01"
+  url: "https://cmyonge.github.io/letters/2307-to-the-members-of-the-gosling-society"
+---
+
+::: {.letter-metadata}
+**Date:** [March 1869]  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+Cackle
+Mother Goose having gone out on her broomstick she has had to delay the answers. They are not many in number this time, for [Chelsea China](people/person_329.qmd)’s popularity and [Windermere](people/person_1467.qmd)’s Wars of the Roses are decidedly the superior articles. [Cricket](people/person_1603.qmd) is the next to ask the questions.
+
+[Mignonette](people/person_1637.qmd) and [Sparrow Hawk](people/person_97.qmd) retire
+
+---
+
+**Note:** Black-edged paper. This seems to be the only surviving example of a 'Cackle', one of the circular letters with which CMY communicated with the members of the [Gosling Society](organizations/other_104.qmd).

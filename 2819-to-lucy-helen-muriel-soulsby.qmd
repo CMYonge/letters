@@ -1,0 +1,46 @@
+---
+title: "To Lucy Helen Muriel Soulsby"
+letter_iso_date: "1885-11-12"
+letter_date: "Novr 12th  1885"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Charlotte Mitchell"
+post_id: 2819
+letter_id: "to-lucy-helen-muriel-soulsby"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Lucy Helen Muriel Soulsby"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-11-12"
+  url: "https://cmyonge.github.io/letters/2819-to-lucy-helen-muriel-soulsby"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 12th  1885  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Charlotte Mitchell
+:::
+
+My dear [Miss Soulsby](people/person_1351.qmd),
+
+The worst of it is that I am afraid all the writers of the ‘rejected addresses’ want to be paid and I do not suppose the resources of the [All Saints Magazine](organizations/other_254.qmd) would warrant that hope.[^1]  I am sorry I have sent home most of the competition stories for the Christmas number
+
+yours truly
+C M Yonge
+
+I have just found <u>one</u>.  If it will do, write and ask permission of the 
+
+[the rest missing]
+
+---
+
+[^1]: Lucy Soulsby was teaching at Cheltenham Ladies’ College;  she seems to have been soliciting contributions for the parish magazine.

@@ -1,0 +1,41 @@
+---
+title: "To Margaret Helen Moberly"
+letter_iso_date: "1863-05-14"
+letter_date: "Ascension Day [14 May 1863]"
+manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/7"
+post_id: 1889
+letter_id: "to-margaret-helen-moberly-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Margaret Helen Moberly"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1863-05-14"
+  url: "https://cmyonge.github.io/letters/1889-to-margaret-helen-moberly-6"
+---
+
+::: {.letter-metadata}
+**Date:** Ascension Day [14 May 1863]  
+**Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/7
+:::
+
+My dear [Maggie](people/person_83.qmd)
+
+What a great day to have your birthday upon. You cannot look to many returns of Holy Thursday upon it, so this will be all the more to remember, but I wish you many, many more happy returns. Thank you and [Mamma](people/person_1019.qmd) for your curl. I shall have quite enough now  I send you one of the brooches made to a pattern of Mary Queen of Scots which I saw at Edinburgh last year and thought you would like as it makes your M and is historical.
+
+your affectionate godmother
+
+CMY
+
+---
+
+**Note:** Black-edged paper.  We have not been able to discover a reason why CMY used black-edged paper for this letter and the two following dated 3 June and  11 June.

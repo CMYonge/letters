@@ -1,0 +1,37 @@
+---
+title: "To Anna Rachel Bramston"
+letter_iso_date: "1890-03-08"
+letter_date: "March 8 [1890s?]"
+location: "Elderfield"
+manuscript: "MS Charlotte Mitchell/27"
+post_id: 3607
+letter_id: "to-anna-rachel-bramston-2"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Rachel Bramston"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-03-08"
+  url: "https://cmyonge.github.io/letters/3607-to-anna-rachel-bramston-2"
+---
+
+::: {.letter-metadata}
+**Date:** March 8 [1890s?]  
+**From:** Elderfield  
+**Manuscript:** MS Charlotte Mitchell/27
+:::
+
+My dear [Anna](people/person_195.qmd)
+I am sorry to say I cannot anyhow come on the 16th for it is our [School](organizations/other_107.qmd) examination day, and it will not be over in time. What shall we do without our Chairman who was a tower of strength on the right side
+
+yours sincerely
+C M Yonge

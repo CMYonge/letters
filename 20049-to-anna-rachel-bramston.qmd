@@ -1,0 +1,39 @@
+---
+title: "To Anna Rachel Bramston"
+letter_iso_date: "1875-10-15"
+letter_date: "Oct 15th  [1875-8?]"
+manuscript: "MS??"
+post_id: 20049
+letter_id: "to-anna-rachel-bramston"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Anna Rachel Bramston"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-10-15"
+  url: "https://cmyonge.github.io/letters/20049-to-anna-rachel-bramston"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 15th  [1875-8?]  
+**Manuscript:** MS??
+:::
+
+My dear [Miss Bramston](people/person_195.qmd)
+
+I will try to put the end of my speech to it as best I can tomorrow or next day, I don’t think I shall have time today, and I gather from your note that there is time.
+
+With many thanks for the kind invitation, I am afraid I have had so much dissipation last week that I must make up for lost time this week, and cannot well come out
+
+Yours sincerely
+
+C M Yonge

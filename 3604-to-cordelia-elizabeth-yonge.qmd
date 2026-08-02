@@ -1,0 +1,43 @@
+---
+title: "To Cordelia Elizabeth Yonge?"
+letter_iso_date: "1896-11-24"
+letter_date: "Novr 24 [1896 or earlier]"
+location: "Elderfield"
+manuscript: "MS Mrs Philip Drazin"
+post_id: 3604
+letter_id: "to-cordelia-elizabeth-yonge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Cordelia Elizabeth Yonge?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1896-11-24"
+  url: "https://cmyonge.github.io/letters/3604-to-cordelia-elizabeth-yonge"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 24 [1896 or earlier]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Philip Drazin
+:::
+
+My dear [Cordelia](people/person_1593.qmd)
+I shall be very glad to see you and [Alethea](people/person_1581.qmd) on Wednesday - tomorrow afternoon if you can come out.  I am sorry I can say no more, but Thursday is [Mother’s Meeting](organizations/other_31.qmd) day. Friday School, Saturday a Sunday School meeting at the Vicarage.
+
+And [Miss Walter](people/person_1462.qmd) is so ill that I dare not make arrangements for more than that short afternoon time
+
+your affectionate cousin
+C M Yonge
+
+---
+
+**Note:** Cordelia Elizabeth Yonge (1874-1958) and Alethea Yonge (1876-1959) were the younger daughters of CMY’s cousin the Rev. Duke Yonge of Puslinch.  The names were common in the family, but these seem to be the most likely candidates.

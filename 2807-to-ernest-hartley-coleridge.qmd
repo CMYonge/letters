@@ -1,0 +1,42 @@
+---
+title: "To Ernest Hartley Coleridge"
+letter_iso_date: "1885-04-18"
+letter_date: "April 18th 1885"
+location: "Elderfield, Otterbourne,Winchester."
+manuscript: "MS Harry Ransom Humanities Resource Center, University of Texas at Austin"
+post_id: 2807
+letter_id: "to-ernest-hartley-coleridge"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ernest Hartley Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1885-04-18"
+  url: "https://cmyonge.github.io/letters/2807-to-ernest-hartley-coleridge"
+---
+
+::: {.letter-metadata}
+**Date:** April 18th 1885  
+**From:** Elderfield, Otterbourne,Winchester.  
+**Manuscript:** MS Harry Ransom Humanities Resource Center, University of Texas at Austin
+:::
+
+Dear [Mr Coleridge](people/person_336.qmd)
+
+Thank you much for kindly remembering me on this occasion but I do not think I shall be in London at the time.[^1]
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: CMY is declining an invitation to Westminster Abbey to witness the unveiling by James Russell Lowell of a bust of [Samuel Taylor Coleridge](people/person_1667.qmd) on 7 May 1885.

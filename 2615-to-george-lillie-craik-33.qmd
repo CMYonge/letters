@@ -1,0 +1,49 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1877-12-26"
+letter_date: "Decr 26th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 44-45"
+post_id: 2615
+letter_id: "to-george-lillie-craik-33"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-12-26"
+  url: "https://cmyonge.github.io/letters/2615-to-george-lillie-craik-33"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 26th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 44-45
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+
+About the name of [the Spanish book](cmy_books/cmybook_126.qmd) which certainly is rather suggestive of the uncomplimentary riddle ‘What is the difference between Truth and Fiction?  History and Her story  My book is really both - a bit of real history, and then a collection of the wonderful stories and ballads about it.
+
+I do not know any book that does combine them both, and I want to mark that this does.
+
+I shall send the first half dozen chapters which are done.
+
+I am writing to [Mr Murray](people/person_2312.qmd)[^1]
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: She wanted Murray's permission to use some of Lockhart's *Ancient Spanish Ballads* in her *The Story of the Christians and the Moors in Spain*.

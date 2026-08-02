@@ -1,0 +1,38 @@
+---
+title: "To Ellen Julia Johns"
+letter_iso_date: "1865-12-22"
+letter_date: "Decr 22d [1865]"
+manuscript: "MS University of Delaware"
+post_id: 2088
+letter_id: "to-ellen-julia-johns-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Ellen Julia Johns"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1865-12-01"
+  url: "https://cmyonge.github.io/letters/2088-to-ellen-julia-johns-8"
+---
+
+::: {.letter-metadata}
+**Date:** Decr 22d [1865]  
+**Manuscript:** MS University of Delaware
+:::
+
+My dear [Mrs Johns](people/person_772.qmd),
+I suppose you are enjoying a Christmas rest, indeed I almost expect to hear that [Mr Johns](people/person_769.qmd) is spending his holiday on a visit to [Katie](people/person_887.qmd). The business of my note is however to tell Katie or ask you to be so kind as to tell her, that we are having a great revolution in the state of [goosedom](organizations/other_104.qmd). Some goslings having grown lazy and some outgrown it, there is to be a break up, but I think we shall form a fresh society on the nucleus remaining, consisting of [Christabel](people/person_329.qmd) and probably my cousin the [Cricket](people/person_1603.qmd). And I thought that probably likewise Kittiwake would wish to adhere, but as I have hardly time to write to her tonight will you kindly tell her about it. I hope she will find time to send us some drawings for the [Barnacle](organizations/other_89.qmd) which is any way to be kept up.
+
+We have had a sad week while the poor little [baby](people/person_1592.qmd) at the other house was struggling with whooping cough and with convulsions, and now it is a relief that her rest is come.
+
+With all good Christmas wishes
+Yours sincerely
+C M Yonge

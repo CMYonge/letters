@@ -1,0 +1,44 @@
+---
+title: "To Augusta Frederica Frere?"
+letter_iso_date: "1875-08-04"
+letter_date: "Aug 4th 1875"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
+post_id: 2534
+letter_id: "to-miss-frere"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Augusta Frederica Frere?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1875-08-04"
+  url: "https://cmyonge.github.io/letters/2534-to-miss-frere"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 4th 1875  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+:::
+
+My dear [Miss Frere](people/person_525.qmd)
+
+You have chosen a very cold summer for your visit to England and I am afraid you must think you have come there in the winter by mistake. We have had some revolutions in the state of the [Monthly Packet](organizations/other_52.qmd), a new [partner](people/person_373.qmd) at [Mozley](organizations/other_108.qmd)’s[^1] and a new printer, and my effort for some time past has been to get old material finished up. I have still so many verses on hand that I think I had better return yours.
+
+For the story I think there will probably be room for it about July, if you feel able to go on with it. Eleven months hence sounds a long allowance, but one has to live beforehand with magazines<sup>2</sup>
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: Although Augusta Frere signed several contributions of fiction to *MP*, and her cousin Emily Frere some non-fiction, the story is not identifiable.

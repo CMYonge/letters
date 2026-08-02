@@ -1,0 +1,10 @@
+---
+title: "Dr Hood"
+person_id: 2275
+---
+
+## Biographical Information
+
+physician recommended to Gertrude Walter
+
+

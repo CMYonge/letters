@@ -1,0 +1,46 @@
+---
+title: "To Alexander Macmillan"
+letter_iso_date: "1864-01-18"
+letter_date: "Jany 18th 1864"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54920: 13-14"
+post_id: 1926
+letter_id: "to-alexander-macmillan-8"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Alexander Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1864-01-18"
+  url: "https://cmyonge.github.io/letters/1926-to-alexander-macmillan-8"
+---
+
+::: {.letter-metadata}
+**Date:** Jany 18th 1864  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54920: 13-14
+:::
+
+Dear [Sir](people/person_939.qmd),
+
+I found the other day that Messrs [Longman](organizations/other_153.qmd)’s delay in transferring my books to you was rendering it difficult for the retail booksellers to procure them - I therefore wrote to them a day or two ago to urge on the completion of the arrangements and I hope you may soon be able to let me know that this has been done.
+
+How soon do you think it would be advisable to begin printing the [Trial](cmy_books/cmybook_53.qmd)? It will finish in the [Monthly Packet](organizations/other_52.qmd) in April or May. I would make a push for its doing so in April if this were best, and in that case I suppose you would begin printing at once and I would send you the other chapters- I have an alteration or two to make in what I sent you, but this can be done in the proofs.
+
+My [brother](people/person_1624.qmd) mentioned to me the project of which you spoke to him of a little book of [Golden Deeds](cmy_books/cmybook_51.qmd),[^1] it is one that I should have much pleasure in carrying out
+
+Yours faithfully
+C.M. Yonge
+
+---
+
+[^1]: Black-edged paper.

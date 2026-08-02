@@ -1,0 +1,44 @@
+---
+title: "To Selina Mary Moor"
+letter_iso_date: "1879-11-28"
+letter_date: "Novr 28 1879"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Pusey House PUS 83"
+post_id: 2686
+letter_id: "to-selina-mary-moor"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Selina Mary Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-11-28"
+  url: "https://cmyonge.github.io/letters/2686-to-selina-mary-moor"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 28 1879  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Pusey House PUS 83
+:::
+
+My dear [Selina](people/person_1048.qmd)
+
+The Old Solitary Wasp has been excited to write out some recollections of this county in verse which may amuse some of the young Busy Bees.
+
+I enclose my subscription, hoping it is right, but I am not sure
+
+yours sincerely
+C M Yonge
+
+---
+
+**Note:** With envelope addressed to Miss Moor/ Ampfield Vicarage/ Romsey and postmarked 28 November 1879.  Selina Moor (b. 1859/60) was the daughter of the Rev. John Frewen Moor.  Probably she was the editor of a parish magazine.

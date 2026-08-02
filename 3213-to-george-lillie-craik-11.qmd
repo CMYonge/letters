@@ -1,0 +1,45 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1892-01-25"
+letter_date: "Jan 25th 1892 [1893]"
+location: "Elderfield Otterbourne"
+manuscript: "MS British Library  Add MSS 54921: 188-9"
+post_id: 3213
+letter_id: "to-george-lillie-craik-11"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-01-25"
+  url: "https://cmyonge.github.io/letters/3213-to-george-lillie-craik-11"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 25th 1892 [1893]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS British Library  Add MSS 54921: 188-9
+:::
+
+Dear [Mr Craik](people/person_379.qmd)
+In a day or two you will receive from the [National Society](organizations/other_32.qmd) a story of mine called [Grisly Grisell](cmy_books/cmybook_228.qmd). It was written for them, but has turned out too historical for their purpose, and as a tale was wanted to be coupled with [‘The Rubies of St Lo’](cmy_books/cmybook_234.qmd) I think it will serve the purpose. Mr [George Macmillan](people/person_1946.qmd) knows all about the Rubies, which are in the Christmas number of the [Monthly Packet](organizations/other_52.qmd).
+
+Grisly Grisell is a variation on Sir Gawain’s ‘Loathly Lady’[^1]
+
+[Miss Coleridge](people/person_329.qmd) agrees to accept £100 between us for the copyright of ‘Strolling Players’. <u>Really</u> by far the best and most original part is hers. The idea was mine, but I did not know enough about theatricals to carry it out
+
+Yours truly
+C M Yonge
+
+---
+
+[^1]: The story of Sir Gawain and the Loathly Lady occurs in many versions of which the best known is perhaps Chaucer's 'Wife of Bath's Tale'.

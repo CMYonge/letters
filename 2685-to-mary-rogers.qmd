@@ -1,0 +1,44 @@
+---
+title: "To Mary Sophia Rogers?"
+letter_iso_date: "1879-10-22"
+letter_date: "Oct 22nd [1879?]"
+location: "Elderfield Otterbourne Winchester"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 2685
+letter_id: "to-mary-rogers"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Sophia Rogers?"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1879-10-22"
+  url: "https://cmyonge.github.io/letters/2685-to-mary-rogers"
+---
+
+::: {.letter-metadata}
+**Date:** Oct 22nd [1879?]  
+**From:** Elderfield Otterbourne Winchester  
+**Manuscript:** MS Princeton University, Parrish Collection
+:::
+
+Dear [Madam](people/person_1254.qmd)
+
+I am exceedingly obliged to you for this kind gift of good old [Mrs Pascoe](people/person_1146.qmd)’s letters. She was indeed a most amusing and clever correspondent and her letters were always a great pleasure to [my mother](people/person_1606.qmd) and me. I never saw her, but I heard of her from two old neighbours, [Mrs Keble](people/person_795.qmd), who used to see her at Penzance and Mr Arthur Johns who was an old neighbour.[^1]
+
+Pray thank [Mrs Rogers](people/person_1251.qmd) much for me
+
+Yours truly
+C.M. Yonge
+
+---
+
+[^1]: The book was probably *Walks about St Hilary* (1879), a book of botanical studies in the form of letters, by Charlotte Champion Pascoe (1782-1875) edited by Mrs Pascoe's cousin Charlotte Grenfell Bridgman (Willyams) Rogers (d.1888) and by Mary Rogers (not the daughter of Charlotte Rogers).  The Kebles used to spend the winter in Penzance for Charlotte Keble's health, and the Rev. [Charles Alexander Johns](people/person_769.qmd) (who is probably referred to here) had lived at Helston.

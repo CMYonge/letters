@@ -1,0 +1,14 @@
+---
+title: "Frances Awdry - A Country Gentleman of the Nineteenth Century: Being a Short Memoir of the Right Honourable Sir William Heathcote, Bart., of Hursley 1801-1881"
+book_id: 14
+---
+
+## Publication Information
+
+**Date:** 1906
+
+**Imprint:** Winchester: Warren and London: Simpkin
+
+**Notes:** See also [Frances Awdry](../people/person_82.qmd).
+
+

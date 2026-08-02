@@ -1,0 +1,34 @@
+---
+title: "To the Parishioners of Otterbourne"
+letter_iso_date: "1895-12-18"
+letter_date: "December 1895"
+manuscript: "Printed in the Otterbourne Parish Magazine (December 1895)"
+post_id: 3304
+letter_id: "to-the-parishioners-of-otterbourne-3"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Parishioners of Otterbourne"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1895-12-01"
+  url: "https://cmyonge.github.io/letters/3304-to-the-parishioners-of-otterbourne-3"
+---
+
+::: {.letter-metadata}
+**Date:** December 1895  
+**Manuscript:** Printed in the Otterbourne Parish Magazine (December 1895)
+:::
+
+Dear Old Friends, -  
+Will all of you who wish for the dole come to me before eleven o 'clock, and not send by children.  Last year many boys came, who, I am sure were not sent by their mothers, and only heard of sixpences given.  I should be very sorry to give up the dole that my [grandmother](people/person_103.qmd) found established eighty years ago, but the whole condition of the parish has altered, and I *can* only give to the old inhabitants of Otterbourne itself, and such of them as 6d. is really helpful to, though I am sure they know that they and all have my hearty Christmas love and wishes.
+
+C. M. YONGE.

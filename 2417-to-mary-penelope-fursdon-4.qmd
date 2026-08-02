@@ -1,0 +1,42 @@
+---
+title: "To Mary Penelope Fursdon"
+letter_iso_date: "1871-08-29"
+letter_date: "Aug 29th [1871?]"
+manuscript: "MS Mrs Katherine Wykes-Sneyd"
+post_id: 2417
+letter_id: "to-mary-penelope-fursdon-4"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Penelope Fursdon"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-08-29"
+  url: "https://cmyonge.github.io/letters/2417-to-mary-penelope-fursdon-4"
+---
+
+::: {.letter-metadata}
+**Date:** Aug 29th [1871?]  
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+:::
+
+My dear [Pixie](people/person_539.qmd)
+
+[Goosedom](organizations/other_104.qmd) will be very glad of Miss [Agnes Acland](people/person_45.qmd).[^1]  I believe I first missed seeing her at Oxford but I have often heard of her.  I enclose a sheet of rules, and will tell [Double Daisy](people/person_1161.qmd) to send her the questions. 
+
+your faithful
+Mother Goose
+
+Tell Miss Acland to choose her Gosling name
+
+---
+
+[^1]: Agnes Henrietta Acland (b.1851)  who seems to have become a Gosling as Acorn, was the daughter of Sir Thomas Dyke Acland (1809–1898), 11th Bt., a prominent Tractarian layman with a special interest in education.

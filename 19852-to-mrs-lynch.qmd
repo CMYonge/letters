@@ -1,0 +1,37 @@
+---
+title: "To Mrs Lynch"
+letter_iso_date: "1890-11-04"
+letter_date: "[4 November 1890]"
+manuscript: "MS Charlotte Mitchell."
+post_id: 19852
+letter_id: "to-mrs-lynch"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mrs Lynch"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-11-04"
+  url: "https://cmyonge.github.io/letters/19852-to-mrs-lynch"
+---
+
+::: {.letter-metadata}
+**Date:** [4 November 1890]  
+**Manuscript:** MS Charlotte Mitchell.
+:::
+
+Many thanks, I cannot be quite sure about Luise but if she is not used within a year, she shall be returned
+
+C M Yonge[^1]
+
+---
+
+[^1]: A postcard addressed to 'Mrs Lynch/ West End Hotel/ San Remo/ Italy' and postmarked Winchester 4 November 1890. [Mrs Lynch](people/person_2437.qmd) may be the E. M. Lynch who had previously contributed to *MP*.

@@ -1,0 +1,40 @@
+---
+title: "To George Lillie Craik"
+letter_iso_date: "1877-07-17"
+letter_date: "July 17th 1877"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS British Library Add MSS 54921: 24-25"
+post_id: 2589
+letter_id: "to-george-lillie-craik-29"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To George Lillie Craik"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1877-07-17"
+  url: "https://cmyonge.github.io/letters/2589-to-george-lillie-craik-29"
+---
+
+::: {.letter-metadata}
+**Date:** July 17th 1877  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS British Library Add MSS 54921: 24-25
+:::
+
+Dear [Mr Craik](people/person_379.qmd),
+
+I return the Agreement signed with many thanks. I shall be quite satisfied with the arrangement about [the £1000 for the copyright](organizations/other_160.qmd) being paid half next  March and half the March after.
+
+One book you do not mention, the [Christian names](cmy_books/cmybook_48.qmd), I should be very glad if the end of that could be so got rid of, that I could cut it down correct it, add some recent discoveries and something about surnames, and make a small saleable book of it.
+
+Yours truly
+C M Yonge

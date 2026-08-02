@@ -1,0 +1,49 @@
+
+/* Custom styles for CMY Letters website */
+
+body {
+  font-family: Georgia, serif;
+  line-height: 1.6;
+}
+
+/* Hide Quarto auto-generated title metadata (Published date etc.) */
+.quarto-title-meta {
+  display: none;
+}
+
+.letter-metadata {
+  background-color: #f5f5f5;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  border-left: 4px solid #333;
+}
+
+.person-bio {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 1em;
+}
+
+/* Citation appendix: plain text, no box */
+.quarto-appendix {
+  background: none;
+  border: none;
+  padding: 0;
+  margin-top: 2em;
+}
+
+/* Note about reference manager import — appears after citation text */
+.quarto-appendix::after {
+  content: "Citation metadata for this letter is available for automatic import into reference managers including Zotero, Mendeley, and EndNote.";
+  display: block;
+  font-style: italic;
+  margin-top: 0.5em;
+  font-size: 0.9em;
+}
+
+.quarto-appendix-bibtex,
+.quarto-appendix-secondary-label {
+  display: none;
+}
+
+

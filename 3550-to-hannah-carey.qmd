@@ -1,0 +1,37 @@
+---
+title: "To Hannah Carey"
+letter_iso_date: "1890-03-11"
+letter_date: "March 11 [1890s?]"
+location: "Elderfield Otterbourne"
+manuscript: "MS Columbia University Library, New York: Ray Collection."
+post_id: 3550
+letter_id: "to-hannah-carey"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Hannah Carey"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1890-03-11"
+  url: "https://cmyonge.github.io/letters/3550-to-hannah-carey"
+---
+
+::: {.letter-metadata}
+**Date:** March 11 [1890s?]  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Columbia University Library, New York: Ray Collection.
+:::
+
+My dear [Hannah](people/person_253.qmd)
+[Helen](people/person_1613.qmd) has returned from her wanderings, of course having caught cold by the way, but it is just going off. Could you come over to tea, either on Saturday, Monday or Tuesday - and see her. [Frances](people/person_1604.qmd) and the little boys start on the 21st of April
+
+Yours affectionately, 
+C M Yonge

@@ -1,0 +1,51 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1876-07-27"
+letter_date: "July 27th 1876"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS Plymouth and West Devon Area Record Office Acc No 308: 28-7-76"
+post_id: 2559
+letter_id: "to-mary-yonge-46"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1876-07-27"
+  url: "https://cmyonge.github.io/letters/2559-to-mary-yonge-46"
+---
+
+::: {.letter-metadata}
+**Date:** July 27th 1876  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS Plymouth and West Devon Area Record Office Acc No 308: 28-7-76
+:::
+
+My dear [Mary](people/person_1626.qmd)
+
+I hoped to be able to tell you by this time that [Julian](people/person_1624.qmd) was quite free and had had his discharge but though the money is paid, the forms take a long time owing to the wearisomeness of lawyers however all the real trouble is over now. I do not think it has every been in any but the Hampshire papers which had a kind little paragraph about a Gentleman much respected 
+
+Fancy poor [Mr Chamberlayne](people/person_282.qmd) suddenly becoming unable to speak distinctly.[^1]  It is found to be paralysis of the tongue and [Gull](people/person_598.qmd) who came down yesterday to see him gives little hopes of its not encreasing, so as to prevent him from swallowing. he is about 70, a fair Church goer, and always liberal and kind to the parish in money matters
+
+[Gertrude](people/person_1462.qmd) comes to Southsea on Saturday, and I am going down to see her on Monday and take her little dog to her as she did not have him at Storrington.  [Arthur](people/person_1607.qmd) came home today, and I hear him playing at cricket in the field. [Frances](people/person_1605.qmd) will be amused to hear that the [Prevention of Cruelty to Animals Society](organizations/other_243.qmd) got up a donkey shew.  It was in the park at Broadlands at Romsey, and I went to it with [Caroline Cooke Trench](people/person_367.qmd).  There were 42 donkeys, all ranged in an oval space, chained round with their heads outwards, and a clear space in the middle, where the gentlefolks might walk about, a stand at one end where [Mrs Cowper Temple](people/person_1058.qmd) dispensed prizes.  About half were poor people’s donkeys, of whom 4 got the prizes, the first prize being 30/-  Mrs Cowper Temple adorned the prize ones with ribbons, and they gave some thing to all the poor people who did not get a prize.  The creatures were beautifully got up, and looked well groomed and handsome.  When the first went up for his prize all the rest brayed a chorus, to the general amusement!  The 2nd prize to a gentleman’s donkey was to a beautiful snowy white one, a lady’s at Hursley.  [Sir Wm Heathcote](people/person_669.qmd) is wonderfully well, and able to do all his usual work, but he is going to Mentone again this winter. I am going to Tyntesfield on the 8th till the 18th.  We have had no rain for more than a fortnight and the harvest looks most beautiful all amber fields.  I was at Domum but I never saw [Edmund](people/person_42.qmd)  Where will [Cordelia](people/person_1590.qmd)’s home be now?[^2]
+
+your most affectionate
+C M Yonge
+
+How is Philip Leonard and Honor Weeks?[^3]
+
+---
+
+[^1]: With envelope addressed to Miss Yonge/ Puslinch/ Yealmpton, postmarked Winchester 28 July 1876 and endorsed ‘Julians Aug 7th-17th CMY if her life is written’.
+[^2]: Thomas Chamberlayne (1805-21 October 1876) of Cranbury Park, near Otterbourne, principal landowner in the parish.
+[^3]: This is probably a reference to Mary's widowed sister-in-law Cordelia Yonge.
+[^4]: Unidentified, perhaps poor neighbours of Mary Yonge's?

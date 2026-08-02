@@ -1,0 +1,39 @@
+---
+title: "To Mary Yonge"
+letter_iso_date: "1894-12-00"
+letter_date: "[November or December?1894]"
+manuscript: "MS fragment West Devon Area Record Office Ac 1092/37"
+post_id: 3279
+letter_id: "to-mary-yonge-14"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Mary Yonge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1894-11-01"
+  url: "https://cmyonge.github.io/letters/3279-to-mary-yonge-14"
+---
+
+::: {.letter-metadata}
+**Date:** [November or December?1894]  
+**Manuscript:** MS fragment West Devon Area Record Office Ac 1092/37
+:::
+
+[To [Mary Yonge](people/person_1626.qmd)]
+
+after a bad passage.   [Frances](people/person_1604.qmd) and [Helen](people/person_1613.qmd) both spend Christmas at the Vicarage, but one must go back when [Maurice](people/person_1630.qmd)’s short holiday is over –
+
+[Henry](people/person_184.qmd)’s old [uncle](people/person_2144.qmd), a Canon of Chichester has left him £1000[^1]
+
+---
+
+[^1]: The death of the Rev. Francis Alfred Bowles, Rector of Singleton, Prebendary of Chichester, was reported in the *Morning Post* (30 October 1894).  His nephew the Rev. Henry Bowles, vicar of Otterbourne, was married to CMY's niece Alethea, who was entertaining her mother and sister for Christmas.

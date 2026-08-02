@@ -1,0 +1,41 @@
+---
+title: "To Frederick Orridge Macmillan"
+letter_iso_date: "1892-01-30"
+letter_date: "Jan 30th 1892"
+location: "Elderfield Otterbourne"
+manuscript: "MS Charlotte Mitchell/24"
+post_id: 3188
+letter_id: "to-frederick-orridge-macmillan-6"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Frederick Orridge Macmillan"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1892-01-30"
+  url: "https://cmyonge.github.io/letters/3188-to-frederick-orridge-macmillan-6"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 30th 1892  
+**From:** Elderfield Otterbourne  
+**Manuscript:** MS Charlotte Mitchell/24
+:::
+
+Dear [Mr Macmillan](people/person_942.qmd)
+I enclose the receipts with many thanks
+
+yours truly
+C M Yonge
+
+---
+
+**Note:** Black-edged paper.

@@ -1,0 +1,44 @@
+---
+title: "To the Reverend John Frewen Moor"
+letter_iso_date: "1880-04-05"
+letter_date: "April 5th 1880"
+location: "Elderfield, Otterbourne,Winchester."
+manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
+post_id: 2706
+letter_id: "to-the-reverend-john-frewen-moor-18"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend John Frewen Moor"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1880-04-05"
+  url: "https://cmyonge.github.io/letters/2706-to-the-reverend-john-frewen-moor-18"
+---
+
+::: {.letter-metadata}
+**Date:** April 5th 1880  
+**From:** Elderfield, Otterbourne,Winchester.  
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+:::
+
+My dear [Mr Moor](people/person_1046.qmd)
+
+Thank you much. I send the papers. I have hopes for this time, if there is no fresh very sad case in the way. I cannot call this case like a very bad one of great poverty though I should be exceedingly glad if it succeeded[^1]
+
+I enclose my subscription
+
+Yours sincerely
+C M Yonge
+
+---
+
+[^1]: This letter seems to be concerned with voting for a candidate for charity.

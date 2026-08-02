@@ -1,0 +1,46 @@
+---
+title: "To the Reverend James Edwards Sewell"
+letter_iso_date: "1878-03-25"
+letter_date: "March 25th 1878"
+location: "Elderfield, Otterbourne, Winchester."
+manuscript: "MS UCLA: collection 100: box 95"
+post_id: 2624
+letter_id: "to-the-reverend-james-edwards-sewell"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To the Reverend James Edwards Sewell"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1878-03-25"
+  url: "https://cmyonge.github.io/letters/2624-to-the-reverend-james-edwards-sewell"
+---
+
+::: {.letter-metadata}
+**Date:** March 25th 1878  
+**From:** Elderfield, Otterbourne, Winchester.  
+**Manuscript:** MS UCLA: collection 100: box 95
+:::
+
+My dear [Mr Warden](people/person_1304.qmd)
+
+Thank you much for your kind reply. I hope to appear with my maid by the train that reaches Oxford at 4.25, when I think I arrive just in time for chapel. I have just got a card for [Mrs Talbot](people/person_2082.qmd)’s evening party that night.
+
+I am afraid I cannot stay after Saturday as I am engaged to spend Sunday at the Deanery at St Pauls.[^1]
+
+With all thanks and kind regards to [Miss Sewell](people/person_1305.qmd).
+Yours very sincerely
+C M Yonge
+
+---
+
+[^1]: Black-edged paper.
+[^2]: The Dean of St. Paul's was the Very Rev. [Richard William Church](people/person_297.qmd).

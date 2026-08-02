@@ -1,0 +1,50 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1871-11-08"
+letter_date: "Novr 8th  [1871]"
+location: "‘Monthly Packet’ /6 Paternoster Row /London EC."
+manuscript: "MS Mrs Clare Roels"
+post_id: 2422
+letter_id: "to-christabel-rose-coleridge-69"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1871-11-08"
+  url: "https://cmyonge.github.io/letters/2422-to-christabel-rose-coleridge-69"
+---
+
+::: {.letter-metadata}
+**Date:** Novr 8th  [1871]  
+**From:** ‘Monthly Packet’ /6 Paternoster Row /London EC.  
+**Manuscript:** MS Mrs Clare Roels
+:::
+
+My dear [Christabel](people/person_329.qmd)
+I see no reason against a [Barnacle](organizations/other_89.qmd) if you have time to edit it.  I am afraid I have not, but I think it would be a very pleasant renewal and very good for [Goosedom](organizations/other_104.qmd).  I shall be very glad of your last century story, with the proviso
+
+Patience cousin and shuffle the cards.[^1]
+which would not be a bad proverb to write on.
+
+[Mrs Johns](people/person_772.qmd) is well again  I was at Winton House on Thursday to see [Miss Eliza Keary](people/person_794.qmd), and we all went to the lecture together.[^2]
+
+I hope [Good Words](organizations/other_73.qmd) will behave well to your story.  Everybody will give it up if it goes on having things as bad as [the Sylvestres](other_books/otherbook_807.qmd)[^3]
+
+your affectionate 
+Mother Goose
+
+---
+
+[^1]: The catch-phrase derives from  Miguel de Cervantes, *Don Quixote*, Part II, Chapter 23: ‘Patience, cousin, and shuffle the cards’, but CMY’s source may have been Walter Scott, who was fond of the expression, using it in *Waverly*, in *Quentin Durward* and several times in his journal, sometimes in the form ‘Patience, cousin, and shuffle the cards, till our hand is a stronger one.’
+[^2]: The *Englishwoman’s Review* 1 (January 1870) 27 notes 'Lectures to ladies on English literature are to be given by Professor Morley, at Winchester in the autumn.' Eliza Keary’s memoir of her sister Annie records visits to Winchester to visit cousins, and it seems these were the Johns family.
+[^3]: Matilda Betham-Edwards, *The Sylvestres*, a love story serialised in *Good Words* between January and December 1871.

@@ -1,0 +1,49 @@
+---
+title: "To Christabel Rose Coleridge"
+letter_iso_date: "1901-01-29"
+letter_date: "Jan 29th [1901]"
+location: "Elderfield"
+manuscript: "MS Mrs Clare Roels/108"
+post_id: 3477
+letter_id: "to-christabel-rose-coleridge-56"
+citation:
+  type: personal_communication
+  author:
+    - family: Yonge
+      given: Charlotte Mary
+  editor:
+    - family: Mitchell
+      given: Charlotte
+    - family: Jordan
+      given: Ellen
+    - family: Schinske
+      given: Helen
+  title: "To Christabel Rose Coleridge"
+  container-title: "The Letters of Charlotte Mary Yonge"
+  issued: "1901-01-29"
+  url: "https://cmyonge.github.io/letters/3477-to-christabel-rose-coleridge-56"
+---
+
+::: {.letter-metadata}
+**Date:** Jan 29th [1901]  
+**From:** Elderfield  
+**Manuscript:** MS Mrs Clare Roels/108
+:::
+
+My dear [C C](people/person_329.qmd)
+I suppose Torquay is one mass of black, and everyone telling of having been the last to get some thing needful. It is altogether solemn and beautiful the fit close of the life.  [Helen](people/person_1613.qmd) heard 81 naval guns and 81 artillery fire at Gibraltar, and they are living with all their front blinds closed.  She is looking out for her boat so I hope to be hearing of her starting.  She heard 81 naval guns, 81 artillery at Gibraltar.  [Mary Morshead](people/person_28.qmd) is thankful that the Kings nurse was not ‘made in Germany’.
+
+Tina promises well and the country walk is very good- but oh! how [‘Sunday’](organizations/other_232.qmd) murders[your people](other_books/otherbook_783.qmd), Elise a horrid flyaway young lady,  Uncle Quince a mere gamekeeper and much too young, the dogs two different sorts in the same page, and Crad exactly like Harry Bawks a clergyman instead of an ‘assistant’.  Can’t you remonstrate with [‘Frances Ewan’](people/person_2248.qmd) or [Isbister](organizations/other_223.qmd), it must strike everyone that she knows nothing about it.  And the parasol in January!
+
+It may be the engravers fault, but [Queen Wilhelmina](people/person_2249.qmd) is very coarse and disagreeable
+
+Helen has had a charming trip to Tangier.
+
+You should read Agnes Giberne’s [Roy](other_books/otherbook_782.qmd) it is very good.
+
+your affectionate
+C M Yonge
+
+---
+
+**Note:** Endorsed in another hand ‘Death of Q. Victoria’ and ‘1901’.
