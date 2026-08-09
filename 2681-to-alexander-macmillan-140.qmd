@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** [11 July 1879]  
 **From:** Elderfield  
-**Manuscript:** MS British Library Add MSS 54921: 101
+**Manuscript:** MS British Library Add MSS 54921: 101[^1]
 :::
 
 [[To Alexander Macmillan](people/person_939.qmd)]
 
-I send herewith the other tale, Selma’s Secret Sighs in a Christmas number[^1]
+I send herewith the other tale, Selma’s Secret Sighs in a Christmas number[^2]
 
 C M Yonge
 

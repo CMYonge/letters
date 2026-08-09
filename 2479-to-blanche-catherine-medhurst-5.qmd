@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Aug 12th [1873]  
+**Date:** Aug 12th [1873][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
 :::
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Dated on the assumption that the poem was  'New Year's Eve', which was published in *MP* in December 1873.
+[^1]: Dated on the assumption that the poem was  'New Year's Eve', which was published in *MP* in December 1873.

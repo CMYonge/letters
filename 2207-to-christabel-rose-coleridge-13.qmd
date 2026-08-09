@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 24th [1867]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
-Here is the September [Barnacle](organizations/other_89.qmd) – the binder has really made it so, though it ought to be the Midsummer one. I suppose that great MS ought to go round with it as I suppose no one would have patience to copy it out in the right size[^1] It was very stupid and this thin Barnacle would be much the better for it. Will you put in a note to that effect when you write the orders. I have only the conclusion of [Two and Two](other_books/otherbook_507.qmd)[^2] towards another and I go to Ottery on Monday and to Puslinch on Wednesday next for a month, so the answers should come to me at Puslinch (Yealmpton) if they are not ready before Monday –
+Here is the September [Barnacle](organizations/other_89.qmd) – the binder has really made it so, though it ought to be the Midsummer one. I suppose that great MS ought to go round with it as I suppose no one would have patience to copy it out in the right size[^2] It was very stupid and this thin Barnacle would be much the better for it. Will you put in a note to that effect when you write the orders. I have only the conclusion of [Two and Two](other_books/otherbook_507.qmd)[^3] towards another and I go to Ottery on Monday and to Puslinch on Wednesday next for a month, so the answers should come to me at Puslinch (Yealmpton) if they are not ready before Monday –
 
 In haste
 yours sincerely

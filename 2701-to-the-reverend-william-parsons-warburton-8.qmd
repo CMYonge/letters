@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Feb 24th [?1881]  
+**Date:** Feb 24th [?1881][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Girton College Cambridge, Yonge VIII 1
 :::
@@ -43,4 +43,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter probably dates from 1881, when the Rev. Walter Elgie was dying.  In fact he died on 25 February 1881. Warburton was the diocesan school inspector, and was coming to look at [Otterbourne School](organizations/other_107.qmd).  From her next letter to him it sounds as if the inspection had been scheduled for Thursday 3 March.
+[^1]: The letter probably dates from 1881, when the Rev. Walter Elgie was dying.  In fact he died on 25 February 1881. Warburton was the diocesan school inspector, and was coming to look at [Otterbourne School](organizations/other_107.qmd).  From her next letter to him it sounds as if the inspection had been scheduled for Thursday 3 March.

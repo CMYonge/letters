@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 2nd [1862]  
 **From:** Otterbourne/ Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/ 7
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/ 7[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -44,4 +44,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 2 December 1862 and London SE 3 December 1862. The envelope also enclosing a letter from John William Parker, Sr., dated 19 November 1862.
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 2 December 1862 and London SE 3 December 1862. The envelope also enclosing a letter from John William Parker, Sr., dated 19 November 1862.

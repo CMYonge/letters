@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 31st 1860  
 **From:** Otterbourne,Winchester.  
-**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 10
+**Manuscript:** MS Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 10[^1]
 :::
 
 My dear [Sir](people/person_1143.qmd),
 
 Let the 5000 copies be put in hand, as you think it more advisable- Perhaps it was a mistake of mine to take fright, but after the first lessening of popularity, there is always a fear that the next attempt may fall still shorter - and one of my earlier books would not have left the 290 in hand.
 
-I suppose the printing will hardly be finished long before October, if it were I must make some arrangement with [Messrs Appleton](organizations/other_142.qmd) that the book should not appear in America before it comes out here.[^1]
+I suppose the printing will hardly be finished long before October, if it were I must make some arrangement with [Messrs Appleton](organizations/other_142.qmd) that the book should not appear in America before it comes out here.[^2]
 
 Yours faithfully 
 

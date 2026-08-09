@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [13 May 1871]  
-**Manuscript:** UCLA: collection 100: box 95
+**Manuscript:** UCLA: collection 100: box 95[^1]
 :::
 
 [To [Elizabeth Missing Sewell](people/person_1301.qmd)]
@@ -36,4 +36,4 @@ C M Y
 
 ---
 
-**Note:** A postcard postmarked Winchester D My 13 71 and Ventnor My 14.
+[^1]: A postcard postmarked Winchester D My 13 71 and Ventnor My 14.

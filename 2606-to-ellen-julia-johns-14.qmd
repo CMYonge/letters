@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 10th 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS University of Delaware
+**Manuscript:** MS University of Delaware[^1]
 :::
 
 My dear [Mrs Johns](people/person_772.qmd)
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

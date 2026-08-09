@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 11th [1892-1893?]  
+**Date:** March 11th [1892-1893?][^1]  
 **From:** Elderfield Otterbourne  
 **Manuscript:** MS Charlotte Mitchell/25
 :::
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** ‘Coadjutors’ presumably means [A.D. Innes](people/person_744.qmd) and [Christabel Coleridge](people/person_329.qmd), and suggests the letter dates from about 1893.
+[^1]: ‘Coadjutors’ presumably means [A.D. Innes](people/person_744.qmd) and [Christabel Coleridge](people/person_329.qmd), and suggests the letter dates from about 1893.

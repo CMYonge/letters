@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 11th 1859  
 **From:** Otterbourne Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1859/9
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1859/9[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
-I am sorry this came just too late to send to you at home as you wished.  It was too late to write and hurry the [people at Derby](organizations/other_108.qmd)to print it, so I could only wait for the chance of its coming in time.  The last thing I heard about it was from [the writer](people/person_1513.qmd) of the [Cheshire Pilgrims](other_books/otherbook_180.qmd)[^1]  [Frances Dysart](other_books/otherbook_265.qmd) is delightful.[^2]  I am glad you are going to have a little breathing time out of London.  You see I shall have another proof in a month’s time to send you
+I am sorry this came just too late to send to you at home as you wished.  It was too late to write and hurry the [people at Derby](organizations/other_108.qmd)to print it, so I could only wait for the chance of its coming in time.  The last thing I heard about it was from [the writer](people/person_1513.qmd) of the [Cheshire Pilgrims](other_books/otherbook_180.qmd)[^2]  [Frances Dysart](other_books/otherbook_265.qmd) is delightful.[^3]  I am glad you are going to have a little breathing time out of London.  You see I shall have another proof in a month’s time to send you
 
 yours sincerely
 C M Yonge

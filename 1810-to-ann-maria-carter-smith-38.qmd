@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 4th 1860  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ 1860/ 13
+**Manuscript:** MS Westcountry Studies Library, Exeter/ 1860/ 13[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -63,13 +63,13 @@ Mrs Bowey X
 
 [Mrs Grant of Laggan](people/person_1825.qmd)
 
-[Miss Anna Gurney](people/person_1824.qmd)[^1]
+[Miss Anna Gurney](people/person_1824.qmd)[^2]
 
 But I am quite open to any other that you may like to do, and know enough of, and if you will take any of these except the marked ones, I shall be thankful 
 
 I wish there were a few people in humbler life at whose biographies one could get at as thoroughly, but I fear this is impossible.  As to the size of the book that must be settled by the size of the biographies.
 
-I will do as you wish about the [Websters](other_books/otherbook_275.qmd). The blunder between [Wynnes](other_books/otherbook_267.qmd) & [Winds](other_books/otherbook_450.qmd)[^2] was often made in our house- but I am afraid authorship is a secret that won’t keep much better than marriage and in spite of the change of name, Woolwich will be very betraying. I am amused that you & [Miss Wilford](people/person_1520.qmd)[^3] should have both taken up the ladies’ side of military life at the same time
+I will do as you wish about the [Websters](other_books/otherbook_275.qmd). The blunder between [Wynnes](other_books/otherbook_267.qmd) & [Winds](other_books/otherbook_450.qmd)[^3] was often made in our house- but I am afraid authorship is a secret that won’t keep much better than marriage and in spite of the change of name, Woolwich will be very betraying. I am amused that you & [Miss Wilford](people/person_1520.qmd)[^4] should have both taken up the ladies’ side of military life at the same time
 
 yours sincerely
 C M Yonge

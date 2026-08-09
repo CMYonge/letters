@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 13th 1887  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Columbia University Library, New York:  Harper Bros Collection
+**Manuscript:** MS Columbia University Library, New York:  Harper Bros Collection[^1]
 :::
 
 [Gentlemen](organizations/other_248.qmd)
@@ -41,4 +41,4 @@ Messrs Harper
 
 ---
 
-**Note:** The collection also includes a stamped receipt.
+[^1]: The collection also includes a stamped receipt.

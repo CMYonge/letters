@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 14th 1891  
 **From:** Elderfield  
-**Manuscript:** MS Hampshire Record Office 9M55F56/1
+**Manuscript:** MS Hampshire Record Office 9M55F56/1[^2]
 :::
 
 Dear [Mrs Packe](people/person_1112.qmd)
@@ -42,4 +42,6 @@ C M Yonge
 
 ---
 
-**Note:** Penelope Packe and her sister Laura had been brought up by Anne Sturges Bourne (1809-9 December 1891) who had just died.  CMY had evidently written an obituary for a weekly newpaper, possibly the [*Guardian*](organizations/other_75.qmd). Black-edged paper.
+[^2]: Black-edged paper.
+
+**Note:** Penelope Packe and her sister Laura had been brought up by Anne Sturges Bourne (1809-9 December 1891) who had just died.  CMY had evidently written an obituary for a weekly newpaper, possibly the [*Guardian*](organizations/other_75.qmd).

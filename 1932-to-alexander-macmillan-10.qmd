@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 27th [1864]  
 **From:** Elderfield  
-**Manuscript:** MS British Library Add MSS 54920: 17
+**Manuscript:** MS British Library Add MSS 54920: 17[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
@@ -41,4 +41,4 @@ C. M. Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

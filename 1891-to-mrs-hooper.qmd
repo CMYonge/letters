@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 3d [1863]  
 **From:** Elderfield, Otterbourne, Winchester  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29[^1]
 :::
 
 My dear [Mrs Hooper](people/person_711.qmd)
@@ -44,4 +44,4 @@ C.M. Yonge
 
 ---
 
-**Note:** Black-edged paper. The word Elderfield is inserted by hand;  ‘Otterbourne, Winchester.’ is printed; a date of 1863 is therefore suggested.
+[^1]: Black-edged paper. The word Elderfield is inserted by hand;  ‘Otterbourne, Winchester.’ is printed; a date of 1863 is therefore suggested.

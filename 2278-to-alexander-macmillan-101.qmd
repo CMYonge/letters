@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 7th 1868  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 216-7
+**Manuscript:** MS British Library Add MSS 54920: 216-7[^1]
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd),
@@ -35,7 +35,7 @@ Thank you for your kind note and expressions of sympathy. It is the beginning of
 
 I write now about that unfortunate [Cameo](cmy_books/cmybook_73.qmd) which was missed out. The proof of it came to me first numbered XXXVI, which is its proper place, but the revise is XLII, so as to make it seem as if it belonged at the end of the reign of Edward II. Would it not be better to indicate on it its right place than to number it wrong? I will keep the revise till I hear from you.
 
-May I also ask if you absolutely reject the story '[Wooed and Won](organizations/other_202.qmd)'-?[^1] If so let me know, but please do not return it till I write again
+May I also ask if you absolutely reject the story '[Wooed and Won](organizations/other_202.qmd)'-?[^2] If so let me know, but please do not return it till I write again
 
 Yours sincerely
 

@@ -41,4 +41,5 @@ C M Yonge
 ---
 
 [^1]: Riley was probably trying to raise money for some charitable purpose.
-[^2]: Henry Hucks Gibbs (1819-1907) was MP for the City of London 1891-2, which dates the letter.
+
+**Note:** Henry Hucks Gibbs (1819-1907) was MP for the City of London 1891-2, which dates the letter.

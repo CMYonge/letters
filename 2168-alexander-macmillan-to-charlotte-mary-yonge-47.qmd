@@ -31,7 +31,7 @@ citation:
 Dear Miss Yonge,
 [*First page largely indecipherable, but seems to be concerned with*[The Danvers Papers](cmy_books/cmybook_63.qmd) ] 
 
-The [Sunday Library](organizations/other_145.qmd) is making progress I hope. . .[I](people/person_939.qmd) have found it useful to have someone to depute the correspondence to and combat the kind of [*illegible*] on the spot to take matters over. A lady friend of [Mrs Craik](people/person_378.qmd), a [Miss Martin](people/person_971.qmd), has undertaken this.[^1] She is a lady of quite exceptional poise & cultivation, with extensive historical knowlege, so much so that Dr B [*illegible*], professor at Kings College, quite looks on her as an authority. I am sure you would like her. 
+The [Sunday Library](organizations/other_145.qmd) is making progress I hope. . .[I](people/person_939.qmd) have found it useful to have someone to depute the correspondence to and combat the kind of [*illegible*] on the spot to take matters over. A lady friend of [Mrs Craik](people/person_378.qmd), a [Miss Martin](people/person_971.qmd), has undertaken this.<sup>2</sup> She is a lady of quite exceptional poise & cultivation, with extensive historical knowlege, so much so that Dr B [*illegible*], professor at Kings College, quite looks on her as an authority. I am sure you would like her. 
 
 [*Next paragraph illegible*]
 
@@ -42,4 +42,4 @@ Are you to be in London soon? I should much like to have a meeting at my house, 
 
 ---
 
-[^1]: The novelist Dinah Craik (1826-1887), who had married Macmillan’s partner in 1865, had shared lodgings with Frances Martin in 1850 when both were in their early twenties.
+**Note:** The novelist Dinah Craik (1826-1887), who had married Macmillan’s partner in 1865, had shared lodgings with Frances Martin in 1850 when both were in their early twenties.

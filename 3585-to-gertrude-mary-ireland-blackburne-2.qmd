@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Sept 24th [1897 or later?]  
+**Date:** Sept 24th [1897 or later?][^1]  
 **From:** Elderfield Otterbourne  
 **Manuscript:** MS Charlotte Mitchell
 :::
 
 My dear [Miss Blackburne](people/person_160.qmd)
-I have advised this [Sister Margaret](people/person_1639.qmd) Paulu to write to you about her appeal, as you might manage to get it in for her.  I did not know her Mother, they lived beyond our neighbourhood, but my [father](people/person_1631.qmd) knew hers well in magistrate's business, as [Col A'Court](people/person_1641.qmd), and had a great regard for him as an excellent person[^1]
+I have advised this [Sister Margaret](people/person_1639.qmd) Paulu to write to you about her appeal, as you might manage to get it in for her.  I did not know her Mother, they lived beyond our neighbourhood, but my [father](people/person_1631.qmd) knew hers well in magistrate's business, as [Col A'Court](people/person_1641.qmd), and had a great regard for him as an excellent person[^2]
 
 yours sincerely
 C M Yonge

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 2nd 1878  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54921
+**Manuscript:** MS British Library Add MSS 54921[^1]
 :::
 
 Dear [Mr Craik](people/person_379.qmd)
@@ -36,7 +36,7 @@ I am exceedingly puzzled. I am sure I wrote on to the end of the [history of Fra
 
 I should like to know whether Mr Greene saw the whole of the pages, or only calculated[.] I must supply them of course if they are no where, but I can hardly do so till after Easter[.] I am working hard to finish up [the Story of the Moors](cmy_books/cmybook_126.qmd), and then be in London for a few days in the second week after Easter
 
-I suspect that the 2nd part of my Copy must have been lost  - or it may have gone to [Clay](organizations/other_173.qmd) as I did not at first know that [Clowes](organizations/other_245.qmd) was doing the primer - and Mr Greene must have written from calculation[^1]
+I suspect that the 2nd part of my Copy must have been lost  - or it may have gone to [Clay](organizations/other_173.qmd) as I did not at first know that [Clowes](organizations/other_245.qmd) was doing the primer - and Mr Greene must have written from calculation[^2]
 
 Yours truly
 C M Yonge

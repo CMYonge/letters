@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 11th [1863]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/4
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/4[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -44,4 +44,4 @@ C M Yonge
 
 ---
 
-**Note:** Black edged paper, black engraved address Otterbourne, / Winchester, the word Elderfield added above Otterbourne. Envelope addressed to Miss Smith / 8 Wellington Buildings/ Charlton/ SE and postmarked Winchester 11 June 1863 and London SE (date illegible).
+[^1]: Black edged paper, black engraved address Otterbourne, / Winchester, the word Elderfield added above Otterbourne. Envelope addressed to Miss Smith / 8 Wellington Buildings/ Charlton/ SE and postmarked Winchester 11 June 1863 and London SE (date illegible).

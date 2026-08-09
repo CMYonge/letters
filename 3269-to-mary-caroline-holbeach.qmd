@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 9th 1894  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 Dear [Mrs Holbeach](people/person_706.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to ‘Mrs Holbeach/ Farnborough Hall/ Banbury’.
+[^1]: Envelope addressed to ‘Mrs Holbeach/ Farnborough Hall/ Banbury’.

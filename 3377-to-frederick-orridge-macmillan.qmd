@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 30th 1898  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS British Library  Add MSS 54921: 239-40
+**Manuscript:** MS British Library  Add MSS 54921: 239-40[^1]
 :::
 
 Dear [Mr Macmillan](people/person_942.qmd)
-I hope to send off the illustrations - or the material for them on Saturday.[^1]
+I hope to send off the illustrations - or the material for them on Saturday.[^2]
 
 I will write to [Mr Portal](people/person_1196.qmd), the Chairman of the Quarter Sessions for permission for the portrait of [Sir Wm Heathcote](people/person_669.qmd)
 
@@ -41,7 +41,7 @@ The [other](other_books/otherbook_124.qmd) belonging to me is the [Revd J.F. Moo
 
 The photographs are by a man named [Savage](people/person_1283.qmd), who is dead I marked what are worth looking at also two little woodcuts The photo of the Hursley Vicarage is much better than that in the envelope, and more characteristic, but Frith’s may be better than either
 
-I need hardly say that all the collection is valuable and we trust to their return in safety[^2]
+I need hardly say that all the collection is valuable and we trust to their return in safety[^3]
 
 Yours truly
 C M Yonge		

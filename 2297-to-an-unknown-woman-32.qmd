@@ -27,10 +27,10 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 25th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS New York Public Library, De Coursey Fales Collection/4
+**Manuscript:** MS New York Public Library, De Coursey Fales Collection/4[^1]
 :::
 
-My dear Miss [name deliberately obscured][^1]
+My dear Miss [name deliberately obscured][^2]
 I hope I am not tormenting you but on account of other engagements I am anxious to know whether you could come this week or next. The week that begins with the 7th and has Ash Wednesday in it, I am going to spend at [Mr Wilson](people/person_1541.qmd)’s but the one after that I shall be at home again if that suited you better than within the next fortnight
 
 yours sincerely

@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 27th [1867]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29[^1]
 :::
 
 Dear [Sir](people/person_149.qmd)
-Do you know what it is to make the worst blunders in that which one knows so well as hardly to think real recollection worth while. This is the only way in which I can understand my own blunder about that hymn upon Sennacherib, which is not only home made - by my [mother](people/person_1606.qmd) - but I have always heard every Sunday for more than twenty years.[^1]
+Do you know what it is to make the worst blunders in that which one knows so well as hardly to think real recollection worth while. This is the only way in which I can understand my own blunder about that hymn upon Sennacherib, which is not only home made - by my [mother](people/person_1606.qmd) - but I have always heard every Sunday for more than twenty years.[^2]
 
 I will send the July No of the [Monthly Packet](organizations/other_52.qmd). A few spare ones are always sent to me as Editor so that I can quite send you this one but in general, copies are not supplied to contributors, it being more convenient to keep the accounts apart
 

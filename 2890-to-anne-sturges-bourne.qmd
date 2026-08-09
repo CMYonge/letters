@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 5th 1888  
 **From:** Elderfield  
-**Manuscript:** MS Miss Barbara Dennis/6
+**Manuscript:** MS Miss Barbara Dennis/6[^1]
 :::
 
 My dear [Miss Bourne](people/person_1379.qmd)
 
-Indeed I would gladly if I could, but months ago [Professor Freeman](people/person_523.qmd)asked me to come and see Hannah Mores villages, and hear his recollections of her, and the time has fixed itself for next week, and after that comes harvest - and dedication feasts - and Mission Guild meeting, and I am afraid I cannot do it  though I am very sorry not to see you again this year before you are shut up for the winter. If you were well enough I might manage a day or two later.  My [National Society](organizations/other_32.qmd)story I fancy you will like being the history of a young school mistress and pupil teachers.[^1]  We have just had a grand wedding here of [our master](people/person_1256.qmd)and [Alice Misselbrook](people/person_1257.qmd)after being infant mistress nine years.[^2]  She gives up which is better for him than for us and we are expecting her successor.
+Indeed I would gladly if I could, but months ago [Professor Freeman](people/person_523.qmd)asked me to come and see Hannah Mores villages, and hear his recollections of her, and the time has fixed itself for next week, and after that comes harvest - and dedication feasts - and Mission Guild meeting, and I am afraid I cannot do it  though I am very sorry not to see you again this year before you are shut up for the winter. If you were well enough I might manage a day or two later.  My [National Society](organizations/other_32.qmd)story I fancy you will like being the history of a young school mistress and pupil teachers.[^2]  We have just had a grand wedding here of [our master](people/person_1256.qmd)and [Alice Misselbrook](people/person_1257.qmd)after being infant mistress nine years.[^3]  She gives up which is better for him than for us and we are expecting her successor.
 
 Of worthy books, you should read [the Dragon of the North](other_books/otherbook_1062.qmd).  It is like a possible Fouqué
 

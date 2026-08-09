@@ -33,11 +33,11 @@ citation:
 My dear [Mr Macmillan](people/person_939.qmd),
 [Miss Sewell](people/person_1301.qmd) is in want of a volume of Milmans[Latin Christianity](other_books/otherbook_411.qmd) which the [London Library](organizations/other_29.qmd) does not send. She will write to you which it is and perhaps you could kindly cause it to be sent to her. I cant think what [Clay](organizations/other_173.qmd) meant by our delaying the [proofs](cmy_books/cmybook_71.qmd) for we had never done so.
 
-I have never had any of [Heartsease](cmy_books/cmybook_19.qmd) to put the headings to the pages.[^1] 
+I have never had any of [Heartsease](cmy_books/cmybook_19.qmd) to put the headings to the pages.<sup>2</sup> 
 
 Yours sincerely
 C M Yonge
 
 ---
 
-[^1]: This issue, and the reference to Clay’s complaint, must have been raised by Macmillan in letters either missing from the archive, or indecipherable because of bad wet-press copying.
+**Note:** This issue, and the reference to Clay’s complaint, must have been raised by Macmillan in letters either missing from the archive, or indecipherable because of bad wet-press copying.

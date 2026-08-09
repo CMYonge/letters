@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 30th [1867]  
 **From:** Otterbourne  
-**Manuscript:** MS Bodleian Library, Oxford: MSS. Wilberforce c. 16 ff64-5
+**Manuscript:** MS Bodleian Library, Oxford: MSS. Wilberforce c. 16 ff64-5[^1]
 :::
 
 [My Lord](people/person_1512.qmd),
 Allow me to express my gratitude for the kindness of your invitation and of the arrangement for the journey. I must however beg to decline it until another year when I hope I may have the pleasure of making your [daughter](people/person_1218.qmd)’s acquaintance under more cheerful circumstances.
 
-I cannot at present feel inclined to enter on a large party, nor to leave my [mother](people/person_1606.qmd), and I should be much obliged if you would allow me to consider the visit as deferred until some future time.[^1]
+I cannot at present feel inclined to enter on a large party, nor to leave my [mother](people/person_1606.qmd), and I should be much obliged if you would allow me to consider the visit as deferred until some future time.[^2]
 
 With many thanks for your kindness
 Yours very respectfully 

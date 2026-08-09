@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 12th [1863]  
 **From:** Elderfield  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 My dear [Mr Raikes](people/person_1223.qmd),
 
-I am very sorry to have been so long answering your note. I have been from home, and have come back into a great confusion, and much that is trying.[^1] I believe I can quite manage without a chapter of [yours](other_books/otherbook_348.qmd) this time, so I hope you will not hurry yourself to let me have one before the 18th of October.
+I am very sorry to have been so long answering your note. I have been from home, and have come back into a great confusion, and much that is trying.[^2] I believe I can quite manage without a chapter of [yours](other_books/otherbook_348.qmd) this time, so I hope you will not hurry yourself to let me have one before the 18th of October.
 
 In much haste and confusion,
 

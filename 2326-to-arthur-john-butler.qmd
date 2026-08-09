@@ -27,19 +27,19 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 12th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Caroline Fairclough/20
+**Manuscript:** MS Mrs Caroline Fairclough/20[^1]
 :::
 
 My dear [Arthur](people/person_238.qmd)
-[Clark](other_books/otherbook_552.qmd) gives <u>oinos</u> as an original form of Ýíïò, and also of nous, but from the way he bracketted it I fancied he meant it for a form of one dialect, I ought to have verified it.[^1]
+[Clark](other_books/otherbook_552.qmd) gives <u>oinos</u> as an original form of Ýíïò, and also of nous, but from the way he bracketted it I fancied he meant it for a form of one dialect, I ought to have verified it.[^2]
 
 I see the misunderstanding that brought me wrong in the vocatives - thank you. About the English apostrophe S I meant to say more when I had more space, I only put it there to stand for present use, till I went into the history of declensions, this is only the account of articles and cases.
 
-Old Veneroni and Zothi[^2] really does treat <u>dal</u> and <u>dalla</u> as ablative cases. I would not stick to it if it is really wrong, but it seems to me that having acknowledged the analytical method in modern languages, the preposition by which the case is indicated becomes the sign of the case in that language. If <u>I have spoken</u> is the perfect tense, and I may have spoken the imperfect (or whatever it is) of the subjunctive mood, surely - <u>to a</u> cat may be the dative case so the preposition united with the articles in the romance languages would become signs of the cases. It does not seem to me possible to compare the different grammars without granting leave to do this, but if there is any more abstruse reason against it that you can let me know there is still time to alter - i e if you write by the next day’s post -
+Old Veneroni and Zothi[^3] really does treat <u>dal</u> and <u>dalla</u> as ablative cases. I would not stick to it if it is really wrong, but it seems to me that having acknowledged the analytical method in modern languages, the preposition by which the case is indicated becomes the sign of the case in that language. If <u>I have spoken</u> is the perfect tense, and I may have spoken the imperfect (or whatever it is) of the subjunctive mood, surely - <u>to a</u> cat may be the dative case so the preposition united with the articles in the romance languages would become signs of the cases. It does not seem to me possible to compare the different grammars without granting leave to do this, but if there is any more abstruse reason against it that you can let me know there is still time to alter - i e if you write by the next day’s post -
 
 [Brachiet](other_books/otherbook_558.qmd) traces <u>mieux</u> from <u>melius</u>, through the intermediate old French <u>miels</u> - which I think is conclusive <u>Meilleur</u> would surely be the adjective and mieux the adverb.
 
-Those last lines have got into a horrible confusion, partly my fault and partly the printers - and those red lines dazzle so that it is difficult to see through their haze The sense of what I meant was that I think /<u>viel</u>\\ full and fold both are from the same root as ðïëõò[^3] plus and plice - so that if there were a verb to much-fold it would exactly answer to <u>multiply</u>  I do not know how to get at the <u>root</u> so as to satisfy myself - I wish there were some comprehensible genealogy of the chief roots accessible -
+Those last lines have got into a horrible confusion, partly my fault and partly the printers - and those red lines dazzle so that it is difficult to see through their haze The sense of what I meant was that I think /<u>viel</u>\\ full and fold both are from the same root as ðïëõò[^4] plus and plice - so that if there were a verb to much-fold it would exactly answer to <u>multiply</u>  I do not know how to get at the <u>root</u> so as to satisfy myself - I wish there were some comprehensible genealogy of the chief roots accessible -
 
 But those last sentences were more than usually out of my depth and were misprinted besides - and I ought to have got them out of their muddle before sending them to you. I have simplified them now, and I mean to have a revise before I go away.
 

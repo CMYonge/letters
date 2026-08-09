@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 26th 1867.  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Charlotte Mitchell
+**Manuscript:** MS Charlotte Mitchell[^1]
 :::
 
 My dear [Edith](people/person_749.qmd),
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

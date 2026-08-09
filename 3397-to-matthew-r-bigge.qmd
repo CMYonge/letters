@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 27 1899  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** The Rev. Canon Geoffrey Curtis
+**Manuscript:** The Rev. Canon Geoffrey Curtis[^1]
 :::
 
 Dear [Sir](people/person_2083.qmd)
@@ -43,4 +43,4 @@ Charlotte Mary Yonge
 
 ---
 
-**Note:** Pasted into a copy of *John Keble's Parishes* (1899) with the ownership stamp of Matthew R. Bigge and the bookplate and monogrammed binding of John Tricks Spalding.
+[^1]: Pasted into a copy of *John Keble's Parishes* (1899) with the ownership stamp of Matthew R. Bigge and the bookplate and monogrammed binding of John Tricks Spalding.

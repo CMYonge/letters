@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 4th [1897]  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 Dear [Madam](people/person_2165.qmd)
@@ -37,7 +37,7 @@ As far as I can remember the first four tales were
 [Hopes and Fears](cmy_books/cmybook_37.qmd)
 [Dynevor Terrace](cmy_books/cmybook_27.qmd)	
 
-because I meant them to have some sort of analogy to the four seasons[^1]
+because I meant them to have some sort of analogy to the four seasons[^2]
 
 [The Daisy Chain](cmy_books/cmybook_24.qmd)
 [Trial](cmy_books/cmybook_53.qmd)

@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [April 1892]  
+**Date:** [April 1892][^1]  
 **Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 336
 :::
 
@@ -33,4 +33,4 @@ We buried the poor old fellow with all honours.  [Charles](people/person_2111.qm
 
 ---
 
-**Note:** Dated from the reference to the departure of the Rev. Henry Brock in 1892. The 'poor old fellow' was a dog named Graf.
+[^1]: Dated from the reference to the departure of the Rev. Henry Brock in 1892. The 'poor old fellow' was a dog named Graf.

@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 8th [1868]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1868/1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1868/1[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
-Thank you for your kind, warm hearted letter. I know you too know what a great grief is, and how close one clings to the last surviving parent,[^1] and the sense of being still a child at home. May you long preserve that blessing.
+Thank you for your kind, warm hearted letter. I know you too know what a great grief is, and how close one clings to the last surviving parent,[^2] and the sense of being still a child at home. May you long preserve that blessing.
 
 I should be very lonely but that my [brother](people/person_1624.qmd) and his [wife](people/person_1604.qmd) are only a garden’s length from me, and most kind, and just at present I have a [cousin](people/person_1582.qmd) with me, who has always been like a sister to me. I think I shall go into Devonshire with her, and then return to face the solitude
 

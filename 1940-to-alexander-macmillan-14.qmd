@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 26th 1864  
 **From:** Elderfield Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 21-22
+**Manuscript:** MS British Library Add MSS 54920: 21-22[^1]
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd),
@@ -37,7 +37,7 @@ I am glad you decided against [illustrations](organizations/other_167.qmd) for t
 
 I think I prefer [Golden Deeds](cmy_books/cmybook_51.qmd) to noble deeds, but that may be only because I have thought of the incidents by the former title, and besides it is a little more uncommon and vague - which last is a gain in a miscellaneous sort of collection, and gives a certain sense of freedom in gathering them. I have a delightful letter about them from [Mrs Macmillan](people/person_941.qmd) which I am going to answer at once.
 
-There are some grand incidents in the [Indian Mutiny](organizations/other_134.qmd) such as [Lieutenant Willoughby](people/person_1904.qmd)’s destruction of the powder at Delhi, Dr Hay remaining with the sick at Benares, and a young officer’s escape carrying a little girl of 3 years old.[^1] But I never saw them but in the Times, and I suppose the only chance of getting the sight of them again would be in some library when I am in London again.
+There are some grand incidents in the [Indian Mutiny](organizations/other_134.qmd) such as [Lieutenant Willoughby](people/person_1904.qmd)’s destruction of the powder at Delhi, Dr Hay remaining with the sick at Benares, and a young officer’s escape carrying a little girl of 3 years old.[^2] But I never saw them but in the Times, and I suppose the only chance of getting the sight of them again would be in some library when I am in London again.
 
 Yours faithfully
 C. M. Yonge		

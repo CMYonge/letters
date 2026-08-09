@@ -24,14 +24,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [August 1873]  
+**Date:** [August 1873][^1]  
 **Manuscript:** MS Charlotte Mitchell
 :::
 
-My dear [Miss Poole](people/person_1187.qmd)[^1]
+My dear [Miss Poole](people/person_1187.qmd)[^2]
 I suspected that you would have to change to Monday. I wonder if the enclosed will make any further change.  We shall be very glad to have you here on Sunday, and the carriage with [Miss Mackenzie](people/person_930.qmd) in it will meet you at Bpstoke at the same time.
 
-I suppose - as you do not say so - [Miss Dyson](people/person_464.qmd) has heard no more from Heaths Court[^2]
+I suppose - as you do not say so - [Miss Dyson](people/person_464.qmd) has heard no more from Heaths Court[^3]
 
 yours affectionately
 C M Yonge

@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 11th 1888  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS British Library Add MSS 54921: 165-6
+**Manuscript:** MS British Library Add MSS 54921: 165-6[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
 
 I have a story all but finished which I think might be printed before this season is over. It is in 30 chapters and is finished to within 6 of the end.
 
-The difficulty is what to call it.[^1] The period is from 1681 to 1696 the chief interest a youth who has been thought a changeling and who disappears for 7 years during which he is supposed to be murdered - but is really consorting with Jacobite high way men & smugglers. I have thought of Porchester Castle Underground[,] Peregrine the Changeling  A Crooked Ship A Changeling Elf, Three Seventh Years, A Seven Years’ Secret
+The difficulty is what to call it.[^2] The period is from 1681 to 1696 the chief interest a youth who has been thought a changeling and who disappears for 7 years during which he is supposed to be murdered - but is really consorting with Jacobite high way men & smugglers. I have thought of Porchester Castle Underground[,] Peregrine the Changeling  A Crooked Ship A Changeling Elf, Three Seventh Years, A Seven Years’ Secret
 
 I believe this last is best. The Mystery of the Vault, which really is most applicable sounds like a penny dreadful - and the objections to the other names relating to the hero are that they sound too like a fairy tale and that for half the book, he is out of sight - the narrative being with the heroine ‘Anne Woodford' - maiden? woman? who had kept silence her tongue is another alternative
 

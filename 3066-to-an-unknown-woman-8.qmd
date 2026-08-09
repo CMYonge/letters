@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 31st  [1855-9]  
 **From:** [Dogmersfield](organizations/other_121.qmd)  
-**Manuscript:** MS formerly in the Royal Institution of Cornwall, Enys No. 1428
+**Manuscript:** MS formerly in the Royal Institution of Cornwall, Enys No. 1428[^1]
 :::
 
 Madam
@@ -38,4 +38,6 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper. Probably dating between the death of WCY and the death of the Rev. Charles Dyson in 1860.
+[^1]: Black-edged paper.
+
+**Note:** Probably dating between the death of WCY and the death of the Rev. Charles Dyson in 1860.

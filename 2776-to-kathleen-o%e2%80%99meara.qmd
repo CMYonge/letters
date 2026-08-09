@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 21st [1883]  
 **From:** Elderfield, Otterbourne, Winchester  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^2]
 :::
 
 Dear [Miss O’Meara](people/person_1096.qmd)[^1]

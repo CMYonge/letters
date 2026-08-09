@@ -31,7 +31,7 @@ citation:
 :::
 
 Dear [Mrs Drew](people/person_443.qmd),
-I am almost certain that the [Little Duke](cmy_books/cmybook_20.qmd) and the [Lances of Lynwood](cmy_books/cmybook_23.qmd) are published in chapter form for school children’s reading and our schoolmistress told us she had seen [Kenneth](cmy_books/cmybook_10.qmd) advertised as abridged for School reading - I know [Arnold](people/person_2211.qmd) wrote to me for permission and I told him he might use it, if he could arrange with [Parker of Oxford](people/person_1142.qmd), who published it when I knew nothing of arrangements.[^1] [Macmillan](organizations/other_111.qmd) has all the rest; I have made some attempts to get them reduced but the Daisy Chain [Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd) was published at /6 and they will reduce no more unless 50,000 are ordered, so I fear nothing can be done.
+I am almost certain that the [Little Duke](cmy_books/cmybook_20.qmd) and the [Lances of Lynwood](cmy_books/cmybook_23.qmd) are published in chapter form for school children’s reading and our schoolmistress told us she had seen [Kenneth](cmy_books/cmybook_10.qmd) advertised as abridged for School reading - I know [Arnold](people/person_2211.qmd) wrote to me for permission and I told him he might use it, if he could arrange with [Parker of Oxford](people/person_1142.qmd), who published it when I knew nothing of arrangements.[^1] [Macmillan](organizations/other_111.qmd) has all the rest; I have made some attempts to get them reduced but the <s>Daisy Chain</s> [Dove in the Eagle’s Nest](cmy_books/cmybook_62.qmd) was published at /6 and they will reduce no more unless 50,000 are ordered, so I fear nothing can be done.
 
 The [National Society](organizations/other_32.qmd) might make its reward books cheaper - it has a good many historical tales of mine.
 
@@ -46,7 +46,7 @@ The books that my 10 and 9 years old grand nephew and niece[^3] have liked best 
 [Stories from Froissart](other_books/otherbook_761.qmd) /Wells Gardiner
 Sylvia in Flowerland by Linda Gardiner (Seeley)
 
-Also a [book of Agnes Giberne’s](other_books/otherbook_763.qmd) explaining common facts - capillary attraction and the like, but I  cannot remember the name<sup>4</sup> Also [a Brave Girl](other_books/otherbook_758.qmd)(SPCK) is a very pretty story in the Indian Mutiny and ends well
+Also a [book of Agnes Giberne’s](other_books/otherbook_763.qmd) explaining common facts - capillary attraction and the like, but I  cannot remember the name<sup>8</sup> Also [a Brave Girl](other_books/otherbook_758.qmd)(SPCK) is a very pretty story in the Indian Mutiny and ends well
 
 Did you send me a paper to be signed for I never found it?
 

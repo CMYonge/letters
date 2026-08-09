@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 8th [1870]  
 **From:** Elderfield,  Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29[^1]
 :::
 
 Dear [Mrs Mercier](people/person_990.qmd),
 I enclose a cheque for the remainder of [Campanella](other_books/otherbook_502.qmd) and send at the same time a proof of [Mr Peabody](other_books/otherbook_6562.qmd), hoping you will not sacrifice the modest request which seems to me too good to be lost.
 
-Thank you for [Miss Tucker’](people/person_1424.qmd)s address  I hope she has heard from [Mr Warne](people/person_1433.qmd) by this time[^1]
+Thank you for [Miss Tucker’](people/person_1424.qmd)s address  I hope she has heard from [Mr Warne](people/person_1433.qmd) by this time[^2]
 
 Yours sincerely
 C M Yonge

@@ -25,9 +25,9 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Febry 23d [1878]  
+**Date:** Febry 23d [1878][^2]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29[^1]
 :::
 
 Dear Sir,
@@ -41,4 +41,5 @@ C.M. Yonge
 
 ---
 
-**Note:** Black-edged paper. Placed here guessing that the corrections were those to the *History of Christian Names* mentioned in the letter 2620, also on black-edged paper,  to G. L. Craik of 11 March 1878.
+[^1]: Black-edged paper.
+[^2]: Placed here guessing that the corrections were those to the *History of Christian Names* mentioned in the letter 2620, also on black-edged paper,  to G. L. Craik of 11 March 1878.

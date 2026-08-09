@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 12th [after 1885]  
 **From:** Elderfield  
-**Manuscript:** MS Harold B Lee Library, Brigham Young University
+**Manuscript:** MS Harold B Lee Library, Brigham Young University[^1]
 :::
 
 Dearest [Jay](people/person_1042.qmd)
@@ -37,4 +37,4 @@ I find I have a copy of the [Shield](cmy_books/cmybook_184.qmd) which you are we
 
 ---
 
-**Note:** The letter is inserted in a copy of *The Two Sides of the Shield* (London: Macmillan 1885), in such a way as to make the back of the first leaf illegible.
+[^1]: The letter is inserted in a copy of *The Two Sides of the Shield* (London: Macmillan 1885), in such a way as to make the back of the first leaf illegible.

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Easter Monday [9 April] 1860  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/9
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/9[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -46,4 +46,4 @@ Please send it at once to Messrs [Mozley](organizations/other_108.qmd), Friar Ga
 
 ---
 
-**Note:** Envelope addressed to Miss Ann Smith/ Old Charlton Rectory/ SE and postmarked Winchester (date missing because stamp cut out) and London SE 10 April 1860.
+[^1]: Envelope addressed to Miss Ann Smith/ Old Charlton Rectory/ SE and postmarked Winchester (date missing because stamp cut out) and London SE 10 April 1860.

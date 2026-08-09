@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [<i>c</i>. 1898]  
+**Date:** [<i>c</i>. 1898][^1]  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
@@ -36,4 +36,4 @@ C M Yonge
 
 ---
 
-**Note:** Perhaps associated with the photograph by Bramston of CMY aged 75, illustrated in Coleridge, *Life*, facing p 280.
+[^1]: Perhaps associated with the photograph by Bramston of CMY aged 75, illustrated in Coleridge, *Life*, facing p 280.

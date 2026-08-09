@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 17th [1873]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
@@ -42,4 +42,6 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to 'The Revd/ J F Moor/Ampfield Vicarage/ Romsey' and postmarked Winchester Jy 17/73. The Rev. William Bigg Wither, formerly curate of Otterbourne, had moved to Hardwick, Buckinghamshire.
+[^1]: Envelope addressed to 'The Revd/ J F Moor/Ampfield Vicarage/ Romsey' and postmarked Winchester Jy 17/73.
+
+**Note:** The Rev. William Bigg Wither, formerly curate of Otterbourne, had moved to Hardwick, Buckinghamshire.

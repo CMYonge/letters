@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 10th [1885]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Birmingham University Library
+**Manuscript:** MS Birmingham University Library[^1]
 :::
 
 My dear [Mrs Joyce](people/person_787.qmd),
 
 I am sorry to say I must ask you to put off your kind visit till next week.
 
-My [sister in law](people/person_1604.qmd)’s brother, [Charles Walter](people/person_1464.qmd), has been killed in Alderney by a fall from his dog cart.[^1]  He is to be buried on Tuesday, beside his [father](people/person_1461.qmd)at Winchester, and the relations will be in and out here to see the poor [invalid sister](people/person_1462.qmd) so that I cannot venture to have anyone here on my own account.
+My [sister in law](people/person_1604.qmd)’s brother, [Charles Walter](people/person_1464.qmd), has been killed in Alderney by a fall from his dog cart.[^2]  He is to be buried on Tuesday, beside his [father](people/person_1461.qmd)at Winchester, and the relations will be in and out here to see the poor [invalid sister](people/person_1462.qmd) so that I cannot venture to have anyone here on my own account.
 
 Next week will be free, except on what ever day they may fix for electing the High school mistress  Then I shall be very glad to see you
 

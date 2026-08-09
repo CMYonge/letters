@@ -27,17 +27,17 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 17 [1900]  
 **From:** Elderfield  
-**Manuscript:** MS Mrs Clare Roels/100.  Partly printed by Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 344-5
+**Manuscript:** MS Mrs Clare Roels/100.  Partly printed by Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 344-5[^1]
 :::
 
 My dear [CC](people/person_329.qmd)
-Tory is banished, [Juliette](people/person_870.qmd) fell in love with him, so he is gone to Witham Chase, a very good home for  him, and Vic is left lamenting – The mother mews all over the place but as she did before Tory went, I think it is from native accidie, not maternal grief-[^1]  [Aimée](people/person_869.qmd) brought [Miss Price](people/person_1209.qmd) to tea and sent Juliette, a little friend and a sort of semi governess to picnic on the top of the hill.  It was very pleasant –
+Tory is banished, [Juliette](people/person_870.qmd) fell in love with him, so he is gone to Witham Chase, a very good home for  him, and Vic is left lamenting – The mother mews all over the place but as she did before Tory went, I think it is from native accidie, not maternal grief-[^2]  [Aimée](people/person_869.qmd) brought [Miss Price](people/person_1209.qmd) to tea and sent Juliette, a little friend and a sort of semi governess to picnic on the top of the hill.  It was very pleasant –
 
 Fancy the German hatred to the English so that an acquaintance would not bow to [Anna](people/person_195.qmd) in the theatre!   Aimée tried to explain the rights of the Boer war to a gentleman German but he would not listen for a moment.  Of course they were very happy at Ammergau.  They staid for the 2d performance on Whit Tuesday for the peasants  Of course we could talk only chiefly of the terrible China -  I suppose there are many more victims besides those given in the list of the Legation, and we do not know how many of the other nations.
 
-I suppose Tientsin[^2] is safe for the present, but [Mrs Bishop](people/person_1817.qmd) tells of such splendid hospitals at Hanchow and Mukden  One English doctor has been there 18 years.  [Miss Finlaison](people/person_512.qmd) came home Friday night, very much done up.  It was influenza bringing on paralysis and apoplexy, and the niece Dora was very ill with that endless influenza, and Amy only just keeping about.[^3]  What they are all to live upon I cannot think.  [Mrs Barton](people/person_2235.qmd) continues to write and justify Irene for a childish freak
+I suppose Tientsin[^3] is safe for the present, but [Mrs Bishop](people/person_1817.qmd) tells of such splendid hospitals at Hanchow and Mukden  One English doctor has been there 18 years.  [Miss Finlaison](people/person_512.qmd) came home Friday night, very much done up.  It was influenza bringing on paralysis and apoplexy, and the niece Dora was very ill with that endless influenza, and Amy only just keeping about.[^4]  What they are all to live upon I cannot think.  [Mrs Barton](people/person_2235.qmd) continues to write and justify Irene for a childish freak
 
-[Mary Morshead](people/person_28.qmd) and [Sister Sarah](people/person_466.qmd) come for a fortnight on the 27th.  I wonder if [Mr Jacob](people/person_747.qmd) belongs to the [Bishop of Newcastle](people/person_748.qmd)  There were some cousins, who I think lived in Guernsey  A wife without children <u>may</u> be just the thing, but what a bouleversement[^4]
+[Mary Morshead](people/person_28.qmd) and [Sister Sarah](people/person_466.qmd) come for a fortnight on the 27th.  I wonder if [Mr Jacob](people/person_747.qmd) belongs to the [Bishop of Newcastle](people/person_748.qmd)  There were some cousins, who I think lived in Guernsey  A wife without children <u>may</u> be just the thing, but what a bouleversement[^5]
 
 your affectionate
 C M Yonge

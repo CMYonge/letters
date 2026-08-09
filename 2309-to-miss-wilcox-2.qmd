@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 16th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 My dear [Miss Wilcox](people/person_1517.qmd),
 I hope your [mother](people/person_2030.qmd) is improving in spite of the cold winds and that you are beginning to think of turning your face to the South, now that Easter is so near. It will be a great pleasure to see you, and I hope you will soon be able to mention a day.
 
-Do tell me if you know the answer to [Mr Dodgson](people/person_261.qmd)’s Acrostic in [Phantasmagoria](other_books/otherbook_547.qmd)[^1] I am sure that the second shadow is Commemoration but nobody can make out the first
+Do tell me if you know the answer to [Mr Dodgson](people/person_261.qmd)’s Acrostic in [Phantasmagoria](other_books/otherbook_547.qmd)[^2] I am sure that the second shadow is Commemoration but nobody can make out the first
 
 Yours sincerely
 C M Yonge

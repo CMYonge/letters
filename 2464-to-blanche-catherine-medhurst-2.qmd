@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 18th 1872  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29[^1]
 :::
 
 Dear [Miss Medhurst](people/person_988.qmd)
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

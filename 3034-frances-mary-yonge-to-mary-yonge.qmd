@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** 9th March 1854  
 **From:** Otterbourn  
-**Manuscript:** MS Plymouth and West Devon Record Office 308/256
+**Manuscript:** MS Plymouth and West Devon Record Office 308/256[^1]
 :::
 
 My dear [Mary](people/person_1626.qmd)
@@ -40,4 +40,4 @@ F M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

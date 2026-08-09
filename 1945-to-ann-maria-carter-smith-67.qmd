@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 28th 1864  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/3
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/3[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -41,4 +41,5 @@ C M Yonge
 ---
 
 [^1]: Envelope addressed to Miss Smith/ and postmarked Winchester 28 March 1864 and London SE 29 March 1864.
-[^2]: She had evidently been sent a draft manuscript of *The Two Anastasias* 3 vols (London: Bentley 1864).
+
+**Note:** She had evidently been sent a draft manuscript of *The Two Anastasias* 3 vols (London: Bentley 1864).

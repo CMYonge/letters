@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 18th 1876  
 **From:** Elderfield, Otterbourne, Winchester  
-**Manuscript:** MS Lambeth Palace Library  3996 f.105-6
+**Manuscript:** MS Lambeth Palace Library  3996 f.105-6[^1]
 :::
 
 Dear [Madam](people/person_1509.qmd)
 
-As far as I could judge Miss Douglas[^1] was very thorough in her teaching and had been well instructed herself so as to know French and German grammar perfectly, and have a well informed knowledge of history &amp;c – and her music is unusually good.
+As far as I could judge Miss Douglas[^2] was very thorough in her teaching and had been well instructed herself so as to know French and German grammar perfectly, and have a well informed knowledge of history &amp;c – and her music is unusually good.
 
 She has a very fine voice, and her singing is excellent.
 

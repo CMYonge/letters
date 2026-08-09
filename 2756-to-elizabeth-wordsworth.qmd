@@ -36,7 +36,7 @@ I have often meant to write and say how much your Buxton book helped me in the d
 
 I think those horrid cancans must have suggested all the classical notions of the infernal regions.
 
-There is [a big and useful book by some man at Sheffield](other_books/otherbook_953.qmd) about the captivity of the Queen which I luckily got hold of, and which helped me through the rest.  I never saw any one keep youthful brightness like my dear old [Julia Argles](people/person_57.qmd), I am glad you have been seeing her, but I suppose you have to part with [Edith](people/person_56.qmd).[^2]  I have had [Miss Sewell](people/person_1301.qmd)here very anxious about promoting secondary schools for girls. [^3]  Boys do seem well attended to, but Girls not.
+There is [a big and useful book by some man at Sheffield](other_books/otherbook_953.qmd) about the captivity of the Queen which I luckily got hold of, and which helped me through the rest.  I never saw any one keep youthful brightness like my dear old [Julia Argles](people/person_57.qmd), I am glad you have been seeing her, but I suppose you have to part with [Edith](people/person_56.qmd).[^2]  I have had [Miss Sewell](people/person_1301.qmd)here very anxious about promoting secondary schools for girls. <sup>3</sup>  Boys do seem well attended to, but Girls not.
 
 Yours affectionately
 C M Yonge
@@ -44,5 +44,4 @@ C M Yonge
 ---
 
 [^1]: CMY refers to her novel *Unknown to History* (1882).  She had asked Wordsworth's help with making plausible her description of the visit to Buxton by Mary, Queen of Scots.
-[^2]: Margaret Julia Davys, a childhood friend of CMY’s, had married (1839) the Rev. Marsham Argles (1814-1892).  Their daughter Edith Margaret Argles (1853-1935) was an early student at Lady Margaret Hall.
-[^3]: Elizabeth Missing Sewell had stayed the night of the 14 August.
+[^2]: Elizabeth Missing Sewell had stayed the night of the 14 August.

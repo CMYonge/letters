@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [August 1866]  
+**Date:** [August 1866][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS University of Iowa; MsL/Y56wa
 :::
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Louisa Walter married  Francis Edward Halliday in Otterbourne on Tuesday 7 August 1866.
+[^1]: Louisa Walter married  Francis Edward Halliday in Otterbourne on Tuesday 7 August 1866.

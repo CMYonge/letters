@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 17th [1864]  
 **From:** Elderfield Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 20
+**Manuscript:** MS British Library Add MSS 54920: 20[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd),
@@ -39,4 +39,4 @@ Yours faithfully
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

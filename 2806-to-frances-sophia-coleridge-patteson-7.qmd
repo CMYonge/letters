@@ -25,15 +25,15 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** April 9th 1885  
+**Date:** April 9th 1885[^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
 
 My dear [Fanny](people/person_1151.qmd)
-Yes, I think it is an excellent little paper and shews a good deal more knowledge of Sir Tristrem than I have, inasmuch  as I have never got up Modern poems, and it is a good while since I poked in the ancient[.]  I have a curious old Italian one printed in Italics called [La Tavola Rotonda](other_books/otherbook_430.qmd) and with a good deal about Sir Tristram in it - which was bought at a sale of Dr Nott’s books (our learned Canon)[^1]  I will send it to [*name missing*] to keep, for it will be of more use to her than it has ever been to me, I abandoned the reading it some 40 years ago when I found Tristram was the hero, whereas I didn’t like him, though after all his adventures are quite as unlikely to poison any ones mind as Jupiter’s
+Yes, I think it is an excellent little paper and shews a good deal more knowledge of Sir Tristrem than I have, inasmuch  as I have never got up Modern poems, and it is a good while since I poked in the ancient[.]  I have a curious old Italian one printed in Italics called [La Tavola Rotonda](other_books/otherbook_430.qmd) and with a good deal about Sir Tristram in it - which was bought at a sale of Dr Nott’s books (our learned Canon)[^2]  I will send it to [*name missing*] to keep, for it will be of more use to her than it has ever been to me, I abandoned the reading it some 40 years ago when I found Tristram was the hero, whereas I didn’t like him, though after all his adventures are quite as unlikely to poison any ones mind as Jupiter’s
 
-He had not been made the fashion by these poems then, and I only knew him a little in [Scott](people/person_1672.qmd) and [Mallory](other_books/otherbook_235.qmd).[^2]  I shall send the Tavola tomorrow, so that you may send on this letter and prepare the way.
+He had not been made the fashion by these poems then, and I only knew him a little in [Scott](people/person_1672.qmd) and [Mallory](other_books/otherbook_235.qmd).[^3]  I shall send the Tavola tomorrow, so that you may send on this letter and prepare the way.
 
 Thank you so much for the Melanesian letters.  I waited till today to send them for the little sketch actually incited [Gertrude](people/person_1462.qmd) to copy it with her left hand, into the blank page at the end of the [Life](cmy_books/cmybook_102.qmd).  She did it very nicely, but I don’t think she will go on drawing as she felt it afterwards, and there is the perpetual fear that the disease will get hold of her last limb and make her absolutely helpless.
 

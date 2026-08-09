@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** October 10, 1891  
+**Date:** October 10, 1891[^1]  
 **From:** Elderfield  
 **Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 335
 :::
 
 My dear [Helen](people/person_1613.qmd)
-[Mr. Brock](people/person_201.qmd) brought me in both the telegrams and was very kind.  Of course what all knew must be sooner or later could not be a great shock, but all my letters were going with accounts of [his](people/person_1624.qmd)having borne the journey so well.  It is better for [mamma](people/person_1604.qmd) and all of you to have had no lingering, and no associations for the new house.[^1]  I hope she is keeping up well;  I don't write to burthen her.  You can tell me what I can do for you, but I suppose we cannot hear till Tuesday.
+[Mr. Brock](people/person_201.qmd) brought me in both the telegrams and was very kind.  Of course what all knew must be sooner or later could not be a great shock, but all my letters were going with accounts of [his](people/person_1624.qmd)having borne the journey so well.  It is better for [mamma](people/person_1604.qmd) and all of you to have had no lingering, and no associations for the new house.[^2]  I hope she is keeping up well;  I don't write to burthen her.  You can tell me what I can do for you, but I suppose we cannot hear till Tuesday.
 
 Poor [Harriet](people/person_1359.qmd) has been saying how he used to sit on her knee and kiss her when he was a tiny child.  Well, he was very faithful and very loving, though we are all reserved, and it is another link with where our hearts should be.  Poor [Gertrude](people/person_1462.qmd)'s leg is very bad.  
 
@@ -44,4 +44,5 @@ C. M. Yonge
 
 [^1]: Coleridge dates the letter 1892, but public records confirm that Julian died on 17 October 1891.
 [^2]: Otterbourne House had been sold and Julian and his family moved to 70 Kensington Gardens Square, where he almost immediately died.
-[^3]: George and Lucy Yonge lived at Stoke Lodge, Bishopstoke, which was near enough to accommodate anyone attending Julian’s funeral.
+
+**Note:** George and Lucy Yonge lived at Stoke Lodge, Bishopstoke, which was near enough to accommodate anyone attending Julian’s funeral.

@@ -25,13 +25,13 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Decr 23d [1872]  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
-Here is the pay for [Minne’s Knight](other_books/otherbook_818.qmd), with many thanks.[^1]  I conclude you are at home.  You will see proposals for a monstrous Goose affair in the next packet, but I shall get help in the selection of the essays.[^2]  I hope you will do the Snow and Sun next year
+Here is the pay for [Minne’s Knight](other_books/otherbook_818.qmd), with many thanks.[^2]  I conclude you are at home.  You will see proposals for a monstrous Goose affair in the next packet, but I shall get help in the selection of the essays.[^3]  I hope you will do the Snow and Sun next year
 
-Who asks our question next?  I should think [Hanbury Mills](other_books/otherbook_829.qmd) must be a great success, every body seems to like it who has read it  I am much afraid the Awdry’s departure will be the ruin of our [lectures](organizations/other_240.qmd), there seems to be no one to take the same pains about them[^3]
+Who asks our question next?  I should think [Hanbury Mills](other_books/otherbook_829.qmd) must be a great success, every body seems to like it who has read it  I am much afraid the Awdry’s departure will be the ruin of our [lectures](organizations/other_240.qmd), there seems to be no one to take the same pains about them[^4]
 
 your affectionate
 C M Yonge

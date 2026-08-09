@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 11th [1863]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 7-8
+**Manuscript:** MS British Library Add MSS 54920: 7-8[^1]
 :::
 
 [Sir](people/person_939.qmd), 
@@ -65,4 +65,4 @@ C.M. Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Febry 7th [1899?]  
+**Date:** Febry 7th [1899?][^1]  
 **From:** Elderfield Otterbourne Winchester  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
@@ -58,7 +58,7 @@ Begging you to excuse  me for this long egotistical letter
 Yours sincerely
 C M Yonge
 
-The Society has twice successfully interfered on my behalf[^1]
+The Society has twice successfully interfered on my behalf[^2]
 
 ---
 

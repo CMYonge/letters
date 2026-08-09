@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Nov 20th [1868]  
 **From:** Puslinch  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
-Here is another [Gosling](organizations/other_104.qmd) for us, and I should think a good one. [She](people/person_1467.qmd) is a granddaughter of [Dr Arnold](people/person_64.qmd) her father being [Mr T Arnold](people/person_2023.qmd), and [Frances Peard](people/person_1160.qmd) knows her well, which is almost equivalent to an introduction to a [sic turn of page] I send you her letter that you may see the nature of the bird and also consider of the [Guernsey goose](people/person_300.qmd).[^1] I think we had better have her for we <u>do</u> want some clever fresh blood among us we lost so much when [Mary Morshead](people/person_28.qmd) went, and I don’t think much of either of her two cousins[^2], except [Annie Baker](people/person_97.qmd)’s beautiful drawing. So I think we had better accept her Theodora - You had better make out a scheme for the circuit of answers and [Barnacles](organizations/other_89.qmd) marking to each Gosling the day of the month it ought to come so that if her prede successor gets alarmed she may know to whom to write The most troublesome ones about directions are [Shamrock](people/person_1389.qmd) and [Heather](people/person_1387.qmd) because they change places so. Shamrock is a real good one though when she does answer I am telling Miss Arnold and also [Frog](people/person_822.qmd) to apply for Barnacles to you
+Here is another [Gosling](organizations/other_104.qmd) for us, and I should think a good one. [She](people/person_1467.qmd) is a granddaughter of [Dr Arnold](people/person_64.qmd) her father being [Mr T Arnold](people/person_2023.qmd), and [Frances Peard](people/person_1160.qmd) knows her well, which is almost equivalent to an introduction to a [sic turn of page] I send you her letter that you may see the nature of the bird and also consider of the [Guernsey goose](people/person_300.qmd).[^2] I think we had better have her for we <u>do</u> want some clever fresh blood among us we lost so much when [Mary Morshead](people/person_28.qmd) went, and I don’t think much of either of her two cousins[^3], except [Annie Baker](people/person_97.qmd)’s beautiful drawing. So I think we had better accept her Theodora - You had better make out a scheme for the circuit of answers and [Barnacles](organizations/other_89.qmd) marking to each Gosling the day of the month it ought to come so that if her <s>prede</s> successor gets alarmed she may know to whom to write The most troublesome ones about directions are [Shamrock](people/person_1389.qmd) and [Heather](people/person_1387.qmd) because they change places so. Shamrock is a real good one though when she does answer I am telling Miss Arnold and also [Frog](people/person_822.qmd) to apply for Barnacles to you
 
 yours affectionately
 C M Yonge
@@ -41,4 +41,5 @@ C M Yonge
 [^1]: Black-edged paper.
 [^2]: Mary Augusta Arnold was trying to enrol as a member of the Gosling Society and also suggesting that her Guernsey friend Theodora Clarke would like to join too.
 [^3]: [Mary Sunderland](people/person_1384.qmd) and Annie Baker were first cousins to Mary Morshead.
-[^4]: Emily Synge and (probably) Anna Swinton.
+
+**Note:** Emily Synge and (probably) Anna Swinton.

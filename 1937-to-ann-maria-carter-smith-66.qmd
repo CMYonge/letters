@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 17th [1864]  
 **From:** Elderfield Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/1[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -43,4 +43,4 @@ I would send the order back to you, but that I am afraid I must cash it now, and
 
 ---
 
-**Note:** Black-edged paper. This letter properly belongs in the envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ EE and postmarked Winchester 17 February 1864 which currently contains the letter dated March 31st 1864
+[^1]: Black-edged paper. This letter properly belongs in the envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ EE and postmarked Winchester 17 February 1864 which currently contains the letter dated March 31st 1864

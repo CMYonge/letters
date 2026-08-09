@@ -36,7 +36,7 @@ My dear [Mary](people/person_1626.qmd)
 
 The next day we went to shew Wells to two Italian Gentlemen, who had come to spend the day, one has been dispensing the Bible in an Italian translation [Signor Bonghi](people/person_2387.qmd) and is a very good and learned man, but my Italian was not good enough to get on well with him.  He was very much concerned about the Graves in the cloisters – as they will not allow any one to be buried so near public buildings in Italy, and he thinks there ought to be exceptions.  One canons wife had been buried the day before, and there was a mass of white wreaths.
 
-The [Bishop](people/person_2288.qmd)’s garden which I had not seen before, is most beautiful, all enclosed with a moat with swans on it.  I came home on Saturday getting a little peep of [Mrs Moberly](people/person_1019.qmd) by the way -  The garden has much recovered in my absence, and my beautiful china asters are still in perfection   [Alethea Bowles](people/person_182.qmd) seems to like Barnsley.[^3]   She has left her jackdaw at the other house, where having another, it goes by the name of Jack Bowles!
+The [Bishop](people/person_2288.qmd)’s garden which I had not seen before, is most beautiful, all enclosed with a moat with swans on it.  I came home on Saturday getting a little peep of [Mrs Moberly](people/person_1019.qmd) by the way -  The garden has much recovered in my absence, and my beautiful china asters are still in perfection   [Alethea Bowles](people/person_182.qmd) seems to like Barnsley.<sup>3</sup>   She has left her jackdaw at the other house, where having another, it goes by the name of Jack Bowles!
 
 your most affectionate
 C M Yonge
@@ -45,4 +45,5 @@ C M Yonge
 
 [^1]: Katharine Yonge (1863-1895), the eldest of the Rev. Duke Yonge’s children, had married (1886) Dr Adam  Steer, who took a job in Jamaica, where he was born.
 [^2]: Henry Martin Gibbs (b.1850) of Barrow Court, Somerset, was the fourth son of William and Blanche Gibbs of Tyntesfield. CMY had been to Somerset, where she also stayed with the Freemans at Somerleaze, on the track of Hannah More, who had worked there and who appears in her *The Cunning Woman's Grandson*.
-[^3]: The Rev. Henry Albany Bowles, husband of CMY's niece Alethea, was currently curate of St Matthew, Habergham Eaves, Burnley.
+
+**Note:** The Rev. Henry Albany Bowles, husband of CMY's niece Alethea, was currently curate of St Matthew, Habergham Eaves, Burnley.

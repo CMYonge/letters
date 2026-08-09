@@ -25,10 +25,10 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Otterbourn  Friday [December 1854?]  
-**Manuscript:** MS Princeton University:  Parrish Collection, Princeton: C0171: Box 29.
+**Manuscript:** MS Princeton University:  Parrish Collection, Princeton: C0171: Box 29.[^2]
 :::
 
-My dear [Mrs Harris](people/person_1759.qmd)[^1]
+My dear [Mrs Harris](people/person_1759.qmd)[^2]
 We have had a long time to wait before I could write to tell you of [my brother](people/person_1624.qmd)’s arrival.
 
 The British Queen was so slow in her progress that all her coal was exhausted and they were obliged to burn their top masts as they put into Falmouth.
@@ -42,5 +42,6 @@ C M Yonge
 
 ---
 
-[^1]: Black-edged paper.
 [^2]: This is assumed to be addressed to the wife of Captain William Harris, Chief Constable of Hampshire.
+
+**Note:** Black-edged paper.

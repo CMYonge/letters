@@ -25,16 +25,16 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** May 4th [1882?]  
+**Date:** May 4th [1882?][^2]  
 **From:** Elderfield Otterbourne	Winchester  
-**Manuscript:** UCLA: collection 100: box 95
+**Manuscript:** UCLA: collection 100: box 95[^1]
 :::
 
 My dear [Miss Gatty](people/person_469.qmd),
 
 The Signora [Linda Villari](people/person_1444.qmd) wife to [Professor Villari](people/person_2345.qmd) at Florence sent me this pretty little sketch of a real favourite bird. It is too youthful for the [Packet](organizations/other_52.qmd), but I think you will like to open a connection with her, as she writes prettily and freshly. I enclose a card she sent with her address. She wrote a very pretty story once for the Packet called [the Angel of Viareggio](other_books/otherbook_917.qmd).
 
-I hope you can give a tolerable account of [Mrs Ewing](people/person_494.qmd). We were greatly charmed with Laetus Sorte Meâ[^1]
+I hope you can give a tolerable account of [Mrs Ewing](people/person_494.qmd). We were greatly charmed with Laetus Sorte Meâ<sup>3</sup>
 
 Yours sincerely 
 C M Yonge

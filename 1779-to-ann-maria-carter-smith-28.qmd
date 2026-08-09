@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 10th1860  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/2
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -36,7 +36,7 @@ It is a pleasure to have such a letter so answered, after feeling quite uncomfor
 
 I think that worth having and so would you, if you knew the person.
 
-Thank you for telling me of [Professor Whewell](people/person_1818.qmd),[^1] I think it a feather in my cap. Do you know I am very sorry to hear you do not feel as if rewriting answered with you, for I believe it is the only way to do more than ephemeral work, for it is nearly impossible to get language, characters and keeping all right at first - and rewriting is the only way to be free of useless words & excrescences, which make a thing lengthy. Here, they tell me that reading aloud a first & second copy of mine is like going over a stony or smooth road. Remember [Miss Edgeworth](people/person_1819.qmd) polishing ad unguem[^2], [Miss Bronté](people/person_1810.qmd) [sic], now [Miss Mulock](people/person_378.qmd), - I believe that what reads the most easily is generally produced by the greatest amounts of work. I generally go back and do over my yesterday’s work, much like the snail of the arithmetical question who climbed 4 ft each day & slipped back 3 each night, besides sometimes going back to write whole masses over again, & get them into keeping or abridge them, but then I am happier rewriting than blocking out
+Thank you for telling me of [Professor Whewell](people/person_1818.qmd),[^2] I think it a feather in my cap. Do you know I am very sorry to hear you do not feel as if rewriting answered with you, for I believe it is the only way to do more than ephemeral work, for it is nearly impossible to get language, characters and keeping all right at first - and rewriting is the only way to be free of useless words & excrescences, which make a thing lengthy. Here, they tell me that reading aloud a first & second copy of mine is like going over a stony or smooth road. Remember [Miss Edgeworth](people/person_1819.qmd) polishing ad unguem[^3], [Miss Bronté](people/person_1810.qmd) [sic], now [Miss Mulock](people/person_378.qmd), - I believe that what reads the most easily is generally produced by the greatest amounts of work. I generally go back and do over my yesterday’s work, much like the snail of the arithmetical question who climbed 4 ft each day & slipped back 3 each night, besides sometimes going back to write whole masses over again, & get them into keeping or abridge them, but then I am happier rewriting than blocking out
 
 yours sincerely
 

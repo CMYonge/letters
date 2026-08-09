@@ -24,12 +24,12 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [Summer 1864]  
+**Date:** [Summer 1864][^1]  
 **Manuscript:** MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 175.
 :::
 
 My dear [Alice](people/person_1025.qmd),
-I was thinking of sending ‘The Mice at Play’ to [Maggie](people/person_83.qmd), but somehow I felt that the note must be to one who could remember the old days, when the three bright faces[^1] it brings to mind were with us. If you had been people who shrank from such recollections instead of cherishing them, I would of course never have disinterred this old affair, but I know you will like the recurrence to those merry old days and bright remembrances.
+I was thinking of sending ‘The Mice at Play’ to [Maggie](people/person_83.qmd), but somehow I felt that the note must be to one who could remember the old days, when the three bright faces[^2] it brings to mind were with us. If you had been people who shrank from such recollections instead of cherishing them, I would of course never have disinterred this old affair, but I know you will like the recurrence to those merry old days and bright remembrances.
 
 ---
 

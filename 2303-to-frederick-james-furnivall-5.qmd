@@ -25,11 +25,11 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Febry 21st [1869]  
-**Manuscript:** MS Huntington Library: Letters to Frederick James Furnivall. FU 974
+**Manuscript:** MS Huntington Library: Letters to Frederick James Furnivall. FU 974[^1]
 :::
 
 Dear [Mr Furnivall](people/person_531.qmd),
-Thank you for the English Text. I do not think I can have had the [hymns to the Virgin](other_books/otherbook_543.qmd).  The last I had bears the date 1866, and is a [collection of poems](other_books/otherbook_542.qmd) on love, religion and politics, beginning with 'Twelve words &c-' [^1] What a wonderful store you have there!
+Thank you for the English Text. I do not think I can have had the [hymns to the Virgin](other_books/otherbook_543.qmd).  The last I had bears the date 1866, and is a [collection of poems](other_books/otherbook_542.qmd) on love, religion and politics, beginning with 'Twelve words &c-' [^2] What a wonderful store you have there!
 
 Yours sincerely
 C M Yonge

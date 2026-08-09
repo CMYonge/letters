@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Friday [22 December 1899]  
 **From:** Elderfield  
-**Manuscript:** MS Pusey House, Oxford, inserted in a copy of <i>John Keble’s Parishes</i>, call mark 69.82cKEB.4.
+**Manuscript:** MS Pusey House, Oxford, inserted in a copy of <i>John Keble’s Parishes</i>, call mark 69.82cKEB.4.[^1]
 :::
 
 My dear [Alley](people/person_182.qmd)
@@ -49,4 +49,4 @@ C M Yonge
 
 ---
 
-**Note:** Plain paper, endorsed in another hand ‘Dec: 22nd 1899.’
+[^1]: Plain paper, endorsed in another hand ‘Dec: 22nd 1899.’

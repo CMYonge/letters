@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Feb 16th [<i>c</i>.1881]  
+**Date:** Feb 16th [<i>c</i>.1881][^2]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin[^1]
 :::
 
 Dear Madam
 
-I am much obliged for the loan of these two books. I have the [Queens of England](other_books/otherbook_157.qmd)but not the [Queens of Scotland](other_books/otherbook_1111.qmd), and the little book about Northamptonshire told me just what I wanted[^1] 
+I am much obliged for the loan of these two books. I have the [Queens of England](other_books/otherbook_157.qmd)but not the [Queens of Scotland](other_books/otherbook_1111.qmd), and the little book about Northamptonshire told me just what I wanted[^3] 
 
 With many thanks
 Yours truly

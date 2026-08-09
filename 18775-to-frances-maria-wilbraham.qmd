@@ -25,9 +25,9 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Oct 24th [1875]  
+**Date:** Oct 24th [1875][^1]  
 **From:** Elderfield  
-**Manuscript:** MS Special Collections, University of Virginia Library
+**Manuscript:** MS Special Collections, University of Virginia Library[^2]
 :::
 
 My dear [Fanny](people/person_1513.qmd)
@@ -35,13 +35,13 @@ Chambers' [Book of Days](other_books/otherbook_1106.qmd) gives another prophecy 
 
 I have an idea that people used to go and see Mother Shipton among the wax works when they went to London and saw the Lions in the Tower.  But I dare say I shall be able to find out more.
 
-I am to dine at Bishopstoke on Monday to meet [Sir Richard](people/person_1515.qmd) so I shall hear of you then.[^1]
+I am to dine at Bishopstoke on Monday to meet [Sir Richard](people/person_1515.qmd) so I shall hear of you then.[^3]
 
 It is a pleasure to hear of you indeed when I can get the chance.  We go on much in the same way and I hope [my invalid](people/person_1462.qmd) is not beginning the winter badly.
 
 What a loss the [Bishop of Brechin](people/person_516.qmd) is, he is another gone from the old Hursley friends.
 
-How touching is the account of poor [Captain Goodenough](people/person_2400.qmd)[^2]
+How touching is the account of poor [Captain Goodenough](people/person_2400.qmd)[^4]
 
 your affectionate
 C M Yonge

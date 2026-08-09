@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Sept 3d [late 1850s?]  
-**From:** Tyntesfield  
+**Date:** Sept 3d [late 1850s?][^2]  
+**From:** Tyntesfield[^1]  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
 My dear Madam,
 
-I fear you must almost have despaired of receiving the renderings of the names, but we have been so constantly either seeing sights or travelling that this is the first time I have been able to set them down, and now I am afraid they will prove very disappointing, and not <u>too</u> susceptible of illumination - I am afraid names are too often mere adjectives to be very manageable for the purpose. I added the Stem as the only way in which many could be illuminated, unless figures of the Saints of each name were to be introduced[^1]
+I fear you must almost have despaired of receiving the renderings of the names, but we have been so constantly either seeing sights or travelling that this is the first time I have been able to set them down, and now I am afraid they will prove very disappointing, and not <u>too</u> susceptible of illumination - I am afraid names are too often mere adjectives to be very manageable for the purpose. I added the Stem as the only way in which many could be illuminated, unless figures of the Saints of each name were to be introduced[^2]
 
 Regretting the long delay
 Yours faithfully

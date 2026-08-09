@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 13th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Columbia University Library, New York: Lohf Collection
+**Manuscript:** MS Columbia University Library, New York: Lohf Collection[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
 
-I hope you and the Incurable List are safe together somewhere![^1] I had no list of my own so I asked a friend to send you hers, and owing to some blundering of mine I really do not know whether she sent it to Wilden manor or to Charlton.
+I hope you and the Incurable List are safe together somewhere![^2] I had no list of my own so I asked a friend to send you hers, and owing to some blundering of mine I really do not know whether she sent it to Wilden manor or to Charlton.
 
 Will you kindly when you have looked it over return it addressed
 

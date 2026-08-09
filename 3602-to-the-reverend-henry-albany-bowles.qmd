@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Sept 2 [1893]  
+**Date:** Sept 2 [1893][^1]  
 **From:** Elderfield  
 **Manuscript:** MS UCLA: collection 100: box 95
 :::
 
 My dear [Henry](people/person_184.qmd)
-[Mr Steward](people/person_1680.qmd) has written at last. He says two very nice girls [Mildred Luckett](people/person_906.qmd) and [Kate Brown](people/person_212.qmd) will be ready at Christmas, so I am writing to him to engage one of them, and she can talk it over with [A. Diddams](people/person_1681.qmd) who can tell her all about the place.[^1]
+[Mr Steward](people/person_1680.qmd) has written at last. He says two very nice girls [Mildred Luckett](people/person_906.qmd) and [Kate Brown](people/person_212.qmd) will be ready at Christmas, so I am writing to him to engage one of them, and she can talk it over with [A. Diddams](people/person_1681.qmd) who can tell her all about the place.[^2]
 
 He also gives me a list of ex pupil teachers who could keep school after the 1st of October till the mistress is ready. They all have homes near at hand and I think we can get one of them.
 

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 12th 1900  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Girton College Cambridge, Yonge XIII 2
+**Manuscript:** MS Girton College Cambridge, Yonge XIII 2[^1]
 :::
 
 Dear [Madam](people/person_133.qmd)
@@ -38,4 +38,4 @@ C.M. Yonge
 
 ---
 
-**Note:** Envelope addressed  ‘Mrs Belfield/Malmain/French hay /Bristol and postmarked Winchester 12 February 1900.
+[^1]: Envelope addressed  ‘Mrs Belfield/Malmain/French hay /Bristol and postmarked Winchester 12 February 1900.

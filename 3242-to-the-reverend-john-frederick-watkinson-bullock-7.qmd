@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 12th 1894  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff127-8
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff127-8[^1]
 :::
 
 Dear [Mr Bullock](people/person_221.qmd),	
-As I could not think of anything specially about the ancient Breton Church, I looked at Sauvestre’s [Derniers Bretons](other_books/otherbook_685.qmd), and I thought the endurance of St Machutus’ teaching deserved to come in.[^1]
+As I could not think of anything specially about the ancient Breton Church, I looked at Sauvestre’s [Derniers Bretons](other_books/otherbook_685.qmd), and I thought the endurance of St Machutus’ teaching deserved to come in.[^2]
 
 Sauvestre gives various French prose translations of the popular hymns. Those on Paradise and one Christmas ‘Noël’ are very beautiful, but there was only space for the rag picker
 

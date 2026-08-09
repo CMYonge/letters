@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** [22 November 1868]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 222-3
+**Manuscript:** MS British Library Add MSS 54920: 222-3[^1]
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd),
-Many, many thanks[.]  the birthday[^1] for which the [Heroes](other_books/otherbook_358.qmd) were wanted comes tomorrow, so nothing can be more convenient. The [Lances](cmy_books/cmybook_23.qmd) look very well
+Many, many thanks[.]  the birthday[^2] for which the [Heroes](other_books/otherbook_358.qmd) were wanted comes tomorrow, so nothing can be more convenient. The [Lances](cmy_books/cmybook_23.qmd) look very well
 
 Yours sincerely
 C M Yonge

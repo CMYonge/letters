@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 5th [1856]  
 **From:** Otterbourn  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/3
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/3[^1]
 :::
 
 My dear [Madam](people/person_263.qmd)
-I enclose a draft for 8.12. 6. with many thanks both to you and [your sister](people/person_71.qmd).  I was not aware of her marriage, so that congratulations would now lag sadly behind.  My [School Sketches](other_books/otherbook_256.qmd) friend [Miss Emily Taylor](people/person_1397.qmd)[^1], the author of that pretty little book ‘[the Boy and the Birds](other_books/otherbook_163.qmd)’ is the person so anxious to know your name;  she is - as perhaps you know - actively engaged in many London charities and though some of her family are otherwise seems a thorough Churchwoman herself.  But perhaps you know more of her than I do, and you must not suppose I am urging anything on you, for I should never dare do so, especially where both parties are only known to me by letter, but I thought it would be unfair to both not to speak[^2] of  her wish, as she mentioned it again in a letter which I received this morning.  I am very glad of the hope you hold out of future tales
+I enclose a draft for 8.12. 6. with many thanks both to you and [your sister](people/person_71.qmd).  I was not aware of her marriage, so that congratulations would now lag sadly behind.  My [School Sketches](other_books/otherbook_256.qmd) friend [Miss Emily Taylor](people/person_1397.qmd)[^2], the author of that pretty little book ‘[the Boy and the Birds](other_books/otherbook_163.qmd)’ is the person so anxious to know your name;  she is - as perhaps you know - actively engaged in many London charities and though some of her family are otherwise seems a thorough Churchwoman herself.  But perhaps you know more of her than I do, and you must not suppose I am urging anything on you, for I should never dare do so, especially where both parties are only known to me by letter, but I thought it would be unfair to both not to speak[^3] of  her wish, as she mentioned it again in a letter which I received this morning.  I am very glad of the hope you hold out of future tales
 
 yours truly
 C M Yonge

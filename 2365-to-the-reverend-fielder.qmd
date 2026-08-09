@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 8th	1870 [corrected from 1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 Miss Yonge begs to return her best thanks on behalf of [Bishop Patteson](people/person_1155.qmd) to [Mr Fielder](people/person_510.qmd) and his congregation for their Epiphany contribution to the [Melanesian Mission](organizations/other_30.qmd)
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 7th [1865]  
 **From:** Ottery  
-**Manuscript:** MS Charlotte Mitchell/Cobweb-7
+**Manuscript:** MS Charlotte Mitchell/Cobweb-7[^1]
 :::
 
 My dear [Cobweb](people/person_675.qmd),
@@ -40,4 +40,4 @@ Mother Goose
 
 ---
 
-**Note:** Tiny blue envelope 54mm x 94mm postmarked Ottery and Exeter 7 September 1865 and London S. W. 8 September 1865.
+[^1]: Tiny blue envelope 54mm x 94mm postmarked Ottery and Exeter 7 September 1865 and London S. W. 8 September 1865.

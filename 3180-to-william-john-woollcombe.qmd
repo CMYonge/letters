@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 19th 1891  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Cheltenham Ladies College 0940/279
+**Manuscript:** MS Cheltenham Ladies College 0940/279[^2]
 :::
 
 Dear [Mr Woollcombe](people/person_1560.qmd)
@@ -38,4 +38,6 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper. William John Woollcombe (1832-1921) was married to CMY’s first cousin Anne Catharina Pode (d. 1913) and was brother to  Major Robert Woollcombe, the husband of Mary Walter.  However, there were seven brothers, and this letter could equally well be to the Rev. George Ley Woollcombe (1828-1902),  Edward Woollcombe (1842-1914) or Richard Woollcombe (1847-1936).
+[^2]: William John Woollcombe (1832-1921) was married to CMY’s first cousin Anne Catharina Pode (d. 1913) and was brother to  Major Robert Woollcombe, the husband of Mary Walter.  However, there were seven brothers, and this letter could equally well be to the Rev. George Ley Woollcombe (1828-1902),  Edward Woollcombe (1842-1914) or Richard Woollcombe (1847-1936).
+
+**Note:** Black-edged paper.

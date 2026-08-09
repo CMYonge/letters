@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 22 [1874?]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29[^1]
 :::
 
 My dear George Huntinford,[^1]
@@ -39,4 +39,5 @@ C M Yonge
 ---
 
 [^1]: Endorsed in pencil '1874'.
-[^2]: The letter is evidently addressed to a schoolboy at Winchester College, but the most likely candidate, George Tremenheere Huntingford (1873-1939) did not attend the school until 1886, after George Ridding's departure.
+
+**Note:** The letter is evidently addressed to a schoolboy at Winchester College, but the most likely candidate, George Tremenheere Huntingford (1873-1939) did not attend the school until 1886, after George Ridding's departure.

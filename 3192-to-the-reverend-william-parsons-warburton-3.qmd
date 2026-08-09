@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 4th 1892  
 **From:** Elderfield  
-**Manuscript:** MS Girton College Cambridge, Yonge VIII 7
+**Manuscript:** MS Girton College Cambridge, Yonge VIII 7[^1]
 :::
 
 Dear [Mr Warburton](people/person_1466.qmd) 
@@ -50,4 +50,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

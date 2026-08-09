@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** October 4th 1859  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/10
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/10[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -35,7 +35,7 @@ I was on a visit in Devonshire when your note reached me, or I would sooner have
 
 [Frances Dysart](other_books/otherbook_265.qmd) has given unmitigated satisfaction except by coming to an end, everyone likes and admires her, but I am often asked why she has come to an end and have to explain that the author’s rigid truthfulness forbade a pleasant catastrophe.
 
-I like the [Wynnes](other_books/otherbook_267.qmd) much as they proceed, (and so does the [Literary Churchman](organizations/other_76.qmd))[^1]  Those Kelsos are delightful, and enliven the story very much, and we are quite in love with William, but I cannot think what is to become of Henrietta
+I like the [Wynnes](other_books/otherbook_267.qmd) much as they proceed, (and so does the [Literary Churchman](organizations/other_76.qmd))[^2]  Those Kelsos are delightful, and enliven the story very much, and we are quite in love with William, but I cannot think what is to become of Henrietta
 
 yours sincerely
 C M Yonge

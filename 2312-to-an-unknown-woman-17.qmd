@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 25th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29[^1]
 :::
 
 Dear Madam,
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

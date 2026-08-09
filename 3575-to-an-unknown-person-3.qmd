@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** [after 1892]  
 **From:** 70 Kensington Gardens Square  
-**Manuscript:** MS Charlotte Mitchell/20
+**Manuscript:** MS Charlotte Mitchell/20[^1]
 :::
 
 Dear Madam
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

@@ -25,12 +25,12 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [4 January 1895]  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 158
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 158[^1]
 :::
 
 [To the [Rev. J. F. W. Bullock](people/person_221.qmd)]
 
-<u>wold</u> is the termination[.] Canon Benham’s [Diocesan Chronicle](other_books/otherbook_704.qmd) calls him Athelwold[^1]
+<u>wold</u> is the termination[.] Canon Benham’s [Diocesan Chronicle](other_books/otherbook_704.qmd) calls him Athelwold[^2]
 
 C M Yonge
 

@@ -25,11 +25,11 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [6 October 1891]  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 [only an envelope]
 
 ---
 
-**Note:** Envelope addressed to ‘The Revd/ J F Moor/Ampfield Vicarage/Romsey. Postmarked Winchester Oc 6/91. ‘Miss Yonge’s autograph’ written in another hand across the top.
+[^1]: Envelope addressed to ‘The Revd/ J F Moor/Ampfield Vicarage/Romsey. Postmarked Winchester Oc 6/91. ‘Miss Yonge’s autograph’ written in another hand across the top.

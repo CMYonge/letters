@@ -31,7 +31,7 @@ citation:
 :::
 
 Dear [Mr. Awdry](people/person_84.qmd)-
-I can quite believe that humble words of [Mr. Keble](people/person_798.qmd) might be misunderstood, misreported, and exaggerated, and if called on to defend every single line in the [Christian Year](other_books/otherbook_95.qmd), he might have spoken of it as a man, growing in grace, at sixty years old might speak of his utterances at thirty.[^1]
+I can quite believe that humble words of [Mr. Keble](people/person_798.qmd) might be misunderstood, misreported, and exaggerated, and if called on to defend every single line in the [Christian Year](other_books/otherbook_95.qmd), he might have spoken of it as a man, growing in grace, at sixty years old might speak of his utterances at thirty.[^2]
 
 But I can distinctly declare that he never repented of the book as a whole, nor regretted its publication, and that it is quite a mistake to suppose that he ever did so.
 
@@ -48,5 +48,6 @@ C. M. YONGE.
 
 ---
 
-[^1]: The Rev. Vere Awdry  (1854-1928) succeeded the Rev. John Frewen Moor as Vicar of Ampfield in 1897.
 [^2]: The statement by Keble under discussion here may be that reported by Walter Lock, *John Keble* (1892), 56: ‘He himself said in 1845 that when he wrote *The Christian Year* he did not fully understand the doctrine of the Holy Eucharist.’
+
+**Note:** The Rev. Vere Awdry  (1854-1928) succeeded the Rev. John Frewen Moor as Vicar of Ampfield in 1897.

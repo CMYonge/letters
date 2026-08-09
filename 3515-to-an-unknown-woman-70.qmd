@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** July 12th [1883-1893]  
+**Date:** July 12th [1883-1893][^1]  
 **Manuscript:** MS Charlotte Mitchell
 :::
 
@@ -37,4 +37,4 @@ C M Yonge
 
 ---
 
-**Note:** The silurian paper was used by CMY from the early 1880s until her death, but this letter was probably written before Christabel Coleridge was joined with her in the editorship in January 1893.
+[^1]: The silurian paper was used by CMY from the early 1880s until her death, but this letter was probably written before Christabel Coleridge was joined with her in the editorship in January 1893.

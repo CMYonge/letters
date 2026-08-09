@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 26th [1864]  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29[^1]
 :::
 
 My dear [Miss Twining](people/person_1427.qmd),
-I am sending off your acknowledgements today, but I am much afraid they will not be in time for the next [packet](organizations/other_52.qmd), if not they must appear in June, and I hope may by that time be added to as I am sure your paper must excite great interest[^1]
+I am sending off your acknowledgements today, but I am much afraid they will not be in time for the next [packet](organizations/other_52.qmd), if not they must appear in June, and I hope may by that time be added to as I am sure your paper must excite great interest[^2]
 
 Yours sincerely
 C M Yonge

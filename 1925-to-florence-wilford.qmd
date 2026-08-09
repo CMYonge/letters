@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 12th [1864]  
 **From:** Elderfield  
-**Manuscript:** MS Society of Antiquaries 444/17/144
+**Manuscript:** MS Society of Antiquaries 444/17/144[^1]
 :::
 
 My dear [Florence](people/person_1520.qmd),
 
-Many thanks to you and your friend for your kindness about the pantomime. I am sorry however to say that I do not think it will quite do. I suppose it is the sort of thing to be done not so much by a regular narrative of the scenes as by some clever sketch such as perhaps takes an older hand. I hope it will not be a disappointment, but I think from your letter you have prepared her for it. I am glad you like some of the [Events of the Month](organizations/other_69.qmd), I think it will improve by practice. You have not told me the fate of Christina with the [Churchman](organizations/other_62.qmd), I greatly think that serial is improving under the new <u>[Master](people/person_1328.qmd)</u> - there is a very good story beginning.[^1] I am so glad your foot is better - I have some friends staying here and not much time so I must finish
+Many thanks to you and your friend for your kindness about the pantomime. I am sorry however to say that I do not think it will quite do. I suppose it is the sort of thing to be done not so much by a regular narrative of the scenes as by some clever sketch such as perhaps takes an older hand. I hope it will not be a disappointment, but I think from your letter you have prepared her for it. I am glad you like some of the [Events of the Month](organizations/other_69.qmd), I think it will improve by practice. You have not told me the fate of Christina with the [Churchman](organizations/other_62.qmd), I greatly think that serial is improving under the new <u>[Master](people/person_1328.qmd)</u> - there is a very good story beginning.[^2] I am so glad your foot is better - I have some friends staying here and not much time so I must finish
 
 yours sincerely
 C Yonge

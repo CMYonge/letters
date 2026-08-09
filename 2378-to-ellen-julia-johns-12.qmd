@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 31 [1870?]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mitchell Library, State Library of New South Wales.  ML A27 1-275, Reel CY2846
+**Manuscript:** MS Mitchell Library, State Library of New South Wales.  ML A27 1-275, Reel CY2846[^1]
 :::
 
 My dear [Mrs Johns](people/person_772.qmd), 
-My musical friends are much pleased with Miss Mays’s first song, but would like if possible to review the three together. Would it be possible to trust me with the other two copies to send to him?[^1] I am so interrupted this afternoon that I must cut short my note
+My musical friends are much pleased with Miss Mays’s first song, but would like if possible to review the three together. Would it be possible to trust me with the other two copies to send to him?[^2] I am so interrupted this afternoon that I must cut short my note
 
 Yours sincerely
 C M Yonge

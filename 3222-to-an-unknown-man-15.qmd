@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 17th 1893  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 Dear Sir
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** On the other side of the card is pasted a photograph cut from a newspaper or magazine, captioned ‘Miss Charlotte M. Yonge. From a photograph by Messrs. Elliot & Fry, 55, Baker Street, W.’.
+[^1]: On the other side of the card is pasted a photograph cut from a newspaper or magazine, captioned ‘Miss Charlotte M. Yonge. From a photograph by Messrs. Elliot & Fry, 55, Baker Street, W.’.

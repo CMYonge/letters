@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** [1871?]  
 **From:** Elderfield,  Otterbourne, Winchester.  
-**Manuscript:** MS fragment UCLA: collection 100: box 95
+**Manuscript:** MS fragment UCLA: collection 100: box 95[^1]
 :::
 
-My dear [Miss Sewell](people/person_1305.qmd)[^1]
+My dear [Miss Sewell](people/person_1305.qmd)[^2]
 
 I have been from home or I would have answered sooner. I send you a pound for the poor woman—which I hope may help her on a little while.
 
-Pray thank [the Warden](people/person_1304.qmd) greatly for his very kind messages through [Mr Wither](people/person_1544.qmd). If my friend [Miss Peard](people/person_1160.qmd)[^2] can come, I am sure you will like her. She is an excellent singer among other perfections, and full of life and brightness. I think you will like her book [One Year](other_books/otherbook_815.qmd). Her home is Torquay, I believe the family is Cornish and the [Garibaldi man](people/person_1159.qmd) is her uncle. [^3] Did you ever try how many words can be made out of the letters of Triangle? and do you know the
+Pray thank [the Warden](people/person_1304.qmd) greatly for his very kind messages through [Mr Wither](people/person_1544.qmd). If my friend [Miss Peard](people/person_1160.qmd)[^3] can come, I am sure you will like her. She is an excellent singer among other perfections, and full of life and brightness. I think you will like her book [One Year](other_books/otherbook_815.qmd). Her home is Torquay, I believe the family is Cornish and the [Garibaldi man](people/person_1159.qmd) is her uncle. [^4] Did you ever try how many words can be made out of the letters of Triangle? and do you know the
 
 [part of letter missing]
 

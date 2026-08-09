@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 6th [1864]  
 **From:** Elderfield  
-**Manuscript:** MS BL Add 61896: 181
+**Manuscript:** MS BL Add 61896: 181[^1]
 :::
 
 Dear [Mr Craik](people/person_379.qmd),
 
 Thank you for the ₤25. I should much like to have [Mme de Witt](people/person_423.qmd) as a contributor to the [Monthly Packet](organizations/other_52.qmd) and am much obliged to [Mrs Craik](people/person_378.qmd) for mentioning it – I could easily get the translations done , indeed I am beset with people who want to translate and could clearly do it well.
 
-The only doubt is in the matter of payment, which we cannot make so good as you do, but I will write to her about it[^1]
+The only doubt is in the matter of payment, which we cannot make so good as you do, but I will write to her about it[^2]
 
 Yours sincerely
 

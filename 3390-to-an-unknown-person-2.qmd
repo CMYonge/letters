@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [after October 1886]  
+**Date:** [after October 1886][^1]  
 **Manuscript:** MS location unknown.  This fragment quoted in Mare and Percival, <i>[Victorian Best-seller](other_books/otherbook_598.qmd)</i>, 228.
 :::
 
@@ -32,4 +32,4 @@ Have you heard the last variety of American Lion hunting – writing to ask for 
 
 ---
 
-**Note:** In Jo's Boys, and How They Turned out. A Sequel to "Little Men." (English edition London: Low 1886), 63, a fan asks Jo Bhaer for ‘an old gown or a pair of stockings of yours to put in a rug she’s making’.
+[^1]: In Jo's Boys, and How They Turned out. A Sequel to "Little Men." (English edition London: Low 1886), 63, a fan asks Jo Bhaer for ‘an old gown or a pair of stockings of yours to put in a rug she’s making’.

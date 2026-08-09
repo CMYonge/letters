@@ -37,7 +37,7 @@ How are you all passing through this Sunday; I seem to have seen Newton Church[^
 
 Comes rushing o’er a sudden thought
 Of her who led the strain,
-How oft such music home she brought.[^3]
+How oft such music home she brought.<sup>3</sup>
 
 But it is a blessed thing for the rest of our lives that it is in our times of praise that we shall meet her above all.
 
@@ -49,5 +49,4 @@ C. M. Yonge
 ---
 
 [^1]: CMY is too unwell to attend the funeral of her cousin Anne Yonge.
-[^2]: Newton Ferrars, the parish church, with memorial tablets to all Anne’s deceased siblings.
-[^3]: John Keble, 'Fire' in *Lyra Innocentium*, 155.
+[^2]: John Keble, 'Fire' in *Lyra Innocentium*, 155.

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 5 [1899]  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to ‘The Revd/ J F Moor/ Glencairn/ Chiselhurst. Postmarked Winchester My 5/99.
+[^1]: Envelope addressed to ‘The Revd/ J F Moor/ Glencairn/ Chiselhurst. Postmarked Winchester My 5/99.

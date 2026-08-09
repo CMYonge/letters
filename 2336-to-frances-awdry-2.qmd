@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Aug 28th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS NLS 399 f. 379-80
+**Manuscript:** MS NLS 399 f. 379-80[^1]
 :::
 
 My dear [Frances](people/person_1160.qmd)
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

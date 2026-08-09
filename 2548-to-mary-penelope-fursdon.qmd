@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** April 1st 1876  
-**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd[^1]
 :::
 
 To [Mary Penelope Fursdon](people/person_539.qmd)
@@ -34,7 +34,7 @@ To [Mary Penelope Fursdon](people/person_539.qmd)
 
 The religions of the world ancient and modern..
 
-The [illegible] of history and romance[^1]
+The [illegible] of history and romance[^2]
 
 ---
 

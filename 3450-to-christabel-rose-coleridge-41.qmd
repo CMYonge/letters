@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** April 4th 1900  
+**Date:** April 4th 1900[^1]  
 **From:** Elderfield  
 **Manuscript:** MS Mrs Clare Roels/93
 :::
@@ -44,4 +44,4 @@ C M Yonge
 
 ---
 
-**Note:** The year date could be in another hand.
+[^1]: The year date could be in another hand.

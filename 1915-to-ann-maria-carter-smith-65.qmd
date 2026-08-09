@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 12th [1863]  
 **From:** Elderfield Otterbourn  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/8
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/8[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Smith/ 8 Wellington Buildings/ Old Charlton/ SE and postmarked Winchester 13 November 1863 and London SE 14 November 1863.
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Buildings/ Old Charlton/ SE and postmarked Winchester 13 November 1863 and London SE 14 November 1863.

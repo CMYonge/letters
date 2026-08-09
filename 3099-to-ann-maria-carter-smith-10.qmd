@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** May 29th [1857?]  
+**Date:** May 29th [1857?][^1]  
 **From:** Otterbourn  
 **Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1858/ 1
 :::
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** This letter is placed here since it appears to antedate JBY’s first visit to Norway, and he is known to have been there in June 1857.  The earliest letter in which CMY wrote ‘Dear Miss Smith’ rather than ‘Dear Madam’ seems to be that dated 4 February 1857.
+[^1]: This letter is placed here since it appears to antedate JBY’s first visit to Norway, and he is known to have been there in June 1857.  The earliest letter in which CMY wrote ‘Dear Miss Smith’ rather than ‘Dear Madam’ seems to be that dated 4 February 1857.

@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** April 29th [1884-91?]  
+**Date:** April 29th [1884-91?][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** UCLA: collection 100: box 95
 :::
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter contains no message to Fanny Patteson's half-sister Joanna, so probably post-dates the latter's death in June 1884.  It was certainly written before the death of Julian Yonge in October 1891.
+[^1]: The letter contains no message to Fanny Patteson's half-sister Joanna, so probably post-dates the latter's death in June 1884.  It was certainly written before the death of Julian Yonge in October 1891.

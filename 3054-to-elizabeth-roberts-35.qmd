@@ -25,12 +25,12 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Novr 4th [1854]  
-**Manuscript:** MS Huntington Library: Yonge Letters
+**Manuscript:** MS Huntington Library: Yonge Letters[^1]
 :::
 
 My dear [Miss Roberts](people/person_1243.qmd),
 
-Many thanks for the [paper on Gloucester](other_books/otherbook_244.qmd). It came in a good time for a cousin was staying with us whose home is close to Gloucester, and her brother a minor canon who has all its antiquities at his fingers ends.[^1] She set down the yew tree to ask him about, but as she went home in haste to prepare to set off in a week to spend the winter in the South of France, I think it has a fair chance of being forgotten and shall set another of the sisters to ask the question when the confusion is over. She agreed with you in almost everything except in admiring the modern monuments. It was curious that we had just been reading an account of that great day at Lichfield in a letter from a lady who was staying in the house with the [Bishop](people/person_1295.qmd) and [Mrs Selwyn](people/person_1297.qmd). I do not know whether I mentioned to you my enjoyment at meeting them at Winchester and at Hursley. They spent two days at [Winchester college](organizations/other_50.qmd)and gave one of them to Hursley, and I believe it was the universal wish that the time had been longer. However we carry away some of his words and the remembrance of that noble, keen, apostolic face, which will haunt us long after he has left us. I think of his undertaking himself to navigate his missionary ship ‘the Southern Cross’ out to New Zealand with a crew of six men, it will be ready on St Stephen’s day, when Mrs Selwyn will have to take leave of her boys, and for seven years look to no home but this floating one. It is joy to think there are such people.
+Many thanks for the [paper on Gloucester](other_books/otherbook_244.qmd). It came in a good time for a cousin was staying with us whose home is close to Gloucester, and her brother a minor canon who has all its antiquities at his fingers ends.[^2] She set down the yew tree to ask him about, but as she went home in haste to prepare to set off in a week to spend the winter in the South of France, I think it has a fair chance of being forgotten and shall set another of the sisters to ask the question when the confusion is over. She agreed with you in almost everything except in admiring the modern monuments. It was curious that we had just been reading an account of that great day at Lichfield in a letter from a lady who was staying in the house with the [Bishop](people/person_1295.qmd) and [Mrs Selwyn](people/person_1297.qmd). I do not know whether I mentioned to you my enjoyment at meeting them at Winchester and at Hursley. They spent two days at [Winchester college](organizations/other_50.qmd)and gave one of them to Hursley, and I believe it was the universal wish that the time had been longer. However we carry away some of his words and the remembrance of that noble, keen, apostolic face, which will haunt us long after he has left us. I think of his undertaking himself to navigate his missionary ship ‘the Southern Cross’ out to New Zealand with a crew of six men, it will be ready on St Stephen’s day, when Mrs Selwyn will have to take leave of her boys, and for seven years look to no home but this floating one. It is joy to think there are such people.
 
 I was amused at the offence given to the descendant of the Danes, but I am at a loss to think where I have introduced the name of Thompson, and certain little friends of mine who have made themselves a sort of concordance to the [Heir of Redclyffe](cmy_books/cmybook_15.qmd) cannot recollect it either. I am afraid he must often suffer the same indignity for it is a name one writes down as one would -----  to fill up a gap. I think the general judgment of ‘[Heartsease](cmy_books/cmybook_19.qmd)’ has been pretty fair, that she is inferior in some ways and superior in others to her predecessor, the details of course vary and very amusingly. There is a time in one’s life when printed critiques seem very dread and infallible, and it is curious to find oneself judging of them at last.
 
@@ -42,7 +42,7 @@ Yours sincerely
 
 C M Yonge
 
-How beautiful your Cathedral on your note paper. The sight of it conjures up [Mr Gresley](people/person_1756.qmd)’s pretty book[^2]
+How beautiful your Cathedral on your note paper. The sight of it conjures up [Mr Gresley](people/person_1756.qmd)’s pretty book[^3]
 
 ---
 

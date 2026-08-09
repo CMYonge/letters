@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** July 1st [1871]  
+**Date:** July 1st [1871][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Mrs Clare Roels
 :::
 
 My dear [Christabel](people/person_329.qmd)
 
-I think you should poke up [Strahan](people/person_1278.qmd), though I fancy he is very tiresome about MSS. [^1]  I hope you have a copy – [Goosedom](organizations/other_104.qmd) is very poor this time, all the best being busy or going travelling  [Frog](people/person_822.qmd) is gone to Ammergau[^2]
+I think you should poke up [Strahan](people/person_1278.qmd), though I fancy he is very tiresome about MSS. [^2]  I hope you have a copy – [Goosedom](organizations/other_104.qmd) is very poor this time, all the best being busy or going travelling  [Frog](people/person_822.qmd) is gone to Ammergau[^3]
 
 your affectionate
 Mother Goose

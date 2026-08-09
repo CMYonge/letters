@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 3d [1855]  
 **From:** Otterbourn  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1855/1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1855/1[^2]
 :::
 
 [Madam](people/person_263.qmd)[^1]

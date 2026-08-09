@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 11th 1864  
 **From:** Elderfield Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920:
+**Manuscript:** MS British Library Add MSS 54920:[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd),
@@ -68,7 +68,7 @@ Broomfield
 Davidson’s Mains
 Edinburgh
 
-6 copies to myself[^1]
+6 copies to myself[^2]
 
 ---
 

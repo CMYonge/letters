@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 4th [1887]  
 **From:** Elderfield  
-**Manuscript:** MS Girton College Cambridge, Yonge V 2
+**Manuscript:** MS Girton College Cambridge, Yonge V 2[^1]
 :::
 
 Dear [Mr Ingram](people/person_743.qmd)
@@ -52,4 +52,5 @@ A spinning wheel really cost 4/6
 ---
 
 [^1]: Envelope attached is addressed to ‘J Ingram Esq/179 Albion Road/ Stoke Newington/ London and post marked Winchester and London 4 and 5 November 1887.
-[^2]: These were the proof's of CMY's *Hannah More* (1888), published in George Allen's 'Eminent Women' series edited by J. H. Ingram.
+
+**Note:** These were the proof's of CMY's *Hannah More* (1888), published in George Allen's 'Eminent Women' series edited by J. H. Ingram.

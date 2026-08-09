@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 20th 1874  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff166-68.
+**Manuscript:** MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff166-68.[^1]
 :::
 
 My dear [Miss Palmer](people/person_1238.qmd)
 I am delighted with both your papers, I did not write before as I wanted to read them aloud to [my invalid friend](people/person_1462.qmd), and we enjoyed them very much. I did not find out that the thundering Legion was coming till the clouds were at the Carpathian mountains.
 
-Una and her knight I like very much too and shall be glad to keep them and put them in[^1]  I do not see much likeness to [Minne’s knight](other_books/otherbook_818.qmd), which as I dare say [Mildred Coleridge](people/person_17.qmd) told you was written by her cousin [Christabel](people/person_329.qmd)
+Una and her knight I like very much too and shall be glad to keep them and put them in[^2]  I do not see much likeness to [Minne’s knight](other_books/otherbook_818.qmd), which as I dare say [Mildred Coleridge](people/person_17.qmd) told you was written by her cousin [Christabel](people/person_329.qmd)
 
 What a delightful treasure trove. I hope the British museum does not deprive you of them all. We had some charming lectures on coins at Winchester a year or two ago, when we were shewn some after the Romans were gone where the head and superscription were copied meaninglessly and there was a runic (no old Saxon) inscription on the other side of the coin, purporting it to be issued by old Penda. Is not this true English love of precedent, combined with practical sense?
 

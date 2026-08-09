@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Oct 13th [1851]  
+**Date:** Oct 13th [1851][^1]  
 **Manuscript:** MS West Devon Record Office Acc 1092/6
 :::
 
@@ -36,4 +36,4 @@ CMY
 
 ---
 
-**Note:** The letter is endorsed in another hand ‘Edmund Morshead’s birth (name suggested)’, but it seems more likely that it refers to the birth of Alethea Morshead’s fifth son, Ernest Garstin Anderson Morshead, on 9 October 1851
+[^1]: The letter is endorsed in another hand ‘Edmund Morshead’s birth (name suggested)’, but it seems more likely that it refers to the birth of Alethea Morshead’s fifth son, Ernest Garstin Anderson Morshead, on 9 October 1851

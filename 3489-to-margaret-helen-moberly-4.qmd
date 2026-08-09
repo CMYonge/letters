@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [May ?1860s  
+**Date:** [May ?1860s[^1]  
 **Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/6
 :::
 
@@ -36,4 +36,4 @@ C M Yonge
 
 ---
 
-**Note:** Maggie Moberly was born in 1852 and *The Daisy Chain* seems most likely to have been offered her after the age of 8 and before the age of 18.
+[^1]: Maggie Moberly was born in 1852 and *The Daisy Chain* seems most likely to have been offered her after the age of 8 and before the age of 18.

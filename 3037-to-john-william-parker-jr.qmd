@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 21st [1854]  
 **From:** Otterbourn Winchester  
-**Manuscript:** MS Princeton University, Parrish Collection, C0171 Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, C0171 Box 29[^1]
 :::
 
 Dear[Sir](people/person_1143.qmd), 
-There are a few slight corrections of the [‘Heir of Redclyffe](cmy_books/cmybook_15.qmd)’ which I will send in a day or two. I am glad to learn that this edition has sold off so well, but I think we should take it into consideration whether it might not be better still further to lessen the price. I have been much urged by influential persons to publish a large and really cheap edition, such as would fall into the hands of a more extensive class of purchasers, and this would certainly well accord with my own views. I see that Lady Catherine Long’s ‘[Sir Roland Ashton](other_books/otherbook_107.qmd)’[^1]  originally a three volume novel is now published at 2/ and the great sale that books thus cheaply printed obtain would seem to point this out as a desirable measure now that the work has become known
+There are a few slight corrections of the [‘Heir of Redclyffe](cmy_books/cmybook_15.qmd)’ which I will send in a day or two. I am glad to learn that this edition has sold off so well, but I think we should take it into consideration whether it might not be better still further to lessen the price. I have been much urged by influential persons to publish a large and really cheap edition, such as would fall into the hands of a more extensive class of purchasers, and this would certainly well accord with my own views. I see that Lady Catherine Long’s ‘[Sir Roland Ashton](other_books/otherbook_107.qmd)’[^2]  originally a three volume novel is now published at 2/ and the great sale that books thus cheaply printed obtain would seem to point this out as a desirable measure now that the work has become known
 
 I remain
 Yours faithfully

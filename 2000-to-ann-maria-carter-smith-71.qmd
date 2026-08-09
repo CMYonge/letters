@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Decr 30th [1864?]  
+**Date:** Decr 30th [1864?][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1864/ 8
 :::
@@ -40,4 +40,4 @@ C. M. Yonge
 
 ---
 
-**Note:** Although this letter dates from after the move to Elderfield in 1863, the benefaction referred to is evidently the same as that discussed in the letter of 18 March 1861.  1863 may also be a possible date.
+[^1]: Although this letter dates from after the move to Elderfield in 1863, the benefaction referred to is evidently the same as that discussed in the letter of 18 March 1861.  1863 may also be a possible date.

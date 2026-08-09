@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 3d [1864]  
 **From:** Elderfield  
-**Manuscript:** MS NLS 966 f.381
+**Manuscript:** MS NLS 966 f.381[^1]
 :::
 
 Dear [Dr Neale](people/person_1078.qmd),
 
-I enclose postage stamps for the paper taken up by the Honolulu letters.[^1] Pray thank [Sister Anne](people/person_1816.qmd) for her kind note to me acknowledging the pin cushions.
+I enclose postage stamps for the paper taken up by the Honolulu letters.[^2] Pray thank [Sister Anne](people/person_1816.qmd) for her kind note to me acknowledging the pin cushions.
 
 yours faithfully
 C M Yonge

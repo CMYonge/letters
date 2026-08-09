@@ -24,14 +24,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** August, 11 1898.  
+**Date:** August, 11 1898.[^1]  
 **Manuscript:** MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 329
 :::
 
 Dearest [Marianne](people/person_1546.qmd)-
 I have the sketch-book still (only it is at the bottom of some dusty hoards, which I have not time to irritate to-day) with all our party on Bishopstoke Hill. Dear Marianne, it is much to be thankful for to have a real friend of one's youth on into ‘boar hairs,’ and friends and household do all they can to make it a bright day. [Emily Awdry](people/person_81.qmd) comes for two days to-day. She will be in time to see those lovely pancratiums in their glory. My flowers were gathered and made up yesterday; they are not so beautiful as yours, but they have the merit of lasting.
 
-Do you remember that *Amaranth* on the *lucus a non lucendo* principle was [Mr. Wither](people/person_1544.qmd)'s New College name?[^1] I have a bunch that has lasted on a whole year. (Botanically I know these are not amaranths.)
+Do you remember that *Amaranth* on the *lucus a non lucendo* principle was [Mr. Wither](people/person_1544.qmd)'s New College name?[^2] I have a bunch that has lasted on a whole year. (Botanically I know these are not amaranths.)
 
 Yes, my dear [Charles Yonge](people/person_1601.qmd), gone now fifty years ago, had the same birthday. I have been routing out the record of old scenes at Puslinch, which delight [Helen](people/person_1613.qmd) greatly, and bring back old faces long gone.-
 

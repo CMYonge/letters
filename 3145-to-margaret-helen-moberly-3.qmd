@@ -24,8 +24,8 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [24 December ?1859]  
-**Manuscript:** MS location unknown.  Photocopies lent by Barbara Dennis: Maggie/2
+**Date:** [24 December ?1859][^2]  
+**Manuscript:** MS location unknown.  Photocopies lent by Barbara Dennis: Maggie/2[^1]
 :::
 
 My dear [Maggie](people/person_83.qmd)
@@ -40,4 +40,5 @@ Charlotte M. Yonge
 
 ---
 
-**Note:** With envelope addressed to Miss Margaret Moberly.  No address on letter. Dated on the assumption that it relates to the letter (28 November ?1859) from Constable & Co, and that the edition of 1859 is there referred to.
+[^1]: With envelope addressed to Miss Margaret Moberly.  No address on letter.
+[^2]: Dated on the assumption that it relates to the letter (28 November ?1859) from Constable & Co, and that the edition of 1859 is there referred to.

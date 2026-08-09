@@ -34,7 +34,7 @@ Dear Miss Yonge
 
 I have sent you four copies of [Golden Deeds](cmy_books/cmybook_51.qmd) through [Nutt & Wells](organizations/other_178.qmd). I suppose you can get them thence.
 
-[My sister](people/person_941.qmd) threatens you with a letter.[^2] But we wanted to see the first [chapter](organizations/other_177.qmd) in type first. The printer is doing this.
+[My sister](people/person_941.qmd) threatens you with a letter.[^1] But we wanted to see the first [chapter](organizations/other_177.qmd) in type first. The printer is doing this.
 
 Yours ever truly
 A. Macmillan
@@ -42,4 +42,5 @@ A. Macmillan
 ---
 
 [^1]: CMY had misread Sutcliffe's name as Ratcliffe because of his poor handwriting.
-[^2]: It seems that Macmillan’s sister-in-law, Frances Eliza Macmillan, was going to take a hand in the editing of 'Bethlehem'. She had suggested the Golden Deeds project, and perhaps 'Bethlehem' was also her idea.
+
+**Note:** It seems that Macmillan’s sister-in-law, Frances Eliza Macmillan, was going to take a hand in the editing of 'Bethlehem'. She had suggested the Golden Deeds project, and perhaps 'Bethlehem' was also her idea.

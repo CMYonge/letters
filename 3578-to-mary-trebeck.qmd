@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [11 July 1892]  
-**Manuscript:** MS Charlotte Mitchell/33
+**Manuscript:** MS Charlotte Mitchell/33[^1]
 :::
 
 This life is not the Temple but the Gate
@@ -45,4 +45,4 @@ They are the end of his sonnet in answer to ‘A life worth living[‘]
 
 ---
 
-**Note:** With envelope addressed to Mrs Trebeck/ Southwell/ Notts and postmarked Winchester 11 July 1892. Mary Trebeck edited *The Blue Birthday Book:  Proverbs, Maxims and Quotations for Every Day of the Year*  (London: Gardner, Darton 1898).
+[^1]: With envelope addressed to Mrs Trebeck/ Southwell/ Notts and postmarked Winchester 11 July 1892. Mary Trebeck edited *The Blue Birthday Book:  Proverbs, Maxims and Quotations for Every Day of the Year*  (London: Gardner, Darton 1898).

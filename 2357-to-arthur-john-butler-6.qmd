@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 7th [1869]  
 **From:** Heaths court  
-**Manuscript:** MS Mrs Caroline Fairclough/22
+**Manuscript:** MS Mrs Caroline Fairclough/22[^1]
 :::
 
 My dear [Arthur](people/person_238.qmd)
@@ -45,4 +45,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

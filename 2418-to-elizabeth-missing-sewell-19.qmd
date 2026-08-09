@@ -25,11 +25,11 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Sept 8th [1871]  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 My dear [Miss Sewell](people/person_1301.qmd)
-I think I can make room for your two papers in November and December, having pretty well got over what choked me up at the beginning of the month.[^1]
+I think I can make room for your two papers in November and December, having pretty well got over what choked me up at the beginning of the month.[^2]
 
 I ought to have written before and I am sorry I did not.
 

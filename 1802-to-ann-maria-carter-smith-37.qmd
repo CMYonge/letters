@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Aug 24th 1860  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/2
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1860/2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Ann Smith/ The Rectory/ Old Charlton/ SE and postmarked Winchester 24 August, year defaced with removal of stamp, and London SE 25 August 1860
+[^1]: Envelope addressed to Miss Ann Smith/ The Rectory/ Old Charlton/ SE and postmarked Winchester 24 August, year defaced with removal of stamp, and London SE 25 August 1860

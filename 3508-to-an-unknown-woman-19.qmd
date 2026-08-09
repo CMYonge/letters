@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Oct 28th [1867?]  
+**Date:** Oct 28th [1867?][^1]  
 **From:** Puslinch  
 **Manuscript:** MS UCLA: collection 100: box 95
 :::
@@ -45,4 +45,4 @@ C M Yonge
 
 ---
 
-**Note:** She was at Puslinch in late October 1867, but this is not conclusive evidence for this date.
+[^1]: She was at Puslinch in late October 1867, but this is not conclusive evidence for this date.

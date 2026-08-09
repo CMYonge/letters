@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 12th [1869?]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Huntington Library
+**Manuscript:** MS Huntington Library[^1]
 :::
 
 [Dear Mr Furnivall](people/person_531.qmd)
-I have a friend belonging to a Cornish family staying with me, and she thinks her relations competent to look over the Cornish which is not naughty English, so she is sending it to them, and they will return it to you[^1]
+I have a friend belonging to a Cornish family staying with me, and she thinks her relations competent to look over the Cornish which is not naughty English, so she is sending it to them, and they will return it to you[^2]
 
 Yours truly
 C M Yonge

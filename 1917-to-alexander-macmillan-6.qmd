@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 24th [1863]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 9-10
+**Manuscript:** MS British Library Add MSS 54920: 9-10[^1]
 :::
 
 [Sir](people/person_939.qmd),
@@ -45,4 +45,4 @@ A. Macmillan Esq
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

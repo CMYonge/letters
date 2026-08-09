@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [“early” 1866]  
+**Date:** [“early” 1866][^1]  
 **Manuscript:** MS location unknown. This fragment printed in Christabel Maxwell, <i>[Mrs. Gatty and Mrs. Ewing](other_books/otherbook_306.qmd)</i>, (1949) 144.
 :::
 
@@ -34,4 +34,4 @@ Pray tell [Juliana](people/person_494.qmd) that I have been told of a master at 
 
 ---
 
-**Note:** ‘The Brownies’ had appeared in the *MP* (December 1865). Maxwell writes: 'Early in 1866 there was a letter from Miss Yonge to say that it [the Brownies] had evoked a perfect chorus of approval and in her opinion it had been the most successful that they had had in the *Monthly Packet* for a long time.' This letter was sent “shortly afterwards”.
+[^1]: ‘The Brownies’ had appeared in the *MP* (December 1865). Maxwell writes: 'Early in 1866 there was a letter from Miss Yonge to say that it [the Brownies] had evoked a perfect chorus of approval and in her opinion it had been the most successful that they had had in the *Monthly Packet* for a long time.' This letter was sent “shortly afterwards”.

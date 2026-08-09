@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 22nd [1864]  
 **From:** Elderfield  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
-The prizes[^1] I should like to propose would be -
+The prizes[^2] I should like to propose would be -
 First Shew
 Best copy book by a school boy
 Knife

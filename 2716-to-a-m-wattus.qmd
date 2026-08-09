@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [1880?]  
+**Date:** [1880?][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29: Author Files Wood-Yonge:
 :::
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** Since this letter refers to Linda Villari's 'The Angel of Viareggio', which was published in *MP* in the first half of 1880, it seems probable that it dates from shortly after the publication of that story.
+[^1]: Since this letter refers to Linda Villari's 'The Angel of Viareggio', which was published in *MP* in the first half of 1880, it seems probable that it dates from shortly after the publication of that story.

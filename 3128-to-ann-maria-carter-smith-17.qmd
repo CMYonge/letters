@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 9th 1859  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/2
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -68,4 +68,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to 'Smith/ Rectory/ Charlton/ London/ SW', postmarked Winchester 9 April 1859 and  London 11 April 1859.
+[^1]: With envelope addressed to 'Smith/ Rectory/ Charlton/ London/ SW', postmarked Winchester 9 April 1859 and  London 11 April 1859.

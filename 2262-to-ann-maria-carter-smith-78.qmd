@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [July 1868]  
+**Date:** [July 1868][^1]  
 **Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1867/ 3
 :::
 
@@ -35,4 +35,6 @@ Thanks for the [Exhibition](other_books/otherbook_531.qmd) - which is full of in
 
 ---
 
-**Note:** The paper has been cut about to remove the signature, address and date. A. Carter Smith’s article ‘National Portrait Gallery’ appeared in *MP* 1868 (2): 65. Walter Farquhar Hook wrote *The Three Reformations* (1847), *Lives of the Archbishops of Canterbury* (1862) and *A Church Dictionary* (1864, 9th ed.)
+[^1]: The paper has been cut about to remove the signature, address and date.
+
+**Note:** A. Carter Smith’s article ‘National Portrait Gallery’ appeared in *MP* 1868 (2): 65. Walter Farquhar Hook wrote *The Three Reformations* (1847), *Lives of the Archbishops of Canterbury* (1862) and *A Church Dictionary* (1864, 9th ed.)

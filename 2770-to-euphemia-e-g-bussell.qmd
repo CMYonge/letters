@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 20th [1883?]  
 **From:** Elderfield  
-**Manuscript:** MS Miss Sarah Jardine-Willoughby
+**Manuscript:** MS Miss Sarah Jardine-Willoughby[^1]
 :::
 
 My dear [Miss Bussell](people/person_232.qmd)
 
-Many thanks for your [portrait](other_books/otherbook_958.qmd) which I like very much, & will try to put in.[^1]
+Many thanks for your [portrait](other_books/otherbook_958.qmd) which I like very much, & will try to put in.[^2]
 
 yours truly
 C M Yonge

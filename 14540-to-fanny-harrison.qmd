@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 11th [1887]  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Dr Susan Walton
+**Manuscript:** MS Dr Susan Walton[^1]
 :::
 
 Dear [Miss Harrison](people/person_2260.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to 'Miss Harrison, St Cross, Weybridge' and postmarked Weybridge 12 October 1887.
+[^1]: With envelope addressed to 'Miss Harrison, St Cross, Weybridge' and postmarked Weybridge 12 October 1887.

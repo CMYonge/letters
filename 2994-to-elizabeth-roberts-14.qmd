@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** June 18th [1852]  
+**Date:** June 18th [1852][^1]  
 **From:** Otterbourn  
 **Manuscript:** MS Huntington Library: Yonge Letters
 :::
@@ -44,4 +44,4 @@ C M Yonge
 
 ---
 
-**Note:** The MS is accompanied by a small white envelope with stamped circle enclosing flowering plant on flap, addressed to ' Miss E P Roberts/ Botcherby/ Carlisle'.
+[^1]: The MS is accompanied by a small white envelope with stamped circle enclosing flowering plant on flap, addressed to ' Miss E P Roberts/ Botcherby/ Carlisle'.

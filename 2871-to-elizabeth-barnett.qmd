@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [January 1887]  
+**Date:** [January 1887][^1]  
 **Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  180.
 :::
 
@@ -34,4 +34,4 @@ I have been reading [an article](other_books/otherbook_1101.qmd) in the *[Nation
 
 ---
 
-**Note:** The article referred to was no doubt Reginald F. D. Palgrave, 'Carlyle, the \\"pious editor\\" of Cromwell's speeches'   *National Review*  8 (January 1887), 588-604.
+[^1]: The article referred to was no doubt Reginald F. D. Palgrave, 'Carlyle, the \\"pious editor\\" of Cromwell's speeches'   *National Review*  8 (January 1887), 588-604.

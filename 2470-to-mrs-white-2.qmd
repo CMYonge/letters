@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Jany 17th [1873?]  
+**Date:** Jany 17th [1873?][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS University of Pennsylvania
 :::
 
 Dear [Mrs White](people/person_1494.qmd)
-I cannot remember Miss [Evelyn Gee](people/person_553.qmd)’s present address, so would you be so kind as to forward this note to her containing a request from some one in Sloane Street to print her [Eagle Story](other_books/otherbook_820.qmd), which certainly has been a great favourite[^1]
+I cannot remember Miss [Evelyn Gee](people/person_553.qmd)’s present address, so would you be so kind as to forward this note to her containing a request from some one in Sloane Street to print her [Eagle Story](other_books/otherbook_820.qmd), which certainly has been a great favourite[^2]
 
 Yours truly
 C M Yonge

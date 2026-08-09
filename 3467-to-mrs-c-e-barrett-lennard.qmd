@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Aug 14 1900  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff68-70
+**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff68-70[^1]
 :::
 
 Dear [Mrs Lennard](people/person_121.qmd)
@@ -35,7 +35,7 @@ I did not write because I knew of no one who would respond to your plan, Are you
 
 I do not know [Mr Arnold](people/person_62.qmd)’s address. My nephew saw him at Lowestoft, where he was going to open an hotel! He has married a [cousin](people/person_2158.qmd) of his [wife](people/person_2055.qmd)’s
 
-[Miss Finlaison](people/person_512.qmd) is at Preston for her holidays with her nieces, the Jenners,[^1] whose [mother](people/person_2243.qmd) died this spring. They are in the same house Preston Vicarage, Dover if you want to write to her. Cottages are not to be had here, there are people constantly applying in vain 
+[Miss Finlaison](people/person_512.qmd) is at Preston for her holidays with her nieces, the Jenners,<sup>2</sup> whose [mother](people/person_2243.qmd) died this spring. They are in the same house Preston Vicarage, Dover if you want to write to her. Cottages are not to be had here, there are people constantly applying in vain 
 
 Poor old [Packet](organizations/other_52.qmd) - the publishers came to grief and pulled it down with them. Arnold’s house is made into a villa for the Cranbury agent. I should doubt anyone having his address here
 

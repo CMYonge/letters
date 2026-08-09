@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 29th [1863]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/7
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/7[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
 
-I have kept your French journal a terrible time, and I am sorry to say I cannot get it in after all. It is rather too much trodden ground, and even you cannot make it new enough. I think you will soon get a huge piece of the [Banks of the Thorne](other_books/otherbook_275.qmd) to finish them with the year if possible, and then we begin on our new principles. I hope the enclosed yellow paper[^1] will attract subscribers. I have been getting the attempt made, and the [Editor](people/person_1073.qmd) will I think manage it very well, as a sort of [newspaper magazine](organizations/other_69.qmd), to be safe to let schoolroom girls read. If you can contribute any descriptions of great popular days like some you have sometimes sent me it will be very grateful
+I have kept your French journal a terrible time, and I am sorry to say I cannot get it in after all. It is rather too much trodden ground, and even you cannot make it new enough. I think you will soon get a huge piece of the [Banks of the Thorne](other_books/otherbook_275.qmd) to finish them with the year if possible, and then we begin on our new principles. I hope the enclosed yellow paper[^2] will attract subscribers. I have been getting the attempt made, and the [Editor](people/person_1073.qmd) will I think manage it very well, as a sort of [newspaper magazine](organizations/other_69.qmd), to be safe to let schoolroom girls read. If you can contribute any descriptions of great popular days like some you have sometimes sent me it will be very grateful
 
 yours sincerely
 

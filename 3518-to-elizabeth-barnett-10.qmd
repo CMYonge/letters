@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [1857]  
+**Date:** [1857][^1]  
 **Manuscript:** MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 83.
 :::
 
@@ -34,4 +34,4 @@ The folk here, are quite on my side about ‘Debonnaire.’ In the first place, 
 
 ---
 
-**Note:** Romanes associates this letter with the publication of *Dynevor Terrace* (1857), whose hero, Louis, is nicknamed after King Louis (778-840), of France. There was a discussion of Louis le Debonnaire’s sobriquet in the article ‘Preparation of Prayer Book Lessons’ *[MP](organizations/other_52.qmd)* (1 March 1887) 271.
+[^1]: Romanes associates this letter with the publication of *Dynevor Terrace* (1857), whose hero, Louis, is nicknamed after King Louis (778-840), of France. There was a discussion of Louis le Debonnaire’s sobriquet in the article ‘Preparation of Prayer Book Lessons’ *[MP](organizations/other_52.qmd)* (1 March 1887) 271.

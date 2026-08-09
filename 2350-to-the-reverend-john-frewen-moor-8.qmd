@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 4th [1869?]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
@@ -41,4 +41,5 @@ On second thoughts you may be glad to save a post, so I send this by a messenger
 ---
 
 [^1]: Black-edged paper.
-[^2]: The problem seems to be to find accommodation nearby for Frewen Moor who is coming home from school and cannot come home because his mother is ill.
+
+**Note:** The problem seems to be to find accommodation nearby for Frewen Moor who is coming home from school and cannot come home because his mother is ill.

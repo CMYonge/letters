@@ -27,10 +27,10 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 13th 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
-My dear [Miss [Sewell](people/person_1301.qmd)][^1]
+My dear [Miss [Sewell](people/person_1301.qmd)][^2]
 
 Many thanks for [your Revolution](other_books/otherbook_887.qmd) which looks very entertaining, though I have not thoroughly encountered its curling propensities and as you may suppose, I trust you! I shall be glad to have your further papers in the next year. They always <u>tell</u>.
 

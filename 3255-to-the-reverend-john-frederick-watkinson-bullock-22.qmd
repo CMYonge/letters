@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 19 1894  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 143-4
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 143-4[^1]
 :::
 
 Dear [Mr Bullock](people/person_221.qmd),
-If you can wait a little while for St Maurice I will send him to you but I am very busy just now, and could not turn my mind to it immediately. I have [Baring Gould](other_books/otherbook_692.qmd) and [Alban Butler](other_books/otherbook_27.qmd) both also Fleury[^1]
+If you can wait a little while for St Maurice I will send him to you but I am very busy just now, and could not turn my mind to it immediately. I have [Baring Gould](other_books/otherbook_692.qmd) and [Alban Butler](other_books/otherbook_27.qmd) both also Fleury[^2]
 
 Yours truly
 C M Yonge

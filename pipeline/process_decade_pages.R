@@ -343,6 +343,14 @@ fix_decade_qmd <- function(filepath) {
     text  <- str_replace(text, fixed(tag), link)
   }
   
+  # ── Catch-all: any remaining link into a top-level reference folder that's
+  # missing the ../ prefix, regardless of origin (converted tag or already
+  # hand-written as markdown). Decade pages are one level deep, so a link
+  # like (cmy_books/cmybook_247.qmd) needs to become (../cmy_books/cmybook_247.qmd).
+  text <- str_replace_all(text,
+                          "\\]\\((cmy_books|other_books|organizations|people)/",
+                          "](../\\1/")
+  
   # ── Ensure blank line before each [N] footnote line ─────────────────────────
   lines     <- strsplit(text, "\n", fixed = TRUE)[[1]]
   new_lines <- c()

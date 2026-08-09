@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 15 [1887]  
 **From:** Elderfield  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** Cream card with rounded corners. Cream envelope addressed to ‘The Revd/ J F Moor/ Ampfield/ Romsey' and postmarked Winchester 15 April 1887.
+[^1]: Cream card with rounded corners. Cream envelope addressed to ‘The Revd/ J F Moor/ Ampfield/ Romsey' and postmarked Winchester 15 April 1887.

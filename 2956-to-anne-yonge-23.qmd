@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Sept 24th [1846]  
+**Date:** Sept 24th [1846][^1]  
 **From:** Otterbourn  
 **Manuscript:** MS West Devon Record Office Acc 1092/5
 :::
@@ -47,7 +47,7 @@ The French riddle is this, but it is quite spoilt by writing
 
 Chat en a, rat en a; taupe aussi.’
 
-Old [Mrs Barter](people/person_117.qmd) is going on very well, Papa saw her on Saturday, the [Warden](people/person_118.qmd) has a fit of the gout, and Mr [William Barter](people/person_1703.qmd) is there backwards and forwards, the [Catherine](people/person_116.qmd) who is staying there is Mr [Charles Barter](people/person_1704.qmd)’s daughter.[^4]  I hope you are speeding well in your setting to rights, how horribly dusty your fingers must feel
+Old [Mrs Barter](people/person_117.qmd) is going on very well, Papa saw her on Saturday, the [Warden](people/person_118.qmd) has a fit of the gout, and Mr [William Barter](people/person_1703.qmd) is there backwards and forwards, the [Catherine](people/person_116.qmd) who is staying there is Mr [Charles Barter](people/person_1704.qmd)’s daughter.[^5]  I hope you are speeding well in your setting to rights, how horribly dusty your fingers must feel
 
 your most affectionate
 C M Yonge
@@ -63,5 +63,6 @@ The Viaducts are going on again.  I wonder how often we shall talk of them
 [^1]: The first Langley School story, ‘Two Ways of Learning’ which appeared in Burns’s *Magazine for the Young* (September 1846).
 [^2]: The Ampfield fountain had been put up by Sir William Heathcote in imitation of one he had seen abroad.
 [^3]: In Jane Austen, *Sense and Sensibility* Chapter 13, Elinor mocks Marianne about the swiftness of her friendship with Willoughby: 'You will soon have exhausted each favourite topic. Another meeting will suffice to explain his sentiments on picturesque beauty, and second marriages.'
-[^4]: The railway viaducts at Cornwood, in south Devon, where WCY had been brought up.
 [^5]: The Warden of Winchester College was the Rev. Robert Speckott Barter (1790-1861), who was unmarried; old Mrs Barter was probably his mother. His brother the Rev. William Barter, Rector of Burghclere, was the father of Katherine Mary Barter, who had just become engaged to the widowed Rev. Charles Wordsworth, second master of Winchester College.  Another brother, the Rev. Charles Barter, Rector of Sarsden, also had a daughter Catherine Barter (b. 1820/1).
+
+**Note:** The railway viaducts at Cornwood, in south Devon, where WCY had been brought up.

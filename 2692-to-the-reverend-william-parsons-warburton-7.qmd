@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Nov 12th [1879 or later?]  
+**Date:** Nov 12th [1879 or later?][^1]  
 **From:** Elderfield  
 **Manuscript:** MS Girton College Cambridge, Yonge VII 3
 :::

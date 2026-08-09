@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Aug 21st 1893  
 **From:** Elderfield  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
-Dear [Mrs Holbeach](people/person_706.qmd)[^1]
+Dear [Mrs Holbeach](people/person_706.qmd)[^2]
 I am much obliged for your book which I should have acknowledged sooner but I was just going from home
 
-I chiefly took the account of the battle of Wakefield from Sir James Ramsays’[history](other_books/otherbook_679.qmd), and as it was a hired book I cannot see whether any bit of old spelling of his could have misled me. I am afraid it is too late to get it altered in the second edition[^2]
+I chiefly took the account of the battle of Wakefield from Sir James Ramsays’[history](other_books/otherbook_679.qmd), and as it was a hired book I cannot see whether any bit of old spelling of his could have misled me. I am afraid it is too late to get it altered in the second edition[^3]
 
 Yours truly
 C M Yonge

@@ -25,11 +25,11 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [12 January 1866]  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd),
-I should have said that I think you must specify your stones, there are such a frightful number- Pray have opal and turquoise- One for its weird history, the other for its nature- but exclude all the stupid ones, like garnets &c or we shall be swamped - I shall send the parcel on Monday - Meantime I send you the grand Goslings acceptance[^1] - I think [Fernseed](people/person_1160.qmd) must be her name - [Ladyfern](people/person_455.qmd) & [Magpie](people/person_896.qmd) keep on after all. This Fernseed is to be directed to as 
+I should have said that I think you must specify your stones, there are such a frightful number- Pray have opal and turquoise- One for its weird history, the other for its nature- but exclude all the stupid ones, like garnets &c or we shall be swamped - I shall send the parcel on Monday - Meantime I send you the grand Goslings acceptance[^2] - I think [Fernseed](people/person_1160.qmd) must be her name - [Ladyfern](people/person_455.qmd) & [Magpie](people/person_896.qmd) keep on after all. This Fernseed is to be directed to as 
 
 Miss Peard
 Sparnow

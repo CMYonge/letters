@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 24th 1859  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/7
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1859/7[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -41,4 +41,4 @@ I hope [Mr Parker](people/person_1143.qmd) will soon think the times good enough
 
 ---
 
-**Note:** Envelope addressed to Miss A C Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 24 June 1859 and London SE 25 June 1859.  The paper has been cut to remove the signature.
+[^1]: Envelope addressed to Miss A C Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 24 June 1859 and London SE 25 June 1859.  The paper has been cut to remove the signature.

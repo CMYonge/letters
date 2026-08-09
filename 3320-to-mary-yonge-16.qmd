@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 24th [1896?]  
+**Date:** March 24th [1896?][^1]  
 **From:** Elderfield  
 **Manuscript:** MS West Devon Area Record Office Ac 1092/25
 :::
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** The dating of the letter depends on its statements that Mary Coleridge (1824-25 March 1898) is 72 and William Bigg Wither (1809-1899) 86.
+[^1]: The dating of the letter depends on its statements that Mary Coleridge (1824-25 March 1898) is 72 and William Bigg Wither (1809-1899) 86.

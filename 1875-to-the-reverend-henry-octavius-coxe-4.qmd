@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 29th 1862  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS. Don. d.144 ff 156-7
+**Manuscript:** MS Bodleian Library, Oxford: MS. Don. d.144 ff 156-7[^1]
 :::
 
 My dear [Mr Coxe](people/person_377.qmd)
@@ -63,4 +63,4 @@ Manna
 
 ---
 
-**Note:** The letter has illegible annotations in another hand.
+[^1]: The letter has illegible annotations in another hand.

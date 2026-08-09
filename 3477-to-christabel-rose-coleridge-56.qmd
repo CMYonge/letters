@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 29th [1901]  
 **From:** Elderfield  
-**Manuscript:** MS Mrs Clare Roels/108
+**Manuscript:** MS Mrs Clare Roels/108[^1]
 :::
 
 My dear [C C](people/person_329.qmd)
@@ -46,4 +46,4 @@ C M Yonge
 
 ---
 
-**Note:** Endorsed in another hand ‘Death of Q. Victoria’ and ‘1901’.
+[^1]: Endorsed in another hand ‘Death of Q. Victoria’ and ‘1901’.

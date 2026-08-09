@@ -41,7 +41,6 @@ C. M. Y.
 ---
 
 [^1]: *Sister’s Care*, a story by Mary Coleridge, was serialized in the *Churchman’s Companion* and published in volume form in 1849.
-[^10]: [Eliza Yard](people/person_1578.qmd) (b.1804/5) and [Adelaide Yard](people/person_1577.qmd) (b. 1806/7) are listed in the 1859 Hampshire directory as inhabitants of Otterbourne;   they later went to live in Winchester, where Elizabeth Sewell stayed with them in 1864.
 [^2]: *Michael the Chorister*, (London: Mozley n.d.) another story by Mary Coleridge, of which copies survive in the John Rylands and Bodleian libraries.  *Sister’s Care* By the Author of *Michael the Chorister* was published anonymously in 1849.
 [^3]: The matron at the Dysons’ school, the cow who looked after the calves.  At the time of the 1851 census she was Eliza Stewart (b. Scotland 1809/10).
 [^4]: A high church school on the model of Eton College, founded in Ireland in 1842 by the [Rev. William Sewell](people/person_1306.qmd) (1804-1874), brother of  Elizabeth Sewell.  The sub-warden was perhaps the [[person:]Rev. Matthew Calley Morton].
@@ -50,3 +49,4 @@ C. M. Y.
 [^7]: Pope, *Dunciad*, I, 52: ‘Poetic Justice, with her lifted scale/Where, in nice balance, truth with gold she weighs,/  And solid pudding against empty praise.’
 [^8]: [Alethea Buchanan Coleridge](people/person_923.qmd) (d. 1909), sister of Mary, married the Rev.[John Fielder Mackarness](people/person_926.qmd) (1820-1889), later Bishop of Oxford,  on 7 August 1849.
 [^9]: Priscilla Lydia Sellon (1821-1876) began in 1848 to do social work in Plymouth, Devon, and founded the Society of Sisters of Mercy of the Holy Trinity, Devonport.  She worked devotedly during the 1848 cholera epidemic, and was seriously ill in early 1849; she was also attacked for her close association with Pusey.  CMY’s bank account shows a series of payments, probably charitable, made to Sellon from 1853.
+[^10]: [Eliza Yard](people/person_1578.qmd) (b.1804/5) and [Adelaide Yard](people/person_1577.qmd) (b. 1806/7) are listed in the 1859 Hampshire directory as inhabitants of Otterbourne;   they later went to live in Winchester, where Elizabeth Sewell stayed with them in 1864.

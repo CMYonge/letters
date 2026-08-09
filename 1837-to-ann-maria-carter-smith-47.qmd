@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 3d 1861  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/11
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/11[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -42,4 +42,4 @@ The postmaster will send another letter of advice
 
 ---
 
-**Note:** Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester (date incomplete) and London SE 4 July 1861.
+[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester (date incomplete) and London SE 4 July 1861.

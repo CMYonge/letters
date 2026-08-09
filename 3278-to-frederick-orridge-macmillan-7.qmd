@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 31 1894  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS British Library  Add MSS 54921: 212
+**Manuscript:** MS British Library  Add MSS 54921: 212[^1]
 :::
 
 Dear [Mr Macmillan](people/person_942.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Endorsed 'Brett has agreed to pay £60 vide his letter of Dec 24/94'.
+[^1]: Endorsed 'Brett has agreed to pay £60 vide his letter of Dec 24/94'.

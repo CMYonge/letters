@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Decr 31st [1872]  
-**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29[^1]
 :::
 
 Dear [Miss Medhurst](people/person_988.qmd) 
@@ -37,4 +37,4 @@ C M Yonge
 
 ---
 
-**Note:** The paper has an ornamental decoration: 'With a Christmas greeting on my tongue/ with a friendship old whose faith keeps young/ I venture friend thy friends among'.
+[^1]: The paper has an ornamental decoration: 'With a Christmas greeting on my tongue/ with a friendship old whose faith keeps young/ I venture friend thy friends among'.

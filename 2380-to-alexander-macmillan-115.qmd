@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 27th [1870]  
 **From:** Ottery  
-**Manuscript:** MS  British Library Add MSS 54920: 239
+**Manuscript:** MS  British Library Add MSS 54920: 239[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
-I agree with [Miss Sewell](people/person_1301.qmd)as to the alteration, otherwise it will do very nicely. I hope to be at home on the 1st or 2nd of June[^1]
+I agree with [Miss Sewell](people/person_1301.qmd)as to the alteration, otherwise it will do very nicely. I hope to be at home on the 1st or 2nd of June[^2]
 
 Yours sincerely
 C M Yonge

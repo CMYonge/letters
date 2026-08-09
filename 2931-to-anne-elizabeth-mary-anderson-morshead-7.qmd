@@ -25,12 +25,12 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Aug 28th [1880s?]  
-**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29[^1]
 :::
 
 My dear [Mary](people/person_28.qmd)
 
-I don’t think I would venture. I think you would probably be left in the lurch in some way or other and the name is not known enough to inspire any confidence.[^1]
+I don’t think I would venture. I think you would probably be left in the lurch in some way or other and the name is not known enough to inspire any confidence.[^2]
 
 I think you might find some one who would take the risk which would be much better for you. I am making my way home from Devonshire where I have been first with [Mary Yonge](people/person_1626.qmd) and then with [Mary Coleridge](people/person_351.qmd), and I hope to get back on Saturday.
 

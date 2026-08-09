@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 5th [1862]  
+**Date:** March 5th [1862][^2]  
 **From:** Otterbourne, Winchester.  
 **Manuscript:** MS Charlotte Mitchell
 :::
 
 Dear [Miss Troyte](people/person_1775.qmd)[^1],
 
-Many thanks for your kind order and pleasant letter. I hope the [Heartsease leaves](cmy_books/cmybook_45.qmd)[^2] may help off some of the still remaining £120 which must be raised before [the bells](organizations/other_103.qmd)[^3] can be ordered. [Lady Lucy Herbert](people/person_679.qmd) has worked hard for them for seven years, literally worked, for she and [her sister](people/person_680.qmd) have drawn and sold their drawings for them.[^4] I believe the delight they will feel will be very great, and [Mrs Selwyn](people/person_1297.qmd) says the promise of the bells will quickly produce a Tower to hang them in.
+Many thanks for your kind order and pleasant letter. I hope the [Heartsease leaves](cmy_books/cmybook_45.qmd)[^3] may help off some of the still remaining £120 which must be raised before [the bells](organizations/other_103.qmd)[^4] can be ordered. [Lady Lucy Herbert](people/person_679.qmd) has worked hard for them for seven years, literally worked, for she and [her sister](people/person_680.qmd) have drawn and sold their drawings for them.[^5] I believe the delight they will feel will be very great, and [Mrs Selwyn](people/person_1297.qmd) says the promise of the bells will quickly produce a Tower to hang them in.
 
 I ventured on printing 500 Heartsease leaves and have disposed of nearly 200, but further orders will be very welcome. I do indeed seem not many degrees from knowing you, besides the links you mention, having heard of you at Ottery last year, and having to thank you or one of your sisters for copying out a poem of [Faber](people/person_1859.qmd)s for me
 

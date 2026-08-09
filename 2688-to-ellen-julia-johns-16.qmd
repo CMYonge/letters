@@ -24,8 +24,8 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [1870-2?]  
-**Manuscript:** MS Mitchell Library, Sydney. ML A27 1-275 (Microfilmed Sept 1993, Reel CY2846 )
+**Date:** [1870-2?][^1]  
+**Manuscript:** MS Mitchell Library, Sydney. ML A27 1-275 (Microfilmed Sept 1993, Reel CY2846 )[^1]
 :::
 
 My dear [Mrs Johns](people/person_772.qmd), 
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** Two letters are folded together in an envelope addressed to 'Mrs Johns, Winton House, Winchester', andpostmarked 1Winchester/D/ DE 5/70.' This letter evidently dates between the foundation of the [Winchester Literary and Scientific Society](organizations/other_208.qmd) and the death of the Rev. Charles Alexander Johns in 1874.  It probably dates from the earlier part of that period, since his death seems to have been preceded by illness.
+[^1]: Two letters are folded together in an envelope addressed to 'Mrs Johns, Winton House, Winchester', andpostmarked 1Winchester/D/ DE 5/70.' This letter evidently dates between the foundation of the [Winchester Literary and Scientific Society](organizations/other_208.qmd) and the death of the Rev. Charles Alexander Johns in 1874.  It probably dates from the earlier part of that period, since his death seems to have been preceded by illness.

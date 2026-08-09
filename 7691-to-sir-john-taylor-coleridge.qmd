@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 27th [1851 ]  
 **From:** Otterbourn  
-**Manuscript:** MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC
+**Manuscript:** MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC[^1]
 :::
 
 My dear [Mr Judge](people/person_344.qmd)
@@ -55,4 +55,4 @@ I don’t feel I had thanked you half enough when I think of that mountain of ma
 
 ---
 
-**Note:** Annotated in another hand '1851/Sept 27/ C.Yonge./Otterbourn'.
+[^1]: Annotated in another hand '1851/Sept 27/ C.Yonge./Otterbourn'.

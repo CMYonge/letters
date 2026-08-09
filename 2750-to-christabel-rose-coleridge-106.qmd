@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 6 th [1882]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
@@ -47,4 +47,5 @@ I got [Mrs Argles](people/person_57.qmd) ([Dr Davys](people/person_411.qmd)’ d
 ---
 
 [^1]: Endorsed in another hand '1882'.
-[^2]: *i.e.*, to *The Miz Maze* the novel they were writing in collaboration.  The rest of the letter seems to relate to a different project, however.
+
+**Note:** *i.e.*, to *The Miz Maze* the novel they were writing in collaboration.  The rest of the letter seems to relate to a different project, however.

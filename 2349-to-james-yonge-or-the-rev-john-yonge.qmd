@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 17th [1869]  
 **From:** Elderfield, Otterbourne, Winchester  
-**Manuscript:** MS Charlotte Mitchell/16
+**Manuscript:** MS Charlotte Mitchell/16[^1]
 :::
 
 [To [James](people/person_1614.qmd) or [John Yonge](people/person_1623.qmd)]
@@ -45,4 +45,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

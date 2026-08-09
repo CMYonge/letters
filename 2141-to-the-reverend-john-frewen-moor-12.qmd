@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Innocents’ day [28 December 1866]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
 I feel very guilty at not answering you yesterday, but just as I had sat down to write notes, I was interrupted, and all the time after wards went away 
 
-We shall be very grateful if you can kindly delight the parish this day week, Friday 4th - and we hope you and [Mrs Moor](people/person_1044.qmd) can come to /i e dinner\\ luncheon - so as to have time to arrange the room.[^1] I think [John Hicks](people/person_688.qmd) had better give his boys a half holiday and come to help you. I am sorry Rhoda has failed you
+We shall be very grateful if you can kindly delight the parish this day week, Friday 4th - and we hope you and [Mrs Moor](people/person_1044.qmd) can come to /i e dinner\\ luncheon - so as to have time to arrange the room.[^2] I think [John Hicks](people/person_688.qmd) had better give his boys a half holiday and come to help you. I am sorry Rhoda has failed you
 
 Yours sincerely
 C M Yonge

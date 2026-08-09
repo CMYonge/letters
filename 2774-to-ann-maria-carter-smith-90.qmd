@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 6th [1883]  
 **From:** Elderfield  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1883/ 2
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1883/ 2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
 
-Many thanks for [Delicia](other_books/otherbook_959.qmd), who is very pretty, and I shall be very glad of her when I can put her in.[^1]
+Many thanks for [Delicia](other_books/otherbook_959.qmd), who is very pretty, and I shall be very glad of her when I can put her in.[^2]
 
 I envy the spirit of the people who finished their Whitsuntide decorations before the early service.  I am thankful enough to get them all done on Saturday
 

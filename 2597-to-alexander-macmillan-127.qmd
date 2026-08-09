@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 11th 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54921: 32
+**Manuscript:** MS British Library Add MSS 54921: 32[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** April 24th [1868?]  
+**Date:** April 24th [1868?][^1]  
 **Manuscript:** MS UCLA: collection 100: box 95
 :::
 
@@ -36,4 +36,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter must post-date the marriage of Frances Yonge’s sister Louisa to Frank Halliday in August 1866.  The reference to Montrose (about whom Dampier published a novel with a preface by CMY, *Lady Beatrix Graham*) may possibly relate to a correspondence in *MP* between September and December 1868, in which a line from Lovelace's 'To Lucasta, on Going to the Wars' was incorrectly attributed to Montrose.
+[^1]: The letter must post-date the marriage of Frances Yonge’s sister Louisa to Frank Halliday in August 1866.  The reference to Montrose (about whom Dampier published a novel with a preface by CMY, *Lady Beatrix Graham*) may possibly relate to a correspondence in *MP* between September and December 1868, in which a line from Lovelace's 'To Lucasta, on Going to the Wars' was incorrectly attributed to Montrose.

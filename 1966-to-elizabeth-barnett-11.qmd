@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [Summer 1864]  
+**Date:** [Summer 1864][^1]  
 **Manuscript:** MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 102
 :::
 
@@ -36,4 +36,6 @@ breaking about him [the Colonel]; with Rachel, she had made up her mind to immol
 
 ---
 
-**Note:** The request for plot changes to *The Clever Woman of the Family* suggests that the letter was written while it was being serialised. The serialisation took 17 months, and the incidents referred to come in the first third of the book. From *The Daisy Chain*. Romanes’s parentheses.
+[^1]: The request for plot changes to *The Clever Woman of the Family* suggests that the letter was written while it was being serialised. The serialisation took 17 months, and the incidents referred to come in the first third of the book.
+
+**Note:** From *The Daisy Chain*. Romanes’s parentheses.

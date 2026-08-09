@@ -40,4 +40,5 @@ C M Yonge
 ---
 
 [^1]: Winton House was the home in Winchester of the Rev. [Charles Alexander Johns](people/person_769.qmd) and his family.
-[^2]: The Goslings had evidently had to answer a question about Charles I.  'Today' was the anniversary of his execution (30 January 1649).
+
+**Note:** The Goslings had evidently had to answer a question about Charles I.  'Today' was the anniversary of his execution (30 January 1649).

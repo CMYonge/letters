@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 29th [1875]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS UCLA: collection 100: box 95322
+**Manuscript:** MS UCLA: collection 100: box 95322[^1]
 :::
 
 Dear [Madam](people/person_1169.qmd)
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to ‘Miss Peterson/Cliff Cottage/The Lees/Folkestone’ and postmarked Winchester E SP 29 75.
+[^1]: Envelope addressed to ‘Miss Peterson/Cliff Cottage/The Lees/Folkestone’ and postmarked Winchester E SP 29 75.

@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 16th 1883  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1883/ 1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1883/ 1[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
 
 Thank you much  I will keep the story for the final selection.  I think the mistake is excellently done, but I am not sure that the girls’ taking the journey on purpose to defy Mr Ritchie is not too dreadful.
 
-I am so glad you have brought out [Dulcibella](other_books/otherbook_957.qmd) again[^1]
+I am so glad you have brought out [Dulcibella](other_books/otherbook_957.qmd) again[^2]
 
 yours sincerely
 C M Yonge

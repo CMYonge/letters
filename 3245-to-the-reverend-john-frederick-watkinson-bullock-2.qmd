@@ -27,15 +27,15 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 31 [1894]  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 165
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 165[^1]
 :::
 
 Dear [Mr Bullock](people/person_221.qmd),
-I think [Gordon](people/person_2090.qmd) must have been confirmed, as he was chiefly brought up in England. I see you have marked Bishop Andrews.[^1] Can you tell me of any short biography of him, I have to recommend books for our [Higher Religious Education Society](organizations/other_48.qmd) - books for that era of James I
+I think [Gordon](people/person_2090.qmd) must have been confirmed, as he was chiefly brought up in England. I see you have marked Bishop Andrews.[^2] Can you tell me of any short biography of him, I have to recommend books for our [Higher Religious Education Society](organizations/other_48.qmd) - books for that era of James I
 
-I doubt [Miss C Coleridge](people/person_329.qmd) having time to write for you. But [Miss Anderson Morshead](people/person_28.qmd) - Industrial School Andover - knew [Bishop Gray](people/person_578.qmd) well, and could write of him Could write of Abp Sancroft[^2] or [Bp Mackenzie](people/person_929.qmd) - whose sister [Anne](people/person_930.qmd) was one of truest saints I ever knew -
+I doubt [Miss C Coleridge](people/person_329.qmd) having time to write for you. But [Miss Anderson Morshead](people/person_28.qmd) - Industrial School Andover - knew [Bishop Gray](people/person_578.qmd) well, and could write of him Could write of Abp Sancroft[^3] or [Bp Mackenzie](people/person_929.qmd) - whose sister [Anne](people/person_930.qmd) was one of truest saints I ever knew -
 
-I think you should have [Frances Havergal](people/person_2091.qmd) - She was most devout and good, though not High Church, but most attached to the church. Also [Agnes](people/person_2011.qmd) - the devoted workhouse nurse, and I do think [Mrs Trimmer](people/person_2092.qmd) and [Hannah More](people/person_1836.qmd) ought not to be omitted. Also Lady Falkland[^3]
+I think you should have [Frances Havergal](people/person_2091.qmd) - She was most devout and good, though not High Church, but most attached to the church. Also [Agnes](people/person_2011.qmd) - the devoted workhouse nurse, and I do think [Mrs Trimmer](people/person_2092.qmd) and [Hannah More](people/person_1836.qmd) ought not to be omitted. Also Lady Falkland[^4]
 
 I have a few doubts whether [Miss Sellon](people/person_1294.qmd) realised this saintly ideal. However she fought a great battle
 

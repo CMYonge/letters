@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Aug 11th 1893  
 **From:** Elderfield  
-**Manuscript:** MS Charlotte Mitchell/10
+**Manuscript:** MS Charlotte Mitchell/10[^1]
 :::
 
 My dear [Bishop](people/person_1296.qmd)
@@ -35,11 +35,11 @@ Your letter is very delightful to me.
 
 Thank you very much for it, and all the pleasure it gives.
 
-The great [autograph book](organizations/other_225.qmd) is a wonderful study of names.  I don’t think any of us have managed to look through it all.  I found you (twice) and all the rest of the party including your [Mother](people/person_1297.qmd)’s welcome and familiar signature, and [Reby](people/person_1221.qmd)’s who I hope is better.[^1]
+The great [autograph book](organizations/other_225.qmd) is a wonderful study of names.  I don’t think any of us have managed to look through it all.  I found you (twice) and all the rest of the party including your [Mother](people/person_1297.qmd)’s welcome and familiar signature, and [Reby](people/person_1221.qmd)’s who I hope is better.[^2]
 
 I saw in the [Guardian](organizations/other_75.qmd) the account of the last voyage in the islands and was sorry to see the death of Wadrokat whose name I always remember
 
-What elaborate books they have sent out with the year’s report.[^2]
+What elaborate books they have sent out with the year’s report.[^3]
 
 You recall to me a great deal of kindness in past days on your [Father](people/person_1295.qmd)’s part and all the young freshness of enthusiasm of those times. I wonder whether the rising generation <u>can</u> feel it for what does not seem to me equal to what I remember of past days
 

@@ -26,7 +26,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Mar-01  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Seymour Public Library, Auburn, New York
+**Manuscript:** MS Seymour Public Library, Auburn, New York[^1]
 :::
 
 Dear Madam
@@ -37,4 +37,4 @@ C M Yonge
 
 ---
 
-**Note:** The transcription was kindly supplied by Mr Stephen C. Erskine, the Librarian.  If the date is correct it is a very late letter indeed since CMY died on 24 March.  It is uncharacteristic of her to give only the month.
+[^1]: The transcription was kindly supplied by Mr Stephen C. Erskine, the Librarian.  If the date is correct it is a very late letter indeed since CMY died on 24 March.  It is uncharacteristic of her to give only the month.

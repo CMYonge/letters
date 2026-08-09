@@ -25,15 +25,15 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** May 20th [1871?]  
+**Date:** May 20th [1871?][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Charlotte Mitchell
 :::
 
 My dear [Edith](people/person_749.qmd)
-I should not think [Miss Adams](people/person_15.qmd) could have any objection to your girl. [^1]  She has one now whose [father](people/person_2270.qmd) is [Miss Sturges Bourne](people/person_1379.qmd)'s bailiff, and her [mother](people/person_1820.qmd) a ladys maid, the [girl](people/person_2269.qmd) is refined and more naturally ladylike looking than any of the others, but the sound is not much superior to yours.  I am going from home on Monday for a month but it can all be settled with Miss Adams, and I know she has room. I will prepare her before I go.  French comes naturally with her and is not an extra.[^2]
+I should not think [Miss Adams](people/person_15.qmd) could have any objection to your girl. [^2]  She has one now whose [father](people/person_2270.qmd) is [Miss Sturges Bourne](people/person_1379.qmd)'s bailiff, and her [mother](people/person_1820.qmd) a ladys maid, the [girl](people/person_2269.qmd) is refined and more naturally ladylike looking than any of the others, but the sound is not much superior to yours.  I am going from home on Monday for a month but it can all be settled with Miss Adams, and I know she has room. I will prepare her before I go.  French comes naturally with her and is not an extra.[^3]
 
-I was thinking of trying to drive over to see you when [Miss Seymour](people/person_1308.qmd) told me you were at Malvern.[^3] I suppose there is no chance of your being back in July, when [Margaret Roberts](people/person_1244.qmd) has promised me a visit, and I would try to bring her if she is pretty well.  A long drive always seems to me the most perfect way of enjoying a friend, one can talk without the sense of idleness, and with just distraction enough to offer variety if one wants it  Indeed I wish, as lookers on and sympathizers can not fail to wish that this serving by standing and waiting were not so very long and weary.[^4]  I still very much hope that force of time will bring more power, as it certainly does with many.  [Emily Awdry](people/person_81.qmd) who is the only one of the Moberlys I have seen, says her [father](people/person_1015.qmd) has felt this like the closing of cares and anxieties for his children, the thing he had cared to live for was the seeing [Selwyn](people/person_1026.qmd) launched.[^5]
+I was thinking of trying to drive over to see you when [Miss Seymour](people/person_1308.qmd) told me you were at Malvern.[^4] I suppose there is no chance of your being back in July, when [Margaret Roberts](people/person_1244.qmd) has promised me a visit, and I would try to bring her if she is pretty well.  A long drive always seems to me the most perfect way of enjoying a friend, one can talk without the sense of idleness, and with just distraction enough to offer variety if one wants it  Indeed I wish, as lookers on and sympathizers can not fail to wish that this serving by standing and waiting were not so very long and weary.[^5]  I still very much hope that force of time will bring more power, as it certainly does with many.  [Emily Awdry](people/person_81.qmd) who is the only one of the Moberlys I have seen, says her [father](people/person_1015.qmd) has felt this like the closing of cares and anxieties for his children, the thing he had cared to live for was the seeing [Selwyn](people/person_1026.qmd) launched.[^6]
 
 If there be anything to write to me about this negotiation you had better direct here, as I shall be changing about a good deal
 

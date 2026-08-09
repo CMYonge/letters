@@ -25,9 +25,9 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** May 31st [1854?]  
+**Date:** May 31st [1854?][^1]  
 **From:** Dogmersfield  
-**Manuscript:** MS Royal Institution of Cornwall, Enys No. 1428
+**Manuscript:** MS Royal Institution of Cornwall, Enys No. 1428[^2]
 :::
 
 Madam
@@ -38,4 +38,5 @@ C M Yonge
 
 ---
 
-**Note:** The mourning paper and ‘my mother and myself’ suggest a date after the death of WCY (26 February 1854). Black-edged paper.  The letter has been sold by the owner since we transcribed it and is no longer held by the Courtney Library.
+[^1]: The mourning paper and ‘my mother and myself’ suggest a date after the death of WCY (26 February 1854).
+[^2]: Black-edged paper.  The letter has been sold by the owner since we transcribed it and is no longer held by the Courtney Library.

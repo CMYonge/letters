@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Feb 13th [1862-3]  
+**Date:** Feb 13th [1862-3][^1]  
 **From:** Otterbourn  
 **Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter is evidently addressed to the author of 'Blindness: Its Trials and Blessings' *MP* (July 1861) 91-99.
+[^1]: The letter is evidently addressed to the author of 'Blindness: Its Trials and Blessings' *MP* (July 1861) 91-99.

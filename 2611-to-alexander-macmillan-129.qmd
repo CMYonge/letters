@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 22nd 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54921: 40-41
+**Manuscript:** MS British Library Add MSS 54921: 40-41[^1]
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd)
 
-What I have by me in the way of authorities are the [Universal History](other_books/otherbook_139.qmd) [Lady Calcott’s](other_books/otherbook_891.qmd) in English and in Spanish a life of the Cid - [Perez de Hyta](other_books/otherbook_892.qmd) (whence Washington Irving took his material, but which is only romance) and old Madiema - who is alarming - as  he hardly ever has a paragraph, and when he does put a date, does not use figures![^1]
+What I have by me in the way of authorities are the [Universal History](other_books/otherbook_139.qmd) [Lady Calcott’s](other_books/otherbook_891.qmd) in English and in Spanish a life of the Cid - [Perez de Hyta](other_books/otherbook_892.qmd) (whence Washington Irving took his material, but which is only romance) and old Madiema - who is alarming - as  he hardly ever has a paragraph, and when he does put a date, does not use figures![^2]
 
 I have picked out a useful list of books mostly French from the [London Library](organizations/other_29.qmd) and if they will take the trouble to find them for me, I shall do well but I sometimes think they don’t choose to hunt up an insignificant book out of date for a person in the country. If I do not get the important ones, I will write to you about them
 

@@ -24,17 +24,17 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Novr 24th [1864]  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Date:** Novr 24th [1864][^2]  
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
-My dear [Hannah](people/person_253.qmd)[^1]
+My dear [Hannah](people/person_253.qmd)[^3]
 
 At last I have got the direction you wished for - it is after all where it was and the address should be to 
 
 The Committee
 32 Southampton Street
-Strand[^2]
+Strand[^4]
 
 I think they ought to make their advertisements clearer and better known, and I believe the clergyman who used to manage it is dead, and that his wife is as much in want as any she used to interest herself about, but that the organisation is just recovering the loss. There was a letter from [Augusta](people/person_1180.qmd) yesterday speaking of poor [Charlotte](people/person_2073.qmd) as still lingering -
 

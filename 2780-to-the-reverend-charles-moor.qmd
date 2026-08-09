@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 8th [1883]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 Dear [Charles](people/person_1043.qmd),
@@ -45,4 +45,6 @@ Some of the pencil numbers are missing but the arrangement is all right
 
 ---
 
-**Note:** Envelope addressed to ‘The Revd/ C Moor/Great Grimsby. Postmarked Winchester Oc 8/83. Charles Moor, who was perhaps running a parish magazine, had asked her for a story, and she sent him the MS of one which was about to be published in *Langley Adventures*.
+[^1]: Envelope addressed to ‘The Revd/ C Moor/Great Grimsby. Postmarked Winchester Oc 8/83.
+
+**Note:** Charles Moor, who was perhaps running a parish magazine, had asked her for a story, and she sent him the MS of one which was about to be published in *Langley Adventures*.

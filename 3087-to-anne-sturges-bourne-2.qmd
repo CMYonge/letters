@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Nov 4th [1856?]  
 **From:** [Dogmersfield](organizations/other_121.qmd)  
-**Manuscript:** MS Hampshire Record Office 9M55F55/4/1
+**Manuscript:** MS Hampshire Record Office 9M55F55/4/1[^1]
 :::
 
 My dear [Miss Bourne](people/person_1379.qmd)
@@ -52,4 +52,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope (MS 9M55F55/3/3) addressed to Miss Sturges Bourne/ Testwood/Southampton, postmarked Winchester 5 November [year indistinct] and labelled ‘Dynevor Terrace’ and ‘1860’.  However, the year date on the postmark looks more like 1856, which is more consistent with the letter, which seems to have been written before the publication of *Dynevor Terrace*.
+[^1]: With envelope (MS 9M55F55/3/3) addressed to Miss Sturges Bourne/ Testwood/Southampton, postmarked Winchester 5 November [year indistinct] and labelled ‘Dynevor Terrace’ and ‘1860’.  However, the year date on the postmark looks more like 1856, which is more consistent with the letter, which seems to have been written before the publication of *Dynevor Terrace*.

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Nov 8th 1861  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/12
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/12[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 8 November 1861 and London SE 9 November 1861.
+[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 8 November 1861 and London SE 9 November 1861.

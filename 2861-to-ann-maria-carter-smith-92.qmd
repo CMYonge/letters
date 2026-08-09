@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 27th [1887]  
 **From:** Elderfield  
-**Manuscript:** MS Westcountry Studies Library, Exeter/  1887/ 1
+**Manuscript:** MS Westcountry Studies Library, Exeter/  1887/ 1[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
 
-I am much entertained by your Scarborough paper as I remember those Rivaulx terraces some 25 years ago, the only place where my sights coincide with yours.[^1]  I only wish I saw more present prospect of room for it!  You must be one of my oldest contributors.  Did you not like Miss Sewell’s paper on [family traditions](other_books/otherbook_1028.qmd)
+I am much entertained by your Scarborough paper as I remember those Rivaulx terraces some 25 years ago, the only place where my sights coincide with yours.[^2]  I only wish I saw more present prospect of room for it!  You must be one of my oldest contributors.  Did you not like Miss Sewell’s paper on [family traditions](other_books/otherbook_1028.qmd)
 
 yours sincerely
 C M Yonge

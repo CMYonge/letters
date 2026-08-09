@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Jan 29th [l887-1889]  
+**Date:** Jan 29th [l887-1889][^1]  
 **From:** Elderfield  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
 My dear [Mrs Wordsworth](people/person_1569.qmd)
-I hope to come down to Salisbury by 2.24 on Tuesday, but as I owe an afternoon to the Moberlys, I will send on my goods and my maid to the Palace, and appear there myself at about 5 o’clock[^1]
+I hope to come down to Salisbury by 2.24 on Tuesday, but as I owe an afternoon to the Moberlys, I will send on my goods and my maid to the Palace, and appear there myself at about 5 o’clock[^2]
 
 Yours sincerely
 C M Yonge

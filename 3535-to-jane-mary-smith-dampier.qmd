@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Decr 19 [1896?]  
+**Date:** Decr 19 [1896?][^1]  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
@@ -37,4 +37,4 @@ C M Yonge
 
 ---
 
-**Note:** Dated on the assumption it refers to Rowland Jones Bateman’s death  on 16 December 1896
+[^1]: Dated on the assumption it refers to Rowland Jones Bateman’s death  on 16 December 1896

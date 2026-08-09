@@ -26,13 +26,13 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Aug 20th [1878 or later]  
-**From:** Torre Villa Yealmpton  
+**From:** Torre Villa Yealmpton[^1]  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
 Dear [Mr Beck](people/person_132.qmd)
 
-I hear that the Warden and the Echeverias have safely reached Otterbourne.[^1]
+I hear that the Warden and the Echeverias have safely reached Otterbourne.[^2]
 
 Thank you very much for them
 

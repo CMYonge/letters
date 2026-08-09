@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 7th 1863  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add 54920: : 1-2:
+**Manuscript:** MS British Library Add 54920: : 1-2:[^1]
 :::
 
 [Sir](people/person_939.qmd),
@@ -44,4 +44,6 @@ C. M. Yonge
 
 ---
 
-**Note:** Black-edged paper. Serialised in *Churchman's Family Magazine*, Jan 1864 to March 1865 and published by Macmillan and Co. 1865.
+[^1]: Black-edged paper.
+
+**Note:** Serialised in *Churchman's Family Magazine*, Jan 1864 to March 1865 and published by Macmillan and Co. 1865.

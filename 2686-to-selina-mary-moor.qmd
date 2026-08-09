@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 28 1879  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Pusey House PUS 83
+**Manuscript:** MS Pusey House PUS 83[^1]
 :::
 
 My dear [Selina](people/person_1048.qmd)
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to Miss Moor/ Ampfield Vicarage/ Romsey and postmarked 28 November 1879.  Selina Moor (b. 1859/60) was the daughter of the Rev. John Frewen Moor.  Probably she was the editor of a parish magazine.
+[^1]: With envelope addressed to Miss Moor/ Ampfield Vicarage/ Romsey and postmarked 28 November 1879.  Selina Moor (b. 1859/60) was the daughter of the Rev. John Frewen Moor.  Probably she was the editor of a parish magazine.

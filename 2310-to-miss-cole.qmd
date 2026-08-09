@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 17 [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Charlotte Mitchell/2
+**Manuscript:** MS Charlotte Mitchell/2[^1]
 :::
 
 My dear [Miss Cole](people/person_326.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

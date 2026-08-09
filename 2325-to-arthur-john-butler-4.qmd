@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 5th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Caroline Fairclough/18
+**Manuscript:** MS Mrs Caroline Fairclough/18[^1]
 :::
 
 My dear [Arthur](people/person_238.qmd)
@@ -41,4 +41,4 @@ Please return them to me, instead of obeying
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

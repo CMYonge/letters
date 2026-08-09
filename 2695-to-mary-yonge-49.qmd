@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Oct 4th [1870s?]  
+**Date:** Oct 4th [1870s?][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Plymouth and West Devon Area Record Office Acc No 308
 :::
@@ -43,4 +43,4 @@ C M Yonge
 
 ---
 
-**Note:** This letter was written some time after the consecration of George Moberly as Bishop of Salisbury in October 1869, and before the death of the Rev. Walter Elgie in February 1881.
+[^1]: This letter was written some time after the consecration of George Moberly as Bishop of Salisbury in October 1869, and before the death of the Rev. Walter Elgie in February 1881.

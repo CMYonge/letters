@@ -39,8 +39,8 @@ With many thanks
 Yours sincerely
 C M Yonge
 
-Many, many thanks to Mrs Robbins.[^1] I read those reports with great respect and enjoyment.
+Many, many thanks to Mrs Robbins.<sup>2</sup> I read those reports with great respect and enjoyment.
 
 ---
 
-[^1]: Unidentified, but possibly the children’s writer [Sarah Cook (Stuart) Robbins](people/person_1983.qmd) (1817-1910).
+**Note:** Unidentified, but possibly the children’s writer [Sarah Cook (Stuart) Robbins](people/person_1983.qmd) (1817-1910).

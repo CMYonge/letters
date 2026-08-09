@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 30th 1892  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Charlotte Mitchell/24
+**Manuscript:** MS Charlotte Mitchell/24[^1]
 :::
 
 Dear [Mr Macmillan](people/person_942.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

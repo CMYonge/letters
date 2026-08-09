@@ -27,10 +27,10 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 6th 1861  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Eng. lett. e.30 ff137-9
+**Manuscript:** MS Bodleian Library, Eng. lett. e.30 ff137-9[^1]
 :::
 
-[Madam](people/person_543.qmd)[^1],
+[Madam](people/person_543.qmd)[^2],
 I have looked at and considered your version of the first Book of the Iliad, and it seems to me very prettily done, but I am afraid that in the present state of criticism especially through [Mr Gladstone](people/person_1653.qmd)’s [book](other_books/otherbook_294.qmd), even Homer for children would require something more and deeper some separation of the Greek and Roman names of the deities, and view either mythical or historical, making it more of a study and not taking only the surface narrative interest. At least, I am afraid that the readers of the [Monthly Packet](organizations/other_52.qmd) would require something of this kind, and I therefore think it better to decline your MS though very well executed as far as it goes
 
 With thanks

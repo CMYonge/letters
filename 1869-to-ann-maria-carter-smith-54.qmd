@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 26th [1862]  
 **From:** Baldersby  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/4
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/4[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -44,4 +44,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE and postmarked Thirsk 26 July 1862 and London 28 July 1862
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE and postmarked Thirsk 26 July 1862 and London 28 July 1862

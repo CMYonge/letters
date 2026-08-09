@@ -27,10 +27,10 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 28th 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1877/ 1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1877/ 1[^1]
 :::
 
-My dear [Sir](people/person_2309.qmd)[^1]
+My dear [Sir](people/person_2309.qmd)[^2]
 
 Your were so kind to me when I was at Cambridge that I am venturing to ask you to give your attention to the letters and testimonials you are about to receive on behalf of [my brother](people/person_1624.qmd), who is very anxious to obtain the Secretaryship of the Governing Body of [Winchester](organizations/other_50.qmd).  I think that from his experience in many ways, he is very well fitted for it, and that as an Eton and Balliol man, who has always had a neighbour's knowledge of Winchester matters without being a Wykehamist, or committed to any line there observed, he would have many special advantages of usefulness.[^2]
 

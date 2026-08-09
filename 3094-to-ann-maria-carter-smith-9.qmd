@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 4th [1857]  
 **From:** Otterbourn  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/1[^1]
 :::
 
 Dear [Miss Smith](people/person_263.qmd)
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss A C Smith/ Stepney Rectory/ London  and postmarked Winchester 4 Feb and on reverse 5 February 1857
+[^1]: Envelope addressed to Miss A C Smith/ Stepney Rectory/ London  and postmarked Winchester 4 Feb and on reverse 5 February 1857

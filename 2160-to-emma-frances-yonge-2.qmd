@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [1867?]  
-**Manuscript:** MS Huntington Library: Letter to Lady Mount Temple: Stamped “Kane American”. HM 34936
+**Manuscript:** MS Huntington Library: Letter to Lady Mount Temple: Stamped “Kane American”. HM 34936[^1]
 :::
 
 . . . all. [She](people/person_1613.qmd) is doing her reading to me now which is not good for my writing. I hope you are keeping quiet and getting better
@@ -35,4 +35,4 @@ C M Yonge
 
 ---
 
-**Note:** This fragment was almost certainly preserved simply for the autograph. It could date from any time between 1864, by which time Helen Yonge (b.1860) was presumably learning to read, to September 1869 when CMY was giving her regular lessons. The reference to 'keeping quiet' suggests recovery from childbirth, and this probably dates from around the birth of either Maurice (b.1867), George (b.1871) or Joanna (b.1873).
+[^1]: This fragment was almost certainly preserved simply for the autograph. It could date from any time between 1864, by which time Helen Yonge (b.1860) was presumably learning to read, to September 1869 when CMY was giving her regular lessons. The reference to 'keeping quiet' suggests recovery from childbirth, and this probably dates from around the birth of either Maurice (b.1867), George (b.1871) or Joanna (b.1873).

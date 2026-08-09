@@ -33,12 +33,13 @@ citation:
 Dear [Madam](people/person_1839.qmd)
 'On Nebo’s lonely Mountain' is by [Mrs Alexander](people/person_21.qmd), wife of the [Bishop of Derry](people/person_1840.qmd), and author of [Hymns for Little Children](other_books/otherbook_11.qmd) – It is one of a series of hymns on Scripture which were published separately.
 
-I have often met with mentions of [Mr Lush](people/person_1838.qmd) and his family in [Bishop Patteson](people/person_1155.qmd)’s letters and always with great affection[^1]
+I have often met with mentions of [Mr Lush](people/person_1838.qmd) and his family in [Bishop Patteson](people/person_1155.qmd)’s letters and always with great affection[^2]
 
 Yours truly
 C M Yonge
 
 ---
 
-[^1]: With envelope addressed to Miss Lush/ Northlands/ Hollington/ S. Leonards-on-Sea, and postmarked Winchester 26 March 1874.
 [^2]: Miss Lush’s brother the Rev. Vicesimus Lush (1817-1882) had emigrated to New Zealand in 1850 and worked in various capacities in the Auckland region under Bishop Selwyn. See his *The Auckland Journals, 1850-63* and *The Thames Journals 1868-82*.
+
+**Note:** With envelope addressed to Miss Lush/ Northlands/ Hollington/ S. Leonards-on-Sea, and postmarked Winchester 26 March 1874.

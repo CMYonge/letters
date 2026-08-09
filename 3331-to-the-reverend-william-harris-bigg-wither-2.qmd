@@ -25,17 +25,17 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Novr 22 [1896]  
+**Date:** Novr 22 [1896][^1]  
 **From:** Elderfield Otterbourne  
 **Manuscript:** MS Theaterwissenschaftliche Sammlung, Universität zu Köln
 :::
 
 My dear [Mr Wither](people/person_1544.qmd)
-We go on much in the same way, down one day and up another and as it is the same disease as Sir Tom Coulthard had, it will probably linger in the same manner.[^1]  Today is a cheerful one, and [she](people/person_1462.qmd) has had the Holy Communion, for which [Henry](people/person_184.qmd) comes to her after a late Celebration.
+We go on much in the same way, down one day and up another and as it is the same disease as Sir Tom Coulthard had, it will probably linger in the same manner.[^2]  Today is a cheerful one, and [she](people/person_1462.qmd) has had the Holy Communion, for which [Henry](people/person_184.qmd) comes to her after a late Celebration.
 
-Tomorrow, [Raby](people/person_1221.qmd) is to come out and see her while I have to be in Winchester on this Sunday school committee.  I cant imagine what it is to do!  I have been reading the Awdry letters from Osaka and discovering that the small Virginian creeper grows all over the rocks there[^2]  Our Church was quite crimson with it but all the leaves are gone now.  I cannot think where your floods can be nourished. It is quite dry here.
+Tomorrow, [Raby](people/person_1221.qmd) is to come out and see her while I have to be in Winchester on this Sunday school committee.  I cant imagine what it is to do!  I have been reading the Awdry letters from Osaka and discovering that the small Virginian creeper grows all over the rocks there[^3]  Our Church was quite crimson with it but all the leaves are gone now.  I cannot think where your floods can be nourished. It is quite dry here.
 
-I hope you are not in the Aylesbury Union  What bad influence has come on there?  to determine them on making their children dissent.  [Arnold](people/person_62.qmd), since he left Otterbourne has married the [Miss Vine](people/person_2158.qmd) who had been keeping house for him, I hope she was not [Mrs Arnold](people/person_2055.qmd)’s niece, but he calls her a distant cousin.[^3]
+I hope you are not in the Aylesbury Union  What bad influence has come on there?  to determine them on making their children dissent.  [Arnold](people/person_62.qmd), since he left Otterbourne has married the [Miss Vine](people/person_2158.qmd) who had been keeping house for him, I hope she was not [Mrs Arnold](people/person_2055.qmd)’s niece, but he calls her a distant cousin.[^4]
 
 I hope you will have nice weather, and that Marianne will be pretty well for your visit
 

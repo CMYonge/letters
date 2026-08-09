@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Oct 18th 1851  
-**Manuscript:** MS Huntington Library, Yonge Letters.
+**Manuscript:** MS Huntington Library, Yonge Letters.[^1]
 :::
 
 [Madam](people/person_1243.qmd),
@@ -38,4 +38,4 @@ The Editor of the Monthly Packet
 
 ---
 
-**Note:** The MS is accompanied by a small envelope with stamped circle enclosing daisy-like flowering plant on  the flap, addressed  to Miss Roberts/ Diamond Cottage/ Wetheral/ Carlisle.
+[^1]: The MS is accompanied by a small envelope with stamped circle enclosing daisy-like flowering plant on  the flap, addressed  to Miss Roberts/ Diamond Cottage/ Wetheral/ Carlisle.

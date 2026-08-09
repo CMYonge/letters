@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [1874?]  
+**Date:** [1874?][^1]  
 **Manuscript:** MS Charlotte Mary Yonge Society/2
 :::
 

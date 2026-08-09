@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 24 [1894]  
 **From:** Elderfield  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 137
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 137[^1]
 :::
 
 Dear [Mr Bullock](people/person_221.qmd),	
-I would have offered to write [Fletcher](people/person_1677.qmd)’s Life, but I have hunted all over the house twice over and cannot find the [book](other_books/otherbook_213.qmd) I once had, but no doubt you can get it from a library[^1]
+I would have offered to write [Fletcher](people/person_1677.qmd)’s Life, but I have hunted all over the house twice over and cannot find the [book](other_books/otherbook_213.qmd) I once had, but no doubt you can get it from a library[^2]
 
 Yours truly
 C M Yonge

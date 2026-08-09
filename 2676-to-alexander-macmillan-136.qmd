@@ -26,15 +26,15 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** June 24th [1879]  
-**From:** 1 Sussex Sq W  
+**From:** 1 Sussex Sq W[^1]  
 **Manuscript:** MS British Library Add MSS 54921: 94
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd)
 
-I am here for a day or two, and I hardly think there is any need to take up your time by calling, but I am going to beg for a copy of Dean Church, [Spenser](other_books/otherbook_918.qmd), and of Professor Sharpes’ [Burns](other_books/otherbook_919.qmd).[^1]
+I am here for a day or two, and I hardly think there is any need to take up your time by calling, but I am going to beg for a copy of Dean Church, [Spenser](other_books/otherbook_918.qmd), and of Professor Sharpes’ [Burns](other_books/otherbook_919.qmd).[^2]
 
-I have never thanked for the English history lectures, of which most of the substance is excellent, but there are a few slips of detail in names &amp;c[^2]
+I have never thanked for the English history lectures, of which most of the substance is excellent, but there are a few slips of detail in names &amp;c[^3]
 
 Yours truly
 C M Yonge

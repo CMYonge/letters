@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** January 15th [1891]  
 **From:** Elderfield  
-**Manuscript:** MS Charlotte Mitchell/15
+**Manuscript:** MS Charlotte Mitchell/15[^1]
 :::
 
 Dear Madam [Sir](people/person_1477.qmd)
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to The Revd M G Watkins/ Kentchurch Rectory/Hereford and postmarked Winchester 15 January 1891 and Pontrilas 16 January 1891.
+[^1]: With envelope addressed to The Revd M G Watkins/ Kentchurch Rectory/Hereford and postmarked Winchester 15 January 1891 and Pontrilas 16 January 1891.

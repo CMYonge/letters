@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 5th [1863]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920
+**Manuscript:** MS British Library Add MSS 54920[^1]
 :::
 
 [Sir](people/person_939.qmd),
 
 I am sorry you had so much trouble about the <u>[Trial](cmy_books/cmybook_53.qmd)</u>. I was only waiting to send it to you till I heard whether you thought it worth while to look at it so long before hand. I now send it by this post. There are six more chapters not yet in type of about the length of these, but I hope that the last of them will appear on the 1st of March or April, and I should imagine that the whole had better appear as soon as possible afterwards.
 
-I have arranged that the [Clever Woman of the Family](cmy_books/cmybook_58.qmd)should first come out in the [Churchman’s Family magazine](organizations/other_63.qmd), to be completed there by December 1864,[^1] but I retain the copy right, and shall hope to bring out the book together in December, having stipulated with [Messrs Hogg](organizations/other_159.qmd)[^2] that the choice of a publisher for it shall then be in my hands.
+I have arranged that the [Clever Woman of the Family](cmy_books/cmybook_58.qmd)should first come out in the [Churchman’s Family magazine](organizations/other_63.qmd), to be completed there by December 1864,[^2] but I retain the copy right, and shall hope to bring out the book together in December, having stipulated with [Messrs Hogg](organizations/other_159.qmd)[^3] that the choice of a publisher for it shall then be in my hands.
 
 I have not yet had an answer from [Messrs Longman](organizations/other_153.qmd) with regard to my other works
 

@@ -38,7 +38,7 @@ The MS, and the clipping come herewith the four others must be sent by rail in t
 
 If a little more were needed, I could write one more. There are two stories, one called <u>the Banks of the Leamy</u>, which [Warne](people/person_1433.qmd) bought for a Christmas annual, and [Sea Spleenwort](cmy_books/cmybook_46.qmd), which [Groombridge](organizations/other_148.qmd) had, which it is a pity not to recover and unite with the rest, but I cannot afford  to advance anything to buy back the copy rights.
 
-What an excellent life of [Burns](other_books/otherbook_919.qmd) Principal Sharp’s is.  He has some qualities (Sharp I mean superior to any writer of the day. I am much tempted to write an answer to the Rights of Woman paper, but I don’t know if [Mr Grove](people/person_588.qmd) would accept my view of the question, and defence of the poor mothers and chaperons[^2]
+What an excellent life of [Burns](other_books/otherbook_919.qmd) Principal Sharp’s is.  He has some qualities (Sharp I mean superior to any writer of the day. I am much tempted to write an answer to the Rights of Woman paper, but I don’t know if [Mr Grove](people/person_588.qmd) would accept my view of the question, and defence of the poor mothers and chaperons[^1]
 
 Yours sincerely
 C M Yonge
@@ -46,4 +46,5 @@ C M Yonge
 ---
 
 [^1]: She was assembling previously published stories which appeared as *Bye-Words* (1880).
-[^2]: Perhaps Florence W. Habberton, ‘Individual Liberty for Women: A Remonstrance’, *Macmillan's Magazine* 40 (1879), 282-288.  George Grove was the editor of *Macmillan’s*.
+
+**Note:** Perhaps Florence W. Habberton, ‘Individual Liberty for Women: A Remonstrance’, *Macmillan's Magazine* 40 (1879), 282-288.  George Grove was the editor of *Macmillan’s*.

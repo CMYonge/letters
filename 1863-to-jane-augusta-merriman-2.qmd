@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** May 7th 1862  
+**Date:** May 7th 1862[^1]  
 **From:** Otterbourne, Winchester.  
 **Manuscript:** MS Winchester College Library
 :::
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** It looks as if CMY wrote ‘5th’ and corrected it to ‘7th’.
+[^1]: It looks as if CMY wrote ‘5th’ and corrected it to ‘7th’.

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 2nd [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 225-6
+**Manuscript:** MS British Library Add MSS 54920: 225-6[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
@@ -44,4 +44,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

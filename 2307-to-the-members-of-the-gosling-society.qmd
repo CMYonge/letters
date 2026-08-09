@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [March 1869]  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 Cackle
@@ -35,4 +35,6 @@ Mother Goose having gone out on her broomstick she has had to delay the answers.
 
 ---
 
-**Note:** Black-edged paper. This seems to be the only surviving example of a 'Cackle', one of the circular letters with which CMY communicated with the members of the [Gosling Society](organizations/other_104.qmd).
+[^1]: Black-edged paper.
+
+**Note:** This seems to be the only surviving example of a 'Cackle', one of the circular letters with which CMY communicated with the members of the [Gosling Society](organizations/other_104.qmd).

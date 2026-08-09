@@ -31,7 +31,7 @@ citation:
 :::
 
 My dear [C C](people/person_329.qmd)
-The world seems wild with joy and flags from every window house!  [Maurice](people/person_1630.qmd) says traffic was stopped in London by people waving flags and shaking hands.[^1]  I suppose there will be a culminating in a great illumination when it is over.  Well, I shall be very glad of you on the 15th  I shall like to have the benefit of the lectures, but I am afraid [my young missionary](cmy_books/cmybook_250.qmd) is so far very dull.
+The world seems wild with joy and flags from every <s>window</s> house!  [Maurice](people/person_1630.qmd) says traffic was stopped in London by people waving flags and shaking hands.[^1]  I suppose there will be a culminating in a great illumination when it is over.  Well, I shall be very glad of you on the 15th  I shall like to have the benefit of the lectures, but I am afraid [my young missionary](cmy_books/cmybook_250.qmd) is so far very dull.
 
 Has[Fanny Awdry](people/person_82.qmd) written to you about their trouble  [Mr Vere Awdry](people/person_84.qmd)’s little [Bridget](people/person_79.qmd) has died after two days illness, a very clever child of seven, and they have only the boy left[^2]  He is such a depressed person that one is very sorry for the shock to him, and probably the good little homely [wife](people/person_2214.qmd) is more grieved for him than herself
 

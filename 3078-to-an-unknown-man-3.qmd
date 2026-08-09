@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Febry 11th [1856]  
+**Date:** Febry 11th [1856][^1]  
 **From:** Otterbourne  
 **Manuscript:** MS NLS 966 ff. 373-4
 :::
 
 Sir
-I waited until I should have received the photographs to thank you for them.  Most of them are beautiful impressions, that of the Hen and Chickens is superior to the copy in my possession, and I am extremely obliged for the kind manner in which you have sent them[^1]
+I waited until I should have received the photographs to thank you for them.  Most of them are beautiful impressions, that of the Hen and Chickens is superior to the copy in my possession, and I am extremely obliged for the kind manner in which you have sent them[^2]
 
 your obt servt
 C M Yonge

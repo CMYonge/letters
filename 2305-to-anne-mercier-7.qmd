@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 5th [after 1870?]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29[^1]
 :::
 
 My dear [Mrs Mercier](people/person_990.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

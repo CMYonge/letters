@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Jany 22nd [1860-1890]  
-**Manuscript:** MS Columbia University Library, New York:  Ray Collection.
+**Manuscript:** MS Columbia University Library, New York:  Ray Collection.[^1]
 :::
 
 My dear [Mrs Baker](people/person_2075.qmd)
@@ -36,4 +36,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

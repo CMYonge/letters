@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** June 18th [?1893]  
+**Date:** June 18th [?1893][^1]  
 **From:** Elderfield  
 **Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Dated on the assumption that it post-dates Frances Yonge’s move to 70 Kensington Gardens Square in 1892.
+[^1]: Dated on the assumption that it post-dates Frances Yonge’s move to 70 Kensington Gardens Square in 1892.

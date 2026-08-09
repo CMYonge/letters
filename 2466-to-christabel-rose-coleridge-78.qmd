@@ -25,12 +25,12 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Innocents day [28 December 1872]  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
 
-Thanks for the grand faithful [Gosling](organizations/other_104.qmd) card, which is capital. These two Escorials are all that Goosedom has produced[^1] I never expected any thing of it at Christmas They both seem to be of the childish good kind. No, I have not seen [Garnstone](other_books/otherbook_832.qmd). [Warne](people/person_1433.qmd) is not very liberal of his books. I don’t know what school children would do but for the happy dispensation that makes their own people prefer them to all others! Our mistress is I believe to visit a friend in your parish next week. I can’t say I prefer her to all others! She is quite devoid of the moral influence [her predecessor](people/person_1178.qmd) had
+Thanks for the grand faithful [Gosling](organizations/other_104.qmd) card, which is capital. These two Escorials are all that Goosedom has produced[^2] I never expected any thing of it at Christmas They both seem to be of the childish good kind. No, I have not seen [Garnstone](other_books/otherbook_832.qmd). [Warne](people/person_1433.qmd) is not very liberal of his books. I don’t know what school children would do but for the happy dispensation that makes their own people prefer them to all others! Our mistress is I believe to visit a friend in your parish next week. I can’t say I prefer her to all others! She is quite devoid of the moral influence [her predecessor](people/person_1178.qmd) had
 
 your affectionate
 C M Yonge

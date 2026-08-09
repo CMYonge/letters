@@ -25,13 +25,13 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Friday [3 March 1854]  
-**Manuscript:** MS Plymouth and West Devon Record Office 308/255
+**Manuscript:** MS Plymouth and West Devon Record Office 308/255[^1]
 :::
 
 My dear [Mr. Yonge](people/person_1623.qmd)
-Incapable as [I](people/person_1606.qmd) am of doing any thing today, to do nothing is worst of all, so I will try to thank you for sending me two comforters and for enduring for the sake of those who are anxious about you, the great grief and sorrow I know it is to you not to join the family and friends tomorrow[^1]
+Incapable as [I](people/person_1606.qmd) am of doing any thing today, to do nothing is worst of all, so I will try to thank you for sending me two comforters and for enduring for the sake of those who are anxious about you, the great grief and sorrow I know it is to you not to join the family and friends tomorrow[^2]
 
-I have many obligations to you, and amongst them that of having given me lessons how to endure sorrow and now I am sure I can say that God’s Mercies have followed me all the days of my life and perhaps more sensibly through the last week than ever before.[^2]  The many things great and small that have been ordered so as to spare us as much as possible, and my having been able to wait upon [him](people/person_1631.qmd), to the last moment and not to have broken down yet make me hope yet to be helped in what is to come.
+I have many obligations to you, and amongst them that of having given me lessons how to endure sorrow and now I am sure I can say that God’s Mercies have followed me all the days of my life and perhaps more sensibly through the last week than ever before.[^3]  The many things great and small that have been ordered so as to spare us as much as possible, and my having been able to wait upon [him](people/person_1631.qmd), to the last moment and not to have broken down yet make me hope yet to be helped in what is to come.
 
 I think I can bear to have seen him cut down in his full strength and in the midst of his usefulness much better than to see him linger in broken health and depressed spirits, unable to do any thing to help and yet to be vexed when things went wrong.
 

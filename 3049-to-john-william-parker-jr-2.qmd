@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 10th [1854]  
 **From:** Otterbourne Winchester  
-**Manuscript:** MS Michigan State University
+**Manuscript:** MS Michigan State University[^1]
 :::
 
 Dear [Sir](people/person_1143.qmd),
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

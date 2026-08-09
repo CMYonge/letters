@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** [10 July 1870]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS  Mrs Katherine Wykes-Sneyd
+**Manuscript:** MS  Mrs Katherine Wykes-Sneyd[^1]
 :::
 
 My dear [Pixie](people/person_539.qmd)
@@ -56,4 +56,4 @@ Mother Goose
 
 ---
 
-**Note:** Black-edged paper with black-edged envelope postmarked Winchester 10 July and Tiverton 11 July 1870 andaddressed to Miss Mary Fursdon/ Fursdon/ Tiverton.
+[^1]: Black-edged paper with black-edged envelope postmarked Winchester 10 July and Tiverton 11 July 1870 andaddressed to Miss Mary Fursdon/ Fursdon/ Tiverton.

@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 29th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 230-31
+**Manuscript:** MS British Library Add MSS 54920: 230-31[^1]
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd)
-I think I should enjoy editing a Globe edition of children’s books,[^1] and am much obliged to you for the proposal. I suppose the question is how many really good ones have exhausted their copy right.
+I think I should enjoy editing a Globe edition of children’s books,[^2] and am much obliged to you for the proposal. I suppose the question is how many really good ones have exhausted their copy right.
 
 Perhaps [Philip Quarl](other_books/otherbook_549.qmd) could begin the series, it is really Defoe’s but I doubt if anyone has read it.
 

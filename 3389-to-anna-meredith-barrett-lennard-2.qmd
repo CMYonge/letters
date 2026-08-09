@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 21st 1898  
 **From:** Elderfield  
-**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff65-67
+**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff65-67[^1]
 :::
 
 My dear [Mrs Lennard](people/person_121.qmd)
@@ -46,4 +46,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to ‘Mrs Barrett Lennard/Dom Vehlow/ In Wultike Priegnitz/ North Brandenburg/ Germany’.
+[^1]: Envelope addressed to ‘Mrs Barrett Lennard/Dom Vehlow/ In Wultike Priegnitz/ North Brandenburg/ Germany’.

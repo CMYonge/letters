@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 26th 1868  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 224
+**Manuscript:** MS British Library Add MSS 54920: 224[^1]
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd)
@@ -43,4 +43,5 @@ Would you kindly have both the [Cameos](cmy_books/cmybook_73.qmd) and [Historica
 ---
 
 [^1]: Black-edged paper.
-[^2]: Guizot contributed to Macmillan's [Sunday Library](organizations/other_145.qmd) a volume entitled *Great Christians of France: St. Louis and Calvin* (London: Macmillan 1868).
+
+**Note:** Guizot contributed to Macmillan's [Sunday Library](organizations/other_145.qmd) a volume entitled *Great Christians of France: St. Louis and Calvin* (London: Macmillan 1868).

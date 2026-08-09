@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [late 1860s?]  
+**Date:** [late 1860s?][^1]  
 **From:** Crookham  
 **Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Dated on the assumption that it was written when Helen Yonge was a small child beginning a collection of pressed flowers.
+[^1]: Dated on the assumption that it was written when Helen Yonge was a small child beginning a collection of pressed flowers.

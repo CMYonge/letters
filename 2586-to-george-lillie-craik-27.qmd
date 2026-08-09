@@ -38,7 +38,7 @@ What however is really important to me to know  quickly is whether I am likely t
 
 I want very much to know whether [Mr Freeman](people/person_523.qmd) despairs of my [French history](cmy_books/cmybook_99.qmd) I have heard nothing of it or of him since I sent it off revised and abridged six months ago.[^1]
 
-There are some old papers of mine in the [Christian Remembrancer](organizations/other_59.qmd), on [Ghosts](cmy_books/cmybook_65.qmd), on [Education](cmy_books/cmybook_302.qmd), on [Eugenie de Guérin](cmy_books/cmybook_50.qmd) and [Alexandrine de la Ferronays](cmy_books/cmybook_64.qmd), which - with those on children’s books in the [Magazine](organizations/other_78.qmd)[^2] - would they not make a nice volume to come out at Christmas and would you give me £100 for its first edition. Shall I look them out and send them to you
+There are some old papers of mine in the [Christian Remembrancer](organizations/other_59.qmd), on [Ghosts](cmy_books/cmybook_65.qmd), on [Education](cmy_books/cmybook_302.qmd), on [Eugenie de Guérin](cmy_books/cmybook_50.qmd) and [Alexandrine de la Ferronays](cmy_books/cmybook_64.qmd), which - with those on children’s books in the [Magazine](organizations/other_78.qmd)[^1] - would they not make a nice volume to come out at Christmas and would you give me £100 for its first edition. Shall I look them out and send them to you
 
 Yours truly
 C M Yonge
@@ -46,4 +46,5 @@ C M Yonge
 ---
 
 [^1]: For Freeman's opinion of CMY's *History of France*, see 'Introduction to Letters 1870-1879'.
-[^2]: CMY contributed three articles on 'Children’s literature of the last century' to *Macmillan's Magazine* in 1869: 'Nursery books of the eighteenth century', 'Didactic fiction' and 'Class literature of the last thirty years'.  The proposed volume was not published.
+
+**Note:** CMY contributed three articles on 'Children’s literature of the last century' to *Macmillan's Magazine* in 1869: 'Nursery books of the eighteenth century', 'Didactic fiction' and 'Class literature of the last thirty years'.  The proposed volume was not published.

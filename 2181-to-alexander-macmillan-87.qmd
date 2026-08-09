@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 28th 1867  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 178-180:
+**Manuscript:** MS British Library Add MSS 54920: 178-180:[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd),
-I send you three four [chapters](cmy_books/cmybook_72.qmd) that I have finished. My plan has come to this and I had been thinking of writing to you or [Miss Martin](people/person_971.qmd) about it.[^1]
+I send you <s>three</s> four [chapters](cmy_books/cmybook_72.qmd) that I have finished. My plan has come to this and I had been thinking of writing to you or [Miss Martin](people/person_971.qmd) about it.[^2]
 
 Chapter I, Description of Ephesus
 
@@ -45,11 +45,11 @@ IV	The 2nd visit of St Paul to Ephesus - review of all the chief disciples of Pa
 
 V	History of St John, and of all his disciples who are traceable, with account of his Epistles & gospel, up to his banishment to Patmos 
 
-VI	Messages of the Angels of the Seven Churches[^2] - with accounts of their state and the Angels thought to be identified.
+VI	Messages of the Angels of the Seven Churches[^3] - with accounts of their state and the Angels thought to be identified.
 
 VII	Remaining history of St John - with the more obscure personages mentioned tracing the influence of Ephesus (as far as can be) on the early Celtic Christians in Gaul and Ireland.
 
-VIII	Epistles & Martyrdom of Ignatius[^3]
+VIII	Epistles & Martyrdom of Ignatius[^4]
 
 IX	Of Polycarp
 

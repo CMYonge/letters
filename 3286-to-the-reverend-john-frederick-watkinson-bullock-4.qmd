@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 16 [1895]  
 **From:** Elderfield  
-**Manuscript:** MS Bodleian Library, Oxford: English Letters: e.174 ff 159-61
+**Manuscript:** MS Bodleian Library, Oxford: English Letters: e.174 ff 159-61[^1]
 :::
 
 Dear [Mr Bullock](people/person_221.qmd),
-I will try to do [Raymond Lull](cmy_books/cmybook_358.qmd) in short by the end of next week, I have both the books.[^1]
+I will try to do [Raymond Lull](cmy_books/cmybook_358.qmd) in short by the end of next week, I have both the books.[^2]
 
-You will be glad to hear that I have had a cheerful letter from Miss [Florence Wilford](people/person_1520.qmd) well, and at home with her [sister](people/person_1519.qmd)[^2]
+You will be glad to hear that I have had a cheerful letter from Miss [Florence Wilford](people/person_1520.qmd) well, and at home with her [sister](people/person_1519.qmd)[^3]
 
 Yours sincerely
 C M Yonge

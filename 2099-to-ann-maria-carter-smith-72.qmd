@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Jan 22nd [1866]  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1866/ 1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1866/ 1[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -36,4 +36,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Carter Smith/ 8 Wellington Road/ Old Charlton SE and postmarked indistinctly Winchester 23 January 1866 and London SE.
+[^1]: Envelope addressed to Miss Carter Smith/ 8 Wellington Road/ Old Charlton SE and postmarked indistinctly Winchester 23 January 1866 and London SE.

@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 10th 1868  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 218-9
+**Manuscript:** MS British Library Add MSS 54920: 218-9[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
-The lack of a tiger is serious. I mourned it as I read, and yet I thought it shewed some strength of mind to have avoided any ordinary ingredients of excitement. And when we were reading many books aloud, I certainly found [this](organizations/other_202.qmd) answer better than many with a more direct selling element did, and the freshness of descriptions to me compensated for want of incident. Will you kindly direct it to [Mrs Valentine](people/person_1437.qmd), care of [Mr Warne](people/person_1433.qmd), and send it in. I think that they are beginning a system of one volume tales into which it might fit.[^1]
+The lack of a tiger is serious. I mourned it as I read, and yet I thought it shewed some strength of mind to have avoided any ordinary ingredients of excitement. And when we were reading many books aloud, I certainly found [this](organizations/other_202.qmd) answer better than many with a more direct selling element did, and the freshness of descriptions to me compensated for want of incident. Will you kindly direct it to [Mrs Valentine](people/person_1437.qmd), care of [Mr Warne](people/person_1433.qmd), and send it in. I think that they are beginning a system of one volume tales into which it might fit.[^2]
 
 The other matter was a mistake of mine. I imagined that the lady wrote to me on behalf of a branch institution just set up at Grimsby instead of which it turned out that she was only staying there on a visit. It was one of the confusions I made during the last months of illness.
 
@@ -44,7 +44,7 @@ Strand
 
 and if you will so send the unfortunate parcel, I should be much obliged.
 
-I find it is a library for the lady nurses’ own reading that they want - not as I fancied only books for the patients’ use. So I think I had better send a copy of each of my tales, instead of only the three I mentioned before if you will kindly give orders accordingly.[^2]
+I find it is a library for the lady nurses’ own reading that they want - not as I fancied only books for the patients’ use. So I think I had better send a copy of each of my tales, instead of only the three I mentioned before if you will kindly give orders accordingly.[^3]
 
 Having lost the first letter I will not lay the blame on it, but I certainly did not understand it. A much more practical one has now come
 

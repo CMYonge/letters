@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 4th [1867]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 Miss Yonge is much obliged to [Miss Alcock](people/person_19.qmd) for her [paper](other_books/otherbook_499.qmd) on the <u>[Ladies Home](organizations/other_191.qmd)</u> which answers a question newly arrived from a correspondent.
 
 ---
 
-**Note:** Black-edged paper and envelope postmarked Winchester C Jy 4 67, addressed to “Miss Alcock/39 Green Street/Grosvenor Square/London W”.
+[^1]: Black-edged paper and envelope postmarked Winchester C Jy 4 67, addressed to “Miss Alcock/39 Green Street/Grosvenor Square/London W”.

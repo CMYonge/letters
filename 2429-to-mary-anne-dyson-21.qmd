@@ -37,7 +37,7 @@ The Hursley acting was grand, *She Stoops to Conquer* first, and then from *Mids
 
 Mr. Wilson is looking for a careful manservant for Dr. Pusey, who has had two deaths in a week in his house, one of the servant who looked after him and managed opening the door to people who want interviews.
 
-I had a talk about P. Pusey's letter, not that I have ever found it.[^7]  We did not get to bed till one o'clock, and though I did not get up till 8.30, I am stiff with sleepiness and stupidity to-night.  Here is a woman dying (I fear) the village of a brain attack.  She sent for [Mr. Elgee](people/person_478.qmd) yesterday, but all her talk was verse, and this morning she said [Mr. Wither](people/person_1544.qmd) had been at her bedside all night, praying for her.
+I had a talk about P. Pusey's letter, not that I have ever found it.[^6]  We did not get to bed till one o'clock, and though I did not get up till 8.30, I am stiff with sleepiness and stupidity to-night.  Here is a woman dying (I fear) the village of a brain attack.  She sent for [Mr. Elgee](people/person_478.qmd) yesterday, but all her talk was verse, and this morning she said [Mr. Wither](people/person_1544.qmd) had been at her bedside all night, praying for her.
 
 Your most affectionate
 C. M. Yonge
@@ -49,5 +49,4 @@ C. M. Yonge
 [^3]: The Rev. [R. F. Wilson](people/person_1541.qmd) and [his wife Maria](people/person_1539.qmd) were staying with the Heathcotes at Hursley Park.
 [^4]: The Bishop of Lichfield was George Augustus Selwyn, the former Primate of New Zealand who had appointed Patteson.  The 'change of schoolmistresses' refers to the controversial reform of [Otterbourne School](organizations/other_107.qmd), events which inspired CMY's later novel *Our New Mistress*.
 [^5]: [Mary Anne Palmer](people/person_1132.qmd) (1805/6-1884), a neighbour of Mary Anne Dyson’s, whose sister Caroline (Palmer) Abraham was married to Selwyn’s former chaplain, who also lived in Lichfield.
-[^6]: The actors were [Arthur Malcolm Heathcote](people/person_653.qmd) (1847-1934), his sisters [Helena Mary Heathcote](people/person_663.qmd) (1853-1925), twins [Beatrice Henrietta](people/person_655.qmd) (1856-1909) and [Jennetta Alethea Heathcote](people/person_656.qmd) (1856-1887), his brother [Charles George Heathcote](people/person_670.qmd) (1843-1924) and the children of the Vicar of Hursley, the Rev. [James Gavin Young](people/person_1634.qmd).
-[^7]: The reference may be to Philip Pusey (1799-1855), agricultural expert and elder brother of the Rev. Dr Edward Bouverie Pusey, though the latter also had a son named Philip.
+[^6]: The reference may be to Philip Pusey (1799-1855), agricultural expert and elder brother of the Rev. Dr Edward Bouverie Pusey, though the latter also had a son named Philip.

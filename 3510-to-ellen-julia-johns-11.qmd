@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Dec 10th [1869]  
+**Date:** Dec 10th [1869][^2]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS University of Delaware
+**Manuscript:** MS University of Delaware[^1]
 :::
 
 My dear [Mrs Johns](people/person_772.qmd),
-I should be much obliged if you would propose me as a member of the [Literary and Scientific Society](organizations/other_208.qmd).[^1] My [sister in law](people/person_1604.qmd) would like her eldest [girl](people/person_1613.qmd) to attend the classes if they take place, especially the Natural history ones. I suppose the details of management have yet to be settled and perhaps you will then let me know whether we had better subscribe not only for her, but also for the Governess to bring her in. Or whether by subscribing for her and myself would give us three tickets in case of lectures that both the Governess and I might wish to attend
+I should be much obliged if you would propose me as a member of the [Literary and Scientific Society](organizations/other_208.qmd).<sup>3</sup> My [sister in law](people/person_1604.qmd) would like her eldest [girl](people/person_1613.qmd) to attend the classes if they take place, especially the Natural history ones. I suppose the details of management have yet to be settled and perhaps you will then let me know whether we had better subscribe not only for her, but also for the Governess to bring her in. Or whether by subscribing for her and myself would give us three tickets in case of lectures that both the Governess and I might wish to attend
 
 Yours truly
 C M Yonge

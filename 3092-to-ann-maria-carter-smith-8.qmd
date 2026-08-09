@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 22d [1856]  
 **From:** Otterbourn  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/5
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1856/5[^1]
 :::
 
 My dear [Madam](people/person_263.qmd)
@@ -40,7 +40,7 @@ C M Yonge
 
 I forgot to add my thanks for the return of the postage stamps.
 
-If ever Mrs Atkinson finds time for Tradition 6th it will be welcome, but I never reckon on contributors after marriage - like the inspectors of schools who complain that so many school-mistresses 'yearly are lost to the profession'  by marriage[^1]
+If ever Mrs Atkinson finds time for Tradition 6th it will be welcome, but I never reckon on contributors after marriage - like the inspectors of schools who complain that so many school-mistresses 'yearly are lost to the profession'  by marriage[^2]
 
 ---
 

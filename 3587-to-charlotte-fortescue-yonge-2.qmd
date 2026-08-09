@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** July 29th [1885?]  
+**Date:** July 29th [1885?][^1]  
 **From:** Elderfield  
 **Manuscript:** MS Harvard University, Houghton Library
 :::
 
 My dear [Lottie](people/person_1588.qmd)
 
-Many thanks for the Water Soldier who came in excellent order.[^1]  Fancy [Arthur Yonge](people/person_1583.qmd) being like [Julian](people/person_1624.qmd).  He was in a very different style in his younger days being very dark and always carrying his chin rather in the air but I think his beard must have made a difference and I know there always is a tendency in us to be more like the Duke Yonges than anyone else.  My [mother](people/person_1606.qmd) and [Aunt Duke](people/person_1591.qmd) were alike though no relations.  Did you see Arthur’s very pretty [daughter](people/person_1584.qmd) who is living with the Masons to go to the [High School](organizations/other_51.qmd)at Winchester[^2]  The [Moberlys](people/person_1019.qmd) are quite uncertain what will become of them, as they have not yet been able to find a house.  We hoped to have the [Bowleses](people/person_182.qmd) here in August, but they cannot get their duty done, and have had to put it off.  [Joan](people/person_388.qmd) is still with them.  [Mrs Beck](people/person_130.qmd) is staying here till she goes to the Christening of her poor little grandson, who happily is a fine prosperous child[^3]
+Many thanks for the Water Soldier who came in excellent order.[^2]  Fancy [Arthur Yonge](people/person_1583.qmd) being like [Julian](people/person_1624.qmd).  He was in a very different style in his younger days being very dark and always carrying his chin rather in the air but I think his beard must have made a difference and I know there always is a tendency in us to be more like the Duke Yonges than anyone else.  My [mother](people/person_1606.qmd) and [Aunt Duke](people/person_1591.qmd) were alike though no relations.  Did you see Arthur’s very pretty [daughter](people/person_1584.qmd) who is living with the Masons to go to the [High School](organizations/other_51.qmd)at Winchester[^3]  The [Moberlys](people/person_1019.qmd) are quite uncertain what will become of them, as they have not yet been able to find a house.  We hoped to have the [Bowleses](people/person_182.qmd) here in August, but they cannot get their duty done, and have had to put it off.  [Joan](people/person_388.qmd) is still with them.  [Mrs Beck](people/person_130.qmd) is staying here till she goes to the Christening of her poor little grandson, who happily is a fine prosperous child[^4]
 
 your affectionate cousin
 C M Yonge

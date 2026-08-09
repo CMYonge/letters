@@ -27,15 +27,15 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 3d [1868]  
 **From:** Puslinch Yealmpton  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
-Thank you and [Edith](people/person_331.qmd) for taking the Bandits’ Bride[^1], I hope your collections will prosper. We have £163, and want £700 if we build a masters house, £400 if we content ourselves with a school
+Thank you and [Edith](people/person_331.qmd) for taking the Bandits’ Bride[^2], I hope your collections will prosper. We have £163, and want £700 if we build a masters house, £400 if we content ourselves with a school
 
 Have you written to [Miss Arnold](people/person_1467.qmd), or shall I accepting [Miss Clarke](people/person_300.qmd) I find [Grace Latham](people/person_2024.qmd) has not time, so perhaps we had better accept [Miss Budd](people/person_219.qmd) and [Miss Llewellyn](people/person_2025.qmd). Scotland has sunk away from us, so I suppose Wales is coming instead The other perhaps we had better reject on the grounds of not being a round dozen. I think twelve is the right number.
 
-Since September December is begun I shall send you Mother Goose’s own questions, to save one writing out of them.[^2]
+Since <s>September</s> December is begun I shall send you Mother Goose’s own questions, to save one writing out of them.[^3]
 
 ‘Give a history of the art of letter-writing with an account of the most noted letters and correspondents ancient and modern.
 

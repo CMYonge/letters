@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 4th [?1870]  
+**Date:** March 4th [?1870][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Mrs Caroline Fairclough/23
 :::
@@ -43,4 +43,4 @@ C M Yonge
 
 ---
 
-**Note:** It is not easy to identify the chapter of ‘Polyglot Parsing’ referred to here and it may not have been published.
+[^1]: It is not easy to identify the chapter of ‘Polyglot Parsing’ referred to here and it may not have been published.

@@ -27,17 +27,16 @@ citation:
 ::: {.letter-metadata}
 **Date:** October 3, 1868.  
 **From:** Auckland.  
-**Manuscript:** MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i>, II, 337-8.
+**Manuscript:** MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i>, II, 337-8.[^1]
 :::
 
 I add one line, my dear Cousin, to assure you of [my](people/person_1155.qmd) prayers being offered for you, now more especially when a heavy trial is upon you and a deep sorrow awaiting you. May God comfort and bless you! Perhaps the full experience of such anxiety and the pressure of a constant weight may, in His good Providence, qualify you more than ever to help others by words put into your mouth out of your own heart-felt troubles.
 
-Yet in whatever form the sorrow comes, there is the blessing of knowing that [she](people/person_1606.qmd) is only being mysteriously prepared for the life of the world to come.[^1] There is no real sorrow where there is no remorse, nor misery for the falling away of those we love. You have, I dare say, known (as I have) some who have the bitterness of seeing children turn out badly, and this is the sorrow that breaks one down.
+Yet in whatever form the sorrow comes, there is the blessing of knowing that [she](people/person_1606.qmd) is only being mysteriously prepared for the life of the world to come.[^2] There is no real sorrow where there is no remorse, nor misery for the falling away of those we love. You have, I dare say, known (as I have) some who have the bitterness of seeing children turn out badly, and this is the sorrow that breaks one down.
 
-I cannot write more. My letters only reached me yesterday, returned from Norfolk Island, whither they were sent from Auckland two days after I left Norfolk Island for Auckland.[^2] The General Synod begins on Monday. Bishops [Harper](people/person_623.qmd) and [Abraham](people/person_4.qmd) have just arrived, and we are all in confusion. We all move about rather like uneasy spirits, with a sense of something that we can’t talk about. May God abundantly bless [him](people/person_1295.qmd), and cause his work to prosper in his hands! I don’t grudge him to you one bit; but sometimes I can hardly look at him, though the sentiment has been pretty well knocked out of me.
+I cannot write more. My letters only reached me yesterday, returned from Norfolk Island, whither they were sent from Auckland two days after I left Norfolk Island for Auckland.<sup>3</sup> The General Synod begins on Monday. Bishops [Harper](people/person_623.qmd) and [Abraham](people/person_4.qmd) have just arrived, and we are all in confusion. We all move about rather like uneasy spirits, with a sense of something that we can’t talk about. May God abundantly bless [him](people/person_1295.qmd), and cause his work to prosper in his hands! I don’t grudge him to you one bit; but sometimes I can hardly look at him, though the sentiment has been pretty well knocked out of me.
 
 ---
 
 [^1]: The third paragraph was omitted from the revised edition.
-[^2]: CMY's mother had already died by the time Patteson wrote this letter.
-[^3]: Patteson had come to New Zealand to attend the General Synod and to say goodbye to Bishop Selwyn who was returning to England to become Bishop of Lichfield.
+[^2]: Patteson had come to New Zealand to attend the General Synod and to say goodbye to Bishop Selwyn who was returning to England to become Bishop of Lichfield.

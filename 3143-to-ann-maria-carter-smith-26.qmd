@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 13th 1859  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ 1859/13
+**Manuscript:** MS Westcountry Studies Library, Exeter/ 1859/13[^1]
 :::
 
 My dear [Miss Smith](people/person_163.qmd),
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss A C Smith/ Old Charlton Rectory/ SE and postmarked Winchester 13 December 1859 and London SE 14 December 1859.
+[^1]: Envelope addressed to Miss A C Smith/ Old Charlton Rectory/ SE and postmarked Winchester 13 December 1859 and London SE 14 December 1859.

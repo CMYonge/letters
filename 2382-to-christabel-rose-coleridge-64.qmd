@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 31 st [1870]  
 **From:** Wantage  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
@@ -38,7 +38,7 @@ The Honble
 Beechwood
 Plympton
 
-I am not sure what she is to be called [^1]-  Can you still be Secretary even if you have no time for the Questions?  It would be a great help to me.  Frog [^2] proposes a new one but I have not the particulars of her yet.  I am going home on Thursday  I have had a very pleasant expedition all round Devon ending with Torquay and Ottery.  Frog suggests the Goslings writing their criticisms below Cackle, which would be amusing, I think
+I am not sure what she is to be called [^2]-  Can you still be Secretary even if you have no time for the Questions?  It would be a great help to me.  Frog [^3] proposes a new one but I have not the particulars of her yet.  I am going home on Thursday  I have had a very pleasant expedition all round Devon ending with Torquay and Ottery.  Frog suggests the Goslings writing their criticisms below Cackle, which would be amusing, I think
 
 your affectionate
 Mother Goose

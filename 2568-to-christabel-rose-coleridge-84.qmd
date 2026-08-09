@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 23d [1877]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
 
-I should like of all things to have the dear [Fernando](other_books/otherbook_741.qmd), but alas!  I don’t see a scrap of room for him before Christmas[^1]  [Orina](other_books/otherbook_877.qmd) will last till the summer  [Our Young ladies](other_books/otherbook_876.qmd) till Christmas, [Magnum Bonum](cmy_books/cmybook_131.qmd) 2 years - (I fear)  Then [Miss R N Carey](people/person_254.qmd) begins [a long story](other_books/otherbook_878.qmd) in July, and I can't see a chink to put any thing in till Our Young Ladies are done, & I suppose you cannot wait.
+I should like of all things to have the dear [Fernando](other_books/otherbook_741.qmd), but alas!  I don’t see a scrap of room for him before Christmas[^2]  [Orina](other_books/otherbook_877.qmd) will last till the summer  [Our Young ladies](other_books/otherbook_876.qmd) till Christmas, [Magnum Bonum](cmy_books/cmybook_131.qmd) 2 years - (I fear)  Then [Miss R N Carey](people/person_254.qmd) begins [a long story](other_books/otherbook_878.qmd) in July, and I can't see a chink to put any thing in till Our Young Ladies are done, & I suppose you cannot wait.
 
 yours affectionately
 C M Yonge

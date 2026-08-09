@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 14th [1864]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library: Add MSS 54920: 38-39
+**Manuscript:** MS British Library: Add MSS 54920: 38-39[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
 Herewith are the first division of [Deeds](cmy_books/cmybook_51.qmd). I will put a short preface before the introductory chapter I have sent. There are some bits to touched up in the proofs - i.e. the scenery of the Decius story - and of the 'the Chief of the Arverni'. I shall get at my books better in another week, but I will not delay longer.
 
-Also I wrote in the stock gladiator lines (which hackneyed as they are, are too beautiful to be left out) - from memory, leaving gaps to fill up, which I will do in the proof.[^1]
+Also I wrote in the stock gladiator lines (which hackneyed as they are, are too beautiful to be left out) - from memory, leaving gaps to fill up, which I will do in the proof.[^2]
 
 I told you wrong yesterday about the centuries. I fear I can find no deeds between 500 and 900 
 

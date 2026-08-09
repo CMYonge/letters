@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** 28 November [?1859]  
+**Date:** 28 November [?1859][^2]  
 **Manuscript:** MS NLS, copy letter book of T. & A. Constable
 :::
 
@@ -32,4 +32,6 @@ Messrs [Thomas Constable & Co](organizations/other_136.qmd)with Compliments to M
 
 ---
 
-**Note:** Thomas Constable (1812–1881) began trading under his own name in 1833. Dated on the assumption that the edition of 1859 is referred to.
+[^2]: Dated on the assumption that the edition of 1859 is referred to.
+
+**Note:** Thomas Constable (1812–1881) began trading under his own name in 1833.

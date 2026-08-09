@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 6th 1861  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/4
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1861/4[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
 
-I send the papers about [Sandwell](organizations/other_12.qmd), and a [back number](other_books/otherbook_301.qmd) of the [M P](organizations/other_52.qmd), which please return. I have scarcely heard anything about the institution since I received this account from [Miss Goodrich](people/person_567.qmd) so my knowledge of it is two years old[^1]
+I send the papers about [Sandwell](organizations/other_12.qmd), and a [back number](other_books/otherbook_301.qmd) of the [M P](organizations/other_52.qmd), which please return. I have scarcely heard anything about the institution since I received this account from [Miss Goodrich](people/person_567.qmd) so my knowledge of it is two years old[^2]
 
 yours sincerely
 

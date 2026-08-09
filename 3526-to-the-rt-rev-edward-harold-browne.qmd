@@ -24,11 +24,11 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Oct 21st [after 1875]  
+**Date:** Oct 21st [after 1875][^1]  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
-My dear Bishop[^1]
+My dear Bishop[^2]
 
 I find the apples are come but the arrival was not notified to me - and I had been blaming the rail way! Please tell me what there is to pay for them as I do not think my account came with them I suppose 8/ altogether but I am not sure
 

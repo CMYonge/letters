@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 13th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Caroline Fairclough/21
+**Manuscript:** MS Mrs Caroline Fairclough/21[^1]
 :::
 
 My dear [Arthur](people/person_238.qmd)
 I am greatly satisfied about ci, reasoning from the tendency to use <u>there</u> in old English as in the case of thereof for which <u>its</u> is a barbarous substitute. The complication of Italian pronouns of all sorts is very curious, and makes me wish Italian had a [Brachiet](other_books/otherbook_558.qmd). I suppose someone will soon do a good comparative grammar for these unfortunate moderns. I wish you would.
 
-I am sure I have a defence for Brutus being Decimus[^1] - (haven’t you always a strong inclination to translate it - O you brute) and I have been trying to lay my hand on it, but it is not in Merivale, where I thought it was. I thought Decimus had come in by that time, and that Caesar was reproaching him with deluding him into coming to the Senate.
+I am sure I have a defence for Brutus being Decimus[^2] - (haven’t you always a strong inclination to translate it - O you brute) and I have been trying to lay my hand on it, but it is not in Merivale, where I thought it was. I thought Decimus had come in by that time, and that Caesar was reproaching him with deluding him into coming to the Senate.
 
 Some history I have read goes through the argument, and it satisfied me then that Plutarch had applied it to Marcus as the more effective and dramatic character, and certainly one always believes it with ones poetical faith.
 

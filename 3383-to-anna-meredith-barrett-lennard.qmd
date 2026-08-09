@@ -27,15 +27,15 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 7th 1898  
 **From:** Elderfield  
-**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff62-64
+**Manuscript:** MS Bodleian Library, Oxford: Autogr. d. 22 ff62-64[^1]
 :::
 
 My dear [Mrs Lennard](people/person_121.qmd)
-I must send your name on a separate piece of paper, as the book must go from [Macmillan](organizations/other_111.qmd) as I do not keep a stock of copies by me, and besides I think booksellers packing is safer than home, if I had a copy I was sure was new all through[^1].
+I must send your name on a separate piece of paper, as the book must go from [Macmillan](organizations/other_111.qmd) as I do not keep a stock of copies by me, and besides I think booksellers packing is safer than home, if I had a copy I was sure was new all through[^2].
 
 What a sad loss of all your precious books, that can never be repaired! We are looking forward to the 50th Consecration of Hursley church when there will be a great gathering and an octave[?] of services
 
-We had a Te Deum for the victory[^2] in church the Sunday after we heard of it. [Mr Bowles](people/person_184.qmd) had three cousins there so it came very near. Today I have been reading of the grand reception in London
+We had a Te Deum for the victory[^3] in church the Sunday after we heard of it. [Mr Bowles](people/person_184.qmd) had three cousins there so it came very near. Today I have been reading of the grand reception in London
 
 What a state the world is in - and is France ever to retrieve its general character, each generation falls lower than the last 
 

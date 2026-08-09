@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 9th [1885]  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 Dear [Mrs Molesworth](people/person_1028.qmd) 
 
 I am very sorry there has been such a delay in answering your letter. All those directed to the office were delaying in coming to me by a mistake
 
-I shall be very glad to see your MS if you will still send it to me, it had better come direct here, to save time[^1]
+I shall be very glad to see your MS if you will still send it to me, it had better come direct here, to save time[^2]
 
 Yours truly
 C M Yonge

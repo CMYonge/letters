@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 3d [1868]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Charlotte Mitchell
+**Manuscript:** MS Charlotte Mitchell[^1]
 :::
 
 My dear [Miss Jacob](people/person_751.qmd)
@@ -46,9 +46,9 @@ My darling,
 
 I was so glad to get yr. last. I am quite well & not at all bad in the back. Mrs Yonge departed on the 28th. [Papa](people/person_2018.qmd) saw it in the Times <u>after</u> I had written to her about the Lit. Church & was going to write to her again when this kind note came. 
 
-About my going to you. Papa says he shall go on the 21st. & as Ernest does not leave till 17th. there seems so few days that perhaps [*illegible*] might be best as it is comparatively near Clifton. I shall have some difficulty in getting away to you as I am but just returnd. from a 6 weeks stay, & this [poor dear](people/person_2019.qmd) is really very poorly.[^1] Aunt B. comes Friday for a few days. 
+About my going to you. Papa says he shall go on the 21st. & as Ernest does not leave till 17th. there seems so few days that perhaps [*illegible*] might be best as it is comparatively near Clifton. I shall have some difficulty in getting away to you as I am but just returnd. from a 6 weeks stay, & this [poor dear](people/person_2019.qmd) is really very poorly.[^2] Aunt B. comes Friday for a few days. 
 
-Poor Bully[^2] died quite suddenly on Sunday. he was a great pet & Uncle had got very fond of him during my absence, Bully always came up at dinner time & used to sing to him & behave very pretty, & twice in his letters Uncle mentioned what a companion he was. On Sunday morning, Joseph, who was in the kitchen, saw him flutter about & then fall down dead.
+Poor Bully[^3] died quite suddenly on Sunday. he was a great pet & Uncle had got very fond of him during my absence, Bully always came up at dinner time & used to sing to him & behave very pretty, & twice in his letters Uncle mentioned what a companion he was. On Sunday morning, Joseph, who was in the kitchen, saw him flutter about & then fall down dead.
 
 Mrs. Hodge takes his poor little body with her to Portsmouth today to get it stuffed. She has lost her father in law & is rather in trouble & we have let her go though as Mrs. Teasdale is unable to come it is rather inconvenient. Uncle sends you Matsie’s letter & there is another you shall have afterwards. Keep them to return [*illegible*] opportunity. Uncle says you must not think he does not think of you because he does not write.
 

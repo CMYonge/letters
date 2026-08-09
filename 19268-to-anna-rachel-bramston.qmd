@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Novr 25th [1897]  
+**Date:** Novr 25th [1897][^1]  
 **From:** Elderfield  
 **Manuscript:** Essex Record Office D/Dlu/95/1/1
 :::
@@ -50,4 +50,4 @@ C M Yonge
 
 ---
 
-**Note:** The reference to *Gerald and Dolly*, which was published in September 1897, means the letter can safely be dated in that year or later;  it evidently  relates to a proposed contribution by Anna Bramston to [*Mothers in Council*](organizations/other_82.qmd), of which CMY was editor.
+[^1]: The reference to *Gerald and Dolly*, which was published in September 1897, means the letter can safely be dated in that year or later;  it evidently  relates to a proposed contribution by Anna Bramston to [*Mothers in Council*](organizations/other_82.qmd), of which CMY was editor.

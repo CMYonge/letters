@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 20th [1900]  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Girton College Cambridge, Yonge XIII 1
+**Manuscript:** MS Girton College Cambridge, Yonge XIII 1[^1]
 :::
 
 Dear [Mrs Belfield](people/person_133.qmd)
 The precious mittens are safely come - it is a very curious genealogy for them - They are exactly like some little lace mittens of the 17th century figured in Mrs Earle’s[‘Child Life in Colonial days’](other_books/otherbook_756.qmd)
 
-Madam Cromwell must been Elizabeth daughter of Richard who died at 83 in 1741 - Her mother, who was Dorothy Major of Hursley died in 1675 - so the mittens could not have been sent to her -[^1]
+Madam Cromwell must been Elizabeth daughter of Richard who died at 83 in 1741 - Her mother, who was Dorothy Major of Hursley died in 1675 - so the mittens could not have been sent to her -[^2]
 
 I will return them as soon as I have been able to shew them to a [cousin](people/person_28.qmd)of mine, devoted to King Charles and will in the meantime keep them safely
 

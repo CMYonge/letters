@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 29th [1865]  
 **From:** Elderfield  
-**Manuscript:** MS Charlotte Mitchell/Cobweb-6
+**Manuscript:** MS Charlotte Mitchell/Cobweb-6[^1]
 :::
 
 My dear [Cobweb](people/person_675.qmd),
@@ -41,4 +41,4 @@ Mother Goose
 
 ---
 
-**Note:** Cream envelope 68mm x 122mm with stamped mark Parkins & Gotto, Makers 24 & 25, Oxford Street and remains of flower embossed wafer, addressed to Miss Helmore/ 6 Cheyne Walk/ Chelsea/ SW, and postmarked Winchester 29 April 1865 and London 1 May 1865.
+[^1]: Cream envelope 68mm x 122mm with stamped mark Parkins & Gotto, Makers 24 & 25, Oxford Street and remains of flower embossed wafer, addressed to Miss Helmore/ 6 Cheyne Walk/ Chelsea/ SW, and postmarked Winchester 29 April 1865 and London 1 May 1865.

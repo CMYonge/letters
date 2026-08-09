@@ -32,7 +32,7 @@ citation:
 
 [Sir](people/person_2384.qmd),
 
-I hope it will be possible for the Council of the [Royal Literary Fund](organizations/other_257.qmd)favorably to consider the application on behalf of Miss [Florence Wilford](people/person_1520.qmd).[^1]
+I hope it will be possible for the Council of the [Royal Literary Fund](organizations/other_257.qmd)favorably to consider the application on behalf of Miss [Florence Wilford](people/person_1520.qmd).[^2]
 
 I have known her for nearly thirty years as a person of great merit, personally, and considerable talent and industry as a writer of works of excellent tone.
 
@@ -45,5 +45,6 @@ Author of [the Heir of Redclyffe](cmy_books/cmybook_15.qmd) &c
 
 ---
 
-[^1]: Arthur Llewelyn Roberts (1855-1919), Secretary of the Royal Literary Fund from 1884 to his death.
 [^2]: The other letters in the file tell the distressing story of  Florence Wilford, who had suffered from mental illness intermittently since 1883 and was currently in a private asylum.  Her application was refused on the grounds ‘authorship insufficient’, which seems rather harsh since she had published sixteen books since 1858.
+
+**Note:** Arthur Llewelyn Roberts (1855-1919), Secretary of the Royal Literary Fund from 1884 to his death.

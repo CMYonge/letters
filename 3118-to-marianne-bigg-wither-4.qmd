@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Aug 27th 1858  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29.
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29.[^1]
 :::
 
 My dear [Marianne](people/person_1546.qmd)
-“[Teneriffe an Astronomer’s Experiment](other_books/otherbook_149.qmd)” published by Reeve is the proper title of Piazzi Smith,[^1] [I] waited till I could [illegible] perfect in it I should think it a book quite worth sending out, very entertaining, and the writing of a sensible man. I return [Elizabeth](people/person_1803.qmd)’s book of poetry, which I have been slowly enjoying, it is most beautiful, one upon the scenes of earth coming near heaven is I think my favourite
+“[Teneriffe an Astronomer’s Experiment](other_books/otherbook_149.qmd)” published by Reeve is the proper title of Piazzi Smith,[^2] [I] waited till I could [illegible] perfect in it I should think it a book quite worth sending out, very entertaining, and the writing of a sensible man. I return [Elizabeth](people/person_1803.qmd)’s book of poetry, which I have been slowly enjoying, it is most beautiful, one upon the scenes of earth coming near heaven is I think my favourite
 
 Your affectionate
 C M Yonge

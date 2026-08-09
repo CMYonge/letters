@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 26th [1868-9?]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29[^1]
 :::
 
 My dear [Miss Forrest](people/person_2029.qmd)
 I am sending off your notice for the November Packet, thank you for it. I must not let you come in a vain search for [Edith Simeon](people/person_1325.qmd), though I should be very glad to see you.
 
-She left me on Friday morning as she is going to help [Miss Barter](people/person_116.qmd) for a few months in the school she is managing at Shipton. The being close to [Mrs Henry Barter](people/person_114.qmd) is the great attraction, and she is really very much better for her stay in Ireland - both in strength and spirits.[^1] I am so glad that the notice in the [Packet](organizations/other_52.qmd) was so effective[^2]
+She left me on Friday morning as she is going to help [Miss Barter](people/person_116.qmd) for a few months in the school she is managing at Shipton. The being close to [Mrs Henry Barter](people/person_114.qmd) is the great attraction, and she is really very much better for her stay in Ireland - both in strength and spirits.[^2] I am so glad that the notice in the [Packet](organizations/other_52.qmd) was so effective[^3]
 
 Yours sincerely
 C M Yonge

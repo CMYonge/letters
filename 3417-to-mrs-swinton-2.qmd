@@ -24,12 +24,12 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Sunday Aug 13th [1899]  
+**Date:** Sunday Aug 13th [1899][^1]  
 **Manuscript:** MS Princeton University, Parrish Collection
 :::
 
 My dear [Mrs Swinton](people/person_1388.qmd)
-Thank you once more for the Waterloo letters which I have read with the greatest pleasure.[^1] They bring it close to us, just as did [Lord Seaton](people/person_313.qmd) and [my father](people/person_1631.qmd) talking it over. I rather wonder to see the Prince of Orange such a favourite but probably he was very different to young girls from what he was to Lord Seaton who was his ‘bear leader’ for some time
+Thank you once more for the Waterloo letters which I have read with the greatest pleasure.[^2] They bring it close to us, just as did [Lord Seaton](people/person_313.qmd) and [my father](people/person_1631.qmd) talking it over. I rather wonder to see the Prince of Orange such a favourite but probably he was very different to young girls from what he was to Lord Seaton who was his ‘bear leader’ for some time
 
 Yours sincerely
 C M Yonge

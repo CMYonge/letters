@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 7th [1887]  
+**Date:** March 7th [1887][^1]  
 **From:** Elderfield  
 **Manuscript:** MS Liverpool University Library, Hope Autograph Collection: 85
 :::
 
 My dear [Miss Webster](people/person_1.qmd)
 
-I will try [to bring the paper in](organizations/other_52.qmd) when I can upon the Mission Parcel society, which no doubt is very useful.[^1]  As to time I can only undertake to tell you when I am actually seeing it safe in type - for I am never certain of the space, as Debatable Ground, and the criticisms come in at the last moment and are of varying lengths, so that the shorter articles and appeals, or poems often get squeezed out at the last moment after I have reckoned on them.
+I will try [to bring the paper in](organizations/other_52.qmd) when I can upon the Mission Parcel society, which no doubt is very useful.[^2]  As to time I can only undertake to tell you when I am actually seeing it safe in type - for I am never certain of the space, as Debatable Ground, and the criticisms come in at the last moment and are of varying lengths, so that the shorter articles and appeals, or poems often get squeezed out at the last moment after I have reckoned on them.
 
 I will take care however that your July paper goes in.
 

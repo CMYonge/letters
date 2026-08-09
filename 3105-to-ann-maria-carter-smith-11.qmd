@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 28 1857  
 **From:** Otterbourne Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/2
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1857/2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
 I should have been glad to accept your ‘Manchester Visit’, but it has been forestalled as you will [see](organizations/other_52.qmd) on the first of August.
 
-I have put out [your princesses](other_books/otherbook_262.qmd) for October but I do not feel sure how the space will be[^1]
+I have put out [your princesses](other_books/otherbook_262.qmd) for October but I do not feel sure how the space will be[^2]
 
 yours sincerely
 C M Yonge

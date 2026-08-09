@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 15th 1894  
 **From:** [G F S](organizations/other_23.qmd) Elderfield Otterbourne Winchester  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 Dear [Mrs Egerton](people/person_470.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** In matching envelope with G F S written in upper left corner and stamp removed, addressed ‘Mrs Egerton/The Cottage/Alresford.’
+[^1]: In matching envelope with G F S written in upper left corner and stamp removed, addressed ‘Mrs Egerton/The Cottage/Alresford.’

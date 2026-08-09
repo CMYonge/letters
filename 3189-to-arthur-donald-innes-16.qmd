@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 6th 1892  
 **From:** Elderfield  
-**Manuscript:** MS Girton College Cambridge, Yonge IV 28
+**Manuscript:** MS Girton College Cambridge, Yonge IV 28[^1]
 :::
 
 Dear [Mr Innes](people/person_744.qmd),
-Votes coming straight to me, and votes going first to [Miss Coleridge](people/person_329.qmd) made a certain amount of confusion - and four for [Rowling Manor](other_books/otherbook_647.qmd) dated Jany 30th, came in just at the end and carried it up to 14 votes while [L’Epine Noble](other_books/otherbook_662.qmd) has twelve --- So I suppose it must be the prize one, though my own judgment would not have gone that way.[^1]
+Votes coming straight to me, and votes going first to [Miss Coleridge](people/person_329.qmd) made a certain amount of confusion - and four for [Rowling Manor](other_books/otherbook_647.qmd) dated Jany 30th, came in just at the end and carried it up to 14 votes while [L’Epine Noble](other_books/otherbook_662.qmd) has twelve --- So I suppose it must be the prize one, though my own judgment would not have gone that way.[^2]
 
 Thank you about the stamps   -   We will divide
 

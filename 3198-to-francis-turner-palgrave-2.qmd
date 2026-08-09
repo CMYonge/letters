@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 11th 1892  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 Dear Mr Palgrave
-Thank you much for the little book—I am very glad of the testimony to its popularity.[^1]
+Thank you much for the little book—I am very glad of the testimony to its popularity.[^2]
 
 I suppose your change was in doubt whether the Bothwell affair was Anteros, as no lover at all; and that on that subject you have changed your mind. I think I incline to the belief that the Casket letters were old ones to Darnley garbled for Elizabeth’s benefit. Have you seen the fragment at Hatfield?
 

@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Sept 22d 1878  
+**Date:** Sept 22d 1878[^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
 :::
@@ -43,4 +43,4 @@ C M Yonge
 
 ---
 
-**Note:** The last number is hard to read and the date could be 1876.  Emmeline Spratt married William John Gibson (b.1852/3), clerk,  in 1883; he may be the man referred to here.
+[^1]: The last number is hard to read and the date could be 1876.  Emmeline Spratt married William John Gibson (b.1852/3), clerk,  in 1883; he may be the man referred to here.

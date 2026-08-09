@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 9th [1868]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas.
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas.[^1]
 :::
 
 My dear[Miss Warren](people/person_1475.qmd),
-I am quite inclined to believe the Cambridge examinations[^1] to be a very good thing. I should have been very glad of them to work for when I was young enough. I hope it may occupy the clever young ladies [*the rest missing*]
+I am quite inclined to believe the Cambridge examinations[^2] to be a very good thing. I should have been very glad of them to work for when I was young enough. I hope it may occupy the clever young ladies [*the rest missing*]
 
 ---
 

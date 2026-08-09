@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** November 15th 1873  
 **From:** Hanwell Rectory, Middlesex, W.  
-**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
+**Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin[^1]
 :::
 
 My dear Miss Yonge,
@@ -46,4 +46,4 @@ Miss C. M. Yonge
 
 ---
 
-**Note:** In Derwent Coleridge’s copy outletter book.
+[^1]: In Derwent Coleridge’s copy outletter book.

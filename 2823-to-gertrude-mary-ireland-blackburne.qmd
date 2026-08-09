@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [1885]  
+**Date:** [1885][^1]  
 **Manuscript:** MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 184, 185.
 :::
 
@@ -36,4 +36,4 @@ I don’t care much for [Nuttie](cmy_books/cmybook_183.qmd) myself. I am getting
 
 ---
 
-**Note:** *Nuttie's Father* was published in autumn 1885.
+[^1]: *Nuttie's Father* was published in autumn 1885.

@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 29th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 My dear [Mr Moor](people/person_1046.qmd)
@@ -38,4 +38,4 @@ C M  Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

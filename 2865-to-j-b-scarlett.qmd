@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 9th [1887]  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 Dear [Sir](people/person_2370.qmd)
 
-The lines are certainly not mine - nor do I think I could ever have quoted them for I do not remember ever to have heard them[^1]
+The lines are certainly not mine - nor do I think I could ever have quoted them for I do not remember ever to have heard them[^2]
 
 Yours truly
 C M Yonge

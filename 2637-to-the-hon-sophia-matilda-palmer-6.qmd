@@ -32,13 +32,13 @@ citation:
 
 Dear [Miss Palmer](people/person_1133.qmd)
 
-I hope [Lady Laura Hampton](people/person_619.qmd) will not mind waiting a fortnight or so, for I am as you see in Devonshire and I can hardly manage to look at them till I come home, where they are waiting for me. I have however had a series of poems on the Collects in the Monthly Packet, and I hardly know how I could begin another.[^1]
+I hope [Lady Laura Hampton](people/person_619.qmd) will not mind waiting a fortnight or so, for I am as you see in Devonshire and I can hardly manage to look at them till I come home, where they are waiting for me. I have however had a series of poems on the Collects in the Monthly Packet, and I hardly know how I could begin another.<sup>1</sup>
 
-I came here yesterday and found [Mildred](people/person_17.qmd) pretty well, but [her father](people/person_343.qmd) very poorly though he seemed to be getting better<sup>2</sup> The chimes of the clock are sounding pleasantly as I write
+I came here yesterday and found [Mildred](people/person_17.qmd) pretty well, but [her father](people/person_343.qmd) very poorly though he seemed to be getting better[^2] The chimes of the clock are sounding pleasantly as I write
 
 Yours sincerely
 C M Yonge
 
 ---
 
-[^1]: Lady Laura Elizabeth (Phipps) Hampton, daughter of the 2nd Marquess of Normanby, married (1868) John Vivian Hampton (1835-1890).  A series of 'Sonnets from the Collects' by Horatia Elder had been published in *MP* in 1865-7.  The letter is evidently to one of the daughters of Roundell Palmer, 1st Earl of Selborne, who was a friend of the Coleridges, but if it  is correctly dated, it cannot be addressed to his daughter Laura, who had married George Ridding in October 1876, but is more likely to be to her sister Sophia, who was a friend of Lady Laura Hampton (Laura Ridding, *Sophia Matilda Palmer*, 66-7).
+[^2]: Lady Laura Elizabeth (Phipps) Hampton, daughter of the 2nd Marquess of Normanby, married (1868) John Vivian Hampton (1835-1890).  A series of 'Sonnets from the Collects' by Horatia Elder had been published in *MP* in 1865-7.  The letter is evidently to one of the daughters of Roundell Palmer, 1st Earl of Selborne, who was a friend of the Coleridges, but if it  is correctly dated, it cannot be addressed to his daughter Laura, who had married George Ridding in October 1876, but is more likely to be to her sister Sophia, who was a friend of Lady Laura Hampton (Laura Ridding, *Sophia Matilda Palmer*, 66-7).

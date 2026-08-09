@@ -25,18 +25,18 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** June 26th [?1882]  
+**Date:** June 26th [?1882][^1]  
 **From:** Southbank Edinburgh  
 **Manuscript:** MS UCLA collection 100 box 119/12
 :::
 
 Dear Miss Yonge,
 
-[I](people/person_1105.qmd) hope to send you in a day or two a [small book](other_books/otherbook_952.qmd) I have written about travels in Iceland which were made by me chiefly on the track of various old Sagas, in which I was greatly interested. The book indeed treats of the country from the point of view of its literature. I need not say how pleased I should be if my old friend the ‘[Monthly Packet](organizations/other_52.qmd)’ liked it enough to give it a few friendly words, though I observe now that it is usually the ‘Spider’ who brings ‘Arachne’ their gatherings to discuss, whence I gather that Arachne has little time for reading new books.[^1] 
+[I](people/person_1105.qmd) hope to send you in a day or two a [small book](other_books/otherbook_952.qmd) I have written about travels in Iceland which were made by me chiefly on the track of various old Sagas, in which I was greatly interested. The book indeed treats of the country from the point of view of its literature. I need not say how pleased I should be if my old friend the ‘[Monthly Packet](organizations/other_52.qmd)’ liked it enough to give it a few friendly words, though I observe now that it is usually the ‘Spider’ who brings ‘Arachne’ their gatherings to discuss, whence I gather that Arachne has little time for reading new books.[^2] 
 
 As a Scotchwoman, let me say how excellent we think your portrait of ‘Queen Mary’—in ‘[Unknown to History](cmy_books/cmybook_157.qmd)’—and not less so—perhaps even more so, in the ‘[Cameos](cmy_books/cmybook_134.qmd)’ where no fancy portrait flits across the mirror you have held up to that sad true history.
 
-There is however a portrait, fancy or otherwise, in the possession of a brother-in-law of mine, which would interest you.[^2] I do not know how long it has been in his old castle, or in possession of his old family; but it represents (in life sized kit-kat) a lady like Queen Mary yet not her holding a coronet in one hand, a crucifix in the other, & wearing a nun’s veil lightly over her head, as far as I remember. The tradition goes that this represents your heroine Cicily, but also that she lived and died a nun in France. The lady is both sweet and dignified. When are you coming to Scotland? [Lady Mother](people/person_1106.qmd) always hopes that you will, someday.[^3]
+There is however a portrait, fancy or otherwise, in the possession of a brother-in-law of mine, which would interest you.[^3] I do not know how long it has been in his old castle, or in possession of his old family; but it represents (in life sized kit-kat) a lady like Queen Mary yet not her holding a coronet in one hand, a crucifix in the other, & wearing a nun’s veil lightly over her head, as far as I remember. The tradition goes that this represents your heroine Cicily, but also that she lived and died a nun in France. The lady is both sweet and dignified. When are you coming to Scotland? [Lady Mother](people/person_1106.qmd) always hopes that you will, someday.[^4]
 
 Excuse haste & believe me yrs truly,
 E.J. Oswald

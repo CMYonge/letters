@@ -25,9 +25,9 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** June 17th. [1891]  
+**Date:** June 17th. [1891][^2]  
 **From:** 11 Bexley Terrace Torquay  
-**Manuscript:** MS UCLA collection 100 box 119/1
+**Manuscript:** MS UCLA collection 100 box 119/1[^1]
 :::
 
 My dear Miss Yonge,
@@ -38,4 +38,5 @@ Yours very sincerely
 
 ---
 
-**Note:** Black-edged paper. ‘The China Cupboard’ *MP* (1 January 1891) 108,  announced a competition for prize stories to be published in the extra Christmas number, on the subject of ‘A rolling stone gathers no moss’, the deadline for entries being 31 July 1891.
+[^1]: Black-edged paper.
+[^2]: ‘The China Cupboard’ *MP* (1 January 1891) 108,  announced a competition for prize stories to be published in the extra Christmas number, on the subject of ‘A rolling stone gathers no moss’, the deadline for entries being 31 July 1891.

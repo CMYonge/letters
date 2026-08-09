@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 29th [1870]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Katherine Wykes-Sneyd
+**Manuscript:** MS Mrs Katherine Wykes-Sneyd[^1]
 :::
 
 [To [Mary Penelope Fursdon](people/person_539.qmd)]
@@ -42,4 +42,4 @@ Mother Goose
 
 ---
 
-**Note:** Black-edged paper, with black-edged blue envelope addressed to Miss Mary Fursdon/ Fursdon/ Tiverton postmarked Winchester 29 Jan and Tiverton 30 Jan 1870.
+[^1]: Black-edged paper, with black-edged blue envelope addressed to Miss Mary Fursdon/ Fursdon/ Tiverton postmarked Winchester 29 Jan and Tiverton 30 Jan 1870.

@@ -25,16 +25,16 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Novr 6th[?1898-1900]  
+**Date:** Novr 6th[?1898-1900][^1]  
 **From:** Elderfield  
 **Manuscript:** Surrey History Centre, Dodgson Family Collection D/1/57
 :::
 
 My dear [Miss Dodgson](people/person_2423.qmd),
 
-I will keep your card to consider in case a certain poor Alfred Shany is disposed of, he is 43, and every five years has to be freshly voted for as he will be turned out on his family's hands.[^1]
+I will keep your card to consider in case a certain poor Alfred Shany is disposed of, he is 43, and every five years has to be freshly voted for as he will be turned out on his family's hands.[^2]
 
-I well remember that day of [your Brother](people/person_261.qmd)'s photography. [^2] It was the only time except once that [my mother](people/person_1606.qmd) was photographed so we should be very glad to have the negatives   If the parcel were sent to Miss Bowles at Ranmure [?] there would be sure to be a safe opportunity before long
+I well remember that day of [your Brother](people/person_261.qmd)'s photography. [^3] It was the only time except once that [my mother](people/person_1606.qmd) was photographed so we should be very glad to have the negatives   If the parcel were sent to Miss Bowles at Ranmure [?] there would be sure to be a safe opportunity before long
 
 yours very sincerely
 

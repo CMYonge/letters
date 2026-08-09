@@ -25,10 +25,10 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** 5th August 1865  
-**Manuscript:** MS BL Add. 57,504 f.128
+**Manuscript:** MS BL Add. 57,504 f.128[^1]
 :::
 
-Mrs Yonge informs Mr Sedgwick[^1] that the Hymn ‘Think of the Mercy’ - was written by a young lady who died at fourteen, many years ago, she was the youngest daughter of the [Dean of Winchester](people/person_542.qmd).[^2] The other hymn ‘And is the day of mercy set’ was taken from a book ‘by a Layman’. The book having been a borrowed book the publisher’s name cannot be referred to
+Mrs Yonge informs Mr Sedgwick[^2] that the Hymn ‘Think of the Mercy’ - was written by a young lady who died at fourteen, many years ago, she was the youngest daughter of the [Dean of Winchester](people/person_542.qmd).[^3] The other hymn ‘And is the day of mercy set’ was taken from a book ‘by a Layman’. The book having been a borrowed book the publisher’s name cannot be referred to
 
 ---
 

@@ -24,13 +24,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [1884]  
+**Date:** [1884][^1]  
 **Manuscript:** MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 280.
 :::
 
 [To [Mary Ann Moberly](people/person_1019.qmd)]
 
-Many, many thanks for the beautiful little miniature of a holy life.[^1]  I do think the last half-century must have been a period of saints, when we think of the many blessed ones we have known.  Nothing so causes me to realise the ten thousand times ten thousand in the Revelation than the ‘[Bollandist Lives of Saints](other_books/otherbook_974.qmd)’ in about 150 years, having got no further than C, and those only canonised Roman Catholic saints with their names recorded.
+Many, many thanks for the beautiful little miniature of a holy life.[^2]  I do think the last half-century must have been a period of saints, when we think of the many blessed ones we have known.  Nothing so causes me to realise the ten thousand times ten thousand in the Revelation than the ‘[Bollandist Lives of Saints](other_books/otherbook_974.qmd)’ in about 150 years, having got no further than C, and those only canonised Roman Catholic saints with their names recorded.
 
 ---
 

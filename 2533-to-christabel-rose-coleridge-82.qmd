@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 31st 1875  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
 
 Writing about cheerfulness with a heavy cold in one’s head on a summer day, may be as hard as writing in the midst of a wet cricket match but I am trying to do it.  I shall direct this to Hanwell, not knowing where you are at Chiddingfold I suppose with the [Humberts](people/person_730.qmd).  Have you heard that Mr [Trant Bramston](people/person_196.qmd) is going to be married, and so [Miss Bramston](people/person_198.qmd)’s occupation comes to an end.  Luckily the lady, a [Miss Adey](people/person_2303.qmd) is her dearest friend.  
 
-Your [book](other_books/otherbook_865.qmd) will come I suppose in that October batch will [sic?] calls itself the next years[^1]
+Your [book](other_books/otherbook_865.qmd) will come I suppose in that October batch will [sic?] calls itself the next years[^2]
 
 your affectionate
 C M Yonge

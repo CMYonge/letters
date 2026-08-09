@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 26th 1861  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Charlotte Mitchell/Cobweb-1
+**Manuscript:** MS Charlotte Mitchell/Cobweb-1[^1]
 :::
 
 Dear [Cobweb](people/person_675.qmd)
 
-I did not answer you at once because the [Glowworm](people/person_534.qmd) sent me a set of questions by the same post, and I had to refer to the [Secretary](people/person_351.qmd) to know which was to have the first turn. She decides that, as by some blunder the Glow Worm stepped into Fru Astrida’s place, and that her questions had therefore better have the first turn.[^1] I believe this is rather a good thing for your first will require a little reconsidering, as you know there is a great question whether St Mary Magdalen be the same with the Sister of Lazarus, and also with the woman who anointed our Blessed Lord’s Feet in the house of Simon. If you mean to have this question entered upon, I think it should be expressed, else everyone will be in difficulties – as they are this time as to what is exactly meant by the <u>Jews</u>. Without disallowing the question, I am inclined to think you had better either put it another form or change it.
+I did not answer you at once because the [Glowworm](people/person_534.qmd) sent me a set of questions by the same post, and I had to refer to the [Secretary](people/person_351.qmd) to know which was to have the first turn. She decides that, as by some blunder the Glow Worm stepped into Fru Astrida’s place, and that her questions had therefore better have the first turn.[^2] I believe this is rather a good thing for your first will require a little reconsidering, as you know there is a great question whether St Mary Magdalen be the same with the Sister of Lazarus, and also with the woman who anointed our Blessed Lord’s Feet in the house of Simon. If you mean to have this question entered upon, I think it should be expressed, else everyone will be in difficulties – as they are this time as to what is exactly meant by the <u>Jews</u>. Without disallowing the question, I am inclined to think you had better either put it another form or change it.
 
 No 2 – is an immense question, had you not better either ask for an <u>outline</u> of the general course of the war, or else specify some one episode in it, such as either [Wallace](people/person_1852.qmd)’s career or [Bruce](people/person_1853.qmd)’s rise – otherwise the doing both in detail will be very hard work, and the prize will come to whoever has most time.
 

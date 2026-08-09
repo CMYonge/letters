@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [May 1877]  
-**Manuscript:** MS British Library Add MSS 54921: 17
+**Manuscript:** MS British Library Add MSS 54921: 17[^1]
 :::
 
 Miss Yonge would be obliged if [Messrs Macmillan](organizations/other_111.qmd) would send copies of each of her works to 
@@ -38,4 +38,4 @@ Also one copy of [the Heir of Redclyffe](cmy_books/cmybook_15.qmd) for herself
 
 ---
 
-**Note:** Endorsed ‘Rail/28 5/77’ and (against ‘herself’) ‘Post 28/5/77’.
+[^1]: Endorsed ‘Rail/28 5/77’ and (against ‘herself’) ‘Post 28/5/77’.

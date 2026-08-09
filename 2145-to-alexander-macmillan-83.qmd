@@ -26,14 +26,14 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Jan 14th 1867  
-**From:** [Elderfield, Otterbourne, Winchester.]  
+**From:** [Elderfield, Otterbourne, Winchester.][^1]  
 **Manuscript:** MS British Library Add MSS 54920: 170-171
 :::
 
 My dear [Mr Macmillan](people/person_939.qmd),
 These Germans to whom I engaged that they should have early sheets and translate the [Chaplet of Pearls](cmy_books/cmybook_69.qmd) now want me to have it copied for them at once, a thing I am not inclined for, but if you can at all tell me when it is likely to begin, I should know how to answer them. I am not in haste on my own account only I want to know what to say to this M. [Otto Franke](people/person_522.qmd).
 
-I have [Mr Palgrave](people/person_1124.qmd)’s consent for the use of the extract from his [father](people/person_1126.qmd).[^1] Do you know who [Roscoe](people/person_1974.qmd)’s representatives are, for there is all the Battle of Hastings from [him](other_books/otherbook_480.qmd). [Miss Sewell](people/person_1301.qmd) says she wants all the MS to look over and arrange again - would you send it to her. Her direction is Bonchurch, Isle of Wight
+I have [Mr Palgrave](people/person_1124.qmd)’s consent for the use of the extract from his [father](people/person_1126.qmd).[^2] Do you know who [Roscoe](people/person_1974.qmd)’s representatives are, for there is all the Battle of Hastings from [him](other_books/otherbook_480.qmd). [Miss Sewell](people/person_1301.qmd) says she wants all the MS to look over and arrange again - would you send it to her. Her direction is Bonchurch, Isle of Wight
 
 Yours sincerely
 C M Yonge

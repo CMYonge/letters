@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Ascension Day [14 May 1863]  
-**Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/7
+**Manuscript:** MS location unknown. Photocopies lent by Barbara Dennis: Maggie/7[^1]
 :::
 
 My dear [Maggie](people/person_83.qmd)
@@ -38,4 +38,4 @@ CMY
 
 ---
 
-**Note:** Black-edged paper.  We have not been able to discover a reason why CMY used black-edged paper for this letter and the two following dated 3 June and  11 June.
+[^1]: Black-edged paper.  We have not been able to discover a reason why CMY used black-edged paper for this letter and the two following dated 3 June and  11 June.

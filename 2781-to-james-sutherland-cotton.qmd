@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 19th 1883  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 [Sir](people/person_2354.qmd),
@@ -44,4 +44,6 @@ C M Yonge
 
 ---
 
-**Note:** The words ‘life’ in ‘Life of Anne of Denmark’ and ‘but’ in ‘But let me observe’ are lowercased but have the first letter double-underscored as if to uppercase them—this and other marks  may have been done by the printer if the letter was published in the correspondence columns of the periodical. The letter is endorsed ‘Corresp./’ ‘Cameos of English History’ ’ James Sutherland Cotton (1847-1918) was the editor of the [*Academy*](organizations/other_246.qmd), where this letter appeared (27 October 1883), 283, in response to a review (13 October 1883), 244, of CMY's *Cameos from English History V: England and Spain*, criticizing her spelling and introduction of anecdotes.
+[^1]: The words ‘life’ in ‘Life of Anne of Denmark’ and ‘but’ in ‘But let me observe’ are lowercased but have the first letter double-underscored as if to uppercase them—this and other marks  may have been done by the printer if the letter was published in the correspondence columns of the periodical. The letter is endorsed ‘Corresp./’ ‘Cameos of English History’ ’
+
+**Note:** James Sutherland Cotton (1847-1918) was the editor of the [*Academy*](organizations/other_246.qmd), where this letter appeared (27 October 1883), 283, in response to a review (13 October 1883), 244, of CMY's *Cameos from English History V: England and Spain*, criticizing her spelling and introduction of anecdotes.

@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 6 1868  
+**Date:** March 6 1868[^1]  
 **Manuscript:** Copy outletter book British Library Add MSS.55388 (1): P.99
 :::
 
@@ -40,4 +40,4 @@ A. Macmillan
 
 ---
 
-**Note:** Although dated earlier than the previous letter from Macmillan, this letter is placed after it in the Macmillan letter book
+[^1]: Although dated earlier than the previous letter from Macmillan, this letter is placed after it in the Macmillan letter book

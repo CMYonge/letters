@@ -27,16 +27,16 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 22 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1877/ 2
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1877/ 2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
 
-I did not ask you for the purpose as you may see by my having lost your address and being obliged to send this to Cambridge to be directed on.[^1]
+I did not ask you for the purpose as you may see by my having lost your address and being obliged to send this to Cambridge to be directed on.[^2]
 
 I thought it a pity you should not at least hear of it, and at any rate the child is not black!
 
-If you think of it will you write direct to the lady.[^2]  I am going out and must finish as fast as I can
+If you think of it will you write direct to the lady.[^3]  I am going out and must finish as fast as I can
 
 yours truly
 C M Yonge

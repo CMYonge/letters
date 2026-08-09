@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 1st 1883  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.
+**Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e 86.[^1]
 :::
 
 Dear [Charles](people/person_1043.qmd),
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to ‘The Revd/ C Moor/Grimsby/ Lincolnshire’ and postmarked Winchester 1 October 1883.  Charles Moor (b. 1857/8) was the son of the Rev. John Frewen Moor, and was perhaps running a parish magazine.
+[^1]: Envelope addressed to ‘The Revd/ C Moor/Grimsby/ Lincolnshire’ and postmarked Winchester 1 October 1883.  Charles Moor (b. 1857/8) was the son of the Rev. John Frewen Moor, and was perhaps running a parish magazine.

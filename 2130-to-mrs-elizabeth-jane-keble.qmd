@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Aug 6th [1866?]  
+**Date:** Aug 6th [1866?][^1]  
 **Manuscript:** MS Lambeth Palace Library Keble Deposit 4/143
 :::
 
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Written on paper used between 1864 and 1868. It seems probable that the query related to the life of [John Keble](people/person_798.qmd).
+[^1]: Written on paper used between 1864 and 1868. It seems probable that the query related to the life of [John Keble](people/person_798.qmd).

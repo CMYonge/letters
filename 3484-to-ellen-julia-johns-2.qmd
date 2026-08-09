@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** July 9th [1867]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Charlotte Mitchell
+**Manuscript:** MS Charlotte Mitchell[^1]
 :::
 
 My dear [Mrs Johns](people/person_772.qmd),
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to Mrs Johns/ Winton House/ Winchester and postmarked Winchester 9 July 1867.
+[^1]: With envelope addressed to Mrs Johns/ Winton House/ Winchester and postmarked Winchester 9 July 1867.

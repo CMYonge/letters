@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 13th [1863]  
 **From:** Otterbourne, Winchester  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/5
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1863/5[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton SE and postmarked Winchester 13 July and London SE 15 July 1863.
+[^1]: With envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton SE and postmarked Winchester 13 July and London SE 15 July 1863.

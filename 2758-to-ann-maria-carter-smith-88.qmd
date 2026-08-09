@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 6th [1882]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1882 / 2
+**Manuscript:** MS Westcountry Studies Library, Exeter/  Yonge 1882 / 2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Miss Carter Smith/ 9 College Green/ Worcester, stamp and postmark cut out, reverse postmarked Worcester 7 September 1882.  Endorsed in ink on front of letter ‘Enclosure to be burnt 21.11.9.’
+[^1]: Envelope addressed to Miss Carter Smith/ 9 College Green/ Worcester, stamp and postmark cut out, reverse postmarked Worcester 7 September 1882.  Endorsed in ink on front of letter ‘Enclosure to be burnt 21.11.9.’

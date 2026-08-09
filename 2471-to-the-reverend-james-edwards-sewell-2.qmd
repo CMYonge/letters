@@ -27,10 +27,10 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 21st 1872 [1873?]  
 **From:** Elderfield, Otterbourne, Winchester  
-**Manuscript:** MS Girton College Cambridge, Yonge X 1
+**Manuscript:** MS Girton College Cambridge, Yonge X 1[^1]
 :::
 
-My dear [Mr Warden](people/person_1304.qmd),[^1]
+My dear [Mr Warden](people/person_1304.qmd),[^2]
 I find I cannot well leave home till the 3.30 train on Wednesday, so I hope to be at Oxford at 6.45. I hope this is not so late as to put out your dinner hour as I think it often is at 7.30. I am very glad to hear that [Mr Wither](people/person_1544.qmd) will be there
 
 Yours very sincerely

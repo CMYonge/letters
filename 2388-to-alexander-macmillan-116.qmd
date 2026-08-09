@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Sept 13th [1870]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, C0171: Box 29[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd),
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

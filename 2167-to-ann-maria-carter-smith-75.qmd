@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 8th 1867  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1867/ 1
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1867/ 1[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -38,4 +38,6 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper. William Henry Ridley, *The Holy Communion* (1854), or possibly his *Daily Service and How All Persons can Take Part in It* (1859). W. E. Scudamore, *Steps to the Altar: A Manual of Devotion for the Blessed Eucharist* (1840). [Maria Trench] *Devotions before and after Holy Communion* (1865) with a recommendatory notice signed J. K. [John Keble]. Robert Brett, *The Churchman’s Guide to Faith and Piety* (1862). Arthur Henry Dyke Acland Troyte, *Daily Steps towards Heaven, or, Practical Thoughts on the Gospel History . . . for Every Day in the Year* (1850). The High Church publishers. *The Brook by the Way: A Text and Prayer for Every Day in the Year* (London, RTS 1867) was published anonymously and is not attributed in the BL catalogue. Alice Mackenzie (b. 1823), sixth and youngest sister of the Rt. Rev. Charles Frederick Mackenzie (d. 1862), married (1861) the Reverend Charles Grubbe. Her diary and correspondence with her brother were published in 1900.
+[^1]: Black-edged paper.
+
+**Note:** William Henry Ridley, *The Holy Communion* (1854), or possibly his *Daily Service and How All Persons can Take Part in It* (1859). W. E. Scudamore, *Steps to the Altar: A Manual of Devotion for the Blessed Eucharist* (1840). [Maria Trench] *Devotions before and after Holy Communion* (1865) with a recommendatory notice signed J. K. [John Keble]. Robert Brett, *The Churchman’s Guide to Faith and Piety* (1862). Arthur Henry Dyke Acland Troyte, *Daily Steps towards Heaven, or, Practical Thoughts on the Gospel History . . . for Every Day in the Year* (1850). The High Church publishers. *The Brook by the Way: A Text and Prayer for Every Day in the Year* (London, RTS 1867) was published anonymously and is not attributed in the BL catalogue. Alice Mackenzie (b. 1823), sixth and youngest sister of the Rt. Rev. Charles Frederick Mackenzie (d. 1862), married (1861) the Reverend Charles Grubbe. Her diary and correspondence with her brother were published in 1900.

@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 24th 1863  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Charlotte Mitchell
+**Manuscript:** MS Charlotte Mitchell[^1]
 :::
 
 Sir,
 
-The [Revd Dr Littledale](people/person_885.qmd) has encouraged me to send you the book that I hope may arrive by the same mail as this letter, namely the [History of Christian names](cmy_books/cmybook_48.qmd), in the hope that you will kindly point out and correct the errors in the portion upon Cymric names, which I know are done with much greater disadvantages than those which have been elucidated by more modern authorities than I could obtain for the Welsh. It was a very presumptuous work to undertake at all, but I found that the subject was so entirely [neglected][^1] by English writers th[at I] could gain no sufficient light on it, and put forth the book at last hoping that when I had classified the subject, further assistance in correcting it might come into me from the kindness of scholars in the various branches referred to.  If you are kind enough to bestow any such corrections upon me, I shall be extremely grateful
+The [Revd Dr Littledale](people/person_885.qmd) has encouraged me to send you the book that I hope may arrive by the same mail as this letter, namely the [History of Christian names](cmy_books/cmybook_48.qmd), in the hope that you will kindly point out and correct the errors in the portion upon Cymric names, which I know are done with much greater disadvantages than those which have been elucidated by more modern authorities than I could obtain for the Welsh. It was a very presumptuous work to undertake at all, but I found that the subject was so entirely [neglected][^2] by English writers th[at I] could gain no sufficient light on it, and put forth the book at last hoping that when I had classified the subject, further assistance in correcting it might come into me from the kindness of scholars in the various branches referred to.  If you are kind enough to bestow any such corrections upon me, I shall be extremely grateful
 
 your faithful servant
 

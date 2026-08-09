@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 10th 1888  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS Special Collections, University of Virginia Library
+**Manuscript:** MS Special Collections, University of Virginia Library[^1]
 :::
 
 Dear [Madam](people/person_2398.qmd)
 Your [book](other_books/otherbook_1102.qmd) by some means reached me before your letter, and I have been longing to write and thank some one for it, but I did not know to whom to write, though I thought of [Mrs Latimer](people/person_846.qmd) as my only Baltimore correspondent
 
-I am extremely interested in it - in the life growing perfect as it reached its close, and in the terrible convulsion and break up of the happy home.  I shall when I can, make a short extract of it for the [Monthly Packet](organizations/other_52.qmd)[^1]
+I am extremely interested in it - in the life growing perfect as it reached its close, and in the terrible convulsion and break up of the happy home.  I shall when I can, make a short extract of it for the [Monthly Packet](organizations/other_52.qmd)[^2]
 
 With many thanks for what I shall always value and many friends will read your labour of love
 

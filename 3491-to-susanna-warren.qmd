@@ -24,17 +24,17 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** March 22nd [1870?]  
-**Manuscript:** MS Girton College Cambridge, Yonge XI 1
+**Date:** March 22nd [1870?][^2]  
+**Manuscript:** MS Girton College Cambridge, Yonge XI 1[^1]
 :::
 
 My dear [Miss Warren](people/person_1475.qmd)
 
 That [S P C K](organizations/other_40.qmd) is a very queerly governed thing - more like Venice than anything else I think
 
-But I should be very glad to be at work with you again! and to have your pretty [Saints day stories](other_books/otherbook_921.qmd) -[^1] 
+But I should be very glad to be at work with you again! and to have your pretty [Saints day stories](other_books/otherbook_921.qmd) -[^3] 
 
-The only doubt I have is how soon space will be manageable, as I do not see to the end of Daniel at this moment, as all the [translation](other_books/otherbook_922.qmd) is not come in, and I only know Gaussen died at the 6th chapter for which I am thankful as I by no means wanted his views upon the little Horn.[^2] I do not think it will end this year, and if not I fear you would have to wait another year. The very unequal distribution of Holy days is very troublesome in this monthly work. Or would you mind having one story in each no, so as to get them all in in two years time? If so I could begin with the Advent volume of this year. What do you think?
+The only doubt I have is how soon space will be manageable, as I do not see to the end of Daniel at this moment, as all the [translation](other_books/otherbook_922.qmd) is not come in, and I only know Gaussen died at the 6th chapter for which I am thankful as I by no means wanted his views upon the little Horn.[^4] I do not think it will end this year, and if not I fear you would have to wait another year. The very unequal distribution of Holy days is very troublesome in this monthly work. Or would you mind having one story in each no, so as to get them all in in two years time? If so I could begin with the Advent volume of this year. What do you think?
 
 In that case I think it would be better to take a story for one festival coming in the month, instead of going straight on. The Novr number could have St Andrew - December which ever you pleased and so on. 
 

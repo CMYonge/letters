@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Novr 21st 1862  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/5
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1862/5[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd),
@@ -46,4 +46,4 @@ Thank you for letting me read it
 
 ---
 
-**Note:** Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE and postmarked Winchester 21 November 1862 and London SE 22 November (year illegible).
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE and postmarked Winchester 21 November 1862 and London SE 22 November (year illegible).

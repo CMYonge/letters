@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jan 10th 1887  
 **From:** Elderfield Otterbourne Winchester.  
-**Manuscript:** MS Trinity College, Cambridge Cullum Q81
+**Manuscript:** MS Trinity College, Cambridge Cullum Q81[^1]
 :::
 
 My dear [Mrs Sumner](people/person_1381.qmd)
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** Envelope addressed to Mrs Sumner/ The Close/ Winchester and postmarked Winchester 10 January 1887.
+[^1]: Envelope addressed to Mrs Sumner/ The Close/ Winchester and postmarked Winchester 10 January 1887.

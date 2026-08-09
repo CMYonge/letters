@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [4 April 1872?]  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^1]
 :::
 
 My dear Miss Sewell,
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** An envelope, which may go with this note, is  postmarked Winchester 4 Ap 17 72, and addressed to  “Miss E M Sewell/Bonchurch/I of Wight”.  Otherwise it seems more likely that the note dates from their collaboration in 1867-8.
+[^1]: An envelope, which may go with this note, is  postmarked Winchester 4 Ap 17 72, and addressed to  “Miss E M Sewell/Bonchurch/I of Wight”.  Otherwise it seems more likely that the note dates from their collaboration in 1867-8.

@@ -25,10 +25,10 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [13 June 1879]  
-**Manuscript:** MS Bodleian Library, Oxford: Eng. lett. d. 495 f107
+**Manuscript:** MS Bodleian Library, Oxford: Eng. lett. d. 495 f107[^1]
 :::
 
-[Signora Villari](people/person_1444.qmd)’s graceful story has been safely received, and shall be commenced in January 1880[^1]
+[Signora Villari](people/person_1444.qmd)’s graceful story has been safely received, and shall be commenced in January 1880[^2]
 
 C M Yonge
 

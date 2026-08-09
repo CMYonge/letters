@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Feb 19th [1883?]  
+**Date:** Feb 19th [1883?][^1]  
 **From:** Elderfield  
 **Manuscript:** MS Charlotte Mitchell
 :::
@@ -41,4 +41,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter evidently dates after thefoundation in 1879 at the instigation of Edith Jacob, of the Society of Watchers and Workers, in which invalids dedicated themselves to pray for particular causes.  The reference to Ornsby's history of the diocese of York, published in October 1882, makes 1883 the most likely February.
+[^1]: The letter evidently dates after thefoundation in 1879 at the instigation of Edith Jacob, of the Society of Watchers and Workers, in which invalids dedicated themselves to pray for particular causes.  The reference to Ornsby's history of the diocese of York, published in October 1882, makes 1883 the most likely February.

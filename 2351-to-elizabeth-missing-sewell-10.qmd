@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Nov 5th [1869]  
 **From:** Elderfield, Otterbourne, Winchester  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171
+**Manuscript:** MS Princeton University, Parrish Collection, CO171[^1]
 :::
 
 My dear [Miss Sewell](people/person_1301.qmd),
-I shall be very glad to see you on the 2nd and hope we shall do a great deal of business together[^1]
+I shall be very glad to see you on the 2nd and hope we shall do a great deal of business together[^2]
 
 Yours sincerely
 C M Yonge

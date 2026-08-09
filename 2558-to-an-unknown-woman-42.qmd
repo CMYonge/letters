@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** July 10th 1876  
+**Date:** July 10th 1876[^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** University of Tennessee Special Collections Library
 :::
@@ -39,4 +39,4 @@ C M Yonge
 
 ---
 
-**Note:** The number is indistinct and might read 19th.
+[^1]: The number is indistinct and might read 19th.

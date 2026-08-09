@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 25th 1864  
 **From:** Elderfield Otterbourne Winchester  
-**Manuscript:** MS British Library Add MSS 54920: 15-16
+**Manuscript:** MS British Library Add MSS 54920: 15-16[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd)
 
 Herewith I send enough of the [Trial](cmy_books/cmybook_53.qmd) for the printer to proceed with at once. I have erased all the redundancies I could find, and I hope it may thus become less cumbrous - Unless there is some difficulty I suppose there is no need of sending me proofs. [Mr Parker](people/person_1144.qmd) wrote to me himself to recommend [Phelps](organizations/other_164.qmd) who printed the [History of Christian Names](cmy_books/cmybook_48.qmd) and as there were a good many letters from ancient alphabets there used, I suppose it would be best to put any future edition into his hands. For this book I have no choice
 
-I shall be much pleased if [Mrs Macmillan](people/person_941.qmd)[^1] is inclined to write me her views on the [Golden Deeds](cmy_books/cmybook_51.qmd), I am sure it is a subject on which discussion will be a great assistance.
+I shall be much pleased if [Mrs Macmillan](people/person_941.qmd)<sup>2</sup> is inclined to write me her views on the [Golden Deeds](cmy_books/cmybook_51.qmd), I am sure it is a subject on which discussion will be a great assistance.
 
 Perhaps I could procure [Mrs Blackburn](people/person_159.qmd)’s original designs for the [Little Duke](cmy_books/cmybook_20.qmd). Would you think it worth while for me to do so- ? Many of the faults in the illustrations as they appeared in the first edition were from the badness of the stone - One or two chiefly of animals were spirited and good but unfortunately the blot is the Little Duke’s face, and I am afraid this is past improvement but if you think these designs preferable to new ones, I could try if they are still to be had.
 

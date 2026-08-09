@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 30 [1897]  
 **From:** Elderfield Otterbourne  
-**Manuscript:** MS Cheltenham Ladies College 0942
+**Manuscript:** MS Cheltenham Ladies College 0942[^1]
 :::
 
 Dear [Madam](people/person_2166.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** Endorsed in another hand ‘from Miss A.H.Walker, Wokingham’, with envelope addressed to 'Mrs Walker/ Gordon Boys Home/ Woking.' postmarked 30 March 1897.
+[^1]: Endorsed in another hand ‘from Miss A.H.Walker, Wokingham’, with envelope addressed to 'Mrs Walker/ Gordon Boys Home/ Woking.' postmarked 30 March 1897.

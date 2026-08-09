@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Jany 18th 1864  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54920: 13-14
+**Manuscript:** MS British Library Add MSS 54920: 13-14[^1]
 :::
 
 Dear [Sir](people/person_939.qmd),
@@ -36,7 +36,7 @@ I found the other day that Messrs [Longman](organizations/other_153.qmd)’s del
 
 How soon do you think it would be advisable to begin printing the [Trial](cmy_books/cmybook_53.qmd)? It will finish in the [Monthly Packet](organizations/other_52.qmd) in April or May. I would make a push for its doing so in April if this were best, and in that case I suppose you would begin printing at once and I would send you the other chapters- I have an alteration or two to make in what I sent you, but this can be done in the proofs.
 
-My [brother](people/person_1624.qmd) mentioned to me the project of which you spoke to him of a little book of [Golden Deeds](cmy_books/cmybook_51.qmd),[^1] it is one that I should have much pleasure in carrying out
+My [brother](people/person_1624.qmd) mentioned to me the project of which you spoke to him of a little book of [Golden Deeds](cmy_books/cmybook_51.qmd),<sup>2</sup> it is one that I should have much pleasure in carrying out
 
 Yours faithfully
 C.M. Yonge

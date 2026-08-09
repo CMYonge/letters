@@ -43,4 +43,5 @@ Editor of Mothers in Council
 ---
 
 [^1]: The Rt. Rev. Anthony Wilson Thorold (1825–1895) was bishop of Winchester 1890-1895.
-[^2]: Isbister published *Good Words*.
+
+**Note:** Isbister published *Good Words*.

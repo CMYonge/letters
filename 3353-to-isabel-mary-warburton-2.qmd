@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [1897]  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 My mind misgives me that I did not say that I hope to come to luncheon on Wednesday
@@ -34,4 +34,4 @@ C M Yonge
 
 ---
 
-**Note:** Postcard addressed to [The Honble/ Mrs Warburton](people/person_1465.qmd)/ The Close/ Winchester.
+[^1]: Postcard addressed to [The Honble/ Mrs Warburton](people/person_1465.qmd)/ The Close/ Winchester.

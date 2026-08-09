@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** March 30th [1870]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Mrs Caroline Fairclough/24
+**Manuscript:** MS Mrs Caroline Fairclough/24[^1]
 :::
 
 My dear [Arthur](people/person_238.qmd)
-Authorities for the wars of the Roses are very scarce and bad.  I believe [Sharon Turner](other_books/otherbook_172.qmd) [^1] is the modern who has done them up best, and his notes guide to the places where he gets his authorities. I believe the best, next to the [Paston letters](other_books/otherbook_791.qmd) are Polydore Vergil, and a certain Abbot /(I think)\\ Welthamstead of St Albans who was a great Lancastrian till Queen Margaret let her wild Borderers plunder his Abbey.[^2] I believe that there are lots of documents scattered about, original letters &c.  Shakespeare went by [Hall](other_books/otherbook_793.qmd) and [Hollingshed](other_books/otherbook_792.qmd) and [Fabyan’s Chronicle](other_books/otherbook_458.qmd) which are none of them precisely history, but [Lingard](other_books/otherbook_794.qmd) and Turner tell one what is borne out. Did you ever meet with [Philippe de Commines](other_books/otherbook_795.qmd) he is deliciously quaint and his mediaeval French would delight you.
+Authorities for the wars of the Roses are very scarce and bad.  I believe [Sharon Turner](other_books/otherbook_172.qmd) [^2] is the modern who has done them up best, and his notes guide to the places where he gets his authorities. I believe the best, next to the [Paston letters](other_books/otherbook_791.qmd) are Polydore Vergil, and a certain Abbot /(I think)\\ Welthamstead of St Albans who was a great Lancastrian till Queen Margaret let her wild Borderers plunder his Abbey.[^2] I believe that there are lots of documents scattered about, original letters &c.  Shakespeare went by [Hall](other_books/otherbook_793.qmd) and [Hollingshed](other_books/otherbook_792.qmd) and [Fabyan’s Chronicle](other_books/otherbook_458.qmd) which are none of them precisely history, but [Lingard](other_books/otherbook_794.qmd) and Turner tell one what is borne out. Did you ever meet with [Philippe de Commines](other_books/otherbook_795.qmd) he is deliciously quaint and his mediaeval French would delight you.
 
 [Polly](cmy_books/cmybook_348.qmd) has been regularly squeezed out of two or three numbers of the [M Packet](organizations/other_52.qmd) -  when there are rampant contributors wanting to get in, I have to sacrifice her.  She was actually in this month, and then came a London school that had to beg now or never.
 

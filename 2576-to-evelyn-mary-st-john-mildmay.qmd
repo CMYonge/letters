@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 28th 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Charlotte Mary Yonge Society/ 1
+**Manuscript:** MS Charlotte Mary Yonge Society/ 1[^1]
 :::
 
 My dear [Miss Mildmay](people/person_996.qmd)
 
-I am much obliged for your Essex dialect, which I will put in when I can.[^1]  I am much afraid such things will soon only be fossils, and that we shall only hear new fashioned vulgarisms
+I am much obliged for your Essex dialect, which I will put in when I can.[^2]  I am much afraid such things will soon only be fossils, and that we shall only hear new fashioned vulgarisms
 
 yours truly
 C M Yonge

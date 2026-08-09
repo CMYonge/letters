@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** Feb 12th 1892  
 **From:** Elderfield  Otterbourne  Winchester  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 Dear Sir
-I should think [Miss Knapp](people/person_2110.qmd)’s story would have every chance of attention if you recommended it to [Mr Duncan](people/person_448.qmd) in person, I have always found that literary work stands on its own merits and on the actual opening for it.[^1]
+I should think [Miss Knapp](people/person_2110.qmd)’s story would have every chance of attention if you recommended it to [Mr Duncan](people/person_448.qmd) in person, I have always found that literary work stands on its own merits and on the actual opening for it.[^2]
 
 I feel quite sure no recommendation from me would be of half the use of your requesting Canon Duncan to let his reader judge of the M S. That is where the real decision lies, and this is the best time before their number of tales is filled up
 

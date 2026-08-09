@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 8th [1873]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Victoria University of Wellington, NZ
+**Manuscript:** MS Victoria University of Wellington, NZ[^1]
 :::
 
 My dear [Mrs Coleridge](people/person_348.qmd)
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** Endorsed in pencil 1873.
+[^1]: Endorsed in pencil 1873.

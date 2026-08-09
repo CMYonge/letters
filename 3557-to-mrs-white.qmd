@@ -25,14 +25,14 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** July 9th [before 1877]  
+**Date:** July 9th [before 1877][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
 
 My dear Mrs White
 
-[Miss Barnett](people/person_113.qmd)’s niece, [Emma Butler](people/person_822.qmd), who is here tells me that her Aunt is intending to write an account of your Convalescent home, so that I suppose she is only waiting for time.[^1] If she should fail, I should be very happy to have the account from yourself – or perhaps you have settled it with her – I am afraid my vote for [Earlswood](organizations/other_38.qmd) is disposed of[^2]
+[Miss Barnett](people/person_113.qmd)’s niece, [Emma Butler](people/person_822.qmd), who is here tells me that her Aunt is intending to write an account of your Convalescent home, so that I suppose she is only waiting for time.[^2] If she should fail, I should be very happy to have the account from yourself – or perhaps you have settled it with her – I am afraid my vote for [Earlswood](organizations/other_38.qmd) is disposed of[^3]
 
 Yours sincerely
 C M Yonge

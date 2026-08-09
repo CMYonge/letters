@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** April 12th [1859]  
 **From:** Otterbourn  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1859/3
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1859/3[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** This letter evidently belongs in the empty envelope catalogued as MS Westcountry Studies Library, Exeter/ Yonge 1859/4: an empty envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 12 April 1859 and London SE 13 April (year illegible).
+[^1]: This letter evidently belongs in the empty envelope catalogued as MS Westcountry Studies Library, Exeter/ Yonge 1859/4: an empty envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 12 April 1859 and London SE 13 April (year illegible).

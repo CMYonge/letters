@@ -27,14 +27,14 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 22d 1877  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS British Library Add MSS 54921: 34-35
+**Manuscript:** MS British Library Add MSS 54921: 34-35[^1]
 :::
 
 My dear [Mr Freeman](people/person_523.qmd)
 
-It is a great relief to my mind, though I am very sorry to have been so stupid and to have given you so much  trouble and I fear [Mr Macmillan](people/person_929.qmd) so much expense.[^1]
+It is a great relief to my mind, though I am very sorry to have been so stupid and to have given you so much  trouble and I fear [Mr Macmillan](people/person_929.qmd) so much expense.[^2]
 
-I suppose I am fitter to dwell on character than sum up political history. Did you write the article about the truculent pictures in the illustrated papers, I was very glad of it[^2]
+I suppose I am fitter to dwell on character than sum up political history. Did you write the article about the truculent pictures in the illustrated papers, I was very glad of it[^3]
 
 Yours sincerely
 C M Yonge

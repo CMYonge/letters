@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** April 1st 1890  
+**Date:** April 1st 1890[^1]  
 **From:** Elderfield Otterbourne Winchester  
 **Manuscript:** MS  Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 10:British Literary Misc
 :::
@@ -40,4 +40,4 @@ C M Yonge
 
 ---
 
-**Note:** The date could be read as 1896 but it must be 1890 because of the publication date of 'The Night Express'.
+[^1]: The date could be read as 1896 but it must be 1890 because of the publication date of 'The Night Express'.

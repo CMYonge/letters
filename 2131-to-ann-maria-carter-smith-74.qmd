@@ -27,11 +27,11 @@ citation:
 ::: {.letter-metadata}
 **Date:** [21 August 1866]  
 **From:** Elderfield  
-**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1866/2
+**Manuscript:** MS Westcountry Studies Library, Exeter/ Yonge 1866/2[^1]
 :::
 
 My dear [Miss Smith](people/person_263.qmd)
-Thank you for the Acrostic, but I had decided on leaving that field to the [Magazine for the Young](organizations/other_79.qmd), which always has a batch of Acrostics at Christmas.[^1] I have so often refused them on that score that I could not take these. We guessed all except the two Es, which I do not quite understand, unless it means Edward and Elizabeth - and for Idiot too we had to go to the answer.
+Thank you for the Acrostic, but I had decided on leaving that field to the [Magazine for the Young](organizations/other_79.qmd), which always has a batch of Acrostics at Christmas.[^2] I have so often refused them on that score that I could not take these. We guessed all except the two Es, which I do not quite understand, unless it means Edward and Elizabeth - and for Idiot too we had to go to the answer.
 
 yours sincerely
 C M Yonge

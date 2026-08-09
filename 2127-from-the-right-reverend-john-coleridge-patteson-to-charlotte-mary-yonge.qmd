@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** [July 1866]  
 **From:** [Bauro, now San Cristobal, Solomon Islands]  
-**Manuscript:** MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> II, 205.
+**Manuscript:** MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> II, 205.[^1]
 :::
 
 You know that [I](people/person_1155.qmd) look upon the training up of native scholars as the real hope of something being done. But it is during the immediate stage that men of the right sort would be so valuable.
@@ -40,4 +40,4 @@ My arrangements are somewhat simple; but I am very comfortable. Delicious bathes
 
 ---
 
-**Note:** The passage about Mackenzie, as far as 'It is 9 p.m.' was omitted from the 1875 revised edition.
+[^1]: The passage about Mackenzie, as far as 'It is 9 p.m.' was omitted from the 1875 revised edition.

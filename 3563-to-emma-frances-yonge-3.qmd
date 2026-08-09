@@ -24,7 +24,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Tuesday [1860-1877]  
+**Date:** Tuesday [1860-1877][^1]  
 **Manuscript:** MS  Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
 
@@ -36,4 +36,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter must date between the birth of Helen Yonge and the death of the Rev. John Yonge.
+[^1]: The letter must date between the birth of Helen Yonge and the death of the Rev. John Yonge.

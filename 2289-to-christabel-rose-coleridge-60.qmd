@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Oct 30th [1868]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS University of Edinburgh Library
+**Manuscript:** MS University of Edinburgh Library[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
@@ -48,4 +48,4 @@ C M Yonge
 
 ---
 
-**Note:** Black-edged paper.
+[^1]: Black-edged paper.

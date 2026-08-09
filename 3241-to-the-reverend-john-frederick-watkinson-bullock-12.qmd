@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Epiphany [6 January 1894?]  
+**Date:** Epiphany [6 January 1894?][^1]  
 **From:** Elderfield Otterbourne Winchester  
 **Manuscript:** MS Bodleian Library, Oxford: MS English Letters: e.174 ff 164
 :::
 
 Dear [Mr Bullock](people/person_221.qmd),
-I did not think much could be done with his times in France, as they generally did not proceed from St Denys’ foundation but I took a different line, which I hope may suit you. Only can you fill in the name of the seventh Champion of Christendom[.] I think he was of Portugal, but I cannot remember, I wish he was St Maurice of Germany, but I fear he was not[^1]
+I did not think much could be done with his times in France, as they generally did not proceed from St Denys’ foundation but I took a different line, which I hope may suit you. Only can you fill in the name of the seventh Champion of Christendom[.] I think he was of Portugal, but I cannot remember, I wish he was St Maurice of Germany, but I fear he was not[^2]
 
 Yours truly
 C M Yonge

@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** Decr 17th [1875]  
+**Date:** Decr 17th [1875][^1]  
 **From:** 'Monthly Packet'  6, Paternoster Row, London, E.C.  
 **Manuscript:** MS Princeton University, Parrish Collection C0171: Box 29
 :::
@@ -45,4 +45,4 @@ C M Yonge
 
 ---
 
-**Note:** The letter can probably be dated between the deaths of Keble’s brother, the Rev. Thomas Keble (1793-5 September 1875), and of Sir John Taylor Coleridge (1790-11 February 1876).  It is possible though that the elder Thomas Keble was still living when it was written, but the mid-1870s are still the most likely period (Keble had died in March 1866).
+[^1]: The letter can probably be dated between the deaths of Keble’s brother, the Rev. Thomas Keble (1793-5 September 1875), and of Sir John Taylor Coleridge (1790-11 February 1876).  It is possible though that the elder Thomas Keble was still living when it was written, but the mid-1870s are still the most likely period (Keble had died in March 1866).

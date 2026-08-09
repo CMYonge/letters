@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** [23 July 1873]  
-**Manuscript:** MS Charlotte Mitchell/14
+**Manuscript:** MS Charlotte Mitchell/14[^1]
 :::
 
 [To [Wilhelmina Martha James](people/person_754.qmd)]
@@ -35,4 +35,4 @@ C M Yonge
 
 ---
 
-**Note:** A printed postcard, addressed on reverse to ‘Miss W M James/ Clarghyll Hall/ Alston/ Carlisle’ and postmarked 23 July 1873.  James was a novelist, who contributed a story called 'Coin of the Realm' to the *MP* Christmas number of 1874 under her usual pseudonym 'Austin Clare'.  However, this enigmatic message does not seem to relate to that.
+[^1]: A printed postcard, addressed on reverse to ‘Miss W M James/ Clarghyll Hall/ Alston/ Carlisle’ and postmarked 23 July 1873.  James was a novelist, who contributed a story called 'Coin of the Realm' to the *MP* Christmas number of 1874 under her usual pseudonym 'Austin Clare'.  However, this enigmatic message does not seem to relate to that.

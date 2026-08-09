@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** July 10th [1867]  
-**Manuscript:** MS UCLA: collection 100: box 95
+**Manuscript:** MS UCLA: collection 100: box 95[^2]
 :::
 
 My dear [Miss Poole](people/person_1187.qmd),
@@ -40,4 +40,6 @@ Is East Brent still your permanent direction?
 
 ---
 
-**Note:** Perhaps addressed to Harriet Poole (b. 1843/4), a governess. ‘Rosa’s Dream’ was not published in *MP* under that title. Part of the letter is obscured by paper pasted on the back.
+[^2]: Part of the letter is obscured by paper pasted on the back.
+
+**Note:** Perhaps addressed to Harriet Poole (b. 1843/4), a governess. ‘Rosa’s Dream’ was not published in *MP* under that title.

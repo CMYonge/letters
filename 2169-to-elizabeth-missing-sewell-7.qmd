@@ -27,13 +27,13 @@ citation:
 ::: {.letter-metadata}
 **Date:** May 13th [1867]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Library of Congress
+**Manuscript:** MS Library of Congress[^1]
 :::
 
 My dear [Miss Sewell](people/person_1301.qmd)
-My senses have returned for thinking and writing indeed for anything but walking. It seems to me that we might settle a great deal in a June council, [Mary Coleridge](people/person_351.qmd) is to be here for a week at the beginning of the month otherwise we are quite clear. I will send you [Freeman](other_books/otherbook_482.qmd) tomorrow. It seems to me that his first seven pages, with perhaps his 4th chapter abridged would be very useful. I have his leave and [Mr Palgrave](people/person_1124.qmd)’s.[^1] I will have the introduction rewritten by the time you come. I think our critics will be puzzled whose style it is. We shall be very glad indeed to see you when you have time for a séance.
+My senses have returned for thinking and writing indeed for anything but walking. It seems to me that we might settle a great deal in a June council, [Mary Coleridge](people/person_351.qmd) is to be here for a week at the beginning of the month otherwise we are quite clear. I will send you [Freeman](other_books/otherbook_482.qmd) tomorrow. It seems to me that his first seven pages, with perhaps his 4th chapter abridged would be very useful. I have his leave and [Mr Palgrave](people/person_1124.qmd)’s.[^2] I will have the introduction rewritten by the time you come. I think our critics will be puzzled whose style it is. We shall be very glad indeed to see you when you have time for a séance.
 
-The Simeons have no [Queen Emma](people/person_485.qmd)s left but [Savage](people/person_1283.qmd) may have and I will try there.[^2] Poor [Captain Simeon](people/person_1322.qmd)lingers on but is worse every time we hear of him
+The Simeons have no [Queen Emma](people/person_485.qmd)s left but [Savage](people/person_1283.qmd) may have and I will try there.[^3] Poor [Captain Simeon](people/person_1322.qmd)lingers on but is worse every time we hear of him
 
 ---
 

@@ -25,7 +25,7 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [March 1871]  
+**Date:** [March 1871][^2]  
 **From:** Otterbourne.  
 **Manuscript:** MS location unknown.  This fragment printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 231-2.
 :::
@@ -35,4 +35,6 @@ An odd question, but can you tell me what [Edward](people/person_1013.qmd) first
 
 ---
 
-**Note:** Edith Emily Moberly (b.1839), third daughter of George Moberly. The date is implied by its position in *Dulce Domum*.
+[^2]: The date is implied by its position in *Dulce Domum*.
+
+**Note:** Edith Emily Moberly (b.1839), third daughter of George Moberly.

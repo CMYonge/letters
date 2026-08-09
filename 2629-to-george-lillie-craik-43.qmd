@@ -32,12 +32,13 @@ citation:
 
 Dear [Mr Craik](people/person_379.qmd),
 
-I am much obliged for the cheque, I feel as if I hardly deserved it after all the trouble I have given [Mr Freeman](people/person_523.qmd).[^1]
+I am much obliged for the cheque, I feel as if I hardly deserved it after all the trouble I have given [Mr Freeman](people/person_523.qmd).[^2]
 
 Yours truly
 C M Yonge
 
 ---
 
-[^1]: Perhaps the Royal Needles Hotel, Alum Bay, from which Marconi sent the first wireless transmission in 1897.
 [^2]: Catharine Elgie, wife of the curate of Otterbourne.
+
+**Note:** Perhaps the Royal Needles Hotel, Alum Bay, from which Marconi sent the first wireless transmission in 1897.

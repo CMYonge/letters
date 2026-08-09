@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** June 24th [1869]  
 **From:** Elderfield, Otterbourne, Winchester.  
-**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29
+**Manuscript:** MS Princeton University, Parrish Collection, CO171: Box 29[^1]
 :::
 
 My dear [Mrs Curteis](people/person_2034.qmd)
@@ -39,4 +39,5 @@ C M Yonge
 ---
 
 [^1]: Black-edged paper.
-[^2]: 'Mrs. Twitch' was a story, signed R. L. C., published in *MP* (June 1869) 606-12, which gave rise to a query answered in (October 1869) 415.  Two later stories, also about Mrs Twitch and presumably by the same author, were 'Pin-Baskets' (June 1875) 639-646, and 'True and Just in All My Dealings' (September 1881) 300-3.  'St. Canace's Jackdaw' was a poem, published in *MP* (August 1869) 140-1.  The other stories mentioned have not been traced.
+
+**Note:** 'Mrs. Twitch' was a story, signed R. L. C., published in *MP* (June 1869) 606-12, which gave rise to a query answered in (October 1869) 415.  Two later stories, also about Mrs Twitch and presumably by the same author, were 'Pin-Baskets' (June 1875) 639-646, and 'True and Just in All My Dealings' (September 1881) 300-3.  'St. Canace's Jackdaw' was a poem, published in *MP* (August 1869) 140-1.  The other stories mentioned have not been traced.

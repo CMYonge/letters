@@ -25,7 +25,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** May 25 th [1867]  
-**Manuscript:** MS Mrs Clare Roels
+**Manuscript:** MS Mrs Clare Roels[^1]
 :::
 
 My dear [Christabel](people/person_329.qmd)
@@ -35,4 +35,6 @@ Tell [Edith](people/person_331.qmd) that an [East Grinstead](organizations/other
 
 ---
 
-**Note:** Black-edged paper. Christabel Coleridge had taken over supervision of the distribution of the *Barnacle* from CMY who is warning her of some of the problems in getting the members of the [Gosling Society](organizations/other_104.qmd) to pass it from one to another.
+[^1]: Black-edged paper.
+
+**Note:** Christabel Coleridge had taken over supervision of the distribution of the *Barnacle* from CMY who is warning her of some of the problems in getting the members of the [Gosling Society](organizations/other_104.qmd) to pass it from one to another.

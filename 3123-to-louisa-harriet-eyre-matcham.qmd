@@ -27,7 +27,7 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 2nd1858  
 **From:** Otterbourne, Winchester.  
-**Manuscript:** MS John Purvis
+**Manuscript:** MS John Purvis[^1]
 :::
 
 Dear [Miss Matcham](people/person_982.qmd)
@@ -38,4 +38,4 @@ C M Yonge
 
 ---
 
-**Note:** With envelope addressed to 'Miss Matcham/ New House/ Salisbury' and postmarked Winchester 2 December 1858.
+[^1]: With envelope addressed to 'Miss Matcham/ New House/ Salisbury' and postmarked Winchester 2 December 1858.

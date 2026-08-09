@@ -25,13 +25,13 @@ citation:
 ---
 
 ::: {.letter-metadata}
-**Date:** [April? 1869]  
+**Date:** [April? 1869][^1]  
 **From:** Elderfield, Otterbourne, Winchester.  
 **Manuscript:** MS Harry Ransom Humanities Research Center, University of Texas, Austin
 :::
 
 My dear [[name erased](people/person_1301.qmd)]
-I am sending you [Keightley](other_books/otherbook_212.qmd) by this post, I must ask Macmillan to send you Pearson as I have only got a [Mudie](organizations/other_137.qmd)’s copy here –[^1] I think I shall go to [Brighstone](organizations/other_140.qmd) in Whitsunweek, when I would try to get to Bonchurch to see you
+I am sending you [Keightley](other_books/otherbook_212.qmd) by this post, I must ask Macmillan to send you Pearson as I have only got a [Mudie](organizations/other_137.qmd)’s copy here –[^2] I think I shall go to [Brighstone](organizations/other_140.qmd) in Whitsunweek, when I would try to get to Bonchurch to see you
 
 Yours sincerely
 C M Yonge

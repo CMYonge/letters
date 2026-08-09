@@ -26,7 +26,7 @@ citation:
 
 ::: {.letter-metadata}
 **Date:** Jany 17th [1867]  
-**From:** [Elderfield, Otterbourne, Winchester.]  
+**From:** [Elderfield, Otterbourne, Winchester.][^1]  
 **Manuscript:** MS British Library Add MSS 54920: 172-173
 :::
 
@@ -42,4 +42,4 @@ C M Yonge
 
 ---
 
-**Note:** The printed address has been cut out of the MS.
+[^1]: The printed address has been cut out of the MS.

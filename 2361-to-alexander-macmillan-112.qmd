@@ -27,17 +27,17 @@ citation:
 ::: {.letter-metadata}
 **Date:** Decr 17th [1869]  
 **From:** Elderfield  
-**Manuscript:** MS British Library Add MSS 54920: 236-7
+**Manuscript:** MS British Library Add MSS 54920: 236-7[^1]
 :::
 
 Dear [Mr Macmillan](people/person_939.qmd),
-[Miss Sewell](people/person_1301.qmd) and I think that it would be worth while to go on at our own expense rather than suffer the scheme to drop - since completeness is the thing it really wants to make it useful and popular. But we are inclined to try whether the Clarendon press would take it, and shall make that attempt before trying our own resources.[^1]
+[Miss Sewell](people/person_1301.qmd) and I think that it would be worth while to go on at our own expense rather than suffer the scheme to drop - since completeness is the thing it really wants to make it useful and popular. But we are inclined to try whether the Clarendon press would take it, and shall make that attempt before trying our own resources.[^2]
 
 Herewith I send the [Cameos](cmy_books/cmybook_93.qmd) - there are four or five more in MS which have not yet been in the [Packet](organizations/other_52.qmd), and which bring it down to Bosworth. I hope it is enough to make up a volume, for there is no such good halting place through the whole Tudor time
 
-The [translator](people/person_1624.qmd) is much obliged for the answer about the [Old Pear Tree](other_books/otherbook_84.qmd).[^2]
+The [translator](people/person_1624.qmd) is much obliged for the answer about the [Old Pear Tree](other_books/otherbook_84.qmd).[^3]
 
-I have proposed the name of 'From East to West' for the Modern Missionaries to [Miss Martin](people/person_971.qmd).[^3] I really shall begin with India, and then go Westwards going country by country instead of chronology
+I have proposed the name of 'From East to West' for the Modern Missionaries to [Miss Martin](people/person_971.qmd).[^4] I really shall begin with India, and then go Westwards going country by country instead of chronology
 
 Yours sincerely
 C M Yonge

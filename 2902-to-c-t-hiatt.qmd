@@ -27,12 +27,12 @@ citation:
 ::: {.letter-metadata}
 **Date:** Febry 21st 1889  
 **From:** Elderfield  Otterbourne  
-**Manuscript:** MS Princeton University, Parrish Collection
+**Manuscript:** MS Princeton University, Parrish Collection[^1]
 :::
 
 [Sir](people/person_2382.qmd)
 
-My only [paper](cmy_books/cmybook_268.qmd) in [Atalanta](organizations/other_53.qmd) is on the Life of [Mr Keble](people/person_798.qmd). Those on Novel writing are by Mr [Walter Besant](people/person_1652.qmd)[^1]
+My only [paper](cmy_books/cmybook_268.qmd) in [Atalanta](organizations/other_53.qmd) is on the Life of [Mr Keble](people/person_798.qmd). Those on Novel writing are by Mr [Walter Besant](people/person_1652.qmd)[^2]
 
 Yours truly
 C M Yonge
