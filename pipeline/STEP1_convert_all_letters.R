@@ -30,15 +30,16 @@ library(readr)
 library(stringr)
 
 ##### CONFIGURATION #####
+data_dir   <- "C:/db"
+html_dir   <- "C:/db/letters/data/html"
+output_dir <- file.path(data_dir, "all_letters_qmd_Apr26")
 
-html_dir   <- "C:/db/all_letters_html_Apr26"
-output_dir <- "C:/db/all_letters_qmd_Apr26"
-
-letterinfo <- read_csv("C:/db/wp_letterinfo.csv",
+letterinfo <- read_csv(file.path(data_dir, "wp_letterinfo.csv"),
                        show_col_types = FALSE,
                        col_types = cols(letter_date   = col_character(),
                                         letter_dbdate = col_character()))
-posts      <- read_csv("C:/db/wp_posts.csv", show_col_types = FALSE)
+posts      <- read_csv(file.path(data_dir, "wp_posts.csv"), show_col_types = FALSE)
+
 
 # Post IDs of the six decade intro pages.
 # ALL other WordPress pages (home, blog, bibliography, register, etc.) are skipped.
