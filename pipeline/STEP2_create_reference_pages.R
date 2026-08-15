@@ -8,11 +8,11 @@ library(purrr)
 
 ##### COpurrr##### CONFIGURATION #####
 
-data_dir    <- "C:/db"
+data_dir    <- "C:/db/letters/data"
 derived_dir <- "C:/db"
 
-output_dir <- "C:/db/reference_pages_qmd_Apr26"
-letter_dir <- "C:/db/all_letters_qmd_Apr26"
+output_dir <- "C:/db/reference_pages_qmd_build"
+letter_dir <- "C:/db/all_letters_qmd_qmd_build"
 
 ##### CLEAN TEXT FUNCTION #####
 

@@ -18,7 +18,7 @@ library(stringr)
 ##### CONFIGURATION #####
 
 website_dir <- "C:/db/letters"
-data_dir    <- "C:/db"
+data_dir    <- "C:/db/letters/data"
 decades_dir <- file.path(website_dir, "decades")
 
 cat("Processing decade pages...\n\n")
@@ -290,8 +290,8 @@ cat("  \u2713 Added", intro_link_added, "intro links to letters-index.qmd\n\n")
 
 cat("Fixing footnote spacing and link paths in decade QMDs...\n")
 
-cmy_bib <- read_csv("C:/db/wp_cmybibliography.csv",     show_col_types = FALSE)
-gen_bib <- read_csv("C:/db/wp_generalbibliography.csv", show_col_types = FALSE)
+cmy_bib <- read_csv(file.path(data_dir, "wp_cmybibliography.csv"),     show_col_types = FALSE)
+gen_bib <- read_csv(file.path(data_dir, "wp_generalbibliography.csv"), show_col_types = FALSE)
 
 get_cmy_title <- function(id) {
   row <- cmy_bib[cmy_bib$cmy_bookID == id, ]

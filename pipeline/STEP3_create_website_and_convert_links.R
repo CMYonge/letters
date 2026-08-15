@@ -17,11 +17,11 @@ library(stringr)
 
 ##### CONFIGURATION #####
 
-data_dir    <- "C:/db"
+data_dir    <- "C:/db/letters/data"
 derived_dir <- "C:/db"
 text_dir <- "C:/db/letters/data"   # hand-written prose, version controlled
-letter_source <- file.path(derived_dir, "all_letters_qmd_Apr26")
-ref_source    <- file.path(derived_dir, "reference_pages_qmd_Apr26")
+letter_source <- file.path(derived_dir, "letters_qmd_build")
+ref_source    <- file.path(derived_dir, "reference_pages_qmd_build")
 website_dir   <- "C:/db/letters"
 
 

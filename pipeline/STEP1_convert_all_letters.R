@@ -30,9 +30,9 @@ library(readr)
 library(stringr)
 
 ##### CONFIGURATION #####
-data_dir   <- "C:/db"
+data_dir <- "C:/db/letters/data"
 html_dir   <- "C:/db/letters/data/html"
-output_dir <- file.path(data_dir, "all_letters_qmd_Apr26")
+output_dir <- "C:/db/letters_qmd_build" #disposable build folder kept out of repo
 
 letterinfo <- read_csv(file.path(data_dir, "wp_letterinfo.csv"),
                        show_col_types = FALSE,
