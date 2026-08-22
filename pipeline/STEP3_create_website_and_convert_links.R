@@ -354,14 +354,14 @@ get_other_name <- function(id) {
 get_cmy_title <- function(id) {
   book <- cmy_bib %>% filter(cmy_bookID == id)
   if (nrow(book) == 0) return(paste("CMY Book", id))
-  title <- str_replace_all(book$title[1], "<[^>]+>", "")
+  title <- str_replace_all(book$display_title[1], "<[^>]+>", "")   # <- change here
   return(trimws(title))
 }
 
 get_gen_title <- function(id) {
   book <- gen_bib %>% filter(general_bookID == id)
   if (nrow(book) == 0) return(paste("Book", id))
-  title <- str_replace_all(book$title[1], "<[^>]+>", "")
+  title <- str_replace_all(book$title[1], "<[^>]+>", "")           # <- revert this back to title
   return(trimws(title))
 }
 
