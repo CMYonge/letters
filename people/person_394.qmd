@@ -9,4 +9,7 @@ person_id: 394
 
 King of Hanover and Duke of Cumberland
 
+## Letters Mentioning This Person
+
+- [Letter 2932](../2932-to-anne-yonge.qmd)
 

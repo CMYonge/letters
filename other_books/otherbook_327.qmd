@@ -9,4 +9,7 @@ book_id: 327
 
 **Imprint:** <i>National Review</i> (January 1861) 211-30
 
+## Letters Mentioning This Work
+
+- [Letter 1812](../1812-to-jemima-blackburn-11.qmd)
 

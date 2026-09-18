@@ -9,4 +9,7 @@ book_id: 539
 
 **Imprint:** <i>Macmillan’s Magazine</i>, 19 (February 1869): 323-339.
 
+## Letters Mentioning This Work
+
+- [Letter 2298](../2298-to-alexander-macmillan-106.qmd)
 

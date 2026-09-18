@@ -5,4 +5,8 @@ other_id: 155
 
 **Type:** topic
 
+## Letters Mentioning This
+
+- [Letter 1914](../1914-to-alexander-macmillan-5.qmd)
+- [Letter 7710](../7710-to-sir-john-taylor-coleridge.qmd)
 

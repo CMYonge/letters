@@ -9,4 +9,7 @@ person_id: 2197
 
 Vicar of Newport and Archdeacon of the Isle of Wight
 
+## Letters Mentioning This Person
+
+- [Letter 3421](../3421-to-christabel-rose-coleridge-31.qmd)
 

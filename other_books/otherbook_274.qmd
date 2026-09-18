@@ -11,4 +11,10 @@ book_id: 274
 
 **Notes:** A review of  <i>Aggesden Vicarage</i>: ‘in point of literary ability, this seems to us the best of all the imitations of Miss Yonge’.
 
+## Letters Mentioning This Work
+
+- [Letter 1778](../1778-to-ann-maria-carter-smith-27.qmd)
+- [Letter 1779](../1779-to-ann-maria-carter-smith-28.qmd)
+- [Letter 1781](../1781-to-john-william-parker-jr-8.qmd)
+- [Letter 1782](../1782-to-ann-maria-carter-smith-30.qmd)
 

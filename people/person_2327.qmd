@@ -9,4 +9,7 @@ person_id: 2327
 
 novelist
 
+## Letters Mentioning This Person
+
+- [Letter 2831](../2831-to-sophia-jane-harrison-2.qmd)
 

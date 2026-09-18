@@ -9,4 +9,7 @@ person_id: 1366
 
 recommending a nurse to Alethea (Yonge) Anderson Morshead, widow of a Winchester clergyman
 
+## Letters Mentioning This Person
+
+- [Letter 2955](../2955-to-anne-yonge-22.qmd)
 

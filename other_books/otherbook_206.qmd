@@ -9,4 +9,7 @@ book_id: 206
 
 **Imprint:** London: Hurst and Blackett
 
+## Letters Mentioning This Work
+
+- [Letter 3407](../3407-to-lady-leconfield.qmd)
 

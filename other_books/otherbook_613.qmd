@@ -9,4 +9,7 @@ book_id: 613
 
 **Imprint:** London: Bentley
 
+## Letters Mentioning This Work
+
+- [Letter 3233](../3233-to-an-unknown-man-16.qmd)
 

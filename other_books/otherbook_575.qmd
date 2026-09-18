@@ -9,4 +9,7 @@ book_id: 575
 
 **Imprint:** <i>Aunt Judy’s Magazine</i> (March 1869) 273-286
 
+## Letters Mentioning This Work
+
+- [Letter 3547](../3547-to-margaret-gatty.qmd)
 

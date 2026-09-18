@@ -9,4 +9,7 @@ person_id: 1799
 
 philanthropist
 
+## Letters Mentioning This Person
+
+- [Letter 3110](../3110-anne-yonge-to-mary-yonge.qmd)
 

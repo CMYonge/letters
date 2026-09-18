@@ -11,4 +11,7 @@ book_id: 783
 
 **Notes:** Previously serialized in Isbister's <i>Sunday Magazine</i>.
 
+## Letters Mentioning This Work
+
+- [Letter 3477](../3477-to-christabel-rose-coleridge-56.qmd)
 

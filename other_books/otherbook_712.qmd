@@ -9,4 +9,7 @@ book_id: 712
 
 **Imprint:** Paris : Nicolle
 
+## Letters Mentioning This Work
+
+- [Letter 3317](../3317-to-mary-elizabeth-wormeley-latimer.qmd)
 

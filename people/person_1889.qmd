@@ -9,4 +9,7 @@ person_id: 1889
 
 wife of Sir John Patteson and sister of Sir John Taylor Coleridge
 
+## Letters Mentioning This Person
+
+- [Letter 7798](../7798-to-sir-john-taylor-coleridge.qmd)
 

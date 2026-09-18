@@ -12,4 +12,8 @@ sort_title: "Cameos from English History: VIII. The End of the Stewarts."
 
 **Publisher:** London and New York: Macmillan and Company.
 
+## Letters Mentioning This Work
+
+- [Letter 3156](../3156-to-arthur-donald-innes-7.qmd)
+- [Letter 3316](../3316-to-frederick-orridge-macmillan-10.qmd)
 

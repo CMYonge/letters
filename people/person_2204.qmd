@@ -9,4 +9,7 @@ person_id: 2204
 
 army officer
 
+## Letters Mentioning This Person
+
+- [Letter 3435](../3435-to-mary-yonge-27.qmd)
 

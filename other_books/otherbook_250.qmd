@@ -12,4 +12,8 @@ book_id: 250
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 3077](../3077-to-anna-butler-7.qmd)
+- [Letter 19670](../19670-alexander-macmillan-to-charlotte-mary-yonge.qmd)
 

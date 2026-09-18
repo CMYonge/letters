@@ -12,7 +12,7 @@ data_dir    <- "C:/db/letters/data"
 derived_dir <- "C:/db"
 
 output_dir <- "C:/db/reference_pages_qmd_build"
-letter_dir <- "C:/db/all_letters_qmd_qmd_build"
+letter_dir <- "C:/db/letters_qmd_build"
 
 ##### CLEAN TEXT FUNCTION #####
 
@@ -97,13 +97,6 @@ cmy_bib <- cmy_bib %>%
 yaml_escape <- function(x) gsub('"', '\\"', x, fixed = TRUE)
 
 write_csv(cmy_bib, "C:/db/wp_cmybibliography_with_sort.csv")
-
-##### LOAD LINKING TABLES #####
-
-person_links <- read_csv("C:/db/wp_persons_posts.csv",            show_col_types = FALSE)
-other_links  <- read_csv("C:/db/wp_others_posts.csv",             show_col_types = FALSE)
-cmy_links    <- read_csv("C:/db/wp_cmybibliography_posts.csv",    show_col_types = FALSE)
-gen_links    <- read_csv("C:/db/wp_generalbibliography_posts.csv",show_col_types = FALSE)
 
 ##### GET LETTER IDS #####
 

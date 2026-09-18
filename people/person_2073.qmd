@@ -9,4 +9,7 @@ person_id: 2073
 
 sister of [Augusta Pode](person_1180.qmd) and [Kate Low](person_899.qmd)
 
+## Letters Mentioning This Person
+
+- [Letter 3527](../3527-to-hannah-yongef.qmd)
 

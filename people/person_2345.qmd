@@ -9,4 +9,7 @@ person_id: 2345
 
 historian
 
+## Letters Mentioning This Person
+
+- [Letter 2747](../2747-to-horatia-katharine-frances-gatty-2.qmd)
 

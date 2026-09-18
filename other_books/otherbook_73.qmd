@@ -9,4 +9,7 @@ book_id: 73
 
 **Imprint:** Salisbury: Newbery
 
+## Letters Mentioning This Work
+
+- [Letter 3069](../3069-the-reverend-john-keble-to-charlotte-mary-yonge-4.qmd)
 

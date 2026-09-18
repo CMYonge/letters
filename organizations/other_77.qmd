@@ -9,4 +9,7 @@ other_id: 77
 
 This was a children’s magazine (1871-1933).
 
+## Letters Mentioning This
+
+- [Letter 3150](../3150-to-dorothea-beale.qmd)
 

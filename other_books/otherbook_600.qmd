@@ -9,4 +9,7 @@ book_id: 600
 
 **Imprint:** London: Innes
 
+## Letters Mentioning This Work
+
+- [Letter 3408](../3408-to-mary-yonge-6.qmd)
 

@@ -9,4 +9,7 @@ book_id: 724
 
 **Imprint:** London: T. Fisher Unwin
 
+## Letters Mentioning This Work
+
+- [Letter 3336](../3336-to-edith-emma-knight.qmd)
 

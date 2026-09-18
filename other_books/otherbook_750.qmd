@@ -12,4 +12,7 @@ book_id: 750
 **Notes:** The novel was reprinted in 1899.
 
 
+## Letters Mentioning This Work
+
+- [Letter 3436](../3436-to-miss-e-m-walker-3.qmd)
 

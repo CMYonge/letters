@@ -9,4 +9,7 @@ person_id: 2366
 
 illustrator
 
+## Letters Mentioning This Person
+
+- [Letter 2842](../2842-to-mary-louisa-molesworth.qmd)
 

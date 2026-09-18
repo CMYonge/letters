@@ -9,4 +9,8 @@ person_id: 1686
 
 poet
 
+## Letters Mentioning This Person
+
+- [Letter 2986](../2986-to-elizabeth-roberts-8.qmd)
+- [Letter 3397](../3397-to-matthew-r-bigge.qmd)
 

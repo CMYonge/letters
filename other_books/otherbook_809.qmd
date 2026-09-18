@@ -15,4 +15,7 @@ book_id: 809
 
 See also [Elizabeth Sewell](../people/person_1301.qmd).
 
+## Letters Mentioning This Work
+
+- [Letter 2418](../2418-to-elizabeth-missing-sewell-19.qmd)
 

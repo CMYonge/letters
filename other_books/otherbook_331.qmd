@@ -9,4 +9,10 @@ book_id: 331
 
 **Imprint:** London: Bell and Daldy
 
+## Letters Mentioning This Work
+
+- [Letter 1878](../1878-to-ann-maria-carter-smith-55.qmd)
+- [Letter 1879](../1879-to-ann-maria-carter-smith-56.qmd)
+- [Letter 1883](../1883-to-ann-maria-carter-smith-58.qmd)
+- [Letter 1884](../1884-to-ann-maria-carter-smith-59.qmd)
 

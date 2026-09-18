@@ -9,4 +9,7 @@ book_id: 378
 
 **Imprint:** Paris: Didier
 
+## Letters Mentioning This Work
+
+- [Letter 2001](../2001-to-elizabeth-barnett-12.qmd)
 

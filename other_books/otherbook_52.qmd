@@ -9,4 +9,7 @@ book_id: 52
 
 **Imprint:** Paris: Apud Simonem Benard
 
+## Letters Mentioning This Work
+
+- [Letter 2983](../2983-to-elizabeth-roberts-5.qmd)
 

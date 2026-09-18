@@ -9,4 +9,7 @@ book_id: 345
 
 **Imprint:** <i>MP</i> (February 1860-February 1864)
 
+## Letters Mentioning This Work
+
+- [Letter 1892](../1892-to-ann-maria-carter-smith-61.qmd)
 

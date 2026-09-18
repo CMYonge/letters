@@ -9,4 +9,7 @@ book_id: 715
 
 **Imprint:** London: Smith
 
+## Letters Mentioning This Work
+
+- [Letter 3330](../3330-to-an-unknown-woman-28.qmd)
 

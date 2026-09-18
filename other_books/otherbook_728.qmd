@@ -9,4 +9,7 @@ book_id: 728
 
 **Imprint:** London: Holdsworth
 
+## Letters Mentioning This Work
+
+- [Letter 3358](../3358-to-louisa-fanny-field.qmd)
 

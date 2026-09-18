@@ -9,4 +9,8 @@ book_id: 362
 
 **Imprint:** London: Richardson
 
+## Letters Mentioning This Work
+
+- [Letter 1946](../1946-to-ann-maria-carter-smith-68.qmd)
+- [Letter 3436](../3436-to-miss-e-m-walker-3.qmd)
 

@@ -7,4 +7,7 @@ person_id: 305
 
 invited to lunch (1871)
 
+## Letters Mentioning This Person
+
+- [Letter 2404](../2404-to-mr-west.qmd)
 

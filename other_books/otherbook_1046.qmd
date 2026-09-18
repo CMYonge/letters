@@ -11,4 +11,7 @@ book_id: 1046
 
 **Notes:** Unsigned, but attributed by CMY.
 
+## Letters Mentioning This Work
+
+- [Letter 2873](../2873-to-arthur-donald-innes-19.qmd)
 

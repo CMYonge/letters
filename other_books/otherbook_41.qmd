@@ -9,4 +9,7 @@ book_id: 41
 
 **Imprint:** London, Derby: Mozley
 
+## Letters Mentioning This Work
+
+- [Letter 2960](../2960-to-mary-anne-dyson-3.qmd)
 

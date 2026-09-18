@@ -9,4 +9,7 @@ person_id: 2435
 
 U.S. missionary in Liberia
 
+## Letters Mentioning This Person
+
+- [Letter 19829](../19829-to-the-countess-of-meath.qmd)
 

@@ -11,4 +11,9 @@ book_id: 469
 
 **Notes:** Originally serialized in <i>Macmillan’s Magazine</i> from January to May 1866, and from September 1866 to October 1867.
 
+## Letters Mentioning This Work
+
+- [Letter 2133](../2133-to-alexander-macmillan-79.qmd)
+- [Letter 2153](../2153-alexander-macmillan-to-charlotte-mary-yonge-45.qmd)
+- [Letter 19598](../19598-alexander-macmillan-to-charlotte-mary-yonge.qmd)
 

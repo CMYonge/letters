@@ -9,4 +9,7 @@ book_id: 1024
 
 **Imprint:** London: National Society
 
+## Letters Mentioning This Work
+
+- [Letter 2853](../2853-to-mr-duncan-4.qmd)
 

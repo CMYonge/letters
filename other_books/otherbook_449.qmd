@@ -9,4 +9,7 @@ book_id: 449
 
 **Notes:** This series ran intermittently over this period.  Some articles, not all, are signed A. R. A., but the whole can confidently be ascribed to Ashwell on the authority of CMY's statement to Alexander Macmillan in 1866.
 
+## Letters Mentioning This Work
+
+- [Letter 2104](../2104-to-alexander-macmillan-72.qmd)
 

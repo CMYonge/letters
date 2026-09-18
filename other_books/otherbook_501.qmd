@@ -11,4 +11,7 @@ book_id: 501
 
 **Notes:** Signed D. J..  See also [Dorothea Jones](../people/person_778.qmd).
 
+## Letters Mentioning This Work
+
+- [Letter 2187](../2187-to-harriet-poole.qmd)
 

@@ -9,4 +9,8 @@ person_id: 8
 
 photographer, daughter of Sir Henry Wentworth Acland
 
+## Letters Mentioning This Person
+
+- [Letter 3210](../3210-to-sarah-angelina-acland.qmd)
+- [Letter 3420](../3420-to-christabel-rose-coleridge-26.qmd)
 

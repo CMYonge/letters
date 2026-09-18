@@ -7,4 +7,7 @@ person_id: 875
 
 letter to, 1879
 
+## Letters Mentioning This Person
+
+- [Letter 2669](../2669-to-h-w-lewisf.qmd)
 

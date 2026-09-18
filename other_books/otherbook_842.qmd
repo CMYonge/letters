@@ -9,4 +9,7 @@ book_id: 842
 
 **Imprint:** London: Souter
 
+## Letters Mentioning This Work
+
+- [Letter 2489](../2489-to-elizabeth-wordsworth-6.qmd)
 

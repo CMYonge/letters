@@ -9,4 +9,7 @@ book_id: 627
 
 **Imprint:** London: Bradbury and Evans
 
+## Letters Mentioning This Work
+
+- [Letter 3149](../3149-dorothea-beale-to-charlotte-mary-yonge.qmd)
 

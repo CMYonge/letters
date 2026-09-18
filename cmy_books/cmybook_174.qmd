@@ -12,4 +12,7 @@ sort_title: "Cameos from English History: V. England and Spain."
 
 **Publisher:** London and New York: Macmillan and Company.
 
+## Letters Mentioning This Work
+
+- [Letter 2781](../2781-to-james-sutherland-cotton.qmd)
 

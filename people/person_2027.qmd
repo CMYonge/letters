@@ -9,4 +9,7 @@ person_id: 2027
 
 Bishop of Maritzburg
 
+## Letters Mentioning This Person
+
+- [Letter 2296](../2296-to-anne-elizabeth-mary-anderson-morshead-2.qmd)
 

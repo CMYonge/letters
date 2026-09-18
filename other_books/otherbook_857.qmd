@@ -9,4 +9,7 @@ book_id: 857
 
 **Imprint:** London: macmillan
 
+## Letters Mentioning This Work
+
+- [Letter 2521](../2521-to-edward-augustus-freeman-10.qmd)
 

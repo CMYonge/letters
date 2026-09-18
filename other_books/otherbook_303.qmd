@@ -9,4 +9,7 @@ book_id: 303
 
 **Imprint:** London: Murray
 
+## Letters Mentioning This Work
+
+- [Letter 1826](../1826-to-ann-maria-carter-smith-45.qmd)
 

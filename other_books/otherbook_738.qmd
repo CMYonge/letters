@@ -11,4 +11,7 @@ book_id: 738
 
 **Notes:** London Arnold 1897
 
+## Letters Mentioning This Work
+
+- [Letter 3370](../3370-to-helena-heathcote-5.qmd)
 

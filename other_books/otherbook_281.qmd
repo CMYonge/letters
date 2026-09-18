@@ -11,4 +11,8 @@ book_id: 281
 
 **Notes:** A review of Florence Nightingale, <i>Notes on Nursing</i>.
 
+## Letters Mentioning This Work
+
+- [Letter 1791](../1791-to-anne-sturges-bourne-4.qmd)
+- [Letter 1792](../1792-to-anne-sturges-bourne-5.qmd)
 

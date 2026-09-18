@@ -9,4 +9,7 @@ other_id: 143
 
 A weekly journal published under various titles from 1817 to 1863.
 
+## Letters Mentioning This
+
+- [Letter 1783](../1783-to-john-william-parker-jr.qmd)
 

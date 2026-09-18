@@ -9,4 +9,7 @@ book_id: 183
 
 **Imprint:** Oxford: Parker and London: Rivington
 
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
 

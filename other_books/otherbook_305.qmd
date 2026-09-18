@@ -9,4 +9,7 @@ book_id: 305
 
 **Imprint:** Kelso: Ballantyne
 
+## Letters Mentioning This Work
+
+- [Letter 1828](../1828-to-susanna-warren-4.qmd)
 

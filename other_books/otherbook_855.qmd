@@ -9,4 +9,8 @@ book_id: 855
 
 **Imprint:** <i>MP</i> (November 1874), 470-480.
 
+## Letters Mentioning This Work
+
+- [Letter 2518](../2518-to-alice-weber.qmd)
+- [Letter 2570](../2570-to-christabel-rose-coleridge-85.qmd)
 

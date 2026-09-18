@@ -9,4 +9,7 @@ book_id: 133
 
 **Imprint:** London: Simpkin and Marshall
 
+## Letters Mentioning This Work
+
+- [Letter 3045](../3045-to-jemima-blackburn-4.qmd)
 

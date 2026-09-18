@@ -11,4 +11,9 @@ book_id: 536
 
 **Notes:** No 35 in Warne's Companion Library
 
+## Letters Mentioning This Work
+
+- [Letter 2288](../2288-to-the-reverend-william-john-butler-2.qmd)
+- [Letter 2289](../2289-to-christabel-rose-coleridge-60.qmd)
+- [Letter 2399](../2399-to-anne-sturges-bourne-8.qmd)
 

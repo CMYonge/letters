@@ -9,4 +9,8 @@ book_id: 558
 
 **Imprint:** Paris: Hetzel
 
+## Letters Mentioning This Work
+
+- [Letter 2326](../2326-to-arthur-john-butler.qmd)
+- [Letter 2354](../2354-to-arthur-john-butler-5.qmd)
 

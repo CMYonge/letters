@@ -9,4 +9,7 @@ book_id: 836
 
 **Imprint:** London: King
 
+## Letters Mentioning This Work
+
+- [Letter 2474](../2474-to-edward-augustus-freeman-7.qmd)
 

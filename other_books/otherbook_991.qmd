@@ -9,4 +9,7 @@ book_id: 991
 
 **Imprint:** London: SPCK
 
+## Letters Mentioning This Work
+
+- [Letter 2817](../2817-to-elizabeth-rundle-charles.qmd)
 

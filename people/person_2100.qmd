@@ -9,4 +9,7 @@ person_id: 2100
 
 founder of the PNEU
 
+## Letters Mentioning This Person
+
+- [Letter 3162](../3162-to-george-lillie-craik-8.qmd)
 

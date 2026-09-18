@@ -9,4 +9,7 @@ person_id: 2151
 
 third daughter of [Alethea Mackarness](person_923.qmd)
 
+## Letters Mentioning This Person
+
+- [Letter 3320](../3320-to-mary-yonge-16.qmd)
 

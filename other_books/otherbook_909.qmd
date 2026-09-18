@@ -11,4 +11,7 @@ book_id: 909
 
 **Notes:** This appeared in the publisher's 'Bluebell' series, alongside CMY's [<i>The Disturbing Element</i>](../cmy_books/cmybook_125.qmd).
 
+## Letters Mentioning This Work
+
+- [Letter 2648](../2648-to-christabel-rose-coleridge-98.qmd)
 

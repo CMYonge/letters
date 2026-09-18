@@ -9,4 +9,7 @@ book_id: 1096
 
 **Imprint:** Edinburgh: Edinburgh University Press
 
+## Letters Mentioning This Work
+
+- [Letter 2930](../2930-to-an-unknown-woman-67.qmd)
 

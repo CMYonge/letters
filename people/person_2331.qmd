@@ -9,4 +9,7 @@ person_id: 2331
 
 novelist, educationist
 
+## Letters Mentioning This Person
+
+- [Letter 2724](../2724-to-the-reverend-richard-st-john-tyrwhitt-2.qmd)
 

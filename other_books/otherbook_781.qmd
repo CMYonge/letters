@@ -13,4 +13,7 @@ book_id: 781
 
 http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:hcpp&rft_dat=xri:hcpp:rec:1861-037189
 
+## Letters Mentioning This Work
+
+- [Letter 14430](../14430-to-the-duke-of-newcastle-and-other-members-of-the-royal-commission-on-popular-education.qmd)
 

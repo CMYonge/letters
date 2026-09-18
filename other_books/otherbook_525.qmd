@@ -9,4 +9,7 @@ book_id: 525
 
 **Imprint:** London: Rivington
 
+## Letters Mentioning This Work
+
+- [Letter 2751](../2751-to-margaret-wilcox.qmd)
 

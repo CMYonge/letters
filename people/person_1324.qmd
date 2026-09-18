@@ -9,4 +9,7 @@ person_id: 1324
 
 second daughter of Captain Charles Simeon
 
+## Letters Mentioning This Person
+
+- [Letter 2260](../2260-to-edith-sophia-jacob-15.qmd)
 

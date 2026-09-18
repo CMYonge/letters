@@ -9,4 +9,7 @@ book_id: 506
 
 **Notes:** Attributed to Mrs Donkin on the authority of CMY's letter to her.
 
+## Letters Mentioning This Work
+
+- [Letter 2205](../2205-to-mrs-donkin.qmd)
 

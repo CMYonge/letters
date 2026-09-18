@@ -12,4 +12,10 @@ book_id: 401
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 2029](../2029-alexander-macmillan-to-charlotte-mary-yonge-27.qmd)
+- [Letter 2032](../2032-alexander-macmillan-to-charlotte-mary-yonge-28.qmd)
+- [Letter 2034](../2034-to-alexander-macmillan-44.qmd)
+- [Letter 2036](../2036-to-alexander-macmillan-45.qmd)
 

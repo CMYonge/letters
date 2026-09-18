@@ -7,4 +7,7 @@ book_id: 467
 
 **Imprint:** <i>MP</i> (February 1865-September 1866)
 
+## Letters Mentioning This Work
+
+- [Letter 2125](../2125-to-anna-maria-keary.qmd)
 

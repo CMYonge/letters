@@ -9,4 +9,7 @@ book_id: 850
 
 **Imprint:** Paris: Pichon et Didier
 
+## Letters Mentioning This Work
+
+- [Letter 2514](../2514-to-edward-augustus-freeman-9.qmd)
 

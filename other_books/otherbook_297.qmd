@@ -18,4 +18,11 @@ book_id: 297
 
 
 
+## Letters Mentioning This Work
+
+- [Letter 1815](../1815-from-frances-mary-yonge-to-anne-sturges-bourne.qmd)
+- [Letter 1816](../1816-to-elizabeth-missing-sewell-13.qmd)
+- [Letter 1817](../1817-to-anne-sturges-bourne-6.qmd)
+- [Letter 1818](../1818-to-anne-sturges-bourne-7.qmd)
+- [Letter 1824](../1824-to-ann-maria-carter-smith-44.qmd)
 

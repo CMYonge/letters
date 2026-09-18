@@ -9,4 +9,8 @@ person_id: 1877
 
 Queen consort of Great Britain, wife of Edward VII
 
+## Letters Mentioning This Person
+
+- [Letter 1886](../1886-to-henrietta-elizabeth-fursdon-8.qmd)
+- [Letter 1888](../1888-to-frances-mary-peard-5.qmd)
 

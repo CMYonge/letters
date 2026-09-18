@@ -9,4 +9,7 @@ book_id: 299
 
 **Imprint:** London and Derby: Mozley
 
+## Letters Mentioning This Work
+
+- [Letter 1818](../1818-to-anne-sturges-bourne-7.qmd)
 

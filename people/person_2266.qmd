@@ -7,4 +7,7 @@ person_id: 2266
 
 brother of [Jane](person_1345.qmd) and [Emily Dampier](person_404.qmd)
 
+## Letters Mentioning This Person
+
+- [Letter 2383](../2383-to-jane-mary-dampier-2.qmd)
 

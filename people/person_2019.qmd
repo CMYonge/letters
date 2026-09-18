@@ -9,4 +9,7 @@ person_id: 2019
 
 uncle of Edith and Gertrude Jacob
 
+## Letters Mentioning This Person
+
+- [Letter 2274](../2274-to-gertrude-louisa-legrand-jacob-2.qmd)
 

@@ -9,4 +9,7 @@ book_id: 193
 
 **Imprint:** London: Saunders and Otley
 
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
 

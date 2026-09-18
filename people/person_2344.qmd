@@ -9,4 +9,8 @@ person_id: 2344
 
 Bishop of Madagascar
 
+## Letters Mentioning This Person
+
+- [Letter 2745](../2745-to-percy-harris.qmd)
+- [Letter 2882](../2882-to-ellen-barlee.qmd)
 

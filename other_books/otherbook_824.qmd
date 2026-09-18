@@ -9,4 +9,7 @@ book_id: 824
 
 **Imprint:** London: Cassell
 
+## Letters Mentioning This Work
+
+- [Letter 2456](../2456-to-edward-augustus-freeman-5.qmd)
 

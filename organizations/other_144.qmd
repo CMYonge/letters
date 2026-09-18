@@ -9,4 +9,9 @@ other_id: 144
 
 publisher
 
+## Letters Mentioning This
+
+- [Letter 1794](../1794-to-john-william-parker-jr-11.qmd)
+- [Letter 2000](../2000-to-ann-maria-carter-smith-71.qmd)
+- [Letter 2014](../2014-to-alexander-macmillan-37.qmd)
 

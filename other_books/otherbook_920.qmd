@@ -11,4 +11,7 @@ book_id: 920
 
 **Notes:** edited by Charlotte Rogers and Mary Rogers
 
+## Letters Mentioning This Work
+
+- [Letter 2685](../2685-to-mary-rogers.qmd)
 

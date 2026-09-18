@@ -9,4 +9,7 @@ person_id: 2347
 
 curate of Whitburn
 
+## Letters Mentioning This Person
+
+- [Letter 2751](../2751-to-margaret-wilcox.qmd)
 

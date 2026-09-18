@@ -9,4 +9,7 @@ person_id: 2388
 
 Professor of Sanskrit at KCL
 
+## Letters Mentioning This Person
+
+- [Letter 2918](../2918-james-augustus-henry-murray-to-charlotte-mary-yonge.qmd)
 

@@ -9,4 +9,7 @@ book_id: 648
 
 **Imprint:** London: Rivington and Oxford: J. H. Parker
 
+## Letters Mentioning This Work
+
+- [Letter 3182](../3182-to-an-unknown-person-7.qmd)
 

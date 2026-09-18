@@ -9,4 +9,7 @@ person_id: 1879
 
 writer and translator, contributor to <i>Biographies of Good Women</i> (1862)
 
+## Letters Mentioning This Person
+
+- [Letter 1894](../1894-to-francois-pierre-guillaume-guizot-2.qmd)
 

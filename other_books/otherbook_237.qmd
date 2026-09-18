@@ -9,4 +9,7 @@ book_id: 237
 
 **Imprint:** London: Hills
 
+## Letters Mentioning This Work
+
+- [Letter 2959](../2959-to-agnes-strickland.qmd)
 

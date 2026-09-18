@@ -12,4 +12,7 @@ book_id: 1117
 **Notes:** CMY states (1900) that this was the edition she used.
 
 
+## Letters Mentioning This Work
+
+- [Letter 19000](../19000-to-john-st-loe-strachey.qmd)
 

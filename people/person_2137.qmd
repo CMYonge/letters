@@ -9,4 +9,8 @@ person_id: 2137
 
 Bishop of Salisbury
 
+## Letters Mentioning This Person
+
+- [Letter 2468](../2468-to-elizabeth-barnett-16.qmd)
+- [Letter 3268](../3268-to-the-reverend-john-frederick-watkinson-bullock-23.qmd)
 

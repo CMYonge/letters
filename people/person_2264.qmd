@@ -7,4 +7,7 @@ person_id: 2264
 
 an unidentified member of the Gosling Society
 
+## Letters Mentioning This Person
+
+- [Letter 2369](../2369-to-christabel-rose-coleridge-61.qmd)
 

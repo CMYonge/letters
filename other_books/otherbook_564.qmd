@@ -9,4 +9,7 @@ book_id: 564
 
 **Imprint:** London: Routledge
 
+## Letters Mentioning This Work
+
+- [Letter 2362](../2362-to-mary-yonge-11.qmd)
 

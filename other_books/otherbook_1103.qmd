@@ -12,4 +12,7 @@ book_id: 1103
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 18759](../18759-to-groombridge-and-sons.qmd)
 

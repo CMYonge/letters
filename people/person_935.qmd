@@ -7,4 +7,8 @@ person_id: 935
 
 sister-in-law of Anne Mackenzie
 
+## Letters Mentioning This Person
+
+- [Letter 2114](../2114-to-elizabeth-missing-sewell-14.qmd)
+- [Letter 2328](../2328-to-mary-ann-dyson-10.qmd)
 

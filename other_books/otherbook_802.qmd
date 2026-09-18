@@ -11,4 +11,8 @@ book_id: 802
 
 **Notes:** The fifth volume was completed by Henriette de Witt from her father's notes.  In 1878-9 she published a further two volumes, taking the history to 1848.
 
+## Letters Mentioning This Work
+
+- [Letter 2414](../2414-to-francois-pierre-guillaume-guizot.qmd)
+- [Letter 2612](../2612-to-elizabeth-wordsworth-11.qmd)
 

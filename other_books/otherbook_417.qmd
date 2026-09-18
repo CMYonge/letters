@@ -16,4 +16,9 @@ book_id: 417
  
 
 
+## Letters Mentioning This Work
+
+- [Letter 2059](../2059-from-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-7.qmd)
+- [Letter 2115](../2115-to-jemima-charlotte-mozley.qmd)
+- [Letter 2147](../2147-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-4.qmd)
 

@@ -9,4 +9,8 @@ other_id: 65
 
 This magazine, which ran 1859-60, was published by Saunders & Otley;  they serialized <i>Hopes and Fears</i>.
 
+## Letters Mentioning This
+
+- [Letter 1794](../1794-to-john-william-parker-jr-11.qmd)
+- [Letter 1796](../1796-to-john-william-parker-jr-12.qmd)
 

@@ -9,4 +9,8 @@ person_id: 2286
 
 journalist and historian
 
+## Letters Mentioning This Person
+
+- [Letter 2456](../2456-to-edward-augustus-freeman-5.qmd)
+- [Letter 2457](../2457-to-edward-augustus-freeman-6.qmd)
 

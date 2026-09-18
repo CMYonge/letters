@@ -9,4 +9,7 @@ book_id: 462
 
 **Imprint:** London: Smith, Elder
 
+## Letters Mentioning This Work
+
+- [Letter 2118](../2118-to-alexander-macmillan-75.qmd)
 

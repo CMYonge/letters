@@ -9,4 +9,7 @@ other_id: 168
 
 publisher
 
+## Letters Mentioning This
+
+- [Letter 1945](../1945-to-ann-maria-carter-smith-67.qmd)
 

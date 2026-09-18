@@ -9,4 +9,8 @@ book_id: 901
 
 **Imprint:** London: Longman
 
+## Letters Mentioning This Work
+
+- [Letter 2620](../2620-to-george-lillie-craik-35.qmd)
+- [Letter 2621](../2621-to-george-lillie-craik-36.qmd)
 

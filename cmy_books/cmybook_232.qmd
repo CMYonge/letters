@@ -12,4 +12,9 @@ sort_title: "Chimes for the Mothers: A Reading for Each Week in the Year."
 
 **Publisher:** London: Wells Gardner, Darton.
 
+## Letters Mentioning This Work
+
+- [Letter 3216](../3216-to-lady-frederick-bruce-3.qmd)
+- [Letter 3480](../3480-to-christabel-rose-coleridge-59.qmd)
+- [Letter 3599](../3599-to-an-unknown-woman-3.qmd)
 

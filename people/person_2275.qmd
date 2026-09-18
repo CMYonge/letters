@@ -7,4 +7,7 @@ person_id: 2275
 
 physician recommended to Gertrude Walter
 
+## Letters Mentioning This Person
+
+- [Letter 2427](../2427-to-miss-cassell.qmd)
 

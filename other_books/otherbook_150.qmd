@@ -9,4 +9,8 @@ book_id: 150
 
 **Imprint:** London: Davis
 
+## Letters Mentioning This Work
+
+- [Letter 2994](../2994-to-elizabeth-roberts-14.qmd)
+- [Letter 2998](../2998-to-elizabeth-roberts-18.qmd)
 

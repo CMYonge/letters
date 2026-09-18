@@ -9,4 +9,7 @@ book_id: 714
 
 **Imprint:** London: Longman
 
+## Letters Mentioning This Work
+
+- [Letter 3325](../3325-to-ethel-romanes.qmd)
 

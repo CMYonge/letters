@@ -9,4 +9,7 @@ person_id: 1876
 
 King of Great Britain as Edward VII
 
+## Letters Mentioning This Person
+
+- [Letter 1886](../1886-to-henrietta-elizabeth-fursdon-8.qmd)
 

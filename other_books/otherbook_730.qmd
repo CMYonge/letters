@@ -9,4 +9,7 @@ book_id: 730
 
 **Imprint:** Leipzig
 
+## Letters Mentioning This Work
+
+- [Letter 3359](../3359-to-christabel-rose-coleridge-30.qmd)
 

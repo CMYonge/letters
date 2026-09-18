@@ -9,4 +9,8 @@ book_id: 463
 
 **Imprint:** London: Hurst and Blackett
 
+## Letters Mentioning This Work
+
+- [Letter 2358](../2358-to-mary-yonge-10.qmd)
+- [Letter 2372](../2372-to-mary-yonge-36.qmd)
 

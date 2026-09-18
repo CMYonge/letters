@@ -14,4 +14,10 @@ sort_title: "Langley School."
 
 **Notes:** Twenty-seven Langley stories were published in the <i>Magazine for the Young</i> of which fifteen were reprinted in <i>Langley School.</i>
 
+## Letters Mentioning This Work
+
+- [Letter 2854](../2854-to-christabel-rose-coleridge-112.qmd)
+- [Letter 2963](../2963-to-mary-anne-dyson-4.qmd)
+- [Letter 3206](../3206-to-arthur-donald-innes.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
 

@@ -11,4 +11,7 @@ book_id: 350
 
 **Notes:** This seems likely to be 'Mr Comyns memoir' to which CMY refers.
 
+## Letters Mentioning This Work
+
+- [Letter 7798](../7798-to-sir-john-taylor-coleridge.qmd)
 

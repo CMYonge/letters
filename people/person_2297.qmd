@@ -9,4 +9,7 @@ person_id: 2297
 
 religious writer
 
+## Letters Mentioning This Person
+
+- [Letter 2506](../2506-william-francis-cowper-temple-to-charlotte-mary-yonge.qmd)
 

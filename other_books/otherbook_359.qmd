@@ -12,4 +12,7 @@ book_id: 359
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 1941](../1941-to-louisa-catherine-palmer-or-mary-anne-palmer.qmd)
 

@@ -9,4 +9,7 @@ person_id: 1585
 
 paternal grandmother of CMY
 
+## Letters Mentioning This Person
+
+- [Letter 2881](../2881-to-jean-ingelow.qmd)
 

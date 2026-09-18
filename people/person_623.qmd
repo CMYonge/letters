@@ -11,4 +11,7 @@ person_id: 623
 
 [LG 1952]
 
+## Letters Mentioning This Person
+
+- [Letter 2273](../2273-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-9.qmd)
 

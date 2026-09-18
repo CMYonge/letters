@@ -9,4 +9,7 @@ person_id: 1172
 
 French translator of <i>The Dove in the Eagles Nest</i>
 
+## Letters Mentioning This Person
+
+- [Letter 2083](../2083-to-alexander-macmillan-62.qmd)
 

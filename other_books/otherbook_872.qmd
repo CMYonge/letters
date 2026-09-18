@@ -9,4 +9,7 @@ book_id: 872
 
 **Imprint:** Oxford: Mowbray
 
+## Letters Mentioning This Work
+
+- [Letter 2547](../2547-to-mary-yonge-40.qmd)
 

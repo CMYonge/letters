@@ -20,4 +20,7 @@ sort_title: "'The American Sanitary Commission'"
 
 
 
+## Letters Mentioning This Work
+
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
 

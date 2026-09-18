@@ -9,4 +9,8 @@ person_id: 1654
 
 novelist
 
+## Letters Mentioning This Person
+
+- [Letter 2800](../2800-to-gertrude-mary-ireland-blackburnef.qmd)
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
 

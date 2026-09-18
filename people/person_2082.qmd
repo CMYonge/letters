@@ -9,4 +9,8 @@ person_id: 2082
 
 supporter of the education of women
 
+## Letters Mentioning This Person
+
+- [Letter 2624](../2624-to-the-reverend-james-edwards-sewell.qmd)
+- [Letter 3414](../3414-to-elizabeth-harcourt-mitchell.qmd)
 

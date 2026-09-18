@@ -9,4 +9,7 @@ person_id: 2103
 
 Oriel Professor of the Interpretation of Scripture at Oxford (1885-1908).
 
+## Letters Mentioning This Person
+
+- [Letter 3171](../3171-to-henrietta-a-woodgate.qmd)
 

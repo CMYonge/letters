@@ -9,4 +9,7 @@ person_id: 2412
 
 Bishop of Calcutta, 1876-1898
 
+## Letters Mentioning This Person
+
+- [Letter 19064](../19064-to-margaret-julia-argles.qmd)
 

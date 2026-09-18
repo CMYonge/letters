@@ -9,4 +9,7 @@ person_id: 1002
 
 the Elgies' governess at the time of the 1871 census
 
+## Letters Mentioning This Person
+
+- [Letter 2439](../2439-to-charlotte-cordelia-yonge.qmd)
 

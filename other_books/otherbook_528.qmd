@@ -9,4 +9,7 @@ book_id: 528
 
 **Imprint:** London:Warne
 
+## Letters Mentioning This Work
+
+- [Letter 2256](../2256-to-laura-valentine.qmd)
 

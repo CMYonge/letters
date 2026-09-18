@@ -9,4 +9,7 @@ book_id: 138
 
 **Imprint:** London: Smith, Elder
 
+## Letters Mentioning This Work
+
+- [Letter 2971](../2971-to-mary-anne-dyson-11.qmd)
 

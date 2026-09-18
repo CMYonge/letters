@@ -11,4 +11,7 @@ book_id: 674
 
 **Notes:** See also [Mary Sumner](../people/person_1381.qmd).
 
+## Letters Mentioning This Work
+
+- [Letter 3215](../3215-to-john-athelstan-laurie-riley.qmd)
 

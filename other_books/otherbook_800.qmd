@@ -9,4 +9,7 @@ book_id: 800
 
 **Imprint:** London: Rivington
 
+## Letters Mentioning This Work
+
+- [Letter 2398](../2398-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge.qmd)
 

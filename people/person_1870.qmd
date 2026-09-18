@@ -9,4 +9,7 @@ person_id: 1870
 
 schoolmistress in Otterbourne in the 1860s, with her niece Mary Adams
 
+## Letters Mentioning This Person
+
+- [Letter 1866](../1866-to-miss-grigg.qmd)
 

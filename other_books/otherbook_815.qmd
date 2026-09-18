@@ -9,4 +9,8 @@ book_id: 815
 
 **Imprint:** London: Warne
 
+## Letters Mentioning This Work
+
+- [Letter 2430](../2430-to-janetta-sewell.qmd)
+- [Letter 2574](../2574-to-hezekiah-butterworth.qmd)
 

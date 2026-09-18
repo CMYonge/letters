@@ -9,4 +9,7 @@ person_id: 2175
 
 third son of Captain [Charles Simeon](person_1322.qmd)
 
+## Letters Mentioning This Person
+
+- [Letter 3355](../3355-to-helena-heathcote-4.qmd)
 

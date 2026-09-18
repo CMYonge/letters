@@ -9,4 +9,7 @@ book_id: 363
 
 **Imprint:** London: Routledge
 
+## Letters Mentioning This Work
+
+- [Letter 1948](../1948-to-the-editors-of-a-biographical-dictionary.qmd)
 

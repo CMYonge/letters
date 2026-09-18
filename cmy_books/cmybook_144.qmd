@@ -14,4 +14,7 @@ sort_title: "How to Teach the New Testament"
 
 **Notes:** In a series of <i>Religious Manuals for Sunday and Day School Teachers.</i>
 
+## Letters Mentioning This Work
+
+- [Letter 20002](../20002-to-edith-sophia-jacob.qmd)
 

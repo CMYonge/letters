@@ -9,4 +9,7 @@ person_id: 2285
 
 hymn-writer, professor of classics at King's College, London.
 
+## Letters Mentioning This Person
+
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
 

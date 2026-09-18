@@ -9,4 +9,7 @@ book_id: 1091
 
 **Imprint:** Oxford: Oxford University Press
 
+## Letters Mentioning This Work
+
+- [Letter 2918](../2918-james-augustus-henry-murray-to-charlotte-mary-yonge.qmd)
 

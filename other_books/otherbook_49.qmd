@@ -9,4 +9,8 @@ book_id: 49
 
 **Imprint:** London: the Author
 
+## Letters Mentioning This Work
+
+- [Letter 2402](../2402-to-arthur-john-butler-12.qmd)
+- [Letter 3042](../3042-to-jemima-blackburn-3.qmd)
 

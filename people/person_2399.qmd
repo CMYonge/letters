@@ -9,4 +9,7 @@ person_id: 2399
 
 prophetess
 
+## Letters Mentioning This Person
+
+- [Letter 18775](../18775-to-frances-maria-wilbraham.qmd)
 

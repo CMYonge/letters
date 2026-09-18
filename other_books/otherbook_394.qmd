@@ -11,4 +11,7 @@ book_id: 394
 
 **Notes:** Continued by <i>Le musée royale</i>.
 
+## Letters Mentioning This Work
+
+- [Letter 2330](../2330-to-mary-ann-dyson-2.qmd)
 

@@ -9,4 +9,7 @@ book_id: 454
 
 **Imprint:** Paris: Didot
 
+## Letters Mentioning This Work
+
+- [Letter 2106](../2106-to-elizabeth-missing-sewell-6.qmd)
 

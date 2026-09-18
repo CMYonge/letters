@@ -11,4 +11,7 @@ book_id: 626
 
 **Notes:** Later editions appear as <i>Outlines of English History</i>.
 
+## Letters Mentioning This Work
+
+- [Letter 3149](../3149-dorothea-beale-to-charlotte-mary-yonge.qmd)
 

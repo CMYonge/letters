@@ -9,4 +9,7 @@ book_id: 196
 
 **Imprint:** London: Chapman and Hall
 
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
 

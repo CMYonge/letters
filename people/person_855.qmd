@@ -7,4 +7,7 @@ person_id: 855
 
 mentioned in a letter to J.F. Moor (1880)
 
+## Letters Mentioning This Person
+
+- [Letter 2707](../2707-to-the-reverend-john-frewen-moor-19.qmd)
 

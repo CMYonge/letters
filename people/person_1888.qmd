@@ -7,4 +7,7 @@ person_id: 1888
 
 involved in the design of St. Matthew, Otterbourne
 
+## Letters Mentioning This Person
+
+- [Letter 7759](../7759-to-sir-william-heathcote-bt.qmd)
 

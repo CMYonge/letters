@@ -9,4 +9,7 @@ book_id: 192
 
 **Imprint:** in <i>Tales of My Landlord</i> Edinburgh: Blackwood 1816
 
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
 

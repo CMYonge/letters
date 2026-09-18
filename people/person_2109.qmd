@@ -7,4 +7,7 @@ person_id: 2109
 
 'old fashioned goody soul'
 
+## Letters Mentioning This Person
+
+- [Letter 3190](../3190-to-christabel-rose-coleridge-29.qmd)
 

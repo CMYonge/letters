@@ -9,4 +9,7 @@ person_id: 1815
 
 wife of the Rev. John Mason Neale
 
+## Letters Mentioning This Person
+
+- [Letter 3493](../3493-the-reverend-john-mason-neale-to-charlotte-mary-yonge.qmd)
 

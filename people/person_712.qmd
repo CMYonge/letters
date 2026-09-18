@@ -9,4 +9,9 @@ person_id: 712
 
 hymnologist, Congregational minister
 
+## Letters Mentioning This Person
+
+- [Letter 2452](../2452-to-william-garrett-horder-2.qmd)
+- [Letter 2453](../2453-to-william-garrett-horder-3.qmd)
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
 

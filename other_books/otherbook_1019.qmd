@@ -9,4 +9,8 @@ book_id: 1019
 
 **Imprint:** London: Nisbet
 
+## Letters Mentioning This Work
+
+- [Letter 2843](../2843-to-john-henry-ingram.qmd)
+- [Letter 2868](../2868-to-edward-augustus-freeman-13.qmd)
 

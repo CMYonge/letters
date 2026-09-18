@@ -11,4 +11,7 @@ person_id: 2202
 
 founder of the Scout Movement
 
+## Letters Mentioning This Person
+
+- [Letter 3433](../3433-to-helena-heathcote.qmd)
 

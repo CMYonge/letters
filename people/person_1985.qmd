@@ -9,4 +9,7 @@ person_id: 1985
 
 poet
 
+## Letters Mentioning This Person
+
+- [Letter 2163](../2163-to-edith-sophia-jacob-6.qmd)
 

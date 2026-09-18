@@ -7,4 +7,7 @@ person_id: 2167
 
 Roman Catholic neighbour
 
+## Letters Mentioning This Person
+
+- [Letter 3346](../3346-to-mary-yonge-19.qmd)
 

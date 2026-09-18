@@ -9,4 +9,7 @@ person_id: 1407
 
 author of novels as Lady Charles Thynne and contributor to <i>MP</i>
 
+## Letters Mentioning This Person
+
+- [Letter 2574](../2574-to-hezekiah-butterworth.qmd)
 

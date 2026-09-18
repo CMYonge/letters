@@ -9,4 +9,7 @@ book_id: 678
 
 **Imprint:** Edinburgh: Ballantyne
 
+## Letters Mentioning This Work
+
+- [Letter 3228](../3228-to-alice-arbuthnot-moberly-11.qmd)
 

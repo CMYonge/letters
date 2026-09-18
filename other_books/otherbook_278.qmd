@@ -11,4 +11,9 @@ book_id: 278
 
 **Notes:** Originally serialised in the <i>Monthly Packet</i> (February 1860 to June 1861)
 
+## Letters Mentioning This Work
+
+- [Letter 1787](../1787-to-ann-maria-carter-smith-33.qmd)
+- [Letter 1821](../1821-to-ann-maria-carter-smith-41.qmd)
+- [Letter 2105](../2105-to-jean-ingelow-2.qmd)
 

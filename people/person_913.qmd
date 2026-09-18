@@ -11,4 +11,7 @@ person_id: 913
 
 educationist
 
+## Letters Mentioning This Person
+
+- [Letter 2550](../2550-to-mary-yonge-41.qmd)
 

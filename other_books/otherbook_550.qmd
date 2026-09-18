@@ -11,4 +11,7 @@ book_id: 550
 
 **Notes:** The Sunday Library for Household Reading, Vol.6.
 
+## Letters Mentioning This Work
+
+- [Letter 2313](../2313-to-alexander-macmillan-109.qmd)
 

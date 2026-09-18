@@ -11,4 +11,7 @@ book_id: 535
 
 **Notes:** In Macmillan's Sunday Library series
 
+## Letters Mentioning This Work
+
+- [Letter 2286](../2286-to-alexander-macmillan-104.qmd)
 

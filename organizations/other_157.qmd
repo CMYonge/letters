@@ -9,4 +9,8 @@ other_id: 157
 
 shipbuilders.  They constructed the Southern Cross.
 
+## Letters Mentioning This
+
+- [Letter 3062](../3062-to-anne-yonge-34.qmd)
+- [Letter 7727](../7727-to-sir-john-taylor-coleridge.qmd)
 

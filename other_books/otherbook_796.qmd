@@ -7,4 +7,7 @@ book_id: 796
 
 **Imprint:** <i>Cornhill</i> (3 June 1861),  708.
 
+## Letters Mentioning This Work
+
+- [Letter 7727](../7727-to-sir-john-taylor-coleridge.qmd)
 

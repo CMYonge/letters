@@ -9,4 +9,8 @@ person_id: 350
 
 poet, contributor to <i>MP</i>
 
+## Letters Mentioning This Person
+
+- [Letter 3366](../3366-to-arthur-duke-coleridge.qmd)
+- [Letter 3516](../3516-to-mary-elizabeth-coleridge.qmd)
 

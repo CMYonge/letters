@@ -9,4 +9,7 @@ book_id: 561
 
 **Imprint:** London: Hurst and Blackett
 
+## Letters Mentioning This Work
+
+- [Letter 2358](../2358-to-mary-yonge-10.qmd)
 

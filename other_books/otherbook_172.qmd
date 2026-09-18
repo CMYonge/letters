@@ -9,4 +9,8 @@ book_id: 172
 
 **Imprint:** London: Longman
 
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
+- [Letter 2956](../2956-to-anne-yonge-23.qmd)
 

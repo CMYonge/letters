@@ -9,4 +9,7 @@ book_id: 1102
 
 **Imprint:** Baltimore: Cushings & Bailey
 
+## Letters Mentioning This Work
+
+- [Letter 18751](../18751-to-susan-dabney-smedes.qmd)
 

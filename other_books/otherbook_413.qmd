@@ -11,4 +11,8 @@ book_id: 413
 
 **Notes:** This was the poem based on the story of Odin's Sacrifice in <i>A Book of Golden Deeds</i>.
 
+## Letters Mentioning This Work
+
+- [Letter 2025](../2025-to-the-reverend-w-p-warburton.qmd)
+- [Letter 2050](../2050-to-alexander-macmillan-51.qmd)
 

@@ -9,4 +9,7 @@ book_id: 854
 
 **Imprint:** London: Hatchards
 
+## Letters Mentioning This Work
+
+- [Letter 2517](../2517-to-elizabeth-wordsworth-8.qmd)
 

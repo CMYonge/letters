@@ -11,4 +11,7 @@ book_id: 671
 
 **Notes:** Published in the 'Dainty Books' series.
 
+## Letters Mentioning This Work
+
+- [Letter 3206](../3206-to-arthur-donald-innes.qmd)
 

@@ -9,4 +9,8 @@ person_id: 1977
 
 poet and visionary
 
+## Letters Mentioning This Person
+
+- [Letter 2152](../2152-to-edith-sophia-jacob-3.qmd)
+- [Letter 2155](../2155-to-edith-sophia-jacob-4.qmd)
 

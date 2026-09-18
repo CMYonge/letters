@@ -11,4 +11,7 @@ book_id: 349
 
 **Notes:** See also [Elizabeth Sewell](../people/person_1301.qmd).
 
+## Letters Mentioning This Work
+
+- [Letter 7691](../7691-to-sir-john-taylor-coleridge.qmd)
 

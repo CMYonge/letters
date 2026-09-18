@@ -11,4 +11,7 @@ book_id: 866
 
 **Notes:** See also [Allan Becher Webb](../people/person_1479.qmd).
 
+## Letters Mentioning This Work
+
+- [Letter 2535](../2535-to-the-bishop-of-bloemfontein.qmd)
 

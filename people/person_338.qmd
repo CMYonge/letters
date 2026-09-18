@@ -11,4 +11,7 @@ person_id: 338
 
 his birth
 
+## Letters Mentioning This Person
+
+- [Letter 2587](../2587-to-christabel-rose-coleridge-88.qmd)
 

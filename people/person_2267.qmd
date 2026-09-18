@@ -9,4 +9,7 @@ person_id: 2267
 
 German statesman
 
+## Letters Mentioning This Person
+
+- [Letter 2390](../2390-to-the-reverend-william-john-butler.qmd)
 

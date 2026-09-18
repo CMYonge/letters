@@ -9,4 +9,7 @@ book_id: 308
 
 **Imprint:** London:
 
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
 

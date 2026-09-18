@@ -11,4 +11,7 @@ book_id: 933
 
 **Notes:** This was an authorized translation, by Emily Augusta, Lady Durand, of Henri Lecoultre’s German biography of Amalie von Lasaulx (1815-1872).
 
+## Letters Mentioning This Work
+
+- [Letter 2722](../2722-to-miss-cleveland.qmd)
 

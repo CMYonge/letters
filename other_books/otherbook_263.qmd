@@ -9,4 +9,7 @@ book_id: 263
 
 **Imprint:** <i>MP</i> (October 1858) 441-5
 
+## Letters Mentioning This Work
+
+- [Letter 3120](../3120-to-the-reverend-upton-richards.qmd)
 

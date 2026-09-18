@@ -9,4 +9,7 @@ person_id: 2106
 
 great-niece of [Dorothy Kilner](person_2095.qmd), wife of the Ven. William Emery
 
+## Letters Mentioning This Person
+
+- [Letter 3149](../3149-dorothea-beale-to-charlotte-mary-yonge.qmd)
 

@@ -9,4 +9,7 @@ person_id: 2046
 
 Bishop of Bayeux from 1866 to his death.
 
+## Letters Mentioning This Person
+
+- [Letter 2334](../2334-to-mary-ann-dyson-10.qmd)
 

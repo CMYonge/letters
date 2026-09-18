@@ -9,4 +9,7 @@ book_id: 56
 
 **Imprint:** London: Pickering
 
+## Letters Mentioning This Work
+
+- [Letter 3060](../3060-to-anne-yonge-32.qmd)
 

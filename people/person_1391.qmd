@@ -9,4 +9,8 @@ person_id: 1391
 
 Archbishop of Canterbury
 
+## Letters Mentioning This Person
+
+- [Letter 2296](../2296-to-anne-elizabeth-mary-anderson-morshead-2.qmd)
+- [Letter 2744](../2744-to-the-reverend-william-harris-bigg-wither.qmd)
 

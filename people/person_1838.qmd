@@ -9,4 +9,7 @@ person_id: 1838
 
 Archdeacon of Waikato, New Zealand, brother of Elizabeth Lush and father of Annie Lush.
 
+## Letters Mentioning This Person
+
+- [Letter 6729](../6729-to-elizabeth-lush.qmd)
 

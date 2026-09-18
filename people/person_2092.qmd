@@ -9,4 +9,7 @@ person_id: 2092
 
 writer and educationist
 
+## Letters Mentioning This Person
+
+- [Letter 3245](../3245-to-the-reverend-john-frederick-watkinson-bullock-2.qmd)
 

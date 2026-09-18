@@ -11,4 +11,7 @@ book_id: 625
 
 **Notes:** CMY had reprinted this work in <i>[A Storehouse of Stories](../cmy_books/cmybook_83.qmd)</i> (1870).
 
+## Letters Mentioning This Work
+
+- [Letter 3148](../3148-to-dorothea-beale-2.qmd)
 

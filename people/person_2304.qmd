@@ -7,4 +7,7 @@ person_id: 2304
 
 gardener at Otterbourne House in 1876
 
+## Letters Mentioning This Person
+
+- [Letter 2554](../2554-to-mary-yonge-43.qmd)
 

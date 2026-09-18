@@ -18,4 +18,8 @@ book_id: 324
  
 
 
+## Letters Mentioning This Work
+
+- [Letter 1812](../1812-to-jemima-blackburn-11.qmd)
+- [Letter 1861](../1861-to-jemima-blackburn-10.qmd)
 

@@ -9,4 +9,7 @@ person_id: 1479
 
 Bishop of Bloemfontein (1870-1883)
 
+## Letters Mentioning This Person
+
+- [Letter 2535](../2535-to-the-bishop-of-bloemfontein.qmd)
 

@@ -7,4 +7,7 @@ person_id: 271
 
 possibly a member of the Gosling Society
 
+## Letters Mentioning This Person
+
+- [Letter 2427](../2427-to-miss-cassell.qmd)
 

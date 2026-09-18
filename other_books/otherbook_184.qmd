@@ -9,4 +9,7 @@ book_id: 184
 
 **Imprint:** Oxford: Parker and London: Rivington
 
+## Letters Mentioning This Work
+
+- [Letter 2940](../2940-to-anne-yonge-8.qmd)
 

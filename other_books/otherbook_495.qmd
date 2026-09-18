@@ -9,4 +9,7 @@ book_id: 495
 
 **Imprint:** London: Day
 
+## Letters Mentioning This Work
+
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
 

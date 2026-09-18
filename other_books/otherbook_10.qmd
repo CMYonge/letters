@@ -9,4 +9,7 @@ book_id: 10
 
 **Imprint:** Eton: Williams
 
+## Letters Mentioning This Work
+
+- [Letter 2960](../2960-to-mary-anne-dyson-3.qmd)
 

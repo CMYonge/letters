@@ -9,4 +9,8 @@ book_id: 672
 
 **Imprint:** London: Methuen
 
+## Letters Mentioning This Work
+
+- [Letter 3207](../3207-to-the-reverend-vere-awdry.qmd)
+- [Letter 3378](../3378-to-frederick-orridge-macmillan.qmd)
 

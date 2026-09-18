@@ -9,4 +9,7 @@ person_id: 1912
 
 painter
 
+## Letters Mentioning This Person
+
+- [Letter 1975](../1975-alexander-macmillan-to-charlotte-mary-yonge-13.qmd)
 

@@ -11,4 +11,7 @@ book_id: 895
 
 **Notes:** First published in German, Stuttgart 1877.
 
+## Letters Mentioning This Work
+
+- [Letter 2612](../2612-to-elizabeth-wordsworth-11.qmd)
 

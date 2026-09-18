@@ -9,4 +9,8 @@ book_id: 112
 
 **Imprint:** Oxford: Clarendon Press
 
+## Letters Mentioning This Work
+
+- [Letter 2356](../2356-to-louisa-anne-gibbs.qmd)
+- [Letter 3042](../3042-to-jemima-blackburn-3.qmd)
 

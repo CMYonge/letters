@@ -9,4 +9,7 @@ book_id: 114
 
 **Imprint:** London: Moxon
 
+## Letters Mentioning This Work
+
+- [Letter 2972](../2972-to-mary-anne-dyson-12.qmd)
 

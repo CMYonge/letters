@@ -9,4 +9,7 @@ book_id: 803
 
 **Imprint:** Paris: Hachette
 
+## Letters Mentioning This Work
+
+- [Letter 2414](../2414-to-francois-pierre-guillaume-guizot.qmd)
 

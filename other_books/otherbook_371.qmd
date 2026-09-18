@@ -9,4 +9,7 @@ book_id: 371
 
 **Imprint:** Paris
 
+## Letters Mentioning This Work
+
+- [Letter 1980](../1980-to-alexander-macmillan-22.qmd)
 

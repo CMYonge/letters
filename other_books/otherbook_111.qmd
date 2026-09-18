@@ -9,4 +9,7 @@ book_id: 111
 
 **Imprint:** London: Hall, Virtue
 
+## Letters Mentioning This Work
+
+- [Letter 3016](../3016-to-messrs-forbes-and-marshall.qmd)
 

@@ -9,4 +9,7 @@ person_id: 2332
 
 Bertha, Baroness von  expounding Friedrich Fröbel
 
+## Letters Mentioning This Person
+
+- [Letter 2724](../2724-to-the-reverend-richard-st-john-tyrwhitt-2.qmd)
 

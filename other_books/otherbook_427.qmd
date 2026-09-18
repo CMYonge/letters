@@ -9,4 +9,8 @@ book_id: 427
 
 **Imprint:** Oxford: John Henry Parker
 
+## Letters Mentioning This Work
+
+- [Letter 2081](../2081-to-susanna-warren-5.qmd)
+- [Letter 2101](../2101-to-alexander-macmillan-70.qmd)
 

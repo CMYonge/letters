@@ -9,4 +9,7 @@ person_id: 657
 
 first wife of Sir William Heathcote, daughter of Lord Arden
 
+## Letters Mentioning This Person
+
+- [Letter 2948](../2948-to-anne-yonge-15.qmd)
 

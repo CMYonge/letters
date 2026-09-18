@@ -9,4 +9,7 @@ person_id: 1937
 
 American publisher, of Daniel Appleton and Co.
 
+## Letters Mentioning This Person
+
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
 

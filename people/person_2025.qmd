@@ -7,4 +7,7 @@ person_id: 2025
 
 an unidentified aspirant member of the Gosling Society
 
+## Letters Mentioning This Person
+
+- [Letter 2294](../2294-to-christabel-rose-coleridge-19.qmd)
 

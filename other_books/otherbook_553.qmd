@@ -9,4 +9,7 @@ book_id: 553
 
 **Imprint:** Firenze: Baracchi
 
+## Letters Mentioning This Work
+
+- [Letter 2332](../2332-to-mary-anne-dyson-13-2.qmd)
 

@@ -11,4 +11,7 @@ book_id: 889
 
 **Notes:** Described as by the author of 'The Wynnes', and the preface signed A. C. D..
 
+## Letters Mentioning This Work
+
+- [Letter 2605](../2605-to-ann-maria-carter-smith-81.qmd)
 

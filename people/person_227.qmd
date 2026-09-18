@@ -9,4 +9,7 @@ person_id: 227
 
 painter and designer
 
+## Letters Mentioning This Person
+
+- [Letter 2457](../2457-to-edward-augustus-freeman-6.qmd)
 

@@ -9,4 +9,7 @@ book_id: 332
 
 **Notes:** The author was probably Mrs Louisa Stewart.
 
+## Letters Mentioning This Work
+
+- [Letter 1878](../1878-to-ann-maria-carter-smith-55.qmd)
 

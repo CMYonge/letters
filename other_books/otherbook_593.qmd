@@ -11,4 +11,7 @@ book_id: 593
 
 **Notes:** This poem is signed 'Spes'.
 
+## Letters Mentioning This Work
+
+- [Letter 3158](../3158-to-arthur-donald-innes-2.qmd)
 

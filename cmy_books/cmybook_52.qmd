@@ -12,4 +12,7 @@ sort_title: "Memoir of Bishop Mackenzie. (Author not named)"
 
 **Publisher:** <i>Christian Remembrancer</i> Vol 47. pp. 401-426
 
+## Letters Mentioning This Work
+
+- [Letter 2588](../2588-to-george-lillie-craik-28.qmd)
 

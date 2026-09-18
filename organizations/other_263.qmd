@@ -9,4 +9,7 @@ other_id: 263
 
 Publishing company.
 
+## Letters Mentioning This
+
+- [Letter 19572](../19572-alexander-macmillan-to-charlotte-mary-yonge.qmd)
 

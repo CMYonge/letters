@@ -9,4 +9,7 @@ book_id: 522
 
 **Imprint:** Paris: Le Breton
 
+## Letters Mentioning This Work
+
+- [Letter 2240](../2240-to-jane-mary-smith-dampier-2.qmd)
 

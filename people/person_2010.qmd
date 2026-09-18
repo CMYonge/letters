@@ -7,4 +7,7 @@ person_id: 2010
 
 invalid, perhaps named Margaretta
 
+## Letters Mentioning This Person
+
+- [Letter 2250](../2250-to-edith-sophia-jacob-13.qmd)
 

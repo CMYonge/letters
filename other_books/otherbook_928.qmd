@@ -9,4 +9,8 @@ book_id: 928
 
 **Imprint:** London: Macmillan
 
+## Letters Mentioning This Work
+
+- [Letter 2702](../2702-to-florence-wilford-9.qmd)
+- [Letter 2911](../2911-to-the-very-reverend-william-john-butler.qmd)
 

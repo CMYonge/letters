@@ -11,4 +11,7 @@ book_id: 794
 
 **Notes:** The publisher of the later volumes was Baldwin and Cradock.
 
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
 

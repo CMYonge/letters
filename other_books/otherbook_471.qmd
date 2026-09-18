@@ -11,4 +11,7 @@ book_id: 471
 
 **Notes:** This seems to be the earliest edition of the novel, and not, as CMY assumed, the 1853 Paris edition of J. Dagneau.
 
+## Letters Mentioning This Work
+
+- [Letter 2136](../2136-to-alexander-macmillan-80.qmd)
 

@@ -11,4 +11,7 @@ book_id: 322
 
 **Notes:** At least three English translations appeared in 1857.
 
+## Letters Mentioning This Work
+
+- [Letter 1861](../1861-to-jemima-blackburn-10.qmd)
 

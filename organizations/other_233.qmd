@@ -9,4 +9,8 @@ other_id: 233
 
 publisher
 
+## Letters Mentioning This
+
+- [Letter 2716](../2716-to-a-m-wattus.qmd)
+- [Letter 3438](../3438-to-miss-e-m-walker-4.qmd)
 

@@ -9,4 +9,7 @@ book_id: 301
 
 **Imprint:** <i>MP</i> (March 1859) 330-334
 
+## Letters Mentioning This Work
+
+- [Letter 1822](../1822-to-ann-maria-carter-smith-42.qmd)
 

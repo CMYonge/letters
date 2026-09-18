@@ -11,4 +11,7 @@ book_id: 970
 
 **Notes:** A travel book about California.
 
+## Letters Mentioning This Work
+
+- [Letter 2790](../2790-to-constance-frederica-gordon-cumming-3.qmd)
 

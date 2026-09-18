@@ -9,4 +9,7 @@ person_id: 635
 
 librarian of the London Library, 1857-1893
 
+## Letters Mentioning This Person
+
+- [Letter 3507](../3507-to-robert-harrison.qmd)
 

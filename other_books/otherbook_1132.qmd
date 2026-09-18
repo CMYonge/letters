@@ -9,4 +9,7 @@ book_id: 1132
 
 **Imprint:** London: Masters
 
+## Letters Mentioning This Work
+
+- [Letter 19674](../19674-alexander-macmillan-to-charlotte-mary-yonge.qmd)
 

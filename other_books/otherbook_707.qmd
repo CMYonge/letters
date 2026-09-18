@@ -9,4 +9,7 @@ book_id: 707
 
 **Imprint:** Edinburgh: Douglas
 
+## Letters Mentioning This Work
+
+- [Letter 3303](../3303-to-jemima-blackburn-13.qmd)
 

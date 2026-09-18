@@ -9,4 +9,7 @@ book_id: 255
 
 **Imprint:** <i>MP</i> (July 1855-December 1856)
 
+## Letters Mentioning This Work
+
+- [Letter 3086](../3086-to-anna-butler-13.qmd)
 

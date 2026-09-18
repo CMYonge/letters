@@ -9,4 +9,7 @@ book_id: 375
 
 **Imprint:** Paris: Coquebert
 
+## Letters Mentioning This Work
+
+- [Letter 1990](../1990-to-an-unknown-man-9.qmd)
 

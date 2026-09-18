@@ -9,4 +9,7 @@ book_id: 239
 
 **Imprint:** London: Newbery
 
+## Letters Mentioning This Work
+
+- [Letter 3426](../3426-to-maria-edith-walker-2-2.qmd)
 

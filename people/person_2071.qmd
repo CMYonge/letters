@@ -7,4 +7,7 @@ person_id: 2071
 
 grocer, Mayor of Winchester in 1869
 
+## Letters Mentioning This Person
+
+- [Letter 2360](../2360-to-mary-anne-dyson-20.qmd)
 

@@ -9,4 +9,7 @@ book_id: 856
 
 **Imprint:** Edinburgh: Grant
 
+## Letters Mentioning This Work
+
+- [Letter 2520](../2520-to-edith-emma-butler.qmd)
 

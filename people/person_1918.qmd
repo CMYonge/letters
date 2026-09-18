@@ -9,4 +9,7 @@ person_id: 1918
 
 German novelist and historian
 
+## Letters Mentioning This Person
+
+- [Letter 1999](../1999-to-alexander-macmillan-32.qmd)
 

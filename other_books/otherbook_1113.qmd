@@ -11,4 +11,7 @@ book_id: 1113
 
 **Notes:** A second edition, <i>Church Folk Lore . . . Revised and Greatly Enlarged</i> (London: Skeffington, 1902), includes quotation from a letter or letters from CMY.
 
+## Letters Mentioning This Work
+
+- [Letter 18948](../18948-to-the-reverend-james-edward-vaux.qmd)
 

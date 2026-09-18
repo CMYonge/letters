@@ -14,4 +14,7 @@ sort_title: "Review of John Inglesant"
 
 **Notes:** CMY refers to reviewing <i>John Inglesant</i> in <i>The Guardian</i> in a letter to Sir Walter Besant (?1899).
 
+## Letters Mentioning This Work
+
+- [Letter 3394](../3394-to-sir-walter-besant-2.qmd)
 

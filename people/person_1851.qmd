@@ -9,4 +9,8 @@ person_id: 1851
 
 composer
 
+## Letters Mentioning This Person
+
+- [Letter 1819](../1819-to-katharine-olive-helmore-2.qmd)
+- [Letter 1825](../1825-to-katharine-olive-helmore-3.qmd)
 

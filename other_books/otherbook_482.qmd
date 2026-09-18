@@ -9,4 +9,9 @@ book_id: 482
 
 **Imprint:** Oxford: Clarendon Press
 
+## Letters Mentioning This Work
+
+- [Letter 2151](../2151-to-edward-augustus-freeman.qmd)
+- [Letter 2153](../2153-alexander-macmillan-to-charlotte-mary-yonge-45.qmd)
+- [Letter 2169](../2169-to-elizabeth-missing-sewell-7.qmd)
 

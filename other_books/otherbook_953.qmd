@@ -9,4 +9,7 @@ book_id: 953
 
 **Imprint:** Sheffield: Leader
 
+## Letters Mentioning This Work
+
+- [Letter 2756](../2756-to-elizabeth-wordsworth.qmd)
 

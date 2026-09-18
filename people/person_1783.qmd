@@ -11,4 +11,7 @@ person_id: 1783
 
 politician
 
+## Letters Mentioning This Person
+
+- [Letter 3108](../3108-to-elizabeth-barnett-7.qmd)
 

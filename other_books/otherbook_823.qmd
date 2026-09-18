@@ -9,4 +9,7 @@ book_id: 823
 
 **Imprint:** London: Rivington
 
+## Letters Mentioning This Work
+
+- [Letter 2454](../2454-to-william-garrett-horder.qmd)
 

@@ -9,4 +9,8 @@ book_id: 360
 
 **Imprint:** London: Sampson Low
 
+## Letters Mentioning This Work
+
+- [Letter 1941](../1941-to-louisa-catherine-palmer-or-mary-anne-palmer.qmd)
+- [Letter 1946](../1946-to-ann-maria-carter-smith-68.qmd)
 

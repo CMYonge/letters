@@ -9,4 +9,7 @@ book_id: 965
 
 **Imprint:** London: Chatto & Windus
 
+## Letters Mentioning This Work
+
+- [Letter 2784](../2784-to-eleanor-catharine-price.qmd)
 

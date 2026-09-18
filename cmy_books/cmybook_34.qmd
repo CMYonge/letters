@@ -12,4 +12,7 @@ sort_title: "Pigeon Pie"
 
 **Publisher:** John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78, New Bond Street, London.
 
+## Letters Mentioning This Work
+
+- [Letter 3153](../3153-to-arthur-donald-innes-4.qmd)
 

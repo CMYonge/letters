@@ -9,4 +9,7 @@ book_id: 814
 
 **Imprint:** London: Miller
 
+## Letters Mentioning This Work
+
+- [Letter 2426](../2426-to-edward-augustus-freeman-3.qmd)
 

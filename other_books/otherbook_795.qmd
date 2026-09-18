@@ -9,4 +9,7 @@ book_id: 795
 
 **Imprint:** Paris: Couteau
 
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
 

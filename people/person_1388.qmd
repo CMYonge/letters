@@ -9,4 +9,8 @@ person_id: 1388
 
 perhaps a neighbour
 
+## Letters Mentioning This Person
+
+- [Letter 3417](../3417-to-mrs-swinton-2.qmd)
+- [Letter 3540](../3540-to-mrs-swinton.qmd)
 

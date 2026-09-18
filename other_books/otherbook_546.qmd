@@ -11,4 +11,7 @@ book_id: 546
 
 **Notes:** The article is probably by Miss Forrest.
 
+## Letters Mentioning This Work
+
+- [Letter 2343](../2343-to-miss-forrest.qmd)
 

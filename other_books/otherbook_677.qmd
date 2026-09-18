@@ -9,4 +9,7 @@ book_id: 677
 
 **Imprint:** London: Francis
 
+## Letters Mentioning This Work
+
+- [Letter 3224](../3224-to-mary-yonge-13.qmd)
 

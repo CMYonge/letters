@@ -14,4 +14,8 @@ book_id: 520
  
 
 
+## Letters Mentioning This Work
+
+- [Letter 2240](../2240-to-jane-mary-smith-dampier-2.qmd)
+- [Letter 3248](../3248-to-the-reverend-john-frederick-watkinson-bullock-10.qmd)
 

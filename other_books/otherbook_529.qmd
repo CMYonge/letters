@@ -11,4 +11,7 @@ book_id: 529
 
 **Notes:** This article about Mulhouse was translated by Miss North.
 
+## Letters Mentioning This Work
+
+- [Letter 2261](../2261-to-miss-north.qmd)
 

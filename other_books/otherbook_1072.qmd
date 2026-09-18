@@ -9,4 +9,7 @@ book_id: 1072
 
 **Imprint:** London: Smith and Innes
 
+## Letters Mentioning This Work
+
+- [Letter 2896](../2896-to-arthur-donald-innes-25.qmd)
 

@@ -11,4 +11,7 @@ book_id: 1045
 
 **Notes:** This was a long-running essay competition organized by Christabel Coleridge.
 
+## Letters Mentioning This Work
+
+- [Letter 2873](../2873-to-arthur-donald-innes-19.qmd)
 

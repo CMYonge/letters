@@ -9,4 +9,7 @@ person_id: 2188
 
 mother of [Blanche Gibbs](person_557.qmd), wife of Sir Thomas Crawley Boevey, 3rd Bt.
 
+## Letters Mentioning This Person
+
+- [Letter 3370](../3370-to-helena-heathcote-5.qmd)
 

@@ -11,4 +11,8 @@ book_id: 828
 
 **Notes:** This was the first volume in the 'Historical Course for Schools' series edited by Freeman.
 
+## Letters Mentioning This Work
+
+- [Letter 2457](../2457-to-edward-augustus-freeman-6.qmd)
+- [Letter 2514](../2514-to-edward-augustus-freeman-9.qmd)
 

@@ -9,4 +9,8 @@ person_id: 1064
 
 sister of Cardinal Newman and wife of John Mozley
 
+## Letters Mentioning This Person
+
+- [Letter 2115](../2115-to-jemima-charlotte-mozley.qmd)
+- [Letter 3183](../3183-to-an-unknown-person-8.qmd)
 

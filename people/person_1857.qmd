@@ -9,4 +9,7 @@ person_id: 1857
 
 philologist
 
+## Letters Mentioning This Person
+
+- [Letter 1846](../1846-to-henry-hucks-gibbs.qmd)
 

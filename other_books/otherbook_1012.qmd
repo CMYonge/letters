@@ -12,4 +12,8 @@ book_id: 1012
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 2833](../2833-to-george-lillie-craik-66.qmd)
+- [Letter 2920](../2920-to-john-henry-ingram.qmd)
 

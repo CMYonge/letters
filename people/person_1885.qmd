@@ -9,4 +9,7 @@ person_id: 1885
 
 Lord Lieutenant of the Isle of Wight and Governor of Portland Castle
 
+## Letters Mentioning This Person
+
+- [Letter 7727](../7727-to-sir-john-taylor-coleridge.qmd)
 

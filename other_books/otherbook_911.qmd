@@ -9,4 +9,7 @@ book_id: 911
 
 **Imprint:** Paris
 
+## Letters Mentioning This Work
+
+- [Letter 2650](../2650-to-miss-thompson.qmd)
 

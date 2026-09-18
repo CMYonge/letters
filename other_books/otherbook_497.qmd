@@ -11,4 +11,7 @@ book_id: 497
 
 **Notes:** The articlet is signed 'A.C.D.', Carter Smith’s usual signature.
 
+## Letters Mentioning This Work
+
+- [Letter 2177](../2177-to-ann-maria-carter-smith-76.qmd)
 

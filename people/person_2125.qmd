@@ -9,4 +9,7 @@ person_id: 2125
 
 Director of the Edinburgh Museum of Science
 
+## Letters Mentioning This Person
+
+- [Letter 3223](../3223-isabella-lucy-bishop-to-charlotte-mary-yonge.qmd)
 

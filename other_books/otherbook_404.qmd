@@ -9,4 +9,9 @@ book_id: 404
 
 **Imprint:** London: Sampson Low
 
+## Letters Mentioning This Work
+
+- [Letter 2030](../2030-to-alexander-macmillan-43.qmd)
+- [Letter 2032](../2032-alexander-macmillan-to-charlotte-mary-yonge-28.qmd)
+- [Letter 2034](../2034-to-alexander-macmillan-44.qmd)
 

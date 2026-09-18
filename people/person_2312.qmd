@@ -9,4 +9,8 @@ person_id: 2312
 
 publisher
 
+## Letters Mentioning This Person
+
+- [Letter 2614](../2614-to-george-lillie-craik-32.qmd)
+- [Letter 2615](../2615-to-george-lillie-craik-33.qmd)
 

@@ -14,4 +14,7 @@ sort_title: "Key-notes of the First Lessons for Every Day in the Year."
 
 **Notes:** An early instance of CMY allowing her name to appear, though not in the form she ultimately adopted.
 
+## Letters Mentioning This Work
+
+- [Letter 2356](../2356-to-louisa-anne-gibbs.qmd)
 

@@ -9,4 +9,8 @@ person_id: 1810
 
 novelist
 
+## Letters Mentioning This Person
+
+- [Letter 1779](../1779-to-ann-maria-carter-smith-28.qmd)
+- [Letter 3125](../3125-to-anne-sturges-bourne-3.qmd)
 

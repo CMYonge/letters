@@ -11,4 +11,7 @@ book_id: 304
 
 **Notes:** This unsigned article is attributed to Warren on the assumption that it is referred to as 'your Dragons'.
 
+## Letters Mentioning This Work
+
+- [Letter 1828](../1828-to-susanna-warren-4.qmd)
 

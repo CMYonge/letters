@@ -12,4 +12,7 @@ book_id: 288
 **Notes:** A life of Catalina Schuyler.
 
 
+## Letters Mentioning This Work
+
+- [Letter 1811](../1811-to-ann-maria-carter-smith-39.qmd)
 

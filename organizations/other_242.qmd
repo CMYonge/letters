@@ -9,4 +9,7 @@ other_id: 242
 
 publisher
 
+## Letters Mentioning This
+
+- [Letter 2532](../2532-to-christabel-rose-coleridge-81.qmd)
 

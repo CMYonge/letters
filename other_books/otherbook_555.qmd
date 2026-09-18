@@ -9,4 +9,8 @@ book_id: 555
 
 **Imprint:** London: Newbery
 
+## Letters Mentioning This Work
+
+- [Letter 2345](../2345-to-alexander-macmillan-111.qmd)
+- [Letter 3436](../3436-to-miss-e-m-walker-3.qmd)
 

@@ -9,4 +9,7 @@ person_id: 1928
 
 Director of the National Gallery
 
+## Letters Mentioning This Person
+
+- [Letter 2011](../2011-to-ellen-julia-johns-6.qmd)
 

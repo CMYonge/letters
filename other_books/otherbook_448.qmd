@@ -13,4 +13,7 @@ book_id: 448
 
  When girls joined the Scouting movement in 1914 they were first of all called Rosebuds, but the name was disliked and in 1915 Lord Baden Powell named them instead after this story at the suggestion of his sister Agnes.
 
+## Letters Mentioning This Work
+
+- [Letter 2102](../2102-to-margaret-gatty-5.qmd)
 

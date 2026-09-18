@@ -12,4 +12,10 @@ sort_title: "Eugénie de Guérin. (Author not named)"
 
 **Publisher:** <i>Christian Remembrancer</i>, Vol. 47, pp. 1-26.
 
+## Letters Mentioning This Work
+
+- [Letter 2001](../2001-to-elizabeth-barnett-12.qmd)
+- [Letter 2163](../2163-to-edith-sophia-jacob-6.qmd)
+- [Letter 2586](../2586-to-george-lillie-craik-27.qmd)
+- [Letter 2588](../2588-to-george-lillie-craik-28.qmd)
 

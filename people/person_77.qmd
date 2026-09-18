@@ -9,4 +9,7 @@ person_id: 77
 
 son of the Rev. James Edward Austen Leigh
 
+## Letters Mentioning This Person
+
+- [Letter 2436](../2436-the-rev-james-edward-austen-leigh-to-sir-william-heathcote.qmd)
 

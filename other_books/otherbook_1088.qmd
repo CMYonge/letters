@@ -9,4 +9,7 @@ book_id: 1088
 
 **Imprint:** Paris: Sautelet
 
+## Letters Mentioning This Work
+
+- [Letter 2912](../2912-to-arthur-donald-innes-26.qmd)
 

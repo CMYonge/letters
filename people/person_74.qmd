@@ -9,4 +9,7 @@ person_id: 74
 
 a friend of Anne Yonge's or their governess?
 
+## Letters Mentioning This Person
+
+- [Letter 2946](../2946-to-anne-yonge-13.qmd)
 

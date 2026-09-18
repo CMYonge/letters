@@ -38,4 +38,7 @@ sort_title: "Conchology articles"
 
 ‘Bores and Borers’ MP (August 1897) 182-8.
 
+## Letters Mentioning This Work
+
+- [Letter 3266](../3266-to-arthur-john-butler-9.qmd)
 

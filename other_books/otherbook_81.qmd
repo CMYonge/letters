@@ -9,4 +9,7 @@ book_id: 81
 
 **Imprint:** Cambridge: Buck and Daniel
 
+## Letters Mentioning This Work
+
+- [Letter 3026](../3026-to-jemima-blackburn-7.qmd)
 

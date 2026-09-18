@@ -12,4 +12,8 @@ book_id: 399
 **Notes:** It was originally serialized in <i>Macmillan's Magazine</i> (May 1865-August 1866).
 
 
+## Letters Mentioning This Work
+
+- [Letter 2028](../2028-to-alexander-macmillan-42.qmd)
+- [Letter 2084](../2084-to-alexander-macmillanm066-1865-12-08.qmd)
 

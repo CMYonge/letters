@@ -9,4 +9,7 @@ person_id: 2418
 
 Bishop of Meaux, theologian
 
+## Letters Mentioning This Person
+
+- [Letter 2336](../2336-to-frances-awdry-2.qmd)
 

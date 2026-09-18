@@ -12,4 +12,7 @@ book_id: 311
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
 

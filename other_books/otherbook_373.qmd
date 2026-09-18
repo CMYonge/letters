@@ -9,4 +9,7 @@ book_id: 373
 
 **Imprint:** London: Longman
 
+## Letters Mentioning This Work
+
+- [Letter 1990](../1990-to-an-unknown-man-9.qmd)
 

@@ -26,4 +26,8 @@ sort_title: "“Female Education.”"
 
 
 
+## Letters Mentioning This Work
+
+- [Letter 2311](../2311-to-alexander-macmillan-108.qmd)
+- [Letter 2588](../2588-to-george-lillie-craik-28.qmd)
 

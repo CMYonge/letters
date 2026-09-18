@@ -9,4 +9,7 @@ person_id: 1557
 
 brother of Robert and  William Woollcombe
 
+## Letters Mentioning This Person
+
+- [Letter 2440](../2440-to-mary-yonge-37.qmd)
 

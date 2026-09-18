@@ -9,4 +9,7 @@ book_id: 351
 
 **Imprint:** London: SPCK
 
+## Letters Mentioning This Work
+
+- [Letter 7831](../7831-to-the-reverend-edward-coleridge.qmd)
 

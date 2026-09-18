@@ -15,4 +15,7 @@ book_id: 405
 
 It may well be the work of CMY's correspondent in Philadelphia, Miss Lewis.
 
+## Letters Mentioning This Work
+
+- [Letter 2031](../2031-to-miss-cleveland-2.qmd)
 

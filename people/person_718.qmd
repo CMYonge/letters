@@ -7,4 +7,7 @@ person_id: 718
 
 letter to 1877
 
+## Letters Mentioning This Person
+
+- [Letter 2577](../2577-to-mr-hoskins.qmd)
 

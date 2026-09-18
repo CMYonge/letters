@@ -9,4 +9,7 @@ person_id: 2398
 
 author of <i>Memorials of a Southern Planter</i>
 
+## Letters Mentioning This Person
+
+- [Letter 18751](../18751-to-susan-dabney-smedes.qmd)
 

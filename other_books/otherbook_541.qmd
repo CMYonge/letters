@@ -11,4 +11,7 @@ book_id: 541
 
 **Notes:** The poem is signed 'Claribel'.
 
+## Letters Mentioning This Work
+
+- [Letter 2302](../2302-to-an-unknown-woman-16.qmd)
 

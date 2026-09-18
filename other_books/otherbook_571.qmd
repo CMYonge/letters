@@ -9,4 +9,7 @@ book_id: 571
 
 **Imprint:** London: Van Voorst
 
+## Letters Mentioning This Work
+
+- [Letter 3507](../3507-to-robert-harrison.qmd)
 

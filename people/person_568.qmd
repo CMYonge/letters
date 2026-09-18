@@ -11,4 +11,7 @@ person_id: 568
 
 colonial governor
 
+## Letters Mentioning This Person
+
+- [Letter 2775](../2775-to-lady-sophia-matilda-palmer1.qmd)
 

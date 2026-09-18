@@ -9,4 +9,7 @@ person_id: 2376
 
 Italian ambassador to Great Britain
 
+## Letters Mentioning This Person
+
+- [Letter 2870](../2870-to-elizabeth-barnett-21.qmd)
 

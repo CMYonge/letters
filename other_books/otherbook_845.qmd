@@ -9,4 +9,7 @@ book_id: 845
 
 **Imprint:** Taunton, reprinted from the <i>Proceedings of the Somersetshire Archaeological and Natural History Society</i>
 
+## Letters Mentioning This Work
+
+- [Letter 2497](../2497-to-edward-augustus-freeman-8.qmd)
 

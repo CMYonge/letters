@@ -9,4 +9,7 @@ person_id: 1969
 
 Vicar of Christ Church, Albany Street, later Canon of Rochester
 
+## Letters Mentioning This Person
+
+- [Letter 2109](../2109-to-alexander-macmillan-74.qmd)
 

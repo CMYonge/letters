@@ -9,4 +9,7 @@ book_id: 190
 
 **Imprint:** in The Girl's Own: Cultural Histories of the Anglo-American Girl 1830-1915 ed. Claudia Nelson and Lynne Vallone.  Arkansas and London: University of Georgia Press
 
+## Letters Mentioning This Work
+
+- [Letter 2009](../2009-to-ellen-julia-johns-4.qmd)
 

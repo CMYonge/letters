@@ -9,4 +9,7 @@ book_id: 392
 
 **Imprint:** London: SPCK
 
+## Letters Mentioning This Work
+
+- [Letter 2012](../2012-to-alexander-macmillan-36.qmd)
 

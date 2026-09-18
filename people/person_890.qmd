@@ -9,4 +9,7 @@ person_id: 890
 
 vicar of Eastleigh 1868-9
 
+## Letters Mentioning This Person
+
+- [Letter 2264](../2264-to-the-reverend-duke-yonge-2.qmd)
 

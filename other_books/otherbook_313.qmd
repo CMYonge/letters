@@ -11,4 +11,7 @@ book_id: 313
 
 **Notes:** The English translation is dated 1850.
 
+## Letters Mentioning This Work
+
+- [Letter 1839](../1839-to-the-reverend-henry-octavius-coxe.qmd)
 

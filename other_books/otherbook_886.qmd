@@ -9,4 +9,8 @@ book_id: 886
 
 **Imprint:** Cambridge, Mass.: Sever
 
+## Letters Mentioning This Work
+
+- [Letter 2592](../2592-to-miss-cleveland-4.qmd)
+- [Letter 2722](../2722-to-miss-cleveland.qmd)
 

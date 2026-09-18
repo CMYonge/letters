@@ -14,4 +14,9 @@ sort_title: "Storehouse of Stories"
 
 **Notes:** This was an anthology of reprinted eighteenth- and early nineteenth-century children’s stories by various hands;  a second series appeared in 1872.  The stories were ‘The History of Philip Quarll’,  ‘The Renowned History of little Goody Two-Shoes’, ‘The Governess, or, The Little Female Academy’, ‘Jemima Placid, or, The advantage of good-nature’, ‘The Life and Perambulations of a Mouse’, ‘The Village School’, ‘The Little Queen’ and ‘The History of little Jack’.
 
+## Letters Mentioning This Work
+
+- [Letter 2313](../2313-to-alexander-macmillan-109.qmd)
+- [Letter 2345](../2345-to-alexander-macmillan-111.qmd)
+- [Letter 3424](../3424-to-miss-e-m-walker.qmd)
 

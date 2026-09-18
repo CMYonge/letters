@@ -11,4 +11,8 @@ book_id: 1081
 
 **Notes:** One of the Cheap Repository Tracts.
 
+## Letters Mentioning This Work
+
+- [Letter 2908](../2908-to-edward-augustus-freeman-14.qmd)
+- [Letter 2964](../2964-to-mary-anne-dyson-5.qmd)
 

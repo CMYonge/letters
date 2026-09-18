@@ -9,4 +9,7 @@ person_id: 1997
 
 Duke of Connaught, son of Queen Victoria
 
+## Letters Mentioning This Person
+
+- [Letter 2205](../2205-to-mrs-donkin.qmd)
 

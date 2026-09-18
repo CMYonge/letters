@@ -7,4 +7,7 @@ person_id: 2425
 
 partner of A. D. Innes
 
+## Letters Mentioning This Person
+
+- [Letter 19450](../19450-to-arthur-donald-innes.qmd)
 

@@ -9,4 +9,7 @@ book_id: 916
 
 **Imprint:** Paris: Bibliothèque rose illustrée
 
+## Letters Mentioning This Work
+
+- [Letter 2665](../2665-to-henriette-elizabeth-de-witt.qmd)
 

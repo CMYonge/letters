@@ -9,4 +9,7 @@ book_id: 894
 
 **Imprint:** Boston: Hilliard
 
+## Letters Mentioning This Work
+
+- [Letter 2611](../2611-to-alexander-macmillan-129.qmd)
 

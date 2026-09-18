@@ -12,4 +12,7 @@ sort_title: "Life of H.R.H. the Prince Consort."
 
 **Publisher:** London: W. H. Allen
 
+## Letters Mentioning This Work
+
+- [Letter 2920](../2920-to-john-henry-ingram.qmd)
 

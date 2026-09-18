@@ -9,4 +9,7 @@ book_id: 739
 
 **Imprint:** London: Warne
 
+## Letters Mentioning This Work
+
+- [Letter 3371](../3371-to-beatrice-heathcote.qmd)
 

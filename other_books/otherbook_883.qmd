@@ -9,4 +9,7 @@ book_id: 883
 
 **Imprint:** London: Hurst & Blackett
 
+## Letters Mentioning This Work
+
+- [Letter 2574](../2574-to-hezekiah-butterworth.qmd)
 

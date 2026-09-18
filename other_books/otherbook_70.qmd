@@ -9,4 +9,7 @@ book_id: 70
 
 **Imprint:** London: Smith, Elder
 
+## Letters Mentioning This Work
+
+- [Letter 3109](../3109-to-frances-mary-yonge-2.qmd)
 

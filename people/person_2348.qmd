@@ -9,4 +9,7 @@ person_id: 2348
 
 civil engineer, brother of Margaret Wilcox
 
+## Letters Mentioning This Person
+
+- [Letter 2751](../2751-to-margaret-wilcox.qmd)
 

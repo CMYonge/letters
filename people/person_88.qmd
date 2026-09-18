@@ -9,4 +9,8 @@ person_id: 88
 
 companion of Maria Cristall (Florence Wilford's aunt) at St. Cross
 
+## Letters Mentioning This Person
+
+- [Letter 2203](../2203-to-margaret-helen-moberly.qmd)
+- [Letter 2399](../2399-to-anne-sturges-bourne-8.qmd)
 

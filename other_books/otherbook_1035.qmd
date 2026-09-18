@@ -9,4 +9,7 @@ book_id: 1035
 
 **Imprint:** Woking: St. Peter's
 
+## Letters Mentioning This Work
+
+- [Letter 2867](../2867-to-elizabeth-barnett-20.qmd)
 

@@ -9,4 +9,7 @@ book_id: 684
 
 **Imprint:** Leipzig
 
+## Letters Mentioning This Work
+
+- [Letter 3239](../3239-to-an-unknown-woman-18.qmd)
 

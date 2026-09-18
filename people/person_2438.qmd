@@ -9,4 +9,7 @@ person_id: 2438
 
 Rector of Kingsworthy, grandfather of the novelist Noel Streatfeild.
 
+## Letters Mentioning This Person
+
+- [Letter 19866](../19866-to-florence-horatia-nelson-suckling.qmd)
 

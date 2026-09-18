@@ -9,4 +9,7 @@ person_id: 2289
 
 Rector of Wraxall
 
+## Letters Mentioning This Person
+
+- [Letter 2468](../2468-to-elizabeth-barnett-16.qmd)
 

@@ -12,4 +12,7 @@ book_id: 333
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 1879](../1879-to-ann-maria-carter-smith-56.qmd)
 

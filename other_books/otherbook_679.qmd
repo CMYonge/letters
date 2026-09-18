@@ -9,4 +9,7 @@ book_id: 679
 
 **Imprint:** Oxford: Clarendon Press
 
+## Letters Mentioning This Work
+
+- [Letter 3229](../3229-to-mary-caroline-holbeach-2.qmd)
 

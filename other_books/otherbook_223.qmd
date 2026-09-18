@@ -9,4 +9,7 @@ book_id: 223
 
 **Imprint:** Oxford: Clarendon Press
 
+## Letters Mentioning This Work
+
+- [Letter 2969](../2969-to-mary-anne-dyson-9.qmd)
 

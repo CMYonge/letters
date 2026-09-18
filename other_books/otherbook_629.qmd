@@ -12,4 +12,7 @@ book_id: 629
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 3151](../3151-to-arthur-donald-innes-3.qmd)
 

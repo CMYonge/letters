@@ -9,4 +9,7 @@ book_id: 869
 
 **Imprint:** London: SPCK
 
+## Letters Mentioning This Work
+
+- [Letter 2539](../2539-to-the-reverend-edward-stuart-talbot.qmd)
 

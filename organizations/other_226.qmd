@@ -9,4 +9,7 @@ other_id: 226
 
 publisher
 
+## Letters Mentioning This
+
+- [Letter 3239](../3239-to-an-unknown-woman-18.qmd)
 

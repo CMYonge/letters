@@ -11,4 +11,8 @@ book_id: 354
 
 **Notes:** A translation of Jean Macé, <i>Histoire d’une bouchée de pain : lettres à une petite fille sur la vie de l’homme et des animaux</i> (1861).
 
+## Letters Mentioning This Work
+
+- [Letter 1922](../1922-to-margaret-gatty-4.qmd)
+- [Letter 2014](../2014-to-alexander-macmillan-37.qmd)
 

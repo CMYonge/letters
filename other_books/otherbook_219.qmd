@@ -9,4 +9,8 @@ book_id: 219
 
 **Notes:** It is not known which edition CMY used.
 
+## Letters Mentioning This Work
+
+- [Letter 2200](../2200-to-alexander-macmillan-92.qmd)
+- [Letter 2965](../2965-to-alice-arbuthnot-moberly-2.qmd)
 

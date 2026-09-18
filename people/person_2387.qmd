@@ -9,4 +9,7 @@ person_id: 2387
 
 translator
 
+## Letters Mentioning This Person
+
+- [Letter 2916](../2916-to-mary-yonge-53.qmd)
 

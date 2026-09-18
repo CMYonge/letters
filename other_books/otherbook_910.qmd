@@ -12,4 +12,8 @@ book_id: 910
 **Notes:** 
 
 
+## Letters Mentioning This Work
+
+- [Letter 2649](../2649-to-alexander-macmillan-132.qmd)
+- [Letter 2651](../2651-to-alexander-macmillan-133.qmd)
 

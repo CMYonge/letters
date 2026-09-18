@@ -12,4 +12,7 @@ sort_title: "Daisy Chain Birthday Book"
 
 **Publisher:** London: Walter Smith
 
+## Letters Mentioning This Work
+
+- [Letter 2795](../2795-to-george-lillie-craik-60.qmd)
 

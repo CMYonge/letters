@@ -9,4 +9,7 @@ other_id: 244
 
 An American children's magazine which ran 1827-1929
 
+## Letters Mentioning This
+
+- [Letter 2574](../2574-to-hezekiah-butterworth.qmd)
 

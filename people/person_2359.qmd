@@ -9,4 +9,7 @@ person_id: 2359
 
 novelist as 'George Eliot', also known as Marian Lewes
 
+## Letters Mentioning This Person
+
+- [Letter 2801](../2801-to-gertrude-mary-ireland-blackburne-3.qmd)
 

@@ -9,4 +9,7 @@ book_id: 368
 
 **Imprint:** St. Petersburg
 
+## Letters Mentioning This Work
+
+- [Letter 1973](../1973-to-alexander-macmillan-18.qmd)
 

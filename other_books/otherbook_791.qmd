@@ -11,4 +11,7 @@ book_id: 791
 
 **Notes:** Two more volumes were published in 1789 and another in 1823.
 
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
 

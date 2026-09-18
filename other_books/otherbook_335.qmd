@@ -9,4 +9,7 @@ book_id: 335
 
 **Imprint:** London: Parker, Son and Bourn
 
+## Letters Mentioning This Work
+
+- [Letter 1879](../1879-to-ann-maria-carter-smith-56.qmd)
 

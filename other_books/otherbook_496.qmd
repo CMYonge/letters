@@ -11,4 +11,8 @@ book_id: 496
 
 **Notes:** It acknowledges two earlier books by the same author on the same subject, but the title suggests this is the work CMY refers to.
 
+## Letters Mentioning This Work
+
+- [Letter 2174](../2174-to-alexander-macmillan-86.qmd)
+- [Letter 2175](../2175-alexander-macmillan-to-charlotte-mary-yonge-51.qmd)
 

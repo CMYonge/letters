@@ -9,4 +9,7 @@ book_id: 76
 
 **Imprint:** London: Longman and Edinburgh: Cadell
 
+## Letters Mentioning This Work
+
+- [Letter 2979](../2979-to-anne-yonge-25.qmd)
 

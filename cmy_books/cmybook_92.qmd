@@ -14,4 +14,7 @@ sort_title: "Life and Adventures of Count Beugnot ."
 
 **Notes:** Probably translated by Julian Yonge
 
+## Letters Mentioning This Work
+
+- [Letter 2363](../2363-to-alexander-macmillan-113.qmd)
 

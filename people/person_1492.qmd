@@ -7,4 +7,7 @@ person_id: 1492
 
 contributor to <i>MP</i> (1895), published as ‘the author of “Tip-Cat”’
 
+## Letters Mentioning This Person
+
+- [Letter 2896](../2896-to-arthur-donald-innes-25.qmd)
 

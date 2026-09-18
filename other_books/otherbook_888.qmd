@@ -9,4 +9,7 @@ book_id: 888
 
 **Imprint:** <i>MP</i>, (January 1878-July 1880).
 
+## Letters Mentioning This Work
+
+- [Letter 2601](../2601-to-the-reverend-richard-st-john-tyrwhitt.qmd)
 

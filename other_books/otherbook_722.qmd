@@ -9,4 +9,7 @@ book_id: 722
 
 **Imprint:** London: Service and Paton
 
+## Letters Mentioning This Work
+
+- [Letter 3336](../3336-to-edith-emma-knight.qmd)
 

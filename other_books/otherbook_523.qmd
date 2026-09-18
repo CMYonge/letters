@@ -16,4 +16,7 @@ book_id: 523
 
 
 
+## Letters Mentioning This Work
+
+- [Letter 2240](../2240-to-jane-mary-smith-dampier-2.qmd)
 

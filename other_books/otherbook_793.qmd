@@ -11,4 +11,7 @@ book_id: 793
 
 **Notes:** Known as Hall's Chronicle.
 
+## Letters Mentioning This Work
+
+- [Letter 2377](../2377-to-arthur-john-butler-11.qmd)
 

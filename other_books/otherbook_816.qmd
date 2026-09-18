@@ -11,4 +11,7 @@ book_id: 816
 
 **Notes:** It ran as a serial in <i>MP</i> ns 13 (January-June 1872).
 
+## Letters Mentioning This Work
+
+- [Letter 2449](../2449-to-christabel-rose-coleridge-72.qmd)
 

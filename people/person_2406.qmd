@@ -9,4 +9,7 @@ person_id: 2406
 
 editor of the <i>Spectator</i> (1898-1925)
 
+## Letters Mentioning This Person
+
+- [Letter 19000](../19000-to-john-st-loe-strachey.qmd)
 

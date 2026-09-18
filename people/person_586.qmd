@@ -9,4 +9,7 @@ person_id: 586
 
 friend of Mary Adams and her aunt
 
+## Letters Mentioning This Person
+
+- [Letter 1866](../1866-to-miss-grigg.qmd)
 

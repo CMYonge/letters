@@ -11,4 +11,8 @@ book_id: 1087
 
 **Notes:** Pseudonym of Ella Napier Lefroy.
 
+## Letters Mentioning This Work
+
+- [Letter 2912](../2912-to-arthur-donald-innes-26.qmd)
+- [Letter 2914](../2914-to-arthur-donald-innes-28.qmd)
 

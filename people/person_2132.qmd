@@ -9,4 +9,7 @@ person_id: 2132
 
 novelist as 'John Strange Winter'
 
+## Letters Mentioning This Person
+
+- [Letter 3235](../3235-henrietta-eliza-vaughan-stannard-to-charlotte-mary-yonge.qmd)
 

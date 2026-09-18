@@ -9,4 +9,7 @@ person_id: 1862
 
 professor of mathematics at Glasgow University, husband of Jemima Blackburn
 
+## Letters Mentioning This Person
+
+- [Letter 1861](../1861-to-jemima-blackburn-10.qmd)
 
