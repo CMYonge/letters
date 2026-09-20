@@ -650,7 +650,8 @@ for (dec in decades) {
     title    <- if (!is.na(row$post_title)        && row$post_title        != "") row$post_title        else paste("Letter", row$post_id)
     date     <- if (!is.na(row$letter_date)        && row$letter_date        != "") row$letter_date        else ""
     address  <- if (!is.na(row$letter_fromAddress) && row$letter_fromAddress != "") row$letter_fromAddress else ""
-    
+    date    <- trimws(gsub("\\[\\[footnote:\\d+\\]\\]", "", date))
+    address <- trimws(gsub("\\[\\[footnote:\\d+\\]\\]", "", address))
     index_content <- paste0(index_content, "**[", title, "](", filename, ")**  \n")
     if (date    != "") index_content <- paste0(index_content, "*", date, "*")
     if (address != "") index_content <- paste0(index_content, " • From: ", address)

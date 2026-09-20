@@ -11,10 +11,6 @@ website:
         href: index.qmd
       - text: "Letters"
         href: letters-index.qmd
-      - text: "People"
-        href: people/index.qmd
-      - text: "Organizations"
-        href: organizations/index.qmd
       - text: "Decades"
         menu:
           - text: "1834–1849"
@@ -29,6 +25,10 @@ website:
             href: decades/3750-letters-1880-1889.qmd
           - text: "1890–1901"
             href: decades/3752-letters-1890-1901.qmd
+      - text: "People"
+        href: people/index.qmd
+      - text: "Organizations"
+        href: organizations/index.qmd
       - text: "CMY Bibliography"
         href: cmy_books/index.qmd
       - text: "General Bibliography"
