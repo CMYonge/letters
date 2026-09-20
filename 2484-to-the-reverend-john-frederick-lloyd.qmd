@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Alexander Turnbull Library, Wellington, New Zealand.Ref: ms-papers-1786-4."
 post_id: 2484
 letter_id: "to-the-reverend-john-frederick-lloyd"
+google-scholar: true
 citation:
   type: personal_communication
   author:

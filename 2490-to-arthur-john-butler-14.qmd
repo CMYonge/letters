@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Mrs Caroline Fairclough/27"
 post_id: 2490
 letter_id: "to-arthur-john-butler-14"
+google-scholar: true
 citation:
   type: personal_communication
   author:

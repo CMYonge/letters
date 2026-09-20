@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Mrs Clare Roels/98"
 post_id: 3461
 letter_id: "to-christabel-rose-coleridge-46"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[1864]"
 manuscript: "MS location unknown. This fragment printed in Mary J. Y. Harris, <i>[Memoirs of Frances Mary Peard](other_books/otherbook_318.qmd)</i>, p. 50."
 post_id: 1934
 letter_id: "to-frances-mary-peard-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

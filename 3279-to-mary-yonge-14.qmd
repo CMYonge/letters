@@ -5,6 +5,7 @@ letter_date: "[November or December?1894]"
 manuscript: "MS fragment West Devon Area Record Office Ac 1092/37"
 post_id: 3279
 letter_id: "to-mary-yonge-14"
+google-scholar: true
 citation:
   type: personal_communication
   author:

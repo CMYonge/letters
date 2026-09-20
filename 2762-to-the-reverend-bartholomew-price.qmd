@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS  Pembroke College Oxford 60/14/97"
 post_id: 2762
 letter_id: "to-the-reverend-bartholomew-price"
+google-scholar: true
 citation:
   type: personal_communication
   author:

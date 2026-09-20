@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Royal Institution of Great Britain, XVA/186/32 f.63/1"
 post_id: 2195
 letter_id: "to-marianne-bigg-wither-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

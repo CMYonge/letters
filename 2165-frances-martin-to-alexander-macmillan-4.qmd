@@ -6,6 +6,7 @@ location: "Mrs Shephard Waterhead Windermere"
 manuscript: "MS British Library Add MSS.54974/10-15"
 post_id: 2165
 letter_id: "frances-martin-to-alexander-macmillan-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

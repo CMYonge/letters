@@ -5,6 +5,7 @@ letter_date: "[dated by Coleridge after 1893]"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 325-326"
 post_id: 3592
 letter_id: "to-charlotte-anne-elizabeth-moberly-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "Surrey History Centre, Dodgson Family Collection D/1/57"
 post_id: 19258
 letter_id: "to-frances-jane-dodgson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

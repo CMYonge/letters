@@ -6,6 +6,7 @@ location: "Val Richer,"
 manuscript: "MS location unknown. Printed in Coleridge, <i>Life</i> 245-247"
 post_id: 2330
 letter_id: "to-mary-ann-dyson-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

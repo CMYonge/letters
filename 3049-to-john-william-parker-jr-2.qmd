@@ -6,6 +6,7 @@ location: "Otterbourne Winchester"
 manuscript: "MS Michigan State University"
 post_id: 3049
 letter_id: "to-john-william-parker-jr-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

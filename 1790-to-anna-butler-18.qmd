@@ -5,6 +5,7 @@ letter_date: "April 16th 1860"
 manuscript: "MS Mrs Caroline Fairclough/15"
 post_id: 1790
 letter_id: "to-anna-butler-18"
+google-scholar: true
 citation:
   type: personal_communication
   author:

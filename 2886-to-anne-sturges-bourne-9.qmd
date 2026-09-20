@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Miss Barbara Dennis/5"
 post_id: 2886
 letter_id: "to-anne-sturges-bourne-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

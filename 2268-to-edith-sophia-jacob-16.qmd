@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell"
 post_id: 2268
 letter_id: "to-edith-sophia-jacob-16"
+google-scholar: true
 citation:
   type: personal_communication
   author:

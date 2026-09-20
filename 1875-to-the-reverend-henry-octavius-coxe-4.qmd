@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: MS. Don. d.144 ff 156-7"
 post_id: 1875
 letter_id: "to-the-reverend-henry-octavius-coxe-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

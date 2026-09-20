@@ -6,6 +6,7 @@ location: "Crookham"
 manuscript: "MS Plymouth and West Devon Area Record Office Acc No 308: 17-8-76"
 post_id: 2561
 letter_id: "to-mary-yonge-48"
+google-scholar: true
 citation:
   type: personal_communication
   author:

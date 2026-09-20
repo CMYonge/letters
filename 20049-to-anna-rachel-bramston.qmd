@@ -5,6 +5,7 @@ letter_date: "Oct 15th  [1875-8?]"
 manuscript: "MS??"
 post_id: 20049
 letter_id: "to-anna-rachel-bramston"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Otterbourn [5 January 1845]"
 manuscript: "MS West Devon Record Office Acc No 308: 5/1/45"
 post_id: 2951
 letter_id: "to-anne-yonge-18"
+google-scholar: true
 citation:
   type: personal_communication
   author:

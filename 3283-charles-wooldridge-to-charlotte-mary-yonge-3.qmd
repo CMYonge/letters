@@ -5,6 +5,7 @@ letter_date: "Feb 13 1895"
 manuscript: "Copy outletter book, Hampshire Record Office 70M92W/58/355"
 post_id: 3283
 letter_id: "charles-wooldridge-to-charlotte-mary-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

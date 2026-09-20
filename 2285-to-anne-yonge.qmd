@@ -5,6 +5,7 @@ letter_date: "Octr 24. 1868"
 manuscript: "MS WDRO Acc No 308: 24/10/68"
 post_id: 2285
 letter_id: "to-anne-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

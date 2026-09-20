@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Ewelme Cottage, 11 Ayr St., Parnell, Auckland, N.Z. [footnote:1]]"
 post_id: 6729
 letter_id: "to-elizabeth-lush"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "1 Sussex Sq W"
 manuscript: "MS British Library Add MSS 54921: 94"
 post_id: 2676
 letter_id: "to-alexander-macmillan-136"
+google-scholar: true
 citation:
   type: personal_communication
   author:

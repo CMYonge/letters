@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Girton College Cambridge, Yonge X 1"
 post_id: 2471
 letter_id: "to-the-reverend-james-edwards-sewell-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

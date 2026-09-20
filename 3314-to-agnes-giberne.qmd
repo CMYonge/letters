@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 3314
 letter_id: "to-agnes-giberne"
+google-scholar: true
 citation:
   type: personal_communication
   author:

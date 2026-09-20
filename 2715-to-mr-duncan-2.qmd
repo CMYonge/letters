@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Yale, Beinecke Library, MSS Vault, Hilles Box 21, Folder Yonge"
 post_id: 2715
 letter_id: "to-mr-duncan-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

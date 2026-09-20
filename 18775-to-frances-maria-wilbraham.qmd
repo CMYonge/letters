@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Special Collections, University of Virginia Library"
 post_id: 18775
 letter_id: "to-frances-maria-wilbraham"
+google-scholar: true
 citation:
   type: personal_communication
   author:

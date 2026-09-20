@@ -6,6 +6,7 @@ location: "[Otterbourne]"
 manuscript: "MS location unknown.  This fragment printed in Romanes, <i>Appreciation</i>, 88-9."
 post_id: 3135
 letter_id: "to-elizabeth-barnett-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

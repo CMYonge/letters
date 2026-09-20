@@ -5,6 +5,7 @@ letter_date: "[February 1890]"
 manuscript: "MS location unknown.  These two fragments, which may belong to two different letters, were published in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 304 and 308."
 post_id: 3152
 letter_id: "to-a-member-of-the-moberly-family"
+google-scholar: true
 citation:
   type: personal_communication
   author:

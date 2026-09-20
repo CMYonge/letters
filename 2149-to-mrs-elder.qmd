@@ -5,6 +5,7 @@ letter_date: "Feb 16th [1867]"
 manuscript: "UCLA: collection 100: box 95"
 post_id: 2149
 letter_id: "to-mrs-elder"
+google-scholar: true
 citation:
   type: personal_communication
   author:

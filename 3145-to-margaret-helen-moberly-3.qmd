@@ -5,6 +5,7 @@ letter_date: "[24 December ?1859]"
 manuscript: "MS location unknown.  Photocopies lent by Barbara Dennis: Maggie/2"
 post_id: 3145
 letter_id: "to-margaret-helen-moberly-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

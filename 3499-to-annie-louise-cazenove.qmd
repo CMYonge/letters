@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne,"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 322."
 post_id: 3499
 letter_id: "to-annie-louise-cazenove"
+google-scholar: true
 citation:
   type: personal_communication
   author:

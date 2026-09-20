@@ -6,6 +6,7 @@ location: "Otterbourne,Winchester."
 manuscript: "MS New York Public Library, De Coursey Fales Collection/2"
 post_id: 1783
 letter_id: "to-john-william-parker-jr"
+google-scholar: true
 citation:
   type: personal_communication
   author:

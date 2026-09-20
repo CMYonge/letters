@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3205
 letter_id: "to-lady-frederick-bruce-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

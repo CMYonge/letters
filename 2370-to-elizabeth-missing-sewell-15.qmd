@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge VI 2"
 post_id: 2370
 letter_id: "to-elizabeth-missing-sewell-15"
+google-scholar: true
 citation:
   type: personal_communication
   author:

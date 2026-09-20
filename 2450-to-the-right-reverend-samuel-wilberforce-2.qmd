@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: MSS. Wilberforce c. 18 ff129-30"
 post_id: 2450
 letter_id: "to-the-right-reverend-samuel-wilberforce-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

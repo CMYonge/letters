@@ -5,6 +5,7 @@ letter_date: "Michaelmas Day [29 September] 1877"
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 2600
 letter_id: "from-charlotte-mary-yonge-and-christabel-rose-coleridge-to-mary-penelope-fursdon-and-the-other-members-of-the-gosling-society"
+google-scholar: true
 citation:
   type: personal_communication
   author:

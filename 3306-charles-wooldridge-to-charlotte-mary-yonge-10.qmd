@@ -5,6 +5,7 @@ letter_date: "Jan 22 1896"
 manuscript: "Copy outletter book, Hampshire Record Office 70M92W/60/214"
 post_id: 3306
 letter_id: "charles-wooldridge-to-charlotte-mary-yonge-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

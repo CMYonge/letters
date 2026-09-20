@@ -5,6 +5,7 @@ letter_date: "Ascension Day [20 May], 1852."
 manuscript: "MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 98."
 post_id: 2990
 letter_id: "to-the-reverend-dr-george-moberly"
+google-scholar: true
 citation:
   type: personal_communication
   author:

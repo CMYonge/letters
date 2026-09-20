@@ -5,6 +5,7 @@ letter_date: "Ascension Day [14 May 1863]"
 manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/7"
 post_id: 1889
 letter_id: "to-margaret-helen-moberly-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

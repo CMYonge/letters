@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Iowa; MsL/Y56"
 post_id: 2263
 letter_id: "to-miss-finchcliffe"
+google-scholar: true
 citation:
   type: personal_communication
   author:

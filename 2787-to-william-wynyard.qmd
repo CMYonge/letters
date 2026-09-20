@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell/4"
 post_id: 2787
 letter_id: "to-william-wynyard"
+google-scholar: true
 citation:
   type: personal_communication
   author:

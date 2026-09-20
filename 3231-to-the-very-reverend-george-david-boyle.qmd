@@ -5,6 +5,7 @@ letter_date: "[August 1893]"
 manuscript: "MS location unknown. Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 189-90"
 post_id: 3231
 letter_id: "to-the-very-reverend-george-david-boyle"
+google-scholar: true
 citation:
   type: personal_communication
   author:

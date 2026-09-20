@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2853
 letter_id: "to-mr-duncan-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

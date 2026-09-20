@@ -6,6 +6,7 @@ location: "Puslinch"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2291
 letter_id: "to-christabel-rose-coleridge-18"
+google-scholar: true
 citation:
   type: personal_communication
   author:

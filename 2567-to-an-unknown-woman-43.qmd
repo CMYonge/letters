@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford:  MS. Autogr. d.23 f116"
 post_id: 2567
 letter_id: "to-an-unknown-woman-43"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[May 1877]"
 manuscript: "MS British Library Add MSS 54921: 17"
 post_id: 2579
 letter_id: "to-messrs-macmillan-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

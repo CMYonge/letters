@@ -5,6 +5,7 @@ letter_date: "[1867]"
 manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. c.25 ff 268-9"
 post_id: 2221
 letter_id: "to-miss-manning"
+google-scholar: true
 citation:
   type: personal_communication
   author:

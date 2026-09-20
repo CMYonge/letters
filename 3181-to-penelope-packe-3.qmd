@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Hampshire Record Office 9M55F56/1"
 post_id: 3181
 letter_id: "to-penelope-packe-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

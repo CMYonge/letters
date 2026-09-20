@@ -5,6 +5,7 @@ letter_date: "[1868]"
 manuscript: "MS Charlotte Mitchell"
 post_id: 2250
 letter_id: "to-edith-sophia-jacob-13"
+google-scholar: true
 citation:
   type: personal_communication
   author:

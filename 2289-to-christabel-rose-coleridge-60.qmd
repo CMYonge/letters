@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Edinburgh Library"
 post_id: 2289
 letter_id: "to-christabel-rose-coleridge-60"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge VIII"
 post_id: 2713
 letter_id: "to-the-reverend-william-parsons-warburton-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

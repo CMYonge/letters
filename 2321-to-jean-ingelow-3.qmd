@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS New York Public Library: Berg Collection"
 post_id: 2321
 letter_id: "to-jean-ingelow-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

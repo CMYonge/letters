@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Eton College, 2ALS to ATR"
 post_id: 3263
 letter_id: "to-anne-isabella-ritchie-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

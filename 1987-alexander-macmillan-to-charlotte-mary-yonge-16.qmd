@@ -5,6 +5,7 @@ letter_date: "Oct. 28 1864"
 manuscript: "Copy outletter book British Library Add MSS. 55383 (2): P. 514"
 post_id: 1987
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-16"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown, owned in 1947 by Alethea Yonge; part facsimile in Mare and Percival, [<i>Victorian Best-seller</i>](other_books/otherbook_598.qmd), facing page 208."
 post_id: 3305
 letter_id: "to-augusta-boevey-pode-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

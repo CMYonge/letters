@@ -6,6 +6,7 @@ location: "Puslinch"
 manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 207-8."
 post_id: 2293
 letter_id: "to-mary-anne-moberly-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

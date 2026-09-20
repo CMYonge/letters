@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Devon Record Office, Exeter 53/10/9/2"
 post_id: 2698
 letter_id: "to-an-unknown-woman-49"
+google-scholar: true
 citation:
   type: personal_communication
   author:

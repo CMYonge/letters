@@ -5,6 +5,7 @@ letter_date: "[?October ?November 1845]"
 manuscript: "MS [fragment]  West Devon Record Office Acc No 308: Oct/Nov/45"
 post_id: 2954
 letter_id: "to-anne-yonge-21"
+google-scholar: true
 citation:
   type: personal_communication
   author:

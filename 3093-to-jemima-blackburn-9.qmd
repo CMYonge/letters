@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "University of Illinois, Urbana Champaign: Letter 7."
 post_id: 3093
 letter_id: "to-jemima-blackburn-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Library of Congress"
 post_id: 2169
 letter_id: "to-elizabeth-missing-sewell-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

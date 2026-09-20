@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Seymour Public Library, Auburn, New York"
 post_id: 3482
 letter_id: "to-an-unknown-woman-78"
+google-scholar: true
 citation:
   type: personal_communication
   author:

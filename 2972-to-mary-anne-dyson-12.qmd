@@ -5,6 +5,7 @@ letter_date: "20 October [1850]"
 manuscript: "MS location unknown, printed in Coleridge, <i>Life</i>, 178 - 181."
 post_id: 2972
 letter_id: "to-mary-anne-dyson-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Yale University, Beinecke Library, Osborn Files 41.22"
 post_id: 3234
 letter_id: "to-the-right-reverend-george-francis-popham-blyth"
+google-scholar: true
 citation:
   type: personal_communication
   author:

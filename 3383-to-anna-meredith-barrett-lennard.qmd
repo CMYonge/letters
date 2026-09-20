@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Bodleian Library, Oxford: Autogr. d. 22 ff62-64"
 post_id: 3383
 letter_id: "to-anna-meredith-barrett-lennard"
+google-scholar: true
 citation:
   type: personal_communication
   author:

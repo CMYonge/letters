@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Alice Marshall Women’s History Collection, Penn State University"
 post_id: 3360
 letter_id: "to-amelie-claire-leroy"
+google-scholar: true
 citation:
   type: personal_communication
   author:

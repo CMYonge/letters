@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Pusey House, Oxford, inserted in a copy of <i>John Keble’s Parishes</i>, call mark 69.82cKEB.4."
 post_id: 3437
 letter_id: "to-louisa-alethea-bowles"
+google-scholar: true
 citation:
   type: personal_communication
   author:

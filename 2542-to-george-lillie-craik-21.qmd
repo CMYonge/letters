@@ -5,6 +5,7 @@ letter_date: "Febry 26th 1876"
 manuscript: "MS British Library Add MSS 54921: 11"
 post_id: 2542
 letter_id: "to-george-lillie-craik-21"
+google-scholar: true
 citation:
   type: personal_communication
   author:

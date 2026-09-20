@@ -5,6 +5,7 @@ letter_date: "Wednesday 5 [December 1838]"
 manuscript: "MS West Devon Record Office Acc 1092/1"
 post_id: 2939
 letter_id: "to-anne-yonge-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

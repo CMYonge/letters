@@ -6,6 +6,7 @@ location: "Canal Cottage, Bude, Cornwall"
 manuscript: "MS British Library Add MSS. 54974/24"
 post_id: 2192
 letter_id: "frances-martin-to-alexander-macmillan"
+google-scholar: true
 citation:
   type: personal_communication
   author:

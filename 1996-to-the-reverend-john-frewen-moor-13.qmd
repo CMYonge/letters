@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: MS English Letters: e 86."
 post_id: 1996
 letter_id: "to-the-reverend-john-frewen-moor-13"
+google-scholar: true
 citation:
   type: personal_communication
   author:

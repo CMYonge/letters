@@ -5,6 +5,7 @@ letter_date: "[<i>c</i>. 1898]"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3523
 letter_id: "to-anna-rachel-bramston-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne,Winchester."
 manuscript: "MS Harry Ransom Humanities Resource Center, University of Texas at Austin"
 post_id: 2807
 letter_id: "to-ernest-hartley-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

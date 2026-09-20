@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Devon Record Office, Exeter 53/10/9/1"
 post_id: 3369
 letter_id: "to-edmund-doidge-anderson-morshead-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

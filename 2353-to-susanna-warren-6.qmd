@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas."
 post_id: 2353
 letter_id: "to-susanna-warren-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

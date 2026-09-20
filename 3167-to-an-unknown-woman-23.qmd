@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell/18"
 post_id: 3167
 letter_id: "to-an-unknown-woman-23"
+google-scholar: true
 citation:
   type: personal_communication
   author:

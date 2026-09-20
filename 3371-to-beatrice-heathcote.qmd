@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/63"
 post_id: 3371
 letter_id: "to-beatrice-heathcote"
+google-scholar: true
 citation:
   type: personal_communication
   author:

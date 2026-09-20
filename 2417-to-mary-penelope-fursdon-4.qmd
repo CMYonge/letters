@@ -5,6 +5,7 @@ letter_date: "Aug 29th [1871?]"
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 2417
 letter_id: "to-mary-penelope-fursdon-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Yale University, Beinecke Library"
 post_id: 19990
 letter_id: "to-an-unknown-man-editor-of-an-american-journal"
+google-scholar: true
 citation:
   type: personal_communication
   author:

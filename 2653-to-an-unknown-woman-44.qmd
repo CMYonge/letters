@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell/7"
 post_id: 2653
 letter_id: "to-an-unknown-woman-44"
+google-scholar: true
 citation:
   type: personal_communication
   author:

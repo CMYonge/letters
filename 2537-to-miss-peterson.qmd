@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS UCLA: collection 100: box 95322"
 post_id: 2537
 letter_id: "to-miss-peterson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Jan 21.1864"
 manuscript: "Copy outletter book British Library Add MSS.55382 P. 72"
 post_id: 1928
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

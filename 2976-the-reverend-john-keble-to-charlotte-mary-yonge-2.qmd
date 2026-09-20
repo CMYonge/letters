@@ -6,6 +6,7 @@ location: "Hursley"
 manuscript: "MS location unknown.  Printed in <i>Musings over the Christian Year</i> xxvi-xxvii."
 post_id: 2976
 letter_id: "the-reverend-john-keble-to-charlotte-mary-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

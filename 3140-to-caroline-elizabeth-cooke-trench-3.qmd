@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 296-7"
 post_id: 3140
 letter_id: "to-caroline-elizabeth-cooke-trench-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

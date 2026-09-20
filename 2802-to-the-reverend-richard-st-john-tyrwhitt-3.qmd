@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 182-3"
 post_id: 2802
 letter_id: "to-the-reverend-richard-st-john-tyrwhitt-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

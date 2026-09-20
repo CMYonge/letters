@@ -4,6 +4,7 @@ letter_date: "Undated"
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 3495
 letter_id: "to-an-unknown-person"
+google-scholar: true
 citation:
   type: personal_communication
   author:

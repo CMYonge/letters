@@ -5,6 +5,7 @@ letter_date: "[1857]"
 manuscript: "MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 83."
 post_id: 3518
 letter_id: "to-elizabeth-barnett-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

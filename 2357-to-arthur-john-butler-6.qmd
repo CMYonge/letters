@@ -6,6 +6,7 @@ location: "Heaths court"
 manuscript: "MS Mrs Caroline Fairclough/22"
 post_id: 2357
 letter_id: "to-arthur-john-butler-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

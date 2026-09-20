@@ -5,6 +5,7 @@ letter_date: "[? November 1854]"
 manuscript: "MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 75"
 post_id: 3053
 letter_id: "to-elizabeth-barnett-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

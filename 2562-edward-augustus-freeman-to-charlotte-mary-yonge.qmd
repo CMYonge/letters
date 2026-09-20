@@ -6,6 +6,7 @@ location: "Somerleaze, Wells."
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 2562
 letter_id: "edward-augustus-freeman-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

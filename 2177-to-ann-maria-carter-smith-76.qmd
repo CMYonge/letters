@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1867/ 2"
 post_id: 2177
 letter_id: "to-ann-maria-carter-smith-76"
+google-scholar: true
 citation:
   type: personal_communication
   author:

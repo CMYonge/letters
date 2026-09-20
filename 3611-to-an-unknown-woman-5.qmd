@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Charlotte Mitchell/25"
 post_id: 3611
 letter_id: "to-an-unknown-woman-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

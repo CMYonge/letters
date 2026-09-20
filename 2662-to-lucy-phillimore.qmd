@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge XIV 1"
 post_id: 2662
 letter_id: "to-lucy-phillimore"
+google-scholar: true
 citation:
   type: personal_communication
   author:

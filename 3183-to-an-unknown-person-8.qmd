@@ -6,6 +6,7 @@ location: "[Salisbury]"
 manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i>."
 post_id: 3183
 letter_id: "to-an-unknown-person-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

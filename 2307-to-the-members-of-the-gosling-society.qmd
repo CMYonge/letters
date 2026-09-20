@@ -5,6 +5,7 @@ letter_date: "[March 1869]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2307
 letter_id: "to-the-members-of-the-gosling-society"
+google-scholar: true
 citation:
   type: personal_communication
   author:

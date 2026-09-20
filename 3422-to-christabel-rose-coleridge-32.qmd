@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Mrs Clare Roels/84"
 post_id: 3422
 letter_id: "to-christabel-rose-coleridge-32"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Torquay"
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2126
 letter_id: "to-miss-erskine"
+google-scholar: true
 citation:
   type: personal_communication
   author:

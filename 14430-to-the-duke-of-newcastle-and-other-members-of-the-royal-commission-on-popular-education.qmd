@@ -6,6 +6,7 @@ location: "Otterbourn, Winchester."
 manuscript: "Text from [<i>Report of the Commissioners appointed to Inquire into the State of Popular Education in England</i>](other_books/otherbook_781.qmd) 6 vols (London: Eyre and Spottiswoode 1862), V, 5-8, 451-55."
 post_id: 14430
 letter_id: "to-the-duke-of-newcastle-and-other-members-of-the-royal-commission-on-popular-education"
+google-scholar: true
 citation:
   type: personal_communication
   author:

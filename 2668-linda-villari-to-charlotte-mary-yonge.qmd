@@ -6,6 +6,7 @@ location: "93d Via Piat"
 manuscript: "MS UCLA collection 100 box 119"
 post_id: 2668
 letter_id: "linda-villari-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

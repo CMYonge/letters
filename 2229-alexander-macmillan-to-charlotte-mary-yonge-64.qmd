@@ -6,6 +6,7 @@ location: "Bedford Street [<i>illegible</i>]"
 manuscript: "Copy outletter book British Library Add MSS.55387 (2): P. 907"
 post_id: 2229
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-64"
+google-scholar: true
 citation:
   type: personal_communication
   author:

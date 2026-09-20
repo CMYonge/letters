@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3569
 letter_id: "to-mary"
+google-scholar: true
 citation:
   type: personal_communication
   author:

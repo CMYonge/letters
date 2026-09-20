@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Plymouth and West Devon Record Office 308/258"
 post_id: 2961
 letter_id: "william-crawley-yonge-to-the-reverend-john-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

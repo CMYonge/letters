@@ -5,6 +5,7 @@ letter_date: "Decr 30th [1862]"
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 1882
 letter_id: "to-henrietta-elizabeth-fursdon-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Aug 28th [1880s?]"
 manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
 post_id: 2931
 letter_id: "to-anne-elizabeth-mary-anderson-morshead-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

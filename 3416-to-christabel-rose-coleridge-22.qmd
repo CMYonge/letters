@@ -6,6 +6,7 @@ location: "The Old House Dorking"
 manuscript: "MS Mrs Clare Roels/78"
 post_id: 3416
 letter_id: "to-christabel-rose-coleridge-22"
+google-scholar: true
 citation:
   type: personal_communication
   author:

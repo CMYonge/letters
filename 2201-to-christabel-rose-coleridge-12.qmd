@@ -5,6 +5,7 @@ letter_date: "July 30th [1867]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2201
 letter_id: "to-christabel-rose-coleridge-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

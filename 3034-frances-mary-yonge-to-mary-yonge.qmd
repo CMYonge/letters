@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Plymouth and West Devon Record Office 308/256"
 post_id: 3034
 letter_id: "frances-mary-yonge-to-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

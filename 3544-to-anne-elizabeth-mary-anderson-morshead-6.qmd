@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS  UCLA: collection 100: box 95"
 post_id: 3544
 letter_id: "to-anne-elizabeth-mary-anderson-morshead-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

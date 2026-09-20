@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/49"
 post_id: 2732
 letter_id: "to-caroline-elizabeth-cooke-trench"
+google-scholar: true
 citation:
   type: personal_communication
   author:

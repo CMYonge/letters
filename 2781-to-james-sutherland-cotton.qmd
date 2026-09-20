@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2781
 letter_id: "to-james-sutherland-cotton"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Otterbourne,Winchester"
 manuscript: "MS Charles E. Young  Research Library,  UCLA, collection 100."
 post_id: 3103
 letter_id: "to-mr-owen"
+google-scholar: true
 citation:
   type: personal_communication
   author:

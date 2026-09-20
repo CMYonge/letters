@@ -6,6 +6,7 @@ location: "Flaxley Abbey"
 manuscript: "MS John Rylands Library, Manchester, FA1/7/842a-842b"
 post_id: 2455
 letter_id: "to-edward-augustus-freeman-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

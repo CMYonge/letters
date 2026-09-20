@@ -5,6 +5,7 @@ letter_date: "[1865]"
 manuscript: "MS fragment Charlotte Mitchell/13"
 post_id: 3574
 letter_id: "to-an-unknown-person-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

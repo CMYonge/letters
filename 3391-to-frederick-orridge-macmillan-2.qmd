@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS British Library  Add MSS 54921: 254"
 post_id: 3391
 letter_id: "to-frederick-orridge-macmillan-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

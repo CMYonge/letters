@@ -5,6 +5,7 @@ letter_date: "[December 1893]"
 manuscript: "MS West Devon Area Record Office Ac 1092/28"
 post_id: 3240
 letter_id: "to-dorothea-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

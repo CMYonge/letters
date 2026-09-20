@@ -6,6 +6,7 @@ location: "Otterbourne"
 manuscript: "MS location unknown.  This fragment printed in C.A.E. Moberly, <i>[Dulce Domum: George Moberly, his Family and Friends](other_books/otherbook_122.qmd)</i> (London: Murray 1911),  97."
 post_id: 2965
 letter_id: "to-alice-arbuthnot-moberly-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

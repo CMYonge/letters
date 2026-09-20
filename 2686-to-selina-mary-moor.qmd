@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Pusey House PUS 83"
 post_id: 2686
 letter_id: "to-selina-mary-moor"
+google-scholar: true
 citation:
   type: personal_communication
   author:

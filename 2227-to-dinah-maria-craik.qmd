@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS UCLA; Collection 846 (Mulock Family Papers), Box 2, Folder 14"
 post_id: 2227
 letter_id: "to-dinah-maria-craik"
+google-scholar: true
 citation:
   type: personal_communication
   author:

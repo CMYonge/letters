@@ -6,6 +6,7 @@ location: "Royal Hospital [Dublin]"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 210-215"
 post_id: 3109
 letter_id: "to-frances-mary-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

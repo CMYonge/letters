@@ -6,6 +6,7 @@ location: "Incoporated [Society of Authors](organizations/other_44.qmd), 4, Port
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin."
 post_id: 2905
 letter_id: "sir-walter-besant-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

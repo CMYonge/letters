@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Charles E. Young  Research Library,  UCLA, collection 100."
 post_id: 3005
 letter_id: "to-joseph-masters"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS John Purvis"
 post_id: 3123
 letter_id: "to-louisa-harriet-eyre-matcham"
+google-scholar: true
 citation:
   type: personal_communication
   author:

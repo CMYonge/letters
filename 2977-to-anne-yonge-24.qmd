@@ -5,6 +5,7 @@ letter_date: "Oct 13th [1851]"
 manuscript: "MS West Devon Record Office Acc 1092/6"
 post_id: 2977
 letter_id: "to-anne-yonge-24"
+google-scholar: true
 citation:
   type: personal_communication
   author:

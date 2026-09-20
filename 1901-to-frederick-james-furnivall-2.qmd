@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Huntington Library"
 post_id: 1901
 letter_id: "to-frederick-james-furnivall-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

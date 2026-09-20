@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS University of Manchester, Ryl Eng MS. 341/172"
 post_id: 2669
 letter_id: "to-h-w-lewisf"
+google-scholar: true
 citation:
   type: personal_communication
   author:

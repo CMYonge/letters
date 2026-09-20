@@ -6,6 +6,7 @@ location: "Auckland."
 manuscript: "MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i>, II, 337-8."
 post_id: 2273
 letter_id: "the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

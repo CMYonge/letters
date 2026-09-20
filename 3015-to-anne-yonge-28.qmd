@@ -5,6 +5,7 @@ letter_date: "[late 1853?]"
 manuscript: "MS fragment West Devon Record Office Acc No 308: 1853/3"
 post_id: 3015
 letter_id: "to-anne-yonge-28"
+google-scholar: true
 citation:
   type: personal_communication
   author:

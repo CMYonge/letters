@@ -5,6 +5,7 @@ letter_date: "March 13. 1867"
 manuscript: "Copy outletter book British Library Add MSS.55386 (2) P. 988"
 post_id: 19678
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

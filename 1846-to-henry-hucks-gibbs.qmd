@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Guildhall Library 11, 021 v.19"
 post_id: 1846
 letter_id: "to-henry-hucks-gibbs"
+google-scholar: true
 citation:
   type: personal_communication
   author:

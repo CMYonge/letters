@@ -6,6 +6,7 @@ location: "Elderfield Otterboune"
 manuscript: "MS Charlotte Mitchell."
 post_id: 19829
 letter_id: "to-the-countess-of-meath"
+google-scholar: true
 citation:
   type: personal_communication
   author:

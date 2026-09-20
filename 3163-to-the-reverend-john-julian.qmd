@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS BL Add. 57517 ff.117"
 post_id: 3163
 letter_id: "to-the-reverend-john-julian"
+google-scholar: true
 citation:
   type: personal_communication
   author:

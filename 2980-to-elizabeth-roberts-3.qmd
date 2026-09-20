@@ -5,6 +5,7 @@ letter_date: "Novr 13th [1851]"
 manuscript: "MS Huntington Library: Yonge Letters."
 post_id: 2980
 letter_id: "to-elizabeth-roberts-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

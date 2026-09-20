@@ -6,6 +6,7 @@ location: "St. Andrew’s"
 manuscript: "MS location unknown. Printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> II, 40."
 post_id: 1885
 letter_id: "from-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

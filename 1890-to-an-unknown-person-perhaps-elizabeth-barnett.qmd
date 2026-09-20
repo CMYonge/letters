@@ -5,6 +5,7 @@ letter_date: "[May 1863]"
 manuscript: "MS location unknown. Printed in Romanes, <i>Appreciation</i> p 95"
 post_id: 1890
 letter_id: "to-an-unknown-person-perhaps-elizabeth-barnett"
+google-scholar: true
 citation:
   type: personal_communication
   author:

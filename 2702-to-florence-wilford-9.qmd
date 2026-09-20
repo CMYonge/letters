@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne,Winchester."
 manuscript: "MS University of Iowa; MsL/Y56/1880"
 post_id: 2702
 letter_id: "to-florence-wilford-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

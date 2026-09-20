@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Auckland Central City Library: Special Coll manuscripts RBR MS 135."
 post_id: 2563
 letter_id: "to-anna-rachel-bramston-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

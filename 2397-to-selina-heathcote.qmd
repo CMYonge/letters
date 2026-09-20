@@ -5,6 +5,7 @@ letter_date: "[?1871]"
 manuscript: "MS location unknown.  This fragment quoted in Mare and Percival, [<i>Victorian Best-Seller</i>](other_books/otherbook_598.qmd), 215."
 post_id: 2397
 letter_id: "to-selina-heathcote"
+google-scholar: true
 citation:
   type: personal_communication
   author:

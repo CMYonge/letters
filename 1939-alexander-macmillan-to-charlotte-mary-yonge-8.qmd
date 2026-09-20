@@ -5,6 +5,7 @@ letter_date: "Feb 25:1864"
 manuscript: "MS British Library Add MSS.55382 P. 218-9"
 post_id: 1939
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

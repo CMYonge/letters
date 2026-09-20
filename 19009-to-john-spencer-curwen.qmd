@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne."
 manuscript: "MS location unknown.  Printed in the supplement to the <i>Musical Herald</i> (1 August 1896), iv."
 post_id: 19009
 letter_id: "to-john-spencer-curwen"
+google-scholar: true
 citation:
   type: personal_communication
   author:

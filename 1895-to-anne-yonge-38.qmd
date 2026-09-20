@@ -6,6 +6,7 @@ location: "Newsells"
 manuscript: "MS WDRO Acc No 308: 25/7/63"
 post_id: 1895
 letter_id: "to-anne-yonge-38"
+google-scholar: true
 citation:
   type: personal_communication
   author:

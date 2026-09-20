@@ -5,6 +5,7 @@ letter_date: "[About 1865]"
 manuscript: "MS location unknown. Printed in Romanes <i>[Appreciation](other_books/otherbook_241.qmd)</i> 183-4"
 post_id: 2094
 letter_id: "to-francis-turner-palgrave"
+google-scholar: true
 citation:
   type: personal_communication
   author:

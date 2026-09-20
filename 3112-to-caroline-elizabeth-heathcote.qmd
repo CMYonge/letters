@@ -6,6 +6,7 @@ location: "Otterbourne,Winchester"
 manuscript: "MS Charles E. Young  Research Library,  UCLA, collection 100."
 post_id: 3112
 letter_id: "to-caroline-elizabeth-heathcote"
+google-scholar: true
 citation:
   type: personal_communication
   author:

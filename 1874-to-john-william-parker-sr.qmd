@@ -6,6 +6,7 @@ location: "Ottery"
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 1874
 letter_id: "to-john-william-parker-sr"
+google-scholar: true
 citation:
   type: personal_communication
   author:

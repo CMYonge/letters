@@ -5,6 +5,7 @@ letter_date: "<span class=‘strike’>March</span> April 1st [1867]"
 manuscript: "MS Charlotte Mitchell"
 post_id: 2161
 letter_id: "to-edith-sophia-jacob-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

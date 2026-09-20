@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Resource Centre, University of Texas"
 post_id: 2404
 letter_id: "to-mr-west"
+google-scholar: true
 citation:
   type: personal_communication
   author:

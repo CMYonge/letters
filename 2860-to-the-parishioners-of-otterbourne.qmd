@@ -5,6 +5,7 @@ letter_date: "1887"
 manuscript: "Printed in the [<i>Otterbourne Parish Magazine</i>](organizations/other_85.qmd) (June 1887)"
 post_id: 2860
 letter_id: "to-the-parishioners-of-otterbourne"
+google-scholar: true
 citation:
   type: personal_communication
   author:

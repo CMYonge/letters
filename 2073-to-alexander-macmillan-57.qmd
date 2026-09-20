@@ -6,6 +6,7 @@ location: "[Sorel](organizations/other_181.qmd) Torquay"
 manuscript: "MS British Library Add MSS 54920: 111-2"
 post_id: 2073
 letter_id: "to-alexander-macmillan-57"
+google-scholar: true
 citation:
   type: personal_communication
   author:

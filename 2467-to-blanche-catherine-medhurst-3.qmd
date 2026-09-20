@@ -5,6 +5,7 @@ letter_date: "Decr 31st [1872]"
 manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
 post_id: 2467
 letter_id: "to-blanche-catherine-medhurst-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

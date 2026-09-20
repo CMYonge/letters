@@ -6,6 +6,7 @@ location: "Torquay"
 manuscript: "MS Winchester City Council, Historic Resources Centre LH3803.1"
 post_id: 2882
 letter_id: "to-ellen-barlee"
+google-scholar: true
 citation:
   type: personal_communication
   author:

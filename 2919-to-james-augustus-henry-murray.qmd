@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 12, Box 4: Foreign Hymn Writers"
 post_id: 2919
 letter_id: "to-james-augustus-henry-murray"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Columbia University Library"
 post_id: 2655
 letter_id: "to-harper-bros-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

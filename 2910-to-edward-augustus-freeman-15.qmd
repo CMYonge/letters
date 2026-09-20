@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS John Rylands Library, Manchester, FA1/7/840"
 post_id: 2910
 letter_id: "to-edward-augustus-freeman-15"
+google-scholar: true
 citation:
   type: personal_communication
   author:

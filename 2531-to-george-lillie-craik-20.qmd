@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Columbia University Library, New York:  Lohf Collection"
 post_id: 2531
 letter_id: "to-george-lillie-craik-20"
+google-scholar: true
 citation:
   type: personal_communication
   author:

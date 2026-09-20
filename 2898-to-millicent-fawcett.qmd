@@ -5,6 +5,7 @@ letter_date: "[1888?]"
 manuscript: "MS transcription by Fawcett, from a letter presumably addressed to herself, Manchester Central Library 0/3 26/7"
 post_id: 2898
 letter_id: "to-millicent-fawcett"
+google-scholar: true
 citation:
   type: personal_communication
   author:

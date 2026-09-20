@@ -5,6 +5,7 @@ letter_date: "Sept 21 [?1870]"
 manuscript: "MS location unknown, formerly owned by Georgina Battiscombe."
 post_id: 2389
 letter_id: "to-mary-augusta-arnold"
+google-scholar: true
 citation:
   type: personal_communication
   author:

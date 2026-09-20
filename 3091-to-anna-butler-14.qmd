@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Mrs Caroline Fairclough/12"
 post_id: 3091
 letter_id: "to-anna-butler-14"
+google-scholar: true
 citation:
   type: personal_communication
   author:

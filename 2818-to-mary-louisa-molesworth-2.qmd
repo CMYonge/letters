@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2818
 letter_id: "to-mary-louisa-molesworth-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

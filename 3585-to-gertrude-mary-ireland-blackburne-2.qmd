@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Charlotte Mitchell"
 post_id: 3585
 letter_id: "to-gertrude-mary-ireland-blackburne-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

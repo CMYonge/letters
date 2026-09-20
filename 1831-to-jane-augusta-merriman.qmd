@@ -5,6 +5,7 @@ letter_date: "May 28th 1861"
 manuscript: "MS Winchester College Library"
 post_id: 1831
 letter_id: "to-jane-augusta-merriman"
+google-scholar: true
 citation:
   type: personal_communication
   author:

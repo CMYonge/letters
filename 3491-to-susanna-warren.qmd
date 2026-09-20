@@ -5,6 +5,7 @@ letter_date: "March 22nd [1870?]"
 manuscript: "MS Girton College Cambridge, Yonge XI 1"
 post_id: 3491
 letter_id: "to-susanna-warren"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[1850]"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>Life</i> 161."
 post_id: 2968
 letter_id: "to-mary-anne-dyson-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

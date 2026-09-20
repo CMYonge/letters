@@ -5,6 +5,7 @@ letter_date: "March 15th [1866]"
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2106
 letter_id: "to-elizabeth-missing-sewell-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

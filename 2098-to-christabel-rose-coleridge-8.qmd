@@ -5,6 +5,7 @@ letter_date: "[12 January 1866]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2098
 letter_id: "to-christabel-rose-coleridge-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

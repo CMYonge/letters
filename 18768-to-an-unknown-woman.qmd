@@ -5,6 +5,7 @@ letter_date: "Jany 5th [1878]"
 manuscript: "MS Special Collections, University of Virginia Library"
 post_id: 18768
 letter_id: "to-an-unknown-woman"
+google-scholar: true
 citation:
   type: personal_communication
   author:

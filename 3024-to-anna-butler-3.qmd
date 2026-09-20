@@ -6,6 +6,7 @@ location: "[Dogmersfield](organizations/other_121.qmd)"
 manuscript: "MS Mrs Caroline Fairclough/2"
 post_id: 3024
 letter_id: "to-anna-butler-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "May 26th 1857"
 manuscript: "MS Manchester Central Library, Griffith 39"
 post_id: 3098
 letter_id: "to-harriet-dyke-acland-troyte"
+google-scholar: true
 citation:
   type: personal_communication
   author:

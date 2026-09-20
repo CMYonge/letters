@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Reading University Library 1448/120"
 post_id: 3476
 letter_id: "to-george-lillie-craik-16"
+google-scholar: true
 citation:
   type: personal_communication
   author:

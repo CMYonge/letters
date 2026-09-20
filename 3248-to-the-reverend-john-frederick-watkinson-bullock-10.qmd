@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 133-4"
 post_id: 3248
 letter_id: "to-the-reverend-john-frederick-watkinson-bullock-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

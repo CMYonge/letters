@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Winchester City Council, Historic Resources Centre, LH3801"
 post_id: 3347
 letter_id: "to-an-unknown-man-perhaps-editor-of-a-biographical-dictionary"
+google-scholar: true
 citation:
   type: personal_communication
   author:

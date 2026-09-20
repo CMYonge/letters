@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 2770
 letter_id: "to-euphemia-e-g-bussell"
+google-scholar: true
 citation:
   type: personal_communication
   author:

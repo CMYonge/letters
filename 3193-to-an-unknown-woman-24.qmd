@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Charlotte Mitchell/21"
 post_id: 3193
 letter_id: "to-an-unknown-woman-24"
+google-scholar: true
 citation:
   type: personal_communication
   author:

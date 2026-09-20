@@ -5,6 +5,7 @@ letter_date: "September 24, 1867"
 manuscript: "MS location unknown. This fragment printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 235"
 post_id: 2208
 letter_id: "to-mary-ann-dyson-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

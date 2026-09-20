@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Pierpont Morgan Library, New York, MA 4500"
 post_id: 1807
 letter_id: "to-an-unknown-man-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

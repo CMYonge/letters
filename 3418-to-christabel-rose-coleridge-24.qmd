@@ -5,6 +5,7 @@ letter_date: "[15 August 1899]"
 manuscript: "MS Mrs Clare Roels/79"
 post_id: 3418
 letter_id: "to-christabel-rose-coleridge-24"
+google-scholar: true
 citation:
   type: personal_communication
   author:

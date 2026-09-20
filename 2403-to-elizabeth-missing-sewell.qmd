@@ -2,6 +2,7 @@
 title: "To Elizabeth Missing Sewell"
 post_id: 2403
 letter_id: "to-elizabeth-missing-sewell"
+google-scholar: true
 citation:
   type: personal_communication
   author:

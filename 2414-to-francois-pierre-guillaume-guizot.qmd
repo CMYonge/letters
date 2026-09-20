@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Archives Nationales"
 post_id: 2414
 letter_id: "to-francois-pierre-guillaume-guizot"
+google-scholar: true
 citation:
   type: personal_communication
   author:

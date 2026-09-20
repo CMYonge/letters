@@ -6,6 +6,7 @@ location: "16, Mornington Road Regents Park"
 manuscript: "MS British Library Add MSS 54974/1-4"
 post_id: 2159
 letter_id: "frances-martin-to-alexander-macmillan-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

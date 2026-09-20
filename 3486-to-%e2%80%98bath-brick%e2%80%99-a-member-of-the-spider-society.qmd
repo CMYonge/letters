@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 3486
 letter_id: "to-%e2%80%98bath-brick%e2%80%99-a-member-of-the-spider-society"
+google-scholar: true
 citation:
   type: personal_communication
   author:

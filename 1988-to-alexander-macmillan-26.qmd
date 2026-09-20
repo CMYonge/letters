@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 1988
 letter_id: "to-alexander-macmillan-26"
+google-scholar: true
 citation:
   type: personal_communication
   author:

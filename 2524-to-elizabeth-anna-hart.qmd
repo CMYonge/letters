@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS The Hypatia Trust"
 post_id: 2524
 letter_id: "to-elizabeth-anna-hart"
+google-scholar: true
 citation:
   type: personal_communication
   author:

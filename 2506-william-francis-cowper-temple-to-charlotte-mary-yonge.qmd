@@ -6,6 +6,7 @@ location: "15, Gt. Stanhope Street. W."
 manuscript: "MS UCLA collection 100 box 119"
 post_id: 2506
 letter_id: "william-francis-cowper-temple-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

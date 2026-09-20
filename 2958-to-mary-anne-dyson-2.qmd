@@ -5,6 +5,7 @@ letter_date: "Sunday [December] 1846."
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 156-157"
 post_id: 2958
 letter_id: "to-mary-anne-dyson-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

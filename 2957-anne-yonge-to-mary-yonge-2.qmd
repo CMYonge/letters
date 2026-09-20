@@ -6,6 +6,7 @@ location: "[Otterbourne]"
 manuscript: "MS Plymouth and West Devon Record Office 308/70/17"
 post_id: 2957
 letter_id: "anne-yonge-to-mary-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "July 10th [1872?]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 1963
 letter_id: "to-elizabeth-charlotte-curteis"
+google-scholar: true
 citation:
   type: personal_communication
   author:

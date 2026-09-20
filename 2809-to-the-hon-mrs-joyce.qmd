@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Birmingham University Library"
 post_id: 2809
 letter_id: "to-the-hon-mrs-joyce"
+google-scholar: true
 citation:
   type: personal_communication
   author:

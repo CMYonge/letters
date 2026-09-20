@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.100 ff161-2"
 post_id: 2745
 letter_id: "to-percy-harris"
+google-scholar: true
 citation:
   type: personal_communication
   author:

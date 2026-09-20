@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Liverpool University Library, Hope Autograph Collection: 85"
 post_id: 3606
 letter_id: "to-mary-elizabeth-webster"
+google-scholar: true
 citation:
   type: personal_communication
   author:

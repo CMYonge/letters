@@ -6,6 +6,7 @@ location: "Otterbourne"
 manuscript: "MS Mitchell Library,  State Library of New South Wales. A1 p 7,  Reel CY1592  17-18."
 post_id: 3073
 letter_id: "to-john-william-parker-jr-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

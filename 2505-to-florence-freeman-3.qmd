@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: Bryce 156 (microfilm) ff21-2"
 post_id: 2505
 letter_id: "to-florence-freeman-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

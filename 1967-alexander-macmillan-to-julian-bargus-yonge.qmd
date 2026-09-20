@@ -5,6 +5,7 @@ letter_date: "July 30 1864"
 manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 196"
 post_id: 1967
 letter_id: "alexander-macmillan-to-julian-bargus-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3447
 letter_id: "to-miss-faithful"
+google-scholar: true
 citation:
   type: personal_communication
   author:

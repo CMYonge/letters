@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Mrs Clare Roels/96.  Printed by Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 344, and dated by her 1900"
 post_id: 3459
 letter_id: "to-christabel-rose-coleridge-44"
+google-scholar: true
 citation:
   type: personal_communication
   author:

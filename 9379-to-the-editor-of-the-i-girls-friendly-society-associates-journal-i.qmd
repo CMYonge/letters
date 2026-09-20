@@ -5,6 +5,7 @@ letter_date: "[December 1892]"
 manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (December 1892) 221."
 post_id: 9379
 letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+google-scholar: true
 citation:
   type: personal_communication
   author:

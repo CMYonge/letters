@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS NLS 966 f.381"
 post_id: 1935
 letter_id: "to-the-reverend-john-mason-neale"
+google-scholar: true
 citation:
   type: personal_communication
   author:

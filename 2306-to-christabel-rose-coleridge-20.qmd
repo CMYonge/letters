@@ -5,6 +5,7 @@ letter_date: "March 6 th [1869]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2306
 letter_id: "to-christabel-rose-coleridge-20"
+google-scholar: true
 citation:
   type: personal_communication
   author:

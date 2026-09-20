@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS BL Add.70949 f.387"
 post_id: 2105
 letter_id: "to-jean-ingelow-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

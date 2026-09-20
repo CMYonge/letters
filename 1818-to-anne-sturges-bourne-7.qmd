@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Hampshire Record Office: Sturges Bourne Collection: 9M55 F55/6p1"
 post_id: 1818
 letter_id: "to-anne-sturges-bourne-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

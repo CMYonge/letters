@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Lady Margaret Hall, Oxford. Printed in part by Wordsworth, [<i>Glimpses of the Past</i>](other_books/otherbook_727.qmd),."
 post_id: 2756
 letter_id: "to-elizabeth-wordsworth"
+google-scholar: true
 citation:
   type: personal_communication
   author:

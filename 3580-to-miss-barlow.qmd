@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Torquay Museum AR2059"
 post_id: 3580
 letter_id: "to-miss-barlow"
+google-scholar: true
 citation:
   type: personal_communication
   author:

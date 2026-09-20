@@ -6,6 +6,7 @@ location: "Testwood"
 manuscript: "British Library Add MSS 54920: 34"
 post_id: 1972
 letter_id: "to-messrs-macmillan-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

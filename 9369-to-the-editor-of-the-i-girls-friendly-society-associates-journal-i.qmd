@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i> (May 1895) 79."
 post_id: 9369
 letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i"
+google-scholar: true
 citation:
   type: personal_communication
   author:

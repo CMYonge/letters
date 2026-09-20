@@ -6,6 +6,7 @@ location: "Wantage"
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2319
 letter_id: "to-alexander-macmillan-110"
+google-scholar: true
 citation:
   type: personal_communication
   author:

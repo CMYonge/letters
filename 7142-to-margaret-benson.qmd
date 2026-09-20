@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Bodleian Library Benson C.5.4  fol 96"
 post_id: 7142
 letter_id: "to-margaret-benson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. d.328 ff198-9"
 post_id: 2687
 letter_id: "to-an-unknown-man-18"
+google-scholar: true
 citation:
   type: personal_communication
   author:

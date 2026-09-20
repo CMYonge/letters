@@ -5,6 +5,7 @@ letter_date: "Aug 10th [1891-1893]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3601
 letter_id: "to-ann-maria-carter-smith-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell"
 post_id: 3374
 letter_id: "to-misey"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Torquay"
 manuscript: "MS Bodleian Library, Oxford: MS. Don. d.144 ff 158-9"
 post_id: 1839
 letter_id: "to-the-reverend-henry-octavius-coxe"
+google-scholar: true
 citation:
   type: personal_communication
   author:

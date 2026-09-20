@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1877/ 2"
 post_id: 2602
 letter_id: "to-ann-maria-carter-smith-80"
+google-scholar: true
 citation:
   type: personal_communication
   author:

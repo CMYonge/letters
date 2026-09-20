@@ -5,6 +5,7 @@ letter_date: "[1861]"
 manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> pp. 97"
 post_id: 1847
 letter_id: "to-elizabeth-barnett-or-edith-emma-butler"
+google-scholar: true
 citation:
   type: personal_communication
   author:

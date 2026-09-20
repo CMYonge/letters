@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of London Library/AL 293/2/1"
 post_id: 2555
 letter_id: "to-an-unknown-woman-41"
+google-scholar: true
 citation:
   type: personal_communication
   author:

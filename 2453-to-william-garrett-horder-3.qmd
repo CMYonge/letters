@@ -5,6 +5,7 @@ letter_date: "Aug 2nd [1877]"
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 2453
 letter_id: "to-william-garrett-horder-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Otterbourne,Winchester."
 manuscript: "MS New York Public Library: Berg Collection"
 post_id: 1816
 letter_id: "to-elizabeth-missing-sewell-13"
+google-scholar: true
 citation:
   type: personal_communication
   author:

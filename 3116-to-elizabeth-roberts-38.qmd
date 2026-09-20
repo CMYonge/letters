@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Huntington Library"
 post_id: 3116
 letter_id: "to-elizabeth-roberts-38"
+google-scholar: true
 citation:
   type: personal_communication
   author:

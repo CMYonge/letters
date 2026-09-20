@@ -5,6 +5,7 @@ letter_date: "March 17 [1899]"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 330"
 post_id: 3399
 letter_id: "to-marianne-bigg-wither-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

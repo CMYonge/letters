@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Cheltenham Ladies College 0942"
 post_id: 3344
 letter_id: "to-mrs-walker"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Women’s Library, London Metropolitan University,  7MHE/3/1"
 post_id: 7909
 letter_id: "to-margaret-bateson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

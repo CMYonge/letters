@@ -6,6 +6,7 @@ location: "Torquay"
 manuscript: "University of Iowa; MsL/Y56hu"
 post_id: 3553
 letter_id: "to-the-reverend-lewis-macnaughton-humbert"
+google-scholar: true
 citation:
   type: personal_communication
   author:

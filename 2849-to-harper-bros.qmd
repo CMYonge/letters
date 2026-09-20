@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Columbia University Library, New York:  Harper Bros Collection"
 post_id: 2849
 letter_id: "to-harper-bros"
+google-scholar: true
 citation:
   type: personal_communication
   author:

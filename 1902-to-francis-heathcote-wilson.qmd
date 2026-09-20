@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge XII 1"
 post_id: 1902
 letter_id: "to-francis-heathcote-wilson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

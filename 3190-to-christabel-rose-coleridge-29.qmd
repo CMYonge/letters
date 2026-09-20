@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3190
 letter_id: "to-christabel-rose-coleridge-29"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Sept. 13 1864"
 manuscript: "Copy outletter book British Library Add MSS. 55383 (1): P. 327"
 post_id: 1975
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-13"
+google-scholar: true
 citation:
   type: personal_communication
   author:

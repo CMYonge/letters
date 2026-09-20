@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS British Library Add.42577 f.348"
 post_id: 2218
 letter_id: "to-laura-valentine-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS location unknown. Microfiche copy The Women’s Library: 9/07/048 No.112 ."
 post_id: 2469
 letter_id: "to-anne-mercier-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

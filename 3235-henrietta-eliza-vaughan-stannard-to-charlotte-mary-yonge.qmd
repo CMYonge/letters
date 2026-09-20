@@ -6,6 +6,7 @@ location: "Montague House. Birchington. Thanet."
 manuscript: "TS UCLA collection 100 box 119/13"
 post_id: 3235
 letter_id: "henrietta-eliza-vaughan-stannard-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

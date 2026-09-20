@@ -5,6 +5,7 @@ letter_date: "[1870]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2431
 letter_id: "to-elizabeth-missing-sewell-20"
+google-scholar: true
 citation:
   type: personal_communication
   author:

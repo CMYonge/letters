@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS New York Public Library: Berg Collection"
 post_id: 2592
 letter_id: "to-miss-cleveland-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

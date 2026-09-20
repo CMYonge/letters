@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Cambridge University Library Add 4251 (B)/1530"
 post_id: 2799
 letter_id: "to-constance-frederica-gordon-cumming-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

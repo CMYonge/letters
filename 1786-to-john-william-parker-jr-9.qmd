@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "Princeton University, Parrish Collection, C0171: Box 29"
 post_id: 1786
 letter_id: "to-john-william-parker-jr-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

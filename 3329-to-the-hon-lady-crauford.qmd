@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3329
 letter_id: "to-the-hon-lady-crauford"
+google-scholar: true
 citation:
   type: personal_communication
   author:

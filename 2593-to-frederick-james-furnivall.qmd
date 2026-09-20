@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge XV 2"
 post_id: 2593
 letter_id: "to-frederick-james-furnivall"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Plymouth and West Devon Area Record Office Ac 1092/34"
 post_id: 2420
 letter_id: "to-charlotte-cordelia-yonge-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

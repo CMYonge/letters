@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 2299
 letter_id: "to-henrietta-elizabeth-fursdon-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

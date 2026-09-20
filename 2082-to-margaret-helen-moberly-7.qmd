@@ -5,6 +5,7 @@ letter_date: "Novr 28th [1865?]"
 manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/3"
 post_id: 2082
 letter_id: "to-margaret-helen-moberly-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "May 1854"
 manuscript: "MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 111-2."
 post_id: 3044
 letter_id: "frances-mary-yonge-to-alice-arbuthnot-moberly-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

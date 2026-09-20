@@ -6,6 +6,7 @@ location: "Otterbourne"
 manuscript: "MS NLS 966 ff. 373-4"
 post_id: 3078
 letter_id: "to-an-unknown-man-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: 30424 . . . . fol 69 Autograph d.4."
 post_id: 2811
 letter_id: "to-an-unknown-woman-62"
+google-scholar: true
 citation:
   type: personal_communication
   author:

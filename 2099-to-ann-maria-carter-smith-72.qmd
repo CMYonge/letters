@@ -5,6 +5,7 @@ letter_date: "Jan 22nd [1866]"
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1866/ 1"
 post_id: 2099
 letter_id: "to-ann-maria-carter-smith-72"
+google-scholar: true
 citation:
   type: personal_communication
   author:

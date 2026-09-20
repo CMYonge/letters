@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3559
 letter_id: "to-the-hon-mrs-montgomery-moore"
+google-scholar: true
 citation:
   type: personal_communication
   author:

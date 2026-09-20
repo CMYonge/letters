@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS University of Iowa; MsL/Y56se"
 post_id: 3238
 letter_id: "to-lady-sophia-matilda-palmer"
+google-scholar: true
 citation:
   type: personal_communication
   author:

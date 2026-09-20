@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Plymouth and West Devon Record Office  308/260"
 post_id: 2556
 letter_id: "to-mary-yonge-45"
+google-scholar: true
 citation:
   type: personal_communication
   author:

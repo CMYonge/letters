@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge VIII 5"
 post_id: 2530
 letter_id: "to-isabel-mary-warburton"
+google-scholar: true
 citation:
   type: personal_communication
   author:

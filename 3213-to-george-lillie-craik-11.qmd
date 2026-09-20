@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS British Library  Add MSS 54921: 188-9"
 post_id: 3213
 letter_id: "to-george-lillie-craik-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

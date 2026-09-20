@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS West Devon Area Record Office"
 post_id: 3351
 letter_id: "to-mary-yonge-22"
+google-scholar: true
 citation:
   type: personal_communication
   author:

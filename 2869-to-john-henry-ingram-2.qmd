@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Girton College Cambridge, Yonge V 2"
 post_id: 2869
 letter_id: "to-john-henry-ingram-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

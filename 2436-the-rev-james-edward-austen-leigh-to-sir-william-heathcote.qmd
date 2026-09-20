@@ -6,6 +6,7 @@ location: "Bray,"
 manuscript: "MS Girton College,  Cambridge Yonge I 2"
 post_id: 2436
 letter_id: "the-rev-james-edward-austen-leigh-to-sir-william-heathcote"
+google-scholar: true
 citation:
   type: personal_communication
   author:

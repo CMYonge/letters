@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Humanities Research Center, University of Texas, Austin, Charlotte M. Yonge collection/4"
 post_id: 2540
 letter_id: "to-louisa-lilias-greene"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS  Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 10:British Literary Misc"
 post_id: 3321
 letter_id: "to-mary-elizabeth-wormeley-latimer-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

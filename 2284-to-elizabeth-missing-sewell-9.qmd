@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 2284
 letter_id: "to-elizabeth-missing-sewell-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Envelope postmarked Winchester 26 March 1853 and Plympton 27 March
 manuscript: "MS (envelope) West Devon Record Office Acc No 308"
 post_id: 3009
 letter_id: "to-anne-yonge-27"
+google-scholar: true
 citation:
   type: personal_communication
   author:

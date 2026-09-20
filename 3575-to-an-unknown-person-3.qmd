@@ -6,6 +6,7 @@ location: "70 Kensington Gardens Square"
 manuscript: "MS Charlotte Mitchell/20"
 post_id: 3575
 letter_id: "to-an-unknown-person-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

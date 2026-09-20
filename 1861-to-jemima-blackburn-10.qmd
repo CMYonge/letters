@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS University of Illinois, Urbana Champaign: Letter 12."
 post_id: 1861
 letter_id: "to-jemima-blackburn-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

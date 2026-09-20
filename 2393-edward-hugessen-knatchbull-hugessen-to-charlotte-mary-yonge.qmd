@@ -6,6 +6,7 @@ location: "Secretary of State, Home Department Smeeth"
 manuscript: "MS UCLA collection 100 box 119"
 post_id: 2393
 letter_id: "edward-hugessen-knatchbull-hugessen-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

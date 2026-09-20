@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3525
 letter_id: "to-elizabeth-missing-sewell-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

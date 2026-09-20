@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3557
 letter_id: "to-mrs-white"
+google-scholar: true
 citation:
   type: personal_communication
   author:

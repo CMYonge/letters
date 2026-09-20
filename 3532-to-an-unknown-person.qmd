@@ -4,6 +4,7 @@ letter_date: "Undated"
 manuscript: "MS fragment  Princeton University, Parrish Collection"
 post_id: 3532
 letter_id: "to-an-unknown-person"
+google-scholar: true
 citation:
   type: personal_communication
   author:

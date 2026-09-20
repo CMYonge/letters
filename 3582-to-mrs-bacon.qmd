@@ -5,6 +5,7 @@ letter_date: "July 29th [1872-1898]"
 manuscript: "MS with Waiting For Godot Books, 2005, transcribed from Abebooks."
 post_id: 3582
 letter_id: "to-mrs-bacon"
+google-scholar: true
 citation:
   type: personal_communication
   author:

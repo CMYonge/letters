@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell/5"
 post_id: 2495
 letter_id: "to-misey-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

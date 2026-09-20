@@ -5,6 +5,7 @@ letter_date: "[11 July 1864]"
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1864/ 6"
 post_id: 1962
 letter_id: "to-ann-maria-carter-smith"
+google-scholar: true
 citation:
   type: personal_communication
   author:

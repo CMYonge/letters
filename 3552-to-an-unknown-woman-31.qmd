@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Iowa; MsL/Y56/23.Nov."
 post_id: 3552
 letter_id: "to-an-unknown-woman-31"
+google-scholar: true
 citation:
   type: personal_communication
   author:

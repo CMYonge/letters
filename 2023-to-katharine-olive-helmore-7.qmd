@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell/Cobweb-6"
 post_id: 2023
 letter_id: "to-katharine-olive-helmore-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

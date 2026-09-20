@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Winchester College Library"
 post_id: 1863
 letter_id: "to-jane-augusta-merriman-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

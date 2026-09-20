@@ -5,6 +5,7 @@ letter_date: "June 29th [1870]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3543
 letter_id: "to-edward-augustus-freeman-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

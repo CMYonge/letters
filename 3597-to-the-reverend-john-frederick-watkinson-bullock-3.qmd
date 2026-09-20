@@ -5,6 +5,7 @@ letter_date: "[1890s?]"
 manuscript: "MS Bodleian Library, Oxford: English Letters: e.174 ff177"
 post_id: 3597
 letter_id: "to-the-reverend-john-frederick-watkinson-bullock-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

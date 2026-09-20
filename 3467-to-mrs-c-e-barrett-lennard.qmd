@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Bodleian Library, Oxford: Autogr. d. 22 ff68-70"
 post_id: 3467
 letter_id: "to-mrs-c-e-barrett-lennard"
+google-scholar: true
 citation:
   type: personal_communication
   author:

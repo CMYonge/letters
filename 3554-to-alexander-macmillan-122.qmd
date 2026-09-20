@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Iowa; MsL/Y56ma2"
 post_id: 3554
 letter_id: "to-alexander-macmillan-122"
+google-scholar: true
 citation:
   type: personal_communication
   author:

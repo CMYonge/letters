@@ -6,6 +6,7 @@ location: "Sackville College"
 manuscript: "MS UCLA collection 100 box 119/10"
 post_id: 3493
 letter_id: "the-reverend-john-mason-neale-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

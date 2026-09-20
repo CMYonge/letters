@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Rosemary, Viscountess Chaplin"
 post_id: 3608
 letter_id: "to-agnes-cox"
+google-scholar: true
 citation:
   type: personal_communication
   author:

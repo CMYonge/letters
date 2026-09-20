@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2312
 letter_id: "to-an-unknown-woman-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

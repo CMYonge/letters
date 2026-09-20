@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Lady Margaret Hall, Oxford."
 post_id: 2608
 letter_id: "to-elizabeth-wordsworth-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

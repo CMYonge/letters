@@ -5,6 +5,7 @@ letter_date: "[May 1894]"
 manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 191-2."
 post_id: 3265
 letter_id: "to-ethel-romanes-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

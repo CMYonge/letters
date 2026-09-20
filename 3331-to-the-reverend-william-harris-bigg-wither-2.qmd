@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Theaterwissenschaftliche Sammlung, Universität zu Köln"
 post_id: 3331
 letter_id: "to-the-reverend-william-harris-bigg-wither-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

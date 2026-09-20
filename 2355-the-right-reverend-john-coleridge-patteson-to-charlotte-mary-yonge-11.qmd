@@ -6,6 +6,7 @@ location: "Norfolk Island"
 manuscript: "MS location unknown. Printed in Yonge, <i>[Life of John Coleridge Patteson</i>](cmy_books/cmybook_102.qmd), II, 390-6."
 post_id: 2355
 letter_id: "the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

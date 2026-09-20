@@ -5,6 +5,7 @@ letter_date: "[November 1862]"
 manuscript: "MS location unknown. Printed in Yonge, <i>Life of John Coleridge Patteson</i> II, 22-3"
 post_id: 1876
 letter_id: "from-the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

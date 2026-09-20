@@ -5,6 +5,7 @@ letter_date: "June 9th 1882"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2753
 letter_id: "to-mr-duncan"
+google-scholar: true
 citation:
   type: personal_communication
   author:

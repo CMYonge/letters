@@ -5,6 +5,7 @@ letter_date: "Tuesday [1860-1877]"
 manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3563
 letter_id: "to-emma-frances-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 14535
 letter_id: "to-francis-turner-palgrave"
+google-scholar: true
 citation:
   type: personal_communication
   author:

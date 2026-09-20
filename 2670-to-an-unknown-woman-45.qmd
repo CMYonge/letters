@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin."
 post_id: 2670
 letter_id: "to-an-unknown-woman-45"
+google-scholar: true
 citation:
   type: personal_communication
   author:

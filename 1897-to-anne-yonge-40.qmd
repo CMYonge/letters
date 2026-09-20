@@ -6,6 +6,7 @@ location: "Dunstans"
 manuscript: "MS WDRO Acc No 308: 30/7/63"
 post_id: 1897
 letter_id: "to-anne-yonge-40"
+google-scholar: true
 citation:
   type: personal_communication
   author:

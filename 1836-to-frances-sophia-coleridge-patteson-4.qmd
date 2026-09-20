@@ -5,6 +5,7 @@ letter_date: "July 7, 1861"
 manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 122-4"
 post_id: 1836
 letter_id: "to-frances-sophia-coleridge-patteson-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

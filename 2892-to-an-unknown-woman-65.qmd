@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Yale, Beinecke Library,  Osborn Files 41.21"
 post_id: 2892
 letter_id: "to-an-unknown-woman-65"
+google-scholar: true
 citation:
   type: personal_communication
   author:

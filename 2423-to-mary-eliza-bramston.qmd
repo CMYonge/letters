@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Winchester City Council, Historic Resources Centre LH803.4"
 post_id: 2423
 letter_id: "to-mary-eliza-bramston"
+google-scholar: true
 citation:
   type: personal_communication
   author:

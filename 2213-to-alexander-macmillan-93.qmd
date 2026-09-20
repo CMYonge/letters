@@ -6,6 +6,7 @@ location: "[Weston](organizations/other_196.qmd) St Mary Church Torquay"
 manuscript: "MS British Library Add MSS 54920: 192-193"
 post_id: 2213
 letter_id: "to-alexander-macmillan-93"
+google-scholar: true
 citation:
   type: personal_communication
   author:

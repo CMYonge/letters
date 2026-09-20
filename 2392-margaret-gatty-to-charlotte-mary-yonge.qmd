@@ -6,6 +6,7 @@ location: "Ecclesfield"
 manuscript: "MS UCLA collection 100 box 119/5"
 post_id: 2392
 letter_id: "margaret-gatty-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

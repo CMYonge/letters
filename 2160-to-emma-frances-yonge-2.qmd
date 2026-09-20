@@ -5,6 +5,7 @@ letter_date: "[1867?]"
 manuscript: "MS Huntington Library: Letter to Lady Mount Temple: Stamped “Kane American”. HM 34936"
 post_id: 2160
 letter_id: "to-emma-frances-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

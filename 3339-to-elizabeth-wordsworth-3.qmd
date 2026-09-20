@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown; these fragments printed in Wordsworth, [<i>Glimpses of the Past</i>](other_books/otherbook_727.qmd), 187-8"
 post_id: 3339
 letter_id: "to-elizabeth-wordsworth-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

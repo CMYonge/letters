@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 2472
 letter_id: "to-gertrude-louisa-legrand-jacob-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

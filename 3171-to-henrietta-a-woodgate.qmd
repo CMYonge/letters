@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Pusey House WOOD 5/4/1"
 post_id: 3171
 letter_id: "to-henrietta-a-woodgate"
+google-scholar: true
 citation:
   type: personal_communication
   author:

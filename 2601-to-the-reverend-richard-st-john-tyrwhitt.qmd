@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne,Winchester."
 manuscript: "MS University of Iowa; MsL/Y56ty"
 post_id: 2601
 letter_id: "to-the-reverend-richard-st-john-tyrwhitt"
+google-scholar: true
 citation:
   type: personal_communication
   author:

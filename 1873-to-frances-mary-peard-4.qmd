@@ -5,6 +5,7 @@ letter_date: "[August 1862]"
 manuscript: "MS location unknown. This fragment printed in Mary J. Harris, 1903. <i>Memoir of Frances Mary Peard</i>, p. 48."
 post_id: 1873
 letter_id: "to-frances-mary-peard-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

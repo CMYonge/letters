@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Eton College, ALS to AIT."
 post_id: 2502
 letter_id: "to-anne-isabella-thackeray"
+google-scholar: true
 citation:
   type: personal_communication
   author:

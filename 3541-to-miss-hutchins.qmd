@@ -5,6 +5,7 @@ letter_date: "[1880s, 1890s?]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3541
 letter_id: "to-miss-hutchins"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS University of Illinois, Urbana Champaign: Letter 10."
 post_id: 2798
 letter_id: "to-jemima-blackburn"
+google-scholar: true
 citation:
   type: personal_communication
   author:

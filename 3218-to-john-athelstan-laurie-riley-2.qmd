@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Lambeth Palace Library  2344 f 176"
 post_id: 3218
 letter_id: "to-john-athelstan-laurie-riley-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

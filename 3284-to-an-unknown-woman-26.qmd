@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3284
 letter_id: "to-an-unknown-woman-26"
+google-scholar: true
 citation:
   type: personal_communication
   author:

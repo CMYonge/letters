@@ -6,6 +6,7 @@ location: "Corby"
 manuscript: "MS Huntington Library: Letters to Frederick James Furnivall. FU 971"
 post_id: 1965
 letter_id: "to-frederick-james-furnivall-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

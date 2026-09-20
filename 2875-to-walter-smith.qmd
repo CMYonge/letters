@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Girton College Cambridge, Yonge V 3"
 post_id: 2875
 letter_id: "to-walter-smith"
+google-scholar: true
 citation:
   type: personal_communication
   author:

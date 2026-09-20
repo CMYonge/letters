@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Columbia University Library, New York: Yonge Coll"
 post_id: 3120
 letter_id: "to-the-reverend-upton-richards"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Decr 26th 1857"
 manuscript: "MS Mrs Caroline Fairclough/14"
 post_id: 3115
 letter_id: "to-anna-butler-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

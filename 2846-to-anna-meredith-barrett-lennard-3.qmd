@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Special Collections, The Shakespeare Centre, Stratford-upon-Avon."
 post_id: 2846
 letter_id: "to-anna-meredith-barrett-lennard-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

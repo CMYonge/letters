@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection C0171: Box 29"
 post_id: 2690
 letter_id: "to-blanche-catherine-medhurst-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Mitchell Library, State Library of New South Wales.  ML A27 1-275, Reel CY2846"
 post_id: 2378
 letter_id: "to-ellen-julia-johns-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

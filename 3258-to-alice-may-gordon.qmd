@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3258
 letter_id: "to-alice-may-gordon"
+google-scholar: true
 citation:
   type: personal_communication
   author:

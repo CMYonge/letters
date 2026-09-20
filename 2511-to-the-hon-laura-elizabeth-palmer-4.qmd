@@ -6,6 +6,7 @@ location: "Somerleaze"
 manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 175-6."
 post_id: 2511
 letter_id: "to-the-hon-laura-elizabeth-palmer-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "University of Tennessee Special Collections Library"
 post_id: 3517
 letter_id: "to-an-unknown-woman"
+google-scholar: true
 citation:
   type: personal_communication
   author:

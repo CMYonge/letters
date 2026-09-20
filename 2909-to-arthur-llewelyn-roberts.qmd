@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS RLF Archive, File 2311.  World Microfilms  Reel 93."
 post_id: 2909
 letter_id: "to-arthur-llewelyn-roberts"
+google-scholar: true
 citation:
   type: personal_communication
   author:

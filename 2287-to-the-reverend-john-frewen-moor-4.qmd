@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2287
 letter_id: "to-the-reverend-john-frewen-moor-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

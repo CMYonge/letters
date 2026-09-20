@@ -5,6 +5,7 @@ letter_date: "Oct 21st [after 1875]"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3526
 letter_id: "to-the-rt-rev-edward-harold-browne"
+google-scholar: true
 citation:
   type: personal_communication
   author:

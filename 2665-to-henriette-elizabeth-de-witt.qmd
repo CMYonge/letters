@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Fondation Guizot-Val Richer"
 post_id: 2665
 letter_id: "to-henriette-elizabeth-de-witt"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3396
 letter_id: "to-mary-elizabeth-sumner-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

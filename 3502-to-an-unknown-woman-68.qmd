@@ -5,6 +5,7 @@ letter_date: "July 17th [1884-1893]"
 manuscript: "MS Winchester City Council, Historic Resources Centre LH 3803.3"
 post_id: 3502
 letter_id: "to-an-unknown-woman-68"
+google-scholar: true
 citation:
   type: personal_communication
   author:

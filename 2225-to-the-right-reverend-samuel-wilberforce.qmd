@@ -6,6 +6,7 @@ location: "Otterbourne"
 manuscript: "MS Bodleian Library, Oxford: MSS. Wilberforce c. 16 ff64-5"
 post_id: 2225
 letter_id: "to-the-right-reverend-samuel-wilberforce"
+google-scholar: true
 citation:
   type: personal_communication
   author:

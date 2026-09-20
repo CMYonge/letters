@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Girton College Cambridge, Yonge V 1"
 post_id: 2308
 letter_id: "to-alexander-macmillan-107"
+google-scholar: true
 citation:
   type: personal_communication
   author:

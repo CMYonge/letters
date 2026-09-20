@@ -5,6 +5,7 @@ letter_date: "April 1st 1876"
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 2548
 letter_id: "to-mary-penelope-fursdon"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Sept 8th [1871]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2418
 letter_id: "to-elizabeth-missing-sewell-19"
+google-scholar: true
 citation:
   type: personal_communication
   author:

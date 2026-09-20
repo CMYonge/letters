@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 338"
 post_id: 3333
 letter_id: "to-mary-elizabeth-christie-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

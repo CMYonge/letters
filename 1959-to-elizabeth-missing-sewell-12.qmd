@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS New York Public Library: Berg Collection"
 post_id: 1959
 letter_id: "to-elizabeth-missing-sewell-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

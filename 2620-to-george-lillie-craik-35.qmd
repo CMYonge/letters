@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS British Library Add MSS 54921: 50-51"
 post_id: 2620
 letter_id: "to-george-lillie-craik-35"
+google-scholar: true
 citation:
   type: personal_communication
   author:

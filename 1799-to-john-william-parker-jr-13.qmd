@@ -6,6 +6,7 @@ location: "Otterbourne,Winchester."
 manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 10"
 post_id: 1799
 letter_id: "to-john-william-parker-jr-13"
+google-scholar: true
 citation:
   type: personal_communication
   author:

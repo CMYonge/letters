@@ -6,6 +6,7 @@ location: "New College"
 manuscript: "MS Keble College, Oxford, Liddon Correspondence 1869 (2:4)."
 post_id: 2316
 letter_id: "to-the-reverend-henry-parry-liddon"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge XI 2"
 post_id: 1804
 letter_id: "to-susanna-warren-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Mrs Philip Drazin"
 post_id: 3604
 letter_id: "to-cordelia-elizabeth-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

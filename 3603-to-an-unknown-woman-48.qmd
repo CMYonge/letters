@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Harry Ransom Humanities Resource Center, University of Texas at Austin"
 post_id: 3603
 letter_id: "to-an-unknown-woman-48"
+google-scholar: true
 citation:
   type: personal_communication
   author:

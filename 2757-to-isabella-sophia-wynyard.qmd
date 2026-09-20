@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell /8"
 post_id: 2757
 letter_id: "to-isabella-sophia-wynyard"
+google-scholar: true
 citation:
   type: personal_communication
   author:

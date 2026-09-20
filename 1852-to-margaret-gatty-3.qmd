@@ -5,6 +5,7 @@ letter_date: "[1861]"
 manuscript: "MS location unknown. This fragment printed by Christabel Maxwell, <i>[Mrs Gatty and Mrs Ewing](other_books/otherbook_306.qmd)</i>, (1949) 140-1."
 post_id: 1852
 letter_id: "to-margaret-gatty-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

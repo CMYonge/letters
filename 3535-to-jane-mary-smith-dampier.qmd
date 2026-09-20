@@ -5,6 +5,7 @@ letter_date: "Decr 19 [1896?]"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3535
 letter_id: "to-jane-mary-smith-dampier"
+google-scholar: true
 citation:
   type: personal_communication
   author:

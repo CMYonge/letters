@@ -5,6 +5,7 @@ letter_date: "Novr 24th [1864]"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3527
 letter_id: "to-hannah-yongef"
+google-scholar: true
 citation:
   type: personal_communication
   author:

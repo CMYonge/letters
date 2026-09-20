@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Hampshire Record Office: Sturges Bourne Collection: 9M55 F55 1p2"
 post_id: 3125
 letter_id: "to-anne-sturges-bourne-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

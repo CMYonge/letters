@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS location unknown.  Published in the [<i>Spectator</i>](organizations/other_180.qmd), 85,  (8 December 1900), 841."
 post_id: 19000
 letter_id: "to-john-st-loe-strachey"
+google-scholar: true
 citation:
   type: personal_communication
   author:

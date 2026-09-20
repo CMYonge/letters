@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Columbia University Library, New York: Samuels, J.H. Collection"
 post_id: 2048
 letter_id: "to-an-unknown-woman-75"
+google-scholar: true
 citation:
   type: personal_communication
   author:

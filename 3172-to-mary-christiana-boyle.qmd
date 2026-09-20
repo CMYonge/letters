@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Charlotte Mitchell/11"
 post_id: 3172
 letter_id: "to-mary-christiana-boyle"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2814
 letter_id: "to-constance-frederica-gordon-cumming"
+google-scholar: true
 citation:
   type: personal_communication
   author:

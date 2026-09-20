@@ -5,6 +5,7 @@ letter_date: "[November or December 1851]"
 manuscript: "MS location unknown.  Printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 98."
 post_id: 2982
 letter_id: "to-alice-arbuthnot-moberly-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

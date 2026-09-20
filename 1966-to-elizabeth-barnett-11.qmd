@@ -5,6 +5,7 @@ letter_date: "[Summer 1864]"
 manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 102"
 post_id: 1966
 letter_id: "to-elizabeth-barnett-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

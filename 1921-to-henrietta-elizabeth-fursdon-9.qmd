@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne, Winchester."
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 1921
 letter_id: "to-henrietta-elizabeth-fursdon-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

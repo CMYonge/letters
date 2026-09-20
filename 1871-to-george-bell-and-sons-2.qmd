@@ -6,6 +6,7 @@ location: "Baldersby"
 manuscript: "MS Reading University Library, uncatalogued Bell MSS/1"
 post_id: 1871
 letter_id: "to-george-bell-and-sons-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

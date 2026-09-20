@@ -5,6 +5,7 @@ letter_date: "[1865]"
 manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 93"
 post_id: 2024
 letter_id: "to-an-unknown-person-perhaps-elizabeth-barnett-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

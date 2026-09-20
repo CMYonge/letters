@@ -6,6 +6,7 @@ location: "Crookham"
 manuscript: "MS WDRO Acc No 308: 4/8/63"
 post_id: 1899
 letter_id: "to-anne-yonge-42"
+google-scholar: true
 citation:
   type: personal_communication
   author:

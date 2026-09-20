@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Hampshire Record Office 9M55 F55/1/1"
 post_id: 3095
 letter_id: "frances-mary-yonge-to-anne-sturges-bourne"
+google-scholar: true
 citation:
   type: personal_communication
   author:

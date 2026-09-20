@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 303"
 post_id: 3413
 letter_id: "to-helena-heathcote-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

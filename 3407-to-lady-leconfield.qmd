@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Lord Egremont, Petworth House, in the care of West Sussex Record Office, PHA 9687/2."
 post_id: 3407
 letter_id: "to-lady-leconfield"
+google-scholar: true
 citation:
   type: personal_communication
   author:

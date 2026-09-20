@@ -6,6 +6,7 @@ location: "Ottery"
 manuscript: "MS Charlotte Mitchell/Cobweb-7"
 post_id: 2070
 letter_id: "to-katharine-olive-helmore-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

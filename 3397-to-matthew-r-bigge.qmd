@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "The Rev. Canon Geoffrey Curtis"
 post_id: 3397
 letter_id: "to-matthew-r-bigge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

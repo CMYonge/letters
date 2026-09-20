@@ -5,6 +5,7 @@ letter_date: "[after 1866]"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3521
 letter_id: "to-miss-phillpotts"
+google-scholar: true
 citation:
   type: personal_communication
   author:

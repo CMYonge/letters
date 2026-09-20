@@ -6,6 +6,7 @@ location: "Elderfield,"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> pp. 327-328"
 post_id: 3207
 letter_id: "to-the-reverend-vere-awdry"
+google-scholar: true
 citation:
   type: personal_communication
   author:

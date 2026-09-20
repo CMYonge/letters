@@ -5,6 +5,7 @@ letter_date: "February 21st [1880s?]"
 manuscript: "MS Miss Barbara Dennis/7"
 post_id: 2929
 letter_id: "to-mary-isabel-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Decr 18th [1865]"
 manuscript: "MS British Library Add MSS 54920: 125"
 post_id: 2086
 letter_id: "to-alexander-macmillan-64"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[October 1888]"
 manuscript: "MS location unknown.  Printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd), 301-2."
 post_id: 2894
 letter_id: "to-charlotte-anne-elizabeth-moberly-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

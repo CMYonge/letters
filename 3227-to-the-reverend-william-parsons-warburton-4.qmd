@@ -6,6 +6,7 @@ location: "The Close Salisbury"
 manuscript: "MS Girton College Cambridge, Yonge VII 4"
 post_id: 3227
 letter_id: "to-the-reverend-william-parsons-warburton-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

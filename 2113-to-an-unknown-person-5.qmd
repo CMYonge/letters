@@ -5,6 +5,7 @@ letter_date: "[7? April 1866]"
 manuscript: "MS location unknown. Printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> p. 103"
 post_id: 2113
 letter_id: "to-an-unknown-person-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

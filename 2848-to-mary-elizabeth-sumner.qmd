@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester."
 manuscript: "MS Trinity College, Cambridge Cullum Q81"
 post_id: 2848
 letter_id: "to-mary-elizabeth-sumner"
+google-scholar: true
 citation:
   type: personal_communication
   author:

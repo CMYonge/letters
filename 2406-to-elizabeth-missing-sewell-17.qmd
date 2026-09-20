@@ -5,6 +5,7 @@ letter_date: "[13 May 1871]"
 manuscript: "UCLA: collection 100: box 95"
 post_id: 2406
 letter_id: "to-elizabeth-missing-sewell-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

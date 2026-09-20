@@ -5,6 +5,7 @@ letter_date: "[1899-1900?]"
 manuscript: "MS West Devon Area Record Office Acc No 308"
 post_id: 3595
 letter_id: "to-mary-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

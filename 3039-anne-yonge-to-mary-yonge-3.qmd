@@ -6,6 +6,7 @@ location: "Otterborn"
 manuscript: "MS Plymouth and West Devon Record Office 308/123/9"
 post_id: 3039
 letter_id: "anne-yonge-to-mary-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

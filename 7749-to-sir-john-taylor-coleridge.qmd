@@ -5,6 +5,7 @@ letter_date: "Jany 26th [1870]"
 manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC"
 post_id: 7749
 letter_id: "to-sir-john-taylor-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

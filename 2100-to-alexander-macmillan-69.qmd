@@ -5,6 +5,7 @@ letter_date: "Jan 22nd [1866]"
 manuscript: "MS British Library Add MSS 54920: 134-5"
 post_id: 2100
 letter_id: "to-alexander-macmillan-69"
+google-scholar: true
 citation:
   type: personal_communication
   author:

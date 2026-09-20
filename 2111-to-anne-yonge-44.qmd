@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 224"
 post_id: 2111
 letter_id: "to-anne-yonge-44"
+google-scholar: true
 citation:
   type: personal_communication
   author:

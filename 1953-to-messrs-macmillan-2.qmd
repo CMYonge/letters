@@ -5,6 +5,7 @@ letter_date: "May 7th [1864]"
 manuscript: "MS British Library Add MSS 54920: 25"
 post_id: 1953
 letter_id: "to-messrs-macmillan-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Southbank Edinburgh"
 manuscript: "MS UCLA collection 100 box 119/12"
 post_id: 2755
 letter_id: "elizabeth-jane-oswald-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

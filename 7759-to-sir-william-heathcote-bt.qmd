@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86206 Yonge JTC"
 post_id: 7759
 letter_id: "to-sir-william-heathcote-bt"
+google-scholar: true
 citation:
   type: personal_communication
   author:

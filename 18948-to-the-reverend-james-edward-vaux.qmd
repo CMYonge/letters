@@ -6,6 +6,7 @@ location: "[Elderfield] Otterbourne, Winchester"
 manuscript: "MS location unknown.  Extract and summaries in J. E. Vaux <i>Church Folk Lore</i> 2nd edition (1902), 334, 341, 352."
 post_id: 18948
 letter_id: "to-the-reverend-james-edward-vaux"
+google-scholar: true
 citation:
   type: personal_communication
   author:

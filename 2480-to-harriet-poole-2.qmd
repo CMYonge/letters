@@ -5,6 +5,7 @@ letter_date: "[August 1873]"
 manuscript: "MS Charlotte Mitchell"
 post_id: 2480
 letter_id: "to-harriet-poole-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

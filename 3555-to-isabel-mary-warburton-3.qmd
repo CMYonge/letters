@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Iowa; MsL/Y56wa"
 post_id: 3555
 letter_id: "to-isabel-mary-warburton-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

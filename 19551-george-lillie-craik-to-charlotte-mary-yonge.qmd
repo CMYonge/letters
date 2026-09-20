@@ -5,6 +5,7 @@ letter_date: "14 May 1866"
 manuscript: "Copy outletter book British Library Add MSS.55386 (1) P. 48"
 post_id: 19551
 letter_id: "george-lillie-craik-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Otterbourne,Winchester."
 manuscript: "MS British Library Add MSS 54920: 45-46"
 post_id: 1981
 letter_id: "to-alexander-macmillan-23"
+google-scholar: true
 citation:
   type: personal_communication
   author:

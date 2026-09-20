@@ -5,6 +5,7 @@ letter_date: "Decr 22d [1865]"
 manuscript: "MS University of Delaware"
 post_id: 2088
 letter_id: "to-ellen-julia-johns-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

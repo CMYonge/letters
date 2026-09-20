@@ -5,6 +5,7 @@ letter_date: "April 10th 1860"
 manuscript: "MS Charlotte Mitchell"
 post_id: 1789
 letter_id: "to-frances-dorothy-moor"
+google-scholar: true
 citation:
   type: personal_communication
   author:

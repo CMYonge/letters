@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 308-9"
 post_id: 2641
 letter_id: "to-elizabeth-barnett-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

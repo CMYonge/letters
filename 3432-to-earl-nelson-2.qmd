@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3432
 letter_id: "to-earl-nelson-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Cheltenham Ladies College 5351 Gor/2"
 post_id: 3150
 letter_id: "to-dorothea-beale"
+google-scholar: true
 citation:
   type: personal_communication
   author:

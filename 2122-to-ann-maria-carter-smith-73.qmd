@@ -6,6 +6,7 @@ location: "New College"
 manuscript: "MS Helen Schinske"
 post_id: 2122
 letter_id: "to-ann-maria-carter-smith-73"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "MUSEUM OF SCIENCE AND ART,"
 manuscript: "MS UCLA collection 100 box 119/2"
 post_id: 3223
 letter_id: "isabella-lucy-bishop-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

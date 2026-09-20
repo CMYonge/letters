@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS West Devon Area Record Office Ac 1092/32"
 post_id: 1864
 letter_id: "to-charlotte-cordelia-pode"
+google-scholar: true
 citation:
   type: personal_communication
   author:

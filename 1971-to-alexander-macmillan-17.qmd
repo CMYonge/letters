@@ -6,6 +6,7 @@ location: "[Miss Sturges Bourn](people/person_1379.qmd) Testwood Southampton"
 manuscript: "MS British Library Add MSS 54920: 32-33"
 post_id: 1971
 letter_id: "to-alexander-macmillan-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

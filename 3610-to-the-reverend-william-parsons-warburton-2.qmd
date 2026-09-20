@@ -5,6 +5,7 @@ letter_date: "[1890s?]"
 manuscript: "MS Girton College Cambridge, Yonge VIII 2"
 post_id: 3610
 letter_id: "to-the-reverend-william-parsons-warburton-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

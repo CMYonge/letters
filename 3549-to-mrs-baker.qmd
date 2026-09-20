@@ -5,6 +5,7 @@ letter_date: "Jany 22nd [1860-1890]"
 manuscript: "MS Columbia University Library, New York:  Ray Collection."
 post_id: 3549
 letter_id: "to-mrs-baker"
+google-scholar: true
 citation:
   type: personal_communication
   author:

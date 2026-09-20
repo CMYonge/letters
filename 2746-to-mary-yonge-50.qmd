@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Plymouth and West Devon Record Office Acc No 308: 29-3-82"
 post_id: 2746
 letter_id: "to-mary-yonge-50"
+google-scholar: true
 citation:
   type: personal_communication
   author:

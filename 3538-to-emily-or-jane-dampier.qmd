@@ -5,6 +5,7 @@ letter_date: "[<i>c</i>. 1870?]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3538
 letter_id: "to-emily-or-jane-dampier"
+google-scholar: true
 citation:
   type: personal_communication
   author:

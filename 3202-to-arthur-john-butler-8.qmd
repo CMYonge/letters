@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Mrs Caroline Fairclough/29"
 post_id: 3202
 letter_id: "to-arthur-john-butler-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

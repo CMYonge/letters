@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2743
 letter_id: "to-an-unknown-woman-55"
+google-scholar: true
 citation:
   type: personal_communication
   author:

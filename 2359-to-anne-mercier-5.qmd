@@ -6,6 +6,7 @@ location: "“Monthly Packet” 6, Paternoster Row, London, E.C."
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2359
 letter_id: "to-anne-mercier-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

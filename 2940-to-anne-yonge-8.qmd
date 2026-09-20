@@ -5,6 +5,7 @@ letter_date: "[late December 1838  or early January  1839]"
 manuscript: "MS location unknown.  This fragment printed in Coleridge, <i>Life</i> 136-7."
 post_id: 2940
 letter_id: "to-anne-yonge-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

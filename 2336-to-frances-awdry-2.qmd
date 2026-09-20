@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS NLS 399 f. 379-80"
 post_id: 2336
 letter_id: "to-frances-awdry-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

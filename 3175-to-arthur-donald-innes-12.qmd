@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3175
 letter_id: "to-arthur-donald-innes-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

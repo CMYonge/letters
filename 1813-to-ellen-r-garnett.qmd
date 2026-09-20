@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Eng. lett. e.30 ff137-9"
 post_id: 1813
 letter_id: "to-ellen-r-garnett"
+google-scholar: true
 citation:
   type: personal_communication
   author:

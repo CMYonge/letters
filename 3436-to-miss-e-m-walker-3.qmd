@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS  West Sussex County Record Office/ Add. 16,944/5"
 post_id: 3436
 letter_id: "to-miss-e-m-walker-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

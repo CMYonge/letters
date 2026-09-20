@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Girton College Cambridge, Yonge IV 28"
 post_id: 3189
 letter_id: "to-arthur-donald-innes-16"
+google-scholar: true
 citation:
   type: personal_communication
   author:

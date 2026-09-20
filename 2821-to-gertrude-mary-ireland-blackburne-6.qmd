@@ -5,6 +5,7 @@ letter_date: "[late 1885?]"
 manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 188, 189."
 post_id: 2821
 letter_id: "to-gertrude-mary-ireland-blackburne-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

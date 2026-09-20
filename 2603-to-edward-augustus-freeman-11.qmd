@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS British Library Add MSS 54921: 34-35"
 post_id: 2603
 letter_id: "to-edward-augustus-freeman-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

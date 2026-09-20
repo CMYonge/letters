@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "Essex Record Office D/Dlu/95/1/1"
 post_id: 19268
 letter_id: "to-anna-rachel-bramston"
+google-scholar: true
 citation:
   type: personal_communication
   author:

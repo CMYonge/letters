@@ -5,6 +5,7 @@ letter_date: "[?January 1837]"
 manuscript: "MS Plymouth and West Devon Record Office 308/82"
 post_id: 2935
 letter_id: "william-crawley-yonge-to-the-rev-john-yonge-including-charlotte-mary-yonge-to-anne-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

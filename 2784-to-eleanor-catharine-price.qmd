@@ -5,6 +5,7 @@ letter_date: "[1883?]"
 manuscript: "MS fragment with Richard Ford, manuscripts dealer, 2006, transcribed from the catalogue."
 post_id: 2784
 letter_id: "to-eleanor-catharine-price"
+google-scholar: true
 citation:
   type: personal_communication
   author:

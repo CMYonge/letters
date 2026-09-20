@@ -5,6 +5,7 @@ letter_date: "OtterbournMarch 31st [1855]"
 manuscript: "MS West Devon Record Office Acc 1092/14"
 post_id: 3064
 letter_id: "to-anne-yonge-36"
+google-scholar: true
 citation:
   type: personal_communication
   author:

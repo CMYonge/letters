@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas. C. R. Coleridge Collection"
 post_id: 2067
 letter_id: "to-fanny"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS John Rylands Library, Manchester, FA1/7/835"
 post_id: 2497
 letter_id: "to-edward-augustus-freeman-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

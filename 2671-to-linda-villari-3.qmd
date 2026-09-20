@@ -5,6 +5,7 @@ letter_date: "[3 May 1879]"
 manuscript: "MS Bodleian Library, Oxford: Eng. lett. d. 495 f106"
 post_id: 2671
 letter_id: "to-linda-villari-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

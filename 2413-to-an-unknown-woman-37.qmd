@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS New York Public Library, De Coursey Fales Collection/3"
 post_id: 2413
 letter_id: "to-an-unknown-woman-37"
+google-scholar: true
 citation:
   type: personal_communication
   author:

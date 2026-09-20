@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mary Yonge Society/6"
 post_id: 2689
 letter_id: "to-cyril-hammond-elgie"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Iowa; MsL/Y56/1866"
 post_id: 2135
 letter_id: "to-an-unknown-man-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

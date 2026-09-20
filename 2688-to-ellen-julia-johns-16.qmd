@@ -5,6 +5,7 @@ letter_date: "[1870-2?]"
 manuscript: "MS Mitchell Library, Sydney. ML A27 1-275 (Microfilmed Sept 1993, Reel CY2846 )"
 post_id: 2688
 letter_id: "to-ellen-julia-johns-16"
+google-scholar: true
 citation:
   type: personal_communication
   author:

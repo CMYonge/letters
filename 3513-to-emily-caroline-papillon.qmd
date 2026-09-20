@@ -5,6 +5,7 @@ letter_date: "[probably late January ?1870s]"
 manuscript: "MS fragment Mitchell Library, Sydney. Autograph letters collected by Sir Henry Parkes, 1862-1888. (Microfilmed Dec 1995. Reel CY3430.)"
 post_id: 3513
 letter_id: "to-emily-caroline-papillon"
+google-scholar: true
 citation:
   type: personal_communication
   author:

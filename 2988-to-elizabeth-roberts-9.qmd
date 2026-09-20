@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Huntington Library: Yonge Letters"
 post_id: 2988
 letter_id: "to-elizabeth-roberts-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

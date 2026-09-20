@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Winchester City Council, Historic Resources Centre, LH3802"
 post_id: 2844
 letter_id: "to-isabella-margaretta-elizabeth-heathcote"
+google-scholar: true
 citation:
   type: personal_communication
   author:

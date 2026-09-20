@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge XI 4"
 post_id: 2391
 letter_id: "to-susanna-warren-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "June 1st, 1890."
 manuscript: "MS location unknown. Printed in the <i>[Girls’ Friendly Society Associates’ Journal and Advertiser](organizations/other_72.qmd)</i>  (June 1890) 103."
 post_id: 9403
 letter_id: "to-the-editor-of-the-i-girls-friendly-society-associates-journal-i-"
+google-scholar: true
 citation:
   type: personal_communication
   author:

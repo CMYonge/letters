@@ -5,6 +5,7 @@ letter_date: "[1886]"
 manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 181."
 post_id: 2847
 letter_id: "to-the-very-reverend-william-john-butler-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

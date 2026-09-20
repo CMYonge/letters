@@ -6,6 +6,7 @@ location: "Otterbourne. Winchester."
 manuscript: "MS Charlotte Mitchell."
 post_id: 19905
 letter_id: "to-john-william-parker-jr"
+google-scholar: true
 citation:
   type: personal_communication
   author:

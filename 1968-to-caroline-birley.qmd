@@ -6,6 +6,7 @@ location: "London"
 manuscript: "MS Charlotte Mitchell/9"
 post_id: 1968
 letter_id: "to-caroline-birley"
+google-scholar: true
 citation:
   type: personal_communication
   author:

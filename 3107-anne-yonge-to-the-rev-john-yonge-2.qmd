@@ -6,6 +6,7 @@ location: "The Royal Hospital"
 manuscript: "MS Plymouth and West Devon Record Office 308/123/25"
 post_id: 3107
 letter_id: "anne-yonge-to-the-rev-john-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

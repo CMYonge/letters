@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Mrs Clare Roels"
 post_id: 2630
 letter_id: "to-christabel-rose-coleridge-93"
+google-scholar: true
 citation:
   type: personal_communication
   author:

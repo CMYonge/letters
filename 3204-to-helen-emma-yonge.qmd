@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 335"
 post_id: 3204
 letter_id: "to-helen-emma-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

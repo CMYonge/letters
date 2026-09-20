@@ -6,6 +6,7 @@ location: "Crookham"
 manuscript: "MS Girton College Cambridge, Yonge VI 1"
 post_id: 2077
 letter_id: "to-elizabeth-missing-sewell-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

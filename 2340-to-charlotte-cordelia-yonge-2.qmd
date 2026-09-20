@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS West Devon Area Record Office Ac 1092/35"
 post_id: 2340
 letter_id: "to-charlotte-cordelia-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

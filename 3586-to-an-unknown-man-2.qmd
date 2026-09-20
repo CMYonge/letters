@@ -5,6 +5,7 @@ letter_date: "[1892/3?]"
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 3586
 letter_id: "to-an-unknown-man-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

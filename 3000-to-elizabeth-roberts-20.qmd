@@ -6,6 +6,7 @@ location: "Malvern"
 manuscript: "MS Huntington Library: Yonge Letters"
 post_id: 3000
 letter_id: "to-elizabeth-roberts-20"
+google-scholar: true
 citation:
   type: personal_communication
   author:

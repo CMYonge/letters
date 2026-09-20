@@ -5,6 +5,7 @@ letter_date: "[1860s]"
 manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3562
 letter_id: "to-christabel-rose-coleridge-21"
+google-scholar: true
 citation:
   type: personal_communication
   author:

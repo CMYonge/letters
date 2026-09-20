@@ -5,6 +5,7 @@ letter_date: "[1837]"
 manuscript: "MS location unknown.  This fragment printed by Coleridge, <i>Life</i>, 140."
 post_id: 2934
 letter_id: "to-anne-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

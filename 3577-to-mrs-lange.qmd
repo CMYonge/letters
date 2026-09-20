@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Cheltenham Ladies College 0941/188"
 post_id: 3577
 letter_id: "to-mrs-lange"
+google-scholar: true
 citation:
   type: personal_communication
   author:

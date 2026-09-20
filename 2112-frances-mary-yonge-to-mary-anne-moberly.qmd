@@ -6,6 +6,7 @@ location: "Otterbourne"
 manuscript: "MS location unknown. Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i>, 177-8."
 post_id: 2112
 letter_id: "frances-mary-yonge-to-mary-anne-moberly"
+google-scholar: true
 citation:
   type: personal_communication
   author:

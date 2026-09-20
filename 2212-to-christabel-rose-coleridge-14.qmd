@@ -6,6 +6,7 @@ location: "Puslinch Yealmpton"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2212
 letter_id: "to-christabel-rose-coleridge-14"
+google-scholar: true
 citation:
   type: personal_communication
   author:

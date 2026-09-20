@@ -5,6 +5,7 @@ letter_date: "Kohimarama: Dec. 21, 1859."
 manuscript: "MS location unknown.  Printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> I, 434-8."
 post_id: 3144
 letter_id: "from-the-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

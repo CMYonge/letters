@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Girton College Cambridge, Yonge IX 3"
 post_id: 2876
 letter_id: "to-beatrix-feodore-cresswell"
+google-scholar: true
 citation:
   type: personal_communication
   author:

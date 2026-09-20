@@ -5,6 +5,7 @@ letter_date: "Friday [3 March 1854]"
 manuscript: "MS Plymouth and West Devon Record Office 308/255"
 post_id: 3032
 letter_id: "frances-mary-yonge-to-the-reverend-john-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

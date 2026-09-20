@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3343
 letter_id: "to-mrs-wathen"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[May 1876]"
 manuscript: "MS fragment West Devon Area Record Office Acc No 308: ?-5-76"
 post_id: 2552
 letter_id: "to-mary-yonge-42"
+google-scholar: true
 citation:
   type: personal_communication
   author:

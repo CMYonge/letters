@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Royal Academy GRI/3/465"
 post_id: 2463
 letter_id: "to-george-richmond"
+google-scholar: true
 citation:
   type: personal_communication
   author:

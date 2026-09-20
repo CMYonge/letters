@@ -6,6 +6,7 @@ location: "Baldersby"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 1870
 letter_id: "to-frances-sophia-coleridge-patteson-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

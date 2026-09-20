@@ -6,6 +6,7 @@ location: "11 Bexley Terrace Torquay"
 manuscript: "MS UCLA collection 100 box 119/1"
 post_id: 3173
 letter_id: "anna-harriet-drury-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

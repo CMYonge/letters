@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell/10"
 post_id: 3226
 letter_id: "to-the-right-reverend-john-richardson-selwyn"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 332-3"
 post_id: 2347
 letter_id: "to-anne-elizabeth-mary-anderson-morshead-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

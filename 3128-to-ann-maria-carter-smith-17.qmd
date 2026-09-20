@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Westcountry Studies Library, Exeter/  Yonge 1859/2"
 post_id: 3128
 letter_id: "to-ann-maria-carter-smith-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

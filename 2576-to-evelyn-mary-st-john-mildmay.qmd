@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mary Yonge Society/ 1"
 post_id: 2576
 letter_id: "to-evelyn-mary-st-john-mildmay"
+google-scholar: true
 citation:
   type: personal_communication
   author:

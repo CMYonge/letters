@@ -6,6 +6,7 @@ location: "The Edge, Tooting Common."
 manuscript: "MS UCLA collection 100 box 119/6"
 post_id: 3170
 letter_id: "katherine-sarah-macquoid-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

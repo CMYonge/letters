@@ -5,6 +5,7 @@ letter_date: "Decr 7th [1854]"
 manuscript: "MS Huntington Library: Yonge Letters"
 post_id: 3057
 letter_id: "to-elizabeth-roberts-36"
+google-scholar: true
 citation:
   type: personal_communication
   author:

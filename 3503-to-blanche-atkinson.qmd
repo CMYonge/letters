@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Winchester City Council, Historic Resources Centre LH3803.2"
 post_id: 3503
 letter_id: "to-blanche-atkinson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

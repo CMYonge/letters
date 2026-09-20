@@ -5,6 +5,7 @@ letter_date: "January 19, 1869"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 331-2"
 post_id: 2296
 letter_id: "to-anne-elizabeth-mary-anderson-morshead-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "House of Commons"
 manuscript: "MS Girton College, Cambridge, Yonge II"
 post_id: 1950
 letter_id: "sir-william-heathcote-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

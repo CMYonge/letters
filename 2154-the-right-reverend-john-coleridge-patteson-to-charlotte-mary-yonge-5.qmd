@@ -6,6 +6,7 @@ location: "[Kohimarama](organizations/other_139.qmd)"
 manuscript: "MS location unknown. Printed in Yonge, <i>cmybook:102]Life of John Coleridge Patteson]</i>, II, 240-46."
 post_id: 2154
 letter_id: "the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "University of Tennessee Special Collections Library"
 post_id: 2558
 letter_id: "to-an-unknown-woman-42"
+google-scholar: true
 citation:
   type: personal_communication
   author:

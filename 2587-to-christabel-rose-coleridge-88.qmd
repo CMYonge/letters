@@ -5,6 +5,7 @@ letter_date: "July 9th 1877"
 manuscript: "MS Harry Ransom Humanities Research Center,  University of Texas"
 post_id: 2587
 letter_id: "to-christabel-rose-coleridge-88"
+google-scholar: true
 citation:
   type: personal_communication
   author:

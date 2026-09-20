@@ -6,6 +6,7 @@ location: "Puslinch"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3508
 letter_id: "to-an-unknown-woman-19"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 314-5"
 post_id: 3244
 letter_id: "to-the-reverend-arthur-roland-maddison"
+google-scholar: true
 citation:
   type: personal_communication
   author:

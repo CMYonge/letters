@@ -6,6 +6,7 @@ location: "85, Lexham Gardens, Kensington, W"
 manuscript: "MS NLS 9752"
 post_id: 2826
 letter_id: "mary-louisa-molesworth-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

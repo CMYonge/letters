@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS University of Manchester Ryl Eng. MS 734/183"
 post_id: 3096
 letter_id: "to-the-reverend-edward-coleridge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

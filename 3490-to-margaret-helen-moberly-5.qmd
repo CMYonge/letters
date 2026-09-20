@@ -5,6 +5,7 @@ letter_date: "June 1st [1850s?]"
 manuscript: "MS location unknown. Photocopies lent by Barbara Dennis: Maggie/4"
 post_id: 3490
 letter_id: "to-margaret-helen-moberly-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

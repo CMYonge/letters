@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection, C0171: Box 29: Author Files Wood-Yonge:"
 post_id: 1942
 letter_id: "to-ann-catherine-johns"
+google-scholar: true
 citation:
   type: personal_communication
   author:

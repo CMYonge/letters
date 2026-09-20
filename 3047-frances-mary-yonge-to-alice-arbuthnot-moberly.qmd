@@ -6,6 +6,7 @@ location: "Otterbourne,"
 manuscript: "MS location unknown.  Printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 112-3."
 post_id: 3047
 letter_id: "frances-mary-yonge-to-alice-arbuthnot-moberly"
+google-scholar: true
 citation:
   type: personal_communication
   author:

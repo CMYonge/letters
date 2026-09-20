@@ -6,6 +6,7 @@ location: "[Otterbourne]"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 195."
 post_id: 3030
 letter_id: "to-mary-anne-dyson-18"
+google-scholar: true
 citation:
   type: personal_communication
   author:

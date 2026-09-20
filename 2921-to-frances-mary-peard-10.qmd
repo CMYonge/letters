@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2921
 letter_id: "to-frances-mary-peard-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Royal College of Surgeons, London, Hunter-Baillie collection 0014/7/244"
 post_id: 2445
 letter_id: "to-the-reverend-edward-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

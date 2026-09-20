@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS NLS 3553/70"
 post_id: 2583
 letter_id: "to-george-lillie-craik-25"
+google-scholar: true
 citation:
   type: personal_communication
   author:

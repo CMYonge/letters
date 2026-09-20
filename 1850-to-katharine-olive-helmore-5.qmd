@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Charlotte Mitchell/Cobweb-4"
 post_id: 1850
 letter_id: "to-katharine-olive-helmore-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

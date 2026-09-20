@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Bodleian Library, Oxford: Autogr. c.25 ff 266-7"
 post_id: 3219
 letter_id: "to-mr-moore"
+google-scholar: true
 citation:
   type: personal_communication
   author:

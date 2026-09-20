@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3373
 letter_id: "to-catharine-elgie-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

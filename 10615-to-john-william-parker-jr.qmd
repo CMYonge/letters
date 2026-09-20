@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS New York Public Library, Astor, Lenox and Tilden foundations, Lee Kohns collection"
 post_id: 10615
 letter_id: "to-john-william-parker-jr"
+google-scholar: true
 citation:
   type: personal_communication
   author:

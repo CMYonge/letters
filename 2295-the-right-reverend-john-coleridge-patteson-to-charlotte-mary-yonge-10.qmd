@@ -6,6 +6,7 @@ location: "St. Thomas, Norfolk Island"
 manuscript: "MS location unknown. This fragment printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i>, II, 341-4 and 346-8."
 post_id: 2295
 letter_id: "the-right-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[after 1875]"
 manuscript: "MS fragment Princeton University, Parrish Collection"
 post_id: 3530
 letter_id: "to-an-unknown-person-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

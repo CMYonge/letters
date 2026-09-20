@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: MS Eng. Lett d.418.ff 154-155"
 post_id: 1992
 letter_id: "to-the-reverend-henry-octavius-coxe-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

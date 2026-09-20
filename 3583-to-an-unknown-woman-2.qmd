@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Helen Schinske"
 post_id: 3583
 letter_id: "to-an-unknown-woman-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

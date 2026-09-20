@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Yale University, Beinecke Library"
 post_id: 1848
 letter_id: "to-the-reverend-william-george-henderson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

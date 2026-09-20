@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell/Cobweb-1"
 post_id: 1819
 letter_id: "to-katharine-olive-helmore-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

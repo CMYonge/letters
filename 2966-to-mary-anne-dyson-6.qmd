@@ -5,6 +5,7 @@ letter_date: "Saturday [18 May 1850]"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i>, 172-3]"
 post_id: 2966
 letter_id: "to-mary-anne-dyson-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

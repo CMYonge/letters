@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS University of Iowa; MsL/Y58wi"
 post_id: 3165
 letter_id: "to-florence-wilford-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3576
 letter_id: "to-the-author-of-%e2%80%98ella%e2%80%99s-dream%e2%80%99"
+google-scholar: true
 citation:
   type: personal_communication
   author:

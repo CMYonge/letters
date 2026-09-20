@@ -5,6 +5,7 @@ letter_date: "Whit Monday [19 May] 1861"
 manuscript: "MS NLS 966 ff. 377-80"
 post_id: 1829
 letter_id: "to-frances-sophia-coleridge-patteson-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

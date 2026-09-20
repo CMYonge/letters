@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Stanford University Library, British Authors  M121"
 post_id: 2766
 letter_id: "to-john-duke-pode"
+google-scholar: true
 citation:
   type: personal_communication
   author:

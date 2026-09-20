@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS British Library: Mary Gladstone Papers. Add MSS 46252: 10-11."
 post_id: 2858
 letter_id: "to-mary-drew-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

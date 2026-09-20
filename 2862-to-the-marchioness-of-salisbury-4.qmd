@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS The Marquess of Salisbury, Hatfield House 3MCH/5/3/2"
 post_id: 2862
 letter_id: "to-the-marchioness-of-salisbury-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

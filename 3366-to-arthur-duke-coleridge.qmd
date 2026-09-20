@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3366
 letter_id: "to-arthur-duke-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

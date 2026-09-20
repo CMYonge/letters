@@ -6,6 +6,7 @@ location: "From <u>Dr. MURRAY</u>, (Sunnyside, Banbury Road,) <u>OXFORD</u>,"
 manuscript: "MS UCLA collection 100 box 119/9"
 post_id: 2918
 letter_id: "james-augustus-henry-murray-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

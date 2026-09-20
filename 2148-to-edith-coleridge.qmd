@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "Harry Ransom Humanities Research Center, University of Texas"
 post_id: 2148
 letter_id: "to-edith-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "Princeton University, Parrish Collection, C0171: Box 29"
 post_id: 2092
 letter_id: "to-the-reverend-orby-shipley"
+google-scholar: true
 citation:
   type: personal_communication
   author:

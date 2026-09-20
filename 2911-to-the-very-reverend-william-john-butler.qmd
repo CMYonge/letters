@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS  Mrs Julia Birley/2"
 post_id: 2911
 letter_id: "to-the-very-reverend-william-john-butler"
+google-scholar: true
 citation:
   type: personal_communication
   author:

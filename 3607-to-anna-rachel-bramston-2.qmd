@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell/27"
 post_id: 3607
 letter_id: "to-anna-rachel-bramston-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

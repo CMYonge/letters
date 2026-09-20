@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS  Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 2368
 letter_id: "to-jane-mary-dampier"
+google-scholar: true
 citation:
   type: personal_communication
   author:

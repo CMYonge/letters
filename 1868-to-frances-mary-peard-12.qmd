@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Brigham Young University"
 post_id: 1868
 letter_id: "to-frances-mary-peard-12"
+google-scholar: true
 citation:
   type: personal_communication
   author:

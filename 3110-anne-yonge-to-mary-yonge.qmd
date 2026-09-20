@@ -6,6 +6,7 @@ location: "R. Hospital"
 manuscript: "MS Plymouth and West Devon Record Office  308/78/12"
 post_id: 3110
 letter_id: "anne-yonge-to-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[1892]"
 manuscript: "MS location unknown.  This excerpt quoted in March-Phillipps, [<i>Lanoe Falconer</i>](other_books/otherbook_1115.qmd) (1915), 184."
 post_id: 18956
 letter_id: "to-mary-elizabeth-hawker"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Iowa; MsL/Y56va"
 post_id: 2256
 letter_id: "to-laura-valentine"
+google-scholar: true
 citation:
   type: personal_communication
   author:

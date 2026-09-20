@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS British Library Add MSS 54921: 168-70"
 post_id: 2899
 letter_id: "to-george-lillie-craik-74"
+google-scholar: true
 citation:
   type: personal_communication
   author:

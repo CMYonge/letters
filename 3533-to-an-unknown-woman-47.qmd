@@ -6,6 +6,7 @@ location: "Tyntesfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3533
 letter_id: "to-an-unknown-woman-47"
+google-scholar: true
 citation:
   type: personal_communication
   author:

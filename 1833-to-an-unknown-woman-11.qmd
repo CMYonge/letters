@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection, Box 29"
 post_id: 1833
 letter_id: "to-an-unknown-woman-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

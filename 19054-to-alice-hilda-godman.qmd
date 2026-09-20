@@ -5,6 +5,7 @@ letter_date: "Decr 16th 1882"
 manuscript: "MS Charlotte Mitchell"
 post_id: 19054
 letter_id: "to-alice-hilda-godman"
+google-scholar: true
 citation:
   type: personal_communication
   author:

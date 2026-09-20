@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS New York Public Library: Berg Collection"
 post_id: 2574
 letter_id: "to-hezekiah-butterworth"
+google-scholar: true
 citation:
   type: personal_communication
   author:

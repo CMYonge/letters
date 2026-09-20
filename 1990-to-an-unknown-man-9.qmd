@@ -5,6 +5,7 @@ letter_date: "Novr 4th 1864"
 manuscript: "MS Princeton University, Parrish CollectionC0171: Box 29: Author Files Wood-Yonge:"
 post_id: 1990
 letter_id: "to-an-unknown-man-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

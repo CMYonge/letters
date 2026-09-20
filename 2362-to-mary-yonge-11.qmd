@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS WDRO Acc No 308: 22/12/69"
 post_id: 2362
 letter_id: "to-mary-yonge-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

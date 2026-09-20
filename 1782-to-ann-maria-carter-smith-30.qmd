@@ -5,6 +5,7 @@ letter_date: "March 5th 1860"
 manuscript: "MS Westcountry Studies Library, Exeter"
 post_id: 1782
 letter_id: "to-ann-maria-carter-smith-30"
+google-scholar: true
 citation:
   type: personal_communication
   author:

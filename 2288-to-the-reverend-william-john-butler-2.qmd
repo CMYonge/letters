@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 237-8"
 post_id: 2288
 letter_id: "to-the-reverend-william-john-butler-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

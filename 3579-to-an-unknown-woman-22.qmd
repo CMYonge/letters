@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS British Library Add 45224 L"
 post_id: 3579
 letter_id: "to-an-unknown-woman-22"
+google-scholar: true
 citation:
   type: personal_communication
   author:

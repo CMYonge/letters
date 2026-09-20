@@ -5,6 +5,7 @@ letter_date: "Decr 8th 1859"
 manuscript: "MS Westcountry Studies Library, Exeter."
 post_id: 3142
 letter_id: "to-ann-maria-carter-smith-25"
+google-scholar: true
 citation:
   type: personal_communication
   author:

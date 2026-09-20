@@ -5,6 +5,7 @@ letter_date: "Decr 21st 1897"
 manuscript: "MS Girton College Cambridge, Yonge VII 5"
 post_id: 3365
 letter_id: "to-the-reverend-william-parsons-warburton-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

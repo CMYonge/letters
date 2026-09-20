@@ -6,6 +6,7 @@ location: "Torquay"
 manuscript: "MS Bodleian Library Benson C.5.4 3/64 fol. 98"
 post_id: 7150
 letter_id: "to-margaret-benson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

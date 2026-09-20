@@ -4,6 +4,7 @@ letter_date: "unknown"
 manuscript: "MS Charlotte Mitchell."
 post_id: 19862
 letter_id: "to-an-unknown-correspondent"
+google-scholar: true
 citation:
   type: personal_communication
   author:

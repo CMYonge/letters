@@ -6,6 +6,7 @@ location: "B.Mouth"
 manuscript: "MS location unknown. These extracts printed in <i>[Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i>, liv-lv."
 post_id: 2091
 letter_id: "the-reverend-john-keble-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

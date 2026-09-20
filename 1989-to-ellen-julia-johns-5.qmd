@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Delaware F295"
 post_id: 1989
 letter_id: "to-ellen-julia-johns-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

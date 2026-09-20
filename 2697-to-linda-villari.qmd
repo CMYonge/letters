@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: Eng. lett. d. 495 f108"
 post_id: 2697
 letter_id: "to-linda-villari"
+google-scholar: true
 citation:
   type: personal_communication
   author:

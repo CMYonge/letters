@@ -6,6 +6,7 @@ location: "“Monthly Packet,” 6, Paternoster Row, London, E.C."
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3542
 letter_id: "to-an-unknown-woman-21"
+google-scholar: true
 citation:
   type: personal_communication
   author:

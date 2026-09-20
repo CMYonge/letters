@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3228
 letter_id: "to-alice-arbuthnot-moberly-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

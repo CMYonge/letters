@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Birmingham City Archives, Birmingham Reference Library MS 135"
 post_id: 1948
 letter_id: "to-the-editors-of-a-biographical-dictionary"
+google-scholar: true
 citation:
   type: personal_communication
   author:

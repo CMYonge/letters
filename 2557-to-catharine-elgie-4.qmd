@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mary Yonge Society/7"
 post_id: 2557
 letter_id: "to-catharine-elgie-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

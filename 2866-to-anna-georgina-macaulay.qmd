@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2866
 letter_id: "to-anna-georgina-macaulay"
+google-scholar: true
 citation:
   type: personal_communication
   author:

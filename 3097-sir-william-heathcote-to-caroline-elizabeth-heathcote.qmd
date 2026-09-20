@@ -6,6 +6,7 @@ location: "Malvern"
 manuscript: "MS Girton College, Cambridge Yonge, I 1"
 post_id: 3097
 letter_id: "sir-william-heathcote-to-caroline-elizabeth-heathcote"
+google-scholar: true
 citation:
   type: personal_communication
   author:

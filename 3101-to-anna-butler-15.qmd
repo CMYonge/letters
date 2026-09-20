@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester"
 manuscript: "MS University of Delaware Library, Newark, Delaware, F295"
 post_id: 3101
 letter_id: "to-anna-butler-15"
+google-scholar: true
 citation:
   type: personal_communication
   author:

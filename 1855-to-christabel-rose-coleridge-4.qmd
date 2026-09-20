@@ -5,6 +5,7 @@ letter_date: "[1862]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 1855
 letter_id: "to-christabel-rose-coleridge-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

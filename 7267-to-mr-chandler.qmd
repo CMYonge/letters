@@ -5,6 +5,7 @@ letter_date: "July 13th 1875"
 manuscript: "MS Jonathon Waugh"
 post_id: 7267
 letter_id: "to-mr-chandler"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Feb 9th [after 1853]"
 manuscript: "MS New York Public Library: Berg Collection"
 post_id: 3551
 letter_id: "to-an-unknown-woman-33"
+google-scholar: true
 citation:
   type: personal_communication
   author:

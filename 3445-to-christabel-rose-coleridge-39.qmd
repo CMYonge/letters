@@ -5,6 +5,7 @@ letter_date: "Feb 26 [1900]"
 manuscript: "MS Mrs Clare Roels/91"
 post_id: 3445
 letter_id: "to-christabel-rose-coleridge-39"
+google-scholar: true
 citation:
   type: personal_communication
   author:

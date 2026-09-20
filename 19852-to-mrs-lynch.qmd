@@ -5,6 +5,7 @@ letter_date: "[4 November 1890]"
 manuscript: "MS Charlotte Mitchell."
 post_id: 19852
 letter_id: "to-mrs-lynch"
+google-scholar: true
 citation:
   type: personal_communication
   author:

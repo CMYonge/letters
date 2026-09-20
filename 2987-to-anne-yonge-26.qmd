@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS West Devon Record Office Acc 1092/8"
 post_id: 2987
 letter_id: "to-anne-yonge-26"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield,"
 manuscript: "MS Pierpont Morgan Library, New York, MA 1485"
 post_id: 19453
 letter_id: "to-arthur-duke-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

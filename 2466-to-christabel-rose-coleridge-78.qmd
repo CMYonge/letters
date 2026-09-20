@@ -5,6 +5,7 @@ letter_date: "Innocents day [28 December 1872]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2466
 letter_id: "to-christabel-rose-coleridge-78"
+google-scholar: true
 citation:
   type: personal_communication
   author:

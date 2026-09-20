@@ -5,6 +5,7 @@ letter_date: "[after October 1886]"
 manuscript: "MS location unknown.  This fragment quoted in Mare and Percival, <i>[Victorian Best-seller](other_books/otherbook_598.qmd)</i>, 228."
 post_id: 3390
 letter_id: "to-an-unknown-person-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Dec 6th [1866]"
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2140
 letter_id: "to-anne-mackenzie"
+google-scholar: true
 citation:
   type: personal_communication
   author:

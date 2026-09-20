@@ -102,6 +102,7 @@ make_citation_yaml <- function(post_id, post_title, iso_date, post_name) {
   )
   
   lines <- c(
+    "google-scholar: true",
     "citation:",
     "  type: personal_communication",
     "  author:",

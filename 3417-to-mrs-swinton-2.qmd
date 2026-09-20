@@ -5,6 +5,7 @@ letter_date: "Sunday Aug 13th [1899]"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3417
 letter_id: "to-mrs-swinton-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

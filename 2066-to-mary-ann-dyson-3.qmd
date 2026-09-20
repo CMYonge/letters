@@ -5,6 +5,7 @@ letter_date: "August 19, 1865."
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 222-223"
 post_id: 2066
 letter_id: "to-mary-ann-dyson-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "March 19th [1866]"
 manuscript: "MS Charlotte Mitchell/Cobweb-8"
 post_id: 2107
 letter_id: "to-katharine-olive-helmore"
+google-scholar: true
 citation:
   type: personal_communication
   author:

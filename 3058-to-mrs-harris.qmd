@@ -5,6 +5,7 @@ letter_date: "Otterbourn  Friday [December 1854?]"
 manuscript: "MS Princeton University:  Parrish Collection, Princeton: C0171: Box 29."
 post_id: 3058
 letter_id: "to-mrs-harris"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne,"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd),  337"
 post_id: 3332
 letter_id: "to-daniel-conner-lathbury"
+google-scholar: true
 citation:
   type: personal_communication
   author:

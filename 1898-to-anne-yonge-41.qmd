@@ -6,6 +6,7 @@ location: "St Dunstans"
 manuscript: "MS WDRO Acc No 308: 31/7/63"
 post_id: 1898
 letter_id: "to-anne-yonge-41"
+google-scholar: true
 citation:
   type: personal_communication
   author:

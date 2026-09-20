@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS  Reading University Library, uncatalogued Bell MSS/2"
 post_id: 2395
 letter_id: "to-bell-and-daldy"
+google-scholar: true
 citation:
   type: personal_communication
   author:

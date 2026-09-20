@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Westcountry Studies Library, Exeter/  1887/ 1"
 post_id: 2861
 letter_id: "to-ann-maria-carter-smith-92"
+google-scholar: true
 citation:
   type: personal_communication
   author:

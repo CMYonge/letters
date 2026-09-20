@@ -5,6 +5,7 @@ letter_date: "July 13th 1860"
 manuscript: "MS NLS 966 f.373"
 post_id: 1797
 letter_id: "to-sir-john-patteson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

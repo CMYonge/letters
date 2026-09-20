@@ -5,6 +5,7 @@ letter_date: "December 1895"
 manuscript: "Printed in the Otterbourne Parish Magazine (December 1895)"
 post_id: 3304
 letter_id: "to-the-parishioners-of-otterbourne-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

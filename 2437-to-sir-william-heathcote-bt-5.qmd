@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Girton College Cambridge, Yonge  I 1. Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 301."
 post_id: 2437
 letter_id: "to-sir-william-heathcote-bt-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

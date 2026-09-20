@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 178-9"
 post_id: 2513
 letter_id: "to-the-hon-laura-elizabeth-palmer-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

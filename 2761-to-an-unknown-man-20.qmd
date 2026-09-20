@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Hertfordshire County Record Office D/EP F587 p24"
 post_id: 2761
 letter_id: "to-an-unknown-man-20"
+google-scholar: true
 citation:
   type: personal_communication
   author:

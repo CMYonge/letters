@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3198
 letter_id: "to-francis-turner-palgrave-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

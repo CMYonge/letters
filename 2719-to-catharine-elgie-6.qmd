@@ -5,6 +5,7 @@ letter_date: "[25 February 1881]"
 manuscript: "MS Charlotte Mary Yonge Society/4"
 post_id: 2719
 letter_id: "to-catharine-elgie-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Puslinch Yealmpton"
 manuscript: "MS British Library Add MSS 54920: 190-191"
 post_id: 2211
 letter_id: "to-george-lillie-craik-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

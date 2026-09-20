@@ -6,6 +6,7 @@ location: "45 Westbourne Terrace"
 manuscript: "MS British Library Add MSS 54920: 30-31"
 post_id: 1964
 letter_id: "to-alexander-macmillan-33"
+google-scholar: true
 citation:
   type: personal_communication
   author:

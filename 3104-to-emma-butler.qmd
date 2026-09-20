@@ -5,6 +5,7 @@ letter_date: "July 10th 1857"
 manuscript: "MS Winchester City Council, Historic Resources Centre LH3800"
 post_id: 3104
 letter_id: "to-emma-butler"
+google-scholar: true
 citation:
   type: personal_communication
   author:

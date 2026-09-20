@@ -5,6 +5,7 @@ letter_date: "Jany 23d [1868]"
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1869/1"
 post_id: 2231
 letter_id: "to-ann-maria-carter-smith-77"
+google-scholar: true
 citation:
   type: personal_communication
   author:

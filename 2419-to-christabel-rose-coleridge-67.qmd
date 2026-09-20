@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Research Center,  University of Texas"
 post_id: 2419
 letter_id: "to-christabel-rose-coleridge-67"
+google-scholar: true
 citation:
   type: personal_communication
   author:

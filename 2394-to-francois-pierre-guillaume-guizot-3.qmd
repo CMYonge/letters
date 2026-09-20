@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Archives Nationales"
 post_id: 2394
 letter_id: "to-francois-pierre-guillaume-guizot-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

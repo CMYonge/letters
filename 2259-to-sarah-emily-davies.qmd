@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, GCRF 9/1/22. Partly quoted in M.C.Bradbrook, <i>‘That infidel place’: a short history of Girton College, 1859-1969</i> (London: Chatto & Windus 1969)."
 post_id: 2259
 letter_id: "to-sarah-emily-davies"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell/15"
 post_id: 3169
 letter_id: "to-the-reverend-morgan-george-watkins"
+google-scholar: true
 citation:
   type: personal_communication
   author:

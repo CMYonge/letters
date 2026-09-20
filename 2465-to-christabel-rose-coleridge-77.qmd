@@ -5,6 +5,7 @@ letter_date: "Decr 23d [1872]"
 manuscript: "MS Mrs Clare Roels"
 post_id: 2465
 letter_id: "to-christabel-rose-coleridge-77"
+google-scholar: true
 citation:
   type: personal_communication
   author:

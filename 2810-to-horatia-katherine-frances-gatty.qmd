@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2810
 letter_id: "to-horatia-katherine-frances-gatty"
+google-scholar: true
 citation:
   type: personal_communication
   author:

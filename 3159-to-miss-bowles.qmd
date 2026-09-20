@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Miss Barbara Dennis/9"
 post_id: 3159
 letter_id: "to-miss-bowles"
+google-scholar: true
 citation:
   type: personal_communication
   author:

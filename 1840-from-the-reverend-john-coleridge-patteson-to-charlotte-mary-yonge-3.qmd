@@ -5,6 +5,7 @@ letter_date: "[19 ?October or November 1861]"
 manuscript: "MS location unknown. Printed in Yonge, <i>[Life of John Coleridge Patteson](cmy_books/cmybook_102.qmd)</i> I, 550"
 post_id: 1840
 letter_id: "from-the-reverend-john-coleridge-patteson-to-charlotte-mary-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

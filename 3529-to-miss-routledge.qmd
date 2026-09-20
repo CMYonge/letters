@@ -6,6 +6,7 @@ location: "“Monthly Packet” 6, Paternoster Row, London, E.C."
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3529
 letter_id: "to-miss-routledge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "May 13 1864"
 manuscript: "Copy outletter book British Library Add MSS. 5538SKIP3 (1): P. 49"
 post_id: 1955
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

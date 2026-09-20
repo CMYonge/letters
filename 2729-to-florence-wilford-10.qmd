@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester,"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), pp. 320-321"
 post_id: 2729
 letter_id: "to-florence-wilford-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

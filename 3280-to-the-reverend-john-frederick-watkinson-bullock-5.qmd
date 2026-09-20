@@ -5,6 +5,7 @@ letter_date: "[4 January 1895]"
 manuscript: "MS Bodleian Library, Oxford: MS English Letters: e.174 ff 158"
 post_id: 3280
 letter_id: "to-the-reverend-john-frederick-watkinson-bullock-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

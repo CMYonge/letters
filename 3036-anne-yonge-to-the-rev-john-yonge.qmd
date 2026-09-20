@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Plymouth and West Devon Record Office 308/123/10"
 post_id: 3036
 letter_id: "anne-yonge-to-the-rev-john-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

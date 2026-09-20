@@ -5,6 +5,7 @@ letter_date: "[1875?]"
 manuscript: "MS location unknown, fragment printed in Gwendolen Stephenson, [<i>Edward Stuart Talbot 1844 - 1934</i>](other_books/otherbook_869.qmd), 1936, 37."
 post_id: 2539
 letter_id: "to-the-reverend-edward-stuart-talbot"
+google-scholar: true
 citation:
   type: personal_communication
   author:

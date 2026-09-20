@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 1856
 letter_id: "to-harriet-dyke-acland-troyte"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Miss Barbara Dennis/2"
 post_id: 2551
 letter_id: "to-sophia-jane-harrison"
+google-scholar: true
 citation:
   type: personal_communication
   author:

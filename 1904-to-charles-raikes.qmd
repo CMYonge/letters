@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 1904
 letter_id: "to-charles-raikes"
+google-scholar: true
 citation:
   type: personal_communication
   author:

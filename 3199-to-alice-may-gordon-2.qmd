@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Girton College Cambridge, Yonge XIV 2"
 post_id: 3199
 letter_id: "to-alice-may-gordon-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

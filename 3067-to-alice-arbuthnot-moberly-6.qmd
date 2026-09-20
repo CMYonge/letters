@@ -6,6 +6,7 @@ location: "Otterbourne,"
 manuscript: "MS location unknown.  This fragment printed in <i>[Dulce Domum](other_books/otherbook_122.qmd)</i> 121-2."
 post_id: 3067
 letter_id: "to-alice-arbuthnot-moberly-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

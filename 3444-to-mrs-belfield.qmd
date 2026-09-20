@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Girton College Cambridge, Yonge XIII 2"
 post_id: 3444
 letter_id: "to-mrs-belfield"
+google-scholar: true
 citation:
   type: personal_communication
   author:

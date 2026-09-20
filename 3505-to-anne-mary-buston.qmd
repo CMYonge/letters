@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. c.25 f270"
 post_id: 3505
 letter_id: "to-anne-mary-buston"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "Decr 13th [late 1880s?]"
 manuscript: "MS Charlotte Mitchell/22"
 post_id: 2930
 letter_id: "to-an-unknown-woman-67"
+google-scholar: true
 citation:
   type: personal_communication
   author:

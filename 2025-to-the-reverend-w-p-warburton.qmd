@@ -5,6 +5,7 @@ letter_date: "[Before June 1865]"
 manuscript: "MS location unknown. This fragment printed in <i>[Letters of Alfred Lord Tennyson](other_books/otherbook_396.qmd)</i>,  II,  471"
 post_id: 2025
 letter_id: "to-the-reverend-w-p-warburton"
+google-scholar: true
 citation:
   type: personal_communication
   author:

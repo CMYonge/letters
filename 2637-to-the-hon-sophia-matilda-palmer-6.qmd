@@ -6,6 +6,7 @@ location: "Manor House Ottery S-Mary"
 manuscript: "MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 180-1."
 post_id: 2637
 letter_id: "to-the-hon-sophia-matilda-palmer-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

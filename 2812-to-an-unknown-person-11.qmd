@@ -5,6 +5,7 @@ letter_date: "[September 1885?]"
 manuscript: "MS Girton College Cambridge, Yonge IX 4"
 post_id: 2812
 letter_id: "to-an-unknown-person-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

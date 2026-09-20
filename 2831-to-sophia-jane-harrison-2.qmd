@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 2831
 letter_id: "to-sophia-jane-harrison-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

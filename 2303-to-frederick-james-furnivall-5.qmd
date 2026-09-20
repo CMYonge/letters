@@ -5,6 +5,7 @@ letter_date: "Febry 21st [1869]"
 manuscript: "MS Huntington Library: Letters to Frederick James Furnivall. FU 974"
 post_id: 2303
 letter_id: "to-frederick-james-furnivall-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

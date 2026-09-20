@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2324
 letter_id: "to-mrs-curteis-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "[Beechwood](organizations/other_126.qmd)"
 manuscript: "MS University of London Library/AL 293/2/2"
 post_id: 2125
 letter_id: "to-anna-maria-keary"
+google-scholar: true
 citation:
   type: personal_communication
   author:

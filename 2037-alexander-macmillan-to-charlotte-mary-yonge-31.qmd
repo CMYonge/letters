@@ -5,6 +5,7 @@ letter_date: "May 30. 1865"
 manuscript: "Copy outletter book British Library Add MSS. 55384 (2): P. 526"
 post_id: 2037
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-31"
+google-scholar: true
 citation:
   type: personal_communication
   author:

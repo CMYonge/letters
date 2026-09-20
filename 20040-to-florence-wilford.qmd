@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Pierpont Morgan Library, New York, MA 2768"
 post_id: 20040
 letter_id: "to-florence-wilford"
+google-scholar: true
 citation:
   type: personal_communication
   author:

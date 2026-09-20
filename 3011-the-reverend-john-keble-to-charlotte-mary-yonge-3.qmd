@@ -6,6 +6,7 @@ location: "H.V.,"
 manuscript: "MS location unknown.  Printed in [<i>Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i>, xxvii."
 post_id: 3011
 letter_id: "the-reverend-john-keble-to-charlotte-mary-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

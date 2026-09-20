@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Miss Barbara Dennis/1"
 post_id: 2399
 letter_id: "to-anne-sturges-bourne-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

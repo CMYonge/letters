@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Charlotte Mitchell/12"
 post_id: 2885
 letter_id: "to-mr-dean-or-the-dean-of"
+google-scholar: true
 citation:
   type: personal_communication
   author:

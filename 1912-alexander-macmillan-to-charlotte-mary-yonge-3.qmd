@@ -5,6 +5,7 @@ letter_date: "Nov: 4. 1863."
 manuscript: "Copy outletter book British Library Add MSS.55381 (2) P. 618"
 post_id: 1912
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

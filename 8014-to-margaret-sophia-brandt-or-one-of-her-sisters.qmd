@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Dr Susan Walton"
 post_id: 8014
 letter_id: "to-margaret-sophia-brandt-or-one-of-her-sisters"
+google-scholar: true
 citation:
   type: personal_communication
   author:

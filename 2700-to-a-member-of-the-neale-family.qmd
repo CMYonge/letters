@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Lambeth Palace Library MS 2677 f.114"
 post_id: 2700
 letter_id: "to-a-member-of-the-neale-family"
+google-scholar: true
 citation:
   type: personal_communication
   author:

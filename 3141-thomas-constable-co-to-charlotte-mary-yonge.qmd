@@ -5,6 +5,7 @@ letter_date: "28 November [?1859]"
 manuscript: "MS NLS, copy letter book of T. & A. Constable"
 post_id: 3141
 letter_id: "thomas-constable-co-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

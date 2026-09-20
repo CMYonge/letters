@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mary Yonge Fellowship"
 post_id: 2516
 letter_id: "to-nina-cole"
+google-scholar: true
 citation:
   type: personal_communication
   author:

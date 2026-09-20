@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS British Library Add.54921/198-200. Enclosed with1899 letter from CMY to George Macmillan, MS British Library Add MSS 54921: 254"
 post_id: 19450
 letter_id: "to-arthur-donald-innes"
+google-scholar: true
 citation:
   type: personal_communication
   author:

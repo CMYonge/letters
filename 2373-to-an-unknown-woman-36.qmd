@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Girton College Cambridge, Yonge IX 2"
 post_id: 2373
 letter_id: "to-an-unknown-woman-36"
+google-scholar: true
 citation:
   type: personal_communication
   author:

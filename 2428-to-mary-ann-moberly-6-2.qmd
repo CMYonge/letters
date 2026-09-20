@@ -5,6 +5,7 @@ letter_date: "Innocents' Day [28 December 1871]"
 manuscript: "MS location unknown.  Printed in [<i>Dulce Domum</i>](other_books/otherbook_122.qmd) 245"
 post_id: 2428
 letter_id: "to-mary-ann-moberly-6-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

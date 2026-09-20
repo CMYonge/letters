@@ -5,6 +5,7 @@ letter_date: "[early January 1872]"
 manuscript: "MS fragment  Historical Society of Pennsylvania: Gratz Collection: Case 11, Box 14."
 post_id: 2433
 letter_id: "to-an-unknown-person-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

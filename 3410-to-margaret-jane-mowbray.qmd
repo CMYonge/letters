@@ -6,6 +6,7 @@ location: "Elderfield,"
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[[otherbook:]Life]</i> p. 284"
 post_id: 3410
 letter_id: "to-margaret-jane-mowbray"
+google-scholar: true
 citation:
   type: personal_communication
   author:

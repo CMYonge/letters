@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Charlotte Mitchell/16"
 post_id: 2349
 letter_id: "to-james-yonge-or-the-rev-john-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

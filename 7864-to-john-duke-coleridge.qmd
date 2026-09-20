@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS British Library: Coleridge Family Papers E: Add MSS 86207 Yonge JDC"
 post_id: 7864
 letter_id: "to-john-duke-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

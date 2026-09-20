@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Charlotte Mitchell/32"
 post_id: 3295
 letter_id: "to-mary-trebeck-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Harold B Lee Library, Brigham Young University"
 post_id: 3584
 letter_id: "to-the-hon-lady-montgomery-moore"
+google-scholar: true
 citation:
   type: personal_communication
   author:

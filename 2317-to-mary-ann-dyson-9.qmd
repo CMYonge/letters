@@ -6,6 +6,7 @@ location: "Wantage,"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 259"
 post_id: 2317
 letter_id: "to-mary-ann-dyson-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

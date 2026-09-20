@@ -5,6 +5,7 @@ letter_date: "[4 April 1872?]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2441
 letter_id: "to-elizabeth-missing-sewell-21"
+google-scholar: true
 citation:
   type: personal_communication
   author:

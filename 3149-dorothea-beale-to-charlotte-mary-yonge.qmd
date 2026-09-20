@@ -6,6 +6,7 @@ location: "Ladies' College, Cheltenham"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 351"
 post_id: 3149
 letter_id: "dorothea-beale-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

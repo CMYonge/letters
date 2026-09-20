@@ -6,6 +6,7 @@ location: "[Puslinch]"
 manuscript: "MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i>, 87."
 post_id: 3134
 letter_id: "to-elizabeth-barnett-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

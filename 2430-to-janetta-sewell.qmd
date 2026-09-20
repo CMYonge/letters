@@ -6,6 +6,7 @@ location: "Elderfield,  Otterbourne, Winchester."
 manuscript: "MS fragment UCLA: collection 100: box 95"
 post_id: 2430
 letter_id: "to-janetta-sewell"
+google-scholar: true
 citation:
   type: personal_communication
   author:

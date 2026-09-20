@@ -5,6 +5,7 @@ letter_date: "5th August 1865"
 manuscript: "MS BL Add. 57,504 f.128"
 post_id: 2063
 letter_id: "frances-mary-yonge-to-daniel-sedgwick"
+google-scholar: true
 citation:
   type: personal_communication
   author:

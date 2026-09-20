@@ -5,6 +5,7 @@ letter_date: "August 6, 1838"
 manuscript: "MS location unknown. Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> 133-6."
 post_id: 2936
 letter_id: "to-anne-yonge-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

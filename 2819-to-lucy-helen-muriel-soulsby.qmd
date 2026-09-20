@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 2819
 letter_id: "to-lucy-helen-muriel-soulsby"
+google-scholar: true
 citation:
   type: personal_communication
   author:

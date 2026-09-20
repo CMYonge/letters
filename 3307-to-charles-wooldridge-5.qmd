@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Hampshire Record Office 67M92W/82/24"
 post_id: 3307
 letter_id: "to-charles-wooldridge-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

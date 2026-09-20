@@ -5,6 +5,7 @@ letter_date: "[January 1887]"
 manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  180."
 post_id: 2871
 letter_id: "to-elizabeth-barnett"
+google-scholar: true
 citation:
   type: personal_communication
   author:

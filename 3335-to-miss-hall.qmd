@@ -5,6 +5,7 @@ letter_date: "[12 December 1896]"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 3335
 letter_id: "to-miss-hall"
+google-scholar: true
 citation:
   type: personal_communication
   author:

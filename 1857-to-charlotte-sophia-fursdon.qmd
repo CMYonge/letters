@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Mrs Katherine Wykes-Sneyd"
 post_id: 1857
 letter_id: "to-charlotte-sophia-fursdon"
+google-scholar: true
 citation:
   type: personal_communication
   author:

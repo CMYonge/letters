@@ -5,6 +5,7 @@ letter_date: "[23 July 1873]"
 manuscript: "MS Charlotte Mitchell/14"
 post_id: 2477
 letter_id: "to-wilhelmina-martha-james"
+google-scholar: true
 citation:
   type: personal_communication
   author:

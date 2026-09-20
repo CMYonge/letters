@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell."
 post_id: 19839
 letter_id: "to-a-member-of-the-gosling-society"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "The College Ely"
 manuscript: "MS UCLA collection 100 box 119/4"
 post_id: 2841
 letter_id: "the-reverend-william-emery-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

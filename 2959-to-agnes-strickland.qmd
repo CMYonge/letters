@@ -6,6 +6,7 @@ location: "Otterbourn nr Winchester"
 manuscript: "MS Pierpont Morgan Library, New York,  MA 4500."
 post_id: 2959
 letter_id: "to-agnes-strickland"
+google-scholar: true
 citation:
   type: personal_communication
   author:

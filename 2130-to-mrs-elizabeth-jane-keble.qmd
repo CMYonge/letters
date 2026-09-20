@@ -5,6 +5,7 @@ letter_date: "Aug 6th [1866?]"
 manuscript: "MS Lambeth Palace Library Keble Deposit 4/143"
 post_id: 2130
 letter_id: "to-mrs-elizabeth-jane-keble"
+google-scholar: true
 citation:
   type: personal_communication
   author:

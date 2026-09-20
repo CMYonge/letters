@@ -5,6 +5,7 @@ letter_date: "Jan 7th [1867]"
 manuscript: "MS University of Iowa; MsL/Y56ma1"
 post_id: 2144
 letter_id: "to-alexander-macmillan-114"
+google-scholar: true
 citation:
   type: personal_communication
   author:

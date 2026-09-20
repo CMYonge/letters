@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Charlotte Mitchell"
 post_id: 2788
 letter_id: "to-the-hon-mrs-montgomery-moore-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

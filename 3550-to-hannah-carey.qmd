@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Columbia University Library, New York: Ray Collection."
 post_id: 3550
 letter_id: "to-hannah-carey"
+google-scholar: true
 citation:
   type: personal_communication
   author:

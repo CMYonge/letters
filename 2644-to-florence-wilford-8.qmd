@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Miss Barbara Dennis.  Part facsimile in Dennis, [<i>Charlotte Yonge</i>](other_books/otherbook_55.qmd) following 45.   Printed in Coleridge, <i>Life</i> 319"
 post_id: 2644
 letter_id: "to-florence-wilford-8"
+google-scholar: true
 citation:
   type: personal_communication
   author:

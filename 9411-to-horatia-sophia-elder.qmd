@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Houghton Library, Harvard University,  Eng 1635 (20)"
 post_id: 9411
 letter_id: "to-horatia-sophia-elder"
+google-scholar: true
 citation:
   type: personal_communication
   author:

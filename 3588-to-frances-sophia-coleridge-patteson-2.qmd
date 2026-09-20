@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Columbia University Library, New York:  Samuels, J.H. Collection"
 post_id: 3588
 letter_id: "to-frances-sophia-coleridge-patteson-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

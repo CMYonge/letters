@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS West Devon Record Office Acc No 308: 30/9/1844"
 post_id: 2944
 letter_id: "to-alethea-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "[Dogmersfield](organizations/other_121.qmd)"
 manuscript: "MS Hampshire Record Office 9M55F55/4/1"
 post_id: 3087
 letter_id: "to-anne-sturges-bourne-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

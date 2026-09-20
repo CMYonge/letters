@@ -5,6 +5,7 @@ letter_date: "Aug 24th 1860"
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1860/2"
 post_id: 1802
 letter_id: "to-ann-maria-carter-smith-37"
+google-scholar: true
 citation:
   type: personal_communication
   author:

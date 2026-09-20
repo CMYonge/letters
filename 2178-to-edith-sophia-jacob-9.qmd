@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 2178
 letter_id: "to-edith-sophia-jacob-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

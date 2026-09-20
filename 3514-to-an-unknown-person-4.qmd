@@ -5,6 +5,7 @@ letter_date: "[1850s or 1860s?]"
 manuscript: "MS fragment  Charlotte Mitchell/23"
 post_id: 3514
 letter_id: "to-an-unknown-person-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

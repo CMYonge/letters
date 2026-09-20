@@ -5,6 +5,7 @@ letter_date: "March 19th [1866]"
 manuscript: "MS British Library Add MSS 54920: 148-149"
 post_id: 2108
 letter_id: "to-alexander-macmillan-73"
+google-scholar: true
 citation:
   type: personal_communication
   author:

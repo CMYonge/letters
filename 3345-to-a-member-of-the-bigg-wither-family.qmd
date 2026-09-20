@@ -5,6 +5,7 @@ letter_date: "April 28, 1897."
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd),  328."
 post_id: 3345
 letter_id: "to-a-member-of-the-bigg-wither-family"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Resource Center, University of Texas at Austin"
 post_id: 2760
 letter_id: "to-an-unknown-man-19"
+google-scholar: true
 citation:
   type: personal_communication
   author:

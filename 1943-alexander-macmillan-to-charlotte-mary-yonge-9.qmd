@@ -5,6 +5,7 @@ letter_date: "March 9.1864"
 manuscript: "Copy outletter book British Library Add MSS.55382 P. 267"
 post_id: 1943
 letter_id: "alexander-macmillan-to-charlotte-mary-yonge-9"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield,"
 manuscript: "MS location unknown, printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 308."
 post_id: 2926
 letter_id: "to-elizabeth-barnett-24"
+google-scholar: true
 citation:
   type: personal_communication
   author:

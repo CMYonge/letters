@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS UCLA: collection 100: box 95"
 post_id: 2776
 letter_id: "to-kathleen-o%e2%80%99meara"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS Lambeth Palace Library  3996 f.105-6"
 post_id: 2566
 letter_id: "to-mrs-alfred-wigan"
+google-scholar: true
 citation:
   type: personal_communication
   author:

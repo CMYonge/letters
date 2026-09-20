@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS British Library Add MSS 54921: 79"
 post_id: 2658
 letter_id: "to-messrs-macmillan"
+google-scholar: true
 citation:
   type: personal_communication
   author:

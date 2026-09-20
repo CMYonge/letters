@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Bodleian Library, Oxford: MS Acland d.175.ff 178-9"
 post_id: 3210
 letter_id: "to-sarah-angelina-acland"
+google-scholar: true
 citation:
   type: personal_communication
   author:

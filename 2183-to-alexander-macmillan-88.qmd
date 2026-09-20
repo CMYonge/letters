@@ -6,6 +6,7 @@ location: "Elderfield Otterbourn"
 manuscript: "MS British Library Add MSS 54920: 181-182"
 post_id: 2183
 letter_id: "to-alexander-macmillan-88"
+google-scholar: true
 citation:
   type: personal_communication
   author:

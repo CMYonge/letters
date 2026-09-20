@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Dr Susan Walton"
 post_id: 14540
 letter_id: "to-fanny-harrison"
+google-scholar: true
 citation:
   type: personal_communication
   author:

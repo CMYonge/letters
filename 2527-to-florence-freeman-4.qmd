@@ -5,6 +5,7 @@ letter_date: "April 19th 1875"
 manuscript: "MS Taylor Institution, Oxford"
 post_id: 2527
 letter_id: "to-florence-freeman-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

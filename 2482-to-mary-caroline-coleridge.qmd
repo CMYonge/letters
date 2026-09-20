@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Victoria University of Wellington, NZ"
 post_id: 2482
 letter_id: "to-mary-caroline-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

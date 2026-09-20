@@ -6,6 +6,7 @@ location: "Puslinch"
 manuscript: "MS Miss Sarah Jardine-Willoughby"
 post_id: 2210
 letter_id: "to-the-reverend-arthur-rawson-ashwell"
+google-scholar: true
 citation:
   type: personal_communication
   author:

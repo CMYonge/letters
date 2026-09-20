@@ -6,6 +6,7 @@ location: "Hanwell Rectory, Middlesex, W."
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 2483
 letter_id: "the-reverend-derwent-coleridge-to-charlotte-mary-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

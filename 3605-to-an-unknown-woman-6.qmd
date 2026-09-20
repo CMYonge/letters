@@ -5,6 +5,7 @@ letter_date: "[after 1865]"
 manuscript: "MS Humanities Research Center, University of Texas, Austin, Charlotte M. Yonge collection"
 post_id: 3605
 letter_id: "to-an-unknown-woman-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

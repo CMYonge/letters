@@ -5,6 +5,7 @@ letter_date: "[1870s?]"
 manuscript: "MS Charlotte Mary Yonge Society/3"
 post_id: 3512
 letter_id: "to-catharine-elgie-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

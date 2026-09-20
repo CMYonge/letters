@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Charlotte Mitchell"
 post_id: 2217
 letter_id: "frances-mary-yonge-to-edith-sophia-jacob"
+google-scholar: true
 citation:
   type: personal_communication
   author:

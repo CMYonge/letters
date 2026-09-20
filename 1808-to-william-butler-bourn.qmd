@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS Helen Schinske"
 post_id: 1808
 letter_id: "to-william-butler-bourn"
+google-scholar: true
 citation:
   type: personal_communication
   author:

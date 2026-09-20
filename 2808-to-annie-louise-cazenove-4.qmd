@@ -5,6 +5,7 @@ letter_date: "[?April, 1885]"
 manuscript: "MS location unknown. Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd), 32-3."
 post_id: 2808
 letter_id: "to-annie-louise-cazenove-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Royal Hospital, Dublin"
 manuscript: "MS location unknown.  This fragment printed in Romanes, <i>[Appreciation](other_books/otherbook_241.qmd)</i> 84-5."
 post_id: 3108
 letter_id: "to-elizabeth-barnett-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

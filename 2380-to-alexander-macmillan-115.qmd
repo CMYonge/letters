@@ -6,6 +6,7 @@ location: "Ottery"
 manuscript: "MS  British Library Add MSS 54920: 239"
 post_id: 2380
 letter_id: "to-alexander-macmillan-115"
+google-scholar: true
 citation:
   type: personal_communication
   author:

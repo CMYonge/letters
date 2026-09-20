@@ -6,6 +6,7 @@ location: "Palace, Lichfield,"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 300-301"
 post_id: 2435
 letter_id: "to-sir-william-heathcote-bt-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

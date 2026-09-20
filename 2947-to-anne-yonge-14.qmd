@@ -5,6 +5,7 @@ letter_date: "All Saints [1 November 1844]"
 manuscript: "MS West Devon Record Office Acc No 308: 1/11/44"
 post_id: 2947
 letter_id: "to-anne-yonge-14"
+google-scholar: true
 citation:
   type: personal_communication
   author:

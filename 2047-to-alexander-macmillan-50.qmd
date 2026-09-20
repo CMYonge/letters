@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS British Library Add MSS 54920: 97-98"
 post_id: 2047
 letter_id: "to-alexander-macmillan-50"
+google-scholar: true
 citation:
   type: personal_communication
   author:

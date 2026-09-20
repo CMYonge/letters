@@ -4,6 +4,7 @@ letter_date: "[not dated by Romanes] [Undated]"
 manuscript: "MS location unknown.  Printed in Romanes, [<i>Appreciation</i>](other_books/otherbook_241.qmd),  181-2."
 post_id: 3520
 letter_id: "to-elizabeth-barnett"
+google-scholar: true
 citation:
   type: personal_communication
   author:

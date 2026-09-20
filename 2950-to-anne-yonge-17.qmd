@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS West Devon Record Office Acc No 308: 13/12/44"
 post_id: 2950
 letter_id: "to-anne-yonge-17"
+google-scholar: true
 citation:
   type: personal_communication
   author:

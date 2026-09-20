@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS copy Lady Margaret Hall Wordsworth MSS Box 7 Bundle 1"
 post_id: 19064
 letter_id: "to-margaret-julia-argles"
+google-scholar: true
 citation:
   type: personal_communication
   author:

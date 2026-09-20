@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS West Devon Area Record Office Ac 1092/27"
 post_id: 2338
 letter_id: "to-the-reverend-duke-yonge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

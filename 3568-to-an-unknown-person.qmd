@@ -4,6 +4,7 @@ letter_date: "Undated"
 manuscript: "MS fragment Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3568
 letter_id: "to-an-unknown-person"
+google-scholar: true
 citation:
   type: personal_communication
   author:

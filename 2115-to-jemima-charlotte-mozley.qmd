@@ -5,6 +5,7 @@ letter_date: "April 5. 1866."
 manuscript: "MS copy in the Newman archives, The Oratory, Edgbaston, Birmingham"
 post_id: 2115
 letter_id: "to-jemima-charlotte-mozley"
+google-scholar: true
 citation:
   type: personal_communication
   author:

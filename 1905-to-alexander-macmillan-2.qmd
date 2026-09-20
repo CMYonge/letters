@@ -6,6 +6,7 @@ location: "Otterbourne, Winchester."
 manuscript: "MS British Library Add 54920: : 1-2:"
 post_id: 1905
 letter_id: "to-alexander-macmillan-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

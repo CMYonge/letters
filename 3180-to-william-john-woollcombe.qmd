@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne Winchester"
 manuscript: "MS Cheltenham Ladies College 0940/279"
 post_id: 3180
 letter_id: "to-william-john-woollcombe"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Bournemouth,"
 manuscript: "MS location unknown. Printed in <i>[Musings over the Christian Year](cmy_books/cmybook_88.qmd)</i>, liii-liv."
 post_id: 2090
 letter_id: "the-reverend-john-keble-to-charlotte-mary-yonge-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

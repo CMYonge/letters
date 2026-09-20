@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS British Library Add MSS 54920: 61-62"
 post_id: 1999
 letter_id: "to-alexander-macmillan-32"
+google-scholar: true
 citation:
   type: personal_communication
   author:

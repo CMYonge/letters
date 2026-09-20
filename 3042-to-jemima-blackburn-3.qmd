@@ -5,6 +5,7 @@ letter_date: "May 13th [1854]"
 manuscript: "MS University of Illinois, Urbana Champaign: Letter 4."
 post_id: 3042
 letter_id: "to-jemima-blackburn-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

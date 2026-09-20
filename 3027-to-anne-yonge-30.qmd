@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Plymouth and West Devon Record Office 308/257"
 post_id: 3027
 letter_id: "to-anne-yonge-30"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "Guildhall Library MS ii,012 v. 25 f. 233"
 post_id: 2356
 letter_id: "to-louisa-anne-gibbs"
+google-scholar: true
 citation:
   type: personal_communication
   author:

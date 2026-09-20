@@ -5,6 +5,7 @@ letter_date: "Decr 7th 1857"
 manuscript: "MS Westcountry Studies Library, Exeter/ Yonge 1857/5"
 post_id: 3114
 letter_id: "to-ann-maria-carter-smith-14"
+google-scholar: true
 citation:
   type: personal_communication
   author:

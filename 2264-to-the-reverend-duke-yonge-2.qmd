@@ -5,6 +5,7 @@ letter_date: "[Late August 1868]"
 manuscript: "MS Princeton University, Parrish Collection, CO171: Box 29"
 post_id: 2264
 letter_id: "to-the-reverend-duke-yonge-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

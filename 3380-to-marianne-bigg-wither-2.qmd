@@ -5,6 +5,7 @@ letter_date: "August, 11 1898."
 manuscript: "MS location unknown.  Printed in Coleridge, <i>[Life](other_books/otherbook_40.qmd)</i> p. 329"
 post_id: 3380
 letter_id: "to-marianne-bigg-wither-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

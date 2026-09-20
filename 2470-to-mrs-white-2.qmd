@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Pennsylvania"
 post_id: 2470
 letter_id: "to-mrs-white-2"
+google-scholar: true
 citation:
   type: personal_communication
   author:

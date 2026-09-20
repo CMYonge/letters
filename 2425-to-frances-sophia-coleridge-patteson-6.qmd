@@ -5,6 +5,7 @@ letter_date: "December 8 [1871]"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd) 268-9"
 post_id: 2425
 letter_id: "to-frances-sophia-coleridge-patteson-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:

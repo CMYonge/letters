@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS BL Add 61896: 181"
 post_id: 19282
 letter_id: "to-george-lillie-craik"
+google-scholar: true
 citation:
   type: personal_communication
   author:

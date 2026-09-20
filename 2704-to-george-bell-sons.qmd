@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Reading University Library 228/289"
 post_id: 2704
 letter_id: "to-george-bell-sons"
+google-scholar: true
 citation:
   type: personal_communication
   author:

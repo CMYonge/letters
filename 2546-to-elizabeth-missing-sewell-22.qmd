@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Bodleian Library, Oxford: MSS. Autogr. MSS. Autogr.  d. 33 ff 245-6"
 post_id: 2546
 letter_id: "to-elizabeth-missing-sewell-22"
+google-scholar: true
 citation:
   type: personal_communication
   author:

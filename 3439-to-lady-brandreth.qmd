@@ -6,6 +6,7 @@ location: "Elderfield Otterbourne"
 manuscript: "MS Girton College Cambridge, Yonge XIV 3"
 post_id: 3439
 letter_id: "to-lady-brandreth"
+google-scholar: true
 citation:
   type: personal_communication
   author:

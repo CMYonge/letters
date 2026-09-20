@@ -6,6 +6,7 @@ location: "'Monthly Packet', 6, Paternoster Row, London E.C."
 manuscript: "MS National Library of Scotland 7179"
 post_id: 3494
 letter_id: "to-isabella-bird"
+google-scholar: true
 citation:
   type: personal_communication
   author:

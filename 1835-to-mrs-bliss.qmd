@@ -5,6 +5,7 @@ letter_date: "July 1st 1861"
 manuscript: "MS NLS 962"
 post_id: 1835
 letter_id: "to-mrs-bliss"
+google-scholar: true
 citation:
   type: personal_communication
   author:

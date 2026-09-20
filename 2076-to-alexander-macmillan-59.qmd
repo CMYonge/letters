@@ -6,6 +6,7 @@ location: "Crookham"
 manuscript: "MS British Library Add MSS 54920: 114"
 post_id: 2076
 letter_id: "to-alexander-macmillan-59"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester"
 manuscript: "MS fragment Girton College Cambridge, Yonge X 2"
 post_id: 2535
 letter_id: "to-the-bishop-of-bloemfontein"
+google-scholar: true
 citation:
   type: personal_communication
   author:

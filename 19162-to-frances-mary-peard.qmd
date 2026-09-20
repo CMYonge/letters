@@ -6,6 +6,7 @@ location: "[Tyntesfield](organizations/other_207.qmd)"
 manuscript: "MS Charlotte Mitchell/28"
 post_id: 19162
 letter_id: "to-frances-mary-peard"
+google-scholar: true
 citation:
   type: personal_communication
   author:

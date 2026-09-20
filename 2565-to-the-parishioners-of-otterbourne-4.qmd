@@ -5,6 +5,7 @@ letter_date: "November 1876"
 manuscript: "Printed in the <i>Otterbourne Parish Magazine</i>  - Hampshire Record Office 109m95/1-2"
 post_id: 2565
 letter_id: "to-the-parishioners-of-otterbourne-4"
+google-scholar: true
 citation:
   type: personal_communication
   author:

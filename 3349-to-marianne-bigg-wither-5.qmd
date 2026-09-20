@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS location unknown.  Printed in Coleridge, [<i>Life</i>](other_books/otherbook_40.qmd), 329."
 post_id: 3349
 letter_id: "to-marianne-bigg-wither-5"
+google-scholar: true
 citation:
   type: personal_communication
   author:

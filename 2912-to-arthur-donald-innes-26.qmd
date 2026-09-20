@@ -5,6 +5,7 @@ letter_date: "July 13th1889"
 manuscript: "MS Girton College Cambridge, Yonge IV 12"
 post_id: 2912
 letter_id: "to-arthur-donald-innes-26"
+google-scholar: true
 citation:
   type: personal_communication
   author:

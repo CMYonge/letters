@@ -5,6 +5,7 @@ letter_date: "July 1st 1865"
 manuscript: "MS British Library Add MSS 54920: 99-100"
 post_id: 2050
 letter_id: "to-alexander-macmillan-51"
+google-scholar: true
 citation:
   type: personal_communication
   author:

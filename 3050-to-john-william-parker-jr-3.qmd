@@ -6,6 +6,7 @@ location: "Otterbourne"
 manuscript: "MS Historical Society of Pennsylvania: Gratz Collection: Case 10, Box 36. British Authors.  Printed by Green, ['Two Popular Novelists'](other_books/otherbook_75.qmd)."
 post_id: 3050
 letter_id: "to-john-william-parker-jr-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

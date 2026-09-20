@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "UCLA: collection 100: box 95"
 post_id: 3548
 letter_id: "to-frances-sophia-coleridge-patteson"
+google-scholar: true
 citation:
   type: personal_communication
   author:

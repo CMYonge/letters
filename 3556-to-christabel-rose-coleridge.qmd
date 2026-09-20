@@ -4,6 +4,7 @@ letter_date: "Undated"
 manuscript: "MS Harry Ransom Humanities Research Center, University of, Austin"
 post_id: 3556
 letter_id: "to-christabel-rose-coleridge"
+google-scholar: true
 citation:
   type: personal_communication
   author:

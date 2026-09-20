@@ -5,6 +5,7 @@ letter_date: "Dec. 1860"
 manuscript: "MS location unknown. This fragment printed in <i>[Dulce Domum}</i>, 163-4."
 post_id: 1809
 letter_id: "to-alice-arbuthnot-moberly-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

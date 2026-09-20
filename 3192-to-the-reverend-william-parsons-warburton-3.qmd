@@ -6,6 +6,7 @@ location: "Elderfield"
 manuscript: "MS Girton College Cambridge, Yonge VIII 7"
 post_id: 3192
 letter_id: "to-the-reverend-william-parsons-warburton-3"
+google-scholar: true
 citation:
   type: personal_communication
   author:

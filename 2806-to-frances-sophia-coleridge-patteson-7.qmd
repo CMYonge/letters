@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 2806
 letter_id: "to-frances-sophia-coleridge-patteson-7"
+google-scholar: true
 citation:
   type: personal_communication
   author:

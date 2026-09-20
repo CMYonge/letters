@@ -6,6 +6,7 @@ location: "Torre Villa Yealmpton"
 manuscript: "MS Princeton University, Parrish Collection"
 post_id: 3501
 letter_id: "to-the-reverend-james-beck"
+google-scholar: true
 citation:
   type: personal_communication
   author:

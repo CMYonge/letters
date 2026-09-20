@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS Plymouth and West Devon Area Record Office Ac 1092/31"
 post_id: 2595
 letter_id: "to-augusta-boevey-pode"
+google-scholar: true
 citation:
   type: personal_communication
   author:

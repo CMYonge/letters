@@ -6,6 +6,7 @@ location: "Dogmersfield"
 manuscript: "MS Royal Institution of Cornwall, Enys No. 1428"
 post_id: 3492
 letter_id: "to-an-unknown-woman-10"
+google-scholar: true
 citation:
   type: personal_communication
   author:

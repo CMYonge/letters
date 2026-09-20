@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Harry Ransom Humanities Research Center, University of Texas, Austin"
 post_id: 3570
 letter_id: "to-miss-holbece"
+google-scholar: true
 citation:
   type: personal_communication
   author:

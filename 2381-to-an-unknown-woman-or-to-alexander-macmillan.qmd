@@ -6,6 +6,7 @@ location: "Wantage"
 manuscript: "MS British Library Add MSS 54920: 240-1"
 post_id: 2381
 letter_id: "to-an-unknown-woman-or-to-alexander-macmillan"
+google-scholar: true
 citation:
   type: personal_communication
   author:

@@ -5,6 +5,7 @@ letter_date: "[March-October 1856?]"
 manuscript: "MS Mrs Caroline Fairclough/9"
 post_id: 3084
 letter_id: "to-anna-butler-11"
+google-scholar: true
 citation:
   type: personal_communication
   author:

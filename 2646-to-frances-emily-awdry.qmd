@@ -6,6 +6,7 @@ location: "Elderfield, Otterbourne, Winchester."
 manuscript: "MS University of Kansas P357:1"
 post_id: 2646
 letter_id: "to-frances-emily-awdry"
+google-scholar: true
 citation:
   type: personal_communication
   author:

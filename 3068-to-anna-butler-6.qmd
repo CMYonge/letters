@@ -6,6 +6,7 @@ location: "Otterbourn"
 manuscript: "MS Westminster Archives Centre, Barkly MSS M:Acc 0618/80/6"
 post_id: 3068
 letter_id: "to-anna-butler-6"
+google-scholar: true
 citation:
   type: personal_communication
   author:
